@@ -34,6 +34,30 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached four prominent underground cybercrime forums<a href="https://securityaffairs.co/wordpress/115308/cyber-crime/cybercrime-forums-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspicious wave of attacks resulted in the hack of four cybercrime forums  Verified, Crdclub, Exploit, and Maza since January.
+
+
+
+Since January, a series of mysterious cyberattacks that resulted in the hack of popular Russian-language cybercrime forums.
+
+
+
+Unknown...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 06, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
