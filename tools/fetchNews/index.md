@@ -34,38 +34,6 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Samsung fixes critical Android bugs in March 2021 updates<a href="https://www.bleepingcomputer.com/news/security/samsung-fixes-critical-android-bugs-in-march-2021-updates/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-This week Samsung has started rolling out Android's March 2021 security updates to mobile devices to patch critical security vulnerabilities in the runtime, operating system, and related components. Users are advised to update their Android devices immediately to safeguard against these bugs.
-</details>
-<div style="text-align: right" markdown="1">
-BleepingComputer
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-VMware Fixes Critical RCE Vulnerability with View Planner<a href="https://cybersecuritynews.com/vmware-fixes-critical-rce-vulnerability-with-view-planner/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
- Recently, in View Planner, it's a benchmarking desktop client that is available for free, VMware has inscribed a critical unauthenticated RCE vulnerability,...
-</details>
-<div style="text-align: right" markdown="1">
-Cyber Security News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 5, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
