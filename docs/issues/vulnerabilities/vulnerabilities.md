@@ -1,0 +1,6365 @@
+---
+layout: default
+title: Vulnerabilities 
+parent: Issues 
+has_children: true
+nav_order: 900220
+---
+
+## Vulnerabilities
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privilege Escalation Bugs Patched in Linux Kernel<a href="https://www.securityweek.com/privilege-escalation-bugs-patched-linux-kernel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identified by Positive Technologies security researcher Alexander Popov, the high severity bugs resided in the virtual socket implementation of the Linux kernel. A total of five vulnerabilities were recently identified and fixed in the Linux kernel.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNAME Cloaking Scheme Renders Anti-tracking Defenses Ineffective<a href="https://cyware.com/news/cname-cloaking-scheme-renders-anti-tracking-defenses-ineffective-6da99539"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital ad companies are exploring a new technique wherein they masquerade as serving first-party, rather than third-party cookies, to circumvent the protections offered by adblocking software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug in Apple's Find My Feature Could've Exposed Users' Location Histories<a href="https://thehackernews.com/2021/03/bug-in-apples-find-my-feature-couldve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed two distinct design and implementation flaws in Apple's crowdsourced Bluetooth location tracking system that can lead to a location correlation attack and unauthorized access to the location history of the past seven days, thereby by deanonymizing users.  The&nbsp; findings &nbsp;are a consequence of an exhaustive review undertaken by the Open Wireless Link (OWL) project, a team of researchers from the Secure Mobile Networking Lab at the Technical University of Darmstadt, Germany, who have historically taken apart Apple's wireless ecosystem with the goal of identifying security and privacy issues.  In response to the disclosures on July 2, 2020, Apple is said to have partially addressed the issues, stated the researchers, who used their own data for the study citing privacy implications of the analysis.  How Find My Works?  Apple devices come with a feature called&nbsp; Find My &nbsp;that makes it easy for users to locate other Apple devices, includ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Exchange updates can install without fixing vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-updates-can-install-without-fixing-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to the critical nature of recently issued Microsoft Exchange security updates, admins need to know that the updates may have installation issues on servers where User Account Control (UAC) is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Cisco Products Exposed to DoS Attacks Due to Snort Vulnerability<a href="https://www.securityweek.com/several-cisco-products-exposed-dos-attacks-due-snort-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2021-1285 and rated high severity, can be exploited by an unauthenticated, adjacent attacker to cause a DoS condition by sending it specially crafted Ethernet frames.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five privilege escalation flaws fixed in Linux Kernel<a href="https://securityaffairs.co/wordpress/115296/security/privilege-escalation-flaws-linux-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found five vulnerabilities in the Linux kernel, tracked as&nbsp;CVE-2021-26708,&nbsp;that could lead to local privilege escalation.
+
+
+
+Positive Technologies researcher Alexander Popov found five high severity vulnerabilities in the Linux kernel that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hijacking traffic to Microsoft’s windows.com with bitflipping<a href="https://www.bleepingcomputer.com/news/security/hijacking-traffic-to-microsoft-s-windowscom-with-bitflipping/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher was able to bitsquat Microsoft's windows.com domain by cybersquatting variations of windows.com. Adversaries can abuse this tactic to conduct automated attacks or collect data due to the nature of bit flipping.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supermicro, Pulse Secure release fixes for 'TrickBoot' attacks<a href="https://www.bleepingcomputer.com/news/security/supermicro-pulse-secure-release-fixes-for-trickboot-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supermicro and Pulse Secure have released advisories warning that some of their motherboards&nbsp;are vulnerable to the TrickBot malware's UEFI firmware-infecting module, known as TrickBoot.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware releases fix for severe View Planner RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/vmware-releases-fix-for-severe-view-planner-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a&nbsp;high severity unauth RCE vulnerability in VMware View Planner, allowing attackers to abuse servers running unpatched software for remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses Remote Code Execution issue in View Planner<a href="https://securityaffairs.co/wordpress/115285/security/vmware-view-planner-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released a security patch for a remote code execution vulnerability that affects the VMware View Planner product.
+
+
+
+VMware released a security patch for a remote code execution flaw, tracked as CVE-2021-21978, that affects the VMware View Planner.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Remote Code Execution Vulnerability in View Planner<a href="https://www.securityweek.com/vmware-patches-remote-code-execution-vulnerability-view-planner?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the release of View Planner 4.6 Security Patch 1 on March 2, VMware fixes CVE-2021-21978, an issue that could allow an attacker to execute code remotely. The bug features a CVSS score of 8.6.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows DNS SIGRed bug gets first public RCE PoC exploit<a href="https://www.bleepingcomputer.com/news/security/windows-dns-sigred-bug-gets-first-public-rce-poc-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A working proof-of-concept (PoC)&nbsp;exploit is now publicly available for the critical SIGRed Windows DNS Server remote code execution (RCE) vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Actively Exploited Chrome Zero-day Vulnerability in Chrome 89 Release – Update Now!!<a href="https://cybersecuritynews.com/google-patches-actively-exploited-chrome-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Google released Chrome 89 with several security fixes, including Chrome zero-day bug that is being exploited in wide.  The...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GRUB2 boot loader maintainers fixed hundreds of flaws<a href="https://securityaffairs.co/wordpress/115258/hacking/grub2-boot-loader-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now maintainers&nbsp;at the GRUB project have&nbsp;released security updates to address more than 100 vulnerabilities.
+
+
+
+GRUB2&nbsp;(the&nbsp;GRand&nbsp;Unified&nbsp;Bootloader version&nbsp;2) is a replacement for the original&nbsp;GRUB Legacy&nbsp;boot loader, which is now referred to as “GRUB...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now-fixed Linux kernel vulnerabilities enabled local privilege escalation (CVE-2021-26708)<a href="https://www.helpnetsecurity.com/2021/03/03/cve-2021-26708/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Alexander Popov has discovered and fixed five similar issues, tracked together as CVE-2021-26708 in the virtual socket implementation of the Linux kernel.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher finds 5 privilege escalation vulnerabilities in Linux kernel<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/researcher-finds-5-privilege-escalation-vulnerabilities-in-linux-kernel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, which were patched before public disclosure, could have allowed an attacker to potentially steal data, run administrative commands or install malware on operating systems or server applications.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Bug in WiFi Mouse App Opens PCs to Attack<a href="https://threatpost.com/unpatched-bug-in-wifi-mouse-opens-pcs-to-attack/164480/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wireless mouse-utility lacks proper authentication and opens Windows systems to attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home-Office Photos: A Ripe Cyberattack Vector<a href="https://threatpost.com/home-office-photos-cyberattack-vector/164460/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can use personal information gleaned from images to craft targeted scams, putting personal and corporate data at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GRUB2 boot loader reveals multiple high severity vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/grub2-boot-loader-reveals-multiple-high-severity-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GRUB, a popular Linux&nbsp;boot loader project has fixed multiple high severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug bounty hunter awarded $50,000 for a Microsoft account hijack flaw<a href="https://securityaffairs.co/wordpress/115230/hacking/microsoft-account-hijacking-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher received a $50,000 bug bounty by Microsoft for having reported a vulnerability that could've allowed to hijack any account.
+
+
+
+Microsoft has awarded the security researcher Laxman Muthiyah $50,000 for reporting a vulnerability that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A $50,000 Bug Could've Allowed Hackers Access Any Microsoft Account<a href="https://thehackernews.com/2021/03/a-50000-bug-couldve-allowed-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has awarded an independent security researcher $50,000 as part of its bug bounty program for reporting a flaw that could have allowed a malicious actor to hijack users' accounts without their knowledge.  Reported by Laxman Muthiyah, the vulnerability aims to brute-force the seven-digit security code that's sent to a user's email address or mobile number to corroborate his (or her) identity before resetting the password in order to recover access to the account.  Put differently, the account takeover scenario is a consequence of privilege escalation stemming from an authentication bypass at an endpoint which is used to verify the codes sent as part of the&nbsp; account recovery process .  The company addressed the issue in November 2020, before details of the flaw came to light on Tuesday.   Although there are encryption barriers and rate-limiting checks designed to prevent an attacker from repeatedly submitting all the 10 million combinations of the codes in an automa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Four Zero-Day Exchange Server Bugs<a href="https://www.infosecurity-magazine.com:443/news/microsoft-patch-four-zeroday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state attackers are currently exploiting them, it warns
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Critical Remote Code Execution Vulnerability in Android<a href="https://www.securityweek.com/google-patches-critical-remote-code-execution-vulnerability-android?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of patches for 37 vulnerabilities as part of the Android security updates for March 2021, including a fix for a critical flaw in the System component.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four zero-days in Microsoft Exchange actively exploited in the wild<a href="https://securityaffairs.co/wordpress/115194/hacking/microsoft-exchange-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released emergency out-of-band security updates for all supported Microsoft Exchange versions that fix four zero-day flaws.
+
+
+
+Microsoft has released emergency out-of-band security updates that address four zero-day issues (CVE-2021-26855,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes Critical Remote Code Execution issue in Android System component<a href="https://securityaffairs.co/wordpress/115189/mobile-2/google-android-rce-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed 37 vulnerabilities with the release of the Android security updates for March 2021, including a critical flaw in the System component.
+
+
+
+Google released security updates to address 37 vulnerabilities as part of the Android security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes actively exploited Exchange zero-day bugs, patch now<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-actively-exploited-exchange-zero-day-bugs-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released emergency out-of-band security updates for Microsoft Exchange that fix four zero-day vulnerabilities actively exploited in targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes second actively exploited Chrome zero-day bug this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-second-actively-exploited-chrome-zero-day-bug-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has fixed an actively exploited zero-day vulnerability in the Chrome&nbsp;89.0.4389.72&nbsp;version released today, March 2nd, 2021, to the&nbsp;Stable desktop channel&nbsp;for Windows, Mac, and Linux users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft issues critical Exchange Server patches to thwart wave of targeted attacks<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-issues-critical-exchange-server-patches-to-thwart-wave-of-targeted-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On a series of three blog posts to be released Tuesday, Microsoft said targeted hacking from a group operating out of China that the company calls Hafnium, linked together chains of vulnerabilities to garner access.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quarter of Healthcare Apps Contain High Severity Bugs<a href="https://www.infosecurity-magazine.com:443/news/quarter-healthcare-apps-high/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veracode urges more regular scanning of applications
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'unc0ver' Tool Can Jailbreak All iPhone Models Running iOS 11.0 - 14.3<a href="https://thehackernews.com/2021/03/new-unc0ver-tool-can-jailbreak-all.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular jailbreaking tool called "unc0ver" has been updated to support iOS 14.3 and earlier releases, thereby making it possible to unlock almost every single iPhone model using a vulnerability that Apple in January disclosed was actively exploited in the wild.  The latest release, dubbed unc0ver v6.0.0, was&nbsp; released &nbsp;on Sunday, according to its lead developer Pwn20wnd, expanding its compatibility to jailbreak any device running iOS 11.0 through iOS 14.3 using a kernel vulnerability, including iOS 12.4.9-12.5.1, 13.5.1-13.7, and 14.0-14.3.  Tracked as&nbsp; CVE-2021-1782 , the flaw is a privilege escalation vulnerability in the kernel stemming from a race condition that could cause a malicious application to elevate its privileges.   "We wrote our own exploit based on CVE-2021-1782 for #unc0ver to achieve optimal exploit speed and stability," Pwn20wnd&nbsp; said &nbsp;in a separate tweet.  The vulnerability has since been addressed by Apple as part of its iOS and iPadOS 14.4 u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Working Windows and Linux Spectre exploits found on VirusTotal<a href="https://www.bleepingcomputer.com/news/security/working-windows-and-linux-spectre-exploits-found-on-virustotal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Working exploits&nbsp;targeting&nbsp;Linux and Windows systems not patched against a three-year-old vulnerability dubbed Spectre were found by security researcher&nbsp;Julien Voisin on VirusTotal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendor Quickly Patches Serious Vulnerability in NATO-Approved Firewall<a href="https://www.securityweek.com/vendor-quickly-patches-serious-vulnerability-nato-approved-firewall?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability discovered in a firewall appliance made by Genua could be useful to threat actors once they’ve gained access to an organization’s network, according to SEC Consult.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minion privilege escalation exploit patched in SaltStack Salt project<a href="https://www.zdnet.com/article/minion-hijacking-flaw-patched-in-saltstack-salt-project/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The privilege escalation vulnerability, tracked as CVE-2020-28243, could allow "an unprivileged user to create files in any non-blacklisted directory via a command injection in a process name."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows 10 drive corruption bug — what you need to know<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-drive-corruption-bug-what-you-need-to-know/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a Windows 10 bug that could cause NTFS volumes to become corrupted by merely accessing a particular path or viewing a specially crafted file.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found a critical authentication bypass flaw in Rockwell Automation software<a href="https://securityaffairs.co/wordpress/115085/ics-scada/rockwell-automation-software-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability could be exploited by remote attackers to Rockwell Automation programmable logic controllers (PLCs).
+
+
+
+A critical authentication bypass vulnerability, tracked as CVE-2021-22681, can be exploited by remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google shares PoC exploit for critical Windows 10 Graphics RCE bug<a href="https://www.bleepingcomputer.com/news/security/google-shares-poc-exploit-for-critical-windows-10-graphics-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Project Zero, Google's 0day bug-hunting team, shared technical details and proof-of-concept (PoC) exploit code for a critical remote code execution (RCE) bug affecting a&nbsp;Windows graphics component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Cisco Systems allows a Remote Attacker to Bypass Authentication<a href="https://cybersecuritynews.com/critical-cisco-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A critical vulnerability in Cisco Systems’ intersite policy manager software could allow a remote attacker to bypass authentication. Three critical flaws fixed...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Dismisses Claims Alexa ‘Skills’ Can Bypass Security Vetting Process<a href="https://threatpost.com/amazon-dismisses-claims-alexa-skills-can-bypass-security-vetting/164316/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a number of privacy and security issues in Amazon’s Alexa skill vetting process, which could lead to attackers stealing data or launching phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unprotected Private Key Allows Remote Hacking of Rockwell Controllers<a href="https://www.securityweek.com/unprotected-private-key-allows-remote-hacking-rockwell-controllers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2021-22681 with a CVSS score of 10, was independently reported to Rockwell by researchers at the Soonchunhyang University, Kaspersky, and Claroty.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALERT: Malicious Amazon Alexa Skills Can Easily Bypass Vetting Process<a href="https://thehackernews.com/2021/02/alert-malicious-amazon-alexa-skills-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered gaps in Amazon's skill vetting process for the Alexa voice assistant ecosystem that could allow a malicious actor to publish a deceptive skill under any arbitrary developer name and even make backend code changes after approval to trick users into giving up sensitive information.  The findings were presented on Wednesday at the Network and Distributed System Security Symposium (NDSS) conference by a group of academics from Ruhr-Universität Bochum and the North Carolina State University, who analyzed 90,194 skills available in seven countries, including the US, the UK, Australia, Canada, Germany, Japan, and France.  Amazon Alexa allows third-party developers to create additional functionality for devices such as Echo smart speakers by configuring "skills" that run on top of the voice assistant, thereby making it easy for users to initiate a conversation with the skill and complete a specific task.&nbsp;   Chief among the findings is the concern that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Security Patches for Critical Flaws Affecting its Products<a href="https://thehackernews.com/2021/02/cisco-releases-security-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a maximum severity vulnerability in its Application Centric Infrastructure (ACI) Multi-Site Orchestrator (MSO) that could allow an unauthenticated, remote attacker to bypass authentication on vulnerable devices.  "An attacker could exploit this vulnerability by sending a crafted request to the affected API," the company&nbsp; said &nbsp;in an advisory published yesterday. "A successful exploit could allow the attacker to receive a token with administrator-level privileges that could be used to authenticate to the API on affected MSO and managed Cisco Application Policy Infrastructure Controller (APIC) devices."  The bug, tracked as CVE-2021-1388, ranks 10 (out of 10) on the CVSS vulnerability scoring system and stems from an improper token validation in an API endpoint of Cisco ACI MSO installed the Application Services Engine. It affects ACI MSO versions running a 3.0 release of the software.   The ACI Multi-Site Orchestrator lets customers monitor and m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Agencies Warn of Accellion Vulnerability Exploits<a href="https://www.bankinfosecurity.com/cybersecurity-agencies-warn-accellion-vulnerability-exploits-a-16057?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, the U.S. CISA along with its counterparts in the U.K., Australia, New Zealand, and Singapore warned that hackers are exploiting unpatched vulnerabilities in Accellion FTA.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes three critical bugs in ACI Multi-Site Orchestrator, Application Services Engine, and NX-OS<a href="https://securityaffairs.co/wordpress/115023/security/cisco-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed over a dozen vulnerabilities in its products, including three critical bugs in ACI Multi-Site Orchestrator, Application Services Engine, and NX-OS software.
+
+
+
+Cisco released security updates to address over a dozen vulnerabilities affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discloses technical details of Windows CVE-2021-24093 RCE flaw<a href="https://securityaffairs.co/wordpress/115008/hacking/cve-2021-24093-rce-flaw-details.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero team disclosed the details of a recently patched remote code execution vulnerability (CVE-2021-24093) in Windows Operating system. 
+
+
+
+White hat hacker at Google Project Zero disclosed the details of a recently patched Windows vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Out-of-bounds read vulnerability in Slic3r could lead to information disclosure<a href="https://blog.talosintelligence.com/2021/02/vuln-spotlight-slic3r-oob.html/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered an out-of-bounds read vulnerability in Slic3r's library. An adversary could send a target a specially crafted obj file to cause an out-of-bounds condition.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVSS as a Framework, Not a Score<a href="https://www.darkreading.com/risk/cvss-as-a-framework-not-a-score/a/d-id/1340173?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities are graded on factors such as how the vulnerable component is exposed, how difficult and reliable an attack could be, and the impact on confidentiality, integrity, and/or availability.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of VMware Center servers exposed online and potentially vulnerable to CVE-2021-21972 flaw<a href="https://securityaffairs.co/wordpress/115001/hacking/cve-2021-21972-vmware-center-scans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese security researcher&nbsp;published a PoC code&nbsp;for the CVE-2021-21972 vulnerability in VMware Center, thousands of vulnerable servers are exposed online. 
+
+
+
+A Chinese security researcher published the Proof-of-concept exploit code for the CVE-2021-21972...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Discloses Details of Remote Code Execution Vulnerability in Windows<a href="https://www.securityweek.com/google-discloses-details-remote-code-execution-vulnerability-windows?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An 8.8 CVSS score has been assigned to the vulnerability, but Microsoft has rated it critical for all affected operating systems including Windows 10, Windows Server 2016 and 2019, and Windows Server.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes maximum severity MSO auth bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-maximum-severity-mso-auth-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a maximum severity authentication bypass vulnerability found in the API endpoint of the&nbsp;Cisco ACI Multi-Site Orchestrator (MSO)&nbsp;installed on the Application Services Engine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Patches Bugs in Firefox, Now Blocks Cross-Site Cookie Tracking<a href="https://threatpost.com/mozilla-firefox-bugs-cookie-tracking/164246/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla said its Total Cookie Protection feature in Firefox 86 prevents invasive, cross-site cookie tracking.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nginx: Server misconfigurations found in the wild that expose websites to attacks<a href="https://portswigger.net/daily-swig/nginx-server-misconfigurations-found-in-the-wild-that-expose-websites-to-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Detectify have discovered a series of middleware misconfigurations in Nginx config files from GitHub that could leave web applications vulnerable to attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMWare Patches Critical RCE Flaw in vCenter Server<a href="https://threatpost.com/vmware-patches-critical-rce-flaw-in-vcenter-server/164240/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, one of three patched by the company this week, could allow threat actors to breach the external perimeter of a data center or leverage backdoors already installed to take over a system.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Node.js package vulnerable to command injection attacks<a href="https://portswigger.net/daily-swig/popular-node-js-package-vulnerable-to-command-injection-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of systeminformation, a Node.js package used for getting hardware, system, and OS information, have patched a bug that left applications vulnerable to command injection attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heavily used Node.js package has a code injection vulnerability<a href="https://www.bleepingcomputer.com/news/security/heavily-used-nodejs-package-has-a-code-injection-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The heavily downloaded Node.js library "systeminformation" has a severe command injection vulnerability tracked as CVE-2021-21315.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Releases Second Set of February Firmware Patches<a href="https://www.darkreading.com/risk/sonicwall-releases-second-set-of-february-firmware-patches/d/d-id/1340237?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security firm SonicWall today released a new set of firmware patches for its SMA 100 series products, which provide workers with remote access to internal resources.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical remote code execution flaw in vSphere HTML5 client<a href="https://www.theregister.com/2021/02/23/vmware_vsphere_critical_bugs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has revealed a critical-severity vulnerability, which is rated 9.8 on the CVSS scale and tracked as CVE-2021-21972, in the HTML5 client for its flagship vSphere hybrid cloud suite.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaws Affect VMware ESXi and vSphere Client — Patch Now<a href="https://thehackernews.com/2021/02/critical-rce-flaw-affects-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed multiple critical remote code execution (RCE) vulnerabilities in VMware ESXi and vSphere Client virtual infrastructure management platform that may allow attackers to execute arbitrary commands and take control of affected systems.  "A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server," the company&nbsp; said &nbsp;in its advisory.  The vulnerability, tracked as CVE-2021-21972, has a CVSS score of 9.8 out of a maximum of 10, making it critical in severity.   "In our opinion, the RCE vulnerability in the vCenter Server can pose no less a threat than the infamous vulnerability in Citrix (CVE-2019-19781)," said Positive Technologies' Mikhail Klyuchnikov, who discovered and reported the flaw to VMware.  "The error allows an unauthorized user to send a specially crafted request, which will later give them the opportunity
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses a critical RCE issue in vCenter Server<a href="https://securityaffairs.co/wordpress/114957/security/vmware-in-vcenter-server-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a critical remote code execution flaw, tracked as CVE-2021-21972, in vCenter Server virtual infrastructure management platform.
+
+
+
+VMware has addressed a critical remote code execution (RCE) vulnerability in the vCenter Server virtual...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day flaws in virtual event platforms provide access to personal, corporate data<a href="https://www.scmagazine.com/home/security-news/zero-day-flaws-in-virtual-event-platforms-provide-access-to-personal-corporate-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Huntress uncovered software flaws and misconfigurations – from information disclosure or PII leakage to direct access to databases and potential remote code execution – in two of the top five virtual event platforms.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical RCE bug in all default vCenter installs<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-rce-bug-in-all-default-vcenter-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical remote code execution (RCE) vulnerability in the vCenter Server virtual infrastructure management platform that may allow attackers to&nbsp;potentially take control of affected&nbsp;systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM addressed flaws in Java Runtime, Planning Analytics Workspace, Kenexa LMS<a href="https://securityaffairs.co/wordpress/114942/security/ibm-security-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM has released security patches to address high- and medium-severity vulnerabilities impacting some of its enterprise solutions.&nbsp;
+
+
+
+IBM has released security updates to address several high- and medium-severity flaws affecting some of its enterprise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keybase patches bug that kept pictures in cleartext storage on Mac, Windows clients<a href="https://www.zdnet.com/article/keybase-patches-bug-that-kept-pictures-in-cleartext-storage-on-mac-windows-clients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-23827, the bug is described as an issue which "allows an attacker to obtain potentially sensitive media (such as private pictures) in the cache and uploadtemps directories."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM issues patches for Java Runtime, Planning Analytics Workspace, Kenexa LMS<a href="https://www.zdnet.com/article/ibm-patches-vulnerabilities-in-java-runtime-planning-analytics-kenexa-lms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the tech giant published a set of security advisories laying out fixes for vulnerabilities that impact IBM Java Runtime, IBM Planning Analytics Workspace, and IBM Kenexa LMS On Premise.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SHAREit fixes security bugs in app with 1 billion downloads<a href="https://www.bleepingcomputer.com/news/security/shareit-fixes-security-bugs-in-app-with-1-billion-downloads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore-based Smart Media4U Technology said today that it fixed SHAREit vulnerabilities that may have&nbsp;allowed attackers to execute arbitrary code remotely on users' devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SHAREit fixes security bugs three months after initial report<a href="https://www.bleepingcomputer.com/news/security/shareit-fixes-security-bugs-three-months-after-initial-report/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore-based Smart Media4U Technology said today that it fixed SHAREit vulnerabilities that may have&nbsp;allowed attackers to execute arbitrary code remotely on users' devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python programming language hurries out update to tackle remote code vulnerability<a href="https://www.zdnet.com/article/python-programming-language-hurries-out-update-to-tackle-remote-code-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PSF is urging its legion of Python users to upgrade systems to Python 3.8.8 or 3.9.2, in particular to address the remote code execution (RCE) vulnerability that's tracked as CVE-2021-3177.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently fixed Windows zero-day actively exploited since mid-2020<a href="https://www.bleepingcomputer.com/news/security/recently-fixed-windows-zero-day-actively-exploited-since-mid-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that a high-severity Windows zero-day vulnerability&nbsp;patched during the February 2021 Patch Tuesday was exploited in the wild since at least the summer of 2020 according to its&nbsp;telemetry data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall releases second firmware updates for SMA 100 vulnerability<a href="https://securityaffairs.co/wordpress/114818/security/sonicwall-firmware-updates-sma-100.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security provider SonicWall released a new firmware update for an SMA-100 zero-day vulnerability that was exploited in attacks.
+
+
+
+SonicWall has released a second firmware update for the SMA-100 zero-day vulnerability that was exploited in attacks in the wild.
+
+
+
+SonicWall&nbsp;disclosed&nbsp;a...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall releases additional update for SMA 100 vulnerability<a href="https://www.bleepingcomputer.com/news/security/sonicwall-releases-additional-update-for-sma-100-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released a second firmware update for an SMA-100 zero-day vulnerability known to be used in attacks and is warning to install it immediately.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave browser leaks onion addresses in DNS traffic<a href="https://www.zdnet.com/article/brave-browser-leaks-onion-addresses-in-dns-traffic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor mode included with the Brave web browser allows users to access .onion dark web domains inside Brave private browsing windows without having to install Tor as a separate software package.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy bug in the Brave browser exposes Tor addresses to user’s DNS provider<a href="https://securityaffairs.co/wordpress/114793/deep-web/privacy-bug-brave-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A privacy bug in the Brave Browser caused the leak of the Tor onion URL addresses visited in the Tor mode by the users.
+
+
+
+A bug in the Private Window with Tor implemented in the Brave web browser could reveal the onion sites visited by the users.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Highest Number of Vulnerabilities Disclosure Reported in 2020<a href="https://cyware.com/news/highest-number-of-vulnerabilities-disclosure-reported-in-2020-65eeaf96"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of data collected by the NIST about vulnerabilities from 2020 says numbers of security loopholes in 2020 skyrocketed to create a new record.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave privacy bug exposes Tor onion URLs to your DNS provider<a href="https://www.bleepingcomputer.com/news/security/brave-privacy-bug-exposes-tor-onion-urls-to-your-dns-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brave Browser is fixing a privacy issue that leaks the Tor onion URL addresses you visit to your locally configured DNS server, exposing the dark web websites you visit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security researchers warn of critical zero-day flaws in ‘age gap’ dating app Gaper<a href="https://portswigger.net/daily-swig/security-researchers-warn-of-critical-zero-day-flaws-in-age-gap-dating-app-gaper?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical zero-day vulnerabilities in Gaper, an ‘age gap’ dating app, could be exploited to compromise any user account and potentially extort users, security researchers claim.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stored XSS Vulnerability on iCloud.com Earned Researcher $5,000<a href="https://www.securityweek.com/stored-xss-vulnerability-icloudcom-earned-researcher-5000?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw was present in the iCloud-hosted versions of Apple’s Pages and Keynote software. Exploitation involved creating a new document or presentation and entering an XSS payload into its name field.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SDK Bug Lets Attackers Spy on User’s Video Calls Across Dating, Healthcare Apps<a href="https://threatpost.com/sdk-bug-spy-calls-dating-healthcare-apps/164068/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apps like eHarmony and MeetMe are affected by a flaw in the Agora toolkit that went unpatched for eight months, researchers discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit Details Emerge for Unpatched Microsoft Bug<a href="https://threatpost.com/exploit-details-unpatched-microsoft-bug/164083/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious website or malicious ad can trigger an exploit for the IE zero-day bug, opening the door for data theft and code execution, new analysis notes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of Apps Contain at Least One Serious Exploitable Vulnerability<a href="https://www.infosecurity-magazine.com:443/news/half-apps-serious-exploitable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 70% of apps in manufacturing have at least one serious vulnerability
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The OpenSSL Project addressed three vulnerabilities<a href="https://securityaffairs.co/wordpress/114712/security/openssl-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project addressed three vulnerabilities, including two denial-of-service (DoS) issues and a bug in the SSLv2 rollback protection.
+
+
+
+The OpenSSL Project released security patches to address three vulnerabilities, two denial-of-service (DoS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agora SDK Bug Left Several Video Calling Apps Vulnerable to Snooping<a href="https://thehackernews.com/2021/02/agora-sdk-bug-left-several-video.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe security vulnerability in a popular video calling software development kit (SDK) could have allowed an attacker to spy on ongoing private video and audio calls.  That's according to new research published  by the McAfee Advanced Threat Research (ATR) team today, which found the aforementioned flaw in Agora.io's SDK used by several social apps such as eHarmony, Plenty of Fish, MeetMe, and Skout; healthcare apps like Talkspace, Practo, and Dr. First's Backline; and in the Android app that's paired with "temi" personal robot.  California-based Agora is a video, voice, and live interactive streaming platform, allowing developers to embed voice and video chat, real-time recording, interactive live streaming, and real-time messaging into their apps. The company's SDKs are estimated to be embedded into mobile, web, and desktop applications across more than 1.7 billion devices globally.   McAfee disclosed the flaw (CVE-2020-25605) to Agora.io on April 20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP patches critical vulnerability in Surveillance Station NAS app<a href="https://www.bleepingcomputer.com/news/security/qnap-patches-critical-vulnerability-in-surveillance-station-nas-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has addressed a critical security vulnerability&nbsp;in the Surveillance Station&nbsp;app that allows attackers to execute malicious code remotely on network-attached storage (NAS) devices running the vulnerable software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three New Vulnerabilities Patched in OpenSSL<a href="https://www.securityweek.com/three-new-vulnerabilities-patched-openssl?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most serious of the vulnerabilities, with a severity rating of moderate, is CVE-2021-23841, a NULL pointer dereference issue that can result in a crash and a DoS condition.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The cybersecurity issues of seismic monitoring devices<a href="https://www.helpnetsecurity.com/2021/02/16/seismic-monitoring-devices-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seismic monitoring devices linked to the internet are vulnerable to cyberattacks that could disrupt data collection and processing, say researchers who have probed the devices for weak points.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Centreon says that recently disclosed campaigns only targeted obsolete versions of its open-source software<a href="https://securityaffairs.co/wordpress/114680/apt/centreon-software-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French software firm Centreon announced this week that the recently disclosed supply chain attack did not impact its paid customers.
+
+
+
+The French security agency ANSSI recently warned of a series of attacks targeting Centreon&nbsp;monitoring software used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SQLite patches use-after-free bug that left apps open to code execution, denial-of-service exploits<a href="https://portswigger.net/daily-swig/sqlite-patches-use-after-free-bug-that-left-apps-open-to-code-execution-denial-of-service-exploits?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The highest threat to systems running affected versions of SQLite, a C-language library that implements an SQL database engine, is to system availability, according to a Red Hat Bugzilla thread.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two vulnerabilities in Advantech WebAccess/SCADA<a href="https://blog.talosintelligence.com/2021/02/advantech-web-access-scada.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local file inclusion vulnerability exists in the installation functionality of Advantech WebAccess/SCADA 9.0.1. A specially crafted application can lead to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertisers Exploited WebKit 0-Day to Redirect Browser Users to Scam Sites<a href="https://thehackernews.com/2021/02/malvertisers-exploited-webkit-0-day-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malvertising group known as "ScamClub" exploited a zero-day vulnerability in WebKit-based browsers to inject malicious payloads that redirected users to fraudulent websites gift card scams.  The attacks, first spotted  by ad security firm Confiant in late June 2020, leveraged a bug (CVE-2021–1801) that allowed malicious parties to bypass the iframe  sandboxing policy in the browser engine that powers Safari and Google Chrome for iOS and run malicious code.   Specifically, the technique exploited the manner how WebKit handles JavaScript event listeners , thus making it possible to break out of the sandbox associated with an ad's inline frame element despite the presence of "allow-top-navigation-by-user-activation" attribute that explicitly forbids any redirection unless the click event occurs inside the iframe.  To test this hypothesis, the researchers set about creating a simple HTML file containing a cross-origin sandboxed iframe and a button outside it that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram flaw could have allowed access to users secret chats<a href="https://securityaffairs.co/wordpress/114653/hacking/telegram-flaw-access-secret-chats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at Shielder&nbsp;disclosed a flaw in the Telegram app that could have exposed users' secret messages, photos, and videos to remote attackers.
+
+
+
+Researchers at cyber security firm Shielder&nbsp;discovered a critical flaw affecting iOS, Android, and macOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Baby Monitors Allow Unauthorized Viewing<a href="https://threatpost.com/baby-monitors-unauthorized-viewing/163982/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of thousands of individuals are potentially affected by this vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 Secure Boot update triggers BitLocker key recovery<a href="https://www.bleepingcomputer.com/news/microsoft/windows-10-secure-boot-update-triggers-bitlocker-key-recovery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has acknowledged an issue affecting Windows 10 customers who have installed the&nbsp;KB4535680 security update that addresses a security feature bypass vulnerability in&nbsp;Secure Boot.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches severe macOS Big Sur data loss bug<a href="https://www.zdnet.com/article/apple-patches-severe-macos-big-sur-data-loss-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past few weeks, macOS Big Sur has suffered from a bug that could cause serious data loss. The bug was introduced in Big Sur 11.2, and it made its way into the 11.3 data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Flaws Left Unpatched in SHAREit Android App with One Billion Downloads<a href="https://www.zdnet.com/article/security-bugs-left-unpatched-in-android-app-with-one-billion-downloads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bugs can be exploited to run malicious code on smartphones where the SHAREit app is installed, Echo Duan, a mobile threats analyst for security firm Trend Micro, said in a report on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched ShareIT Android App Flaw Could Let Hackers Inject Malware<a href="https://thehackernews.com/2021/02/unpatched-shareit-android-app-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple unpatched vulnerabilities have been discovered in SHAREit , a popular app with over one billion downloads, that could be abused to leak a user's sensitive data, execute arbitrary code, and possibly lead to remote code execution.  The findings come from cybersecurity firm Trend Micro's analysis of the Android version of the app, which allows users to share or transfer files between devices.  But in a worrisome twist, the flaws are yet to be patched by Smart Media4U Technology Pte. Ltd., the Singapore-based developer of the app, despite responsible disclosure three months ago.  "We decided to disclose our research three months after reporting this since many users might be affected by this attack because the attacker can steal sensitive data and do anything with the apps' permission," Trend Micro researcher Echo Duan&nbsp; said &nbsp;in a write-up. "It is also not easily detectable."   One of the flaws arises from the manner the app facilitates sharing of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many SolarWinds Customers Failed to Secure Systems Following Hack<a href="https://www.securityweek.com/many-solarwinds-customers-failed-secure-systems-following-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many companies still expose SolarWinds Orion to the internet and have failed to take action following the disclosure of the massive SolarWinds breach, according to RiskRecon.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular SHAREit app is affected by severe flaws yet to be fixed<a href="https://securityaffairs.co/wordpress/114636/mobile-2/shareit-app-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in the popular file-sharing app SHAREit have yet, to be addressed, experts from Trend Micro warned.
+
+
+
+SHAREit is a popular file-sharing Android app with more than one billion downloads, experts from Trend Micro discovered multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular SHAREit app is affected by severe flaws yet to be fixed<a href="https://securityaffairs.co/wordpress/114636/uncategorized/shareit-app-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in the popular file-sharing app SHAREit have yet, to be addressed, experts from Trend Micro warned.
+
+
+
+SHAREit is a popular file-sharing Android app with more than one billion downloads, experts from Trend Micro discovered multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Sticker Sent On Telegram Could Have Exposed Your Secret Chats<a href="https://thehackernews.com/2021/02/a-sticker-sent-on-telegram-could-have.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed details of a now-patched flaw in the Telegram messaging app that could have exposed users' secret messages, photos, and videos to remote malicious actors.  The issues were discovered by Italy-based Shielder in iOS, Android, and macOS versions of the app. Following responsible disclosure, Telegram addressed them in a series of patches on September 30 and October 2, 2020.  The flaws stemmed from the way secret chat functionality operates and in the app's handling of&nbsp; animated stickers , thus allowing attackers to send malformed stickers to unsuspecting users and gain access to messages, photos, and videos that were exchanged with their Telegram contacts through both classic and secret chats.   One caveat of note is that exploiting the flaws in the wild may not have been trivial, as it requires chaining the aforementioned weaknesses to at least one additional vulnerability in order to get around security defenses in modern devices tod
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes command injection issue in vSphere Replication<a href="https://securityaffairs.co/wordpress/114619/security/vmware-command-injection-vsphere-replication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches for a potentially serious vulnerability affecting the vSphere Replication product.
+
+
+
+VMware has recently released security patches to address a serious command injection vulnerability, tracked as CVE-2021-21976, in its vSphere...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes command injection issue in vSphere Replication<a href="https://securityaffairs.co/wordpress/114619/security/vmware-fixes-command-injection-issue-in-vsphere-replication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches for a potentially serious vulnerability affecting the vSphere Replication product.
+
+
+
+VMware has recently released security patches to address a serious command injection vulnerability, tracked as CVE-2021-21976, in its vSphere...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes Issues eCall Recall<a href="https://www.infosecurity-magazine.com:443/news/mercedes-ecall-recall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over a million Mercedes-Benz cars recalled due to bug in emergency call system
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in VMware vSphere Replication Can Facilitate Attacks on Enterprises<a href="https://www.securityweek.com/vulnerability-vmware-vsphere-replication-can-facilitate-attacks-enterprises?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several versions of the product are affected by a high-severity (important) command injection vulnerability that can be exploited by a hacker with admin privileges to execute shell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto firewall software vulnerability quartet revealed<a href="https://portswigger.net/daily-swig/palo-alto-firewall-software-vulnerability-quartet-revealed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Using these vulnerabilities, an attacker can gain access to sensitive data, disrupt the availability of firewall components or gain access to internal network segments,” the researchers warn.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal addresses reflected XSS bug in user wallet currency converter<a href="https://securityaffairs.co/wordpress/114570/hacking/paypal-reflected-xss-wallet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PayPal has addressed a reflected cross-site scripting (XSS) vulnerability that affected the currency converter feature of user wallets.&nbsp;
+
+
+
+PayPal has fixed a reflected cross-site scripting (XSS) vulnerability that was discovered in the currency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI’s alert warns about using Windows 7 and TeamViewer<a href="https://securityaffairs.co/wordpress/114557/security/fbis-alert-warns-about-using-windows-7-and-teamviewer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning companies about the use of out-of-date Windows 7 systems, desktop sharing software TeamViewer, and weak account passwords.
+
+
+
+The FBI issues this week a Private Industry Notification (PIN) alert to warn companies about the risks of using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Chess.com Allowed Access to 50 Million User Records<a href="https://www.hackread.com/vulnerability-chess-com-50-million-user-records-accessed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability in Chess.com's API could have been exploited to access any account on the site. It could also be used to gain full access to the site through its admin panel.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Patches 21 Vulnerabilities in 2 Tools<a href="https://www.govinfosecurity.com/siemens-patches-21-vulnerabilities-in-2-tools-a-15983?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has mitigated 21 vulnerabilities in two of its virtualization software tools that, if exploited, could enable attackers to gain remote control, exfiltrate data or cause systems to crash.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal Mitigates XSS Vulnerability<a href="https://www.cuinfosecurity.com/paypal-mitigates-xss-vulnerability-a-15984?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PayPal vulnerability was discovered in February 2020 by a security researcher who goes by the name Cr33pb0y, who was paid $2,900 as part of HackerOne's bug bounty program.
+</details>
+<div style="text-align: right" markdown="1">
+Cuinfosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copycats emerge after researcher exploits design flaw to breach Microsoft, Apple, Tesla<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/exploit-of-design-in-microsoft-apple-and-tesla-bring-copycats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pseudonymous authors published more than 150 copycat packages just three days after Sonatype published research around a software supply chain flaw, attempting to exploit the vulnerabilities in the brief window before a patch. Ethical hacker and security researcher Alex Birsan posted a blog on Feb. 9 that detailed how he used dependency, or namespace confusion,…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities hit record high in 2020, topping 18,000<a href="https://www.scmagazine.com/home/security-news/cves-break-record-in-2020-topping-18000/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams were under siege last year, according to research analyzing 2020 NIST data on common vulnerabilities and exposures (CVEs) that found more security flaws – 18,103 – were disclosed in 2020 than in any other year to date. To understand the significance, there were far more “critical” and “high severity” vulnerabilities in 2020 (10,342)…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram 'Secret Chat' didn't delete self-destructing media files<a href="https://www.bleepingcomputer.com/news/security/telegram-secret-chat-didnt-delete-self-destructing-media-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram has fixed a security issue where self-destructing audio and video recording were not being deleted from user's macOS devices as expected.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Docker Containers Could Land You in Trouble<a href="https://cyware.com/news/misconfigured-docker-containers-could-land-you-in-trouble-9d992bb7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber adversaries have been found injecting cryptomining malware via exposed Redis instances, that give full access to all the running containers on Docker Hub, in an ongoing campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIM’s Red Team Research (RTR) discovered a critical zero-day vulnerability in IBM InfoSphere Information Server<a href="https://securityaffairs.co/wordpress/114520/hacking/zero-day-ibm-infosphere-information-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at TIM’s Red Team Research discovered a zero-day vulnerability in IBM InfoSphere Information Server. 
+
+
+
+Today, TIM’s Red Team Research led by Massimiliano Brolli, discovered a new critical vulnerability in IBM InfoSphere Information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly Two-Thirds of CVEs Are Low Complexity<a href="https://www.infosecurity-magazine.com:443/news/nearly-twothirds-of-cves-are-low/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Similar number in 2020 required no user interaction, says Redscan
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret Chat in Telegram Left Self-Destructing Media Files On Devices<a href="https://thehackernews.com/2021/02/secret-chat-in-telegram-left-self.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular messaging app Telegram fixed a privacy-defeating bug in its macOS app that made it possible to access self-destructing audio and video messages long after they disappeared from secret chats.  The vulnerability was&nbsp; discovered &nbsp;by security researcher Dhiraj Mishra in version 7.3 of the app, who disclosed his findings to Telegram on December 26, 2020. The issue has since been resolved in&nbsp; version 7.4 , released on January 29.  Unlike Signal or WhatsApp, conversations on Telegram by default are not end-to-end encrypted, unless users explicitly opt to enable a device-specific feature called " secret chat ," which keeps data encrypted even on Telegram servers. Also available as part of secret chats is the option to send self-destructing messages.   What Mishra found was that when a user records and sends an audio or video message via a regular chat, the application leaked the exact path where the recorded message is stored in ".mp4" format. With the secret chat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singtel Supply Chain Breach Traced to Zero-Day Bug<a href="https://www.infosecurity-magazine.com:443/news/singtel-supply-chain-breach-traced/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accellion’s legacy FTA product was also exploited in New Zealand bank attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Explorer 11 zero-day vulnerability gets unofficial micropatch<a href="https://www.bleepingcomputer.com/news/security/internet-explorer-11-zero-day-vulnerability-gets-unofficial-micropatch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Internet Explorer 11 zero-day vulnerability used against security researchers, not yet fixed by Microsoft, today received a micropatch that prevents exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deskpro XSS flaws could hijack admin sessions, take over helpdesk agent accounts<a href="https://www.scmagazine.com/home/security-news/deskpro-xss-flaws-could-hijack-admin-sessions-take-over-helpdesk-agent-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers could have exploited cross-site scripting (XSS) vulnerabilities found in popular helpdesk platform Deskpro to hijack the sessions of administrators and takeover the accounts of helpdesk agents. This would give the attackers the same privileges as admins and agents in terms of what they could execute or information they are exposed to, according to a…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Explorer 11 zero-day vulnerability gets a free micropatch<a href="https://www.bleepingcomputer.com/news/security/internet-explorer-11-zero-day-vulnerability-gets-a-free-micropatch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Internet Explorer 11 zero-day vulnerability used against security researchers, not yet fixed by Microsoft, today received a micropatch that prevents exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+If you use Slack on Android, reset your password now<a href="https://www.businessinsider.in/tech/apps/news/slack-users-on-android-must-reset-password/articleshow/80826255.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack found that one of its app versions on Android was storing passwords in plaintext, leaving affected users vulnerable. The company has fixed the bug and is now starting to intimate affected users to reset their passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Business Insider
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Buggy WordPress plugin exposes 100K sites to takeover attacks<a href="https://www.bleepingcomputer.com/news/security/buggy-wordpress-plugin-exposes-100k-sites-to-takeover-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical and high severity vulnerabilities in the Responsive Menu WordPress plugin exposed over 100,000 sites to takeover attacks as discovered by Wordfence.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Patches 21 More File Parsing Vulnerabilities in PLM Products<a href="https://www.securityweek.com/siemens-patches-21-more-file-parsing-vulnerabilities-plm-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities can be exploited by an attacker for arbitrary code execution, data extraction, and DoS attacks if they can trick the targeted user into opening a malicious file.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Windows Defender Vulnerability Lurked Undetected for 12 Years<a href="https://www.wired.com/story/windows-defender-vulnerability-twelve-years/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, discovered by researchers at the security firm SentinelOne, showed up in a driver that Windows Defender uses to delete the invasive files and infrastructure that malware can create.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel fixes vulnerabilities in Windows, Linux graphics drivers<a href="https://www.bleepingcomputer.com/news/security/intel-fixes-vulnerabilities-in-windows-linux-graphics-drivers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel addressed&nbsp;57 vulnerabilities during this month's Patch Tuesday, including high severity ones impacting Intel&nbsp;Graphics Drivers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal fixes reflected XSS vulnerability in user wallet currency converter<a href="https://www.zdnet.com/article/paypal-fixes-reflected-xss-vulnerability-in-business-wallet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First disclosed on February 19, 2020, by a bug bounty hunter who goes by the name "Cr33pb0y" on HackerOne, the vulnerability is described as a "reflected XSS and CSP bypass" issue.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+12-year-old Windows Defender bug gives hackers admin rights<a href="https://www.bleepingcomputer.com/news/security/12-year-old-windows-defender-bug-gives-hackers-admin-rights/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a&nbsp;privilege escalation vulnerability in Microsoft Defender Antivirus (formerly Windows Defender) that could allow attackers to gain admin rights on unpatched Windows systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento security: Multiple critical flaws give e-commerce sites ample reason to update<a href="https://portswigger.net/daily-swig/magento-security-multiple-critical-flaws-give-e-commerce-sites-ample-reason-to-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce sites that rely on the widely used Magento platform ought to update their installations following the release of a batch of security updates, some of which are critical.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP addresses a critical flaw in SAP Commerce Product<a href="https://securityaffairs.co/wordpress/114450/security/sap-commerce-product-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP released seven new security notes on February 2021 Security Patch Day, including a&nbsp;Hot News&nbsp;note for a critical issue affecting SAP Commerce.
+
+
+
+SAP released seven new security notes on February 2021 Security Patch Day and updated six previously...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Squashes High-Severity Graphics Driver Flaws<a href="https://threatpost.com/intel-graphics-driver-flaws/163810/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel is warning on security bugs across its graphics drivers, server boards, compute modules and modems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Patches Tens of Vulnerabilities in Software, Hardware Products<a href="https://www.securityweek.com/intel-patches-tens-vulnerabilities-software-hardware-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The list of high-severity flaws includes a privilege escalation issue in the Intel Solid State Drive (SSD) Toolbox, and a denial-of-service (DoS) flaw in the XMM 7360 Cell Modem.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office February security updates patch Sharepoint, Excel RCE bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-february-security-updates-patch-sharepoint-excel-rce-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed important severity remote code execution vulnerabilities affecting multiple Office products in the January 2021 Office security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows 10 bug letting attackers trigger BSOD crashes<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-bug-letting-attackers-trigger-bsod-crashes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a bug that could allow a threat actor to create specially crafted downloads that crash Windows 10 simply by opening the folder where they are downloaded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine New ‘Number:Jack’ Vulnerabilities in Communication Protocols Could be Used to Exploit IoT and OT Devices<a href="https://www.zdnet.com/article/this-old-security-vulnerability-left-millions-of-internet-of-things-devices-vulnerable-to-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in the communications protocols used by millions of Internet of Things (IoT) and operational technology (OT) devices could allow cyber attackers to intercept and manipulate data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows 10 console bug leading to blue screens<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-console-bug-leading-to-blue-screens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a bug that could allow a threat actor to create specially crafted downloads that crash Windows 10 simply by opening the folder where they are downloaded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Big Russian hack used a technique experts had warned about for years. Why wasn’t the U.S. government ready?<a href="https://www.washingtonpost.com/technology/2021/02/09/fireeye-hack-russia-microsoft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The disastrous Russian hack of federal government networks last year relied on a powerful new trick: Digital spies penetrated so deeply that they were able to impersonate any user they wanted.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches 10-Year-Old macOS SUDO Root Privilege Escalation Bug<a href="https://thehackernews.com/2021/02/apple-patches-10-year-old-macos-sudo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has rolled out a fix for a critical sudo vulnerability in macOS Big Sur, Catalina, and Mojave that could allow unauthenticated local users to gain root-level privileges on the system.  "A local attacker may be able to elevate their privileges," Apple&nbsp; said &nbsp;in a security advisory. "This issue was addressed by updating to sudo version 1.9.5p2."  Sudo is a common utility built into most Unix and Linux operating systems that lets a user without security privileges access and run a program with the credentials of another user.  Tracked as CVE-2021-3156  (also called " Baron Samedit "), the vulnerability first came to light last month after security auditing firm Qualys&nbsp; disclosed &nbsp;the existence of a heap-based buffer overflow, which it said had been "hiding in plain sight" for almost 10 years.   The vulnerability, which was introduced in the code back in July 2011, impacts sudo versions 1.7.7 through 1.7.10p9, 1.8.2 through 1.8.31p2, and 1.9.0
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many TCP/IP stacks found vulnerable to Mitnick attack, some still unpatched<a href="https://www.scmagazine.com/home/security-news/iot/many-tcp-ip-stacks-found-vulnerable-to-mitnick-attack-some-still-unpatched/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tested stacks are used across a bevy of internet of things devices, industrial equipment and other networked products.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day and Six Publicly Disclosed CVEs Fixed by Microsoft<a href="https://www.infosecurity-magazine.com:443/news/zeroday-six-publicly-disclosed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patch Tuesday sees just 56 vulnerabilities addressed this month
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes the Windows 10 console driver crash bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-the-windows-10-console-driver-crash-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a bug that could allow a threat actor to create specially crafted downloads that crash Windows 10 simply by opening the folder where they are downloaded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes a buffer overflow issue in Reader which is exploited in the wild<a href="https://securityaffairs.co/wordpress/114422/security/adobe-reader-buffer-overflow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe released security patches for&nbsp;50 flaws affecting six products, including a zero-day flaw in Reader that has been exploited in the wild.
+
+
+
+Adobe has released security updates that address 50 vulnerabilities affecting its Adobe Acrobat, Magento,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes SUDO root privilege escalation flaw in macOS<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-sudo-root-privilege-escalation-flaw-in-macos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has fixed a sudo vulnerability in macOS Big Sur, Catalina, and Mojave, allowing any local user to gain root-level privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rampant data sharing suggests website managers lack control, visibility<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/rampant-data-sharing-suggests-website-managers-lack-control-visibility/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Website managers need better insight into their third-party app partners’ default settings and access rights, experts say.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively Exploited Windows Kernel EoP Bug Allows Takeover<a href="https://threatpost.com/exploited-windows-kernel-bug-takeover/163800/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft addressed 56 security vulnerabilities for February Patch Tuesday — including 11 critical and six publicly known. And, it continued to address the Zerologon bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft February 2021 Patch Tuesday fixes 56 bugs, including an actively exploited Windows zero-day<a href="https://securityaffairs.co/wordpress/114409/security/microsoft-february-2021-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft February 2021 Patch Tuesday addresses 56 vulnerabilities, including a flaw that is known to be actively exploited in the wild.
+
+
+
+Microsoft February 2021 Patch Tuesday security updates address 56 CVEs in multiple products, including Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit Critical Adobe Flaw to Target Windows Users<a href="https://threatpost.com/critical-adobe-windows-flaw/163789/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Adobe Reader has been exploited in “limited attacks.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges customers to patch critical Windows TCP/IP bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-urges-customers-to-patch-critical-windows-tcp-ip-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has urged customers today to install security updates for three Windows TCP/IP vulnerabilities rated as critical and high severity as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft February 2021 Patch Tuesday fixes 56 flaws, 1 zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-february-2021-patch-tuesday-fixes-56-flaws-1-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's February 2021 Patch Tuesday,&nbsp;so please be buy your Windows administrators some snacks to keep their energy up throughout the day.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Firefox Vulnerability Can Allow Code Execution If Chained With Other Bugs<a href="https://www.securityweek.com/critical-firefox-vulnerability-can-allow-code-execution-if-chained-other-bugs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An update released last week by Mozilla for Firefox 85 patches a critical information disclosure vulnerability that can be chained with other security flaws to achieve arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical Reader vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-reader-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released security updates that address an actively exploited vulnerability in Adobe Reader and other critical bugs in Adobe Acrobat, Magento, Photoshop, Animate, Illustrator, and Dreamweaver.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws in NextGen Gallery WordPress plugin still impact over 500K installs<a href="https://securityaffairs.co/wordpress/114388/security/nextgen-gallery-wordpress-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the NextGen Gallery plugin has addressed two severe CSRF vulnerabilities that could have allowed site takeover.
+
+
+
+The developers behind the NextGen Gallery plugin have fixed two critical Cross-site request forgery (CSRF)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Launching OSV - Better vulnerability triage for open source<a href="https://security.googleblog.com/2021/02/launching-osv-better-vulnerability.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For consumers of open source software, it is often difficult to map a vulnerability such as a Common Vulnerabilities and Exposures (CVE) entry to the package versions they are using.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches Open Source Vulnerabilities (OSV) database<a href="https://securityaffairs.co/wordpress/114364/security/osv-open-source-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the launch of OSV (Open Source Vulnerabilities), a vulnerability database and triage infrastructure for open source projects.
+
+
+
+Google last week announced the OSV (Open Source Vulnerabilities), a vulnerability database and triage infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pitches security standards for ‘critical’ open-source projects<a href="https://www.scmagazine.com/home/security-news/google-pitches-security-standards-for-critical-open-source-projects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a post-Solar Winds era, less structured projects are extremely vulnerable to malicious forces and human error, the software giant argues.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical vulnerability fixed in WordPress plugin with 800K installs<a href="https://www.bleepingcomputer.com/news/security/critical-vulnerability-fixed-in-wordpress-plugin-with-800k-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NextGen Gallery&nbsp;development team has addressed two severe CSRF vulnerabilities&nbsp;to protect sites from potential takeover attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With thousands of vendors, companies typically have limited grasp over supply chain security<a href="https://www.scmagazine.com/risk-management/with-thousands-of-vendors-companies-typically-have-limited-grasp-over-supply-chain-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations operate in networks that on average include 1,409 vendors. Combine that with limited resources, and supply chain security can seem an oxymoron.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberpunk 2077 bug fixed that let malicious mods take over PCs<a href="https://www.bleepingcomputer.com/news/security/cyberpunk-2077-bug-fixed-that-let-malicious-mods-take-over-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CD Projekt Red has released a hotfix for Cyberpunk 2077 to fix a remote code execution vulnerability that could be exploited by third-party data file modifications and save&nbsp;games files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Removal notice for Signal article<a href="https://www.bleepingcomputer.com/news/security/removal-notice-for-signal-article/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to conflicting information BleepingComputer has received, we have removed our original article.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal ignores proxy censorship vulnerability, says it's not a risk<a href="https://www.bleepingcomputer.com/news/security/signal-ignores-proxy-censorship-vulnerability-says-its-not-a-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signal, an end-to-end encrypted messaging platform was blocked in Iran and suggested a TLS proxy workaround to help its users bypass censorship.
+However, researchers have discovered vulnerabilities in the workaround that can render Signal's suggestions moot and pose risks for the users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Nespresso machines to have unlimited funds to purchase coffee<a href="https://securityaffairs.co/wordpress/114314/hacking/nespresso-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some commercial Nespresso machines that are used in Europe could be hacked to add unlimited funds to purchase coffee.
+
+
+
+Some Nespresso Pro machines in Europe could be hacked to add unlimited funds to purchase coffee. The attack is possible because the machines...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixes critical vulnerabilities in SSL VPN and&nbsp;web&nbsp;firewall<a href="https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-vulnerabilities-in-ssl-vpn-and-web-firewall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has fixed multiple severe vulnerabilities impacting its products.
+The vulnerabilities range from Remote Code Execution to SQL Injection, to Denial of Service (DoS) and impact the&nbsp;FortiProxy SSL VPN and&nbsp;FortiWeb&nbsp;Web Application Firewall (WAF) products.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal ignores proxy censorship vulnerability, bans researchers<a href="https://www.bleepingcomputer.com/news/security/signal-ignores-proxy-censorship-vulnerability-bans-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signal, an end-to-end encrypted messaging platform was blocked in Iran and suggested a TLS proxy workaround to help its users bypass censorship.
+However, researchers have discovered vulnerabilities in the workaround that can render Signal's suggestions moot and pose risks for the users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found critical flaws in Realtek Wi-Fi Module<a href="https://securityaffairs.co/wordpress/114280/security/realtek-rtl8195a-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical flaws in the Realtek RTL8195A Wi-Fi module could have been exploited to gain root access and take over devices' wireless communications.
+
+
+
+Researchers from Israeli IoT security firm Vdoo found six vulnerabilities in the Realtek RTL8195A Wi-Fi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes Windows 10 NTFS corruption bug in Firefox<a href="https://www.bleepingcomputer.com/news/software/mozilla-fixes-windows-10-ntfs-corruption-bug-in-firefox/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released Firefox 85.0.1 and includes a fix that prevents a Windows 10 NTFS corruption bug from being triggered from the browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome sync feature can be abused for C&amp;C and data exfiltration<a href="https://www.zdnet.com/article/google-chrome-syncing-features-can-be-abused-for-c-c-and-data-exfiltration/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have discovered they can abuse the Google Chrome sync feature to send commands to infected browsers and steal data from infected systems, bypassing traditional firewalls and other network defenses.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploits in the Wild for WordPress File Manager RCE Vulnerability (CVE-2020-25213)<a href="https://unit42.paloaltonetworks.com/cve-2020-25213/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of this vulnerability allows an attacker to upload an arbitrary file with arbitrary names and extensions, leading to Remote Code Execution (RCE) on the targeted web server.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Insufficient and rushed patching leads to more zero-day exploits<a href="https://www.scmagazine.com/home/patch-management/google-insufficient-and-rushed-patching-leads-to-more-zero-day-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The findings highlight a troubling habit that software developers can sometimes fall into: hastily scramble to issue an urgent vulnerability patch, only to move on to the next issue without fully grasping the underlying cause or crafting a wholistic fix.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched WordPress Plugin Code-Injection Bug Afflicts 50K Sites<a href="https://threatpost.com/unpatched-wordpress-plugin-code-injection/163706/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An CRSF-to-stored-XSS security bug plagues 50,000 ‘Contact Form 7’ Style users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Skype ‘spoofing vulnerabilities’ are a haven for social engineering attacks, security researcher claims<a href="https://portswigger.net/daily-swig/skype-spoofing-vulnerabilities-are-a-haven-for-social-engineering-attacks-security-researcher-claims?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the researcher, tampering is possible by sending the content, intercepting requests, and forwarding with modified code, as well as by intercepting spoofed content and changing values.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Zero-Day Afflicts Windows, Mac Users<a href="https://threatpost.com/google-chrome-zero-day-windows-mac/163688/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google warns of a zero-day vulnerability in the V8 open-source engine that’s being actively exploited by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geeni smart doorbells, cameras riddled with flaws, research finds<a href="https://www.cyberscoop.com/geeni-merkury-smart-doorbells-cameras-flaws-research/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, found in Geeni- and Merkury-branded security cameras and smart doorbells, would allow attackers to take full control of devices and remotely disable cameras in some cases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google patches an actively exploited Chrome zero-day<a href="https://www.zdnet.com/article/google-patches-an-actively-exploited-chrome-zero-day/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released today version 88.0.4324.150 of the Chrome browser for Windows, Mac, and Linux. Today's release contains only one bugfix for a zero-day vulnerability that was exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Reported in Cisco VPN Routers for Businesses—Patch ASAP<a href="https://thehackernews.com/2021/02/critical-flaws-reported-in-cisco-vpn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has rolled out fixes for multiple critical vulnerabilities in the web-based management interface of Small Business routers that could potentially allow an unauthenticated, remote attacker to execute arbitrary code as the root user on an affected device.  The&nbsp; flaws &nbsp;— tracked from CVE-2021-1289 through CVE-2021-1295 (CVSS score 9.8) — impact RV160, RV160W, RV260, RV260P, and RV260W VPN routers running a firmware release earlier than Release 1.0.01.02.  Along with the aforementioned three vulnerabilities, patches have also been released for two more&nbsp; arbitrary file write flaws &nbsp;(CVE-2021-1296 and CVE-2021-1297) affecting the same set of VPN routers that could have made it possible for an adversary to overwrite arbitrary files on the vulnerable system.   All the nine security issues were reported to the networking equipment maker by security researcher Takeshi Shiomitsu, who has previously uncovered&nbsp; similar critical flaws &nbsp;in RV110W, RV130W, and RV215W Routers that could be lever
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet addresses 4 vulnerabilities in FortiWeb web application firewalls<a href="https://securityaffairs.co/wordpress/114233/hacking/fortinet-fortiweb-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vendor Fortinet has addressed four vulnerabilities in FortiWeb web application firewalls, including a Remote Code Execution flaw.
+
+
+
+Fortinet has addressed four vulnerabilities in FortiWeb web application firewalls that were reported by Positive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Common Microsoft AD Misconfigurations that Adversaries Abuse<a href="https://www.crowdstrike.com/blog/seven-common-microsoft-ad-misconfigurations-that-adversaries-abuse/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors typically have the goal of obtaining Active Directory Domain Administrator privileges, or, in other words, complete control over the Active Directory domain.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free coffee! Belgian researcher hacks prepaid vending machines<a href="https://nakedsecurity.sophos.com/2021/02/04/free-coffee-dutch-researcher-hacks-prepaid-vending-machines/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgian cybersecurity researcher Polle Vanhoof just published a paper about an exploitable hole he found in the payment system used in some Nespresso prepaid coffee machines.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chrome Browser 0-day Under Active Attack—Update Immediately!<a href="https://thehackernews.com/2021/02/new-chrome-browser-0-day-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched a zero-day vulnerability in Chrome web browser for desktop that it says is being actively exploited in the wild.  The company released&nbsp; 88.0.4324.150 &nbsp;for Windows, Mac, and Linux, with a fix for a heap buffer overflow flaw (CVE-2021-21148) in its V8 JavaScript rendering engine.  "Google is aware of reports that an exploit for CVE-2021-21148 exists in the wild," the company said in a statement.  The security flaw was reported to Google by Mattias Buelens on January 24.   Previously on February 2, Google&nbsp; addressed six issues in Chrome , including one critical use after free vulnerability in Payments (CVE-2021-21142) and four high severity issues in Extensions, Tab Groups, Fonts, and Navigation features.  While it's typical of Google to limit details of the vulnerability until a majority of users are updated with the fix, the development comes weeks after Google and Microsoft&nbsp; disclosed &nbsp;attacks carried out by North Korean hackers against security resear
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes Chrome zero-day actively exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/google-fixes-chrome-zero-day-actively-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed an actively exploited zero-day security vulnerability in the Chrome&nbsp;88.0.4324.150 version released today, February 4th, 2020, to the&nbsp;Stable desktop channel&nbsp;for Windows, Mac, and Linux users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Allen-Bradley Flex I/O vulnerable to denial of service<a href="https://blog.talosintelligence.com/2021/02/vuln-spotlight-allen-bradley-flex-dos.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A specially crafted network request can cause a loss of communications with the device resulting in denial-of-service. An attacker can send a malicious packet to trigger this vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses Chrome zero-day flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/114224/hacking/google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed an actively exploited zero-day vulnerability, tracked as CVE-2021-21148, with the release of the Chrome&nbsp;88.0.4324.150 version.
+
+
+
+Google released Chrome&nbsp;88.0.4324.150 version that addressed an actively exploited zero-day security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial control system vulnerabilities up 25 percent in 2020<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/ics-vulnerabilities-up-25-percent-in-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research report released Thursday by Claroty said that vendors and industrial organizations must come to grips with these trends and act upon bug reports because the attacks and vulnerabilities will not abate.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities spotted in SoftMaker Office PlanMaker<a href="https://blog.talosintelligence.com/2021/02/vuln-spotlight-softmaker-office-planmaker.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An exploitable integer overflow and heap-based buffer overflow vulnerabilities exists in the PlanMaker document-parsing functionality of SoftMaker Office 2021's PlanMaker application.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Disclosed ICS Vulnerabilities Surged During Second Half of 2020<a href="https://www.infosecurity-magazine.com:443/news/ics-vulnerabilities-surge-second/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ICS vulnerabilities were up 25% year-on-year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rubbish software security patches responsible for a quarter of zero-days last year<a href="https://www.theregister.com/2021/02/03/enigma_patch_zero/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day flaws are a problem because they may be exploited for long periods of time before they're detected and dealt with. There were 24 of them in 2020, four more than in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three More Vulnerabilities Found in SolarWinds Products<a href="https://www.infosecurity-magazine.com:443/news/three-more-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers urged to patch Orion and Serv-U FTP promptly
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Incomplete Patches Caused Quarter of Zero-Days in 2020<a href="https://www.infosecurity-magazine.com:443/news/google-incomplete-patches-quarter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are capitalizing on lack of vendor thoroughness
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs Found in Popular Realtek Wi-Fi Module for Embedded Devices<a href="https://thehackernews.com/2021/02/critical-bugs-found-in-popular-realtek.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major vulnerabilities have been discovered in the Realtek RTL8195A Wi-Fi module that could have been exploited to gain root access and take complete control of a device's wireless communications.  The six flaws were&nbsp; reported &nbsp;by researchers from Israeli IoT security firm Vdoo.  The&nbsp; Realtek RTL8195A &nbsp;module is a standalone, low-power-consumption Wi-Fi hardware module targeted at embedded devices used in several industries such as agriculture, smart home, healthcare, gaming, and automotive sectors.  It also makes use of an "Ameba" API, allowing developers to communicate with the device via Wi-Fi, HTTP, and&nbsp; MQTT , a lightweight messaging protocol for small sensors and mobile devices.   Although the issues uncovered by Vdoo were verified only on RTL8195A, the researchers said they extend to other modules as well, including RTL8711AM, RTL8711AF, and RTL8710AF.  The flaws concern a mix of stack overflow, and out-of-bounds reads that stem from the Wi-Fi module's WPA2&nbsp; fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall issues firmware patch after attackers exploited critical bugs<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/sonicwall-issues-firmware-patch-after-attackers-exploited-critical-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fix addresses an exploit enabling admin credential access, and a remote code execution attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIM’s Red Team Research (RTR) discovered 2 new zero-day vulnerabilities in WordPress Plugin Limit Login Attempts Reloaded<a href="https://securityaffairs.co/wordpress/114186/hacking/zero-day-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from TIM’s Red Team Research (RTR) discovered 2 new zero-day vulnerabilities in WordPress Plugin Limit Login Attempts Reloaded
+
+
+
+Italy also joins the security bug research, with the Red Team Research laboratory of TIM, an important Italian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes actively exploited SMA 100 zero-day vulnerability<a href="https://www.bleepingcomputer.com/news/security/sonicwall-fixes-actively-exploited-sma-100-zero-day-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released a patch for the zero-day vulnerability used in attacks against the SMA 100 series of remote access appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical code execution bugs in SMB VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-code-execution-bugs-in-smb-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed multiple pre-auth remote code execution (RCE) vulnerabilities affecting several small business VPN routers and allowing attackers to execute arbitrary code as root on successfully exploited devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently discovered CVE-2021-3156 SUDO bug also affects macOS Big Sur<a href="https://securityaffairs.co/wordpress/114160/hacking/cve-2021-3156-sudo-bug-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that the recently discovered heap-based buffer overflow bug in Linux SUDO also impacts the latest version of Apple macOS Big Sur.
+
+
+
+Recently Qualys&nbsp;researchers found a Sudo vulnerability, tracked as CVE-2021-3156, that has allowed any local...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weak ACLs in Adobe ColdFusion Allow Privilege Escalation<a href="https://www.securityweek.com/weak-acls-adobe-coldfusion-allow-privilege-escalation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unprivileged user on a Windows computer could place a malicious DLL file within the installation directory of Adobe ColdFusion, which would lead to arbitrary code execution with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP detects Chrome updates as PHP backdoors<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-detects-chrome-updates-as-php-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender for Endpoint is currently detecting at least two Chrome updates as malware, tagging the Slovenian localization file bundled with the Google Chrome installer as a malicious file.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Critical Android Bugs Patched, Part of Feb. Security Bulletin<a href="https://threatpost.com/five-critical-bugs-patched-feb-security-bulletin/163623/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+February’s security update for the mobile OS includes a Qualcomm flaw rated critical, with a CVSS score of 9.8.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds patches critical vulnerabilities in the Orion platform<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-vulnerabilities-in-the-orion-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even with the security updates prompted by the recent SolarWinds Orion supply-chain attack, researchers still found some glaring vulnerabilities affecting the platform, one of them allowing code execution with top privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three new SolarWinds vulnerabilities found and patched<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/three-new-solarwinds-vulnerabilities-found-and-patched/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The discovery is the latest in what some predict will be a surge of both researchers and criminals looking at the company as a result of recent security events, which inevitably will lead to more vulnerabilities being found.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Orion Bug Allows Easy Remote-Code Execution and Takeover<a href="https://threatpost.com/solarwinds-orion-bug-remote-code-execution/163618/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The by-now infamous company has issued patches for three security vulnerabilities in total. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest macOS Big Sur also has SUDO root privilege escalation flaw<a href="https://www.bleepingcomputer.com/news/security/latest-macos-big-sur-also-has-sudo-root-privilege-escalation-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently discovered Linux SUDO privilege escalation vulnerability, CVE-2021-3156 (aka Baron Samedit) also impacts the latest Apple macOS Big Sur with no patch available yet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 New Severe Security Vulnerabilities Found In SolarWinds Software<a href="https://thehackernews.com/2021/02/3-new-severe-security-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed three severe security vulnerabilities impacting SolarWinds products, the most severe of which could have been exploited to achieve remote code execution with elevated privileges.  Two of the flaws (CVE-2021-25274 and CVE-2021-25275) were identified in the SolarWinds Orion Platform, while a third separate weakness (CVE-2021-25276) was found in the company's Serv-U FTP server for Windows,&nbsp; said &nbsp;cybersecurity firm Trustwave in technical analysis.  None of the three security issues have been exploited in the unprecedented&nbsp; supply chain attack &nbsp;targeting the Orion Platform that came to light last December.   The two sets of vulnerabilities in Orion and Serv-U FTP were disclosed to SolarWinds on December 30, 2020, and January 4, 2021, respectively, following which the company resolved the issues on January 22 and January 25.  It's highly recommended that users install the latest versions of&nbsp; Orion Platform &nbsp;and Serv-U FTP ( 15.2.2 Ho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kids’ Health Insurer’s Website Vulnerable for 7 Years<a href="https://www.inforisktoday.com/kids-health-insurers-website-vulnerable-for-7-years-a-15904?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of several thousand insurance applicants was inappropriately accessed, the organization says, but it has no evidence that anyone’s personal information was removed.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple pulls iCloud 12 for Windows 10 with Keychain sync feature<a href="https://www.bleepingcomputer.com/news/apple/apple-pulls-icloud-12-for-windows-10-with-keychain-sync-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has pulled iCloud 12 for Windows 10 from the Microsoft Store for what is believed to be issues with their new Chrome iCloud Keychain password synchronization feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Next Cyberattack Is Already Under Way<a href="https://www.newyorker.com/magazine/2021/02/08/the-next-cyberattack-is-already-under-way?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw can be harmless, but zero-days represent vulnerabilities that can be turned into weapons. And governments have been buying them and storing them in vaults, like vials of the bubonic plague.
+</details>
+<div style="text-align: right" markdown="1">
+New Yorker
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall SMA 100 zero-day exploit actively used in the wild<a href="https://www.bleepingcomputer.com/news/security/sonicwall-sma-100-zero-day-exploit-actively-used-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A SonicWall&nbsp;SMA 100 zero-day vulnerability is being actively exploited in the wild, according to a tweet by cybersecurity firm NCC Group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Libgcrypt Crypto Bug Opens Machines to Arbitrary Code<a href="https://threatpost.com/critical-libgcrypt-crypto-bug-arbitrary-code/163546/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw in the free-source library could have been ported to multiple applications.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patient Monitor Plagued by Security Vulnerabilities<a href="https://insinuator.net/2021/02/manimed-innokas-yhtyma-oy-vc150-patient-monitor-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The VC150’s administrative web interface is vulnerable to a stored Cross-Site Scripting vulnerability (CVE-2020-27262). Further, the device can be shut down via keystroke injection.
+</details>
+<div style="text-align: right" markdown="1">
+Insinuator
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of active exploitation of SonicWall zero-day in the wild<a href="https://securityaffairs.co/wordpress/114080/hacking/sonicwall-zero-day-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the security firm NCC Group warn of the exploitation in the wild of a SonicWall zero-day vulnerability.
+
+
+
+Security experts from the firm NCC Group have detected "indiscriminate" exploitation of a SonicWall zero-day in attacks in the wild,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discloses a severe flaw in widely used Libgcrypt encryption library<a href="https://securityaffairs.co/wordpress/114076/security/libgcrypt-encryption-library-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google discovered a flaw in GNU Privacy Guard (GnuPG)'s Libgcrypt encryption library that could be exploited to get remote code execution.
+
+
+
+The popular white hat hacker Tavis Ormandy of Google Project Zero discovered a severe heap buffer overflow flaw...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Spot SonicWall Exploit in the Wild<a href="https://www.infosecurity-magazine.com:443/news/researchers-spot-sonicwall-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCC Group urges customers to check logs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall zero-day exploited in the wild<a href="https://www.zdnet.com/article/sonicwall-zero-day-exploited-in-the-wild/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers believe they identified the same zero-day vulnerability that a mysterious threat actor used to gain access to SonicWall's internal network in a security breach disclosed on January 23.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploiting a bug in Azure Functions to escape Docker<a href="https://securityaffairs.co/wordpress/114061/hacking/azure-functions-escape-docker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert disclosed an unpatched vulnerability in Microsoft Azure Functions that could be exploited to escape the Docker container hosting them.
+
+
+
+Cybersecurity researcher Paul Litvak from Intezer Lab disclosed an unpatched vulnerability in Microsoft Azure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Discloses Severe Bug in Libgcrypt Encryption Library—Impacting Many Projects<a href="https://thehackernews.com/2021/01/google-discloses-severe-bug-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "severe" vulnerability in GNU Privacy Guard (GnuPG)'s Libgcrypt encryption software&nbsp;could have allowed an attacker to write arbitrary data to the target machine, potentially leading to remote code execution.  The flaw, which affects version 1.9.0 of libgcrypt, was discovered on January 28 by Tavis Ormandy of Project Zero, a security research unit within Google dedicated to finding zero-day bugs in hardware and software systems.  No other versions of Libgcrypt are affected by the vulnerability.  "There is a&nbsp; heap buffer overflow &nbsp;in libgcrypt due to an incorrect assumption in the block buffer management code," Ormandy&nbsp; said . "Just decrypting some data can overflow a heap buffer with attacker controlled data, no verification or signature is validated before the vulnerability occurs."   GnuPG addressed the weakness almost immediately within a day after disclosure, while urging users to&nbsp; stop using &nbsp;the vulnerable version. The latest version can be dow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux SUDO Flaw Lets Local Users Gain Root Privileges<a href="https://cybersecuritynews.com/linux-sudo-flaw-lets-local-users-gain-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ SUDO is a Unix application that enables the system administrators to yield limited root rights to regular users who admitted in the...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in open source library used by DoD, IC for satellite imagery could lead to system takeovers<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/flaws-in-open-source-library-used-by-dod-ic-for-satellite-imagery-could-lead-to-system-takeovers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two vulnerabilities discovered could lead to remote code execution, while another could lead to denial of service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Pop-Up Builder Plugin Flaw Plagues 200K Sites<a href="https://threatpost.com/wordpress-pop-up-builder-plugin-flaw-plagues-200k-sites/163500/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw could have let attackers send out custom newsletters and delete newsletter subscribers from 200,000 affected websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts addressed flaws in Popup Builder WordPress  plugin<a href="https://securityaffairs.co/wordpress/113998/hacking/popup-builder-wordpress-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple issues in WordPress 'Popup Builder' Plugin could be exploited by hackers to perform various malicious actions on affected websites.
+
+
+
+Developers behind the "Popup Builder – Responsive WordPress Pop up – Subscription &amp; Newsletter" WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 Becomes Haven for BEC Innovation<a href="https://threatpost.com/microsoft-365-bec-innovation/163508/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new phishing tactics use the platform’s automated responses to evade email filters.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in open source streaming platforms YouPHPTube and AVideo could lead to RCE<a href="https://portswigger.net/daily-swig/vulnerabilities-in-open-source-streaming-platforms-youphptube-and-avideo-could-lead-to-rce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Synacktiv discovered multiple vulnerabilities in the source code shared by the projects that were due to a lack of user input sanitization, a technical write-up reads.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Serious” vulnerability found in Libgcrypt, GnuPG’s cryptographic library<a href="https://www.helpnetsecurity.com/2021/01/29/libgcrypt-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Libgcrypt 1.9.0, the newest version of a cryptographic library integrated in the GNU Privacy Guard (GnuPG) free encryption software, has a “severe” security vulnerability, warned Werner Koch.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Installer zero-day vulnerability gets free micropatch<a href="https://www.bleepingcomputer.com/news/security/windows-installer-zero-day-vulnerability-gets-free-micropatch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Windows Installer component, which Microsoft attempted to fix several times to no avail, today received a micropatch to deny hackers the option of gaining the highest privileges on a compromised system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Functions vulnerability proves cloud users not always in control<a href="https://www.scmagazine.com/home/security-news/azure-functions-vulnerability-proves-cloud-users-not-always-in-control/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Azure Functions vulnerability lets an attacker escalate privileges and escape the Azure Functions Docker to the Docker host. After an internal assessment, Microsoft determined that the vulnerability has no security impact on Azure Functions users because the Docker host itself gets protected by a Microsoft Hyper-V boundary, according to researchers from Intezer…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pirated themes and plugins are the most widespread threat to WordPress sites<a href="https://www.zdnet.com/article/pirated-themes-and-plugins-are-the-most-widespread-threat-to-wordpress-sites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Overall, the Wordfence scanner found malware originating from a nulled plugin or theme on 206,000 sites, accounting for over 17% of all infected sites," Wordfence said on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Potential remote code execution vulnerability uncovered in Node.js apps<a href="https://portswigger.net/daily-swig/potential-remote-code-execution-vulnerability-uncovered-in-node-js-apps?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Made public by self-described security researcher Shoeb ‘CaptainFreak’ Patel on January 23, the research suggests that Express.js may be susceptible to local file read errors.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of high-severity flaws in Fuji Electric Tellus Lite V-Simulator and Server Lite<a href="https://securityaffairs.co/wordpress/113950/ics-scada/fuji-electric-hmi-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA published a security advisory for High-Severity flaws in some SCADA/HMI products made by Japanese company Fuji Electric.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued a security advisory to warn industrial organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Even dead employees pose a security risk when their accounts are still active<a href="https://www.scmagazine.com/home/security-news/ransomware/even-dead-employees-pose-a-security-risk-when-their-accounts-are-still-active/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attackers compromised deceased employee’s account to access a domain admin account. The incident is a sad reminder of some cyber hygiene standards too often overlooked.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Three New iOS Zero-Days<a href="https://www.scmagazine.com/home/security-news/mobile-security/apple-patches-three-new-ios-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Apple has a significant focus on making iOS secure, one researcher said increasingly complex capabilities often bring  vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘One of the most beautiful bugs I’ve seen’: Decade-old sudo bug grants Linux root access<a href="https://www.scmagazine.com/home/security-news/network-security/one-of-the-most-beautiful-bugs-ive-seen-decade-old-sudo-bug-grants-linux-root-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers and the U.S. Cyber Command are warning users about a decade-old buffer overflow bug in sudo that can grant root access to malicious users with low level access to systems. The vulnerability, discovered by Qualys and nicknamed “Baron Samedit,” affects all versions of Linux Qualys has tested against. The glitch allows users, even…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Attackers Can Now Reach Protected Network Devices via NAT Slipstreaming<a href="https://threatpost.com/remote-attackers-internal-network-devices-nat-slipstreaming/163400/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of NAT slipstreaming allows cybercriminals an easy path to devices that aren’t connected to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Docker Container Escape Bug Affects Microsoft Azure Functions<a href="https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them.  The findings come as part of Intezer Lab 's investigations into the Azure compute infrastructure.  Following disclosure to Microsoft, the Windows maker is said to have "determined that the vulnerability has no security impact on Function users, since the host itself is still protected by another defense boundary against the elevated position we reached in the container host."   Azure Functions , analogous to Amazon AWS Lambda, is a serverless solution that allows users to run event-triggered code without having to provision or manage infrastructure explicitly while simultaneously making it possible to scale and allocate compute and resources based on demand.  By incorporating Docker into the mix, it makes it possible for developers to easily deploy and run Azure F
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addresses three iOS zero-day flaws exploited in the wild<a href="https://securityaffairs.co/wordpress/113914/hacking/apple-ios-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has addressed three zero-day vulnerabilities in its iOS operating system that have been exploited in the wild.
+
+
+
+Apple has addressed three zero-day vulnerabilities in iOS that have been exploited in the wild with the release of&nbsp;security updates...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning Issued Over Hackable ADT's LifeShield Home Security Cameras<a href="https://thehackernews.com/2021/01/warning-issued-over-hackable-adts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered security vulnerabilities in ADT's Blue (formerly LifeShield) home security cameras could have been exploited to hijack both audio and video streams.  The&nbsp; vulnerabilities &nbsp;(tracked as CVE-2020-8101) were identified in the video doorbell camera by Bitdefender researchers in February 2020 before they were eventually addressed on August 17, 2020.  LifeShield was acquired by Florida-based ADT Inc. in 2019, with Lifeshield's DIY home security solutions rebranded as Blue as of January 2020. The company's products had a 33.6% market share in the U.S. last year.   The security issues in the doorbell camera allow an attacker to   Obtain the administrator password of the camera by simply knowing its MAC address, which is used to identify a device uniquely  Inject commands locally to gain root access, and  Access audio and video feeds using an unprotected&nbsp; RTSP &nbsp;(Real-Time Streaming Protocol) server   The doorbell is designed to periodically send heartbeat messages t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's how a researcher broke into Microsoft VS Code's GitHub<a href="https://www.bleepingcomputer.com/news/security/heres-how-a-researcher-broke-into-microsoft-vs-codes-github/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month a researcher was awarded a bug bounty award of an undisclosed amount after he broke into the official GitHub repository of Microsoft Visual Studio Code.
+A vulnerability in VS Code's issue management function and&nbsp;a lack of authentication checks enabled the researcher to&nbsp;obtain push access, and write to the repository.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Spotlight: Denial-of-service vulnerabilities in Micrium uc-HTTP’s HTTP server<a href="https://blog.talosintelligence.com/2021/01/vuln-spotlight-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A denial-of-service vulnerability exists in the HTTP Server functionality of Micrium uC-HTTP 3.01.00. An attacker can use a specially crafted HTTP request to trigger a denial of service condition.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heap-based buffer overflow in Linux Sudo allows local users to gain root privileges<a href="https://securityaffairs.co/wordpress/113900/hacking/sudo-vulnerability-cve-2021-3156.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-3156 Sudo vulnerability has allowed any local user to gain root privileges on Unix-like operating systems without authentication.
+
+
+
+Sudo&nbsp;is one of the most important, powerful, and commonly used utilities that comes as a core command pre-installed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Warns of 3 iOS Zero-Day Security Vulnerabilities Exploited in the Wild<a href="https://thehackernews.com/2021/01/apple-warns-of-3-ios-zero-day-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Tuesday released updates for iOS, iPadOS, and tvOS with fixes for three security vulnerabilities that it says may have been actively exploited in the wild.  Reported by an anonymous researcher, the three&nbsp; zero-day &nbsp; flaws &nbsp;— CVE-2021-1782, CVE-2021-1870, and CVE-2021-1871 — could have allowed an attacker to elevate privileges and achieve remote code execution.  The iPhone maker did not disclose how widespread the attack was or reveal the identities of the attackers actively exploiting them.   While the privilege escalation bug in the kernel (CVE-2021-1782) was noted as a race condition that could cause a malicious application to elevate its privileges, the other two shortcomings — dubbed a "logic issue" — were discovered in the WebKit browser engine (CVE-2021-1870 and CVE-2021-1871), permitting an attacker to achieve arbitrary code execution inside Safari.  Apple said the race condition and the WebKit flaws were addressed with improved locking and restrictions, resp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia Squashes High-Severity Jetson DoS Flaw<a href="https://threatpost.com/nvidia-squashes-high-severity-jetson-dos-flaw/163360/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If exploited, the most serious of these flaws could lead to a denial-of-service condition for Jetson products.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux SUDO flaw lets local users gain root privileges<a href="https://www.bleepingcomputer.com/news/security/new-linux-sudo-flaw-lets-local-users-gain-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-fixed Sudo vulnerability&nbsp;allowed any local user to gain root privileges on Unix-like operating systems without requiring authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Bug Gave Access to Contacts’ Profile Details<a href="https://www.infosecurity-magazine.com:443/news/tiktok-bug-gave-access-contacts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point reveals now-fixed vulnerability
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes severe Golang Windows RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-windows-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month Google engineers have fixed two vulnerabilities in the Go language (Golang), including a severe RCE flaw, and a cryptographic weakness.
+The RCE vulnerability tracked as&nbsp;CVE-2021-3115 mainly impacts Windows users of Go running the 'go&nbsp;get'&nbsp;command, due to the default behavior of Windows PATH lookups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok fixes flaws allowing theft of private user information<a href="https://www.bleepingcomputer.com/news/security/tiktok-fixes-flaws-allowing-theft-of-private-user-information/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ByteDance, the tech&nbsp;firm behind TikTok, has fixed a security vulnerability&nbsp;in the&nbsp;video-sharing social networking service which could have allowed attackers to steal users' private information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Bug Could Have Exposed Users' Profile Data and Phone Numbers<a href="https://thehackernews.com/2021/01/tiktok-bug-could-have-exposed-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed a now-patched security flaw in TikTok that could have potentially enabled an attacker to build a database of the app's users and their associated phone numbers for future malicious activity.  Although this flaw only impacts those users who have linked a phone number with their account or logged in with a phone number, successful exploitation of the vulnerability could have resulted in data leakage and privacy violation, Check Point Research said in an analysis  shared with The Hacker News.  TikTok has deployed a fix to address the shortcoming following responsible disclosure from Check Point researchers.   The newly discovered bug resides in TikTok's " Find friends " feature that allows users to sync their contacts with the service to identify potential people to follow.  The contacts are uploaded to TikTok via an HTTP request in the form of a list that consists of hashed contact names and the corresponding phone numbers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Exploit Windows RDP Servers to Amplify DDoS Attacks<a href="https://cybersecuritynews.com/hackers-can-exploit-windows-rdp-servers-to-amplify-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ These days, Windows Remote Desktop Protocol (RDP) servers are being exploited by DDoS-for-hire services to expand Distributed Denial of Service (DDoS) attacks....
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Claroty Discloses Multiple Critical Vulns in Vendor Implementations of Key OT Protocol<a href="https://www.darkreading.com/attacks-breaches/claroty-discloses-multiple-critical-vulns-in-vendor-implementations-of-key-ot-protocol/d/d-id/1339973?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Claroty this week disclosed multiple critical vulnerabilities in vendor implementations of the Open Platform Communications (OPC) network protocol that is widely used in operational technology (OT) networks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Discloses Details of Recently Patched Windows NTLM Vulnerability<a href="https://www.securityweek.com/crowdstrike-discloses-details-recently-patched-windows-ntlm-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the vulnerabilities that Microsoft addressed on January 2021 Patch Tuesday could allow an attacker to relay NTLM authentication sessions and then execute code remotely, using a printer spooler MSRPC interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attackers Exploit Vulnerable Microsoft RDP Servers<a href="https://www.govinfosecurity.com/ddos-attackers-exploit-vulnerable-microsoft-rdp-servers-a-15846?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting vulnerable Microsoft Remote Desktop Protocol servers to amplify various distributed denial-of-service attacks, according to a report from application and network performance firm Netscout.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco DNA Center Bug Opens Enterprises to Remote Attack<a href="https://threatpost.com/cisco-dna-center-bug-remote-attack/163302/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The high-severity security vulnerability (CVE-2021-1257) allows cross-site request forgery (CSRF) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Firms Informed About Serious Vulnerabilities in Matrikon OPC Product<a href="https://www.securityweek.com/industrial-firms-informed-about-serious-vulnerabilities-matrikon-opc-product?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial organizations have been informed about the existence of several potentially serious vulnerabilities affecting an OPC UA product made by Honeywell subsidiary Matrikon.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured Server Leaks 323,000 Cook County Court Records Containing Personal Data and Case Notes<a href="https://www.securityweek.com/illinois-court-exposes-more-323000-sensitive-records?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the day of discovery, a Saturday, WebsitePlanet informed the Cook County CTO about the exposure. Early the following Monday, the database was secured and public access restricted.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail A Recent Remotely Exploitable Windows Vulnerability<a href="https://thehackernews.com/2021/01/experts-detail-recent-remotely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a security feature bypass vulnerability in Windows NT LAN Manager ( NTLM ) that was addressed by Microsoft as part of its monthly&nbsp; Patch Tuesday updates &nbsp;earlier this month.  The flaw, tracked as&nbsp; CVE-2021-1678 &nbsp;(CVSS score 4.3), was described as a "remotely exploitable" flaw found in a vulnerable component bound to the network stack, although exact details of the flaw remained unknown.  Now according to researchers from Crowdstrike, the security bug, if left unpatched, could allow a bad actor to achieve remote code execution via an NTLM relay.   "This vulnerability allows an attacker to relay NTLM authentication sessions to an attacked machine, and use a printer spooler&nbsp; MSRPC &nbsp;interface to remotely execute code on the attacked machine," the researchers&nbsp; said &nbsp;in a Friday advisory.  NTLM relay attacks are a kind of man-in-the-middle (MitM) attacks that typically permit attackers with access to a network to intercept legitimate authe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! Fully-Functional Released Online for SAP Solution Manager Flaw<a href="https://thehackernews.com/2021/01/beware-fully-functional-released-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have warned of a publicly available fully-functional exploit that could be used to target SAP enterprise software.  The exploit leverages a vulnerability, tracked as&nbsp; CVE-2020-6207 , that stems from a missing authentication check in SAP Solution Manager (SolMan) version 7.2  SAP&nbsp; SolMan &nbsp;is an application management and administration solution that offers end-to-end application lifecycle management in distributed environments, acting as a centralized hub for implementing and maintaining SAP systems such as ERP, CRM, HCM, SCM, BI, and others.   "A successful exploitation could allow a remote unauthenticated attacker to execute highly privileged administrative tasks in the connected&nbsp; SAP SMD Agents ," researchers from Onapsis&nbsp; said , referring to the Solution Manager Diagnostics toolset used to analyze and monitor SAP systems.  The vulnerability, which has the highest possible CVSS base score of 10.0, was addressed by SAP as part of its&nbsp; March 2020 &nbsp;u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharing eBook With Your Kindle Could Have Let Hackers Hijack Your Account<a href="https://thehackernews.com/2021/01/sharing-ebook-with-your-kindle-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has addressed a number of flaws in its Kindle e-reader platform that could have allowed an attacker to take control of victims' devices by simply sending them a malicious e-book.  Dubbed " KindleDrip ," the exploit chain takes advantage of a feature called " Send to Kindle " to send a malware-laced document to a Kindle device that, when opened, could be leveraged to remotely execute arbitrary code on the device and make unauthorized purchases.  "The code runs as root, and the attacker only needs to know the email address assigned to the victim's device,"&nbsp; said &nbsp;Yogev Bar-On, a security researcher for Readlmode Labs, in a technical write-up on Thursday.  The first vulnerability lets a bad actor send an e-book to a Kindle, the second flaw allows for remote code execution while the e-book is parsed, and a third issue makes it possible to escalate privileges and run the code as the "root" user.   When linked together, these weaknesses
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP SolMan exploit released for max severity pre-auth flaw<a href="https://www.bleepingcomputer.com/news/security/sap-solman-exploit-released-for-max-severity-pre-auth-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fully-functional exploit code is now publicly available for a maximum severity pre-auth vulnerability&nbsp;impacting default configurations of an&nbsp;SAP Solution Manager (SolMan) component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KindleDrip exploit – Hacking a Kindle device with a simple email<a href="https://securityaffairs.co/wordpress/113743/hacking/kindle-kindledrip-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KindleDrip: Amazon addressed a number of flaws affecting the Kindle e-reader that could have allowed an attacker to take control of victims' devices.
+
+
+
+Security experts at&nbsp;Realmode Labs&nbsp;discovered multiple vulnerabilities in the Kindle e-reader that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shazam Vulnerability exposed location of Android, iOS users<a href="https://www.hackread.com/shazam-vulnerability-exposed-android-ios-users-location/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to Shazam having been acquired then by Apple, the researcher was asked to take up the issue with Apple which led the flaw to be finally patched on March 26, 2019, both on iOS and Android.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dnsmasq Vulnerabilities Threaten DNS Integrity<a href="https://cyware.com/news/dnsmasq-vulnerabilities-threaten-dns-integrity-cd904cbe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli researchers shared details on seven extremely critical DNS-related vulnerabilities, tracked as DNSpooq, exposing millions of devices to a variety of DNS cache poisoning attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal releases fix for critical vulnerability with known exploits<a href="https://www.bleepingcomputer.com/news/security/drupal-releases-fix-for-critical-vulnerability-with-known-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drupal has released a security update to address a critical vulnerability in a third-party library with documented or deployed exploits available in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows-native PDF viewers vulnerable to multiple attack techniques<a href="https://portswigger.net/daily-swig/pwnable-document-format-windows-pdf-viewers-outperformed-by-browser-macos-linux-counterparts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vast majority of the most popular Windows-native PDF viewers were vulnerable to multiple attack techniques exploiting standard PDF features, a team of security researchers has discovered.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail and hospitality sector fixing software flaws at a faster rate than others<a href="https://www.helpnetsecurity.com/2021/01/22/fixing-software-flaws-retail-hospitality/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The retail and hospitality sector is fixing software flaws at a faster rate than five other sectors, a recent Veracode analysis of more than 130,000 applications reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Awards $18,000 for Exploit Allowing Kindle E-Reader Takeover<a href="https://www.securityweek.com/amazon-awards-18000-exploit-allowing-kindle-e-reader-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has awarded an $18,000 bug bounty for an exploit chain that could have allowed an attacker to take complete control of a Kindle e-reader simply by knowing the targeted user’s email address.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal fixed a new flaw related PEAR Archive_Tar library<a href="https://securityaffairs.co/wordpress/113718/security/drupal-pear-archive_tar-library-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drupal development team released security updates to address a vulnerability that resides in the PEAR Archive_Tar third-party library.
+
+
+
+The Drupal development team has released security updates to address the CVE-2020-36193 vulnerability in the PEAR...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability with VLC Player 3.0.11 Let Attackers Execute Code Remotely<a href="https://cybersecuritynews.com/vlc-player-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ VLC is a free and open-source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNSpooq Vulnerability  In DNS software Let Attackers hijack Millions of Network Devices<a href="https://cybersecuritynews.com/dnspooq-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, cybersecurity experts have detected nearly 7 vulnerabilities in a very popular DNS software set that has been executed in routers and...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joe Biden's Peloton bike may pose cybersecurity risk, experts warn<a href="https://www.theguardian.com/us-news/2021/jan/21/joe-biden-peloton-fitness-bike-cybersecurity-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is not the first time the issue has been raised. A 2017 review revealed that former first lady Michelle Obama had been supplied with a modified Peloton that came without a camera or microphone.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit Allows Root Access to SAP<a href="https://www.infosecurity-magazine.com:443/news/exploit-allows-root-access-to-sap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Functional exploit affecting SAP made available to threat actors via GitHub
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of scanning activity for critical SAP SolMan flaw after the release of exploit<a href="https://securityaffairs.co/wordpress/113691/hacking/sap-solman-flaw-scannin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of automated scanning activity for servers affected by a critical SAP SolMan flaw after the release of an exploit code.
+
+
+
+Experts warn of an automated scanning activity for servers affected by&nbsp;vulnerabilities in SAP&nbsp;software, attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle's January 2021 CPU Contains 329 New Security Patches<a href="https://www.securityweek.com/oracles-january-2021-cpu-contains-329-new-security-patches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The January 2021 CPU also includes fixes for CVE-2020-14750, an exploited vulnerability in WebLogic Server, which Oracle addressed with the release of an out-of-band update on November 1, 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scanning Activity Detected After Release of Exploit for Critical SAP SolMan Flaw<a href="https://www.securityweek.com/scanning-activity-detected-after-release-exploit-critical-sap-solman-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw is a missing authorization check in the EEM Manager component of SolMan, which could allow an unauthenticated, remote attacker to execute operating system commands on hosts, as the SMDAgent.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Bug in YouTube Exposes Viewing History, Playlists of Users<a href="https://portswigger.net/daily-swig/details-of-youtube-viewing-history-exposure-bug-made-public?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opening a website with an embedded YouTube video potentially allowed miscreants to access a user’s viewing history, favorites, and playlists, due to a security bug in the embedded player.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed multiple flaws in Cisco SD-WAN products and Smart Software Manager Satellite Web UI<a href="https://securityaffairs.co/wordpress/113672/breaking-news/cisco-sd-wan-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed multiple flaws in Cisco&nbsp;SD-WAN products that could allow an unauthenticated, remote attacker to execute attacks against its devices.
+
+
+
+Cisco released security updates to address multiple flaws in Cisco&nbsp;SD-WAN products could allow an unauthenticated,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logic bugs found in popular apps, including Signal and FB Messenger<a href="https://securityaffairs.co/wordpress/113657/hacking/signal-fb-messenger-logical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws in popular messaging apps, such as Signal and FB Messenger allowed to force a target device to transmit audio to an attacker device.
+
+
+
+Google Project Zero security researcher Natalie Silvanovich found multiple flaws in popular video conferencing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco SD-WAN Bugs Allow RCE Attacks<a href="https://threatpost.com/critical-cisco-sd-wan-bugs-rce-attacks/163204/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is stoppering critical holes in its SD-WAN solutions and its smart software manager satellite. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Gamers Face DoS, Data Loss from Shield TV Bugs<a href="https://threatpost.com/nvidia-gamers-dos-data-loss-shield-tv-bugs/163200/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company also issued patches for Tesla-based GPUs as part of an updated, separate security advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical pre-auth bugs in SD-WAN, cloud license manager<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-pre-auth-bugs-in-sd-wan-cloud-license-manager/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to address&nbsp;pre-auth remote code execution (RCE) vulnerabilities affecting multiple&nbsp;SD-WAN products and the&nbsp;Cisco Smart Software Manager&nbsp;software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 88 Drops Flash, Patches Critical Vulnerability<a href="https://www.securityweek.com/chrome-88-drops-flash-patches-critical-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new browser iteration arrives with patches for a total of 36 vulnerabilities. The flaws can be exploited if the user visits or is redirected to a specially crafted webpage.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Facebook, Google chat, JioChat Let Attackers Spy on the Users<a href="https://cybersecuritynews.com/messaging-apps-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Google’s Project Zero security researcher, Natalie Silvanovich discovered a serious vulnerability in Group FaceTime which allowed an attacker to call a target...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Discloses Flaws in Signal, FB Messenger, JioChat Messaging Apps<a href="https://thehackernews.com/2021/01/google-discloses-flaws-in-signal-fb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In January 2019, a&nbsp; critical flaw &nbsp;was reported in Apple's FaceTime group chats feature that made it possible for users to initiate a FaceTime video call and eavesdrop on targets by adding their own number as a third person in a group chat even before the person on the other end accepted the incoming call.  The vulnerability was deemed so severe that the iPhone maker removed the FaceTime group chats feature altogether before the issue was resolved in a subsequent iOS update.  Since then, a number of similar shortcomings have been discovered in multiple video chat apps such as Signal, JioChat, Mocha, Google Duo, and Facebook Messenger — all thanks to the work of Google Project Zero researcher Natalie Silvanovich.  "While [the Group FaceTime] bug was soon fixed, the fact that such a serious and easy to reach vulnerability had occurred due to a logic bug in a calling state machine — an attack scenario I had never seen considered on any platform — made me wonder whether other sta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Research Pinpoints Security Soft Spot in Multiple Chat Platforms<a href="https://threatpost.com/google-research-pinpoints-security-soft-spot-in-multiple-chat-platforms/163175/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mystery of spying using popular chat apps uncovered by Google Project Zero researcher. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail and Hospitality Facing Deluge of Critical Web App Flaws<a href="https://www.infosecurity-magazine.com:443/news/retail-hospitality-deluge-critical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sector has one of the worst rates of high severity bugs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to Launch 'Enforcement Mode' for Zerologon Flaw<a href="https://www.darkreading.com/vulnerabilities---threats/microsoft-to-launch-enforcement-mode-for-zerologon-flaw/d/d-id/1339933?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned security admins that starting with its February 9 security update, it will enable Domain Controller (DC) enforcement mode by default as a means of addressing the Zerologon flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities discovered in PrusaSlicer<a href="https://blog.talosintelligence.com/2021/01/vulnerability-spotlight-out-of-bounds.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two functions in the software could be exploited with specially crafted OBJ and AMF files to cause an out-of-bounds write condition or a buffer overflow, and then execute code on the victim machine.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Reolink P2P Vulnerabilities Show IoT Security Camera Risks<a href="https://www.nozominetworks.com/blog/new-reolink-p2p-vulnerabilities-show-iot-security-camera-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nozomi Networks Labs has discovered vulnerabilities in the Peer-to-Peer (P2P) feature of a commonly used line of security cameras – Reolink, including lack of encryption and credential leakage.
+</details>
+<div style="text-align: right" markdown="1">
+Nozomi Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+List of DNSpooq vulnerability advisories, patches, and updates<a href="https://www.bleepingcomputer.com/news/security/list-of-dnspooq-vulnerability-advisories-patches-and-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, seven Dnsmasq vulnerabilities were disclosed,&nbsp;collectively known as DNSPooq, that attackers can use to launch DNS Cache Poisoning, denial of service, and possibly remote code execution attacks, on affected devices. In this article we list all the available security advisories related to these vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds attack opened up 4 separate paths to a Microsoft 365 cloud breach<a href="https://www.scmagazine.com/home/security-news/cloud-security/solarwinds-attack-opened-up-4-separate-paths-to-a-microsoft-365-cloud-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tactics expose the need for organizations to develop cohesive playbooks for breaches affecting hybrid environments.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 vulnerabilities in popular DNS forwarding software open door to range of attacks<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/7-vulnerabilities-in-popular-dns-forwarding-software-open-door-to-range-of-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at JSOF have discovered distinct spoofing and buffer overflow vulnerabilities associated with DNSMasq, used in networking devices to cache and forward Domain Name System requests.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Signal, Facebook, Google chat apps let attackers spy on users<a href="https://www.bleepingcomputer.com/news/security/bugs-in-signal-facebook-google-chat-apps-let-attackers-spy-on-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities found in multiple video conferencing mobile applications allowed attackers to listen to users' surroundings without permission before the person on the other end picked up the calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Threats Zeroing-in Again<a href="https://cyware.com/news/zero-day-threats-zeroing-in-again-0d1e72ef"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infosec researchers recently found a zero-day flaw in Windows 10, including the latest version, that allows attackers to corrupt an NTFS-formatted hard drive with a one-line command.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNSpooq bugs let attackers hijack DNS on millions of devices<a href="https://www.bleepingcomputer.com/news/security/dnspooq-bugs-let-attackers-hijack-dns-on-millions-of-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel-based security consultancy firm JSOF disclosed today seven Dnsmasq&nbsp;vulnerabilities,&nbsp;collectively known as DNSpooq,&nbsp;that can be exploited to launch&nbsp;DNS cache poisoning and remote code execution against millions of affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Set of Severe Flaws Affect Popular DNSMasq DNS Forwarder<a href="https://thehackernews.com/2021/01/a-set-of-severe-flaws-affect-popular.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered multiple vulnerabilities in Dnsmasq, a popular open-source software used for caching Domain Name System (DNS) responses, thereby potentially allowing an adversary to mount DNS&nbsp; cache poisoning attacks &nbsp;and remotely execute malicious code.  The flaws, collectively called "DNSpooq" by Israeli research firm JSOF, echoes previously disclosed weaknesses in the DNS architecture, making Dnsmasq servers powerless against a range of attacks.  "We found that Dnsmasq is vulnerable to DNS cache poisoning attack by an off-path attacker (i.e., an attacker that does not observe the communication between the DNS forwarder and the DNS server)," the researchers noted in a report published today.  "Our attack allows for poisoning of multiple domain names at once, and is a result of several vulnerabilities found. The attack can be completed successfully under seconds or few minutes, and have no special requirements. We also found that many
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Earn $50,000 for Hacking Apple Servers<a href="https://www.securityweek.com/researchers-earn-50000-hacking-apple-servers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jaiswal and Maini said their research focused on Apple hosts running a content management system (CMS) powered by Lucee, an open-source scripting language designed for developing web applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple paid a $50,000 bounty to two bug bounty hunters for hacking its hosts<a href="https://securityaffairs.co/wordpress/113572/hacking/apple-paid-bug-bounty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A duo of white hat hackers claims to have earned $50,000 from Apple for reporting serious flaws that allowed them to company's servers.
+
+
+
+The Indian white hat hackers Harsh Jaiswal and Rahul Maini claim to have discovered multiple flaws that allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoTURN patches access control protection bypass vulnerability in its VoIP system<a href="https://portswigger.net/daily-swig/voip-vulnerability-coturn-patches-access-control-protection-bypass?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Berlin-based Enable Security has urged organizations that use the open source servers, which power VoIP platforms, to apply their configuration advice as well as the latest software update.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple backdoors and vulnerabilities discovered in FiberHome routers<a href="https://www.zdnet.com/article/multiple-backdoors-and-vulnerabilities-discovered-in-fiberhome-routers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 28 backdoor accounts and several other vulnerabilities have been discovered in the firmware of a popular FTTH ONT router, widely deployed across South America and Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 bug causes a BSOD crash when opening a certain path<a href="https://www.bleepingcomputer.com/news/security/windows-10-bug-causes-a-bsod-crash-when-opening-a-certain-path/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug in Windows 10 causes the operating system to crash with a Blue Screen of Death simply by opening a certain path in a browser's address bar or using other Windows commands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws in Orbit Fox WordPress plugin allows site takeover<a href="https://securityaffairs.co/wordpress/113394/hacking/wordpress-orbit-fox-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two vulnerabilities in the Orbit Fox WordPress plugin, a privilege-escalation issue and a stored XSS bug, can allow site takeover.
+
+
+
+Security experts from Wordfence have discovered two security vulnerabilities in the Orbit Fox WordPress plugin. The flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two kids found a screensaver bypass in Linux Mint<a href="https://securityaffairs.co/wordpress/113518/hacking/screensaver-bypass-linux-mint.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the Linux Mint distro has fixed a security flaw that could have allowed users to bypass the OS screensaver.
+
+
+
+The maintainers of the Linux Mint project have addressed a security bug that could have allowed attackers to bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens fixed tens of flaws in Siemens Digital Industries Software products<a href="https://securityaffairs.co/wordpress/113511/ics-scada/siemens-digital-industries-software-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has addressed tens of vulnerabilities in Siemens Digital Industries Software products that can allow arbitrary code execution.
+
+
+
+Siemens has addressed 18 vulnerabilities affecting some products of Siemens Digital Industries Software which provides...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Mint fixes screensaver bypass discovered by two kids<a href="https://www.zdnet.com/article/linux-mint-fixes-screensaver-bypass-discovered-by-two-kids/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Linux Mint project has patched this week a security flaw that could have allowed a threat actor to bypass the OS screensaver and its password and access locked desktops.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Finger command abused by phishing to download malware<a href="https://www.bleepingcomputer.com/news/security/windows-finger-command-abused-by-phishing-to-download-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using the normally harmless Windows Finger command to download and install a malicious backdoor on victims' devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of incoming Windows Zerologon patch enforcement<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-incoming-windows-zerologon-patch-enforcement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today warned admins&nbsp;that updates addressing the Windows Zerologon&nbsp;vulnerability will&nbsp;transition into the enforcement phase starting next month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Undisclosed Apache Velocity XSS vulnerability impacts GOV sites<a href="https://www.bleepingcomputer.com/news/security/undisclosed-apache-velocity-xss-vulnerability-impacts-gov-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An undisclosed XSS vulnerability in Apache Velocity Tools can be exploited by unauthenticated attackers to target government sites, including NASA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Exposes F5 BIG-IP Systems to Remote DoS Attacks<a href="https://www.securityweek.com/vulnerability-exposes-f5-big-ip-systems-remote-dos-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to F5 Networks, the vulnerability is related to a component named Traffic Management Microkernel (TMM), which processes all load-balanced traffic on BIG-IP systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 70 Vulnerabilities Will Remain Unpatched in EOL Cisco Routers<a href="https://www.securityweek.com/over-70-vulnerabilities-will-remain-unpatched-cisco-eol-routers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 68 high-severity flaws were identified in Cisco’s Small Business RV110W, RV130, RV130W, and RV215W routers, but the patches won’t be released because these devices have reached EOL.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Can Allow Hackers to Create Backdoors in Comtrol Industrial Gateways<a href="https://www.securityweek.com/vulnerabilities-can-allow-hackers-create-backdoors-comtrol-industrial-gateways?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several flaws have been identified in Pepperl+Fuchs Comtrol IO-Link Master industrial gateways, including those that can be exploited to gain root access to a device and create backdoors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco says its RV routers will no longer receive updates<a href="https://securityaffairs.co/wordpress/113446/security/cisco-rv-routers-eol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced it will no longer release firmware updates to fix 74 vulnerabilities affecting its RV routers, which reached end-of-life (EOL).
+
+
+
+Cisco will no longer release firmware updates to address 74 vulnerabilities affecting some of its RV routers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert discovered a DoS vulnerability in F5 BIG-IP systems<a href="https://securityaffairs.co/wordpress/113440/security/f5-big-ip-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered a flaw in the F5 BIG-IP product that can be exploited to conduct denial-of-service (DoS) attacks.
+
+
+
+The security expert Nikita Abramov from Positive Technologies discovered a DoS vulnerability, tracked as&nbsp;CVE-2020-27716,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2020 Saw 6% Rise in Number of CVEs Reported<a href="https://www.infosecurity-magazine.com:443/news/2020-saw-6-rise-in-number-of-cves/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Number of reported Common Vulnerabilities and Exposures grew 6% year on year in 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office January security updates fix remote code execution bugs<a href="https://www.bleepingcomputer.com/news/security/office-january-security-updates-fix-remote-code-execution-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft addresses important severity remote code execution vulnerabilities affecting multiple Office products in the January 2021 Office security updates released during this month's Patch Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple nixes feature that let its apps skip VPNs and firewalls, after criticism from researchers<a href="https://www.scmagazine.com/home/security-news/network-security/apple-nixes-feature-that-let-its-apps-skip-vpns-and-firewalls-after-criticism-from-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The software essentially exempted Apple’s own programs from being routed through its Network Extension Framework, which the company created for third-party security products to monitor and filter network traffic.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 bug corrupts your hard drive on seeing this file's icon<a href="https://www.bleepingcomputer.com/news/security/windows-10-bug-corrupts-your-hard-drive-on-seeing-this-files-icon/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched zero-day in Microsoft Windows 10 allows attackers to corrupt an NTFS-formatted hard drive with a one-line&nbsp;command.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addresses a High-severity flaw in CMX Software<a href="https://securityaffairs.co/wordpress/113395/security/cisco-high-severity-flaw-cmx.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed tens of high-severity flaws, including some flaws in the AnyConnect Secure Mobility Client and in its small business routers.
+
+
+
+This week Cisco released security updates to address 67 high-severity&nbsp;vulnerabilities, including issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding TCP/IP Stack Vulnerabilities in the IoT<a href="https://www.darkreading.com/edge/theedge/understanding-tcp-ip-stack-vulnerabilities-in-the-iot/b/d-id/1339888?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet of Things devices are highly susceptible to attacks, breaches, and flaws emanating from issues within the TCP/IP network communications architecture. Here's an overview of what you need to know to mitigate risks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Cisco Flaw Found in CMX Software For Retailers<a href="https://threatpost.com/cisco-flaw-cmx-software-retailers/163027/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed high-severity flaws tied to 67 CVEs overall, including ones found inits AnyConnect Secure Mobility Client and in its RV110W, RV130, RV130W, and RV215W small business routers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WordPress-Plugin Bug Found in ‘Orbit Fox’ Allows Site Takeover<a href="https://threatpost.com/orbit-fox-wordpress-plugin-bugs/163020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two security vulnerabilities — one a privilege-escalation problem and the other a stored XSS bug — afflict a WordPress plugin with 40,000 installs. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perils of coding errors play out in Parler slip up<a href="https://www.scmagazine.com/application-security/perils-of-coding-errors-play-out-in-parler-slip-up/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Applied to internet applications in general, the IDOR problems that led to the Parler exposure could extend to anything stored sequentially and not secured individually — receipts, posts, and in many instances entire accounts.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Hacks Against Android, Windows Reveals Zero-Day Trove<a href="https://threatpost.com/hacks-android-windows-zero-day/163007/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Watering-hole attacks executed by ‘experts’ exploited Chrome, Windows and Android flaws and were carried out on two servers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Secure Boot bug allowing Windows rootkit installation<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-secure-boot-bug-allowing-windows-rootkit-installation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a security feature bypass vulnerability in Secure Boot that allows attackers to&nbsp;compromise the operating system's booting process even when Secure Boot is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Assessing the Vulnerabilities Equities Process, Three Years After the VEP Charter<a href="https://www.lawfareblog.com/assessing-vulnerabilities-equities-process-three-years-after-vep-charter"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government has failed to deliver on its promises of greater transparency.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for January 2021 fixes 83 flaws, including an actively exploited issue<a href="https://securityaffairs.co/wordpress/113362/security/microsoft-patch-tuesday-for-january-2021-fixes-83-flaws-including-an-actively-exploited-issue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for January 2021 address 83 vulnerabilities, including a critical flaw actively exploited in the wild.
+
+
+
+Microsoft Patch Tuesday security updates for January 2021 fix 83 security vulnerabilities in multiple products,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigurations in Spring Data projects could leave web apps open to abuse<a href="https://portswigger.net/daily-swig/misconfigurations-in-spring-data-projects-could-leave-web-apps-open-to-abuse?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue lies within Spring’s Application-Level Profile Semantics (ALPS) feature which is defined as “a data format for defining simple descriptions of application-level semantics”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Serious Code Injection, DoS Vulnerabilities<a href="https://www.securityweek.com/sap-patches-serious-code-injection-dos-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP has published 10 advisories to document flaws and fixes for a range of serious security vulnerabilities. SAP also published a total of 7 other updates for previously released security notes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes Windows Defender Zero-Day Bug<a href="https://www.infosecurity-magazine.com:443/news/microsoft-fixes-windows-defender/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First Patch Tuesday of 2021 featured updates for just 83 CVEs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws With Fortinet FortiWeb WAF Would Allow Attackers to Hack Corporate Networks<a href="https://cybersecuritynews.com/fortinet-fortiweb-waf/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The cybersecurity researchers of Positives Technologies have detected some severe flaws in the Fortinet FotiWeb web application firewall. According to the security...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Microsoft Defender Bug Actively Exploited; Patch Tuesday Offers 83 Fixes<a href="https://threatpost.com/critical-microsoft-defender-bug-exploited/162992/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first Patch Tuesday security bulletin for 2021 from Microsoft includes fixes for one bug under active attack, possibly linked to the massive SolarWinds hacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft January 2021 Patch Tuesday fixes 83 flaws, 1 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2021-patch-tuesday-fixes-83-flaws-1-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's January 2021 Patch Tuesday, and it is the first Microsoft security update release&nbsp;in 2021, so please be very nice to your Windows administrators today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches Defender antivirus zero-day exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/microsoft-patches-defender-antivirus-zero-day-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a zero-day vulnerability in the Microsoft Defender antivirus, exploited in the wild by threat actors before the patch was released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft January 2021 Patch Tuesday fixes 83 vulnerabilities, 1 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2021-patch-tuesday-fixes-83-vulnerabilities-1-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's January 2021 Patch Tuesday, and it is the first Microsoft security update release&nbsp;in 2021, so please be very nice to your Windows administrators today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Fixes 7 Critical Flaws, Blocks Flash Player Content<a href="https://threatpost.com/adobe-critical-flaws-flash-player/162958/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe issued patches for seven critical arbitrary-code-execution flaws plaguing Windows and MacOS users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab addresses numerous vulnerabilities in latest security release<a href="https://portswigger.net/daily-swig/gitlab-addresses-numerous-vulnerabilities-in-latest-security-release?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insufficient validation of authentication parameters in GitLab Page for GitLab versions 11.5 onwards gives potential attackers the ability to steal a user’s API access token through GitLab Pages.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Awards Big Bounties for Invisible Post and Account Takeover Vulnerabilities<a href="https://www.securityweek.com/facebook-awards-big-bounties-invisible-post-and-account-takeover-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bug bounty hunter Pouya Darabi discovered that an attacker could have created invisible posts on a Facebook page, including verified pages, without having any permissions on the targeted page.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer science student finds a bug in YouTube that allows users to watch private videos<a href="https://www.theregister.com/2021/01/12/youtube_video_vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug was fixed in January 2020, after it was identified in December 2019, by David Schütz, a computer science student in Hungary, and reported to Google through the company's bug bounty program.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typeform fixes Zendesk Sell form data hijacking vulnerability<a href="https://www.bleepingcomputer.com/news/security/typeform-fixes-zendesk-sell-form-data-hijacking-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online survey and form creator Typeform has quietly patched a data hijacking vulnerability in its Zendesk Sell integration. If exploited, the vulnerability could let attacks redirect the form submissions containing potentially sensitive information to themselves.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SQL injection: The bug that seemingly can’t be squashed<a href="https://www.helpnetsecurity.com/2021/01/11/sql-injection-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s a common vulnerability that, despite being easily remedied, continues to plague our software and, if left undetected, provides a small window of opportunity to potential attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia releases security updates for GPU display driver and vGPU flaws<a href="https://securityaffairs.co/wordpress/113186/security/nvidia-vgpu-gpu-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nvidia has released security updates to address high-severity vulnerabilities affecting the Nvidia GPU display driver and vGPU software.&nbsp;
+
+
+
+Nvidia has addressed a total of 16 flaws, including high-severity vulnerabilities affecting the Nvidia GPU display...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux machines again targeted by hackers with new memory loader<a href="https://www.scmagazine.com/home/security-news/malware/linux-machines-again-targeted-by-hackers-with-new-memory-loader/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ezuri loader filelessly executes malware on Linux machines from memory, using a technique that is more common in Windows.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Investigation launched into vulnerabilities found within US Judiciary case file system<a href="https://www.zdnet.com/article/investigation-launched-into-vulnerabilities-found-within-us-judiciary-case-file-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the investigation ongoing, Judiciary said federal courts across the country will be adding new security procedures aimed at protecting highly sensitive confidential documents filed with courts.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA fixes high severity flaws affecting Windows, Linux devices<a href="https://www.bleepingcomputer.com/news/security/nvidia-fixes-high-severity-flaws-affecting-windows-linux-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA has released security updates to address six security vulnerabilities found in Windows and Linux&nbsp;GPU display drivers, as well as ten additional flaws affecting the&nbsp;NVIDIA Virtual GPU (vGPU) management software.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pays Out Over $100,000 for Vulnerabilities Patched With Chrome 87 Update<a href="https://www.securityweek.com/google-pays-out-over-100000-vulnerabilities-patched-chrome-87-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most important of these use-after-free issues affect autofill, drag and drop, and media components, and are tracked as CVE-2021-21106, CVE-2021-21107, and CVE-2021-21108, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Break Google Audio reCAPTCHA with Google’s own Speech to Text API<a href="https://cybersecuritynews.com/researchers-break-google-audio-recaptcha-with-googles-own-speech-to-text-api/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The cybersecurity researcher Nikolai Tschacherthe has recently posted a proof-of-concept (POC) video of an attack that Breaks Google Audio reCAPTCHA with Google's...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Firefox, Chrome, Edge Allow Remote System Hijacking<a href="https://threatpost.com/firefox-chrome-edge-bugs-system-hijacking/162873/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major browsers get an update to fix separate bugs that both allow for remote attacks, which could potentially allow hackers to takeover targeted devices.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia Warns Windows Gamers of High-Severity Graphics Driver Flaws<a href="https://threatpost.com/nvidia-windows-gamers-graphics-driver-flaws/162857/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In all, Nvidia patched flaws tied to 16 CVEs across its graphics drivers and vGPU software, in its first security update of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows PsExec zero-day vulnerability gets a free micropatch<a href="https://www.bleepingcomputer.com/news/security/windows-psexec-zero-day-vulnerability-gets-a-free-micropatch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free micropatch fixing a local privilege escalation (LPE) vulnerability in Microsoft's Windows PsExec management tool is now available through the 0patch platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet updates web application firewall to protect against SQL injection, denial-of-service attacks<a href="https://portswigger.net/daily-swig/fortinet-updates-web-application-firewall-to-protect-against-sql-injection-denial-of-service-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability in the user interface of FortiWeb allowed an unauthenticated, remote attacker to execute arbitrary SQL queries or commands before it was resolved, an advisory from Fortinet admits.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple flaws in Fortinet FortiWeb WAF could allow corporate networks to hack<a href="https://securityaffairs.co/wordpress/113129/hacking/fortinet-fortiweb-waf-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An expert found multiple serious vulnerabilities in Fortinet’s FortiWeb web application firewall (WAF) that could expose corporate networks to hack.
+
+
+
+Andrey Medov, a security researcher at Positive Technologies, found multiple serious vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed a critical Remote Code Execution flaw in Android<a href="https://securityaffairs.co/wordpress/113095/security/google-android-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released an Android security update that addressed tens of flaws, including a critical Android remote code execution vulnerability. 
+
+
+
+Google released an Android security update that addresses 43 flaws, including a critical remote code execution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Ramp Up Exploits Against Serious Zyxel Flaw<a href="https://threatpost.com/cybercriminals-exploits-zyxel-flaw/162789/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 100,000 Zyxel networking products could be vulnerable to a hardcoded credential vulnerability (CVE-2020-29583) potentially allowing cybercriminal device takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities found in SoftMaker Office TextMaker<a href="https://blog.talosintelligence.com/2021/01/vuln-spotlight-softmaker-office-textmaker-jan-2021.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered multiple vulnerabilities in SoftMaker's TextMaker software. A user could trigger these vulnerabilities by opening an attacker-created, malicious document.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently disclosed CVE-2020-29583 Zyxel flaw already under opportunistic attack<a href="https://securityaffairs.co/wordpress/113076/hacking/cve-2020-29583-zyxel-under-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are attempting to hack Zyxel devices exploiting the recently disclosed vulnerability CVE-2020-29583, security researchers warn.
+
+
+
+The Taiwanese vendor Zyxel has recently addressed a critical vulnerability in its firmware, tracked as&nbsp;CVE-2020-29583,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE ‘Bug’ Found and Disputed in Popular PHP Scripting Framework<a href="https://threatpost.com/rce-bug-php-scripting-framework/162773/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Impacted are PHP-based websites running a vulnerable version of the web-app creation tool Zend Framework and some Laminas Project releases.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Warns of Critical Android Remote Code Execution Bug<a href="https://threatpost.com/google-warns-of-critical-android-remote-code-execution-bug/162756/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Android security update addressed 43 bugs overall affecting Android handsets, including Samsung phones.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases January 2021 Security Updates for Android<a href="https://www.securityweek.com/google-releases-january-2021-security-updates-android?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Addressed as part of the 2021-01-01 security patch level and tracked as CVE-2021-0316, the most important of these flaws is a critical remote code execution bug in System.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE, account takeover flaws patched in Rock RMS church management platform<a href="https://portswigger.net/daily-swig/critical-rce-account-takeover-flaws-patched-in-rock-rms-church-management-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rock RMS, a ‘relationship management system’ for churches, was affected by a pair of critical vulnerabilities that could lead to account takeover and remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security cert expiration causes havoc for some Check Point VPN users<a href="https://www.theregister.com/2021/01/05/certificate_check_point/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It wasn't the best of New Year's Day mornings for some Check Point customers; in addition to possible hangovers, those who lagged with their patching had been left with inoperable systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Speech-to-Text API Can Help Attackers Easily Bypass Google reCAPTCHA<a href="https://thehackernews.com/2021/01/google-speech-to-text-api-can-help.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A three-year-old attack technique to bypass Google's audio reCAPTCHA by using its own Speech-to-Text API has been found to still work with 97% accuracy.  Researcher Nikolai Tschacher disclosed his findings in a proof-of-concept (PoC) of the attack on January 2.  "The idea of the attack is very simple: You grab the MP3 file of the audio reCAPTCHA and you submit it to Google's own speech-to-text API," Tschacher&nbsp; said &nbsp;in a write-up. "Google will return the correct answer in over 97% of all cases."   Introduced in 2014,&nbsp; CAPTCHAs &nbsp;(or Completely Automated Public Turing test to tell Computers and Humans Apart) is a type of challenge-response test designed to protect against automated account creation and service abuse by presenting users with a question that is easy for humans to solve but difficult for computers.  reCAPTCHA &nbsp;is a popular version of the CAPTCHA technology that was acquired by Google in 2009. The search giant released the&nbsp; third iteration &nbsp;of re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zend Framework remote code execution vulnerability revealed<a href="https://www.bleepingcomputer.com/news/security/zend-framework-remote-code-execution-vulnerability-revealed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An untrusted deserialization vulnerability has been disclosed in Zend Framework which can be used by attackers to achieve remote code execution on PHP sites. Portions of Laminas Project may also be impacted by this flaw, tracked as CVE-2021-3007.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret Backdoor Found in Zyxel Firewall and AP Controllers<a href="https://cybersecuritynews.com/secret-backdoor-found-in-zyxel-firewall-and-ap-controllers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The Niels Teusink of Dutch cybersecurity firm EYE has recently revealed a secret backdoor official account in the latest "4.60 patch 0"...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome fixes antivirus 'file locking' bug on Windows 10<a href="https://www.bleepingcomputer.com/news/security/google-chrome-fixes-antivirus-file-locking-bug-on-windows-10/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has fixed a Chromium bug to prevent antivirus programs running on Windows 10 from blocking new files and bookmarks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret backdoor discovered in Zyxel firewall and AP controllers<a href="https://www.bleepingcomputer.com/news/security/secret-backdoor-discovered-in-zyxel-firewall-and-ap-controllers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 100,000&nbsp;Zyxel devices are potentially vulnerable to a secret backdoor caused by&nbsp;hardcoded&nbsp;credentials used to update firewall and AP controllers' firmware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found a secret backdoor in Zyxel firewall and VPN<a href="https://securityaffairs.co/wordpress/112877/iot/secret-backdoor-zyxel-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel addressed a critical flaw in its firmware, tracked as&nbsp;CVE-2020-29583, related to the presence of a hardcoded undocumented secret account.
+
+
+
+The Taiwanese vendor Zyxel has addressed a critical vulnerability in its firmware related to the presence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Docs Bug Let Hackers Hijack Screenshots<a href="https://cybersecuritynews.com/google-docs-bug-let-hackers-hijack-screenshots/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Google has mentioned a flaw that has taken place recently in its feedback tool, and Google affirmed that there is a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret Backdoor Account Found in Several Zyxel Firewall, VPN Products<a href="https://thehackernews.com/2021/01/secret-backdoor-account-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has released a patch to address a critical vulnerability in its firmware concerning a hardcoded undocumented secret account that could be abused by an attacker to login with administrative privileges and compromise its networking devices.  The flaw, tracked as&nbsp; CVE-2020-29583 &nbsp;(CVSS score 7.8), affects&nbsp; version 4.60 &nbsp;present in wide-range of Zyxel devices, including Unified Security Gateway (USG), USG FLEX, ATP, and VPN firewall products.   EYE researcher&nbsp; Niels Teusink &nbsp;reported the vulnerability to Zyxel on November 29, following which the company released a firmware patch (ZLD V4.60 Patch1) on December 18.  According to the&nbsp; advisory &nbsp;published by Zyxel, the undocumented account ("zyfwp") comes with an unchangeable password (" PrOw!aN_fXp ") that's not only stored in plaintext but could also be used by a malicious third-party to login to the SSH server or web interface with admin privileges.  Zyxel said the hardcoded credentials were put in place to de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Docs bug could have allowed hackers to hijack screenshots<a href="https://securityaffairs.co/wordpress/112785/hacking/google-docs-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed a bug in its feedback tool incorporated across its services that could have allowed attackers to view users' private docs.
+
+
+
+Google has addressed a flaw in its feedback tool that is part of multiple of its services that could be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts have named the average time for fixing vulnerabilities in computer programs<a href="https://www.hackers-review.tech/2020/12/experts-have-named-average-time-for.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In almost 44% of cases, developers of computer programs fix discovered vulnerabilities in products from the point of view of information security only after three months due to slow software updates.
+</details>
+<div style="text-align: right" markdown="1">
+Hackers Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issued a Fix for Zero-Day Six Months Ago but It Didn’t Work<a href="https://hotforsecurity.bitdefender.com/blog/microsoft-issued-a-fix-for-zero-day-six-months-ago-but-it-didnt-work-24990.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft fixed a zero-day vulnerability in June, but the company did a poor job. Security researchers from Google’s Project Zero showed that attackers could still use the zero-day, despite the patch.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Google Docs Bug Could Have Allowed Hackers See Your Private Documents<a href="https://thehackernews.com/2020/12/a-google-docs-bug-could-have-allowed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched a bug in its feedback tool incorporated across its services that could be exploited by an attacker to potentially steal screenshots of sensitive Google Docs documents simply by embedding them in a malicious website.  The flaw was discovered on July 9 by security researcher&nbsp; Sreeram KL , for which he was awarded $3133.70 as part of Google's Vulnerability Reward Program.   Many of Google's products, including Google Docs, come with a " Send feedback " or "Help Docs improve" option that allows users to send feedback along with an option to include a screenshot — something that's automatically loaded to highlight specific issues.  But instead of having to duplicate the same functionality across its services, the feedback feature is deployed in Google's main website ("www.google.com") and integrated to other domains via an iframe element that loads the pop-up's content from "feedback.googleusercontent.com."   Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New cross-layer attack technique raises DNS cache poisoning, user tracking risk<a href="https://portswigger.net/daily-swig/cross-layer-attacks-new-hacking-technique-raises-dns-cache-poisoning-user-tracking-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows hackers to mount so-called “cross-layer” attacks against the Linux kernel and cause further damage by exploiting a weakness in its pseudo-random number generator (PRNG).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of devices could be hacked exploiting flaws targeted by tools stolen from FireEye<a href="https://securityaffairs.co/wordpress/112588/hacking/fireeye-tools-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of devices are potential exposed to attacks targeting the vulnerabilities exploited by the tools stolen from the arsenal of FireEye.
+
+
+
+Security experts from Qualys are warning that more than 7.5 million devices are potentially exposed to cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Kepware Products Can Facilitate Attacks on Industrial Firms<a href="https://www.securityweek.com/critical-flaws-kepware-products-can-facilitate-attacks-industrial-firms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security holes, two rated critical and one high severity, are described as a stack-based buffer overflow issue, a heap-based buffer overflow issue, and a use-after-free bug.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google reported that Microsoft failed to fix a Windows zero-day flaw<a href="https://securityaffairs.co/wordpress/112578/hacking/google-windows-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Project Zero experts publicly disclosed details of an improperly patched zero-day code execution vulnerability in Windows.
+
+
+
+White hat hackers at Google's Project Zero team has publicly disclosed details of an improperly patched zero-day vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Devices Affected by Vulnerabilities Used in Stolen FireEye Tools<a href="https://www.securityweek.com/millions-devices-affected-vulnerabilities-used-stolen-fireeye-tools?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys said it identified more than 7.5 million instances related to vulnerabilities associated with the stolen FireEye tools and compromised versions of the SolarWinds Orion product.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Discloses Poorly-Patched, Now Unpatched, Windows 0-Day Bug<a href="https://thehackernews.com/2020/12/google-discloses-poorly-patched-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Project Zero team has made public details of an improperly patched zero-day security vulnerability in Windows print spooler API that could be leveraged by a bad actor to execute arbitrary code.  Details of the flaw were revealed after Microsoft failed to patch it within 90 days of responsible disclosure on September 24.  Originally tracked as&nbsp; CVE-2020-0986 , the flaw concerns an elevation of privilege exploits in the GDI Print /&nbsp; Print Spooler &nbsp;API ("splwow64.exe") that was reported to Microsoft by an anonymous user working with Trend Micro's Zero Day Initiative (ZDI) back in late December 2019.   But with no patch in sight for about six months, ZDI ended up posting a public&nbsp; advisory &nbsp;as a zero-day on May 19 earlier this year, after which it was&nbsp; exploited &nbsp;in the wild in a campaign dubbed " Operation PowerFall " against an unnamed South Korean company.  "splwow64.exe" is a Windows core system binary that allows 32-bit applications to c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows zero-day with bad patch gets new public exploit code<a href="https://www.bleepingcomputer.com/news/security/windows-zero-day-with-bad-patch-gets-new-public-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Back in June, Microsoft released a fix for a vulnerability in the Windows operating system that enabled attackers to increase their permissions to kernel level on a compromised machine. The patch did not stick.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes high severity QTS, QES, and QuTS hero vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-high-severity-qts-qes-and-quts-hero-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP&nbsp;has released security updates to fix multiple&nbsp;high severity security vulnerabilities impacting network-attached storage (NAS) devices running the QES, QTS, and&nbsp;QuTS hero operating systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Page Layout Can Trick Users into Divulging More Info<a href="https://www.infosecurity-magazine.com:443/news/web-page-layout-trick-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ben-Gurion University researchers reveal new tactics for marketers and cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues ICS Advisory for New Vulnerabilities in Treck TCP/IP Stack<a href="https://www.securityweek.com/cisa-issues-ics-advisory-new-vulnerabilities-treck-tcpip-stack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued an advisory to warn organizations using industrial control systems (ICS) about the risks posed by these flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical Flaws in Treck TCP/IP Stack Affect Millions of IoT Devices<a href="https://thehackernews.com/2020/12/new-critical-flaws-in-treck-tcpip-stack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity Infrastructure and Security Agency (CISA) has&nbsp; warned &nbsp;of critical vulnerabilities in a low-level TCP/IP software library developed by Treck that, if weaponized, could allow remote attackers to run arbitrary commands and mount denial-of-service (DoS) attacks.  The four flaws affect Treck TCP/IP stack version 6.0.1.67 and earlier and were reported to the company by Intel. Two of these are rated critical in severity.  Treck's embedded TCP/IP stack is deployed worldwide in manufacturing, information technology, healthcare, and transportation systems.   The most severe of them is a heap-based buffer overflow vulnerability ( CVE-2020-25066 ) in the Treck HTTP Server component that could permit an adversary to crash or reset the target device and even execute remote code. It has a CVSS score of 9.8 out of a maximum of 10.  The second flaw is an out-of-bounds write in the IPv6 component ( CVE-2020-27337 , CVSS score 9.1) that could be exploited by an unauthenticated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities found in Dell Wyse thin clients could enable access to arbitrary files<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/vulnerabilities-found-in-dell-wyse-thin-clients-could-enable-access-to-arbitrary-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the U.S. alone, some 6,000 companies and organizations run Dell Wyse thin clients inside their networks, many of which are health care providers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of US organizations also used software targeted by Russian hackers: analysis<a href="https://thehill.com//policy/cybersecurity/531241-dozens-of-us-organizations-used-software-targeted-by-russian-hackers-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several major technology and accounting firms are among 24 U.S. organizations that used software targeted by Russian hackers in a cyberattack that breached&nbsp;federal agencies,&nbsp;according to&nbsp;The Wall Street Journal.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Unfixed Kubernetes Man-in-the-Middle Vulnerability (CVE-2020-8554)<a href="https://unit42.paloaltonetworks.com/cve-2020-8554/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On December 4, 2020, the Kubernetes Product Security Committee disclosed a new medium-severity vulnerability (CVE-2020-8554) affecting all Kubernetes versions and is currently unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Unpatched IoT and OT Devices at Risk<a href="https://cyware.com/news/millions-of-unpatched-iot-and-ot-devices-at-risk-4124bb76"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers at Armis, around 97 percent of the OT devices affected by URGENT/11 (a group of vulnerabilities) are not patched, even though fixes are being delivered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Critical Flaws — CVSS Score 10 — Affect Dell Wyse Thin Client Devices<a href="https://thehackernews.com/2020/12/two-critical-flaws-cvss-score-10-affect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers today unveils two critical security vulnerabilities it discovered in Dell Wyse Thin clients that could have potentially allowed attackers to remotely execute malicious code and access arbitrary files on affected devices.  The flaws, which were uncovered  by healthcare cybersecurity provider CyberMDX and reported to Dell in June 2020, affects all devices running ThinOS versions 8.6 and below.  Dell has addressed both the vulnerabilities in an&nbsp; update &nbsp;released today. The flaws also have a CVSS score of 10 out of 10, making them critical in severity.  Thin clients are typically computers that run from resources stored on a central server instead of a localized hard drive. They work by establishing a remote connection to the server, which takes care of launching and running applications and storing relevant data.  Tracked as CVE-2020-29491  and CVE-2020-29492 , the security shortcomings in Wyse's thin clients stem from the fact that the FTP sessions used to pull
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Wyse ThinOS flaws allow hacking think clients<a href="https://securityaffairs.co/wordpress/112520/hacking/dell-wyse-thinos-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Dell Wyse thin client models are affected by critical vulnerabilities that could be exploited by a remote attacker to take over the devices.
+
+
+
+Critical vulnerabilities tracked as&nbsp;CVE-2020-29492&nbsp;and&nbsp;CVE-2020-29491 affect several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SUPERNOVA, a backdoor found while investigating SolarWinds hack<a href="https://securityaffairs.co/wordpress/112512/malware/supernova-backdoor-solarwinds-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While investigating the recent SolarWinds Orion supply-chain attack security researchers discovered another backdoor, tracked SUPERNOVA.
+
+
+
+The investigation of the SolarWinds Orion supply-chain attack revealed the existence of another backdoor that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bugs in Dell Wyse ThinOS allow thin client take over<a href="https://www.bleepingcomputer.com/news/security/critical-bugs-in-dell-wyse-thinos-allow-thin-client-take-over/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost a dozen Dell Wyse thin client models are vulnerable to critical issues that could be exploited by a remote attacker to run malicious code and gain access to arbitrary files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Script for detecting vulnerable TCP/IP stacks released<a href="https://www.helpnetsecurity.com/2020/12/21/detecting-vulnerable-tcp-ip-stacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forescout released an open-source tool for detecting whether a network device runs one of the four open-source TCP/IP stacks (and their variations) affected by the Amnesia:33 vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SUPERNOVA backdoor found in SolarWinds cyberattack analysis<a href="https://www.bleepingcomputer.com/news/security/new-supernova-backdoor-found-in-solarwinds-cyberattack-analysis/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While analyzing artifacts from the SolarWinds Orion supply-chain attack, security researchers discovered another backdoor that is likely from a second threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Common Security Misconfigurations and Their Consequences<a href="https://thehackernews.com/2020/12/common-security-misconfigurations-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everyone makes mistakes. That one sentence was drummed into me in my very first job in tech, and it has held true since then. In the cybersecurity world, misconfigurations can create exploitable issues that can haunt us later - so let's look at a few common security misconfigurations.  The first one is development permissions that don't get changed when something goes live. For example, AWS S3 buckets are often assigned permissive access while development is going on. The issues arise when security reviews aren't carefully performed prior to pushing the code live, no matter if that push is for the initial launch of a platform or for updates.  The result is straight-forward; a bucket goes live with the ability for anyone to read and write to and from it. This particular misconfiguration is dangerous; since the application is working and the site is loading for users, there's no visible indication that something is wrong until a threat actor hunting for open buckets stum
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day exploit used to hack iPhones of Al Jazeera employees<a href="https://securityaffairs.co/wordpress/112500/malware/al-jazeera-zeroday-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of Al Jazeera employees were targeted in a cyber espionage campaign leveraging a zero-click iOS zero-day vulnerability to hack their iPhones.
+
+
+
+Researchers from Citizen Lab reported that at least 36 Al Jazeera employees were targeted in a cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook bug exposed email addresses of Instagram users<a href="https://www.hackread.com/facebook-bug-exposed-instagram-user-email-addresses/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nepal-based IT security researcher Saugat Pokharel identified a Facebook bug that exposed the private data of Instagram users, including their email addresses and birthdays.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Flaw a Vector in SolarWinds Breach? — Krebs on Security<a href="https://krebsonsecurity.com/2020/12/vmware-flaw-a-vector-in-solarwinds-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. government cybersecurity agencies warned this week that the attackers behind the widespread hacking spree used weaknesses in other, non-SolarWinds products to attack high-value targets.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Patched Critical zero-day in server Management Software<a href="https://cybersecuritynews.com/hpe-patched-critical-zero-day-in-server-management-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ HPE (Hewlett Packard Enterprise) has recently published a critical zero-day bug in one of the latest versions of its exclusive HPE Systems...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bouncy Castle Bug Puts Bcrypt Passwords at Risk<a href="https://www.infosecurity-magazine.com:443/news/bouncy-castle-bug-puts-bcrypt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authentication bypass flaw found in popular Java crypto library
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bouncy Castle crypto authentication bypass vulnerability revealed<a href="https://www.bleepingcomputer.com/news/security/bouncy-castle-crypto-authentication-bypass-vulnerability-revealed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe authentication bypass vulnerability has been reported in&nbsp;Bouncy Castle, a&nbsp;popular open-source cryptography library. When exploited, the vulnerability (CVE-2020-28052) can allow an attacker to gain access to user and administrator accounts due to a cryptographic weakness in the manner passwords are checked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5M WordPress Sites Running the Contact Form 7 Plugin are Open to Attack<a href="https://threatpost.com/contact-form-7-plugin-bug/162383/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical unrestricted file upload bug in Contact Form 7 allows an unauthenticated visitor to take over a site running the plugin. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bouncy Castle fixes crypto API authentication bypass flaw<a href="https://www.bleepingcomputer.com/news/security/bouncy-castle-fixes-crypto-api-authentication-bypass-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe authentication bypass vulnerability has been reported in&nbsp;Bouncy Castle, a&nbsp;popular open-source cryptography library. When exploited, the vulnerability (CVE-2020-28052) can allow an attacker to gain access to user and administrator accounts due to a cryptographic weakness in the manner passwords are checked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bouncy Castle fixes cryptography API authentication bypass flaw<a href="https://www.bleepingcomputer.com/news/security/bouncy-castle-fixes-cryptography-api-authentication-bypass-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe authentication bypass vulnerability has been reported in&nbsp;Bouncy Castle, a&nbsp;popular open-source cryptography library. When exploited, the vulnerability (CVE-2020-28052) can allow an attacker to gain access to user and administrator accounts due to a cryptographic weakness in the manner passwords are checked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air-Gap Attack Turns Memory Modules into Wi-Fi Radios<a href="https://threatpost.com/air-gap-attack-turns-memory-wifi/162358/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attack turns SDRAM buses into a Wi-Fi radio to leak data from air-gapped computers. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress plugin with 5 million installs has a critical vulnerability<a href="https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-5-million-installs-has-a-critical-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team behind&nbsp;a popular WordPress plugin has disclosed&nbsp;a critical file upload vulnerability and issued a patch. The vulnerable plugin,&nbsp;Contact Form 7, has over 5 million active installations making this upgrade a necessity for WordPress site owners out there.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Serious Flaws in Product Used by Companies, Governments<a href="https://www.securityweek.com/trend-micro-patches-serious-flaws-product-used-companies-governments?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities were discovered by Wolfgang Ettlinger, a researcher at Austria-based cybersecurity consultancy SEC Consult, and they were reported to Trend Micro in the summer of 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+P2P mobile file transfer apps open to attacks, researchers find<a href="https://portswigger.net/daily-swig/p2p-mobile-file-transfer-apps-open-to-attacks-researchers-find?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities in the direct file transfer applications of popular smartphone makers allow attackers to send malicious files to mobile devices, a security researcher has found.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Dangerous DNS Attacks Types and The Prevention Measures<a href="https://cybersecuritynews.com/dns-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ From the above topic, we can guess that today, we are going to discuss the top 10 DNS attacks and how to...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities discovered in NZXT CAM computer monitoring software<a href="https://blog.talosintelligence.com/2020/12/vuln-spotlight-NZXT-CAM-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NZXT CAM contains several vulnerabilities that, If exploited, could allow a malicious user to elevate their privileges and disclose sensitive information on the victim machine.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US-CERT Reports 17,447 Vulnerabilities Recorded in 2020<a href="https://www.darkreading.com/threat-intelligence/us-cert-reports-17447-vulnerabilities-recorded-in-2020/d/d-id/1339741?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US-CERT Vulnerability Database has confirmed 17,447 vulnerabilities were recorded in 2020, marking the fourth consecutive year with a record number of security flaws published.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two vulnerabilities spotted in Lantronix XPort EDGE<a href="https://blog.talosintelligence.com/2020/12/vuln-spotlight-landtronix-xport-edge-dec-2020.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An adversary could send the victim various requests to trigger two vulnerabilities that could later allow them to shut down access to the device and disclose sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE discloses critical zero-day in Systems Insight Manager<a href="https://securityaffairs.co/wordpress/112370/security/hpe-flaw-systems-insight-manager.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has disclosed a zero-day vulnerability in the latest versions of its HPE Systems Insight Manager (SIM) software for both Windows and Linux.
+
+
+
+Hewlett Packard Enterprise (HPE) has disclosed a zero-day remote code execution flaw that affects the latest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Bronze Bit Attack can Bypass Kerberos Protocol<a href="https://cyware.com/news/the-bronze-bit-attack-can-bypass-kerberos-protocol-7853a276"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using this attack technique, after compromising a network, an attacker can extract password hashes to bypass and forge credentials for other systems on the same network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli spy tech firm says can hack Signal app previously considered safe<a href="https://www.haaretz.com/israel-news/tech-news/.premium-israeli-spy-tech-firm-says-it-can-break-into-signal-app-previously-considered-safe-1.9368581?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli phone-hacking firm Cellebrite can now break into Signal, an encrypted messaging app considered safe from external snooping, it claimed in a blog post on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Haaretz
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers find multiple security flaws in Dualog Connection Suite used in ships<a href="https://www.theregister.com/2020/12/16/dualog_communications_suite_cves/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infosec consultancy Pen Test Partners said it took all of 90 minutes to discover enough problems with Dualog Connection Suite to submit six CVE number requests for the discovered flaws.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE discloses critical zero-day in server management software<a href="https://www.bleepingcomputer.com/news/security/hpe-discloses-critical-zero-day-in-server-management-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett Packard Enterprise (HPE)&nbsp;has disclosed a zero-day bug in the latest versions of its&nbsp;proprietary&nbsp;HPE Systems Insight Manager (SIM) software for Windows and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+POS Device Makers Push Patches for Vulnerabilities<a href="https://www.inforisktoday.com/pos-device-makers-push-patches-for-vulnerabilities-a-15598?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities in the default password settings as well as arbitrary code execution affect the Verifone VX520 and Verifone MX series and the Ingenico Telium 2 series.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vast Majority of OT Devices Affected by Urgent/11 Vulnerabilities Still Unpatched<a href="https://www.securityweek.com/vast-majority-ot-devices-affected-urgent11-vulnerabilities-still-unpatched?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vast majority of operational technology (OT) devices affected by the Urgent/11 vulnerabilities and many devices impacted by the CDPwn flaws remain unpatched, IoT security firm Armis reported.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Total Published CVEs Hits Record High for Fourth Year<a href="https://www.infosecurity-magazine.com:443/news/total-cves-record/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Number of vulnerabilities in US NVD is now 17,447
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Medtronic MyCareLink can allow attackers to take over implanted cardiac devices<a href="https://securityaffairs.co/wordpress/112328/hacking/medtronic-mycarelink-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts reported flaws in Medtronic ’s MyCareLink Smart 25000 Patient Reader product that could be exploited to take control of a paired cardiac device.
+
+
+
+Experts from IoT security firm Sternum discovered vulnerabilities discovered in Medtronic’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Easy WP SMTP Security Bug Can Reveal Admin Credentials<a href="https://threatpost.com/easy-wp-smtp-security-bug/162301/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A poorly configured file opens users up to site takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2020 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pandemic year increases bug bounties and report submissions<a href="https://www.bleepingcomputer.com/news/security/pandemic-year-increases-bug-bounties-and-report-submissions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability submissions have increased over the past 12 months on at least one crowdsourced security platform, with critical issue reports recording a 65% jump.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Patches Critical Mystery Bug, Also Impacting Google Chrome<a href="https://threatpost.com/firefox-patches-critical-mystery-bug-also-impacting-google-chrome/162294/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla Foundation releases Firefox 84 browser, fixing several flaws and delivering performance gains and Apple processor support.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed multiple code execution flaws in iOS and iPadOS<a href="https://securityaffairs.co/wordpress/112304/security/ios-ipados-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed this week serious code execution vulnerabilities that affect its iOS and iPadOS mobile operating systems.
+
+
+
+Apple released security updates to fix multiple severe code execution vulnerabilities in its iOS and iPadOS mobile operating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proportion of Exploited Vulnerabilities Continues to Drop<a href="https://www.securityweek.com/proportion-exploited-vulnerabilities-continues-drop?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While number of identified vulnerabilities has increased significantly in recent years, the percentage of flaws that are exploitable or been exploited has been dropping, according to Kenna Security.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Golang XML parser bugs can cause SAML authentication bypass<a href="https://www.bleepingcomputer.com/news/security/critical-golang-xml-parser-bugs-can-cause-saml-authentication-bypass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Mattermost, in coordination with Golang has disclosed 3 critical vulnerabilities within&nbsp;Go language's XML parser.
+If exploited, these vulnerabilities, also impacting multiple Go-based SAML implementations, can lead to a complete bypass of SAML authentication which powers prominent web applications today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Googles Gives a New Perspective to Web Security Threats via XS-Leaks<a href="https://cyware.com/news/googles-gives-a-new-perspective-to-web-security-threats-via-xs-leaks-8d1e39bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced the launch of a knowledge base called XS-Leaks to help web browser developers and security engineers prepare defense mechanisms against rising side-channel threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Zero-Click Cross-platform Flaw in Microsoft Teams Could Spread Like a Worm<a href="https://cyware.com/news/this-new-zero-click-cross-platform-flaw-in-microsoft-teams-could-spread-like-a-worm-3496e18c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a critical flaw in Microsoft Teams that could allow an attacker to access confidential conversations and files from the communications service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 users put on alert about critical bugs with SharePoint, here's how to fix it<a href="https://www.express.co.uk/life-style/science-technology/1371756/Office-365-critical-bugs-SharePoint-how-fix?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two critical remote code execution flaws in SharePoint are classified as CVE-2020-17121 and CVE-2020-17118, with the latter can be exploited remotely without any authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2020 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amnesia:33 – 33  Vulnerabilities That Impact Four Open-source TCP/IP Stacks Affects Millions of IoT Devices<a href="https://cybersecuritynews.com/amnesia33/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The cybersecurity researchers have been warning regarding a set of very severe vulnerabilities that are continuously affecting TCP/IP stacks let hackers attack...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Issues in PoS Terminals Open Consumers to Fraud<a href="https://threatpost.com/security-issues-pos-terminals-fraud/162210/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Point-of-sale terminal vendors Verifone and Ingenico have issued mitigations after researchers found the devices use default passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung fixes critical Android bugs in December 2020 updates<a href="https://www.bleepingcomputer.com/news/security/samsung-fixes-critical-android-bugs-in-december-2020-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week Samsung has started rolling out Android's December security updates to mobile devices to patch&nbsp;critical security vulnerabilities in the operating system. This comes after&nbsp;Android had published their December 2020 security updates bulletin, which includes patches for critical bugs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office security updates fix critical SharePoint RCE bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-security-updates-fix-critical-sharepoint-rce-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed critical remote code execution vulnerabilities in multiple SharePoint versions with this month's Office security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes new critical code execution bug in Jabber for Windows<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-new-critical-code-execution-bug-in-jabber-for-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a new critical severity remote code execution (RCE) vulnerability affecting several versions of Cisco Jabber for Windows, macOS, and mobile&nbsp;platforms after patching a related security bug in September.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos fixes SQL injection vulnerability in their Cyberoam OS<a href="https://www.bleepingcomputer.com/news/security/sophos-fixes-sql-injection-vulnerability-in-their-cyberoam-os/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has deployed a hotfix for their line of Cyberoam firewalls and routers to fix a SQL injection vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Click Wormable RCE Vulnerability in Cisco Jabber Gets Fixed, Again<a href="https://threatpost.com/critical-cisco-jabber-bug-get-updated-fix/162143/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of bugs, patched in September, still allow remote code execution by attackers. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+250,000 stolen MySQL databases for sale on dark web auction site<a href="https://www.bleepingcomputer.com/news/security/250-000-stolen-mysql-databases-for-sale-on-dark-web-auction-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have set up an auction site on the dark web to sell 250,000 databases stolen from tens of thousands of breached MySQL servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Kerberos Bronze Bit attack gets public exploit, patch now<a href="https://www.bleepingcomputer.com/news/security/windows-kerberos-bronze-bit-attack-gets-public-exploit-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code and full details on a Windows Kerberos security bypass vulnerability have been published earlier this week&nbsp;by&nbsp;Jake Karnes, the NetSPI security consultant and penetration tester who reported the security bug to Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes new Jabber for Windows critical code execution bug<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-new-jabber-for-windows-critical-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a new critical severity remote code execution (RCE) vulnerability affecting several versions of Cisco Jabber for Windows, macOS, and mobile&nbsp;platforms after patching a related security bug in September.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record Levels of Software Bugs Plague Short-Staffed IT Teams in 2020<a href="https://threatpost.com/record-levels-software-bugs-it-teams-2020/162095/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As just one symptom, 83 percent of the Top 30 U.S. retailers have vulnerabilities which pose an “imminent” cyber-threat, including Amazon, Costco, Kroger and Walmart.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS-CISA urges admins to patch OpenSSL DoS vulnerability<a href="https://www.bleepingcomputer.com/news/security/dhs-cisa-urges-admins-to-patch-openssl-dos-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week OpenSSL has released fixes for a high severity Denial of Service (DoS) vulnerability, CVE-2020-1971. U.S. DHS Cybersecurity and Infrastructure Security Agency (CISA)&nbsp;has warned&nbsp;admins&nbsp;to upgrade their&nbsp;vulnerable&nbsp;OpenSSL instances&nbsp;immediately.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical security vulnerabilities in Lightroom, Prelude<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-security-vulnerabilities-in-lightroom-prelude/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released security updates to address critical&nbsp;severity security bugs affecting Windows and macOS versions of Adobe Lightroom and Adobe Prelude.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes new Windows Kerberos security bug in staged rollout<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-new-windows-kerberos-security-bug-in-staged-rollout/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has issued security updates to address a&nbsp;Kerberos security feature bypass vulnerability impacting multiple Windows Server versions in a two-phase staged rollout.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>

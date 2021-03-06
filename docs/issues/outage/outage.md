@@ -1,0 +1,172 @@
+---
+layout: default
+title: Outage 
+parent: Issues 
+has_children: true
+nav_order: 900140
+---
+
+## Outage
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack shuts down online learning at 15 UK schools<a href="https://www.zdnet.com/article/cyberattack-shuts-down-online-learning-at-15-uk-schools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, as reported by local publication NottinghamshireLive, several of the schools reported issues across social media and the need to close down the IT systems due to the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CompuCom MSP confirms ongoing outage following malware incident<a href="https://www.bleepingcomputer.com/news/security/compucom-msp-confirms-ongoing-outage-following-malware-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US managed service provider CompuCom has suffered a cyberattack leading to service outages and customers disconnecting from the MSP's network to prevent the spread of malware, BleepingComputer has learned.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RMIT claims 'significant progress' in bouncing back from Friday's IT outage<a href="https://www.zdnet.com/article/rmit-claims-significant-progress-in-bouncing-back-from-fridays-it-outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Melbourne's RMIT University has said significant progress has been made in restoring its systems, following reports on Friday the university had fallen victim to a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kia Motors America experiences massive IT outage across the US<a href="https://www.bleepingcomputer.com/news/security/kia-motors-america-experiences-massive-it-outage-across-the-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kia Motors USA is experiencing a nationwide outage affecting IT servers, self-payment phone services, dealer platforms, and phone support.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notion’s hours-long outage was caused by phishing complaints<a href="https://techcrunch.com/2021/02/15/notions-hours-long-outage-was-caused-by-phishing-complaints/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notion's domain registrar is Name.com, but all .so domains are managed by Hexonet, a company that helps connect Sonic, the .so top-level domain registry, with domain name registrars like Name.com.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpamCop anti-spam service suffers an outage after its domain expired<a href="https://www.bleepingcomputer.com/news/security/spamcop-anti-spam-service-suffers-an-outage-after-its-domain-expired/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco's SpamCop&nbsp;anti-spam service suffered an outage Sunday after a its domain mistakenly was allowed to expire.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal is down for multiple users worldwide<a href="https://securityaffairs.co/wordpress/113473/mobile-2/signal-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular signal messaging app Signal&nbsp;is currently facing issues around the world, users are not able to make calls and send/receive messages. 
+
+
+
+At the time of this writing, it is not possible to make calls and send/receive messages.
+
+
+
+Users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wasabi cloud storage service knocked offline for hosting malware<a href="https://www.bleepingcomputer.com/news/security/wasabi-cloud-storage-service-knocked-offline-for-hosting-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud storage provider Wasabi suffered an outage after a domain used for storage endpoints was suspended for hosting malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aida Cruises cancels trips due to mysterious "IT restrictions"<a href="https://www.bleepingcomputer.com/news/security/aida-cruises-cancels-trips-due-to-mysterious-it-restrictions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German cruise line AIDA Cruises is dealing with mysterious "IT restrictions" that have led to the cancellation of New Year's Eve cruises embarking this past weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Explains YouTube, Gmail, Cloud Service Outage<a href="https://www.securityweek.com/google-issues-post-mortem-gmail-youtube-outage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google said one of its automated tools used to manage the quota of various resources allocated for services contained a bug that caused error in authentication results, leading to the service outage.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google outage tied to authentication system outage, not supply chain attacks<a href="https://www.scmagazine.com/application-security/google-outage-tied-to-authentication-system-outage-not-supply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of Google applications were offline Monday morning due to an authentication system outage, the technology giant confirmed. The outage Monday morning caused a stir among security experts, wondering whether the incident might have ties to a major hacking event over the weekend that resulted in breaches at both the Treasury and Commerce departments.…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+ 

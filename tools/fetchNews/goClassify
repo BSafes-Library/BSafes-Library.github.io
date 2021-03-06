@@ -1,0 +1,2 @@
+cp index.class ../../index.md
+node classifyNews.js

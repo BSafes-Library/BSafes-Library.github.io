@@ -1,0 +1,348 @@
+---
+layout: default
+title: Welcome 
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
+---
+<style>
+.dont-break-out {
+
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+</style>
+# Welcome to BSafes Library
+{: .fs-9 }
+
+BSafes library includes mobile-friendly cybersecurity publications.
+{: .fs-6 .fw-300 }
+
+## News
+{: .fs-6 .label .label-yellow }
+
+<div class="code-example" markdown="1">
+December 09, 2020 --- [Books](/docs/books/books/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+New Book - RIGHTS OF MAN, By Thomas Paine <a href="https://book-rights-of-man.bsafes.com">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Chapter 1<br>
+It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 08, 2020 --- [APT](/docs/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community <a href="https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+FireEye is on the front lines defending companies and critical infrastructure globally from cyber threats. We witness the growing threat firsthand, and we know that cyber threats are always evolving. Recently, we were attacked by a highly sophisticated threat actor, one whose discipline, operational security, and techniques lead us to believe it was a state-sponsored attack. Our number one priority is working to strengthen the security of our customers and the broader community. We hope that by sharing the details of our investigation, the entire community will be better equipped to fight and defeat cyber attacks.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 07, 2020 --- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Law Enforcement Is Accessing Locked Devices Quite Well, Thank You <a href="https://www.lawfareblog.com/law-enforcement-accessing-locked-devices-quite-well-thank-you">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Apple introduced the iPhone in 2007—and discovered it was a great target for street theft. The device was small and expensive, and it could easily be grabbed from someone’s hand. Apple worked to secure the phone, developing Find My iPhone. Thefts dropped. But criminals are nothing if not creative, and it soon became clear that street theft was the least of Apple’s security problems. Hackers in China used data from the devices to commit identity theft. And later the criminals started selling instructional videos to other criminals, showing how to do these hacks themselves.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 07, 2020 --- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Microsoft O365 Fails to Block Spoofed Emails Sent from Microsoft.com <a href="https://ironscales.com/blog/Microsoft-O365-Fails-to-Block-Spoofed-Emails/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+The 200 million Microsoft Office 365 (O365) users worldwide are now being targeted by a new global spear-phishing attack spoofing Microsoft.com. Two weeks ago, IRONSCALES researchers first identified what we can now confirm to be a well-coordinated email spoofing campaign targeting O365 users particularly within the financial services, healthcare, insurance, manufacturing, utilities, and telecom industries, among others. giant suffered a ransomware attack at a Mexican facility over the Thanksgiving weekend, where attackers stole unencrypted files before encrypting devices.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 07, 2020 --- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Foxconn electronics giant hit by ransomware, $34 million ransom <a href="https://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Foxconn electronics giant suffered a ransomware attack at a Mexican facility over the Thanksgiving weekend, where attackers stole unencrypted files before encrypting devices.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 07, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+Russian State-Sponsored Malicious Cyber Actors Exploit Known Vulnerability in Virtual Workspaces <a href="https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2434988/russian-state-sponsored-malicious-cyber-actors-exploit-known-vulnerability-in-v/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Ft. MEADE, Md., Dec. 7, 2020 —
+The National Security Agency (NSA) released a Cybersecurity Advisory today detailing how Russian state-sponsored actors have been exploiting a vulnerability in VMware® products to access protected data on affected systems. This advisory emphasizes the importance for National Security System (NSS), Department of Defense (DoD), and Defense Industrial Base (DIB) system administrators to apply vendor-provided patches to affected VMware® identity management products and provides further details on how to detect and mitigate compromised networks.
+</details> 
+</div>
+
+<div class="code-example" markdown="1">
+December 06, 2020 --- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+GBMC HealthCare detected a ransomware incident <a href="https://www.gbmc.org/computer-network-incident-update-12-06-2020">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+On the morning of Sunday, December 6, 2020, GBMC HealthCare detected a ransomware incident that impacted information technology systems. Although many of our systems are down, GBMC HealthCare has robust processes in place to maintain safe and effective patient care. We are collectively responding in accordance with our well-planned process and policies for this type of event.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 06, 2020 --- [Terrorist](/docs/issues/terrorist/terrorist/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Rethinking Global Counterterrorist Financing  <a href="https://www.lawfareblog.com/rethinking-global-counterterrorist-financing">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+The terrorism and extremism landscape has shifted significantly over the past several years, but global counterterrorism and particularly counterterrorist financing (CTF) practices have been slow to adapt. CTF has traditionally been conceptualized as stopping the flow of funds to terrorists or “following the money,” but CTF has much more utility than just those narrow ideas in the fight against terrorism. The way the international community thinks about CTF is out of date, and global efforts to prevent and detect terrorist financing are falling short. Fortunately, a conceptual shift and a broader scope for CTF policy and practice can yield significant benefits. Improved policies should expand the criminalization and financial intelligence approach to CTF to include covert and disruptive action against terrorist financiers and financial activity, and reevaluate financial exclusion—such as sanctions and derisking—and their utility against both new and old threats.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 06, 2020 --- [Laws](/docs/laws-and-regulations/laws-and-regulations/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+New Article - The Freedom of Information Act, 5 USC 552: Public information; agency rules, opinions, orders, records, and proceedings <a href="/docs/laws-and-regulations/united-states-code/5-usc-552/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+(a) Each agency shall make available to the public information as follows:
+(1) Each agency shall separately state and currently publish in the Federal Register for the guidance of the public-
+(A) descriptions of its central and field organization and the established places at which, the employees (and in the case of a uniformed service, the members) from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions;
+(B) statements of the general course and method by which its functions are channeled and determined, including the nature and requirements of all formal and informal procedures available;
+(C) rules of procedure, descriptions of forms available or the places at which forms may be obtained, and instructions as to the scope and contents of all papers, reports, or examinations;
+(D) substantive rules of general applicability adopted as authorized by law, and statements of general policy or interpretations of general applicability formulated and adopted by the agency; and
+(E) each amendment, revision, or repeal of the foregoing. Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
+</details>
+</div>
+
+
+<div class="code-example" markdown="1">
+December 05, 2020 --- [General](/docs/issues/issues/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+A National Cybersecurity Agenda for Resilient Digital Infrastructure  <a href="https://www.aspeninstitute.org/longform/a-national-cybersecurity-agenda-for-resilient-digital-infrastructure/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+In 1858, a public health crisis gripped the city of London. Successive cholera outbreaks spread by contaminated water were killing thousands. The river Thames was so polluted that Parliament refused to meet. As London’s population exploded, no one had invested in the basic wastewater infrastructure necessary to manage the consequences of cramming millions of people into one of the world’s first metropolises. After decades of failing to safeguard access to clean water, the government finally embarked on an unprecedented civil works project to retrofit the entire city with its first sewer system.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 04, 2020 --- [Laws](/docs/laws-and-regulations/laws-and-regulations/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+New Article - Privacy Act of 1974, 5 USC 552a - Records maintained on individuals <a href="/docs/laws-and-regulations/united-states-code/5-usc-552a/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+(a) Definitions.-For purposes of this section-
+(1) the term “agency” means agency as defined in section 552(e) of this title;
+(2) the term “individual” means a citizen of the United States or an alien lawfully admitted for permanent residence;
+(3) the term “maintain” includes maintain, collect, use, or disseminate;
+(4) the term “record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a finger or voice print or a photograph;
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Quantum](/docs/issues/quantum-computing/quantum-computing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Quantum computational advantage using photons
+ <a href="https://science.sciencemag.org/content/early/2020/12/02/science.abe8770">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Quantum computers promises to perform certain tasks that are believed to be intractable to classical computers. Boson sampling is such a task and is considered as a strong candidate to demonstrate the quantum computational advantage. We perform Gaussian boson sampling by sending 50 indistinguishable single-mode squeezed states into a 100-mode ultralow-loss interferometer with full connectivity and random matrix—the whole optical setup is phase-locked—and sampling the output using 100 high-efficiency single-photon detectors. The obtained samples are validated against plausible hypotheses exploiting thermal states, distinguishable photons, and uniform distribution. The photonic quantum computer generates up to 76 output photon clicks, which yields an output state-space dimension of 1030 and a sampling rate that is ~1014 faster than using the state-of-the-art simulation strategy and supercomputers.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Laws](/docs/laws-and-regulations/laws-and-regulations/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+What to expect from a Biden FCC on Section 230, net neutrality, and 5G
+ <a href="https://www.brookings.edu/blog/techtank/2020/12/03/what-to-expect-from-a-biden-fcc-on-section-230-net-neutrality-and-5g/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Inauguration Day promises sweeping change across the federal government—and the Federal Communications Commission (FCC) is no exception. Ajit Pai, the FCC’s current Republican chairman appointed by President Trump, will depart the agency on January 20, as is customary with past agency leaders. With his departure may come some sweeping changes at the Commission. The FCC’s current policy and enforcement priorities may shift, especially with the Republicans slated to lose their majority with the departures of Pai and Commissioner Mike O’Rielly (whose replacement Nathan Simington from the Commerce Department was approved by the Senate Commerce Committee).
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Events](/docs/events/events/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+State of Alaska’s Online Voter Registration System victim of data exposure <a href="https://ltgov.alaska.gov/newsroom/2020/12/state-of-alaskas-online-voter-registration-system-victim-of-data-exposure/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+December 3, 2020 (Anchorage, AK) – The State of Alaska was the victim of data exposure by outside actors that targeted the Division of Elections Online Voter Registration System, which was built and maintained by an outside vendor and operated by the Division. Although some voters’ personal information was exposed, the Division has determined that no other elections systems or data were affected. The Division’s ballot tabulation systems, 2020 general election results, and voter database remain secure.
+</details>
+</div>
+
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Events](/docs/events/events/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Randstad statement on cyber incident. <a href="https://tools.eurolandir.com/tools/Pressreleases/GetPressRelease/?ID=3845464&lang=en-GB&companycode=nl-rand&v=ticker">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Randstad NV (“Randstad”) recently became aware of malicious activity in its IT environment and an internal investigation into this incident was launched immediately with our 24/7 incident response team. Third party cyber security and forensic experts were engaged to assist with the investigation and remediation of the incident.
+</details>
+</div>
+
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Egregor Ransomware, Used in a String of High-Profile Attacks, Shows Connections to QakBot  <a href="https://www.recordedfuture.com/egregor-ransomware-attacks/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Egregor ransomware is a complex piece of malware that appears to be associated with the operators of QakBot. The ransomware has been used against organizations across many industries since its debut in September 2020 and is likely to continue to present a threat to organizations in the future. Unlike most ransomware variants, Egregor’s payload cannot be executed or decrypted fully without the correct cryptographic key provided to the malware at runtime, rendering static or dynamic analysis impossible. Because very little is known about the deployment of the ransomware in open sources and how the threat actors target victims, Recorded Future recommends employing mitigations for technical threats used by other “big game hunting” threat actors to mitigate the threat prior to ransom, using the provided hunting package to threat hunt Egregor and ensuring that internet-facing systems are appropriately configured to provide only the minimum needed access.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Events](/docs/events/events/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+US, Estonia Partnered to Search Out Cyber Threat From Russia <a href="https://www.voanews.com/usa/us-estonia-partnered-search-out-cyber-threat-russia">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+WASHINGTON - In a modern twist on old-fashioned war games, the U.S. military dispatched cyber fighters to Estonia this fall to help the small Baltic nation search out and block potential cyber threats from Russia. The goal was not only to help a NATO partner long targeted by its powerful neighbor but also to gain insight on Russian tactics that could be used against the U.S. and its elections.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Events](/docs/events/events/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Phishing Ploy Targets COVID-19 Vaccine Distribution Effort <a href="https://www.voanews.com/covid-19-pandemic/phishing-ploy-targets-covid-19-vaccine-distribution-effort">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+BOSTON - IBM security researchers say they have detected a cyberespionage effort using targeted phishing emails to try to collect vital information on the World Health Organization's initiative for distributing COVID-19 vaccine to developing countries.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 03, 2020 --- [Books](/docs/books/books/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+New Book - 1984, By George Orwell <a href="https://book-1984.bsafes.com">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Chapter 1<br>  
+It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 02, 2020 --- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Alabama school district shut down by ransomware attack <a href="https://www.bleepingcomputer.com/news/security/alabama-school-district-shut-down-by-ransomware-attack/?&web_view=true">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Ransomware operators have attacked the Huntsville City Schools district in Alabama, forcing them to shut down schools for the rest of the week and possibly next week.<br>  
+
+The Huntsville City Schools district is the sixth-largest school district in Alabama, with almost 24,000 students, 2,300 employees, and thirty-seven schools. Due to the COVID-19 pandemic, the school district offered both in-school instruction and a fully online learning experience.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+December 01, 2020 --- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Alert (AA20-336A) - Advanced Persistent Threat Actors Targeting U.S. Think Tanks <a href="https://us-cert.cisa.gov/ncas/alerts/aa20-336a">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) have observed persistent continued cyber intrusions by advanced persistent threat (APT) actors targeting U.S. think tanks. This malicious activity is often, but not exclusively, directed at individuals and organizations that focus on international affairs or national security policy.[1] The following guidance may assist U.S. think tanks in developing network defense procedures to prevent or rapidly detect these attacks.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+November 30, 2020 --- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them <a href="https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency miners are typically associated with cybercriminal operations, not sophisticated nation state actor activity. They are not the most sophisticated type of threats, which also means that they are not among the most critical security issues that defenders address with urgency. Recent campaigns from the nation-state actor BISMUTH take advantage of the low-priority alerts coin miners cause to try and fly under the radar and establish persistence.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+November 30, 2020 --- [Events](/docs/events/events/)<br>
+{: .fs-4 .fw-700 .lh-0  } 
+Supreme Court Oral Argument - Van Buren v. United States(19-783) <a href="/docs/events/11-30-2020-van-buren-v-united-states-19-783/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  } 
+<details>
+  <summary>Abstract</summary>
+MR. FISHER: Mr. Chief Justice, and may it please the Court:<br>
+The CFAA is an anti-hacking statute. It prohibits obtaining information from a computer without authorization. And to ensure comprehensive coverage, the statute also prohibits "exceeding authorized access." As Judge Kozinski put it, this -- this ensures that the statute covers not just outside but also inside hackers.<br>
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+November 30, 2020 --- [Laws](/docs/laws-and-regulations/laws-and-regulations/)<br>
+{: .fs-4 .fw-700 .lh-0  } 
+New Article - 18 USC 1030: Fraud and related activity in connection with computers <a href="/docs/laws-and-regulations/united-states-code/18-usc-1030/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+(a) Whoever-<br>
+(1) having knowingly accessed a computer without authorization or exceeding authorized access, and by means of such conduct having obtained information that has been determined by the United States Government pursuant to an Executive order or statute to require protection against unauthorized disclosure for reasons of national defense or foreign relations, or any restricted data, as defined in paragraph y. of section 11 of the Atomic Energy Act of 1954, with reason to believe that such information so obtained could be used to the injury of the United States, or to the advantage of any foreign nation willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it;
+</details> 
+</div>
+
+<div class="code-example" markdown="1">
+October 30, 2020 --- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Alert (AA20-334A) - Iranian Advanced Persistent Threat Actor Identified Obtaining Voter Registration Data <a href="https://us-cert.cisa.gov/ncas/alerts/aa20-304a">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+This joint cybersecurity advisory was coauthored by the Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI). CISA and the FBI are aware of an Iranian advanced persistent threat (APT) actor targeting U.S. state websites—to include election websites. CISA and the FBI assess this actor is responsible for the mass dissemination of voter intimidation emails to U.S. citizens and the dissemination of U.S. election-related disinformation in mid-October 2020. 1 (Reference FBI FLASH message ME-000138-TT, disseminated October 29, 2020). Further evaluation by CISA and the FBI has identified the targeting of U.S. state election websites was an intentional effort to influence and interfere with the 2020 U.S. presidential election.
+</details>
+</div>
+
+<div class="code-example" markdown="1">
+October 29, 2020 --- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+MAR-10310246-2.v1 – PowerShell Script: ComRAT <a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar20-303a">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+This Malware Analysis Report (MAR) is the result of analytic efforts between the Cybersecurity and Infrastructure Security Agency (CISA), the Cyber National Mission Force (CNMF), and the Federal Bureau of Investigation (FBI). The malware variant, known as ComRAT, has been used by Turla, a Russian-sponsored Advanced Persistent Threat (APT) actor. CISA, CNMF, and FBI are distributing this MAR to enable network defense and reduced exposure to malicious activity. This MAR includes suggested response actions and recommended mitigation techniques.
+</div>
+
+### National Institute of Standards and Technology (NIST) publications
+* [NIST Special Publication 800-12, Revision 1, HTML](https://nist-sp-800-12-r1.bsafes.com/)<br>An Introduction to Information Security
+* [NIST CSWP, Version 1. 1, HTML](https://nist-cybersecurity-framework-r1-1.bsafes.com/)<br>Framework for Improving Critical Infrastructure Cybersecurity
+* [NIST Special Publication 800-53, Revision 5, HTML](https://nist-sp-800-53-r5.bsafes.com/)<br>Security and Privacy Controls for Information Systems and Organizations
+

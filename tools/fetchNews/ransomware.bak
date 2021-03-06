@@ -1,0 +1,65 @@
+---
+layout: default
+title: Ransomeware 
+parent: Issues 
+has_children: true
+nav_order: 900180
+---
+
+## Ransomeware
+---
+December 07, 2020 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+Foxconn electronics giant hit by ransomware, $34 million ransom <a href="https://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Foxconn electronics giant suffered a ransomware attack at a Mexican facility over the Thanksgiving weekend, where attackers stole unencrypted files before encrypting devices.
+</details>
+---
+December 06, 2020 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+GBMC HealthCare detected a ransomware incident <a href="https://www.gbmc.org/computer-network-incident-update-12-06-2020">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+On the morning of Sunday, December 6, 2020, GBMC HealthCare detected a ransomware incident that impacted information technology systems. Although many of our systems are down, GBMC HealthCare has robust processes in place to maintain safe and effective patient care. We are collectively responding in accordance with our well-planned process and policies for this type of event.
+</details>
+---
+December 03, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+Egregor Ransomware, Used in a String of High-Profile Attacks, Shows Connections to QakBot  <a href="https://www.recordedfuture.com/egregor-ransomware-attacks/">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Egregor ransomware is a complex piece of malware that appears to be associated with the operators of QakBot. The ransomware has been used against organizations across many industries since its debut in September 2020 and is likely to continue to present a threat to organizations in the future. Unlike most ransomware variants, Egregor’s payload cannot be executed or decrypted fully without the correct cryptographic key provided to the malware at runtime, rendering static or dynamic analysis impossible. Because very little is known about the deployment of the ransomware in open sources and how the threat actors target victims, Recorded Future recommends employing mitigations for technical threats used by other “big game hunting” threat actors to mitigate the threat prior to ransom, using the provided hunting package to threat hunt Egregor and ensuring that internet-facing systems are appropriately configured to provide only the minimum needed access.
+</details>
+---
+December 02, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+Alabama school district shut down by ransomware attack <a href="https://www.bleepingcomputer.com/news/security/alabama-school-district-shut-down-by-ransomware-attack/?&web_view=true">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+Ransomware operators have attacked the Huntsville City Schools district in Alabama, forcing them to shut down schools for the rest of the week and possibly next week.<br>
+
+The Huntsville City Schools district is the sixth-largest school district in Alabama, with almost 24,000 students, 2,300 employees, and thirty-seven schools. Due to the COVID-19 pandemic, the school district offered both in-school instruction and a fully online learning experience.
+</details>
+---
+October 28, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+Ransomware Activity Targeting the Healthcare and Public Health Sector <a href="https://us-cert.cisa.gov/ncas/alerts/aa20-302a">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+This joint cybersecurity advisory was coauthored by the Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS). This advisory describes the tactics, techniques, and procedures (TTPs) used by cybercriminals against targets in the Healthcare and Public Health (HPH) Sector to infect systems with ransomware, notably Ryuk and Conti, for financial gain.
+</details>
+---
+February 18, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+Ransomware Impacting Pipeline Operations <a href="https://us-cert.cisa.gov/ncas/alerts/aa20-049a">Full Text</a><br>
+{: .fs-5 .fw-500 .lh-1.0  }
+<details>
+  <summary>Abstract</summary>
+CISA responded to a cyberattack affecting control and communication assets on the operational technology (OT) network of a natural gas compression facility. A cyber threat actor used a Spearphishing Link [T1192] to obtain initial access to the organization’s information technology (IT) network before pivoting to its OT network. The threat actor then deployed commodity ransomware to Encrypt Data for Impact [T1486] on both networks. Specific assets experiencing a Loss of Availability [T826] on the OT network included human machine interfaces (HMIs), data historians, and polling servers. Impacted assets were no longer able to read and aggregate real-time operational data reported from low-level OT devices, resulting in a partial Loss of View [T829] for human operators. The attack did not impact any programmable logic controllers (PLCs) and at no point did the victim lose control of operations. Although the victim’s emergency response plan did not specifically consider cyberattacks, the decision was made to implement a deliberate and controlled shutdown to operations. This lasted approximately two days, resulting in a Loss of Productivity and Revenue [T828], after which normal operations resumed. CISA is providing this Alert to help administrators and network defenders protect their organizations against this and similar ransomware attacks.
+</details>

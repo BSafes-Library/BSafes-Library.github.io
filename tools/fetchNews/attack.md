@@ -1,0 +1,2333 @@
+---
+layout: default
+title: Attack 
+parent: Issues 
+has_children: true
+nav_order: 900015
+---
+
+## Attack
+---
+March 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Maza cybercrime forum attacked by other hackers<a href="https://www.bleepingcomputer.com/news/security/notorious-maza-cybercrime-forum-attacked-by-other-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Maza cybercrime forum was hacked and member data leaked in the latest of a series of attacks targeting mostly Russian-speaking hacker forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maza forum hacked in recent attacks targeting cybercrime forums<a href="https://www.bleepingcomputer.com/news/security/maza-forum-hacked-in-recent-attacks-targeting-cybercrime-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Maza cybercrime forum was hacked and member data leaked in the latest of a series of attacks targeting mostly Russian-speaking hacker forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity firm Qualys is the latest victim of Accellion hacks<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-firm-qualys-is-the-latest-victim-of-accellion-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Qualys is the latest victim to have suffered a data breach after a zero-day vulnerability in their&nbsp;Accellion FTA server was exploited to steal hosted files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recovering from the SolarWinds hack could take 18 months<a href="https://www.technologyreview.com/2021/03/02/1020166/solarwinds-brandon-wales-hack-recovery-18-months?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fully recovering from the SolarWinds hack will take the US government from a year to as long as 18 months, according to the head of the agency that is leading Washington’s recovery.
+</details>
+<div style="text-align: right" markdown="1">
+Technology Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: SolarWinds Attack Highlights Growing Sophistication of Nation State Actors<a href="https://www.infosecurity-magazine.com:443/news/microsoft-solarwinds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discusses the changing threat landscape
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity firm Qualys likely latest victim of Accellion hacks<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-firm-qualys-likely-latest-victim-of-accellion-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Qualys is the latest victim to have suffered a data breach after a zero-day vulnerability in their&nbsp;Accellion FTA server was exploited to steal hosted files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brand(ed) Lures and GuLoader - The New Face of Email-based Attacks<a href="https://cyware.com/news/branded-lures-and-guloader-the-new-face-of-email-based-attacks-0f079eb7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After studying millions of email-based attacks, researchers note a unique trend in malware-stealing attempts and disclose details about the success recipe of a top malware used by them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing Space: The Next Frontier of Credential-Based Attacks<a href="https://www.nextgov.com/ideas/2021/03/securing-space-next-frontier-credential-based-attacks/172357/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Examples of critical infrastructure in space include the NASA satellites orbiting Earth, which are equipped with cameras and scientific sensors to collect data about the planet.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers took over the Perl.com domain in September 2020<a href="https://securityaffairs.co/wordpress/115208/cyber-crime/perl-com-hijack-september.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Perl.com domain was&nbsp;hijacked in January, but a senior editor at the site revealed that the hackers took control of the domain in September 2020.
+
+
+
+The Perl.com domain was&nbsp;hijacked in January 2021, but according to Brian Foy, senior editor of Perl.com,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Oxfam Australia confirms 'supporter' data accessed in cyber attack<a href="https://www.itnews.com.au/news/oxfam-australia-confirms-supporter-data-accessed-in-cyber-attack-561657?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an update on Monday, Oxfam Australia said it had found “supporter’s information on one of its databases was unlawfully accessed by an external party on 20 January 2021”.
+</details>
+<div style="text-align: right" markdown="1">
+IT News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post-Cyberattack, Universal Health Services Faces $67M in Losses<a href="https://threatpost.com/post-cyberattack-universal-health-services-faces-67m-in-losses/164424/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fortune-500 hospital network owner is facing steep costs in damages after a cyberattack impacted patient care and billing in September and October.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French multinational dairy Lactalis hit by a cyber attack<a href="https://securityaffairs.co/wordpress/115173/hacking/lactalis-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French multinational dairy products corporation Lactalis discloses cyberattack, but claimed that had no evidence of a data breach.
+
+
+
+France-based dairy giant Lactalis announced that it was hit by a cyber attack, but claimed that it had found no evidence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World's leading dairy group Lactalis hit by cyberattack<a href="https://www.bleepingcomputer.com/news/security/worlds-leading-dairy-group-lactalis-hit-by-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lactalis, the world's leading dairy group, has disclosed a cyberattack after unknown threat actors have breached some of the company's systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Blames Intern for Weak Password That Led to Biggest Attack in 2020<a href="https://thehackernews.com/2021/03/solarwinds-blame-intern-for-weak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cybersecurity researchers continue to piece together the sprawling&nbsp; SolarWinds supply chain attack , top executives of the Texas-based software services firm blamed an intern for a critical password lapse that went unnoticed for several years.&nbsp;  The said password " solarwinds123 " was originally believed to have been publicly accessible via a GitHub repository since June 17, 2018, before the misconfiguration was addressed on November 22, 2019.  But in a&nbsp; hearing &nbsp;before the House Committees on Oversight and Reform and Homeland Security on SolarWinds on Friday, CEO Sudhakar Ramakrishna testified that the password had been in use as early as 2017.  While a preliminary investigation into the attack revealed that the operators behind the espionage campaign managed to compromise the software build and code signing infrastructure of SolarWinds Orion platform as early as October 2019 to deliver the Sunburst backdoor, Crowdstrike's incident response efforts pointed to a&nbsp; revi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand-based cryptocurrency exchange Cryptopia hacked again<a href="https://securityaffairs.co/wordpress/115099/hacking/cryptopia-hacked-twice.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New Zealand-based cryptocurrency exchange Cryptopia suffered a new cyber heist while it is in liquidation due to a 2019 security breach.
+
+
+
+In 2019, the New Zealand-based cryptocurrency exchange Cryptopia discloses a cyber attack that took place...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile customers were hit with SIM swapping attacks<a href="https://securityaffairs.co/wordpress/115068/data-breach/t-mobile-sim-swapping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The telecommunications giant T-Mobile disclosed a data breach after some of its customers were apparently affected by SIM swap attacks.
+
+
+
+The telecommunications provider T-Mobile has disclosed a data breach after it became aware that some of its customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency exchange in liquidation due to hack, hacked again<a href="https://www.hackread.com/cryptocurrency-exchange-liquidation-hacked-again/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The same cryptocurrency exchange has been hacked again, and this time the attackers stole USD 45,000 (NZD 62,000) worth of crypto, reported local news network Stuff.co.NZ.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Investigating Michigan School District Hack<a href="https://www.infosecurity-magazine.com:443/news/fbi-investigating-michigan-school/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Saginaw Township Community Schools targeted in ransomware attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland's CD Projekt delays Cyberpunk 2077 fix due to cyber attack<a href="https://www.reuters.com/article/us-cd-projekt-patch/polands-cd-projekt-delays-cyberpunk-2077-fix-due-to-cyber-attack-idUSKBN2AO2BW?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish video games maker CD Projekt is delaying the release of a patch for its Cyberpunk 2077 game until the second half of March, after a cyberattack slowed down work on fixes for the troubled game.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Npower Ditches App After Credential Stuffing Attacks<a href="https://www.infosecurity-magazine.com:443/news/npower-ditches-app-credential/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energy giant has informed affected customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oxford University Research Lab Studying the Coronavirus Becomes Victim of Cyberattack<a href="https://www.theverge.com/2021/2/25/22301725/covid-19-research-lab-hacked-oxford-university-strubi?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oxford reported on Thursday that one of its research labs dedicated to studying COVID-19 suffered a cyberattack, following a Forbes investigation indicating external access to a number of its systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Launch Against Vietnamese Human-Rights Activists<a href="https://threatpost.com/cyberattacks-vietnam-human-rights-activists/164284/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnam joins the ranks of governments using spyware to crack down on human-rights defenders.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Stuffing Attack on Energy Firm Npower’s App Exposed Customers' Personal and Banking Details<a href="https://www.bbc.com/news/technology-56195631?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contact details, birth dates, addresses, and partial bank account numbers are among the details believed stolen. But the affected accounts had been locked, Npower told the BBC.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Senators: AWS Infrastructure Used In SolarWinds Attack<a href="https://www.crn.com/news/security/u-s-senators-aws-infrastructure-used-in-solarwinds-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Senators slammed Amazon Web Services for refusing to testify at a hearing about the SolarWinds intrusion given the public cloud giant’s infrastructure was used in the attack.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers scan for vulnerable VMware servers after PoC exploit release<a href="https://www.bleepingcomputer.com/news/security/attackers-scan-for-vulnerable-vmware-servers-after-poc-exploit-release/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After security researchers have developed and published proof-of-concept (PoC) exploit code targeting a critical vCenter remote code execution (RCE) vulnerability, attackers are now actively scanning for vulnerable Internet-exposed VMware servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Slams Microsoft Over SolarWinds Hack<a href="https://www.infosecurity-magazine.com:443/news/crowdstrike-slams-microsoft-over/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech companies point fingers at customers and one another in SolarWinds Senate hearing
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes members warn of Accellion FTA extortion attacks<a href="https://www.bleepingcomputer.com/news/security/five-eyes-members-warn-of-accellion-fta-extortion-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four members of Five Eyes, in collaboration with Singapore as an active contributor, have issued a joint security advisory about ongoing attacks and extortion attempts targeting organizations using the Accellion File Transfer Appliance (FTA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warns of Notable Increase in QuickBooks Data Files Theft Attacks<a href="https://thehackernews.com/2021/02/experts-warns-of-notable-increase-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has uncovered a significant increase in QuickBooks file data theft using social engineering tricks to deliver malware and exploit the accounting software.  "A majority of the time, the attack involves basic malware that is often signed, making it hard to detect using antivirus or other threat detection software," researchers from ThreatLocker said in an analysis shared today with The Hacker News.  QuickBooks is an accounting software package developed and marketed by Intuit.   The spear-phishing attacks take the form of a PowerShell command that's capable of running inside of the email, the researchers said, adding, a second attack vector involves decoy documents sent via email messages that, when opened, runs a macro to download malicious code which uploads QuickBooks files to an attacker-controlled server.  Alternatively, bad actors have also been spotted running a PowerShell command called&nbsp; Invoke-WebRequests &nbsp;on target systems to upload relevant data to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes warns of Accellion FTA attacks leading to extortion<a href="https://www.bleepingcomputer.com/news/security/five-eyes-warns-of-accellion-fta-attacks-leading-to-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five Eyes members have issued a joint security advisory regarding ongoing attacks and extortion attempts&nbsp;targeting organizations using the out-of-support&nbsp;Accellion File Transfer Appliance (FTA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Was Hacked. Was It Also Extorted?<a href="https://www.govinfosecurity.com/blogs/sonicwall-was-hacked-was-also-extorted-p-2999?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity companies advise their clients not to pay ransoms for good reasons: Pay once and the attackers may come back with their hand out again. It also promotes a cybercrime business model.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shadow Attacks Let Attackers Replace Content in Digitally Signed PDFs<a href="https://thehackernews.com/2021/02/shadow-attacks-let-attackers-replace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have demonstrated a novel class of attacks that could allow a bad actor to potentially circumvent existing countermeasures and break the integrity protection of digitally signed PDF documents.  Called " Shadow attacks " by academics from Ruhr-University Bochum, the technique uses the "enormous flexibility provided by the PDF specification so that shadow documents remain standard-compliant."  The findings were presented yesterday at the Network and Distributed System Security Symposium (NDSS), with 16 of the 29 PDF viewers tested — including Adobe Acrobat, Foxit Reader, Perfect PDF, and Okular — found vulnerable to shadow attacks.  To carry out the attack, a malicious actor creates a PDF document with two different contents: one which is the content that's expected by the party signing the document, and the other, a piece of hidden content that gets displayed once the PDF is signed.  "The signers of the PDF receive the document, review it, and s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FireEye: Accellion FTA Attacks Could be FIN11<a href="https://www.infosecurity-magazine.com:443/news/fireeye-accellion-fta-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime group linked to theft and extortion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina County Rebuilds Network After Hacking<a href="https://www.securityweek.com/south-carolina-county-rebuilds-network-after-hacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers sent an email on Jan 22 that allowed them to take over Georgetown County’s computers. They demanded a ransom to return the system to the county’s control, spokeswoman Jackie Broach said.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine sites suffered massive attacks launched from Russian networks<a href="https://securityaffairs.co/wordpress/114913/cyber-warfare-2/russian-networks-ukraine-sites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine 's government accused unnamed Russian traffic networks as the source of massive attacks on Ukrainian security and defense websites.
+
+
+
+Today Ukraine accused unnamed Russian internet networks of massive attacks that targeted Ukrainian security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgetown County has yet to recover from a sophisticated cyber attack<a href="https://securityaffairs.co/wordpress/114908/hacking/georgetown-county-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The systems of Georgetown County have been hacked at the end of January, and the county staff is still working to rebuild its computer network.
+
+
+
+The systems of Georgetown County have been hit with a sophisticated cyber attack at the end of January,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silicon Valley VC Firm Phished<a href="https://www.infosecurity-magazine.com:443/news/silicon-valley-vc-firm-phished/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sequoia Capital tells investors that it has been hacked
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals leveraging shift to remote work to develop targeted attacks<a href="https://www.helpnetsecurity.com/2021/02/22/remote-work-targeted-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes announced the findings of its report which explores how the global pandemic forced many employees to quickly become a remote workforce and confined consumers to their homes.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beneteau to Suspend Some Production After Cyberattack<a href="https://www.bloomberg.com/news/articles/2021-02-21/beneteau-to-suspend-some-production-after-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the deployment of backup systems will allow Beneteau’s activities to start again, production at some of its units, particularly in France, will have to slow down or stop for a few days.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lakehead University shuts down campus network after cyberattack<a href="https://www.bleepingcomputer.com/news/security/lakehead-university-shuts-down-campus-network-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian undergraduate research university Lakehead has been dealing with a cyberattack that forced the institution earlier this week to cut off access to its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sequoia Capital says it was hacked<a href="https://www.axios.com/sequoia-capital-says-it-was-hacked-590dcdd6-fe49-46c6-8422-60a944272302.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per Axios, Sequoia Capital told its investors that some of their personal and financial information may have been accessed by a third party, after a Sequoia employee's email was successfully phished.
+</details>
+<div style="text-align: right" markdown="1">
+Axios
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lakehead University Shuts Down Campuses and Computers After Cyberattack<a href="https://hotforsecurity.bitdefender.com/blog/lakehead-university-shuts-down-campuses-and-computers-after-cyberattack-25358.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In response to the attack, officials shut down all computer systems at the Thunder Bay and Orillia campuses. The message sent to faculty members doesn’t say how the threat actors managed to infiltrate the information systems of the university.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential-Stuffing Attack Targets Regional Internet Registry<a href="https://threatpost.com/credential-stuffing-attack-ripe-ncc/164109/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RIPE NCC, the regional Internet registry for Europe, West Asia, and the former Soviet Union, said attackers attempted a credential-stuffing attack against its single-sign on service.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hack Lets Attackers Bypass MasterCard PIN by Using Them As Visa Card<a href="https://thehackernews.com/2021/02/new-hack-lets-attackers-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a&nbsp;novel attack&nbsp;that could allow criminals to trick a point of sale terminal into transacting with a victim's Mastercard contactless card while believing it to be a Visa card.  The research, published by a group of academics from the ETH Zurich, builds on a study&nbsp; detailed last September &nbsp;that delved into a PIN bypass attack, permitting bad actors to leverage a victim's stolen or lost Visa EMV-enabled credit card for making high-value purchases without knowledge of the card's PIN, and even fool the terminal into accepting unauthentic offline card transactions.  "This is not just a mere card brand mixup but it has critical consequences," researchers David Basin, Ralf Sasse, and Jorge Toro said. "For example, criminals can use it in combination with the previous attack on Visa to also bypass the PIN for Mastercard cards. The cards of this brand were previously presumed protected by PIN."   Following responsible disc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hiding in Plain Sight: What the SolarWinds Attack Revealed About Efficacy<a href="https://www.darkreading.com/vulnerabilities---threats/hiding-in-plain-sight-what-the-solarwinds-attack-revealed-about-efficacy/a/d-id/1340140?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds breach is a reminder that, in general, any company that relies heavily on tools alone to secure its network infrastructure and software is taking an enormous risk.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Registry RIPE NCC Warns of Credential Stuffing Attack<a href="https://www.infosecurity-magazine.com:443/news/internet-registry-ripe-ncc-warns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers unsuccessfully targeted its single sign-on service
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Registry for Europe experienced a credential-stuffing attack<a href="https://cybernews.com/news/internet-registry-for-europe-experienced-a-credential-stuffing-attack-claims-it-was-unsuccessful/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Regional Internet Registry for Europe and part of Asia (RIPE NCC) said its single sign-on (SSO) service experienced a suspected credential-stuffing attack, which caused a short outage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential stuffing attack hit RIPE NCC: Members have to enable 2FA<a href="https://securityaffairs.co/wordpress/114742/hacking/ripe-ncc-credential-stuffing-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RIPE NCC has disclosed a failed credential stuffing attack against its infrastructure, it asking its members to enable 2FA for their accounts.
+
+
+
+RIPE NCC announced to have suffered a credential stuffing attack attempting to gain access to single sign-on...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RIPE NCC Internet Registry discloses SSO credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/ripe-ncc-internet-registry-discloses-sso-credential-stuffing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+&nbsp;RIPE NCC is warning members that they suffered a credential stuffing attack attempting to gain access to single sign-on (SSO) accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds attack hit 100 companies and took months of planning, says White House<a href="https://www.zdnet.com/article/solarwinds-attack-hit-100-companies-and-took-months-of-planning-says-white-house/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House team leading the investigation into the SolarWinds hack is worried that the breach of 100 US companies has the potential to make the initial compromise a headache in future.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Telephony denial-of-service attacks can lead to loss of lives<a href="https://www.bleepingcomputer.com/news/security/fbi-telephony-denial-of-service-attacks-can-lead-to-loss-of-lives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Federal Bureau of Investigation (FBI) has warned of the harsh consequences of telephony denial-of-service (TDoS) attacks and has also provided the steps needed to mitigate&nbsp;their impact.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 most used MITRE ATT&amp;CK tactics and techniques<a href="https://www.helpnetsecurity.com/2021/02/16/most-used-mitre-attck-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MITRE ATT&amp;CK framework is a well known and widely used knowledge base of cyber adversary tactics, techniques and procedures, and is based on observations on real-world attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Centreon Says that Russian Hackers Hit Older Versions of the Software<a href="https://cybersecuritynews.com/centreon-older-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Centreon, a French software company, published a blog providing clarification on a report published by ANSSI , CERTFR-2021-CTI-004.According to Centreon, &nbsp;Russian Hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Centreon says that recently disclosed campaigns only targeted obsolete versions of its open-source software<a href="https://securityaffairs.co/wordpress/114680/apt/centreon-software-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first attack spotted by ANSSI experts dates back to the end of 2017 and the campaign continued until 2020. Threat actors mainly targeted IT service providers, particularly web hosting.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows, Linux Devices Hijacked In Two-Year Cryptojacking Campaign<a href="https://threatpost.com/windows-linux-devices-hijacked-in-two-year-cryptojacking-campaign/164048/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WatchDog malware has flown under the radar for two years in what researchers call one of the ‘largest’ Monero cryptojacking attacks ever.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Simon Fraser University Discloses Cyberattack Exposing Personal Information of About 200,000 Students, Staff, and Alumni<a href="https://www.cbc.ca/news/canada/british-columbia/sfu-warns-cybertattack-exposed-personal-information-of-about-200-000-students-and-staff-1.5916153?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The school says about 200,000 people were affected by the breach. The server contained personal information for some current and former students, faculty, staff, and student applicants.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Centreon: Sandworm Attacks Targeted Legacy Open Source Product<a href="https://www.infosecurity-magazine.com:443/news/centreon-sandworm-attacks-targeted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French IT monitoring firm says around 15 organizations were impacted
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Web Shells Attacks Spreading Like Wildfire<a href="https://cyware.com/news/microsoft-web-shells-attacks-spreading-like-wildfire-59964b03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Microsoft, web shells are among critical tools used by hackers as it records around 140,000 web shells a month between August 2020 and January 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Dutch Research Council (NWO) suspends research grants<a href="https://www.bleepingcomputer.com/news/security/cyberattack-on-dutch-research-council-nwo-suspends-research-grants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Servers belonging to the Dutch Research Council (NWO) have been compromised, forcing the organization to make its network unavailable and suspend subsidy allocation for the foreseeable future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Frequent Attacks on Google Services and Products: A Worrisome Situation<a href="https://cyware.com/news/frequent-attacks-on-google-services-and-products-a-worrisome-situation-a032a036"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google products and services have long been targets of cybercrime, majorly due to its userbase. Recently, many attacker groups attempted to exploit Google systems in a variety of campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: web shell attacks have doubled over the past year<a href="https://www.scmagazine.com/home/security-news/malware/microsoft-web-shell-attacks-have-doubled-over-the-past-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While they’re easy for attackers to set up, web shells can be difficult for defenders to detect, since they’re often targeted to specific servers and can hide in the noise of internet traffic, scanning, probing and unsuccessful attacks that most organizations see on a daily basis.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copycats imitate novel supply chain attack that hit tech giants<a href="https://www.bleepingcomputer.com/news/security/copycats-imitate-novel-supply-chain-attack-that-hit-tech-giants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, hundreds of&nbsp;new packages have been published to the&nbsp;npm open-source repository named after&nbsp;private components being internally used by major companies. These npm packages are identical to the proof-of-concept packages created by Alex Birsan, the researcher who had recently managed to infiltrate over major 35 tech firms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dependency Confusion - Novel Supply Chain Attack Technique<a href="https://cyware.com/news/dependency-confusion-novel-supply-chain-attack-technique-870366d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned of a new type of attack technique that can be used to poison the app-building process. The attack was tested against at least 35 major tech firms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Extensions Gain Traction as Attack Vector<a href="https://cyware.com/news/browser-extensions-gain-traction-as-attack-vector-1917737e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious browser extensions are increasingly being used to infect millions of users across the world to monitor their browsing activity, exfiltrate stolen data, send malicious commands, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copycat researchers imitate supply chain attack that hit tech giants<a href="https://www.bleepingcomputer.com/news/security/copycat-researchers-imitate-supply-chain-attack-that-hit-tech-giants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, hundreds of&nbsp;new packages have been published to the&nbsp;npm open-source repository named after&nbsp;private components being internally used by major companies. These npm packages are identical to the proof-of-concept packages created by Alex Birsan, the researcher who had recently managed to infiltrate over major 35 tech firms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singtel Suffers Zero-Day Cyberattack, Damage Unknown<a href="https://threatpost.com/singtel-zero-day-cyberattack/163938/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tier 1 telecom giant was caught up in a coordinated, wide-ranging attack using unpatched security bugs in the Accellion legacy file-transfer program. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Water Plant Hack: Leaked Credentials Found in Breach Database<a href="https://threatpost.com/florida-water-plant-hack-credentials-breach/163919/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered credentials for the Oldsmar water treatment facility in the massive compilation of data from breaches posted just days before the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of the rise of web shell attacks<a href="https://securityaffairs.co/wordpress/114512/hacking/microsoft-web-shell-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Microsoft are warning that the number of monthly web shell attacks has doubled since last year.
+
+
+
+Microsoft reported that the number of monthly web shell attacks has almost doubled since last year, its experts observed an average of 140,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blocked accounts abused in Evolution CMS SQL injection attacks<a href="https://portswigger.net/daily-swig/blocked-accounts-abused-in-evolution-cms-sql-injection-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On February 8, Synactiv revealed two security flaws in the CMS and how a “blocked account” can be exploited to perform an “unauthenticated SQLi in Evolution CMS using the X-Forwarded-For header”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of an increasing number of web shell attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-an-increasing-number-of-web-shell-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that the number of monthly web shell attacks has almost doubled since last year, with an average of 140,000 such malicious tools being found on compromised servers&nbsp;every month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Links North Korea to $281m Crypto Exchange Heist<a href="https://www.infosecurity-magazine.com:443/news/un-links-north-korea-281m-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most funds recovered but attack bears hallmarks of hermit kingdom
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poor Password Security Lead to Recent Water Treatment Facility Hack<a href="https://thehackernews.com/2021/02/poor-password-security-lead-to-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New details have emerged about the remote computer intrusion at a Florida water treatment  facility last Friday, highlighting a lack of adequate security measures needed to bulletproof critical infrastructure environments.  The breach, which occurred last Friday, involved an&nbsp; unsuccessful attempt &nbsp;on the part of an adversary to increase sodium hydroxide dosage in the water supply to dangerous levels by remotely accessing the SCADA system at the water treatment plant. The system's plant operator, who spotted the intrusion, quickly took steps to reverse the command, leading to minimal impact.   Now, according to an&nbsp; advisory &nbsp;published on Wednesday by the state of Massachusetts, unidentified cyber actors accessed the supervisory control and data acquisition (SCADA) system via TeamViewer software installed on one of the plant's several computers that were connected to the control system.  Not only were these computers running 32-bit versions of the Windows 7 operating system, but
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Hacked into Microsoft, Apple, more in Novel Supply Chain Attack<a href="https://cybersecuritynews.com/novel-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Ethical hacker, Alex Birsan, has demonstrated that it is possible to breach the systems of tech giants by utilizing a novel supply...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid, Older Users Most-Targeted by Gmail Attackers<a href="https://threatpost.com/hybrid-older-users-gmail-attackers/163826/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Google and Stanford analyzed a 1.2 billion malicious emails to find out what makes users likely to get attacked. 2FA wasn’t a big factor.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Hacks Apple and Microsoft<a href="https://www.infosecurity-magazine.com:443/news/researcher-hacks-apple-and/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Novel supply chain attack allows researcher to hack internal systems of major companies
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply-Chain Hack Breaches 35 Companies, Including PayPal, Microsoft, Apple<a href="https://threatpost.com/supply-chain-hack-paypal-microsoft-apple/163814/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ethical hacker Alex Birsan developed a way to inject malicious code into open-source developer tools to exploit dependencies in organizations internal applications.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Using Sophisticated Obfuscation Techniques to Evade Detection<a href="https://cyware.com/news/attackers-using-sophisticated-obfuscation-techniques-to-evade-detection-c857f83b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts stumbled across an unusual DNS query that eventually led to the discovery of a multi-step obfuscated malware using nslookup.exe to hide the actual malicious intent.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web hosting provider shuts down after cyberattack<a href="https://www.zdnet.com/article/web-hosting-provider-shuts-down-after-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A web hosting company named No Support Linux Hosting announced today it was shutting down after a hacker breached its internal systems and compromised its entire operation.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dependency Confusion Supply-Chain Attack Hit Over 35 High-Profile Companies<a href="https://thehackernews.com/2021/02/dependency-confusion-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a novel supply chain attack, a security researcher managed to breach over 35 major companies' internal systems, including that of Microsoft, Apple, PayPal, Shopify, Netflix, Yelp, Tesla, and Uber, and achieve remote code execution.  The technique, called dependency confusion  or a substitution attack, takes advantage of the fact that a piece of software may include components from a mix of private and public sources.  These external package dependencies, which are fetched from public repositories during a build process, can pose an attack opportunity when an adversary uploads a higher version of a private module to the public feed, causing a client to automatically download the bogus "latest" version without requiring any action from the developer.   "From one-off mistakes made by developers on their own machines, to misconfigured internal or cloud-based build servers, to systemically vulnerable development pipelines, one thing was clear: squatting val
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discloses New 'Dependency Confusion' Attack Technique Used to Target 35 Major Tech Firms<a href="https://www.zdnet.com/article/microsoft-warns-enterprises-of-new-dependency-confusion-attack-technique/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft published a white paper on a new technique called a "dependency confusion" or a "substitution attack" that can be used to poison the app-building process inside corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A water-treatment hacking, and the complexities of risk mitigation<a href="https://www.scmagazine.com/home/editorial/a-water-treatment-hacking-and-the-complexities-of-risk-mitigation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How do you define risk? For those in the cybersecurity community, risk is usually defined by degree of exposure an organization might have to losses tied to breaches or system attacks. But ask that same question of a hospital administrator struggling to treat COVID patients and the answer might be tied to the number of…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher hacks Microsoft, Apple, more in novel supply chain attack<a href="https://www.bleepingcomputer.com/news/security/researcher-hacks-microsoft-apple-more-in-novel-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher managed to hack systems of over 35 major tech companies including Microsoft, Apple, PayPal, Shopify, Netflix, Tesla, Yelp, Tesla, and Uber in a novel software supply chain attack. For his ethical hacking research efforts, the researcher has been awarded over $130,000 in bug bounties.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attacks Back on the Forefront<a href="https://cyware.com/news/supply-chain-attacks-back-on-the-forefront-ebc78d3b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers recently disclosed a cyber-espionage attack campaign targeting Asian gamers, that jeopardized the update mechanism of NoxPlayer, an Android emulator for Macs and PCs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, SolarWinds in dispute over nation-state attacks<a href="https://searchsecurity.techtarget.com/news/252496046/Microsoft-SolarWinds-in-dispute-over-nation-state-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In separate blog posts last week, the two companies provided updates on their ongoing investigations into how nation-state actors initially compromised SolarWinds' environment.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberpunk 2077 Developer Hit By Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/cyberpunk-developer-hit-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game firm CD Projekt reveals a ransom note left by the attackers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to notify Office 365 users of nation-state attacks<a href="https://securityaffairs.co/wordpress/114374/cyber-warfare-2/microsoft-office-365-nation-state-alerts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft implements alerts for 'nation-state activity' in the Defender for Office 365 dashboard, to allow organizations to quickly respond.
+
+
+
+Since 2016, Microsoft has been alerting users of nation-state activity, now the IT giant added the same service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of Thousands of Patient Files Leaked in US Hospital Attacks<a href="https://www.infosecurity-magazine.com:443/news/tens-thousands-files-leaked-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group suspected, but lack of malware perplexes
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds CEO Confirms Office 365 Email ‘Compromise’ Played Role In Broad-Based Attack<a href="https://www.crn.com/news/security/solarwinds-ceo-confirms-office-365-email-compromise-played-role-in-broad-based-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds CEO Sudhakar Ramakrishna verified this week “suspicious activity” in its Office 365 environment allowed hackers to gain access to and exploit the SolarWinds Orion development environment.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Attack on Woodland Trust<a href="https://www.infosecurity-magazine.com:443/news/cyber-attack-on-woodland-trust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conservation charity notifies members of sophisticated December cyber-assault
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spotify Suffers Second Credential-Stuffing Cyberattack in 3 Months<a href="https://threatpost.com/spotify-credential-stuffing-cyberattack/163672/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 100,000 of the music streaming service’s customers could face account takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated Tools Increasingly Used to Launch Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/automated-tools-launch-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over half of attacks detected by Barracuda involve the use of automation
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second SolarWinds Attack Group Breaks into USDA Payroll — Report<a href="https://threatpost.com/second-solarwinds-attack-group-usda-payroll/163635/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A second APT, potentially linked to the Chinese government, could be behind the Supernova malware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged China-linked hackers used SolarWinds bug to breach National Finance Center<a href="https://securityaffairs.co/wordpress/114171/hacking/national-finance-center-solarwinds-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged China-linked hackers have exploited a flaw in the SolarWinds Orion software to hack systems at the U.S. National Finance Center.
+
+
+
+FBI investigators discovered that allegedly China-linked hackers have exploited a flaw in the SolarWinds Orion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Supply Chain Attack Targets Gaming Companies in Asia<a href="https://cybersecuritynews.com/supply-chain-attack-targets-gaming-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ ESET researchers uncover a new supply-chain attack used in a cyberespionage operation targeting online‑gaming communities in Asia.  The new...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US federal payroll agency hacked using SolarWinds software flaw<a href="https://www.bleepingcomputer.com/news/security/us-federal-payroll-agency-hacked-using-solarwinds-software-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has discovered that the National Finance Center (NFC), a U.S. Department of Agriculture (USDA) federal payroll agency, was compromised by exploiting a SolarWinds Orion software flaw, according to a Reuters report.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina County Still Reeling from January Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/georgetown-county-cyber-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Georgetown County still working to repair network brought down by cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Many victims of SolarWinds hackers had no direct connection to SolarWinds<a href="https://securityaffairs.co/wordpress/114114/hacking/solarwinds-hackers-victims-no-direct-link.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA reveals that many of the victims of the SolarWinds hackers had no direct connection to SolarWinds.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) revealed that many of the organizations targeted by SolarWinds hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation NightScout: supply chain attack on NoxPlayer Android emulator<a href="https://securityaffairs.co/wordpress/114090/hacking/noxplayer-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered a new supply chain attack leveraging the update process of NoxPlayer, a free Android emulator for PCs and Macs.
+
+
+
+A new supply chain attack made the headlines, a threat actor has compromised the update process of NoxPlayer, a free...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Mensa Website Hack Results in Theft of Members’ Personal Data<a href="https://www.forbes.com/sites/barrycollins/2021/01/30/britains-smartest-peoplemensafail-to-secure-passwords-properly/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British Mensa, the society for people with high IQs, failed to properly secure the passwords on its website, prompting a hack on its website that has resulted in the theft of members’ personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chopper ASPX web shell used in targeted attack<a href="https://www.trendmicro.com/en_us/research/21/a/targeted-attack-using-chopper-aspx-web-shell-exposed-via-managed.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web shells can be embedded on servers and can be used by attackers to launch arbitrary code. In as little as 15 bytes, web shells can enable remote administration of an infected machine or system.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USCellular Hacked – Hackers Gained access to its CRM Software<a href="https://cybersecuritynews.com/uscellular-hacked-hackers-gained-access-to-its-crm-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ USCellular is one of the mobile network operators that protect its customer's privacy and strictly follows all its protection policies. But, recently,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UScellular data breach: attackers ported customer phone numbers<a href="https://securityaffairs.co/wordpress/114023/data-breach/uscellular-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US wireless carrier UScellular discloses data breach, personal information of customers may have been exposed and their phone numbers ported.
+
+
+
+US wireless carrier UScellular discloses a data breach that exposed personal information of its customers.
+
+
+
+United...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As SolarWinds spooks tech firms into rechecking code, some won’t like what they find<a href="https://www.scmagazine.com/application-security/as-solarwinds-spooks-tech-firms-into-rechecking-code-some-wont-like-what-they-find/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If more attacks are uncovered, end-user organizations must apply lessons learned from SolarWinds and take decisive action.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Domain for programming website Perl.com hijacked<a href="https://securityaffairs.co/wordpress/114006/hacking/website-perl-com-hijacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors took over the domain name perl.com and pointed it to an IP address associated with malware campaigns.
+
+
+
+Attackers have taken over the official domain name of The Perl Foundation perl.com and pointed it to an IP address associated with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does SolarWinds change the rules in offensive cyber? Experts say no, but offer alternatives<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/does-solarwinds-change-the-rules-in-offensive-cyber-experts-say-no-but-offer-alternatives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While tempting, most experts agree that hack-back strategies are a bad idea for companies. But there are tactics that can help deter nation-state actors and limit their ability to penetrate networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks on Individuals Fall as Cybercrime Shifts Tactics<a href="https://www.securityweek.com/attacks-individuals-fall-cybercrime-shifts-tactics?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals shifted away from stealing individual consumers’ information in 2020 to focus on bigger, more profitable attacks on businesses, as per a report from the Identity Theft Resource Center.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Fifth of Sunburst Backdoor Victims from Manufacturing Industry<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-sunburst-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+18% of all victims of the Sunburst backdoor are manufacturing organizations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perl.com&nbsp;domain stolen, now using IP address tied to malware<a href="https://www.bleepingcomputer.com/news/security/perlcom-domain-stolen-now-using-ip-address-tied-to-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The domain name perl.com was stolen this week and is now points to an IP address associated with malware campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perl-clutching hijackers appear to have seized control of 33-year-old programming language's .com domain<a href="https://www.theregister.com/2021/01/28/perl_hijacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The domain hijacking incident appears to have followed the age-old path of an attacker pouncing on a compromised account and swiping the domain rather than a simple expiration.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hezbollah hackers attack unpatched Atlassian servers at telcos, ISPs<a href="https://www.bleepingcomputer.com/news/security/hezbollah-hackers-attack-unpatched-atlassian-servers-at-telcos-isps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volatile Cedar, an advanced hacker group believed to be connected to the Lebanese Hezbollah Cyber Unit, has been silently attacking companies around the world in espionage operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind TCP/IP hijacking is resurrected for Windows 7<a href="https://portswigger.net/daily-swig/blind-tcp-ip-hijacking-is-resurrected-for-windows-7?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although Microsoft deemed the bug “very difficult” to exploit and therefore only fixed it in Windows 8, researcher Adam Zabrocki says that he was able to rework the attack for use against Windows 7.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast Confirms SolarWinds Hack as List of Security Vendor Victims Snowball<a href="https://threatpost.com/mimecast-solarwinds-hack-security-vendor-victims/163431/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A growing number of cybersecurity vendors like CrowdStrike, Fidelis, FireEye, Malwarebytes, Palo Alto Networks and Qualys are confirming being targeted in the espionage attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Industrial Organizations Received Sunburst Malware in SolarWinds Attack<a href="https://www.securityweek.com/hundreds-industrial-organizations-received-sunburst-malware-solarwinds-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky’s industrial cybersecurity researchers analyzed a list of nearly 2,000 domains impacted by Sunburst and estimated that roughly 32% of them were associated with industrial organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Security Vendors Admit to SolarWinds Attacks<a href="https://www.infosecurity-magazine.com:443/news/more-security-vendors-admit-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scale of the cyber-espionage campaign continues to grow
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Could Let Remote Hackers Target Devices On Internal Networks<a href="https://thehackernews.com/2021/01/new-attack-could-let-remote-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly devised variant of the&nbsp; NAT Slipstreaming attack &nbsp;can be leveraged to compromise and expose any device in an internal network, according to the latest research.  Detailed by enterprise IoT security firm Armis, the&nbsp; new attack &nbsp;(CVE-2020-16043 and CVE-2021-23961) builds on the previously disclosed technique to bypass routers and firewalls and reach any unmanaged device within the internal network from the Internet.  First&nbsp; disclosed &nbsp;by security researcher Samy Kamkar in late October 2020, the JavaScript-based attack relied on luring a user into visiting a malicious website to circumvent browser-based port restrictions and allow the attacker to remotely access TCP/UDP services on the victim's device, even those that were protected by a firewall or NAT.   Although partial mitigations were released on November 11 to thwart the attack in&nbsp; Chrome 87 ,&nbsp; Firefox 84 , and&nbsp; Safari &nbsp;by preventing connections on port 5060 or 5061, Armis researchers Ben Seri and Gregory Vishnipolsky r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Giant Suffers Major Cyber-Disruption<a href="https://www.infosecurity-magazine.com:443/news/manufacturing-giant-suffers-major/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attack bears the hallmarks of ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fidelis, Mimecast, Palo Alto Networks, Qualys also impacted by SolarWinds hack<a href="https://securityaffairs.co/wordpress/113893/security/solarwinds-hack-security-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vendors Fidelis, Mimecast, Palo Alto Networks, and Qualys revealed that were also impacted by SolarWinds supply chain attack
+
+
+
+The SolarWinds supply chain attack is worse than initially thought, other security providers, confirmed that they...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC attack techniques exploit Microsoft 365 messages<a href="https://www.scmagazine.com/home/email-security/bec-attack-techniques-exploit-microsoft-365-messages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers exploit Microsoft 365 “read receipt” and “out of office” message loopholes to evade auto-remediation of a malicious email.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina County Suffers Weekend Cyberattack<a href="https://www.securityweek.com/south-carolina-county-suffers-weekend-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A statement from Georgetown County’s local government said the county’s computer network “suffered a major infrastructure breach over the weekend.” Most of the county’s electronic systems, including emails, were impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading crane maker Palfinger hit in global cyberattack<a href="https://www.bleepingcomputer.com/news/security/leading-crane-maker-palfinger-hit-in-global-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading crane and lifting manufacturer Palfinger is targeted in an ongoing cyberattack that has disrupted IT systems and business operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Probes Attack Using Zero-Days in Own Products<a href="https://www.infosecurity-magazine.com:443/news/sonicwall-probes-zerodays-in-own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SMA 100 Series under investigation after “sophisticated” attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall says it was hacked using zero-days in its own products<a href="https://www.zdnet.com/article/sonicwall-says-it-was-hacked-using-zero-days-in-its-own-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking device maker SonicWall has disclosed that it is investigating a security breach of its internal network after detecting what it described as a "coordinated attack."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall network attacked via zero days in its VPN and secure access solutions<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/sonicwall-network-attacked-via-zero-days-in-its-vpn-and-secure-access-solutions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm SonicWall disclosed Friday night that hackers attacked the company’s internal networks by first exploiting zero-day vulnerabilities in its very own secure remote access products. SC Media received an anonymous tip Friday that SonicWall had suffered an attack, but did not get confirmation ahead of the disclosure by the company. SonicWall, whose product line…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall firewall maker hacked using zero-day in its VPN device<a href="https://www.bleepingcomputer.com/news/security/sonicwall-firewall-maker-hacked-using-zero-day-in-its-vpn-device/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security hardware manufacturer SonicWall has issued an urgent security notice about threat actors exploiting a zero-day vulnerability in their VPN products to perform attacks on their internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall firewall maker attacked using zero-day in its VPN device<a href="https://www.bleepingcomputer.com/news/security/sonicwall-firewall-maker-attacked-using-zero-day-in-its-vpn-device/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security hardware manufacturer SonicWall has issued an urgent security notice about threat actors exploiting a zero-day vulnerability in their VPN products to perform attacks on their internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security firm SonicWall was victim of a coordinated attack<a href="https://securityaffairs.co/wordpress/113764/hacking/sonicwall-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hacker News reported in exclusive that the security firm SonicWall was hacked as a result of a coordinated attack on its internal systems.
+
+
+
+TheHackerNews revealed in an exclusive that the security provider SonicWall was hacked on Friday.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyFreeCams site hacked to steal info of 2 million paying users<a href="https://www.bleepingcomputer.com/news/security/myfreecams-site-hacked-to-steal-info-of-2-million-paying-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker is selling a database with login details for two million high-paying users of the MyFreeCams adult video streaming and chat service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyFreeCams Hacked: 2 Million User Records Sold Online<a href="https://cybernews.com/security/2-million-user-records-stolen-from-top-adult-streaming-site-myfreecams-and-sold-on-hacker-forum/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data was allegedly exfiltrated from the company servers in December 2020 by carrying out an SQL injection attack, and includes 2 million user records of MyFreeCams Premium members.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CHwapi hospital hit by Windows BitLocker encryption cyberattack<a href="https://www.bleepingcomputer.com/news/security/chwapi-hospital-hit-by-windows-bitlocker-encryption-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CHwapi hospital in Belgium is suffering from a cyberattack where threat actors claim to have encrypted 40 servers and 100 TB of data using Windows Bitlocker.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases New Info on SolarWinds Attack Chain<a href="https://www.darkreading.com/attacks-breaches/microsoft-releases-new-info-on-solarwinds-attack-chain/d/d-id/1339940?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than one month after the SolarWinds breach that impacted numerous organizations was first uncovered, new details of the sophisticated operation continue to trickle out.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bot ‘FreakOut’ leverages three critical vulnerabilities to attack Linux systems<a href="https://www.scmagazine.com/home/security-news/malware/bot-freakout-leverages-three-critical-vulnerabilities-to-attack-linux-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on the malware features, the researchers said the attackers use the compromised systems for further attacks, spreading laterally across the victim company’s network, or launching attacks on outside targets while masquerading as the compromised company.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malwarebytes Hit by SolarWinds Attackers<a href="https://threatpost.com/malwarebytes-solarwinds-attackers/163190/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack vector was not the Orion platform but rather an email-protection application for Microsoft 365.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlanta Synagogue Reports Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/atlanta-synagogue-reports/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Annual Martin Luther King Jr. Shabbat service disrupted by “malicious user agents”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Livecoin crypto exchange shuts down after losing domain to hackers<a href="https://www.hackread.com/livecoin-crypto-exchange-shutdown-domain-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Livecoin has announced shutting down its operations, after becoming the victim of an alleged “carefully planned attack” that halted its operations temporarily on December 24, 2020,
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Sophisticated Windows and Android Hacking Operation Using Zero-Day Exploits<a href="https://cyware.com/news/a-sophisticated-windows-and-android-hacking-operation-using-zero-day-exploits-a4cb84d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google experts unveiled an attack campaign purportedly by a sophisticated hacking group targeting Windows and Android users with zero-day and n-day exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of vishing attacks stealing corporate accounts<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-vishing-attacks-stealing-corporate-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has issued a notification warning&nbsp;of ongoing vishing attacks attempting to steal corporate accounts and credentials for network access and privilege escalation from&nbsp;US and international-based&nbsp;employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+xHunt Campaign Adopts New Enhancements to Evade Detection<a href="https://cyware.com/news/xhunt-campaign-adopts-new-enhancements-to-evade-detection-82b5ccbf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated group is using a webshell called BumbleBee in an ongoing xHunt campaign targeting Microsoft Exchange servers at Kuwaiti organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA says multiple attacks on cloud services bypassed multifactor authentication<a href="https://www.scmagazine.com/home/security-news/cloud-security/cisa-says-multiple-attacks-on-cloud-services-bypassed-multifactor-authentication/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have used a variety of tactics and techniques—including phishing, brute force login attempts, and possibly a so-called “pass-the-cookie” attack that bypassed multifactor authentication to exploit cloud security weaknesses.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discloses hacking campaign targeting Windows, Android users<a href="https://www.bleepingcomputer.com/news/security/google-discloses-hacking-campaign-targeting-windows-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Project Zero, Google's 0day bug-hunting team, revealed a hacking campaign coordinated by "a highly sophisticated actor" and targeting Windows and Android users with zero-day and n-day exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast Cert Abused to Target Inboxes in “Sophisticated” Attack<a href="https://www.infosecurity-magazine.com:443/news/mimecast-cert-compromised-target/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vendor says attackers used it to access Microsoft 365 accounts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Project Zero Discovers Exploits via Watering Hole Attacks<a href="https://googleprojectzero.blogspot.com/2021/01/introducing-in-wild-series.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered two exploit servers delivering different exploit chains via watering hole attacks. One server targeted Windows users, the other targeted Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+Google Project Zero
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google reveals sophisticated Windows and Android hacking operation<a href="https://www.zdnet.com/article/google-reveals-sophisticated-windows-android-hacking-operation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google published a six-part report today detailing a sophisticated hacking operation that the company detected in early 2020 and which targeted owners of both Android and Windows devices.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated hacking campaign uses Windows and Android zero-days<a href="https://securityaffairs.co/wordpress/113342/hacking/project-zero-watering-hole-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero researchers uncovered a sophisticated hacking campaign that targeted Windows and Android users.
+
+
+
+The Google Project Zero team has recently launched an initiative aimed at devising new techniques to detect 0-day exploits employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colombian Energy, Metal Firms Under Attack in New Cyberespionage Campaign<a href="https://www.zdnet.com/article/colombian-energy-metal-firms-under-fire-from-new-trojan-attack-wave/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wave of attacks against companies in Columbia uses a trio of RATs to steal confidential, sensitive data. The campaign, dubbed Operation Spalax, was revealed by ESET researchers on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast discloses Microsoft 365 SSL certificate compromise<a href="https://www.bleepingcomputer.com/news/security/mimecast-discloses-microsoft-365-ssl-certificate-compromise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security company Mimecast has disclosed today that a "sophisticated threat actor" compromised one of the certificates the company issues for customers to securely connect Microsoft 365 Exchange to their services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand central bank hit by a cyber attack<a href="https://securityaffairs.co/wordpress/113242/data-breach/new-zealand-central-bank-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit the New Zealand central bank,  sensitive information has been potentially accessed by the intruders
+
+
+
+The New Zealand central bank announced today that a cyber attack hit its infrastructure. According to the Government organization,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Could Let Hackers Clone Your Google Titan 2FA Security Keys<a href="https://thehackernews.com/2021/01/new-attack-could-let-hackers-clone-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hardware security keys—such as those from Google and Yubico—are considered the most secure means to protect accounts from phishing and takeover attacks.  But a new research published on Thursday demonstrates how an adversary in possession of such a two-factor authentication (2FA) device can clone it by exploiting an electromagnetic side-channel in the chip embedded in it.  The vulnerability (tracked as CVE-2021-3011 ) allows the bad actor to extract the encryption key or the&nbsp; ECDSA &nbsp;private key linked to a victim's account from a FIDO Universal 2nd Factor (U2F) device like Google Titan Key or YubiKey, thus completely undermining the 2FA protections.  "The adversary can sign in to the victim's application account without the U2F device, and without the victim noticing," NinjaLab researchers Victor Lomne and Thomas Roche&nbsp; said &nbsp;in a 60-page analysis.   "In other words the adversary created a clone of the U2F device for the victim's application account. This cl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA551: Email Attack Campaign Switches from Valak to IcedID<a href="https://unit42.paloaltonetworks.com/ta551-shathak-icedid/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent campaign has targeted German, Italian and Japanese speakers. TA551 has historically pushed different families of information-stealing malware like Ursnif and Valak.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hack: Amid hardened security, attackers seek softer targets<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-hack-amid-hardened-security-attackers-seek-softer-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts disagree that election security efforts detracted from supply chain security. But there are still lessons to be learned.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks on Healthcare Spike 45% Since November<a href="https://threatpost.com/cyberattacks-healthcare-spike-ransomware/162770/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The relentless rise in COVID-19 cases is battering already frayed healthcare systems — and ransomware criminals are using the opportunity to strike.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Swatting Attacks<a href="https://www.infosecurity-magazine.com:443/news/fbi-warns-of-swatting-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swatting attacks targeting smart-home device users trigger public warning from FBI
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Against K-12 Schools Expected to Rise in 2021, FBI Warns<a href="https://hotforsecurity.bitdefender.com/blog/cyberattacks-against-k-12-schools-expected-to-rise-in-2021-fbi-warns-25005.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With students returning to online classrooms after the holidays, the FBI) expects a proliferation of cyber threats targeting K-12 schools and distance learning platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Issues Don’t Seem to Go Away<a href="https://cyware.com/news/supply-chain-issues-dont-seem-to-go-away-51cccd15"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain attacks have gained a lot of popularity among cybercriminals as inclusion or intrusion in a project can impact plenty of users and go undetected for a long time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean software supply chain attack targets stock investors<a href="https://www.bleepingcomputer.com/news/security/north-korean-software-supply-chain-attack-targets-stock-investors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hacking group&nbsp;Thallium aka APT37 has been targeting a private stock investment messenger service in a supply chain attack, as reported this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old Attack Method Against Google's Audio-Based reCAPTCHA Resurrected<a href="https://www.securityweek.com/old-attack-method-against-googles-audio-based-recaptcha-resurrected?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attack method called unCaptcha discovered in 2017 for defeating the audio version of Google’s reCAPTCHA system using speech-to-text services has once again been resurrected.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to bypass the Google Audio reCAPTCHA with a new version of unCaptcha2 attack<a href="https://securityaffairs.co/wordpress/113013/hacking/google-audio-recaptcha-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A German security researcher demonstrated how to break, once again, the Google Audio reCAPTCHA with Google's own Speech to Text API.
+
+
+
+Back in 2017, researchers from the University of Maryland demonstrated an attack method, dubbed unCaptcha, against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Attack on US Laboratory<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-us-laboratory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apex Laboratory discloses summertime cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antwerp laboratory becomes latest victim of cyber-attack<a href="https://www.brusselstimes.com/news/belgium-all-news/147433/antwerp-laboratory-becomes-latest-victim-of-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack took place on the General Medical Laboratory (AML) in the Antwerp district of Hoboken. Hackers installed ransomware on the lab’s website, bringing it to a standstill.
+</details>
+<div style="text-align: right" markdown="1">
+Brussels Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish Parliament Says Intruders Gained Access to Some MPs’ Email Accounts<a href="https://www.zdnet.com/article/finland-says-hackers-accessed-mps-emails-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an official statement, KRP Commissioner Tero Muurman said the attack did not cause any damage to the Parliament's internal IT system but was not an accidental intrusion either.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2020 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scottish Environment Protection Agency targeted in cyberattack<a href="https://news.stv.tv/scotland/scottish-environment-protection-agency-targeted-in-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Scottish Environment Protection Agency (Sepa) has been targeted in a significant cyberattack in the early hours of Christmas Eve, it's executive director, David Pirie, confirmed.
+</details>
+<div style="text-align: right" markdown="1">
+STV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2020 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warned CrowdStrike of Possible Hacking Attempt<a href="https://www.inforisktoday.com/microsoft-warned-crowdstrike-possible-hacking-attempt-a-15665?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned CrowdStrike earlier this month of a failed attempt by unidentified attackers to access and read the company's emails, according to a blog post published by the security firm.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div> 
