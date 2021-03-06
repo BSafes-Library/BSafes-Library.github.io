@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases IOC Detection Tool for Microsoft Exchange Server flaws<a href="https://securityaffairs.co/wordpress/115324/security/microsoft-exchange-server-audit-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the disclosure of Microsoft Exchange zero-days, MS Exchange Server team has released a script to determine if an install is vulnerable.
+
+
+
+This week Microsoft has released emergency out-of-band security updates that address four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 06, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
