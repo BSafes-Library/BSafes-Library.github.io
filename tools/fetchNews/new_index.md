@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's MSERT tool now finds web shells from Exchange Server attacks<a href="https://www.bleepingcomputer.com/news/security/microsofts-msert-tool-now-finds-web-shells-from-exchange-server-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has pushed out a new update for their Microsoft Safety Scanner (MSERT) tool to detect web shells deployed in the recent Exchange Server attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's MSERT tool now finds web shells from Exchange Server attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-msert-tool-now-finds-web-shells-from-exchange-server-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has pushed out a new update for their Microsoft Safety Scanner (MSERT) tool to detect web shells deployed in the recent Exchange Server attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office 365 gets protection against malicious XLM macros<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-gets-protection-against-malicious-xlm-macros/"> Full Text</a>
 </p>
 <details>
