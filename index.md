@@ -34,6 +34,82 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Server Flaws Raise Alarms at White House, DHS<a href="https://www.bnnbloomberg.ca/microsoft-server-flaws-raise-alarms-at-white-house-dhs-1.1573121?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered flaws in Microsoft Corp.’s software for email and contacts has raised concerns at the highest levels of the U.S. government, which is urging users to immediately apply patches.
+</details>
+<div style="text-align: right" markdown="1">
+BNN Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 304<a href="https://securityaffairs.co/wordpress/115356/breaking-news/security-affairs-newsletter-round-304.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+EU leaders...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach thousands of Microsoft customers around the world<a href="https://www.livemint.com/companies/news/hackers-breach-thousands-of-microsoft-customers-around-the-world-11615086559003.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated attack on Microsoft Corp.’s widely used business email software is morphing into a global cybersecurity crisis, as hackers race to infect as many victims as possible before companies can secure their computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+Livemint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware gang uses DDoS attacks and voice calls to make pressure on the victims<a href="https://securityaffairs.co/wordpress/115345/cyber-crime/revil-ransomware-ddos-voice-calls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators are using DDoS attacks and voice calls to journalists and victim's business partners to force victims to pay the ransom.
+
+
+
+The REvil/Sodinokibi ransomware operators announced that they are using DDoS attacks and voice...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
