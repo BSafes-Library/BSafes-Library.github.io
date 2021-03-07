@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public companies may not grasp responsibility to investors in sharing info on cyber risk<a href="https://www.scmagazine.com/home/security-news/data-breach/public-companies-may-not-grasp-responsibility-to-investors-in-sharing-info-on-cyber-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public companies “should be explaining to investors the specific risks they face from cybersecurity threats, not vague jargon.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

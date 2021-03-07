@@ -11,6 +11,108 @@ nav_order: 900029
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Millions of travelers of several airlines impacted by SITA data breach<a href="https://securityaffairs.co/wordpress/115316/data-breach/sita-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SITA, a multinational&nbsp;IT&nbsp;company that provides services&nbsp;to the air transport industry was the victim of cyberattack that impacted multiple airlines.
+
+
+
+SITA&nbsp;is a&nbsp;multinational&nbsp;information technology&nbsp;company providing&nbsp;IT&nbsp;and&nbsp;telecommunication...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Airline IT provider confirms passenger data leaked after major 'cyberattack'<a href="https://www.theregister.com/2021/03/05/oh_sita_airline_it_provider/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a public disclosure, the Swiss outfit confirmed it had last month fallen victim to a wide-ranging data security incident that ensnared passengers from some of the world’s largest airlines.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Supply-Chain Cyberattack Breaches Several Airlines<a href="https://threatpost.com/supply-chain-cyberattack-airlines/164549/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on SITA, a nearly ubiquitous airline service provider, has compromised frequent-flyer data across many carriers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SITA data breach affects millions of travelers from major airlines<a href="https://www.bleepingcomputer.com/news/security/sita-data-breach-affects-millions-of-travelers-from-major-airlines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passenger data from multiple airlines around the world has been compromised after hackers breached servers belonging to SITA, a global information technology company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+11,877 Android Apps and 6,608 iOS Apps Leak Data Due to Cloud Misconfigurations<a href="https://www.wired.com/story/ios-android-leaky-apps-cloud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found misconfigurations in 14 percent of analyzed apps—11,877 Android apps and 6,608 iOS apps—exposing users' personal information, passwords, and even medical information.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Someone Is Hacking Cybercrime Forums and Leaking User Data<a href="https://www.securityweek.com/someone-hacking-cybercrime-forums-and-leaking-user-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least four cybercrime forums have been breached since the beginning of the year, namely Verified in January, Crdclub in February, and Exploit and Maza in March, by an unknown threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore Airlines Frequent Flyer Members Impacted by Third-Party Security Breach<a href="https://www.zdnet.com/article/singapore-airlines-frequent-flyer-members-hit-in-third-party-data-security-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data belonging to 580,000 Singapore Airlines' frequent flyer members have been compromised in a cybersecurity attack that originally hit air transport communications and IT vendor, SITA.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SITA Supply Chain Breach Hits Multiple Airlines<a href="https://www.infosecurity-magazine.com:443/news/sita-supply-chain-breach-hits/"> Full Text</a>
 </p>
 <details>

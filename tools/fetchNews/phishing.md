@@ -11,6 +11,34 @@ nav_order: 900160
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Warns of Fake Unemployment Benefit Websites<a href="https://www.infosecurity-magazine.com:443/news/us-warns-of-fake-unemployment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New phishing attack spoofs state workforce agency websites to steal PII
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing phishing attacks target US brokers with fake FINRA audits<a href="https://www.bleepingcomputer.com/news/security/ongoing-phishing-attacks-target-us-brokers-with-fake-finra-audits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Financial Industry Regulatory Authority (FINRA)&nbsp;has issued a regulatory notice warning US brokerage firms and brokers of an ongoing phishing campaign&nbsp;using fake compliance&nbsp;audit alerts to&nbsp;harvest information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BEC scammer infects own device, giving researchers a front-row seat to operations<a href="https://www.cyberscoop.com/business-email-compromise-opsec-sucuri/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

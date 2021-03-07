@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is the Difference Between Authentication vs Authorization?<a href="https://cybersecuritynews.com/authentication-and-authorization/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Authentication and Authorization are two terms that are often used interchangeably in the tech world. However, both these terms are quite different...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security starts with architecture<a href="https://www.helpnetsecurity.com/2021/03/04/security-architecture/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The way security groups are typically structured is flawed. There is an invariable disconnect between where and how security policies are framed, security is enforced, and security is audited.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud Certifications — Get Prep Courses and Practice Tests at 95% Discount<a href="https://thehackernews.com/2021/03/google-cloud-certifications-get-prep.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cloud computing continues to grow, Google Cloud is quickly becoming one of the most popular solutions.&nbsp;  However, relatively few engineers know this platform well.  This leaves the door open for aspiring IT professionals who take the official exams.  The Google Cloud Certifications Practice Tests + Courses Bundle &nbsp;helps you get certified faster, with 43 hours of video content and over 1,000 practice questions.   It covers seven Google exams, providing all the prep you could possibly need.  You would normally expect to pay $639 for this training, but 'The Hacker News' has put together an eye-catching deal with Whizlabs Learning Center.  Special Offer &nbsp;—&nbsp; For a limited time, you can &nbsp;pick up all the content mentioned above for just $29.99 &nbsp;with this bundle. That means you save over $600 on the full price!   As the demand for cloud computing experts grows, salaries are increasing.  According to Glassdoor, engineers earn $117,785 a year on average.  This bundle helps you join
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

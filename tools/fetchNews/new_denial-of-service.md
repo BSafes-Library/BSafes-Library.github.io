@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Cisco products exposed to DoS attack due to a Snort issue<a href="https://securityaffairs.co/wordpress/115341/security/cisco-products-dos-snort-issue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced that a vulnerability in the Snort detection engine exposes several of its products to denial-of-service (DoS) attacks.
+
+
+
+Cisco announced this week that several of its products are exposed to denial-of-service (DoS) attacks due to a vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

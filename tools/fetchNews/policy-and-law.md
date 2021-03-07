@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicts John McAfee for cryptocurrency fraud, money laundering<a href="https://www.bleepingcomputer.com/news/security/us-indicts-john-mcafee-for-cryptocurrency-fraud-money-laundering/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US federal prosecutors have charged John McAfee, founder of cybersecurity firm McAfee, and his executive advisor&nbsp;Jimmy Gale Watson Jr for cryptocurrency fraud and money laundering.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+John McAfee indicted by US officials for alleged cryptocurrency scheme<a href="https://thehill.com//policy/cybersecurity/541872-john-mcafee-indicted-by-us-officials-for-alleged-cryptocurrency-scheme"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department announced Friday that John McAfee, the founder of anti-virus software company McAfee, has been indicted on alleged fraud and money laundering charges tied to a cryptocurrency investment scheme.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

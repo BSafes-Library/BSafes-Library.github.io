@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Through automation, New Belgium Brewing has privacy on tap<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/through-automation-new-belgium-brewing-has-privacy-on-tap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media spoke to Tye Eyden, collaboration business systems analyst at New Belgium Brewing about ongoing efforts to stay ahead of privacy regulations. He credits workflow automation for bringing the company into compliance with the California Privacy Rights Act in just five months.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critics Blast Google’s Aim to Replace Browser Cookie with ‘FLoC’<a href="https://threatpost.com/critics-googles-browser-cookie-floc/164540/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EFF worries that the Google’s ‘privacy-first” vision for the future may pose new privacy risks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

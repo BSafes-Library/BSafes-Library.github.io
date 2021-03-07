@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers might have targeted Indian Railways infrastructure<a href="https://ciso.economictimes.indiatimes.com/news/chinese-hackers-might-have-targeted-indian-railways-infra-recorded-future/81345559?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Besides 10 organizations in the Indian power sector and two ports, Chinese state-sponsored hackers might also have targeted Indian Railways infrastructure, an expert with cyber intelligence company Recorded Future said on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Russian Cybercrime Forums<a href="https://www.infosecurity-magazine.com:443/news/hackers-target-russian-cybercrime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maza becomes latest Russian cybercrime forum to be hacked
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Cyberspy Groups Target Microsoft Exchange Servers via Zero-Day Flaws<a href="https://www.securityweek.com/multiple-cyberspy-groups-target-microsoft-exchange-servers-zero-day-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers revealed that, while most of the targets are located in the United States, attacks against servers in Europe, Asia, and the Middle East have been identified as well.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: China implicated in Microsoft breach | White House adds Big Tech critic | QAnon unfazed after false prediction<a href="https://thehill.com//policy/technology/overnights/541880-hillicon-valley-china-implicated-in-microsoft-breach-white-house"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two months after the discovery of a massive Russian cyber attack, the federal government is grappling with a new Chinese-linked hacking incident that may have hit a “large number of victims," according to the White House. The Biden administration also added well-known Big Tech critic Tim Wu to its team.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When lawyers get hacked: How law firms grapple with risk tied to supply chain breaches<a href="https://www.scmagazine.com/home/security-news/data-breach/when-lawyers-get-hacked-how-law-firms-grapple-with-risk-tied-to-supply-chain-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As companies scramble to assess their own vulnerability amid the wave of supply chain attacks in recent months, law firms find themselves doing double duty: providing complex legal support to clients, and assessing internal safeguards to ensure they themselves practice what they preach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Sector Facing Cyber Crises<a href="https://cyware.com/news/banking-sector-facing-cyber-crises-3c427df7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Reserve Bank of New Zealand recently became the victim of a data breach affecting users' personal information due to zero-day flaws in a legacy file sharing solution provided by Accellion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Failure to Report Breach Costs Mortgage Lender $1.5m<a href="https://www.infosecurity-magazine.com:443/news/failure-to-report-breach-costs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US mortgage company pays $1.5m to settle NYDFS Cybersecurity Regulation violation allegations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Good for Litigation Isn’t Necessarily Good for Cybersecurity<a href="https://www.lawfareblog.com/whats-good-litigation-isnt-necessarily-good-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Efforts to shield post-breach investigations through the attorney work-product and attorney-client privileges are bad for cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

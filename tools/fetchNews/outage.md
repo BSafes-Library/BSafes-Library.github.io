@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack shuts down online learning at 15 UK schools<a href="https://www.zdnet.com/article/cyberattack-shuts-down-online-learning-at-15-uk-schools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, as reported by local publication NottinghamshireLive, several of the schools reported issues across social media and the need to close down the IT systems due to the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

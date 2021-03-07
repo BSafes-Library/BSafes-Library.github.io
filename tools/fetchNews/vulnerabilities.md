@@ -11,6 +11,76 @@ nav_order: 900220
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Privilege Escalation Bugs Patched in Linux Kernel<a href="https://www.securityweek.com/privilege-escalation-bugs-patched-linux-kernel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identified by Positive Technologies security researcher Alexander Popov, the high severity bugs resided in the virtual socket implementation of the Linux kernel. A total of five vulnerabilities were recently identified and fixed in the Linux kernel.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNAME Cloaking Scheme Renders Anti-tracking Defenses Ineffective<a href="https://cyware.com/news/cname-cloaking-scheme-renders-anti-tracking-defenses-ineffective-6da99539"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital ad companies are exploring a new technique wherein they masquerade as serving first-party, rather than third-party cookies, to circumvent the protections offered by adblocking software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug in Apple's Find My Feature Could've Exposed Users' Location Histories<a href="https://thehackernews.com/2021/03/bug-in-apples-find-my-feature-couldve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed two distinct design and implementation flaws in Apple's crowdsourced Bluetooth location tracking system that can lead to a location correlation attack and unauthorized access to the location history of the past seven days, thereby by deanonymizing users.  The&nbsp; findings &nbsp;are a consequence of an exhaustive review undertaken by the Open Wireless Link (OWL) project, a team of researchers from the Secure Mobile Networking Lab at the Technical University of Darmstadt, Germany, who have historically taken apart Apple's wireless ecosystem with the goal of identifying security and privacy issues.  In response to the disclosures on July 2, 2020, Apple is said to have partially addressed the issues, stated the researchers, who used their own data for the study citing privacy implications of the analysis.  How Find My Works?  Apple devices come with a feature called&nbsp; Find My &nbsp;that makes it easy for users to locate other Apple devices, includ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Exchange updates can install without fixing vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-updates-can-install-without-fixing-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to the critical nature of recently issued Microsoft Exchange security updates, admins need to know that the updates may have installation issues on servers where User Account Control (UAC) is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Cisco Products Exposed to DoS Attacks Due to Snort Vulnerability<a href="https://www.securityweek.com/several-cisco-products-exposed-dos-attacks-due-snort-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2021-1285 and rated high severity, can be exploited by an unauthenticated, adjacent attacker to cause a DoS condition by sending it specially crafted Ethernet frames.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Five privilege escalation flaws fixed in Linux Kernel<a href="https://securityaffairs.co/wordpress/115296/security/privilege-escalation-flaws-linux-kernel.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House says Microsoft email hackers have 'large number of victims'<a href="https://www.reuters.com/article/us-usa-cyber-microsoft/as-microsoft-email-software-hack-spreads-experts-brace-for-more-impact-idUSKBN2AX23U?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said this week that targets included infectious disease researchers, law firms, higher education institutions, defense contractors, policy think tanks, and non-governmental groups.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoD Weapons Programs Lack ‘Key’ Cybersecurity Measures<a href="https://threatpost.com/dod-weapons-programs-lack-cybersecurity/164545/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of cybersecurity requirements in weapons contracts from the Department of Defense opens the door for dangerous cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House calls Microsoft email breach an 'active threat'<a href="https://thehill.com//policy/cybersecurity/541849-psaki-describes-microsoft-email-breach-as-significant-and-active-threat"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House press secretary Jen Psaki said Friday that the Biden administration is closely following the breach of a Microsoft email application, reportedly carried out by Chinese hackers, calling it&nbsp;an “active threat” with a “large number of victims.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GAO report finds DOD's weapons programs lack clear cybersecurity guidelines<a href="https://www.zdnet.com/article/gao-report-finds-dods-weapons-programs-lack-clear-cybersecurity-guidelines/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new report released Thursday, the GAO said the Department of Defense fails to communicate clear cybersecurity guidelines to contractors tasked with building systems for its weapons programs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

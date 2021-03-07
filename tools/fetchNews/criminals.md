@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Industrial Organizations in Information Theft Campaign<a href="https://www.securityweek.com/cybercriminals-target-industrial-organizations-information-theft-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A mysterious cybercrime group apparently driven by profit has been targeting industrial organizations in Europe, Asia and North America as part of an information theft campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Finding Ways to Bypass '3D Secure' Fraud Prevention System<a href="https://www.securityweek.com/cybercriminals-finding-ways-bypass-3d-secure-fraud-prevention-system?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers with threat intelligence firm Gemini Advisory say they have observed dark web activities related to bypassing 3D Secure (3DS), which is designed to improve the security of online credit and debit card transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

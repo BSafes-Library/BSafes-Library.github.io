@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware gang uses DDoS attacks and voice calls to make pressure on the victims<a href="https://securityaffairs.co/wordpress/115345/cyber-crime/revil-ransomware-ddos-voice-calls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators are using DDoS attacks and voice calls to journalists and victim's business partners to force victims to pay the ransom.
+
+
+
+The REvil/Sodinokibi ransomware operators announced that they are using DDoS attacks and voice...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang plans to call victim's business partners about attacks<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-plans-to-call-victims-business-partners-about-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation announced this week that they are using DDoS attacks and voice calls to journalists and victim's business partners to generate ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

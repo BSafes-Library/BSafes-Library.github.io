@@ -8,6 +8,90 @@ nav_order: 900015
 
 ## Attack
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Czech capital Prague, Labour Ministry face cyber attacks<a href="https://www.reuters.com/article/us-czech-cyber/czech-capital-prague-labour-ministry-face-cyber-attacks-idUSKBN2AX16B?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Czech capital Prague and the Labour Ministry said there had been cyber attacks on their email systems but although the mayor of Prague said it was a large attack, he added the damage caused was limited.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado-Based Sengrid Email Marketing Company Accounts Were Hacked<a href="https://heimdalsecurity.com/blog/sengrid-accounts-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It appears the attackers used Zoom invites as a lure together with an extensive list of email addresses, in this way “Contact” was able to deliver messages from hacked accounts on the SendGrid cloud-based platform.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link, IoT Devices Under Attack By Tor-Based Gafgyt Variant<a href="https://threatpost.com/d-link-iot-tor-gafgyt-variant/164529/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Gafgyt botnet – that’s actively targeting vulnerable D-Link and Internet of Things devices – is the first variant of the malware to rely on Tor communications, researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker Hub and Bitbucket Resources Hijacked for Crypto-Mining<a href="https://www.infosecurity-magazine.com:443/news/docker-hub-bitbucket-hijacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developer environments seen as an easy target for attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mazafaka — Elite Hacking and Cybercrime Forum — Got Hacked!<a href="https://thehackernews.com/2021/03/mazafaka-elite-hacking-and-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a case of hackers getting hacked, a prominent underground online criminal forum by the name of Maza has been compromised by unknown attackers, making it the fourth forum to have been breached since the start of the year.  The intrusion is said to have occurred on March 3, with information about the forum members — including usernames, email addresses, and hashed passwords — publicly disclosed on a breach notification page put up by the attackers, stating "Your data has been leaked" and "This forum has been hacked."  "The announcement was accompanied by a PDF file allegedly containing a portion of forum user data. The file comprised more than 3,000 rows, containing usernames, partially obfuscated password hashes, email addresses and other contact details," cybersecurity firm Intel 471&nbsp; said .   Originally called Mazafaka, Maza is an elite, invite-only Russian-language cybercrime forum known to be operational as early as 2003, acting as an exc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudsters Circumvent 3D Secure with Social Engineering<a href="https://www.infosecurity-magazine.com:443/news/fraudsters-circumvent-3d-secure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Widespread chatter on dark web highlights gaps in payment protection
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

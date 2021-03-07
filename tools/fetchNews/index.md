@@ -34,7 +34,83 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2021
+March 7, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Server Flaws Raise Alarms at White House, DHS<a href="https://www.bnnbloomberg.ca/microsoft-server-flaws-raise-alarms-at-white-house-dhs-1.1573121?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered flaws in Microsoft Corp.’s software for email and contacts has raised concerns at the highest levels of the U.S. government, which is urging users to immediately apply patches.
+</details>
+<div style="text-align: right" markdown="1">
+BNN Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 304<a href="https://securityaffairs.co/wordpress/115356/breaking-news/security-affairs-newsletter-round-304.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+EU leaders...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach thousands of Microsoft customers around the world<a href="https://www.livemint.com/companies/news/hackers-breach-thousands-of-microsoft-customers-around-the-world-11615086559003.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated attack on Microsoft Corp.’s widely used business email software is morphing into a global cybersecurity crisis, as hackers race to infect as many victims as possible before companies can secure their computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+Livemint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware gang uses DDoS attacks and voice calls to make pressure on the victims<a href="https://securityaffairs.co/wordpress/115345/cyber-crime/revil-ransomware-ddos-voice-calls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators are using DDoS attacks and voice calls to journalists and victim's business partners to force victims to pay the ransom.
+
+
+
+The REvil/Sodinokibi ransomware operators announced that they are using DDoS attacks and voice...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Cisco products exposed to DoS attack due to a Snort issue<a href="https://securityaffairs.co/wordpress/115341/security/cisco-products-dos-snort-issue.html"> Full Text</a>
@@ -54,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2021
+March 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Government briefed on breach of at least 30,000 Microsoft Exchange Servers<a href="https://www.scmagazine.com/home/security-news/data-breach/government-briefed-on-breach-of-at-least-30000-microsoft-exchange-servers/"> Full Text</a>
@@ -70,7 +146,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2021
+March 06, 202 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>1
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This new Microsoft tool checks Exchange Servers for ProxyLogon hacks<a href="https://www.bleepingcomputer.com/news/microsoft/this-new-microsoft-tool-checks-exchange-servers-for-proxylogon-hacks/"> Full Text</a>
@@ -86,7 +162,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2021
+March 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breached four prominent underground cybercrime forums<a href="https://securityaffairs.co/wordpress/115308/cyber-crime/cybercrime-forums-hacked.html"> Full Text</a>
@@ -110,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2021
+March 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang plans to call victim's business partners about attacks<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-plans-to-call-victims-business-partners-about-attacks/"> Full Text</a>
@@ -126,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2021
+March 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases IOC Detection Tool for Microsoft Exchange Server flaws<a href="https://securityaffairs.co/wordpress/115324/security/microsoft-exchange-server-audit-tool.html"> Full Text</a>
@@ -146,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2021
+March 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung fixes critical Android bugs in March 2021 updates<a href="https://www.bleepingcomputer.com/news/security/samsung-fixes-critical-android-bugs-in-march-2021-updates/"> Full Text</a>
@@ -162,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2021
+March 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Fixes Critical RCE Vulnerability with View Planner<a href="https://cybersecuritynews.com/vmware-fixes-critical-rce-vulnerability-with-view-planner/"> Full Text</a>

@@ -1,0 +1,2 @@
+cp index.md tools/fetchNews/index.class
+vi tools/fetchNews/index.class

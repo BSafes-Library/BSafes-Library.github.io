@@ -8,6 +8,80 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Educational’ ransomware program may instead become a how-to guide for attackers<a href="https://www.scmagazine.com/home/security-news/ransomware/educational-ransomware-program-may-instead-become-a-how-to-guide-for-attackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The program is designed to be an educational tool for testing anti-virus protections; however, it’s possible that cybercriminals could adopt and modify the code in order to launch their own attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 5th 2021 - Targeting service providers<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-5th-2021-targeting-service-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we have seen ransomware attacks targeting online service providers and MSPs to not only encrypt the victim but also cause significant outages for&nbsp;their customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware only decrypts victims who join their Discord server<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-only-decrypts-victims-who-join-their-discord-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware called 'Hog' encrypts users' devices and only decrypts them if they join the developer's Discord server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These two unusual versions of ransomware tell us a lot about how attacks are evolving<a href="https://www.zdnet.com/article/these-two-unusual-versions-of-ransomware-tell-us-a-lot-about-how-attacks-are-evolving/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two newly discovered forms of ransomware with very different traits show just how diverse the world of ransomware has become as more cyber criminals attempt to join in with cyber extortion.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managed Services provider CompuCom by Darkside ransomware<a href="https://securityaffairs.co/wordpress/115300/malware/compucom-darkside-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US managed service provider CompuCom was the victim of a cyberattack that partially disrupted its operations, experts believe it was a ransomware attack.
+
+
+
+US managed service provider CompuCom was the victim of a cyberattack that partially disrupted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
