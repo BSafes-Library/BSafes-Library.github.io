@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flagstar Bank hit by data breach exposing customer, employee data<a href="https://www.bleepingcomputer.com/news/security/flagstar-bank-hit-by-data-breach-exposing-customer-employee-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US bank and mortgage lender Flagstar has disclosed a data breach after the Clop ransomware gang hacked their Accellion file transfer server in January.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flagstar Bank customer data breached through Accellion hack<a href="https://www.zdnet.com/article/flagstar-bank-customer-data-breached-through-accellion-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While now discontinued and supplanted by other software such as Kiteworks, a zero-day vulnerability in the legacy software was found in December and has since been exploited by attackers in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

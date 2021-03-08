@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Truecaller's Guardians App was leaking live location details, issue fixed<a href="https://ciso.economictimes.indiatimes.com/news/truecallers-guardians-app-was-leaking-live-location-details-issue-fixed/81394070?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Caller identification company Truecaller’s ‘Guardians’ application launched last week that lets users share their live location with selected guardians on their phone book had a major vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installs<a href="https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft updated its Microsoft Safety Scanner (MSERT) tool to detect web shells employed in the recent Exchange Server attacks.
+
+
+
+Early this month, Microsoft has released&nbsp;emergency out-of-band security updates&nbsp;that address four zero-day issues (CVE-2021-26855,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

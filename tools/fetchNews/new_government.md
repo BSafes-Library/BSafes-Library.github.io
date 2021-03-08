@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA takes over .GOV top-level domain (TLD) administration<a href="https://www.bleepingcomputer.com/news/security/cisa-takes-over-gov-top-level-domain-tld-administration/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) is taking over the administration of the.gov top-level domain (TLD) as its new&nbsp;policy and management authority.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DOJ warns of fake unemployment benefit websites stealing data<a href="https://www.hackread.com/u-s-doj-unemployment-benefit-websites-steal-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a press release issued on March 5, the department said that it received reports that there were certain bad actors who were creating fake websites which copied the websites of SWAs.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

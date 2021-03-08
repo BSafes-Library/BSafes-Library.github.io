@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Faces Decades Behind Bars After Fraud Indictment<a href="https://www.infosecurity-magazine.com:443/news/mcafee-decades-behind-bars-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AV pioneer accused of pump-and-dump and ICO scams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Busts $110m Charity Fraud Operation<a href="https://www.infosecurity-magazine.com:443/news/ftc-busts-110-million-charity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illegal calls harassed 67 million consumers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

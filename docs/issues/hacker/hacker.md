@@ -8,6 +8,56 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using Remote Utilities Software to Spy On Its Targets<a href="https://thehackernews.com/2021/03/iranian-hackers-using-remote-utilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with suspected ties to Iran are actively targeting academia, government agencies, and tourism entities in the Middle East and neighboring regions as part of an espionage campaign aimed at data theft.  Dubbed "Earth Vetala" by Trend Micro, the latest finding expands on previous research&nbsp; published by Anomali &nbsp;last month, which found evidence of malicious activity aimed at UAE and Kuwait government agencies by exploiting ScreenConnect remote management tool.&nbsp;  The cybersecurity firm linked the ongoing attacks with moderate confidence to a threat actor widely tracked as&nbsp; MuddyWater , an Iranian hacker group known for its offensives primarily against Middle Eastern nations.   Earth Vetala is said to have leveraged spear-phishing emails containing embedded links to a popular file-sharing service called Onehub to distribute malware that ranged from password dumping utilities to custom backdoors, before initiating communications with a command-and-control (C2) server to exe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised Microsoft Exchange servers at the EU Banking Regulator EBA<a href="https://securityaffairs.co/wordpress/115396/data-breach/eba-microsoft-exchange-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Banking Authority (EBA) disclosed a cyberattack that resulted in the hack of its Microsoft Exchange email system.
+
+
+
+The European Banking Authority announced that it was the victim of a cyber attack against its email system that exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The presentation of Williams's new Formula One car was ruined by hackers that forced the team to abandon the launch through an augmented reality app.
+
+
+
+The Williams team presented its new Formula One car on Friday, but hackers partially ruined the launch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

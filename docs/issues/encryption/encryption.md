@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, DoD start sprint to make homomorphic encryption ready for real<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/intel-dod-start-sprint-to-make-homomorphic-encryption-ready-for-real/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If successful, it could thwart the hurdle that keeps the pervasive privacy and security technology out of general use.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2020 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

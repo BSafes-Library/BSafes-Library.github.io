@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flagstar Bank hit by data breach exposing customer, employee data<a href="https://www.bleepingcomputer.com/news/security/flagstar-bank-hit-by-data-breach-exposing-customer-employee-data/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Truecaller's Guardians App was leaking live location details, issue fixed<a href="https://ciso.economictimes.indiatimes.com/news/truecallers-guardians-app-was-leaking-live-location-details-issue-fixed/81394070?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Using Remote Utilities Software to Spy On Its Targets<a href="https://thehackernews.com/2021/03/iranian-hackers-using-remote-utilities.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McAfee Faces Decades Behind Bars After Fraud Indictment<a href="https://www.infosecurity-magazine.com:443/news/mcafee-decades-behind-bars-fraud/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers compromised Microsoft Exchange servers at the EU Banking Regulator EBA<a href="https://securityaffairs.co/wordpress/115396/data-breach/eba-microsoft-exchange-hacked.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel, DoD start sprint to make homomorphic encryption ready for real<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/intel-dod-start-sprint-to-make-homomorphic-encryption-ready-for-real/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA takes over .GOV top-level domain (TLD) administration<a href="https://www.bleepingcomputer.com/news/security/cisa-takes-over-gov-top-level-domain-tld-administration/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Airlines Affected Following SITA Cyberattack<a href="https://heimdalsecurity.com/blog/outspread-sita-security-breach-exposes-more-airlines/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Can Exploit New Flaw in Intel CPUs to Launch Side-Channel Attacks<a href="https://thehackernews.com/2021/03/malware-can-exploit-new-flaw-in-intel.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Busts $110m Charity Fraud Operation<a href="https://www.infosecurity-magazine.com:443/news/ftc-busts-110-million-charity/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installs<a href="https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched QNAP devices are being hacked to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/unpatched-qnap-devices-are-being-hacked-to-mine-cryptocurrency/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds just keeps getting worse: New strain of malware found infecting victims<a href="https://www.theregister.com/2021/03/08/in_brief_security/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange Cyber Attack — What Do We Know So Far?<a href="https://thehackernews.com/2021/03/microsoft-exchange-cyber-attack-what-do.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #IWD2021: Pandemic Fails to Shatter Glass Ceiling for Women in Cyber<a href="https://www.infosecurity-magazine.com:443/news/pandemic-fails-shatter-glass/"> Full Text</a>
@@ -282,7 +282,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flagstar Bank customer data breached through Accellion hack<a href="https://www.zdnet.com/article/flagstar-bank-customer-data-breached-through-accellion-hack/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Czech officials in Prague 'hit by massive cyber attack'<a href="https://www.euronews.com/2021/03/05/czech-officials-in-prague-hit-by-massive-cyber-attack?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Euronews
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Number of ransomware attacks grew by more than 150%<a href="https://www.helpnetsecurity.com/2021/03/08/ransomware-attacks-grew-2020/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT Groups Exploited Lithuanian Infrastructure to Launch Attacks<a href="https://securityaffairs.co/wordpress/115360/apt/russia-apt-lithuanian-infrastructure.html?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Attack Uses Fake Google reCAPTCHA<a href="https://www.inforisktoday.com/phishing-attack-uses-fake-google-recaptcha-a-16132?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel CPU interconnects can be exploited by malware to leak encryption keys and other info, academic study finds<a href="https://www.theregister.com/2021/03/08/intel_ring_flaw/?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DOJ warns of fake unemployment benefit websites stealing data<a href="https://www.hackread.com/u-s-doj-unemployment-benefit-websites-steal-data/?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html"> Full Text</a>
@@ -414,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
+March 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Attack Blamed On China Morphs Into Global Crisis<a href="https://finance.yahoo.com/news/hackers-breach-thousands-microsoft-customers-004316114.html?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Number of ransomware attacks grew by more than 150%<a href="https://www.helpnetsecurity.com/2021/03/08/ransomware-attacks-grew-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19 made many organizations, distracted with mitigating the fallout from the pandemic, vulnerable to cyber threats. Ransomware turned out to be the one that capitalized on the crisis most.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

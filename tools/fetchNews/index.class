@@ -34,6 +34,402 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flagstar Bank hit by data breach exposing customer, employee data<a href="https://www.bleepingcomputer.com/news/security/flagstar-bank-hit-by-data-breach-exposing-customer-employee-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US bank and mortgage lender Flagstar has disclosed a data breach after the Clop ransomware gang hacked their Accellion file transfer server in January.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Truecaller's Guardians App was leaking live location details, issue fixed<a href="https://ciso.economictimes.indiatimes.com/news/truecallers-guardians-app-was-leaking-live-location-details-issue-fixed/81394070?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Caller identification company Truecaller’s ‘Guardians’ application launched last week that lets users share their live location with selected guardians on their phone book had a major vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using Remote Utilities Software to Spy On Its Targets<a href="https://thehackernews.com/2021/03/iranian-hackers-using-remote-utilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with suspected ties to Iran are actively targeting academia, government agencies, and tourism entities in the Middle East and neighboring regions as part of an espionage campaign aimed at data theft.  Dubbed "Earth Vetala" by Trend Micro, the latest finding expands on previous research  published by Anomali  last month, which found evidence of malicious activity aimed at UAE and Kuwait government agencies by exploiting ScreenConnect remote management tool.   The cybersecurity firm linked the ongoing attacks with moderate confidence to a threat actor widely tracked as  MuddyWater , an Iranian hacker group known for its offensives primarily against Middle Eastern nations.   Earth Vetala is said to have leveraged spear-phishing emails containing embedded links to a popular file-sharing service called Onehub to distribute malware that ranged from password dumping utilities to custom backdoors, before initiating communications with a command-and-control (C2) server to exe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Faces Decades Behind Bars After Fraud Indictment<a href="https://www.infosecurity-magazine.com:443/news/mcafee-decades-behind-bars-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AV pioneer accused of pump-and-dump and ICO scams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised Microsoft Exchange servers at the EU Banking Regulator EBA<a href="https://securityaffairs.co/wordpress/115396/data-breach/eba-microsoft-exchange-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Banking Authority (EBA) disclosed a cyberattack that resulted in the hack of its Microsoft Exchange email system.
+
+
+
+The European Banking Authority announced that it was the victim of a cyber attack against its email system that exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, DoD start sprint to make homomorphic encryption ready for real<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/intel-dod-start-sprint-to-make-homomorphic-encryption-ready-for-real/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If successful, it could thwart the hurdle that keeps the pervasive privacy and security technology out of general use.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA takes over .GOV top-level domain (TLD) administration<a href="https://www.bleepingcomputer.com/news/security/cisa-takes-over-gov-top-level-domain-tld-administration/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) is taking over the administration of the.gov top-level domain (TLD) as its new policy and management authority.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Airlines Affected Following SITA Cyberattack<a href="https://heimdalsecurity.com/blog/outspread-sita-security-breach-exposes-more-airlines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After SITA issued a statement confirming it had been the subject of a cyberattack, more airlines confirmed they have been directly affected. It appears the SITA breach affected all carrier members of Star Alliance and the One World alliance.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Can Exploit New Flaw in Intel CPUs to Launch Side-Channel Attacks<a href="https://thehackernews.com/2021/03/malware-can-exploit-new-flaw-in-intel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research has yielded yet another means to pilfer sensitive data by exploiting what's the first "on-chip, cross-core" side-channel in Intel Coffee Lake and Skylake processors.  Published by a group of academics from the University of Illinois at Urbana-Champaign, the  findings  are expected to be presented at the USENIX Security Symposium coming this August.  While information leakage attacks targeting the CPU microarchitecture have been previously demonstrated to break the isolation between user applications and the operating system, allowing a malicious program to access memory used by other programs (e.g., Meltdown and Spectre), the new attack leverages a contention on the ring interconnect.  SoC  Ring interconnect  is an on-die bus arranged in a ring topology which enables intra-process communication between different components (aka agents) such as the cores, the last level cache (LLC), the graphics unit, and the system agent that are housed inside the CPU. Eac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Busts $110m Charity Fraud Operation<a href="https://www.infosecurity-magazine.com:443/news/ftc-busts-110-million-charity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illegal calls harassed 67 million consumers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installs<a href="https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft updated its Microsoft Safety Scanner (MSERT) tool to detect web shells employed in the recent Exchange Server attacks.
+
+
+
+Early this month, Microsoft has released emergency out-of-band security updates that address four zero-day issues (CVE-2021-26855,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched QNAP devices are being hacked to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/unpatched-qnap-devices-are-being-hacked-to-mine-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched network-attached storage (NAS) devices are targeted in ongoing attacks where the attackers try to take them over and install cryptominer malware to mine for cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds just keeps getting worse: New strain of malware found infecting victims<a href="https://www.theregister.com/2021/03/08/in_brief_security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware strain, identified as SUNSHUTTLE by boffins at security shop FireEye, is a backdoor attack written in Go which uses HTTPS to communicate with a command-and-control server for data exfiltration, adding new code as needed.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Cyber Attack — What Do We Know So Far?<a href="https://thehackernews.com/2021/03/microsoft-exchange-cyber-attack-what-do.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday warned of active attacks exploiting unpatched Exchange Servers carried out by multiple threat actors, as the hacking campaign is believed to have infected tens of thousands of businesses, government entities in the U.S., Asia, and Europe.  The company  said  "it continues to see increased use of these vulnerabilities in attacks targeting unpatched systems by multiple malicious actors beyond HAFNIUM," signaling an escalation that the breaches are no longer "limited and targeted" as was previously deemed.  According to independent cybersecurity journalist  Brian Krebs , at least 30,000 entities across the U.S. — mainly small businesses, towns, cities, and local governments — have been compromised by an "unusually aggressive" Chinese group that has set its sights on stealing emails from victim organizations by exploiting previously undisclosed flaws in Exchange Server.   Victims are also being reported from outside the U.S., with email sy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IWD2021: Pandemic Fails to Shatter Glass Ceiling for Women in Cyber<a href="https://www.infosecurity-magazine.com:443/news/pandemic-fails-shatter-glass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Job security improves but few are making it to senior positions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flagstar Bank customer data breached through Accellion hack<a href="https://www.zdnet.com/article/flagstar-bank-customer-data-breached-through-accellion-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While now discontinued and supplanted by other software such as Kiteworks, a zero-day vulnerability in the legacy software was found in December and has since been exploited by attackers in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Czech officials in Prague 'hit by massive cyber attack'<a href="https://www.euronews.com/2021/03/05/czech-officials-in-prague-hit-by-massive-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Czech officials in Prague have been hit by a large-scale cyberattack, according to the city's mayor. An immediate outage was made on the email system to maintain security.
+</details>
+<div style="text-align: right" markdown="1">
+Euronews
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Number of ransomware attacks grew by more than 150%<a href="https://www.helpnetsecurity.com/2021/03/08/ransomware-attacks-grew-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19 made many organizations, distracted with mitigating the fallout from the pandemic, vulnerable to cyber threats. Ransomware turned out to be the one that capitalized on the crisis most.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT Groups Exploited Lithuanian Infrastructure to Launch Attacks<a href="https://securityaffairs.co/wordpress/115360/apt/russia-apt-lithuanian-infrastructure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT29 state-sponsored hackers also exploited Lithuania’s information technology infrastructure to carry out attacks against “foreign entities developing a COVID-19 vaccine.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attack Uses Fake Google reCAPTCHA<a href="https://www.inforisktoday.com/phishing-attack-uses-fake-google-recaptcha-a-16132?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign begins with phishing emails that appear to come from a unified communications system used for streamlining corporate communication. This email contains a malicious email attachment.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel CPU interconnects can be exploited by malware to leak encryption keys and other info, academic study finds<a href="https://www.theregister.com/2021/03/08/intel_ring_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This was tested on Intel Coffee Lake and Skylake CPUs, client-class CPUs, and should work on server CPUs like Xeon Broadwell. It's unknown whether more recent Intel server chips are susceptible.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DOJ warns of fake unemployment benefit websites stealing data<a href="https://www.hackread.com/u-s-doj-unemployment-benefit-websites-steal-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a press release issued on March 5, the department said that it received reports that there were certain bad actors who were creating fake websites which copied the websites of SWAs.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The presentation of Williams's new Formula One car was ruined by hackers that forced the team to abandon the launch through an augmented reality app.
+
+
+
+The Williams team presented its new Formula One car on Friday, but hackers partially ruined the launch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Attack Blamed On China Morphs Into Global Crisis<a href="https://finance.yahoo.com/news/hackers-breach-thousands-microsoft-customers-004316114.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated attack on Microsoft Corp.’s widely used business email software is morphing into a global cybersecurity crisis, as hackers race to infect as many victims as possible before companies can secure their computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
