@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Intel CPU interconnects can be exploited by malware to leak encryption keys and other info, academic study finds<a href="https://www.theregister.com/2021/03/08/intel_ring_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This was tested on Intel Coffee Lake and Skylake CPUs, client-class CPUs, and should work on server CPUs like Xeon Broadwell. It's unknown whether more recent Intel server chips are susceptible.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S. DOJ warns of fake unemployment benefit websites stealing data<a href="https://www.hackread.com/u-s-doj-unemployment-benefit-websites-steal-data/?&web_view=true"> Full Text</a>
 </p>
 <details>
