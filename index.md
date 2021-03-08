@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The presentation of Williams's new Formula One car was ruined by hackers that forced the team to abandon the launch through an augmented reality app.
+
+
+
+The Williams team presented its new Formula One car on Friday, but hackers partially ruined the launch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Attack Blamed On China Morphs Into Global Crisis<a href="https://finance.yahoo.com/news/hackers-breach-thousands-microsoft-customers-004316114.html?&web_view=true"> Full Text</a>
 </p>
 <details>
