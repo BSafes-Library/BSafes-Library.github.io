@@ -34,6 +34,94 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers allegedly hit thousands of organizations using Microsoft Exchange<a href="https://securityaffairs.co/wordpress/115359/apt/chinese-hackers-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of organizations may have been victims of cyberattacks on Microsoft Exchange servers conducted by China-linked threat actors since January.
+
+
+
+At least tens of thousands of Microsoft customers may have been hacked by allegedly China-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's MSERT tool now finds web shells from Exchange Server attacks<a href="https://www.bleepingcomputer.com/news/security/microsofts-msert-tool-now-finds-web-shells-from-exchange-server-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has pushed out a new update for their Microsoft Safety Scanner (MSERT) tool to detect web shells deployed in the recent Exchange Server attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's MSERT tool now finds web shells from Exchange Server attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-msert-tool-now-finds-web-shells-from-exchange-server-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has pushed out a new update for their Microsoft Safety Scanner (MSERT) tool to detect web shells deployed in the recent Exchange Server attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 gets protection against malicious XLM macros<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-gets-protection-against-malicious-xlm-macros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added XLM macro protection for Microsoft 365 customers by expanding the runtime defense provided by Office 365's integration with Antimalware Scan Interface (AMSI) to include Excel 4.0 (XLM) macro scanning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT groups exploited Lithuanian infrastructure to launch attacks<a href="https://securityaffairs.co/wordpress/115360/apt/russia-apt-lithuanian-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT groups leveraged the Lithuanian nation’s technology infrastructure to launch cyber-attacks against targets worldwide.
+
+
+
+The annual national security threat assessment report released by Lithuania’s State Security Department states...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

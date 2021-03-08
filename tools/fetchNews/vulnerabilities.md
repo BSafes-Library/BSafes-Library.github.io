@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 06, 202 <br>1
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This new Microsoft tool checks Exchange Servers for ProxyLogon hacks<a href="https://www.bleepingcomputer.com/news/microsoft/this-new-microsoft-tool-checks-exchange-servers-for-proxylogon-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a PowerShell script that admins can use to check whether the recently disclosed ProxyLogon vulnerabilities have hacked a Microsoft Exchange server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases IOC Detection Tool for Microsoft Exchange Server flaws<a href="https://securityaffairs.co/wordpress/115324/security/microsoft-exchange-server-audit-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the disclosure of Microsoft Exchange zero-days, MS Exchange Server team has released a script to determine if an install is vulnerable.
+
+
+
+This week Microsoft&nbsp;has released&nbsp;emergency out-of-band security updates&nbsp;that address four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung fixes critical Android bugs in March 2021 updates<a href="https://www.bleepingcomputer.com/news/security/samsung-fixes-critical-android-bugs-in-march-2021-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week Samsung has started rolling out Android's March 2021 security updates to mobile devices to patch&nbsp;critical security vulnerabilities in the runtime, operating system, and related components. Users are advised to update their Android devices&nbsp;immediately to safeguard against these bugs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Fixes Critical RCE Vulnerability with View Planner<a href="https://cybersecuritynews.com/vmware-fixes-critical-rce-vulnerability-with-view-planner/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, in View Planner, it's a benchmarking desktop client that is available for free, VMware has inscribed a critical unauthenticated RCE vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

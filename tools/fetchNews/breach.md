@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+March 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach thousands of Microsoft customers around the world<a href="https://www.livemint.com/companies/news/hackers-breach-thousands-of-microsoft-customers-around-the-world-11615086559003.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated attack on Microsoft Corp.’s widely used business email software is morphing into a global cybersecurity crisis, as hackers race to infect as many victims as possible before companies can secure their computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+Livemint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached four prominent underground cybercrime forums<a href="https://securityaffairs.co/wordpress/115308/cyber-crime/cybercrime-forums-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspicious wave of attacks resulted in the hack of four cybercrime forums  Verified, Crdclub, Exploit, and Maza since January.
+
+
+
+Since January, a series of mysterious cyberattacks that resulted in the hack of popular Russian-language cybercrime forums.
+
+
+
+Unknown...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

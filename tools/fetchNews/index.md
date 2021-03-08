@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 7, 2021
+March 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers allegedly hit thousands of organizations using Microsoft Exchange<a href="https://securityaffairs.co/wordpress/115359/apt/chinese-hackers-microsoft-exchange.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 07, 2021
+March 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's MSERT tool now finds web shells from Exchange Server attacks<a href="https://www.bleepingcomputer.com/news/security/microsofts-msert-tool-now-finds-web-shells-from-exchange-server-attacks/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 07, 2021
+March 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's MSERT tool now finds web shells from Exchange Server attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-msert-tool-now-finds-web-shells-from-exchange-server-attacks/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 07, 2021
+March 07, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office 365 gets protection against malicious XLM macros<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-gets-protection-against-malicious-xlm-macros/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 7, 2021
+March 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT groups exploited Lithuanian infrastructure to launch attacks<a href="https://securityaffairs.co/wordpress/115360/apt/russia-apt-lithuanian-infrastructure.html"> Full Text</a>

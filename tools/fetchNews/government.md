@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Server Flaws Raise Alarms at White House, DHS<a href="https://www.bnnbloomberg.ca/microsoft-server-flaws-raise-alarms-at-white-house-dhs-1.1573121?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered flaws in Microsoft Corp.’s software for email and contacts has raised concerns at the highest levels of the U.S. government, which is urging users to immediately apply patches.
+</details>
+<div style="text-align: right" markdown="1">
+BNN Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government briefed on breach of at least 30,000 Microsoft Exchange Servers<a href="https://www.scmagazine.com/home/security-news/data-breach/government-briefed-on-breach-of-at-least-30000-microsoft-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest details confirm a trend SC Media reported earlier in the week, that security investigators were finding substantially more instances of breached Microsoft Exchange servers than Microsoft’s original report of “limited and targeted” attacks may have let on.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

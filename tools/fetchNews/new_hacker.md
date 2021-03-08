@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers allegedly hit thousands of organizations using Microsoft Exchange<a href="https://securityaffairs.co/wordpress/115359/apt/chinese-hackers-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of organizations may have been victims of cyberattacks on Microsoft Exchange servers conducted by China-linked threat actors since January.
+
+
+
+At least tens of thousands of Microsoft customers may have been hacked by allegedly China-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

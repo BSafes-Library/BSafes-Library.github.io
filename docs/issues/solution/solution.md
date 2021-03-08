@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 gets protection against malicious XLM macros<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-gets-protection-against-malicious-xlm-macros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added XLM macro protection for Microsoft 365 customers by expanding the&nbsp;runtime defense provided by&nbsp;Office 365's integration with Antimalware Scan Interface (AMSI) to include Excel 4.0 (XLM) macro scanning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
