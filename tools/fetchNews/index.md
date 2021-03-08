@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attack Uses Fake Google reCAPTCHA<a href="https://www.inforisktoday.com/phishing-attack-uses-fake-google-recaptcha-a-16132?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign begins with phishing emails that appear to come from a unified communications system used for streamlining corporate communication. This email contains a malicious email attachment.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Intel CPU interconnects can be exploited by malware to leak encryption keys and other info, academic study finds<a href="https://www.theregister.com/2021/03/08/intel_ring_flaw/?&web_view=true"> Full Text</a>
 </p>
 <details>
