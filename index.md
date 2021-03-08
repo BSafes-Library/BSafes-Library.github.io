@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. DOJ warns of fake unemployment benefit websites stealing data<a href="https://www.hackread.com/u-s-doj-unemployment-benefit-websites-steal-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a press release issued on March 5, the department said that it received reports that there were certain bad actors who were creating fake websites which copied the websites of SWAs.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html"> Full Text</a>
 </p>
 <details>
