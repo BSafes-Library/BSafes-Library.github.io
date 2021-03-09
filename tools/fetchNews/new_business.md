@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TiG Acquires ThirdSpace<a href="https://www.infosecurity-magazine.com:443/news/tig-acquires-thirdspace/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TiG acquires award-winning company specializing in identity and security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Agrees Deal to Sell Enterprise Business for $4bn<a href="https://www.infosecurity-magazine.com:443/news/mcafee-deal-enterprise-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The transaction is expected to be completed by the end of 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

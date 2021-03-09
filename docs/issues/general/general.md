@@ -11,6 +11,20 @@ nav_order: 900072
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Call for Papers: Cybersecurity Law and Policy Scholars Conference 2021<a href="https://www.lawfareblog.com/call-papers-cybersecurity-law-and-policy-scholars-conference-2021"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first annual Cybersecurity Law and Policy Scholars Conference (CLPSC) will take place at the University of Minnesota Law School on Oct. 1-2, 2021. The conference plans to accommodate both in-person and virtual participation, subject to evolving social-distancing guidelines.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #IWD2021: Pandemic Fails to Shatter Glass Ceiling for Women in Cyber<a href="https://www.infosecurity-magazine.com:443/news/pandemic-fails-shatter-glass/"> Full Text</a>
 </p>
 <details>

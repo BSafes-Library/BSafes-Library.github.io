@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce legislation to allow Americans to take foreign hackers to court<a href="https://thehill.com//policy/cybersecurity/542157-lawmakers-introduce-legislation-to-allow-americans-to-take-foreign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Monday introduced legislation that would allow Americans to hold foreign governments and their employees accountable in court for malicious cyber activity.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virginia Passes New Data Protection Law<a href="https://www.infosecurity-magazine.com:443/news/virginia-passes-new-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virginia Consumer Data Protection Act signed into law
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

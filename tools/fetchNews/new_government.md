@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Europe’s Intelligence Services Aim to Avoid the EU’s Highest Court—and What It Means for the United States<a href="https://www.lawfareblog.com/how-europes-intelligence-services-aim-avoid-eus-highest-court-and-what-it-means-united-states"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States now finds itself forced to consider changes to its foreign surveillance law and practices in order to reestablish a stable basis for transatlantic transfers of personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

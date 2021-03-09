@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Airlines Affected Following SITA Cyberattack<a href="https://heimdalsecurity.com/blog/outspread-sita-security-breach-exposes-more-airlines/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After SITA issued a statement confirming it had been the subject of a cyberattack, more airlines confirmed they have been directly affected. It appears the SITA breach affected all carrier members of Star Alliance and the One World alliance.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched QNAP devices are being hacked to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/unpatched-qnap-devices-are-being-hacked-to-mine-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched network-attached storage (NAS) devices are targeted in ongoing attacks where the attackers try to take them over and install cryptominer malware to mine for cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Cyber Attack — What Do We Know So Far?<a href="https://thehackernews.com/2021/03/microsoft-exchange-cyber-attack-what-do.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday warned of active attacks exploiting unpatched Exchange Servers carried out by multiple threat actors, as the hacking campaign is believed to have infected tens of thousands of businesses, government entities in the U.S., Asia, and Europe.  The company&nbsp; said &nbsp;"it continues to see increased use of these vulnerabilities in attacks targeting unpatched systems by multiple malicious actors beyond HAFNIUM," signaling an escalation that the breaches are no longer "limited and targeted" as was previously deemed.  According to independent cybersecurity journalist&nbsp; Brian Krebs , at least 30,000 entities across the U.S. — mainly small businesses, towns, cities, and local governments — have been compromised by an "unusually aggressive" Chinese group that has set its sights on stealing emails from victim organizations by exploiting previously undisclosed flaws in Exchange Server.   Victims are also being reported from outside the U.S., with email sy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Czech officials in Prague 'hit by massive cyber attack'<a href="https://www.euronews.com/2021/03/05/czech-officials-in-prague-hit-by-massive-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Czech officials in Prague have been hit by a large-scale cyberattack, according to the city's mayor. An immediate outage was made on the email system to maintain security.
+</details>
+<div style="text-align: right" markdown="1">
+Euronews
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Attack Blamed On China Morphs Into Global Crisis<a href="https://finance.yahoo.com/news/hackers-breach-thousands-microsoft-customers-004316114.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated attack on Microsoft Corp.’s widely used business email software is morphing into a global cybersecurity crisis, as hackers race to infect as many victims as possible before companies can secure their computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
