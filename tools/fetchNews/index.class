@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome users take at least one month to update, as zero-days lurk<a href="https://www.scmagazine.com/home/security-news/cloud-security/google-chrome-users-take-at-least-one-month-to-update-as-zero-days-lurk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+And starting January 2020, Microsoft’s Edge browser became based on Chromium. Developing an exploit for Chrome now gives the attackers a much larger attack surface to go after.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How auto-scanning and scripting helped Exchange attackers rack up victims<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/how-auto-scanning-and-scripting-helped-exchange-attackers-rack-up-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lesson here: malicious actors continue to leverage the combination of automated scanners and scripts to strategically rack up high victim counts, especially when they sense time to inflict damage before patching is running out.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Sarbloh ransomware supports Indian farmers' protest<a href="https://www.bleepingcomputer.com/news/security/new-sarbloh-ransomware-supports-indian-farmers-protest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware known as Sarbloh encrypts your files while at the same time delivering a message supporting the protests of Indian farmers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce legislation to allow Americans to take foreign hackers to court<a href="https://thehill.com//policy/cybersecurity/542157-lawmakers-introduce-legislation-to-allow-americans-to-take-foreign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Monday introduced legislation that would allow Americans to hold foreign governments and their employees accountable in court for malicious cyber activity. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virginia Passes New Data Protection Law<a href="https://www.infosecurity-magazine.com:443/news/virginia-passes-new-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virginia Consumer Data Protection Act signed into law
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Europe’s Intelligence Services Aim to Avoid the EU’s Highest Court—and What It Means for the United States<a href="https://www.lawfareblog.com/how-europes-intelligence-services-aim-avoid-eus-highest-court-and-what-it-means-united-states"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States now finds itself forced to consider changes to its foreign surveillance law and practices in order to reestablish a stable basis for transatlantic transfers of personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call for Papers: Cybersecurity Law and Policy Scholars Conference 2021<a href="https://www.lawfareblog.com/call-papers-cybersecurity-law-and-policy-scholars-conference-2021"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first annual Cybersecurity Law and Policy Scholars Conference (CLPSC) will take place at the University of Minnesota Law School on Oct. 1-2, 2021. The conference plans to accommodate both in-person and virtual participation, subject to evolving social-distancing guidelines.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UnityMiner targets unpatched QNAP NAS in cryptocurrency mining campaign<a href="https://securityaffairs.co/wordpress/115403/hacking/unityminer-qnap-nas-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of ongoing attacks targeting QNAP network-attached storage (NAS) devices to abuse them in cryptocurrency mining.
+
+
+
+Researchers at 360Netlab are warning of a cryptocurrency malware campaign targeting unpatched QNAP network-attached storage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Hafnium timeline crystalizes, signs of new Microsoft Exchange Server attacks emerge<a href="https://www.scmagazine.com/home/security-news/data-breach/as-hafnium-timeline-crystalizes-signs-of-new-microsoft-exchange-server-attacks-emerge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge of breaches against Microsoft Exchange Server appear to have rolled out in phases, with signs also pointing to other hackers using the same vulnerabilities after Microsoft announced a patch.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hiding Supernova malware in SolarWinds Orion linked to China<a href="https://www.bleepingcomputer.com/news/security/hackers-hiding-supernova-malware-in-solarwinds-orion-linked-to-china/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intrusion activity related to the Supernova malware planted on compromised SolarWinds Orion installations exposed on the public internet points to an espionage threat actor based in China.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Texas University<a href="https://www.infosecurity-magazine.com:443/news/hackers-target-texas-university/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious intrusion causes network outage at the University of Texas at El Paso
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Businesses want clarity’: Dissecting the web of influence on privacy regulations<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/businesses-want-clarity-dissecting-the-web-of-influence-on-privacy-regulations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Omer Tene, vice president and chief knowledge officer at the International Association of Privacy Professionals, sheds some light on the state of play for privacy legislation under the Biden administration.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome to block port 554 to stop NAT Slipstreaming attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-to-block-port-554-to-stop-nat-slipstreaming-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome will block the browser's access to TCP port 554 to protect against attacks using the NAT Slipstreaming 2.0 vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TiG Acquires ThirdSpace<a href="https://www.infosecurity-magazine.com:443/news/tig-acquires-thirdspace/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TiG acquires award-winning company specializing in identity and security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Banking Authority discloses Exchange server hack<a href="https://www.bleepingcomputer.com/news/security/european-banking-authority-discloses-exchange-server-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Banking Authority (EBA) took down all email systems after their Microsoft Exchange Servers were hacked as part of the ongoing attacks targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Agrees Deal to Sell Enterprise Business for $4bn<a href="https://www.infosecurity-magazine.com:443/news/mcafee-deal-enterprise-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The transaction is expected to be completed by the end of 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
