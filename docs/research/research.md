@@ -79,6 +79,16 @@ JACQUELINE KNIRNSCHILD: This thesis is a collection of creative non-fiction essa
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+• Cyber Mobs, Disinformation, and Death Videos: The Internet as It Is (and as It Should Be), May 4, 2020 [HTML](https://papers.bsafes.com/docs/internet/cyber-mobs-disinformation-and-death-videos-the-internet-as-it-is-and-as-it-should-be/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Nick Drnaso’s1 graphic novel Sabrina provides a powerful snapshot of online norms. The picture is not pretty: A young woman goes missing. Her grief-stricken boyfriend cannot bear to stay in their home and escapes to a friend’s house. Her sister struggles with the pain of her loss. We learn that the woman’s neighbor, a misogynist loner, killed her and recorded the murder. Online, people clamor for the video.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 • Internet Architecture and Disability, April 5, 2020 [HTML](https://papers.bsafes.com/docs/internet/internet-architecture-and-disability/)
 </p>
 <details>
