@@ -34,6 +34,142 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub bug caused users to login to other user accounts<a href="https://www.bleepingcomputer.com/news/security/github-bug-caused-users-to-login-to-other-user-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last night, GitHub automatically logged out many users and invalidated their sessions to protect user accounts against a potentially serious security vulnerability. Earlier this month GitHub had received a report of anomalous behavior from an external party.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of the Highlands and Islands shuts down campuses as it deals with 'ongoing cyber incident'<a href="https://www.theregister.com/2021/03/08/uni_highlands_islands_cyber_incident/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The institution, which spans 13 locations across the northernmost part of the UK, warned that "most services" – including its Brightspace virtual learning environment – were affected.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hack — New Evidence Suggests Potential Links to Chinese Hackers<a href="https://thehackernews.com/2021/03/solarwinds-hack-new-evidence-suggests.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious web shell deployed on Windows systems by leveraging a previously undisclosed zero-day in SolarWinds' Orion network monitoring software may have been the work of a possible Chinese threat group.  In a  report  published by Secureworks on Monday, the cybersecurity firm attributed the intrusions to a threat actor it calls Spiral.  Back on December 22, 2020, Microsoft  disclosed  that a second espionage group may have been abusing the IT infrastructure provider's Orion software to drop a persistent backdoor called Supernova on target systems.  The findings were also corroborated by cybersecurity firms Palo Alto Networks'  Unit 42  threat intelligence team and  GuidePoint Security , both of whom described Supernova as a .NET web shell implemented by modifying an "app_web_logoimagehandler.ashx.b6031896.dll" module of the SolarWinds Orion application.   The alterations were made possible not by breaching the SolarWinds app update infrastructure but instead b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Don’t Fall for Mother’s Day Scams This Week<a href="https://www.infosecurity-magazine.com:443/news/ncsc-dont-fall-for-mothers-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security agency urges users to be Cyber Aware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SUPERNOVA backdoor that emerged after SolarWinds hack is likely linked to Chinese actors<a href="https://securityaffairs.co/wordpress/115415/malware/supernova-chinese-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supernova malware clues link Chinese threat group Spiral to SolarWinds server hacks
+
+
+
+Supernova malware spotted on compromised SolarWinds Orion installs exposed on the Internets is likely linked to a China-linked espionage group.
+
+
+
+Researchers at Secureworks'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Williams team presented its new Formula One car on Friday, but hackers partially ruined the launch by hacking an “augmented reality” app that was designed to show the new vehicle.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Hackers Also Breached European Banking Authority<a href="https://thehackernews.com/2021/03/microsoft-exchange-hackers-also.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Banking Authority (EBA) on Sunday said it had been a victim of a cyberattack targeting its Microsoft Exchange Servers, forcing it to temporarily take its email systems offline as a precautionary measure.  "As the vulnerability is related to the EBA's email servers, access to personal data through emails held on that servers may have been obtained by the attacker," the Paris-based regulatory agency  said .  EBA said it's launched a full investigation into the incident in partnership with its information and communication technology (ICT) provider, a team of forensic experts, and other relevant entities.  In a second update issued on Monday, the agency said it had secured its email infrastructure and that it found no evidence of data extraction, adding it has "no indication to think that the breach has gone beyond our email servers."   Besides deploying extra security measures, EBA also noted it's closely monitoring the situation after restor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installs<a href="https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Administrators could use MSERT to make a full scan of the install or they can perform a ‘Customized scan’ of the paths where malicious files from the threat actor have been observed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 9, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

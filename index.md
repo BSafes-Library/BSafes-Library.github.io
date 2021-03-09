@@ -37,6 +37,294 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases ProxyLogon updates for unsupported Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-proxylogon-updates-for-unsupported-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates for Microsoft Exchange servers running unsupported Cumulative Update versions vulnerable to ProxyLogon attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ursnif Trojan Terrorizes Banks<a href="https://cyware.com/news/ursnif-trojan-terrorizes-banks-1a734a4e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast has found at least&nbsp; 100 banks in Italy &nbsp;being targeted by the&nbsp;Ursnif banking trojan. Researchers  also found over 1,700 stolen credentials linked to a single payment processor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia: Reported US plans for cyber strike 'alarming'<a href="https://thehill.com//policy/international/russia/542256-russia-reported-us-plans-for-cyber-strike-alarming"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia on Tuesday expressed concerns over reported plans by the Biden administration to wage a series of retaliatory actions in response to large-sale hacking of U.S. government agencies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9 Android Apps On Google Play Caught Distributing AlienBot Banker and MRAT Malware<a href="https://thehackernews.com/2021/03/9-android-apps-on-google-play-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new malware dropper contained in as many as 9 Android apps distributed via Google Play Store that deploys a second stage malware capable of gaining intrusive access to the financial accounts of victims as well as full control of their devices.  "This dropper, dubbed Clast82, utilizes a series of techniques to avoid detection by Google Play Protect detection, completes the evaluation period successfully, and changes the payload dropped from a non-malicious payload to the AlienBot Banker and MRAT," Check Point researchers Aviran Hazum, Bohdan Melnykov, and Israel Wernik said in a write-up published  today.  The apps that were used for the campaign include Cake VPN, Pacific VPN, eVPN, BeatPlayer, QR/Barcode Scanner MAX, Music Player, tooltipnatorlibrary, and QRecorder. After the findings were reported to Google on January 28, the rogue apps were removed from the Play Store on February 9.    Malware authors have resorted to a variety o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huge Rise in Hackers Submitting Vulnerabilities During #COVID19<a href="https://www.infosecurity-magazine.com:443/news/rise-hackers-submitting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HackerOne reports a 63% rise in hackers submitting vulnerabilities in 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds spurs investment in threat hunting, supplier vetting<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-spurs-investment-in-threat-hunting-supplier-vetting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that boosted security budgets in response to the SolarWinds hack invested the most in threat hunting, according to a new survey.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub fixes bug causing users to log into other accounts<a href="https://www.bleepingcomputer.com/news/security/github-fixes-bug-causing-users-to-log-into-other-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last night, GitHub automatically logged out many users and invalidated their sessions to protect user accounts against a potentially serious security vulnerability. Earlier this month GitHub had received a report of anomalous behavior from an external party.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supernova Malware Analysis Links Chinese Threat Group Spiral to SolarWinds Server Hacks<a href="https://www.zdnet.com/article/supernova-malware-clues-link-chinese-threat-group-spiral-to-solarwinds-hacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the CVE-2020-10148 authentication bypass vulnerability, which leads to the remote execution of API commands, in the SolarWinds Orion API has been exploited by Spiral.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden challenged by early cyber threats<a href="https://thehill.com//policy/cybersecurity/542230-biden-challenged-by-early-cyber-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is grappling with two major cyber incidents in its first 50 days in office, underscoring the challenge the new White House faces from foreign actors.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Webinar — SolarWinds Sunburst: The Big Picture<a href="https://thehackernews.com/2021/03/cybersecurity-webinar-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds Sunburst attack has been in the headlines since it was first discovered in December 2020.   As the so-called layers of the onion are peeled back, additional information regarding how the vulnerability was exploited, who was behind the attack, who is to blame for the attack, and the long-term ramifications of this type of supply chain vulnerabilities continue to be actively discussed.   Cybersecurity company Cynet is taking a needed step back to provide a full picture of the SolarWinds attack from start to finish in an upcoming webinar, " Lessons Learned from the SolarWinds SUNBURST Attack ."  Information regarding many aspects of the attack has been coming out in pieces, but we haven't yet seen this type of comprehensive overview of the technical steps behind the full attack, as well as clear recommendations for protecting against similar future attacks.  And this is precisely what's needed so security professionals can gain insights on the attack tact
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veriff Appoints Duncan Steblyna as New VP of Product<a href="https://www.infosecurity-magazine.com:443/news/veriff-appoints-duncan-steblyna/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Steblyna will lead the product team at identity verification firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emails and Mobile Phones Become Top Phishing Tools<a href="https://cyware.com/news/emails-and-mobile-phones-become-top-phishing-tools-e6e65d73"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the case of email-based phishing methods, scammers are taking their game up a notch as they open avenues for targeted attacks, BEC attacks, and ransomware, among other infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 Google Play Apps Found Containing Banking Malware<a href="https://www.infosecurity-magazine.com:443/news/ten-google-play-apps-banking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious dropper also loaded RAT onto victim devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack Trends Involving Apps and Extensions<a href="https://cyware.com/news/supply-chain-attack-trends-involving-apps-and-extensions-8c399936"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent barcode scanner supply chain attack—buying the software, along with their source code and pushing the malformed version—is a new technique that will likely grow in popularity among cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DARPA Ramps-Up FHE Encryption Project with Intel<a href="https://www.infosecurity-magazine.com:443/news/darpa-rampsup-fhe-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research teams will try to make FHE calculations as fast as plaintext
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Android Malware Impersonates FedEx, DHL, Correos, Chrome Apps to Steal User Data<a href="https://www.hackread.com/flubot-android-malware-fedex-chrome-apps-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FluBot infects Android devices by appearing as FedEx, DHL, Correos, and Chrome apps and forces users to change Accessibility settings so that it could maintain persistence on the device.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malformed URL Phishing Grabs the Spotlight<a href="https://cyware.com/news/malformed-url-phishing-grabs-the-spotlight-0effa222"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First detected in October 2020, the tactic began gaining momentum through the end of the year. Between January and February, the volume of phishing attacks using malformed URL prefixes increased dramatically.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UnityMiner Exploits Unpatched QNAP NAS Devices in Cryptocurrency Mining Campaign<a href="https://securityaffairs.co/wordpress/115403/hacking/unityminer-qnap-nas-devices.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting two unauthorized remote command execution vulnerabilities, tracked as CVE-2020-2506 & CVE-2020-2507, in the Helpdesk app which were fixed by the vendor in October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GitHub bug caused users to login to other user accounts<a href="https://www.bleepingcomputer.com/news/security/github-bug-caused-users-to-login-to-other-user-accounts/"> Full Text</a>
 </p>
 <details>
