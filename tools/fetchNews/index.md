@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats push Facebook to 'take responsibility' for placement of gun accessory ads | Lawmakers introduce bill allowing Americans to take foreign hackers to court | Malala Yousafzai signs content deal with Apple<a href="https://thehill.com//policy/technology/overnights/542226-hillicon-valley-democrats-push-facebook-to-take-responsibility"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Democratic members of a key House committee on Monday pushed for transparency from Facebook on placements of gun accessory advertisements in the wake of the Jan. 6 Capitol riot. A group of bipartisan lawmakers rolled out legislation to allow Americans to hold foreign hackers accountable in court. And a major women’s rights activist signed a deal with Apple TV on International Women’s Day. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
