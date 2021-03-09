@@ -37,6 +37,482 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers access surveillance cameras at Tesla, Cloudflare, banks, more<a href="https://www.bleepingcomputer.com/news/security/hackers-access-surveillance-cameras-at-tesla-cloudflare-banks-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers gained access to live surveillance cameras installed at Tesla, Equinox, healthcare clinics, jails, and banks, including the Bank of Utah.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Sells its Enterprise Business to Symphony Technology Group in $4.0 Billion Deal<a href="https://cybersecuritynews.com/mcafee-sells-its-enterprise-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ McAfee Corp., the device-to-cloud cybersecurity company has disclosed it has entered into a definitive agreement to sell its Enterprise business to a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases a patch for older versions of Exchange<a href="https://www.zdnet.com/article/microsoft-exchange-attacks-now-microsoft-rushes-out-a-patch-for-these-unsupported-exchange-servers-too/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates for unsupported versions of Exchange email servers following widespread attacks exploiting four newly discovered security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden appoints Clare Martorana as federal CIO<a href="https://thehill.com//policy/cybersecurity/542399-biden-appoints-clare-martorana-as-federal-cio"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House on Tuesday announced that President Biden had appointed Clare Martorana to serve as both the federal chief information officer and administrator of the Office of Management and Budget’s Office of Electronic Government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arkansas Bill Addresses “Unfair” Social Media Censorship<a href="https://www.infosecurity-magazine.com:443/news/arkansas-social-media-censorship/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media sites could be liable for damages if content is removed for “dubious or pretextual” reasons
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: A Lot of Cybersecurity Measures That Don't Work, And A Few That Might<a href="https://www.lawfareblog.com/cyberlaw-podcast-lot-cybersecurity-measures-dont-work-and-few-might"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We’re mostly back to our cybersecurity roots in this episode, for good reasons and bad. The worst of the bad reasons is a new set of zero-day vulnerabilities in Microsoft’s Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Microsoft Exchange Hack and the Great Email Robbery<a href="https://www.lawfareblog.com/microsoft-exchange-hack-and-great-email-robbery"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world is probably days away from a mass-exploitation of Microsoft Exchange servers—a hack that could have a far greater impact than the SolarWinds breach.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another French hospital hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/115434/cyber-crime/french-hospital-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the Oloron-Sainte-Marie hospital in southwest France, it is the third such attack in the last month.
+
+
+
+A ransomware attack paralyzed the systems at the Oloron-Sainte-Marie hospital in southwest France. The incident took place...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation launches software signing service<a href="https://www.scmagazine.com/home/security-news/network-security/linux-foundation-launches-software-signing-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sigstore project, a free-to-use software signing certificate authority available to all developers,  opens with Google, Purdue University and Red Hat as founding  members.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Harbors Malware-Laced Apps Delivering Spy Trojans<a href="https://threatpost.com/google-play-malware-spy-trojans/164601/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A never-before-seen malware-dropper, Clast82, fetches the AlienBot and MRAT malware in a savvy Google Play campaign aimed at Android users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes more domains used in COVID-19 vaccine phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-seizes-more-domains-used-in-covid-19-vaccine-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has seized a fifth domain name used to impersonate the official site of a biotechnology company involved in COVID-19 vaccine development.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sontiq Acquires Fintech Provider Breach Clarity<a href="https://finance.yahoo.com/news/sontiq-acquires-fintech-provider-breach-120000204.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a result of the acquisition, Sontiq’s products – IdentityForce, Cyberscout, and EZShield – all built on its tech-enabled IIS Platform, will have the proprietary capability, BreachIQ.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone Calls for New Cybersecurity Policies to Help SMEs<a href="https://www.infosecurity-magazine.com:443/news/vodafone-cybersecurity-policies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comms company asks UK government to slash VAT on cybersecurity products
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Was SolarWinds a Different Type of Cyber Espionage?<a href="https://www.lawfareblog.com/was-solarwinds-different-type-cyber-espionage"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a gap between how administration officials are framing the nature of the SolarWinds incident and what the available evidence indicates about it.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases ProxyLogon patches for unsupported Microsoft Exchange versions<a href="https://securityaffairs.co/wordpress/115428/security/microsoft-exchange-emergency-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released ProxyLogon security updates for Microsoft Exchange servers running vulnerable unsupported Cumulative Update versions.
+
+
+
+On March 2nd, Microsoft has released emergency out-of-band security updates that address four zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Hafnium patch for defunct edition of Exchange<a href="https://www.scmagazine.com/home/patch-management/microsoft-releases-hafnium-patch-for-defunct-edition-of-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a rare move for a vendor, Microsoft is now offering the same patch for its no-longer-supported Exchange Server 2010 that it introduced last week for all newer editions.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Plugs Severe WebKit Remote Code-Execution Hole<a href="https://threatpost.com/apple-webkit-remote-code-execution/164595/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple pushed out security updates for a memory-corruption bug to devices running on iOS, macOS, watchOS and for Safari.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft March 2021 Patch Tuesday fixes 82 flaws, 2 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2021-patch-tuesday-fixes-82-flaws-2-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's March 2021 Patch Tuesday, and with admins already struggling with Microsoft Exchange updates and hacked servers, please be nice to your IT staff today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Banking Regulator Hit by Microsoft Email Hack<a href="https://www.securityweek.com/eu-banking-regulator-hit-microsoft-email-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EBA had said in a statement on Sunday that it had taken its email systems offline as a precaution, noting that access to personal data held on servers "may have been obtained by the attacker".
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach Clarity Acquired by Sontiq<a href="https://www.infosecurity-magazine.com:443/news/breach-clarity-acquired-by-sontiq/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligent identity security company Sontiq acquires fintech provider Breach Clarity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes CVE-2021-1844 RCE that affects iOS, macOS, watchOS, and Safari<a href="https://securityaffairs.co/wordpress/115423/hacking/apple-cve-2021-1844-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released out-of-band patches to address a remote code execution, tracked as CVE-2021-1844, that affect iOS, macOS, watchOS, and Safari web browser.
+
+
+
+Apple has released out-of-band security patches to address a critical iOS, macOS, watchOS, and Safari...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares detection, mitigation advice for Azure LoLBins<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-detection-mitigation-advice-for-azure-lolbins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure LoLBins can be used by attackers to bypass network defenses, deploy cryptominers, elevate privileges, and disable real-time protection on a targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacera Raises $50M To Help Companies Control Their Data<a href="https://news.crunchbase.com/news/privacera-raises-50m-to-help-companies-control-their-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data governance and security provider Privacera closed a $50 million Series B as it looks to build on momentum from last year with concerns about data and privacy only growing.
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+West Ham Supporters’ Personal Details Leaked on Club Website<a href="https://www.infosecurity-magazine.com:443/news/west-ham-supporters-personal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal details of supporters of the Premier League side leaked on the official club site
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical Creative Cloud, Adobe Connect vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-creative-cloud-adobe-connect-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released security updates that fix vulnerabilities in Adobe Creative Cloud Desktop, Framemaker, and Connect. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protection and Privacy Pivotal to the UK’s National Data Strategy<a href="https://www.infosecurity-magazine.com:443/news/protection-privacy-uk-national/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Safeguards need to be established in the National Data Strategy
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+z0Miner botnet hunts for unpatched ElasticSearch, Jenkins servers<a href="https://www.bleepingcomputer.com/news/security/z0miner-botnet-hunts-for-unpatched-elasticsearch-jenkins-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptomining botnet spotted last year is now targeting and attempting to take control of Jenkins and ElasticSearch servers to mine for Monero (XMR) cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GandCrab ransomware affiliate arrested for phishing attacks<a href="https://www.bleepingcomputer.com/news/security/gandcrab-ransomware-affiliate-arrested-for-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected GandCrab Ransomware member was arrested in South Korea for using phishing emails to infect victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security bug hunters focus on misconfigured services, earn big rewards<a href="https://www.bleepingcomputer.com/news/security/security-bug-hunters-focus-on-misconfigured-services-earn-big-rewards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An overview of the hacking activity on the HackerOne vulnerability coordination and bug bounty platform shows that misconfiguration of cloud resources is quickly becoming a hot target for ethical hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases ProxyLogon updates for unsupported Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-proxylogon-updates-for-unsupported-exchange-servers/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +526,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ursnif Trojan Terrorizes Banks<a href="https://cyware.com/news/ursnif-trojan-terrorizes-banks-1a734a4e"> Full Text</a>
@@ -66,7 +542,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia: Reported US plans for cyber strike 'alarming'<a href="https://thehill.com//policy/international/russia/542256-russia-reported-us-plans-for-cyber-strike-alarming"> Full Text</a>
@@ -82,7 +558,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 9 Android Apps On Google Play Caught Distributing AlienBot Banker and MRAT Malware<a href="https://thehackernews.com/2021/03/9-android-apps-on-google-play-caught.html"> Full Text</a>
@@ -98,7 +574,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huge Rise in Hackers Submitting Vulnerabilities During #COVID19<a href="https://www.infosecurity-magazine.com:443/news/rise-hackers-submitting/"> Full Text</a>
@@ -114,7 +590,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds spurs investment in threat hunting, supplier vetting<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-spurs-investment-in-threat-hunting-supplier-vetting/"> Full Text</a>
@@ -130,7 +606,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub fixes bug causing users to log into other accounts<a href="https://www.bleepingcomputer.com/news/security/github-fixes-bug-causing-users-to-log-into-other-accounts/"> Full Text</a>
@@ -146,7 +622,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supernova Malware Analysis Links Chinese Threat Group Spiral to SolarWinds Server Hacks<a href="https://www.zdnet.com/article/supernova-malware-clues-link-chinese-threat-group-spiral-to-solarwinds-hacks/?&web_view=true"> Full Text</a>
@@ -162,7 +638,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden challenged by early cyber threats<a href="https://thehill.com//policy/cybersecurity/542230-biden-challenged-by-early-cyber-threats"> Full Text</a>
@@ -178,7 +654,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Webinar — SolarWinds Sunburst: The Big Picture<a href="https://thehackernews.com/2021/03/cybersecurity-webinar-solarwinds.html"> Full Text</a>
@@ -194,7 +670,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veriff Appoints Duncan Steblyna as New VP of Product<a href="https://www.infosecurity-magazine.com:443/news/veriff-appoints-duncan-steblyna/"> Full Text</a>
@@ -210,7 +686,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emails and Mobile Phones Become Top Phishing Tools<a href="https://cyware.com/news/emails-and-mobile-phones-become-top-phishing-tools-e6e65d73"> Full Text</a>
@@ -226,7 +702,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 Google Play Apps Found Containing Banking Malware<a href="https://www.infosecurity-magazine.com:443/news/ten-google-play-apps-banking/"> Full Text</a>
@@ -242,7 +718,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack Trends Involving Apps and Extensions<a href="https://cyware.com/news/supply-chain-attack-trends-involving-apps-and-extensions-8c399936"> Full Text</a>
@@ -258,7 +734,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DARPA Ramps-Up FHE Encryption Project with Intel<a href="https://www.infosecurity-magazine.com:443/news/darpa-rampsup-fhe-encryption/"> Full Text</a>
@@ -274,7 +750,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot Android Malware Impersonates FedEx, DHL, Correos, Chrome Apps to Steal User Data<a href="https://www.hackread.com/flubot-android-malware-fedex-chrome-apps-data/?&web_view=true"> Full Text</a>
@@ -290,7 +766,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malformed URL Phishing Grabs the Spotlight<a href="https://cyware.com/news/malformed-url-phishing-grabs-the-spotlight-0effa222"> Full Text</a>
@@ -306,7 +782,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UnityMiner Exploits Unpatched QNAP NAS Devices in Cryptocurrency Mining Campaign<a href="https://securityaffairs.co/wordpress/115403/hacking/unityminer-qnap-nas-devices.html?&web_view=true"> Full Text</a>
@@ -322,7 +798,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub bug caused users to login to other user accounts<a href="https://www.bleepingcomputer.com/news/security/github-bug-caused-users-to-login-to-other-user-accounts/"> Full Text</a>
@@ -338,7 +814,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University of the Highlands and Islands shuts down campuses as it deals with 'ongoing cyber incident'<a href="https://www.theregister.com/2021/03/08/uni_highlands_islands_cyber_incident/?&web_view=true"> Full Text</a>
@@ -354,7 +830,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hack — New Evidence Suggests Potential Links to Chinese Hackers<a href="https://thehackernews.com/2021/03/solarwinds-hack-new-evidence-suggests.html"> Full Text</a>
@@ -370,7 +846,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC: Don’t Fall for Mother’s Day Scams This Week<a href="https://www.infosecurity-magazine.com:443/news/ncsc-dont-fall-for-mothers-day/"> Full Text</a>
@@ -386,7 +862,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SUPERNOVA backdoor that emerged after SolarWinds hack is likely linked to Chinese actors<a href="https://securityaffairs.co/wordpress/115415/malware/supernova-chinese-hackers.html"> Full Text</a>
@@ -410,7 +886,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html?&web_view=true"> Full Text</a>
@@ -426,7 +902,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange Hackers Also Breached European Banking Authority<a href="https://thehackernews.com/2021/03/microsoft-exchange-hackers-also.html"> Full Text</a>
@@ -442,7 +918,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installs<a href="https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html?&web_view=true"> Full Text</a>
@@ -458,7 +934,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Find My Devices Could Expose User Location Histories<a href="https://cybersecuritynews.com/apple-find-my-devices/"> Full Text</a>
@@ -474,7 +950,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Democrats push Facebook to 'take responsibility' for placement of gun accessory ads | Lawmakers introduce bill allowing Americans to take foreign hackers to court | Malala Yousafzai signs content deal with Apple<a href="https://thehill.com//policy/technology/overnights/542226-hillicon-valley-democrats-push-facebook-to-take-responsibility"> Full Text</a>
