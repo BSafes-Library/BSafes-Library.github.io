@@ -79,6 +79,16 @@ JACQUELINE KNIRNSCHILD: This thesis is a collection of creative non-fiction essa
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+• Internet Architecture and Disability, April 5, 2020 [HTML](https://papers.bsafes.com/docs/internet/internet-architecture-and-disability/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet is essential for education, employment, information, and cultural and democratic participation. For tens of millions of people with disabilities in the United States, barriers to accessing the Internet—including the visual presentation of information to people who are blind or visually impaired, the aural presentation of information to people who are deaf or hard of hearing, and the persistence of Internet technology, interfaces, and content without regard to prohibitive cognitive load for people with cognitive and intellectual disabilities—collectively pose one of the most significant civil rights issues of the information age. Yet disability law lacks a comprehensive theoretical approach for fully facilitating Internet accessibility. The prevailing doctrinal approach to Internet accessibility seeks to treat websites as metaphorical “places” subject to Title III of the Americans with Disabilities Act (ADA), which requires places of public accommodations to be accessible to people with disabilities. While this place-centric approach to Title III has succeeded to a significant degree in making websites accessible over the last two decades, large swaths of the Internet—more broadly construed to include Internet technologies beyond websites—remain inaccessible to millions of people with a variety of disabilities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 • Subculture of Hackers in Russia, by Roman Dremliuga, August 22, 2014 [HTML](https://papers.bsafes.com/docs/hacker/subculture-of-hackers-in-russia/)
 </p>
 <details>
