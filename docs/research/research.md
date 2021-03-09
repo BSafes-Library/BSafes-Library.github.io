@@ -89,6 +89,16 @@ The Internet is essential for education, employment, information, and cultural a
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+• Revenge Porn and the First Amendment - Should Nonconsensual Distribution of Sexually Explicit Images Receive Constitutional Protection?, June, 2019 [HTML](https://papers.bsafes.com/docs/privacy/revenge-porn-and-the-first-amendmen/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Like many issues related to relationships and sexuality, “revenge porn” has become more complicated—and its consequences more sinister—thanks to twenty-first century technology. Revenge porn, often referred to as nonconsensual pornography, involves the publication or distribution of sexually explicit images without the subject’s consent. This may include images obtained without consent, as well as images initially obtained with consent—often within the context of an intimate relationship—but later shared broadly or used as blackmail. The issue received increased public attention after a 2014 incident in which a hacker accessed and leaked sexually explicit photos of several celebrities. But celebrities are far from the only victims: a 2016 study found that roughly one in twenty-five Americans have been threatened with or been the victim of nonconsensual image sharing.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 • Subculture of Hackers in Russia, by Roman Dremliuga, August 22, 2014 [HTML](https://papers.bsafes.com/docs/hacker/subculture-of-hackers-in-russia/)
 </p>
 <details>
@@ -96,3 +106,14 @@ The Internet is essential for education, employment, information, and cultural a
 This article observes the situation with hacker subculture in Russia. The author is analyzing the reasons why this subculture doesn’t need a lot of time to conquer Russian net society. He is proving that tremendous growth of popularity of hacker subculture in Russia is caused by easy acceptance of hacker’s ideology. Also, the author is studying modern functions of hacker subculture and researching why Russian society does not regard hackers as criminals.
 </details>
 </div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
+• Web Application Security, September 30, 2012 [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-12401/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This report documents the program and the outcomes of Dagstuhl Seminar 12401 “Web Application Security”. The seminar brought 44 web security researchers together, coming from companies and research institutions across Europe and the US.
+</details>
+</div>
+
