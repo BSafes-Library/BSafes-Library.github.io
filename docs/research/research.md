@@ -48,6 +48,17 @@ Amidst the regular drumbeat of reports about Russian attempts to undermine U.S. 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+• Cryptography, Passwords, Privacy, and the Fifth Amendment, August , 2020 [HTML](https://papers.bsafes.com/docs/encryption/cryptography-passwords-privacy-and-the-fifth-amendment/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Military-grade cryptography has been widely available at no cost for personal and commercial use since the early 1990s. Since the introduction of Pretty Good Privacy (PGP), more and more people encrypt files and devices, and we are now at the point where our smartphones are encrypted by default. While this ostensibly provides users with a high degree of privacy, compelling a user to provide a password has been interpreted by some courts as a violation of our Fifth Amendment protections, becoming an often insurmountable hurdle to law enforcement lawfully executing a search warrant. This paper will explore some of the issues around this complex legal and social issue, including the evolution in the use of digital cryptography and the evolving legal interpretations of privacy.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 • A New Compact for Sexual Privacy, June, 2020 [HTML](https://papers.bsafes.com/docs/privacy/a-new-compact-for-sexual-privacy/)
 </p>
 <details>
