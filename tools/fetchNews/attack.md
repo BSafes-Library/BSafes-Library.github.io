@@ -11,6 +11,48 @@ nav_order: 900015
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How auto-scanning and scripting helped Exchange attackers rack up victims<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/how-auto-scanning-and-scripting-helped-exchange-attackers-rack-up-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lesson here: malicious actors continue to leverage the combination of automated scanners and scripts to strategically rack up high victim counts, especially when they sense time to inflict damage before patching is running out.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Hafnium timeline crystalizes, signs of new Microsoft Exchange Server attacks emerge<a href="https://www.scmagazine.com/home/security-news/data-breach/as-hafnium-timeline-crystalizes-signs-of-new-microsoft-exchange-server-attacks-emerge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge of breaches against Microsoft Exchange Server appear to have rolled out in phases, with signs also pointing to other hackers using the same vulnerabilities after Microsoft announced a patch.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Banking Authority discloses Exchange server hack<a href="https://www.bleepingcomputer.com/news/security/european-banking-authority-discloses-exchange-server-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Banking Authority (EBA) took down all email systems after their Microsoft Exchange Servers were hacked as part of the ongoing attacks targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Multiple Airlines Affected Following SITA Cyberattack<a href="https://heimdalsecurity.com/blog/outspread-sita-security-breach-exposes-more-airlines/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

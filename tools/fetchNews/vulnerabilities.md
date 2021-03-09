@@ -11,6 +11,52 @@ nav_order: 900220
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome users take at least one month to update, as zero-days lurk<a href="https://www.scmagazine.com/home/security-news/cloud-security/google-chrome-users-take-at-least-one-month-to-update-as-zero-days-lurk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+And starting January 2020, Microsoft’s Edge browser became based on Chromium. Developing an exploit for Chrome now gives the attackers a much larger attack surface to go after.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UnityMiner targets unpatched QNAP NAS in cryptocurrency mining campaign<a href="https://securityaffairs.co/wordpress/115403/hacking/unityminer-qnap-nas-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of ongoing attacks targeting QNAP network-attached storage (NAS) devices to abuse them in cryptocurrency mining.
+
+
+
+Researchers at 360Netlab&nbsp;are warning of a cryptocurrency malware campaign targeting unpatched QNAP network-attached storage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome to block port 554 to stop NAT Slipstreaming attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-to-block-port-554-to-stop-nat-slipstreaming-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome will block the browser's access to TCP port 554 to protect against attacks using the NAT Slipstreaming 2.0 vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Truecaller's Guardians App was leaking live location details, issue fixed<a href="https://ciso.economictimes.indiatimes.com/news/truecallers-guardians-app-was-leaking-live-location-details-issue-fixed/81394070?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

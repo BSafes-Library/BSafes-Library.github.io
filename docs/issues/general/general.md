@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Webinar — SolarWinds Sunburst: The Big Picture<a href="https://thehackernews.com/2021/03/cybersecurity-webinar-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds Sunburst attack has been in the headlines since it was first discovered in December 2020.&nbsp;  As the so-called layers of the onion are peeled back, additional information regarding how the vulnerability was exploited, who was behind the attack, who is to blame for the attack, and the long-term ramifications of this type of supply chain vulnerabilities continue to be actively discussed.&nbsp;  Cybersecurity company Cynet is taking a needed step back to provide a full picture of the SolarWinds attack from start to finish in an upcoming webinar, " Lessons Learned from the SolarWinds SUNBURST Attack ."  Information regarding many aspects of the attack has been coming out in pieces, but we haven't yet seen this type of comprehensive overview of the technical steps behind the full attack, as well as clear recommendations for protecting against similar future attacks.  And this is precisely what's needed so security professionals can gain insights on the attack tact
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats push Facebook to 'take responsibility' for placement of gun accessory ads | Lawmakers introduce bill allowing Americans to take foreign hackers to court | Malala Yousafzai signs content deal with Apple<a href="https://thehill.com//policy/technology/overnights/542226-hillicon-valley-democrats-push-facebook-to-take-responsibility"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Democratic members of a key House committee on Monday pushed for transparency from Facebook on placements of gun accessory advertisements in the wake of the Jan. 6 Capitol riot. A group of bipartisan lawmakers rolled out legislation to allow Americans to hold foreign hackers accountable in court. And a major women’s rights activist signed a deal with Apple TV on International Women’s Day.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

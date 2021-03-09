@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases ProxyLogon updates for unsupported Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-proxylogon-updates-for-unsupported-exchange-servers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ursnif Trojan Terrorizes Banks<a href="https://cyware.com/news/ursnif-trojan-terrorizes-banks-1a734a4e"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia: Reported US plans for cyber strike 'alarming'<a href="https://thehill.com//policy/international/russia/542256-russia-reported-us-plans-for-cyber-strike-alarming"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 9 Android Apps On Google Play Caught Distributing AlienBot Banker and MRAT Malware<a href="https://thehackernews.com/2021/03/9-android-apps-on-google-play-caught.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huge Rise in Hackers Submitting Vulnerabilities During #COVID19<a href="https://www.infosecurity-magazine.com:443/news/rise-hackers-submitting/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds spurs investment in threat hunting, supplier vetting<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-spurs-investment-in-threat-hunting-supplier-vetting/"> Full Text</a>
@@ -130,7 +130,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub fixes bug causing users to log into other accounts<a href="https://www.bleepingcomputer.com/news/security/github-fixes-bug-causing-users-to-log-into-other-accounts/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supernova Malware Analysis Links Chinese Threat Group Spiral to SolarWinds Server Hacks<a href="https://www.zdnet.com/article/supernova-malware-clues-link-chinese-threat-group-spiral-to-solarwinds-hacks/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden challenged by early cyber threats<a href="https://thehill.com//policy/cybersecurity/542230-biden-challenged-by-early-cyber-threats"> Full Text</a>
@@ -178,7 +178,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Webinar — SolarWinds Sunburst: The Big Picture<a href="https://thehackernews.com/2021/03/cybersecurity-webinar-solarwinds.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veriff Appoints Duncan Steblyna as New VP of Product<a href="https://www.infosecurity-magazine.com:443/news/veriff-appoints-duncan-steblyna/"> Full Text</a>
@@ -210,7 +210,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emails and Mobile Phones Become Top Phishing Tools<a href="https://cyware.com/news/emails-and-mobile-phones-become-top-phishing-tools-e6e65d73"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 Google Play Apps Found Containing Banking Malware<a href="https://www.infosecurity-magazine.com:443/news/ten-google-play-apps-banking/"> Full Text</a>
@@ -242,7 +242,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack Trends Involving Apps and Extensions<a href="https://cyware.com/news/supply-chain-attack-trends-involving-apps-and-extensions-8c399936"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DARPA Ramps-Up FHE Encryption Project with Intel<a href="https://www.infosecurity-magazine.com:443/news/darpa-rampsup-fhe-encryption/"> Full Text</a>
@@ -274,7 +274,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot Android Malware Impersonates FedEx, DHL, Correos, Chrome Apps to Steal User Data<a href="https://www.hackread.com/flubot-android-malware-fedex-chrome-apps-data/?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malformed URL Phishing Grabs the Spotlight<a href="https://cyware.com/news/malformed-url-phishing-grabs-the-spotlight-0effa222"> Full Text</a>
@@ -306,7 +306,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UnityMiner Exploits Unpatched QNAP NAS Devices in Cryptocurrency Mining Campaign<a href="https://securityaffairs.co/wordpress/115403/hacking/unityminer-qnap-nas-devices.html?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub bug caused users to login to other user accounts<a href="https://www.bleepingcomputer.com/news/security/github-bug-caused-users-to-login-to-other-user-accounts/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University of the Highlands and Islands shuts down campuses as it deals with 'ongoing cyber incident'<a href="https://www.theregister.com/2021/03/08/uni_highlands_islands_cyber_incident/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hack — New Evidence Suggests Potential Links to Chinese Hackers<a href="https://thehackernews.com/2021/03/solarwinds-hack-new-evidence-suggests.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC: Don’t Fall for Mother’s Day Scams This Week<a href="https://www.infosecurity-magazine.com:443/news/ncsc-dont-fall-for-mothers-day/"> Full Text</a>
@@ -386,7 +386,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SUPERNOVA backdoor that emerged after SolarWinds hack is likely linked to Chinese actors<a href="https://securityaffairs.co/wordpress/115415/malware/supernova-chinese-hackers.html"> Full Text</a>
@@ -410,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange Hackers Also Breached European Banking Authority<a href="https://thehackernews.com/2021/03/microsoft-exchange-hackers-also.html"> Full Text</a>
@@ -442,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installs<a href="https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Find My Devices Could Expose User Location Histories<a href="https://cybersecuritynews.com/apple-find-my-devices/"> Full Text</a>
@@ -474,7 +474,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2021
+March 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Democrats push Facebook to 'take responsibility' for placement of gun accessory ads | Lawmakers introduce bill allowing Americans to take foreign hackers to court | Malala Yousafzai signs content deal with Apple<a href="https://thehill.com//policy/technology/overnights/542226-hillicon-valley-democrats-push-facebook-to-take-responsibility"> Full Text</a>

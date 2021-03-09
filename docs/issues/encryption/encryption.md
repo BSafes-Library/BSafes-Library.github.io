@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DARPA Ramps-Up FHE Encryption Project with Intel<a href="https://www.infosecurity-magazine.com:443/news/darpa-rampsup-fhe-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research teams will try to make FHE calculations as fast as plaintext
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

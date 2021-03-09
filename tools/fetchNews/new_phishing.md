@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emails and Mobile Phones Become Top Phishing Tools<a href="https://cyware.com/news/emails-and-mobile-phones-become-top-phishing-tools-e6e65d73"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the case of email-based phishing methods, scammers are taking their game up a notch as they open avenues for targeted attacks, BEC attacks, and ransomware, among other infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malformed URL Phishing Grabs the Spotlight<a href="https://cyware.com/news/malformed-url-phishing-grabs-the-spotlight-0effa222"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First detected in October 2020, the tactic began gaining momentum through the end of the year. Between January and February, the volume of phishing attacks using malformed URL prefixes increased dramatically.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Don’t Fall for Mother’s Day Scams This Week<a href="https://www.infosecurity-magazine.com:443/news/ncsc-dont-fall-for-mothers-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security agency urges users to be Cyber Aware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

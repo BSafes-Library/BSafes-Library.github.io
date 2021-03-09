@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hack — New Evidence Suggests Potential Links to Chinese Hackers<a href="https://thehackernews.com/2021/03/solarwinds-hack-new-evidence-suggests.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious web shell deployed on Windows systems by leveraging a previously undisclosed zero-day in SolarWinds' Orion network monitoring software may have been the work of a possible Chinese threat group.  In a&nbsp; report &nbsp;published by Secureworks on Monday, the cybersecurity firm attributed the intrusions to a threat actor it calls Spiral.  Back on December 22, 2020, Microsoft&nbsp; disclosed &nbsp;that a second espionage group may have been abusing the IT infrastructure provider's Orion software to drop a persistent backdoor called Supernova on target systems.  The findings were also corroborated by cybersecurity firms Palo Alto Networks'&nbsp; Unit 42 &nbsp;threat intelligence team and&nbsp; GuidePoint Security , both of whom described Supernova as a .NET web shell implemented by modifying an "app_web_logoimagehandler.ashx.b6031896.dll" module of the SolarWinds Orion application.   The alterations were made possible not by breaching the SolarWinds app update infrastructure but instead b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Businesses want clarity’: Dissecting the web of influence on privacy regulations<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/businesses-want-clarity-dissecting-the-web-of-influence-on-privacy-regulations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Omer Tene, vice president and chief knowledge officer at the International Association of Privacy Professionals, sheds some light on the state of play for privacy legislation under the Biden administration.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

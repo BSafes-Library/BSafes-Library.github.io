@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds spurs investment in threat hunting, supplier vetting<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-spurs-investment-in-threat-hunting-supplier-vetting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that boosted security budgets in response to the SolarWinds hack invested the most in threat hunting, according to a new survey.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veriff Appoints Duncan Steblyna as New VP of Product<a href="https://www.infosecurity-magazine.com:443/news/veriff-appoints-duncan-steblyna/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Steblyna will lead the product team at identity verification firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

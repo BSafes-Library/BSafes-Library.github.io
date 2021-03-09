@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia: Reported US plans for cyber strike 'alarming'<a href="https://thehill.com//policy/international/russia/542256-russia-reported-us-plans-for-cyber-strike-alarming"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia on Tuesday&nbsp;expressed concerns over reported plans by the Biden administration to wage a series of retaliatory actions in response to large-sale hacking of U.S. government agencies.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden challenged by early cyber threats<a href="https://thehill.com//policy/cybersecurity/542230-biden-challenged-by-early-cyber-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is grappling with two major cyber incidents in its first 50 days in office, underscoring the challenge the new White House faces from foreign actors.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

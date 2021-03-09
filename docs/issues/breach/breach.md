@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Hackers Also Breached European Banking Authority<a href="https://thehackernews.com/2021/03/microsoft-exchange-hackers-also.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Banking Authority (EBA) on Sunday said it had been a victim of a cyberattack targeting its Microsoft Exchange Servers, forcing it to&nbsp;temporarily take its email systems offline as a precautionary measure.  "As the vulnerability is related to the EBA's email servers, access to personal data through emails held on that servers may have been obtained by the attacker," the Paris-based regulatory agency&nbsp; said .  EBA said it's launched a full investigation into the incident in partnership with its information and communication technology (ICT) provider, a team of forensic experts, and other relevant entities.  In a second update issued on Monday, the agency said it had secured its email infrastructure and that it found no evidence of data extraction, adding it has "no indication to think that the breach has gone beyond our email servers."   Besides deploying extra security measures, EBA also noted it's closely monitoring the situation after restor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
