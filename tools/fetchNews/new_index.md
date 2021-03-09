@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome users take at least one month to update, as zero-days lurk<a href="https://www.scmagazine.com/home/security-news/cloud-security/google-chrome-users-take-at-least-one-month-to-update-as-zero-days-lurk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+And starting January 2020, Microsoft’s Edge browser became based on Chromium. Developing an exploit for Chrome now gives the attackers a much larger attack surface to go after.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How auto-scanning and scripting helped Exchange attackers rack up victims<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/how-auto-scanning-and-scripting-helped-exchange-attackers-rack-up-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lesson here: malicious actors continue to leverage the combination of automated scanners and scripts to strategically rack up high victim counts, especially when they sense time to inflict damage before patching is running out.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
