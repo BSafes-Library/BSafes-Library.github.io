@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack Trends Involving Apps and Extensions<a href="https://cyware.com/news/supply-chain-attack-trends-involving-apps-and-extensions-8c399936"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent barcode scanner supply chain attack—buying the software, along with their source code and pushing the malformed version—is a new technique that will likely grow in popularity among cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of the Highlands and Islands shuts down campuses as it deals with 'ongoing cyber incident'<a href="https://www.theregister.com/2021/03/08/uni_highlands_islands_cyber_incident/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The institution, which spans 13 locations across the northernmost part of the UK, warned that "most services" – including its Brightspace virtual learning environment – were affected.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The launch of Williams new FW43B car ruined by hackers<a href="https://securityaffairs.co/wordpress/115377/hacking/williams-fw43b-launch-hackers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Williams team presented its new Formula One car on Friday, but hackers partially ruined the launch by hacking an “augmented reality” app that was designed to show the new vehicle.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

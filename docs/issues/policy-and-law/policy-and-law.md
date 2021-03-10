@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arkansas Bill Addresses “Unfair” Social Media Censorship<a href="https://www.infosecurity-magazine.com:443/news/arkansas-social-media-censorship/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media sites could be liable for damages if content is removed for “dubious or pretextual” reasons
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

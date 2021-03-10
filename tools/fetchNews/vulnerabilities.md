@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases ProxyLogon updates for unsupported Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-proxylogon-updates-for-unsupported-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates for Microsoft Exchange servers running unsupported Cumulative Update&nbsp;versions vulnerable to&nbsp;ProxyLogon attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huge Rise in Hackers Submitting Vulnerabilities During #COVID19<a href="https://www.infosecurity-magazine.com:443/news/rise-hackers-submitting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HackerOne reports a 63% rise in hackers submitting vulnerabilities in 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub fixes bug causing users to log into other accounts<a href="https://www.bleepingcomputer.com/news/security/github-fixes-bug-causing-users-to-log-into-other-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last night, GitHub&nbsp;automatically logged out many&nbsp;users and invalidated their sessions to protect user accounts against a&nbsp;potentially serious security vulnerability. Earlier this month GitHub had received a&nbsp;report of&nbsp;anomalous behavior from an external party.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub bug caused users to login to other user accounts<a href="https://www.bleepingcomputer.com/news/security/github-bug-caused-users-to-login-to-other-user-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last night, GitHub&nbsp;automatically logged out many&nbsp;users and invalidated their sessions to protect user accounts against a&nbsp;potentially serious security vulnerability. Earlier this month GitHub had received a&nbsp;report of&nbsp;anomalous behavior from an external party.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

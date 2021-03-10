@@ -11,6 +11,34 @@ nav_order: 900075
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden appoints Clare Martorana as federal CIO<a href="https://thehill.com//policy/cybersecurity/542399-biden-appoints-clare-martorana-as-federal-cio"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House on Tuesday announced that President Biden had appointed Clare Martorana to serve as both the federal chief information officer and administrator of the Office of Management and Budget’s Office of Electronic Government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Was SolarWinds a Different Type of Cyber Espionage?<a href="https://www.lawfareblog.com/was-solarwinds-different-type-cyber-espionage"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a gap between how administration officials are framing the nature of the SolarWinds incident and what the available evidence indicates about it.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russia: Reported US plans for cyber strike 'alarming'<a href="https://thehill.com//policy/international/russia/542256-russia-reported-us-plans-for-cyber-strike-alarming"> Full Text</a>
 </p>
 <details>

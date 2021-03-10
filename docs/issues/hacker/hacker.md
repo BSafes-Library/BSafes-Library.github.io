@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese linked to two attacks on internet-facing SolarWinds server<a href="https://www.scmagazine.com/home/solarwinds-hack/chinese-linked-to-two-attacks-on-internet-facing-solarwinds-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers Monday suspected the Chinese espionage group Spiral of two intrusions in 2020 to a SolarWinds Orion server that were linked to each other but not to the infamous SolarWinds attack attributed to Russia.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers access surveillance cameras at Tesla, Cloudflare, banks, more<a href="https://www.bleepingcomputer.com/news/security/hackers-access-surveillance-cameras-at-tesla-cloudflare-banks-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers gained access to live surveillance cameras installed at Tesla, Equinox, healthcare clinics, jails, and banks, including the Bank of Utah.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security bug hunters focus on misconfigured services, earn big rewards<a href="https://www.bleepingcomputer.com/news/security/security-bug-hunters-focus-on-misconfigured-services-earn-big-rewards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An overview of the hacking activity on the HackerOne vulnerability coordination and bug bounty platform shows that misconfiguration of cloud resources is quickly becoming a hot target for ethical hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
