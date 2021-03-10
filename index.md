@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scammers Scamming with Increased Spunk<a href="https://cyware.com/news/scammers-scamming-with-increased-spunk-f1f2fc9a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency scammers have come under the limelight recently as it was found that they made off with at least $145,000 in the span of a week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Hackers Return With More Powerful Version of BADHATCH PoS Malware<a href="https://thehackernews.com/2021/03/fin8-hackers-return-with-more-powerful.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors known for keeping a low profile do so by ceasing operations for prolonged periods in between to evade attracting any attention as well as constantly refining their toolsets to fly below the radar of many detection technologies.  One such group is  FIN8 , a financially motivated threat actor that's back in action after a year-and-a-half hiatus with a powerful version of a backdoor with upgraded capabilities including screen capturing, proxy tunneling, credential theft, and  fileless execution .  First documented in 2016 by FireEye, FIN8 is known for its attacks against the retail, hospitality, and entertainment industries while making use of a wide array of techniques such as spear-phishing and malicious tools like  PUNCHTRACK  and  BADHATCH  to steal payment card data from point-of-sale (POS) systems.   "The FIN8 group is known for taking long breaks to improve  TTPs  and increase their rate of success," Bitdefender researchers  said  in a report published
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in The Plus Addons for Elementor WordPress plugin allows sites takeover<a href="https://securityaffairs.co/wordpress/115451/hacking/the-plus-addons-for-elementor-wordpress-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Wordfence team found a critical vulnerability in The Plus Addons for Elementor WordPress plugin that could be exploited to take over a website. 
+
+
+
+Researchers at the Wordfence team of the security firm Defiant have spotted a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ZLoader Malware Hidden in Encrypted Excel File<a href="https://www.govinfosecurity.com/zloader-malware-hidden-in-encrypted-excel-file-a-16146?&web_view=true"> Full Text</a>
 </p>
 <details>
