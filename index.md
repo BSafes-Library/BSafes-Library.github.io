@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More hacking groups join Microsoft Exchange attack frenzy<a href="https://www.bleepingcomputer.com/news/security/more-hacking-groups-join-microsoft-exchange-attack-frenzy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More state-sponsored hacking groups have joined the ongoing attacks targeting tens of thousands of on-premises Exchange servers impacted by severe vulnerabilities tracked as ProxyLogon.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Security Camera Breach – Hackers Accessed Security Cameras at Tesla, Cloudflare, Banks & More<a href="https://cybersecuritynews.com/massive-security-camera-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The group of hackers viewed live and archived surveillance footage from hundreds of businesses including Tesla, Equinox, healthcare clinics, jails, and banks...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Informs Users of 'Potentially Serious' Authentication Bug<a href="https://www.securityweek.com/github-informs-users-potentially-serious-authentication-bug?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub on Monday informed users that it had discovered what it described as an “extremely rare, but potentially serious” security bug related to how some authenticated sessions were handled.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill to fund election official cybersecurity training<a href="https://thehill.com//policy/cybersecurity/542479-senators-introduce-bill-to-provide-funds-for-cybersecurity-training-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Rules Committee Chairwoman Amy Klobuchar (D-Minn.) and Sen. Susan CollinsSusan Margaret CollinsSchumer moves to break GOP holds on Haaland Republicans put procedural delay on Haaland's nomination The Hill's Morning Report - Presented by the National Shooting Sports Foundation - CDC news on gatherings a step toward normality MORE (R-Maine) on Wednesday reintroduced legislation to designate funding to provide cybersecurity training to election officials.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET: More Than 10 APT Groups Exploiting Recent Microsoft Exchange Vulnerabilities<a href="https://www.infosecurity-magazine.com:443/news/apt-groups-microsoft-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm identifies more than 5000 email global servers affected
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach Exposes Verkada Security Camera Footage at Tesla, Cloudflare<a href="https://threatpost.com/breach-verkada-security-camera-tesla-cloudflare/164635/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Surveillance footage from companies such as Tesla as well as hospitals, prisons, police departments and schools was accessed in the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp to password protect your chat backups on Cloud<a href="https://ciso.economictimes.indiatimes.com/news/whatsapp-to-password-protect-your-chat-backups-on-cloud/81404199?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chat database is already encrypted now (excluding media), but the algorithm is reversible and it's not end-to-end encrypted. Local Android backups will be compatible with this feature.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Up to $223b of the world’s top 100 brands' value at risk from data breach: Study<a href="https://ciso.economictimes.indiatimes.com/news/up-to-223b-of-the-worlds-top-100-brands-value-at-at-risk-from-data-breach-study/81412020?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infosys and Interbrand today revealed that the potential risk in brand value of a data breach to the world’s 100 most valuable brands could amount to as much as $223b, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers Urge FTC to Enforce Health Breach Notification Rule<a href="https://www.govinfosecurity.com/lawmakers-urge-ftc-to-enforce-health-breach-notification-rule-a-16143?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC's Health Breach Notification Rule, which is part of the American Recovery and Reinvestment Act of 2009, addresses privacy issues related to personal health records, the lawmakers write.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
