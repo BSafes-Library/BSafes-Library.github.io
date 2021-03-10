@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ZLoader Malware Hidden in Encrypted Excel File<a href="https://www.govinfosecurity.com/zloader-malware-hidden-in-encrypted-excel-file-a-16146?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ZLoader payload is a multipurpose Trojan that often acts as a dropper that delivers Zeus-based malware in multistage ransomware attacks, such as Ryuk and Egregor, a Forcepoint X-Labs report notes.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 McAfee sells enterprise biz to Symphony Technology Group for $4B<a href="https://techcrunch.com/2021/03/08/mcafee-sells-enterprise-biz-to-symphony-technology-group-for-4b/?&web_view=true"> Full Text</a>
 </p>
 <details>

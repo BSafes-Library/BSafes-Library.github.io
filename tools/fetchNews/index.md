@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+McAfee sells enterprise biz to Symphony Technology Group for $4B<a href="https://techcrunch.com/2021/03/08/mcafee-sells-enterprise-biz-to-symphony-technology-group-for-4b/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm McAfee announced that it will be selling its enterprise business to a consortium led by the private equity firm Symphony Technology Group for $4 billion.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft’s March Patch Tuesday fixes 14 Critical flaws<a href="https://securityaffairs.co/wordpress/115439/security/microsofts-march-patch-tuesday-21.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's March Patch Tuesday security updates address 89 vulnerabilities in its products, 14 are listed as Critical and 75 are listed as Important in severity.
+
+
+
+Microsoft's March Patch Tuesday security updates address 89 vulnerabilities in its products,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OVH data center burns down knocking major sites offline <a href="https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/"> Full Text</a>
 </p>
 <details>
