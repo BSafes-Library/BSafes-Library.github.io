@@ -59,6 +59,16 @@ Military-grade cryptography has been widely available at no cost for personal an
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+• Impact of Social Media on Feminism, June, 2020 [HTML](https://papers.bsafes.com/docs/women/impact-of-social-media-on-feminism/)
+</p>
+<details>
+  <summary>Abstract</summary>
+“A feminist assessment of social media, then, is an exploration of how communities form and interact in social media spaces as well as if values expressed via these participatory cultures align or misalign with feminist ethical criteria. Digital social media invite participation based on the values of openness, collaboration, and networking, which in theory align with feminist values such as access, cooperation, and inclusion. However, the opportunities social media platforms afford are increasingly shaped by the business models and algorithms behind them, not to mention the material biases users bring with them” (Ott, 2018)
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 • A New Compact for Sexual Privacy, June, 2020 [HTML](https://papers.bsafes.com/docs/privacy/a-new-compact-for-sexual-privacy/)
 </p>
 <details>
@@ -66,6 +76,7 @@ Military-grade cryptography has been widely available at no cost for personal an
 Intimate life is under constant surveillance. Firms track people’s periods, hot flashes, abortions, sexual assaults, sex toy use, sexual fantasies, and nude photos. Individuals hardly appreciate the extent of the monitoring, and even if they did, little can be done to curtail it. What is big business for firms is a big risk for individuals. The handling of intimate data undermines the values that sexual privacy secures—autonomy, dignity, intimacy, and equality. It can imperil people’s job, housing, insurance, and other crucial opportunities. More often, women and minorities shoulder a disproportionate amount of the burden.
 </details>
 </div>
+
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -84,6 +95,16 @@ JACQUELINE KNIRNSCHILD: This thesis is a collection of creative non-fiction essa
 <details>
   <summary>Abstract</summary>
 Nick Drnaso’s1 graphic novel Sabrina provides a powerful snapshot of online norms. The picture is not pretty: A young woman goes missing. Her grief-stricken boyfriend cannot bear to stay in their home and escapes to a friend’s house. Her sister struggles with the pain of her loss. We learn that the woman’s neighbor, a misogynist loner, killed her and recorded the murder. Online, people clamor for the video.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cyber Security’s Influence on Modern Society, May, 2020 [HTML](https://papers.bsafes.com/docs/internet/cybersecuritys-influence-on-modern-society/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The world of cyber security is evolving every day, and cyber-criminals are trying to take advantage of it to gain as much money and power as possible. As the Internet continues to grow, more people around the world join the Internet. The purpose of this is to see how much of an importance cyber security has and how cyber-criminals are able to utilize the cyberworld for their own personal gain. Research has been done on how the cyberworld got where it is today. Additionally, individual research has been done in an effort to learn how to hack. A hack lab has been created and a study has been done to see if it is possible to hack into a cell phone within one month without obtaining any knowledge prior to the start of the study.
 </details>
 </div>
 
