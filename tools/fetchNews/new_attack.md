@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Break Into Verkada Surveillance Cameras at Tesla, Hundreds of Businesses<a href="https://www.reuters.com/article/us-verkada-breach/verkada-surveillance-cameras-at-tesla-hundreds-more-businesses-breached-hackers-idUSKBN2B2048?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers sought to draw attention to the pervasive monitoring of people after having found login information for Verkada’s administrative tools publicly online this week, a researcher said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Regulator Faces Surge in Email Attacks During Vaccine Rollout<a href="https://www.infosecurity-magazine.com:443/news/nhs-regulator-malicious-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CQC was targeted by nearly 60,000 malicious email attacks from December 2020 to February 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes more domains used in COVID-19 vaccine phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-seizes-more-domains-used-in-covid-19-vaccine-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Department of Justice has seized a fifth domain name&nbsp;used to impersonate the official site of a biotechnology company involved in COVID-19 vaccine&nbsp;development.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

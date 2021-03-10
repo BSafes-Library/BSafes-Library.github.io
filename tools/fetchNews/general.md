@@ -11,6 +11,76 @@ nav_order: 900072
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Twitter sues Texas AG, alleging retaliation for banning Trump | Biden reportedly taps top antitrust scholar for FTC | Biden appoints Clare Martorana as federal CIO<a href="https://thehill.com//policy/technology/overnights/542413-hillicon-valley-biden-reportedly-taps-top-antitrust-scholar-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Monday targeted the Texas attorney general with a lawsuit revolving around the platform’s ban on former President TrumpDonald TrumpTrump vows 'No more money for RINOS,' instead encouraging donations to his PAC Federal judge rules 'QAnon shaman' too dangerous to be released from jail Pelosi says Capitol riot was one of the most difficult moments of her career MORE. Meanwhile, President BidenJoe BidenCNN: Bidens' dogs removed from the White House Federal judge rules 'QAnon shaman' too dangerous to be released from jail Pelosi says Capitol riot was one of the most difficult moments of her career MORE is reportedly set to nominate another official backed by progressives — antitrust scholar Lina Khan — to a key tech regulation position, and meanwhile took action and appointed a federal CIO on Tuesday. The Biden administration is also facing early challenges on the cybersecurity front from two major cyber espionage incidents.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: A Lot of Cybersecurity Measures That Don't Work, And A Few That Might<a href="https://www.lawfareblog.com/cyberlaw-podcast-lot-cybersecurity-measures-dont-work-and-few-might"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We’re mostly back to our cybersecurity roots in this episode, for good reasons and bad.&nbsp;The worst of the bad reasons is a new set of zero-day vulnerabilities in Microsoft’s Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone Calls for New Cybersecurity Policies to Help SMEs<a href="https://www.infosecurity-magazine.com:443/news/vodafone-cybersecurity-policies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comms company asks UK government to slash VAT on cybersecurity products
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares detection, mitigation advice for Azure LoLBins<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-detection-mitigation-advice-for-azure-lolbins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure LoLBins&nbsp;can be&nbsp;used by attackers to bypass network defenses, deploy cryptominers, elevate privileges, and disable&nbsp;real-time protection on a targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protection and Privacy Pivotal to the UK’s National Data Strategy<a href="https://www.infosecurity-magazine.com:443/news/protection-privacy-uk-national/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Safeguards need to be established in the National Data Strategy
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Webinar — SolarWinds Sunburst: The Big Picture<a href="https://thehackernews.com/2021/03/cybersecurity-webinar-solarwinds.html"> Full Text</a>
 </p>
 <details>

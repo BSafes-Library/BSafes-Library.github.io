@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Apple Location Tracking System Could Lead to User Identification<a href="https://www.securityweek.com/flaws-apple-location-tracking-system-could-lead-user-identification?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities identified in offline finding — Apple’s proprietary crowd-sourced location tracking system — could be abused for user identification, researchers said in a report released this month.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability That Allows Complete WordPress Site Takeover Exploited in the Wild<a href="https://www.securityweek.com/vulnerability-allows-complete-wordpress-site-takeover-exploited-wild?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With more than 30,000 installations, The Plus Addons for Elementor is a premium plugin that has been designed to add several widgets to be used with the popular WordPress website builder Elementor.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Expands Coverage of Exchange Server Patches<a href="https://www.infosecurity-magazine.com:443/news/microsoft-expands-coverage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yet another zero-day also fixed in this month’s Patch Tuesday
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe releases batch of security fixes for Framemaker, Creative Cloud, Connect<a href="https://www.zdnet.com/article/adobe-releases-batch-of-security-fixes-for-framemaker-creative-cloud-connect/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released fixes for critical security problems impacting Framemaker, Creative Cloud, and Connect. This includes one bug in Framemaker and three critical flaws in Adobe Creative Cloud
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in The Plus Addons for Elementor WordPress plugin allows sites takeover<a href="https://securityaffairs.co/wordpress/115451/hacking/the-plus-addons-for-elementor-wordpress-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Wordfence team found a critical vulnerability in The Plus Addons for Elementor WordPress plugin that could be exploited to take over a website. 
+
+
+
+Researchers at the Wordfence team of the security firm Defiant have spotted a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft’s March Patch Tuesday fixes 14 Critical flaws<a href="https://securityaffairs.co/wordpress/115439/security/microsofts-march-patch-tuesday-21.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's March Patch Tuesday security updates address 89 vulnerabilities in its products, 14 are listed as Critical and 75 are listed as Important in severity.
+
+
+
+Microsoft's March Patch Tuesday security updates address 89 vulnerabilities in its products,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Releases Several Advisories for Vulnerabilities in Third-Party Components<a href="https://www.securityweek.com/siemens-releases-several-advisories-vulnerabilities-third-party-components?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Half of the new advisories cover flaws in third-party components. One of these advisories is related to AMNESIA:33, a collection of vulnerabilities discovered recently in open source TCP/IP stacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Security Patches for 82 Flaws — IE 0-Day Under Active Attacks<a href="https://thehackernews.com/2021/03/microsoft-issues-security-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft plugged as many as&nbsp; 89 security flaws &nbsp;as part of its monthly Patch Tuesday updates released today, including fixes for an actively exploited zero-day in Internet Explorer that could permit an attacker to run arbitrary code on target machines.  Of these flaws, 14 are listed as Critical, and 75 are listed as Important in severity, out of which two of the bugs are described as publicly known, while five others have been reported as under active attack at the time of release.  Among those five security issues are a clutch of vulnerabilities known as&nbsp; ProxyLogon &nbsp;(CVE-2021-26855, 2021-26857, CVE-2021-26858, and CVE-2021-27065) that allows adversaries to break into Microsoft Exchange Servers in target environments and subsequently allow the installation of unauthorized web-based backdoors to facilitate long-term access.   But in the wake of Exchange servers coming under&nbsp; indiscriminate assault &nbsp;toward the end of February by multiple threat groups looking to exploit the vulnerabil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

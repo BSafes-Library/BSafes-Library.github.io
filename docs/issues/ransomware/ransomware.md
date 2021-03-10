@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk ransomware hits 700 Spanish government labor agency offices<a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-hits-700-spanish-government-labor-agency-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The systems of SEPE, the Spanish government agency for labor, were taken down following a ransomware attack that hit more than 700 agency offices across Spain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Does EternalBlue-Targeting WannaCry Remain at Large?<a href="https://www.careersinfosecurity.com/blogs/does-eternalblue-targeting-wannacry-remain-at-large-p-3002?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Where were you on May 12, 2017? For many cybersecurity professionals, the answer is "trying to contain the fallout from WannaCry," the ransomware that on that day began hitting organizations globally.
+</details>
+<div style="text-align: right" markdown="1">
+Careers Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware, supply chain attacks compel health care organizations to act<a href="https://www.scmagazine.com/home/health-care/ransomware-supply-chain-attacks-compel-health-care-organizations-to-act/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If ransomware and data exfiltration attacks that targeted hospitals and vaccine researchers during the pandemic signaled a cyber hygiene crisis in health care, the SolarWinds supply chain attack demonstrated just how deep the problem goes.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

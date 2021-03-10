@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+West Ham Supporters’ Personal Details Leaked on Club Website<a href="https://www.infosecurity-magazine.com:443/news/west-ham-supporters-personal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal details of supporters of the Premier League side leaked on the official club site
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

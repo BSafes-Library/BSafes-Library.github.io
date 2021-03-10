@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ryuk ransomware hits 700 Spanish government labor agency offices<a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-hits-700-spanish-government-labor-agency-offices/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Break Into Verkada Surveillance Cameras at Tesla, Hundreds of Businesses<a href="https://www.reuters.com/article/us-verkada-breach/verkada-surveillance-cameras-at-tesla-hundreds-more-businesses-breached-hackers-idUSKBN2B2048?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS Regulator Faces Surge in Email Attacks During Vaccine Rollout<a href="https://www.infosecurity-magazine.com:443/news/nhs-regulator-malicious-email/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Does EternalBlue-Targeting WannaCry Remain at Large?<a href="https://www.careersinfosecurity.com/blogs/does-eternalblue-targeting-wannacry-remain-at-large-p-3002?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Careers Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Threat Analysts Banned from Sharing Intel with Peers<a href="https://www.infosecurity-magazine.com:443/news/most-threat-analysts-banned/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Apple Location Tracking System Could Lead to User Identification<a href="https://www.securityweek.com/flaws-apple-location-tracking-system-could-lead-user-identification?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exposed Password Gave Hackers Access to 150,000 Cameras<a href="https://www.infosecurity-magazine.com:443/news/exposed-passwor-hackers-access/"> Full Text</a>
@@ -146,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability That Allows Complete WordPress Site Takeover Exploited in the Wild<a href="https://www.securityweek.com/vulnerability-allows-complete-wordpress-site-takeover-exploited-wild?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Expands Coverage of Exchange Server Patches<a href="https://www.infosecurity-magazine.com:443/news/microsoft-expands-coverage/"> Full Text</a>
@@ -178,7 +178,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PayPal to acquire cryptocurrency security startup Curv<a href="https://techcrunch.com/2021/03/08/paypal-to-acquire-cryptocurrency-custody-startup-curv/?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe releases batch of security fixes for Framemaker, Creative Cloud, Connect<a href="https://www.zdnet.com/article/adobe-releases-batch-of-security-fixes-for-framemaker-creative-cloud-connect/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There's Something We Don't Talk Enough About - Mobile Malware<a href="https://cyware.com/news/theres-something-we-dont-talk-enough-about-mobile-malware-26e20425"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Scamming with Increased Spunk<a href="https://cyware.com/news/scammers-scamming-with-increased-spunk-f1f2fc9a"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 Hackers Return With More Powerful Version of BADHATCH PoS Malware<a href="https://thehackernews.com/2021/03/fin8-hackers-return-with-more-powerful.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in The Plus Addons for Elementor WordPress plugin allows sites takeover<a href="https://securityaffairs.co/wordpress/115451/hacking/the-plus-addons-for-elementor-wordpress-flaw.html"> Full Text</a>
@@ -278,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZLoader Malware Hidden in Encrypted Excel File<a href="https://www.govinfosecurity.com/zloader-malware-hidden-in-encrypted-excel-file-a-16146?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McAfee sells enterprise biz to Symphony Technology Group for $4B<a href="https://techcrunch.com/2021/03/08/mcafee-sells-enterprise-biz-to-symphony-technology-group-for-4b/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft’s March Patch Tuesday fixes 14 Critical flaws<a href="https://securityaffairs.co/wordpress/115439/security/microsofts-march-patch-tuesday-21.html"> Full Text</a>
@@ -330,7 +330,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OVH data center burns down knocking major sites offline <a href="https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/"> Full Text</a>
@@ -346,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Releases Several Advisories for Vulnerabilities in Third-Party Components<a href="https://www.securityweek.com/siemens-releases-several-advisories-vulnerabilities-third-party-components?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2021
+March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Issues Security Patches for 82 Flaws — IE 0-Day Under Active Attacks<a href="https://thehackernews.com/2021/03/microsoft-issues-security-patches-for.html"> Full Text</a>
@@ -378,7 +378,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2021
+March 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware, supply chain attacks compel health care organizations to act<a href="https://www.scmagazine.com/home/health-care/ransomware-supply-chain-attacks-compel-health-care-organizations-to-act/"> Full Text</a>

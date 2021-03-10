@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+z0Miner botnet hunts for unpatched ElasticSearch, Jenkins servers<a href="https://www.bleepingcomputer.com/news/security/z0miner-botnet-hunts-for-unpatched-elasticsearch-jenkins-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptomining botnet spotted last year is now targeting and attempting to&nbsp;take control of Jenkins and ElasticSearch servers to mine for Monero (XMR) cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

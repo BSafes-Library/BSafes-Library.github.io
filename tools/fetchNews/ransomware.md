@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another French hospital hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/115434/cyber-crime/french-hospital-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the Oloron-Sainte-Marie hospital in southwest France, it is the third such attack in the last month.
+
+
+
+A ransomware attack paralyzed the systems at the Oloron-Sainte-Marie hospital in southwest France. The incident took place...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GandCrab ransomware affiliate arrested for phishing attacks<a href="https://www.bleepingcomputer.com/news/security/gandcrab-ransomware-affiliate-arrested-for-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected GandCrab Ransomware member was arrested in South Korea for using phishing emails to infect victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

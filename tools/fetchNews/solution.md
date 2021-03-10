@@ -11,6 +11,20 @@ nav_order: 900195
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation launches software signing service<a href="https://www.scmagazine.com/home/security-news/network-security/linux-foundation-launches-software-signing-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sigstore project, a free-to-use software signing certificate authority available to all developers,  opens with Google, Purdue University and Red Hat as founding  members.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installs<a href="https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

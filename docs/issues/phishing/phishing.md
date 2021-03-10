@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Scamming with Increased Spunk<a href="https://cyware.com/news/scammers-scamming-with-increased-spunk-f1f2fc9a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency scammers have come under the limelight recently as it was found that they made off with at least $145,000 in the span of a week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

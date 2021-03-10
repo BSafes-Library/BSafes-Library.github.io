@@ -11,6 +11,20 @@ nav_order: 900015
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+EU Banking Regulator Hit by Microsoft Email Hack<a href="https://www.securityweek.com/eu-banking-regulator-hit-microsoft-email-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EBA had said in a statement on Sunday that it had taken its email systems offline as a precaution, noting that access to personal data held on servers "may have been obtained by the attacker".
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack Trends Involving Apps and Extensions<a href="https://cyware.com/news/supply-chain-attack-trends-involving-apps-and-extensions-8c399936"> Full Text</a>
 </p>
 <details>

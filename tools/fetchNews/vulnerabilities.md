@@ -11,6 +11,154 @@ nav_order: 900220
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+iPhone Call Recorder bug gave acess to other people's conversations<a href="https://www.bleepingcomputer.com/news/security/iphone-call-recorder-bug-gave-acess-to-other-peoples-conversations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An iOS call recording app patched a security vulnerability that gave anyone access to the conversations of thousands of users by simply providing the correct phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple’s Device Location-Tracking System Could Expose User Identities<a href="https://threatpost.com/apples-location-system-expose-identities/164615/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified two vulnerabilities in the company’s crowd-sourced Offline Finding technology that could jeopardize its promise of privacy.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases a patch for older versions of Exchange<a href="https://www.zdnet.com/article/microsoft-exchange-attacks-now-microsoft-rushes-out-a-patch-for-these-unsupported-exchange-servers-too/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates for unsupported versions of Exchange email servers following widespread attacks exploiting four newly discovered security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Microsoft Exchange Hack and the Great Email Robbery<a href="https://www.lawfareblog.com/microsoft-exchange-hack-and-great-email-robbery"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world is probably days away from a mass-exploitation of Microsoft Exchange servers—a hack that could have a far greater impact than the SolarWinds breach.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases ProxyLogon patches for unsupported Microsoft Exchange versions<a href="https://securityaffairs.co/wordpress/115428/security/microsoft-exchange-emergency-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released ProxyLogon security updates for Microsoft Exchange servers running vulnerable unsupported Cumulative Update versions.
+
+
+
+On March 2nd, Microsoft has released&nbsp;emergency out-of-band security updates&nbsp;that address four zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Hafnium patch for defunct edition of Exchange<a href="https://www.scmagazine.com/home/patch-management/microsoft-releases-hafnium-patch-for-defunct-edition-of-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a rare move for a vendor, Microsoft is now offering the same patch for its no-longer-supported Exchange Server 2010 that it introduced last week for all newer editions.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Plugs Severe WebKit Remote Code-Execution Hole<a href="https://threatpost.com/apple-webkit-remote-code-execution/164595/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple pushed out security updates for a memory-corruption bug to devices running on iOS, macOS, watchOS and for Safari.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft March 2021 Patch Tuesday fixes 82 flaws, 2 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2021-patch-tuesday-fixes-82-flaws-2-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's March 2021 Patch Tuesday, and with admins already struggling with Microsoft Exchange updates and hacked servers, please be nice to your IT staff today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes CVE-2021-1844 RCE that affects iOS, macOS, watchOS, and Safari<a href="https://securityaffairs.co/wordpress/115423/hacking/apple-cve-2021-1844-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released out-of-band patches to address a remote code execution, tracked as CVE-2021-1844, that affect iOS, macOS, watchOS, and Safari web browser.
+
+
+
+Apple has released out-of-band security patches to address a critical iOS, macOS, watchOS, and Safari...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical Creative Cloud, Adobe Connect vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-creative-cloud-adobe-connect-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released security updates that fix vulnerabilities in Adobe Creative Cloud Desktop, Framemaker, and Connect.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases ProxyLogon updates for unsupported Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-proxylogon-updates-for-unsupported-exchange-servers/"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,62 @@ nav_order: 900027
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+McAfee Sells its Enterprise Business to Symphony Technology Group in $4.0 Billion Deal<a href="https://cybersecuritynews.com/mcafee-sells-its-enterprise-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ McAfee Corp., the device-to-cloud cybersecurity company has disclosed it has entered into a definitive agreement to sell its Enterprise business to a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sontiq Acquires Fintech Provider Breach Clarity<a href="https://finance.yahoo.com/news/sontiq-acquires-fintech-provider-breach-120000204.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a result of the acquisition, Sontiq’s products – IdentityForce, Cyberscout, and EZShield – all built on its tech-enabled IIS Platform, will have the proprietary capability, BreachIQ.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach Clarity Acquired by Sontiq<a href="https://www.infosecurity-magazine.com:443/news/breach-clarity-acquired-by-sontiq/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligent identity security company Sontiq acquires fintech provider Breach Clarity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacera Raises $50M To Help Companies Control Their Data<a href="https://news.crunchbase.com/news/privacera-raises-50m-to-help-companies-control-their-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data governance and security provider Privacera closed a $50 million Series B as it looks to build on momentum from last year with concerns about data and privacy only growing.
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds spurs investment in threat hunting, supplier vetting<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-spurs-investment-in-threat-hunting-supplier-vetting/"> Full Text</a>
 </p>
 <details>
