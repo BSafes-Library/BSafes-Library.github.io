@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Security Patches for 82 Flaws — IE 0-Day Under Active Attacks<a href="https://thehackernews.com/2021/03/microsoft-issues-security-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft plugged as many as  89 security flaws  as part of its monthly Patch Tuesday updates released today, including fixes for an actively exploited zero-day in Internet Explorer that could permit an attacker to run arbitrary code on target machines.  Of these flaws, 14 are listed as Critical, and 75 are listed as Important in severity, out of which two of the bugs are described as publicly known, while five others have been reported as under active attack at the time of release.  Among those five security issues are a clutch of vulnerabilities known as  ProxyLogon  (CVE-2021-26855, 2021-26857, CVE-2021-26858, and CVE-2021-27065) that allows adversaries to break into Microsoft Exchange Servers in target environments and subsequently allow the installation of unauthorized web-based backdoors to facilitate long-term access.   But in the wake of Exchange servers coming under  indiscriminate assault  toward the end of February by multiple threat groups looking to exploit the vulnerabil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware, supply chain attacks compel health care organizations to act<a href="https://www.scmagazine.com/home/health-care/ransomware-supply-chain-attacks-compel-health-care-organizations-to-act/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If ransomware and data exfiltration attacks that targeted hospitals and vaccine researchers during the pandemic signaled a cyber hygiene crisis in health care, the SolarWinds supply chain attack demonstrated just how deep the problem goes.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
