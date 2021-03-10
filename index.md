@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OVH data center burns down knocking major sites offline <a href="https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major unprecedented incident, data centers for OVH located in Strasbourg, France have been destroyed by fire. Customers are being advised by the company to enact their disaster recovery plans after the fire has rendered multiple data centers unserviceable, impacting websites around the world. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Releases Several Advisories for Vulnerabilities in Third-Party Components<a href="https://www.securityweek.com/siemens-releases-several-advisories-vulnerabilities-third-party-components?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Half of the new advisories cover flaws in third-party components. One of these advisories is related to AMNESIA:33, a collection of vulnerabilities discovered recently in open source TCP/IP stacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
