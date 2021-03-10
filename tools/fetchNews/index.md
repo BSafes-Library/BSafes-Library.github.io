@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Twitter sues Texas AG, alleging retaliation for banning Trump | Biden reportedly taps top antitrust scholar for FTC | Biden appoints Clare Martorana as federal CIO<a href="https://thehill.com//policy/technology/overnights/542413-hillicon-valley-biden-reportedly-taps-top-antitrust-scholar-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Monday targeted the Texas attorney general with a lawsuit revolving around the platform’s ban on former President TrumpDonald TrumpTrump vows 'No more money for RINOS,' instead encouraging donations to his PAC Federal judge rules 'QAnon shaman' too dangerous to be released from jail Pelosi says Capitol riot was one of the most difficult moments of her career MORE. Meanwhile, President BidenJoe BidenCNN: Bidens' dogs removed from the White House Federal judge rules 'QAnon shaman' too dangerous to be released from jail Pelosi says Capitol riot was one of the most difficult moments of her career MORE is reportedly set to nominate another official backed by progressives — antitrust scholar Lina Khan — to a key tech regulation position, and meanwhile took action and appointed a federal CIO on Tuesday. The Biden administration is also facing early challenges on the cybersecurity front from two major cyber espionage incidents. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese linked to two attacks on internet-facing SolarWinds server<a href="https://www.scmagazine.com/home/solarwinds-hack/chinese-linked-to-two-attacks-on-internet-facing-solarwinds-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers Monday suspected the Chinese espionage group Spiral of two intrusions in 2020 to a SolarWinds Orion server that were linked to each other but not to the infamous SolarWinds attack attributed to Russia.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple’s Device Location-Tracking System Could Expose User Identities<a href="https://threatpost.com/apples-location-system-expose-identities/164615/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified two vulnerabilities in the company’s crowd-sourced Offline Finding technology that could jeopardize its promise of privacy.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers access surveillance cameras at Tesla, Cloudflare, banks, more<a href="https://www.bleepingcomputer.com/news/security/hackers-access-surveillance-cameras-at-tesla-cloudflare-banks-more/"> Full Text</a>
 </p>
 <details>
