@@ -37,6 +37,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ryuk ransomware hits 700 Spanish government labor agency offices<a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-hits-700-spanish-government-labor-agency-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The systems of SEPE, the Spanish government agency for labor, were taken down following a ransomware attack that hit more than 700 agency offices across Spain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Break Into Verkada Surveillance Cameras at Tesla, Hundreds of Businesses<a href="https://www.reuters.com/article/us-verkada-breach/verkada-surveillance-cameras-at-tesla-hundreds-more-businesses-breached-hackers-idUSKBN2B2048?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers sought to draw attention to the pervasive monitoring of people after having found login information for Verkada’s administrative tools publicly online this week, a researcher said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Regulator Faces Surge in Email Attacks During Vaccine Rollout<a href="https://www.infosecurity-magazine.com:443/news/nhs-regulator-malicious-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CQC was targeted by nearly 60,000 malicious email attacks from December 2020 to February 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Does EternalBlue-Targeting WannaCry Remain at Large?<a href="https://www.careersinfosecurity.com/blogs/does-eternalblue-targeting-wannacry-remain-at-large-p-3002?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Where were you on May 12, 2017? For many cybersecurity professionals, the answer is "trying to contain the fallout from WannaCry," the ransomware that on that day began hitting organizations globally.
+</details>
+<div style="text-align: right" markdown="1">
+Careers Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Threat Analysts Banned from Sharing Intel with Peers<a href="https://www.infosecurity-magazine.com:443/news/most-threat-analysts-banned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Closed attitudes could be harming cybercrime fight, says Kaspersky
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Apple Location Tracking System Could Lead to User Identification<a href="https://www.securityweek.com/flaws-apple-location-tracking-system-could-lead-user-identification?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities identified in offline finding — Apple’s proprietary crowd-sourced location tracking system — could be abused for user identification, researchers said in a report released this month.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed Password Gave Hackers Access to 150,000 Cameras<a href="https://www.infosecurity-magazine.com:443/news/exposed-passwor-hackers-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report suggests major security fail from a familiar source
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability That Allows Complete WordPress Site Takeover Exploited in the Wild<a href="https://www.securityweek.com/vulnerability-allows-complete-wordpress-site-takeover-exploited-wild?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With more than 30,000 installations, The Plus Addons for Elementor is a premium plugin that has been designed to add several widgets to be used with the popular WordPress website builder Elementor.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Expands Coverage of Exchange Server Patches<a href="https://www.infosecurity-magazine.com:443/news/microsoft-expands-coverage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yet another zero-day also fixed in this month’s Patch Tuesday
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal to acquire cryptocurrency security startup Curv<a href="https://techcrunch.com/2021/03/08/paypal-to-acquire-cryptocurrency-custody-startup-curv/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PayPal has announced that it plans to acquire Curv, a cryptocurrency startup based in Tel Aviv, Israel. Curv is a cryptocurrency security company that helps you store your crypto assets securely.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe releases batch of security fixes for Framemaker, Creative Cloud, Connect<a href="https://www.zdnet.com/article/adobe-releases-batch-of-security-fixes-for-framemaker-creative-cloud-connect/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released fixes for critical security problems impacting Framemaker, Creative Cloud, and Connect. This includes one bug in Framemaker and three critical flaws in Adobe Creative Cloud
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There's Something We Don't Talk Enough About - Mobile Malware<a href="https://cyware.com/news/theres-something-we-dont-talk-enough-about-mobile-malware-26e20425"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ewind adware family totaled 65% of all adware samples, with FakeAdBlocker and HiddenAd right at its heels. Almost 2 million Ewind.kp Android installer packages were hidden in legitimate apps.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers Scamming with Increased Spunk<a href="https://cyware.com/news/scammers-scamming-with-increased-spunk-f1f2fc9a"> Full Text</a>
 </p>
 <details>
