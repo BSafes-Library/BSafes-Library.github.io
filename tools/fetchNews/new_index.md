@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+F5 addresses critical vulnerabilities in BIG-IP and BIG-IQ<a href="https://securityaffairs.co/wordpress/115481/security/f5-addresses-critical-vulnerabilities-in-big-ip-and-big-iq.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm F5 announced the availability of patches for seven vulnerabilities in BIG-IP, four of which have been rated as "critical" severity.
+
+
+
+BIG-IP product family includes hardware, modularized software, and virtual appliances that run the F5 TMOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloud Security Firm Aqua Security Raises $135M To Add Clients<a href="https://www.crn.com/news/security/cloud-security-firm-aqua-security-raises-135m-to-add-clients?&web_view=true"> Full Text</a>
 </p>
 <details>
