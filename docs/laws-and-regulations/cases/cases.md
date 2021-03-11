@@ -19,6 +19,18 @@ A federal indictment unsealed today charges three North Korean computer programm
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MATERIALS IN SUPPORT OF H. RES. 24, IMPEACHING DONALD JOHN TRUMP, PRESIDENT OF THE UNITED STATES, FOR HIGH CRIMES AND MISDEMEANORS<a href="https://documents.bsafes.com/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Constitution grants the House of Representatives the “sole Power of Impeachment,” not merely as a safeguard for the nation between elections, but also in cases where the removal of the President is urgent and necessary to preserve the security of the constitutional order. The House must invoke this power now to impeach President Trump for inciting an insurrection on January 6, 2021. President Trump engaged in high Crimes and Misdemeanors when he urged his supporters to storm the United States Capitol Building and then failed to stop the ensuing violence. His actions marked the culmination of an extensive and unprecedented effort to overturn the results of the presidential election.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 02, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
