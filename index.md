@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Firm Snyk Reaches $4.7 Billion Valuation in Round<a href="https://finance.yahoo.com/news/cybersecurity-firm-snyk-reaches-4-100000144.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The transaction included both primary and secondary offerings, with the company getting $175 million in new capital. That brings the total raised by Snyk, which was founded in 2015, to $470 million.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Another French hospital hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/115434/cyber-crime/french-hospital-ransomware-attack.html?&web_view=true"> Full Text</a>
 </p>
 <details>
