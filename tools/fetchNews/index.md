@@ -34,7 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state hackers target Linux systems with new malware<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-linux-systems-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Intezer have discovered a previously undocumented backdoor dubbed RedXOR, with links to a Chinese-sponsored hacking group and used in ongoing attacks targeting Linux systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical RCE Vulnerabilities in BIG-IP, BIG-IQ let Attacker Take Control of an Affected System<a href="https://cybersecuritynews.com/f5-rce-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ F5 Networks has published a security advisory warning customers to patch a critical flaw in BIG-IP product that is very likely to...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free sigstore signing service confirms software origin and authenticity<a href="https://www.helpnetsecurity.com/2021/03/10/sigstore-signing-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+sigstore will empower software developers to securely sign software artifacts such as release files, container images and binaries. Signing materials are then stored in a tamper-proof public log.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fixing the Weakest Link — The Passwords — in Cybersecurity Today<a href="https://thehackernews.com/2021/03/fixing-weakest-link-passwords-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password security has long been an issue for businesses and their cybersecurity standards. Account passwords are often the weakest link in the overall security posture for many organizations.  Many companies have used Microsoft's default password policies for decades. While these can be customized, businesses often accept the default values for their organization.  The Windows default password policy is a good start, but are there security vulnerabilities associated with it? Let's look at the current recommendations from leading cybersecurity authorities and see how they measure up against the Windows default password policy.  Windows default password policy settings  Many, if not most, business environments today use Microsoft Active Directory as their identity and access management solution in the enterprise. Active Directory has served organizations in this capacity for decades.   One of the built-in capabilities provided by Microsoft Active Directory Domain Services (ADDS)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sumo Logic Agrees Deal to Acquire DFLabs<a href="https://www.infosecurity-magazine.com:443/news/sumo-logic-deal-aquire/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deal will enable Sumo Logic to incorporate DFLabs’ SOAR software into its portfolio
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedXOR, a new powerful Linux backdoor in Winnti APT arsenal<a href="https://securityaffairs.co/wordpress/115491/apt/redxor-backdoor-winnti-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intezer experts have spotted a new strain of Linux backdoor dubbed RedXOR that is believed to be part of the arsenal of China-linked Winniti APT.
+
+
+
+Researchers from Intezer have discovered a new sophisticated backdoor, tracked as RedXOR, that targets...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Leveraging a Fake Google reCAPTCHA System to Steal Office 365 Credentials<a href="https://cybersecuritynews.com/fake-google-recaptcha-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The Zscaler threat research team has recently detected a new series of Microsoft-themed phishing attacks that are generally aimed at senior-level employees...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most decision makers plan to increase spending on cybersecurity this year<a href="https://www.helpnetsecurity.com/2021/03/10/spending-cybersecurity-2021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The results from an NCC Group survey show that 40% of respondents froze recruitment in cyber, 29% made redundancies and one in five furloughed staff responsible for cyber resilience programs in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ajay Sabhlok Appointed Rubrik’s First Joint CIO and CDO<a href="https://www.infosecurity-magazine.com:443/news/ajay-sabhlok-rubrik-cio-cdo/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sabhlok will oversee IT, data and analytics strategies at cloud data management firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Campaigns Leverage Microsoft Exchange Flaws to Target Thousands of Organizations<a href="https://www.reuters.com/article/us-usa-cyber-microsoft/at-least-10-hacking-groups-using-microsoft-software-flaw-researchers-idUSKBN2B224O?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 10 different hacking groups are using recently discovered flaws in Microsoft Corp’s mail server software to break into targets around the world, ESET said in a blog post on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third of Office Workers Warned After Sharing Data Via Unofficial Apps<a href="https://www.infosecurity-magazine.com:443/news/third-office-workers-share-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veritas Technologies study warns of major shadow IT challenge
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover First Side-Channel Attack Against Apple M1 Chips<a href="https://www.securityweek.com/researchers-show-first-side-channel-attack-against-apple-m1-chips?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The analysis focused on Prime+Probe, a cache side-channel attack method that can detect which cache sets are accessed by the target and uses that to infer potentially valuable information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record Number of Cyber-Incidents Hit US Schools in 2020<a href="https://www.infosecurity-magazine.com:443/news/record-number-cyber-incidents-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 377 districts were affected, according to non-profit
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel partners with DARPA to perform in its DPRIVE program<a href="https://www.helpnetsecurity.com/2021/03/09/intel-darpa-dprive/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel announced that it has signed an agreement with Defense Advanced Research Projects Agency (DARPA) to perform in its Data Protection in Virtual Environments (DPRIVE) program.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Parliament Hit by Second Cyberattack in Span of Six Months<a href="https://www.reuters.com/article/us-norway-cyber/norways-parliament-hit-by-new-hack-attack-idUSKBN2B21TX?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have infiltrated the Norwegian Parliament’s computer systems and extracted data, officials said on Wednesday, just six months after a previous cyber attack was made public.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Provider Corvus Raises $100 Million<a href="https://www.securityweek.com/cyber-insurance-provider-corvus-raises-100-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance provider Corvus on Wednesday announced that it has raised $100 million in a Series C funding round. To date, the company has raised a total of $147 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Operator Employs New Trick to Upload Its Dropper into Google Play<a href="https://www.darkreading.com/application-security/malware-operator-employs-new-trick-to-upload-its-dropper-into-google-play-/d/d-id/1340372?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Check Point recently discovered that the operator of a mobile malware tool was employing a novel new method to sneak its malware into Google's official Android Play mobile app store.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert overload still plagues cybersecurity industry<a href="https://www.helpnetsecurity.com/2021/03/11/alert-overload-still-plagues-cybersecurity-industry/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alert overload still plagues the cybersecurity industry, according to Critical Start. 47% of respondents reported personally investigating 10 to 20 alerts each day, a 12% increase from 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 cybercrime group resurges with improved hacking tool<a href="https://www.cyberscoop.com/fin8-financial-hack-bitdefender/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially-motivated hacking group that appeared to drop off the map a year-and-a-half ago is back with a new and improved backdoor, according to Bitdefender research published Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware “Paralyzes” Spanish Employment Agency<a href="https://www.infosecurity-magazine.com:443/news/ransomware-paralyzes-spanish/"> Full Text</a>
@@ -50,7 +358,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish labor agency suffers ransomware attack, union says<a href="https://www.cyberscoop.com/spain-ransomware-employment-agency-sepe/?&web_view=true"> Full Text</a>
@@ -66,7 +374,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Firm Snyk Reaches $4.7 Billion Valuation in Round<a href="https://finance.yahoo.com/news/cybersecurity-firm-snyk-reaches-4-100000144.html?&web_view=true"> Full Text</a>
@@ -82,7 +390,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another French hospital hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/115434/cyber-crime/french-hospital-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -98,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 addresses critical vulnerabilities in BIG-IP and BIG-IQ<a href="https://securityaffairs.co/wordpress/115481/security/f5-flaws-big-ip-big-iq.html"> Full Text</a>

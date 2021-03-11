@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 cybercrime group resurges with improved hacking tool<a href="https://www.cyberscoop.com/fin8-financial-hack-bitdefender/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially-motivated hacking group that appeared to drop off the map a year-and-a-half ago is back with a new and improved backdoor, according to Bitdefender research published Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

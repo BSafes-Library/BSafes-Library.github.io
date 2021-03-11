@@ -11,6 +11,76 @@ nav_order: 900027
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Sumo Logic Agrees Deal to Acquire DFLabs<a href="https://www.infosecurity-magazine.com:443/news/sumo-logic-deal-aquire/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deal will enable Sumo Logic to incorporate DFLabs’ SOAR software into its portfolio
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ajay Sabhlok Appointed Rubrik’s First Joint CIO and CDO<a href="https://www.infosecurity-magazine.com:443/news/ajay-sabhlok-rubrik-cio-cdo/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sabhlok will oversee IT, data and analytics strategies at cloud data management firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel partners with DARPA to perform in its DPRIVE program<a href="https://www.helpnetsecurity.com/2021/03/09/intel-darpa-dprive/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel announced that it has signed an agreement with Defense Advanced Research Projects Agency (DARPA) to perform in its Data Protection in Virtual Environments (DPRIVE) program.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Provider Corvus Raises $100 Million<a href="https://www.securityweek.com/cyber-insurance-provider-corvus-raises-100-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance provider Corvus on Wednesday announced that it has raised $100 million in a Series C funding round. To date, the company has raised a total of $147 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Firm Snyk Reaches $4.7 Billion Valuation in Round<a href="https://finance.yahoo.com/news/cybersecurity-firm-snyk-reaches-4-100000144.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The transaction included both primary and secondary offerings, with the company getting $175 million in new capital. That brings the total raised by Snyk, which was founded in 2015, to $470 million.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloud Security Firm Aqua Security Raises $135M To Add Clients<a href="https://www.crn.com/news/security/cloud-security-firm-aqua-security-raises-135m-to-add-clients?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware “Paralyzes” Spanish Employment Agency<a href="https://www.infosecurity-magazine.com:443/news/ransomware-paralyzes-spanish/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attack locks down workstations and remote worker laptops
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish labor agency suffers ransomware attack, union says<a href="https://www.cyberscoop.com/spain-ransomware-employment-agency-sepe/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack affected IT systems at a Spanish government agency that manages unemployment benefits, disrupting “hundreds of thousands” of appointments at the agency, a Spanish labor union said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
