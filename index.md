@@ -37,6 +37,494 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation unveils Sigstore — a Let's Encrypt for code signing<a href="https://www.bleepingcomputer.com/news/security/linux-foundation-unveils-sigstore-a-lets-encrypt-for-code-signing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Linux Foundation, Red Hat, Google, and Purdue have unveiled the free 'sigstore' service that lets developers code-sign and verify open source software to prevent supply-chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining Botnet z0Miner Targeting ElasticSearch and Jenkins RCE Vulnerabilities<a href="https://cybersecuritynews.com/cryptomining-botnet-z0miner/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A crypto mining botnet spotted in the previous year is currently targeting and attempting to take control of Jenkins and ElasticSearch servers...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud cybersecurity startup Lumu raises a $7.5 million Series A<a href="https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Miami-based cybersecurity startup Lumu today announced the closing of its $7.5 million Series A. The round was co-led by SoftBank Group Corp.’s SB Opportunity Fund and Panoramic Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House approves almost $2 billion in cyber, tech funds as part of relief package | Officials warn of 'widespread' exploit of Microsoft vulnerabilities | Facebook files to dismiss antitrust lawsuits<a href="https://thehill.com//policy/technology/overnights/542640-hillicon-valley-house-approves-almost-2-billion-in-cyber-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal cybersecurity and information technology got a shot in the arm Wednesday with the inclusion of almost $2 billion in cyber funding in the COVID-19 relief bill that passed the House, but some officials say it's not enough. Meanwhile, the nation’s top cybersecurity official warned of ‘widespread’ exploitation by hackers of Microsoft Exchange Server vulnerabilities, and lawmakers introduced a range of measures on data privacy, election cybersecurity, and helping save the news industry. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unveil New Linux Malware Linked to Chinese Hackers<a href="https://thehackernews.com/2021/03/researchers-unveil-new-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday shed light on a new sophisticated backdoor targeting Linux endpoints and servers that's believed to be the work of Chinese nation-state actors.  Dubbed " RedXOR " by Intezer, the backdoor masquerades as a polkit daemon, with similarities found between the malware and those previously associated with the  Winnti Umbrella  (or Axiom) threat group such as ​PWNLNX, ​XOR.DDOS​ and Groundhog.  RedXOR's name comes from the fact that it encodes its network data with a scheme based on XOR, and that it's compiled with a legacy  GCC compiler  on an old release of Red Hat Enterprise Linux, suggesting that the malware is deployed in targeted attacks against legacy Linux systems.   Intezer said  two   samples  of the malware were uploaded from Indonesia and Taiwan around Feb. 23-24, both countries that are known to be singled out by China-based threat groups.  Aside from the overlaps in terms of the overall flow and functionalities and th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Superstar K-Pop Band’s TikTok Hacked<a href="https://www.infosecurity-magazine.com:443/news/superstar-kpop-bands-tiktok-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacker compromises BTS’s TikTok account and uploads creepy music video
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Privacy Law and U.S. Surveillance: Solving the Problem of Transatlantic Data Transfers<a href="https://www.lawfareblog.com/eu-privacy-law-and-us-surveillance-solving-problem-transatlantic-data-transfers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most current approaches to resolving the EU-U.S. conflict fall short. It’s time for a hybrid approach.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Biden’s Cyber Strategy Echoes Trump’s<a href="https://www.lawfareblog.com/how-bidens-cyber-strategy-echoes-trumps"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comparing the Biden administration’s Interim National Security Strategic Guidance with Trump’s National Cyber Strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White hat hackers gained access more than 150,000 surveillance cameras<a href="https://securityaffairs.co/wordpress/115466/hacking/surveillance-cameras-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hackers claimed to have compromised more than 150,000 surveillance cameras at banks, jails, schools, and prominent companies like Tesla and Equinox.
+
+
+
+A group of US hackers claimed to have gained access to footage from 150,000 security cameras...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft IE zero-day exploited in wild, could provide unrestricted operating system access<a href="https://www.scmagazine.com/home/patch-management/microsoft-ie-zero-day-exploited-in-wild-could-provide-unrestricted-operating-system-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security pros need to prioritize patching a memory corruption vulnerability flaw found in Internet Explorer 11 and 9, and Edge browsers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Stomps Out Critical RCE Flaw in Manufacturing Software<a href="https://threatpost.com/sap-critical-rce-flaw-manufacturing/164666/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The remote code execution flaw could allow attackers to deploy malware, modify network configurations and view databases. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation unveils Sigstore — a Let's Encrypt for code signing<a href="https://www.bleepingcomputer.com/news/software/linux-foundation-unveils-sigstore-a-lets-encrypt-for-code-signing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Linux Foundation, Red Hat, Google, and Purdue have unveiled the free 'sigstore' service that lets developers code-sign and verify open source software to prevent supply-chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Flaws in MII, NetWeaver Products<a href="https://www.securityweek.com/sap-patches-critical-flaws-mii-netweaver-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP's March 2021 Security Patch Day updates include 9 new security notes, including two for critical vulnerabilities affecting the company's NetWeaver AS and MII products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies warn Microsoft vulnerabilities pose 'serious risk' to government, private sector<a href="https://thehill.com//policy/cybersecurity/542635-federal-agencies-warn-microsoft-vulnerabilities-pose-serious-risk-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the Cybersecurity and Infrastructure Security Agency (CISA) warned Wednesday that recently uncovered vulnerabilities in a Microsoft email application pose a “serious risk” to federal agencies and the private sector, noting that thousands of groups were at risk of being targeted by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Romance Fraudster Who Conned Jenifer Lewis Jailed<a href="https://www.infosecurity-magazine.com:443/news/romance-fraudster-who-conned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US imprisons Santa Monica man who impersonated Navy SEAL to con women
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OVH data centers suffered a fire, many popular sites are offline<a href="https://securityaffairs.co/wordpress/115457/breaking-news/ovh-data-centers-fire.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OVH, the largest hosting provider in Europe, has suffered a terrible fire that destroyed the data centers located in Strasbourg.
+
+
+
+OVH, one of the largest hosting providers in the world, has suffered a terrible fire that destroyed its data centers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the second time in less than a year, F5 announces critical vulnerabilities in networking devices<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/for-the-second-time-in-less-than-a-year-f5-announces-critical-vulnerabilities-in-networking-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The disclosure comes less than a year after another remote code execution vulnerability in F5’s BIG-IP devices, leading some to question whether larger, more fundamental security culture failures exist at the company.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Ad Blocker Delivers Hybrid Cryptominer/Ransomware Infection<a href="https://threatpost.com/fake-ad-blocker-cryptominer-ransomware/164669/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hybrid Monero cryptominer and ransomware bug has hit 20,000 machines in 60 days.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol 'unlocks' encrypted Sky ECC chat service to make arrests<a href="https://www.bleepingcomputer.com/news/security/europol-unlocks-encrypted-sky-ecc-chat-service-to-make-arrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European law enforcement authorities have made a large number of arrests after a joint operation involving the monitoring of organized crime communication channels over the Sky ECC encrypted chat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Actors Target Crypto Wallets of Coinbase Users in New...<a href="https://hotforsecurity.bitdefender.com/blog/malicious-actors-target-crypto-wallets-of-coinbase-users-in-new-phishing-campaign-25445.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are targeting Coinbase platform users with phishing campaings in an attempt to steal their account credentials and drain their cryptocurrency wallets, Bitdefender reported.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House approves cyber funds in relief package as officials press for more<a href="https://thehill.com//policy/cybersecurity/542610-house-approves-cyber-funds-in-relief-package-as-officials-press-for-more"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday allocated almost $2 billion toward cybersecurity and technology modernization as part of passing the American Rescue Plan, which officials described as a “down payment” on the funds needed to fully confront recent massive foreign cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Companies Not Taking Cybersecurity Seriously<a href="https://www.infosecurity-magazine.com:443/news/us-companies-lynx-survey/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+51% of Americans say their companies could have done more to increase cybersecurity during the pandemic
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New malware tied to China targets Linux endpoints and servers<a href="https://www.scmagazine.com/home/security-news/new-malware-tied-to-china-targets-linux-endpoints-and-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware, called RedXOR because it was compiled on Red Hat Enterprise Linux and uses a network data encoding scheme based on XOR, creates a backdoor in systems that gives an attacker near full control over infected machines.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Exploiting Critical WordPress Plugin Bug<a href="https://threatpost.com/cyberattackers-exploiting-critical-wordpress-plugin-bug/164663/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security hole in the Plus Addons for Elementor plugin was used in active zero-day attacks prior to a patch being issued.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 urges customers to patch critical BIG-IP pre-auth RCE bug<a href="https://www.bleepingcomputer.com/news/security/f5-urges-customers-to-patch-critical-big-ip-pre-auth-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 Networks, a leading provider of enterprise networking gear, has announced four critical remote code execution (RCE) vulnerabilities affecting most versions of BIG-IP and BIG-IQ software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US cyber chief reports 'widespread' hacks after Microsoft app flaw<a href="https://thehill.com//policy/cybersecurity/542561-officials-see-widespread-use-of-microsoft-vulnerabilities-to-compromise"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s top cybersecurity official told lawmakers Wednesday that the federal government is seeing “widespread” hacking using recently uncovered vulnerabilities in a Microsoft email application, with researchers saying almost a dozen hacking groups have used the flaw to target a variety of organizations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Unlikely to Be an Isolated Event as Attackers Become More Sophisticated<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-attackers-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pandemic has allowed malicious actors to industrialize
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 groups now targeting Hafnium Microsoft Exchange vulnerabilities<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/10-groups-now-targeting-hafnium-microsoft-exchange-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company ESET is now tracking 10 different threat groups or otherwise unique clusters of breaches that have used a chain of vulnerabilities Microsoft patched in Exchange Server last week.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway parliament data stolen in Microsoft Exchange attack<a href="https://www.bleepingcomputer.com/news/security/norway-parliament-data-stolen-in-microsoft-exchange-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway's parliament, the Storting, has suffered another cyberattack after threat actors stole data using the recently disclosed Microsoft Exchange vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New research finds 'record-breaking' number of K-12 cyber incidents in 2020<a href="https://thehill.com//policy/cybersecurity/542518-new-research-finds-record-breaking-number-of-k-12-cyber-incidents-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report released Wednesday found that K-12 schools in the United States experienced a “record-breaking” number of cyber incidents during 2020 as classes moved online and hackers moved in on vulnerable targets in the midst of the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 More hacking groups join Microsoft Exchange attack frenzy<a href="https://www.bleepingcomputer.com/news/security/more-hacking-groups-join-microsoft-exchange-attack-frenzy/"> Full Text</a>
 </p>
 <details>
