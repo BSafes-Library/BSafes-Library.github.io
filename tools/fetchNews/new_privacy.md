@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Camera tricks: Privacy concerns raised after massive surveillance cam breach<a href="https://www.scmagazine.com/home/security-news/iot/camera-tricks-privacy-concerns-raised-after-massive-surveillance-cam-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking collective compromised roughly 150,000 internet-connected surveillance cameras from Verkada. Now experts are weighing in on the potential ramifications that can befall an organization if security footage is leaked or falls into the wrong hands.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

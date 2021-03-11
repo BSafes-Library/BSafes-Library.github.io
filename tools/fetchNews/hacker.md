@@ -8,6 +8,80 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White hat hackers gained access more than 150,000 surveillance cameras<a href="https://securityaffairs.co/wordpress/115466/hacking/surveillance-cameras-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hackers claimed to have compromised more than 150,000 surveillance cameras at banks, jails, schools, and prominent companies like Tesla and Equinox.
+
+
+
+A group of US hackers claimed to have gained access to footage from 150,000 security cameras...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Actors Target Crypto Wallets of Coinbase Users in New...<a href="https://hotforsecurity.bitdefender.com/blog/malicious-actors-target-crypto-wallets-of-coinbase-users-in-new-phishing-campaign-25445.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are targeting Coinbase platform users with phishing campaings in an attempt to steal their account credentials and drain their cryptocurrency wallets, Bitdefender reported.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Exploiting Critical WordPress Plugin Bug<a href="https://threatpost.com/cyberattackers-exploiting-critical-wordpress-plugin-bug/164663/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security hole in the Plus Addons for Elementor plugin was used in active zero-day attacks prior to a patch being issued.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Unlikely to Be an Isolated Event as Attackers Become More Sophisticated<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-attackers-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pandemic has allowed malicious actors to industrialize
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More hacking groups join Microsoft Exchange attack frenzy<a href="https://www.bleepingcomputer.com/news/security/more-hacking-groups-join-microsoft-exchange-attack-frenzy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More state-sponsored hacking groups have joined the ongoing attacks targeting tens of thousands of on-premises&nbsp;Exchange servers impacted by severe vulnerabilities tracked as&nbsp;ProxyLogon.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

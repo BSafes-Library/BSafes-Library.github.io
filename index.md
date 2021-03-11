@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 addresses critical vulnerabilities in BIG-IP and BIG-IQ<a href="https://securityaffairs.co/wordpress/115481/security/f5-addresses-critical-vulnerabilities-in-big-ip-and-big-iq.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Security Firm Aqua Security Raises $135M To Add Clients<a href="https://www.crn.com/news/security/cloud-security-firm-aqua-security-raises-135m-to-add-clients?&web_view=true"> Full Text</a>
@@ -70,7 +70,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Pre-Auth RCE Flaw Found in F5 Big-IP Platform — Patch ASAP!<a href="https://thehackernews.com/2021/03/critical-pre-auth-rce-flaw-found-in-f5.html"> Full Text</a>
@@ -86,7 +86,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Camera tricks: Privacy concerns raised after massive surveillance cam breach<a href="https://www.scmagazine.com/home/security-news/iot/camera-tricks-privacy-concerns-raised-after-massive-surveillance-cam-breach/"> Full Text</a>

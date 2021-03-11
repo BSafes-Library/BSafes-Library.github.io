@@ -11,6 +11,20 @@ nav_order: 900027
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cloud cybersecurity startup Lumu raises a $7.5 million Series A<a href="https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Miami-based cybersecurity startup Lumu today announced the closing of its $7.5 million Series A. The round was co-led by SoftBank Group Corp.’s SB Opportunity Fund and Panoramic Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 PayPal to acquire cryptocurrency security startup Curv<a href="https://techcrunch.com/2021/03/08/paypal-to-acquire-cryptocurrency-custody-startup-curv/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

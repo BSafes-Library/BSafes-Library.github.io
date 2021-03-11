@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining Botnet z0Miner Targeting ElasticSearch and Jenkins RCE Vulnerabilities<a href="https://cybersecuritynews.com/cryptomining-botnet-z0miner/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A crypto mining botnet spotted in the previous year is currently targeting and attempting to take control of Jenkins and ElasticSearch servers...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

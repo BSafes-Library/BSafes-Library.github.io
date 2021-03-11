@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 addresses critical vulnerabilities in BIG-IP and BIG-IQ<a href="https://securityaffairs.co/wordpress/115481/security/f5-addresses-critical-vulnerabilities-in-big-ip-and-big-iq.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm F5 announced the availability of patches for seven vulnerabilities in BIG-IP, four of which have been rated as "critical" severity.
+
+
+
+BIG-IP product family includes hardware, modularized software, and&nbsp;virtual appliances&nbsp;that run the F5 TMOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Pre-Auth RCE Flaw Found in F5 Big-IP Platform — Patch ASAP!<a href="https://thehackernews.com/2021/03/critical-pre-auth-rce-flaw-found-in-f5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Application security company F5 Networks on Wednesday published an&nbsp; advisory &nbsp;warning of four critical vulnerabilities impacting multiple products that could result in a denial of service (DoS) attack and even remote code execution on target networks.  The patches concern a total of seven related flaws (from CVE-2021-22986 through CVE-2021-22992),&nbsp; two &nbsp;of&nbsp; which &nbsp;were discovered and reported by Felix Wilhelm of Google Project Zero in December 2020.   The four critical flaws affect BIG-IP versions 11.6 or 12.x and newer, with CVE-2021-22986 also affecting BIG-IQ versions 6.x and 7.x. F5 said it's not aware of any public exploitation of these issues.  Successful exploitation of these vulnerabilities could lead to a full compromise of vulnerable systems, including the possibility of remote code execution as well as trigger a buffer overflow, leading to a DoS attack.  Urging customers to update their BIG-IP and BIG-IQ deployments to a fixed version as soon as possible, F5 Networks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

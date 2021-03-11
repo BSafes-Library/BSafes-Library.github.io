@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET: More Than 10 APT Groups Exploiting Recent Microsoft Exchange Vulnerabilities<a href="https://www.infosecurity-magazine.com:443/news/apt-groups-microsoft-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm identifies more than 5000 email global servers affected
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

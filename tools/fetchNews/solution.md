@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation unveils Sigstore — a Let's Encrypt for code signing<a href="https://www.bleepingcomputer.com/news/security/linux-foundation-unveils-sigstore-a-lets-encrypt-for-code-signing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Linux Foundation, Red Hat, Google, and Purdue&nbsp;have&nbsp;unveiled the free 'sigstore' service that lets developers code-sign and verify open source software to prevent supply-chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation unveils Sigstore — a Let's Encrypt for code signing<a href="https://www.bleepingcomputer.com/news/software/linux-foundation-unveils-sigstore-a-lets-encrypt-for-code-signing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Linux Foundation, Red Hat, Google, and Purdue&nbsp;have&nbsp;unveiled the free 'sigstore' service that lets developers code-sign and verify open source software to prevent supply-chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp to password protect your chat backups on Cloud<a href="https://ciso.economictimes.indiatimes.com/news/whatsapp-to-password-protect-your-chat-backups-on-cloud/81404199?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chat database is already encrypted now (excluding media), but the algorithm is reversible and it's not end-to-end encrypted. Local Android backups will be compatible with this feature.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
