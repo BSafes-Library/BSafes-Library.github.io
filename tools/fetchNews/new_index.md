@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware “Paralyzes” Spanish Employment Agency<a href="https://www.infosecurity-magazine.com:443/news/ransomware-paralyzes-spanish/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attack locks down workstations and remote worker laptops
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Spanish labor agency suffers ransomware attack, union says<a href="https://www.cyberscoop.com/spain-ransomware-employment-agency-sepe/?&web_view=true"> Full Text</a>
 </p>
 <details>
