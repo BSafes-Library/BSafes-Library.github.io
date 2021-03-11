@@ -11,6 +11,34 @@ nav_order: 900015
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Superstar K-Pop Band’s TikTok Hacked<a href="https://www.infosecurity-magazine.com:443/news/superstar-kpop-bands-tiktok-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacker compromises BTS’s TikTok account and uploads creepy music video
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway parliament data stolen in Microsoft Exchange attack<a href="https://www.bleepingcomputer.com/news/security/norway-parliament-data-stolen-in-microsoft-exchange-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway's parliament, the Storting, has suffered another&nbsp;cyberattack after threat actors stole data using the recently disclosed Microsoft Exchange vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Break Into Verkada Surveillance Cameras at Tesla, Hundreds of Businesses<a href="https://www.reuters.com/article/us-verkada-breach/verkada-surveillance-cameras-at-tesla-hundreds-more-businesses-breached-hackers-idUSKBN2B2048?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

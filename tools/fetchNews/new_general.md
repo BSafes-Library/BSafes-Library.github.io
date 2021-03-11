@@ -11,6 +11,48 @@ nav_order: 900072
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House approves almost $2 billion in cyber, tech funds as part of relief package | Officials warn of 'widespread' exploit of Microsoft vulnerabilities | Facebook files to dismiss antitrust lawsuits<a href="https://thehill.com//policy/technology/overnights/542640-hillicon-valley-house-approves-almost-2-billion-in-cyber-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal cybersecurity and information technology got a shot in the arm Wednesday with the inclusion of almost $2 billion in cyber funding in the COVID-19 relief bill that passed the House, but some officials say it's not enough.&nbsp;Meanwhile, the nation’s top cybersecurity official warned of ‘widespread’ exploitation by hackers of Microsoft Exchange Server vulnerabilities, and lawmakers introduced a range of measures on data privacy, election cybersecurity, and helping save the news industry.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Companies Not Taking Cybersecurity Seriously<a href="https://www.infosecurity-magazine.com:443/news/us-companies-lynx-survey/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+51% of Americans say their companies could have done more to increase cybersecurity during the pandemic
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Up to $223b of the world’s top 100 brands' value at risk from data breach: Study<a href="https://ciso.economictimes.indiatimes.com/news/up-to-223b-of-the-worlds-top-100-brands-value-at-at-risk-from-data-breach-study/81412020?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infosys and Interbrand today revealed that the potential risk in brand value of a data breach to the world’s 100 most valuable brands could amount to as much as $223b, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Most Threat Analysts Banned from Sharing Intel with Peers<a href="https://www.infosecurity-magazine.com:443/news/most-threat-analysts-banned/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal to acquire cryptocurrency security startup Curv<a href="https://techcrunch.com/2021/03/08/paypal-to-acquire-cryptocurrency-custody-startup-curv/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PayPal has announced that it plans to acquire Curv, a cryptocurrency startup based in Tel Aviv, Israel. Curv is a cryptocurrency security company that helps you store your crypto assets securely.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee sells enterprise biz to Symphony Technology Group for $4B<a href="https://techcrunch.com/2021/03/08/mcafee-sells-enterprise-biz-to-symphony-technology-group-for-4b/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm McAfee announced that it will be selling its enterprise business to a consortium led by the private equity firm Symphony Technology Group for $4 billion.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

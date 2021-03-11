@@ -11,6 +11,34 @@ nav_order: 900029
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Massive Security Camera Breach – Hackers Accessed Security Cameras at Tesla, Cloudflare, Banks &amp; More<a href="https://cybersecuritynews.com/massive-security-camera-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The group of hackers viewed live and archived surveillance footage from hundreds of businesses including Tesla, Equinox, healthcare clinics, jails, and banks...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach Exposes Verkada Security Camera Footage at Tesla, Cloudflare<a href="https://threatpost.com/breach-verkada-security-camera-tesla-cloudflare/164635/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Surveillance footage from companies such as Tesla as well as hospitals, prisons, police departments and schools was accessed in the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Exposed Password Gave Hackers Access to 150,000 Cameras<a href="https://www.infosecurity-magazine.com:443/news/exposed-passwor-hackers-access/"> Full Text</a>
 </p>
 <details>

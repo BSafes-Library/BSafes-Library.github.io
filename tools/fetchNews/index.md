@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Foundation unveils Sigstore — a Let's Encrypt for code signing<a href="https://www.bleepingcomputer.com/news/security/linux-foundation-unveils-sigstore-a-lets-encrypt-for-code-signing/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptomining Botnet z0Miner Targeting ElasticSearch and Jenkins RCE Vulnerabilities<a href="https://cybersecuritynews.com/cryptomining-botnet-z0miner/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud cybersecurity startup Lumu raises a $7.5 million Series A<a href="https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: House approves almost $2 billion in cyber, tech funds as part of relief package | Officials warn of 'widespread' exploit of Microsoft vulnerabilities | Facebook files to dismiss antitrust lawsuits<a href="https://thehill.com//policy/technology/overnights/542640-hillicon-valley-house-approves-almost-2-billion-in-cyber-tech"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Unveil New Linux Malware Linked to Chinese Hackers<a href="https://thehackernews.com/2021/03/researchers-unveil-new-linux-malware.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Superstar K-Pop Band’s TikTok Hacked<a href="https://www.infosecurity-magazine.com:443/news/superstar-kpop-bands-tiktok-hacked/"> Full Text</a>
@@ -130,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Privacy Law and U.S. Surveillance: Solving the Problem of Transatlantic Data Transfers<a href="https://www.lawfareblog.com/eu-privacy-law-and-us-surveillance-solving-problem-transatlantic-data-transfers"> Full Text</a>
@@ -146,7 +146,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Biden’s Cyber Strategy Echoes Trump’s<a href="https://www.lawfareblog.com/how-bidens-cyber-strategy-echoes-trumps"> Full Text</a>
@@ -162,7 +162,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White hat hackers gained access more than 150,000 surveillance cameras<a href="https://securityaffairs.co/wordpress/115466/hacking/surveillance-cameras-hacked.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft IE zero-day exploited in wild, could provide unrestricted operating system access<a href="https://www.scmagazine.com/home/patch-management/microsoft-ie-zero-day-exploited-in-wild-could-provide-unrestricted-operating-system-access/"> Full Text</a>
@@ -198,7 +198,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Stomps Out Critical RCE Flaw in Manufacturing Software<a href="https://threatpost.com/sap-critical-rce-flaw-manufacturing/164666/"> Full Text</a>
@@ -214,7 +214,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Foundation unveils Sigstore — a Let's Encrypt for code signing<a href="https://www.bleepingcomputer.com/news/software/linux-foundation-unveils-sigstore-a-lets-encrypt-for-code-signing/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches Critical Flaws in MII, NetWeaver Products<a href="https://www.securityweek.com/sap-patches-critical-flaws-mii-netweaver-products?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal agencies warn Microsoft vulnerabilities pose 'serious risk' to government, private sector<a href="https://thehill.com//policy/cybersecurity/542635-federal-agencies-warn-microsoft-vulnerabilities-pose-serious-risk-to"> Full Text</a>
@@ -262,7 +262,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Romance Fraudster Who Conned Jenifer Lewis Jailed<a href="https://www.infosecurity-magazine.com:443/news/romance-fraudster-who-conned/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OVH data centers suffered a fire, many popular sites are offline<a href="https://securityaffairs.co/wordpress/115457/breaking-news/ovh-data-centers-fire.html"> Full Text</a>
@@ -298,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For the second time in less than a year, F5 announces critical vulnerabilities in networking devices<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/for-the-second-time-in-less-than-a-year-f5-announces-critical-vulnerabilities-in-networking-devices/"> Full Text</a>
@@ -314,7 +314,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Ad Blocker Delivers Hybrid Cryptominer/Ransomware Infection<a href="https://threatpost.com/fake-ad-blocker-cryptominer-ransomware/164669/"> Full Text</a>
@@ -330,7 +330,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol 'unlocks' encrypted Sky ECC chat service to make arrests<a href="https://www.bleepingcomputer.com/news/security/europol-unlocks-encrypted-sky-ecc-chat-service-to-make-arrests/"> Full Text</a>
@@ -346,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Actors Target Crypto Wallets of Coinbase Users in New...<a href="https://hotforsecurity.bitdefender.com/blog/malicious-actors-target-crypto-wallets-of-coinbase-users-in-new-phishing-campaign-25445.html?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ Bit Defender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House approves cyber funds in relief package as officials press for more<a href="https://thehill.com//policy/cybersecurity/542610-house-approves-cyber-funds-in-relief-package-as-officials-press-for-more"> Full Text</a>
@@ -378,7 +378,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Companies Not Taking Cybersecurity Seriously<a href="https://www.infosecurity-magazine.com:443/news/us-companies-lynx-survey/"> Full Text</a>
@@ -394,7 +394,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware tied to China targets Linux endpoints and servers<a href="https://www.scmagazine.com/home/security-news/new-malware-tied-to-china-targets-linux-endpoints-and-servers/"> Full Text</a>
@@ -410,7 +410,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Exploiting Critical WordPress Plugin Bug<a href="https://threatpost.com/cyberattackers-exploiting-critical-wordpress-plugin-bug/164663/"> Full Text</a>
@@ -426,7 +426,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 urges customers to patch critical BIG-IP pre-auth RCE bug<a href="https://www.bleepingcomputer.com/news/security/f5-urges-customers-to-patch-critical-big-ip-pre-auth-rce-bug/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US cyber chief reports 'widespread' hacks after Microsoft app flaw<a href="https://thehill.com//policy/cybersecurity/542561-officials-see-widespread-use-of-microsoft-vulnerabilities-to-compromise"> Full Text</a>
@@ -458,7 +458,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Unlikely to Be an Isolated Event as Attackers Become More Sophisticated<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-attackers-more/"> Full Text</a>
@@ -474,7 +474,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 groups now targeting Hafnium Microsoft Exchange vulnerabilities<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/10-groups-now-targeting-hafnium-microsoft-exchange-vulnerabilities/"> Full Text</a>
@@ -490,7 +490,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway parliament data stolen in Microsoft Exchange attack<a href="https://www.bleepingcomputer.com/news/security/norway-parliament-data-stolen-in-microsoft-exchange-attack/"> Full Text</a>
@@ -506,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New research finds 'record-breaking' number of K-12 cyber incidents in 2020<a href="https://thehill.com//policy/cybersecurity/542518-new-research-finds-record-breaking-number-of-k-12-cyber-incidents-in"> Full Text</a>
@@ -522,7 +522,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More hacking groups join Microsoft Exchange attack frenzy<a href="https://www.bleepingcomputer.com/news/security/more-hacking-groups-join-microsoft-exchange-attack-frenzy/"> Full Text</a>
@@ -538,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Security Camera Breach – Hackers Accessed Security Cameras at Tesla, Cloudflare, Banks & More<a href="https://cybersecuritynews.com/massive-security-camera-breach/"> Full Text</a>
@@ -554,7 +554,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Informs Users of 'Potentially Serious' Authentication Bug<a href="https://www.securityweek.com/github-informs-users-potentially-serious-authentication-bug?&web_view=true"> Full Text</a>
@@ -570,7 +570,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators introduce bill to fund election official cybersecurity training<a href="https://thehill.com//policy/cybersecurity/542479-senators-introduce-bill-to-provide-funds-for-cybersecurity-training-for"> Full Text</a>
@@ -586,7 +586,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESET: More Than 10 APT Groups Exploiting Recent Microsoft Exchange Vulnerabilities<a href="https://www.infosecurity-magazine.com:443/news/apt-groups-microsoft-exchange/"> Full Text</a>
@@ -602,7 +602,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breach Exposes Verkada Security Camera Footage at Tesla, Cloudflare<a href="https://threatpost.com/breach-verkada-security-camera-tesla-cloudflare/164635/"> Full Text</a>
@@ -618,7 +618,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp to password protect your chat backups on Cloud<a href="https://ciso.economictimes.indiatimes.com/news/whatsapp-to-password-protect-your-chat-backups-on-cloud/81404199?&web_view=true"> Full Text</a>
@@ -634,7 +634,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Up to $223b of the world’s top 100 brands' value at risk from data breach: Study<a href="https://ciso.economictimes.indiatimes.com/news/up-to-223b-of-the-worlds-top-100-brands-value-at-at-risk-from-data-breach-study/81412020?&web_view=true"> Full Text</a>
@@ -650,7 +650,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
+March 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers Urge FTC to Enforce Health Breach Notification Rule<a href="https://www.govinfosecurity.com/lawmakers-urge-ftc-to-enforce-health-breach-notification-rule-a-16143?&web_view=true"> Full Text</a>

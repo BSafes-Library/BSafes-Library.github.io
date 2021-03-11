@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Biden’s Cyber Strategy Echoes Trump’s<a href="https://www.lawfareblog.com/how-bidens-cyber-strategy-echoes-trumps"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comparing the Biden administration’s Interim National Security Strategic Guidance with Trump’s National Cyber Strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies warn Microsoft vulnerabilities pose 'serious risk' to government, private sector<a href="https://thehill.com//policy/cybersecurity/542635-federal-agencies-warn-microsoft-vulnerabilities-pose-serious-risk-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the Cybersecurity and Infrastructure Security Agency (CISA) warned Wednesday that recently uncovered vulnerabilities in a Microsoft email application pose a “serious risk” to federal agencies and the private sector, noting that thousands of groups were at risk of being targeted by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House approves cyber funds in relief package as officials press for more<a href="https://thehill.com//policy/cybersecurity/542610-house-approves-cyber-funds-in-relief-package-as-officials-press-for-more"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday&nbsp;allocated almost $2 billion toward cybersecurity and technology modernization as part of&nbsp;passing the American Rescue Plan, which officials described as a “down payment” on&nbsp;the funds needed to fully confront recent massive foreign cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US cyber chief reports 'widespread'&nbsp;hacks after Microsoft app&nbsp;flaw<a href="https://thehill.com//policy/cybersecurity/542561-officials-see-widespread-use-of-microsoft-vulnerabilities-to-compromise"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s top cybersecurity official&nbsp;told lawmakers Wednesday that the federal government&nbsp;is&nbsp;seeing “widespread”&nbsp;hacking&nbsp;using recently uncovered vulnerabilities in a Microsoft email application, with&nbsp;researchers saying almost a dozen hacking groups have used the flaw to target a variety of organizations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill to fund election official cybersecurity training<a href="https://thehill.com//policy/cybersecurity/542479-senators-introduce-bill-to-provide-funds-for-cybersecurity-training-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Rules Committee Chairwoman Amy Klobuchar (D-Minn.) and Sen. Susan CollinsSusan Margaret CollinsSchumer moves to break GOP holds on Haaland Republicans put procedural delay on Haaland's nomination The Hill's Morning Report - Presented by the National Shooting Sports Foundation - CDC news on gatherings a step toward normality MORE (R-Maine) on Wednesday reintroduced legislation to designate funding to provide cybersecurity training to election officials.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

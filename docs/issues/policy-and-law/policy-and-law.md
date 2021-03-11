@@ -8,6 +8,62 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Privacy Law and U.S. Surveillance: Solving the Problem of Transatlantic Data Transfers<a href="https://www.lawfareblog.com/eu-privacy-law-and-us-surveillance-solving-problem-transatlantic-data-transfers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most current approaches to resolving the EU-U.S. conflict fall short. It’s time for a hybrid approach.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Romance Fraudster Who Conned Jenifer Lewis Jailed<a href="https://www.infosecurity-magazine.com:443/news/romance-fraudster-who-conned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US imprisons Santa Monica man who impersonated Navy SEAL to con women
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol 'unlocks' encrypted Sky ECC chat service to make arrests<a href="https://www.bleepingcomputer.com/news/security/europol-unlocks-encrypted-sky-ecc-chat-service-to-make-arrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European law enforcement authorities have made a large number of arrests after a joint operation involving the monitoring of organized crime communication channels over the&nbsp;Sky ECC encrypted chat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers Urge FTC to Enforce Health Breach Notification Rule<a href="https://www.govinfosecurity.com/lawmakers-urge-ftc-to-enforce-health-breach-notification-rule-a-16143?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC's Health Breach Notification Rule, which is part of the American Recovery and Reinvestment Act of 2009, addresses privacy issues related to personal health records, the lawmakers write.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900180
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fake Ad Blocker Delivers Hybrid Cryptominer/Ransomware Infection<a href="https://threatpost.com/fake-ad-blocker-cryptominer-ransomware/164669/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hybrid Monero cryptominer and ransomware bug has hit 20,000 machines in 60 days.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ryuk ransomware hits 700 Spanish government labor agency offices<a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-hits-700-spanish-government-labor-agency-offices/"> Full Text</a>
 </p>
 <details>

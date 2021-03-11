@@ -11,6 +11,24 @@ nav_order: 900005
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OVH data centers suffered a fire, many popular sites are offline<a href="https://securityaffairs.co/wordpress/115457/breaking-news/ovh-data-centers-fire.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OVH, the largest hosting provider in Europe, has suffered a terrible fire that destroyed the data centers located in&nbsp;Strasbourg.
+
+
+
+OVH, one of the largest hosting providers in the world, has suffered a terrible fire that destroyed its data centers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OVH data center burns down knocking major sites offline <a href="https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New research finds 'record-breaking' number of K-12 cyber incidents in 2020<a href="https://thehill.com//policy/cybersecurity/542518-new-research-finds-record-breaking-number-of-k-12-cyber-incidents-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report released Wednesday found that K-12 schools in the United States&nbsp;experienced a “record-breaking” number of cyber incidents during 2020 as classes moved online and hackers moved in on vulnerable targets in the midst of the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

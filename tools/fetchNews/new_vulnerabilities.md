@@ -11,6 +11,104 @@ nav_order: 900220
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft IE zero-day exploited in wild, could provide unrestricted operating system access<a href="https://www.scmagazine.com/home/patch-management/microsoft-ie-zero-day-exploited-in-wild-could-provide-unrestricted-operating-system-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security pros need to prioritize patching a memory corruption vulnerability flaw found in Internet Explorer 11 and 9, and Edge browsers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Stomps Out Critical RCE Flaw in Manufacturing Software<a href="https://threatpost.com/sap-critical-rce-flaw-manufacturing/164666/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The remote code execution flaw could allow attackers to deploy malware, modify network configurations and view databases. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Flaws in MII, NetWeaver Products<a href="https://www.securityweek.com/sap-patches-critical-flaws-mii-netweaver-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP's March 2021 Security Patch Day updates include 9 new security notes, including two for critical vulnerabilities affecting the company's NetWeaver AS and MII products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the second time in less than a year, F5 announces critical vulnerabilities in networking devices<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/for-the-second-time-in-less-than-a-year-f5-announces-critical-vulnerabilities-in-networking-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The disclosure comes less than a year after another remote code execution vulnerability in F5’s BIG-IP devices, leading some to question whether larger, more fundamental security culture failures exist at the company.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 urges customers to patch critical BIG-IP pre-auth RCE bug<a href="https://www.bleepingcomputer.com/news/security/f5-urges-customers-to-patch-critical-big-ip-pre-auth-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 Networks, a leading provider of&nbsp;enterprise networking gear, has announced&nbsp;four&nbsp;critical remote code execution (RCE) vulnerabilities affecting most&nbsp;versions of BIG-IP and BIG-IQ software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 groups now targeting Hafnium Microsoft Exchange vulnerabilities<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/10-groups-now-targeting-hafnium-microsoft-exchange-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company ESET is now tracking 10 different threat groups or otherwise unique clusters of breaches that have used a chain of vulnerabilities Microsoft patched in Exchange Server last week.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Informs Users of 'Potentially Serious' Authentication Bug<a href="https://www.securityweek.com/github-informs-users-potentially-serious-authentication-bug?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub on Monday informed users that it had discovered what it described as an “extremely rare, but potentially serious” security bug related to how some authenticated sessions were handled.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Apple Location Tracking System Could Lead to User Identification<a href="https://www.securityweek.com/flaws-apple-location-tracking-system-could-lead-user-identification?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
