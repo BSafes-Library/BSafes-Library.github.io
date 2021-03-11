@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical Pre-Auth RCE Flaw Found in F5 Big-IP Platform — Patch ASAP!<a href="https://thehackernews.com/2021/03/critical-pre-auth-rce-flaw-found-in-f5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Application security company F5 Networks on Wednesday published an  advisory  warning of four critical vulnerabilities impacting multiple products that could result in a denial of service (DoS) attack and even remote code execution on target networks.  The patches concern a total of seven related flaws (from CVE-2021-22986 through CVE-2021-22992),  two  of  which  were discovered and reported by Felix Wilhelm of Google Project Zero in December 2020.   The four critical flaws affect BIG-IP versions 11.6 or 12.x and newer, with CVE-2021-22986 also affecting BIG-IQ versions 6.x and 7.x. F5 said it's not aware of any public exploitation of these issues.  Successful exploitation of these vulnerabilities could lead to a full compromise of vulnerable systems, including the possibility of remote code execution as well as trigger a buffer overflow, leading to a DoS attack.  Urging customers to update their BIG-IP and BIG-IQ deployments to a fixed version as soon as possible, F5 Networks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Camera tricks: Privacy concerns raised after massive surveillance cam breach<a href="https://www.scmagazine.com/home/security-news/iot/camera-tricks-privacy-concerns-raised-after-massive-surveillance-cam-breach/"> Full Text</a>
 </p>
 <details>
