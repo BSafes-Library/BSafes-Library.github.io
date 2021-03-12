@@ -6,6 +6,31 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI-CISA Joint Advisory on Compromise of Microsoft Exchange Server<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/10/fbi-cisa-joint-advisory-compromise-microsoft-exchange-server"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the Federal Bureau of Investigation (FBI) have released a Joint Cybersecurity Advisory (CSA) to address recently disclosed vulnerabilities in Microsoft Exchange Server. CISA and FBI assess that adversaries could exploit these vulnerabilities to compromise networks, steal information, encrypt data for ransom, or even execute a destructive attack.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Security Advisory for RCE Vulnerabilities in BIG-IP, BIG-IQ<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/10/f5-security-advisory-rce-vulnerabilities-big-ip-big-iq"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has released a security advisory to address remote code execution (RCE) vulnerabilities—CVE-2021-22986, CVE-2021-22987—impacting BIG-IP and BIG-IQ devices. An attacker could exploit these vulnerabilities to take control of an affected system.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 3, 2021 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
