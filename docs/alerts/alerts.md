@@ -29,6 +29,137 @@ F5 has released a security advisory to address remote code execution (RCE) vulne
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases March 2021 Security Updates<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/10/microsoft-releases-march-2021-security-updates"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released updates to address multiple vulnerabilities in Microsoft software. A remote attacker can exploit some of these vulnerabilities to take control of an affected system.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Releases March 2021 Security Updates<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/09/sap-releases-march-2021-security-updates"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Releases Security Updates<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/09/adobe-releases-security-updates"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released security updates to address vulnerabilities in multiple Adobe products. An attacker could exploit some of these vulnerabilities to take control of an affected system.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Security Updates<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/09/apple-releases-security-updates"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guidance on Remediating Networks Affected by the SolarWinds and Active Directory/M365 Compromise<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/09/guidance-remediating-networks-affected-solarwinds-and-active"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since December 2020, CISA has been responding to a significant cybersecurity incident involving an advanced persistent threat (APT) actor targeting networks of multiple U.S. government agencies, critical infrastructure entities, and private sector organizations. The APT actor added malicious code to multiple versions of the SolarWinds Orion platform and leveraged it—as well as other techniques, including—for initial access to enterprise networks. After gaining persistent, invasive access to select organizations’ enterprise networks, the APT actor targeted their federated identity solutions and their Active Directory/M365 environments. CISA has published two new resources on the follow-on activity from this compromise:
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 08, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Strongly Urges All Organizations to Immediately Address Microsoft Exchange Vulnerabilities<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/08/cisa-strongly-urges-all-organizations-immediately-address"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has published a Remediating Microsoft Exchange Vulnerabilities web page that strongly urges all organizations to immediately address the recent Microsoft Exchange Server product vulnerabilities. As exploitation of these vulnerabilities is widespread and indiscriminate, CISA strongly advises organizations follow the guidance laid out in the web page. The guidance provides specific steps for both leaders and IT security staff and is applicable for all sizes of organizations across all sectors.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft IOC Detection Tool for Exchange Server Vulnerabilities<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/06/microsoft-ioc-detection-tool-exchange-server-vulnerabilities"> Full Text</a>
+</p> 
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an updated script that scans Exchange log files for indicators of compromise (IOCs) associated with the vulnerabilities disclosed on March 2, 2021.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 05, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Alternative Mitigations for Exchange Server Vulnerabilities<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/05/microsoft-releases-alternative-mitigations-exchange-server"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released alternative mitigation techniques for Exchange Server customers who are not able to immediately apply updates that address vulnerabilities disclosed on March 2, 2021.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update to Alert on Mitigating Microsoft Exchange Server Vulnerabilities<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/04/update-alert-mitigating-microsoft-exchange-server-vulnerabilities"> Full Text</a>
+</p> 
+<details>
+  <summary>Abstract</summary>
+CISA is aware of threat actors using open source tools to search for vulnerable Microsoft Exchange Servers and advises entities to investigate for signs of a compromise from at least September 1, 2020. CISA has updated the Alert on the Microsoft Exchange server vulnerabilities with additional detailed mitigations. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joint NSA and CISA Guidance on Strengthening Cyber Defense Through Protective DNS<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/04/joint-nsa-and-cisa-guidance-strengthening-cyber-defense-through"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) and CISA have released a Joint Cybersecurity Information (CSI) sheet with guidance on selecting a protective Domain Name System (PDNS) service as a key defense against malicious cyber activity. Protective DNS can greatly reduce the effectiveness of ransomware, phishing, botnet, and malware campaigns by blocking known-malicious domains. Additionally organizations can use DNS query logs for incident response and threat hunting activities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Security Updates<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/04/cisco-releases-security-updates"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to address a vulnerability in multiple Cisco products. An attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 3, 2021 - CISA 
