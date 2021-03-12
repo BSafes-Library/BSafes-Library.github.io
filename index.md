@@ -34,6 +34,646 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes second actively exploited Chrome zero-day this month<a href="https://www.bleepingcomputer.com/news/security/google-fixes-second-actively-exploited-chrome-zero-day-this-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has fixed a second actively exploited Chrome zero-day this month with the release of Chrome 89.0.4389.90 to the Stable desktop channel for Windows, Mac, and Linux users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NimzaLoader Malware Developed Using a Rare Programming Language to Avoid Detection<a href="https://cybersecuritynews.com/nimzaloader-malware-developed-using-a-rare-programming/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The research team from Proofpoint observed an interesting email campaign by a threat actor and tracked it as ‘TA800’. The TA800 threat...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Financially-Motivated Actor has Targeted Countless Industrial Organizations<a href="https://cyware.com/news/this-financially-motivated-actor-has-targeted-countless-industrial-organizations-2ad76d5d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts uncovered an attack campaign targeting oil and gas supply chain industries in Europe, the Middle East, Asia Pacific, and North America using spearphishing techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China blasts Biden administration over new restrictions on Huawei<a href="https://thehill.com//policy/cybersecurity/542925-china-blasts-biden-administration-for-new-restrictions-on-huawei"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China criticized the Biden administration on Friday over new restrictions on the Chinese telecom giant Huawei, arguing the move shows that the U.S. cannot be trusted.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Spotted Malware Written in Nim Programming Language<a href="https://thehackernews.com/2021/03/researchers-spotted-malware-written-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unwrapped an "interesting email campaign" undertaken by a threat actor that has taken to distributing a new malware written in  Nim  programming language.  Dubbed " NimzaLoader " by Proofpoint researchers, the development marks one of the rare instances of Nim malware discovered in the threat landscape.  "Malware developers may choose to use a rare programming language to avoid detection, as reverse engineers may not be familiar with Nim's implementation, or focused on developing detection for it, and therefore tools and sandboxes may struggle to analyze samples of it," the researchers said.   Proofpoint is tracking the operators of the campaign under the moniker "TA800," who, they say, started distributing NimzaLoader starting February 3, 2021. Prior to the latest raft of activity, TA800 is known to have predominantly used BazaLoader since April 2020.   While APT28 has been previously linked to delivering  Zeb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Settlement Reached Over Data Breach Impacting 24 Million Americans<a href="https://www.infosecurity-magazine.com:443/news/settlement-reached-over-amca-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retrieval-Masters Creditors Bureau reaches multi-state settlement over AMCA data breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Should the U.S. Respond to the SolarWinds and Microsoft Exchange Hacks?<a href="https://www.lawfareblog.com/how-should-us-respond-solarwinds-and-microsoft-exchange-hacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If the SolarWinds/Holiday Bear campaign was a minimally-invasive arthroscopic incision into vulnerable networks, the Microsoft Exchange hack was a full-limb amputation: untargeted, reckless and extremely dangerous.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10,000+ WeLeakInfo customer records leaked<a href="https://securityaffairs.co/wordpress/115544/data-breach/weleakinfo-leaked-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An actor claimed to have registered one of the domains of WeLeakInfo, accessed details of 10000+ WeLeakInfo' s customers, and leaked it.
+
+
+
+WeLeakInfo.com was a data breach notification service that was allowing its customers to verify if their credentials...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As legislators work toward law requiring companies to alert feds to breaches, key hurdles emerge<a href="https://www.scmagazine.com/home/security-news/data-breach/as-legislators-work-toward-law-requiring-companies-to-alert-feds-to-breaches-key-hurdles-emerge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts say the idea has merit  – if only legislators can balance the promise with the potential liability and burden placed upon industry.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Group Claims Slew of Ransomware Attacks<a href="https://threatpost.com/revil-claims-ransomware-attacks/164739/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat group behind the Sodinokibi ransomware claimed to have recently compromised nine organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers promote fake cryptocurrency giveaways via Twitter ads<a href="https://www.bleepingcomputer.com/news/security/scammers-promote-fake-cryptocurrency-giveaways-via-twitter-ads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have started to use 'Promoted' tweets, otherwise known as Twitter ads, to spread cryptocurrency giveaway scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Fixes Critical Security Flaw in Manufacturing Software<a href="https://cybersecuritynews.com/sap-fixes-critical-security-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, SAP has fixed a very critical security flaw in its manufacturing software, this critical-bug fix was a spring of 18 security...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clast82: A Dropper That Delivers Two Banking Trojans<a href="https://cyware.com/news/clast82-a-dropper-that-delivers-two-banking-trojans-3add267d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research laid out details on financial trojans found embedded in at least ten Android-based apps by the same threat actor. The apps have been taken down by Google.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of new threat to 'unpatched' networks<a href="https://thehill.com//policy/cybersecurity/542908-microsoft-warns-of-new-threat-to-unpatched-networks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned late Thursday of a threat detected to unpatched networks from a new family of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah Company Stored Passport Scans on Unsecured Server<a href="https://www.infosecurity-magazine.com:443/news/utah-company-unsecured-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Premier Diagnostics data breach exposes personal information of over 50k customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France, Cyber Operations and Sovereignty: The ‘Purist’ Approach to Sovereignty and Contradictory State Practice<a href="https://www.lawfareblog.com/france-cyber-operations-and-sovereignty-purist-approach-sovereignty-and-contradictory-state-practice"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rule of sovereignty that France asserts applies to cyberspace is incompatible with several of its own operations. The “purist” approach to a rule of sovereignty for cyber operations is at odds with the state practice of cyber-capable states.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet disruption in Russia coincided with the introduction of restrictions<a href="https://securityaffairs.co/wordpress/115511/security/russia-internet-disruption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at the NetBlocks Internet Observatory observed this week a temporary disruption of internet service in Russia due to new restrictions. 
+
+
+
+On Wednesday 10 March 2021, researchers from Network data from the NetBlocks Internet Observatory observed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three flaws that sat in Linux kernel since 2006 could deliver root privileges to attackers<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/three-flaws-that-sat-in-linux-kernel-since-2006-could-deliver-root-privileges-to-attackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three recently unearthed vulnerabilities in the Linux kernel, located in the iSCSI module used for accessing shared data storage facilities, could allow root privileges to anyone with a user account.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Credits Sweeping Arrests to Cracked Sky ECC Comms  <a href="https://threatpost.com/europol-arrests-cracked-sky-ecc/164744/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sky ECC claims that cops cracked a fake version of the app being passed off by disgruntled reseller.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google shares Spectre PoC targeting browser JavaScript engines<a href="https://www.bleepingcomputer.com/news/security/google-shares-spectre-poc-targeting-browser-javascript-engines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has published JavaScript proof-of-concept (PoC) code to demonstrate the practicality of using Spectre exploits targeting web browsers to gain access to information from a browser's memory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Campaign Targeting the Middle East has Connections with MuddyWater<a href="https://cyware.com/news/cyber-espionage-campaign-targeting-the-middle-east-has-connections-with-muddywater-c07d769d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers recently detected malicious activity targeting organizations in the Middle East and neighboring regions using spearphishing emails to distribute their harmful packages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Sues Employee for Stealing Trade Secrets<a href="https://www.infosecurity-magazine.com:443/news/apple-sues-employee-for-stealing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former Apple materials lead sued after allegedly leaking trade secrets to media
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of a surge in cyber attacks against Microsoft Exchange<a href="https://securityaffairs.co/wordpress/115532/hacking/microsoft-exchange-servers-hacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a surge in cyber attacks against Microsoft Exchange servers exploiting the recently disclosed ProxyLogon vulnerabilities.
+
+
+
+Researchers at Check Point Research team reported that threat actors are actively exploiting the recently...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware may be targeting Microsoft’s Hafnium Exchange Server vulnerabilities<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-may-be-targeting-microsofts-hafnium-exchange-server-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed “a new family of ransomware being used after an initial compromise of unpatched on-premises Exchange Servers,” via its Security Intelligence Twitter account. The ransomware, called DoejoCrypt or DearCry, appears to be the latest threat associated with not patching the Hafnium Exchange Server vulnerabilities Microsoft first announced last week. DoejoCrypt was first noticed on…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange exploits now used by cryptomining malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-exploits-now-used-by-cryptomining-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of Lemon_Duck, a cryptomining botnet that targets enterprise networks, are now using Microsoft Exchange ProxyLogon exploits in attacks against unpatched servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google reCAPTCHA Abused in Multiple Phishing Campaigns<a href="https://cyware.com/news/google-recaptcha-abused-in-multiple-phishing-campaigns-99a2d585"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior-level executives in the banking and IT sectors are being targeted for their Office 365 credentials in a phishing campaign that uses a fake Google reCAPTCHA system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Install Latest Microsoft Exchange Server Updates Urgently<a href="https://www.infosecurity-magazine.com:443/news/ncsc-install-exchange-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orgs advised to take steps to avoid compromise by increasing range of threat actors
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malspam campaign uses icon files to delivers NanoCore RAT<a href="https://securityaffairs.co/wordpress/115520/malware/nanocore-rat-malspam-icon-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Trustwave spotted a new malspam campaign that is abusing icon files to trick victims into installing the NanoCore Trojan. 
+
+
+
+Researchers at Trustwave have spoted a new malspam campaign that is abusing icon files to trick victims...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers hacked Indian govt sites via exposed git and env files<a href="https://www.bleepingcomputer.com/news/security/researchers-hacked-indian-govt-sites-via-exposed-git-and-env-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have now disclosed more information on how they were able to breach multiple websites of the Indian government. The full findings disclosed today shed light on the routes leveraged by the researchers, including finding exposed .git directories and .env files on some of these systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XDR Firm Cynet Raises $40 Million Series C Funding<a href="https://www.securityweek.com/xdr-firm-cynet-raises-40-million-series-c-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Venture funding continues to flow this week, with extended detection and response (XDR) firm Cynet adding $40 million to its coffers via a Series C funding round led by Greenfield Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netflix Introduces Measures to Prevent Password Sharing<a href="https://www.infosecurity-magazine.com:443/news/netflix-measures-prevent-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users can verify if they are able to access a particular account according to Netflix terms of service
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZHtrap botnet malware deploys honeypots to find more targets<a href="https://www.bleepingcomputer.com/news/security/new-zhtrap-botnet-malware-deploys-honeypots-to-find-more-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet is hunting down and transforming unpatched routers, DVRs, and UPnP network devices it takes over into honeypots that help it find other devices to infect.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can private data be recovered from “sanitized” images?<a href="https://www.helpnetsecurity.com/2021/03/12/recover-data-sanitized-images/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the NYU Tandon School of Engineering found that PP-GAN designs can be subverted to pass privacy checks, while still allowing secret information to be extracted from sanitized images.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SailPoint Appoints Heather Gantt-Evans as New CISO<a href="https://www.infosecurity-magazine.com:443/news/sailpoint-heather-ganttevans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gantt-Evans joins SailPoint from retail giant The Home Depot
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious Vulnerabilities Found in Schneider Electric Power Meters<a href="https://www.securityweek.com/serious-vulnerabilities-found-schneider-electric-power-meters?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity firm Claroty this week disclosed technical details for two potentially serious vulnerabilities affecting PowerLogic smart meters made by Schneider Electric.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside 2.0 Ransomware Promises Fastest Ever Encryption Speeds<a href="https://www.infosecurity-magazine.com:443/news/darkside-20-ransomware-fastest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group releases new features including VoIP calls and VM targeting
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encrypted Comms Firm Denies Police Cracked User Messages<a href="https://www.infosecurity-magazine.com:443/news/encrypted-comms-denies-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol had claimed police accessed hundreds of millions of chats
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molson Coors Suffers Suspected Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/molson-coors-suffers-suspected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trouble brewing for beverage giant
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Hacker Games” Launched to Encourage Development of Secure Coding Skills<a href="https://www.infosecurity-magazine.com:443/news/veracode-hacker-games-secure-coding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Participants will face a series of hands-on challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
