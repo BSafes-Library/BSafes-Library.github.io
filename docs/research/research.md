@@ -7,7 +7,8 @@ nav_order: 800
 ## Research 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• The District of Columbia Circuit Finds Article III Standing Based on the Risk of Future Identity Theft in In re U.S. Office of Personnel Management Data Security Breach Litigation, February 3, 2021 [HTML](https://papers.bsafes.com/docs/identity/the-district-of-columbia-circuit-finds-article-iii-standing-based-on-the-risk-of-future-identity-theft/)
+February 3, 2021  
+• The District of Columbia Circuit Finds Article III Standing Based on the Risk of Future Identity Theft in In re U.S. Office of Personnel Management Data Security Breach Litigation [HTML](https://papers.bsafes.com/docs/identity/the-district-of-columbia-circuit-finds-article-iii-standing-based-on-the-risk-of-future-identity-theft/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -17,7 +18,8 @@ The effects of identity theft can haunt data breach victims for years. Some vict
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• A Post for Change: Social Media and the Unethical Dissemination of Nonconsensual Pornography, Winter, 2021 [HTML](https://papers.bsafes.com/docs/privacy/a-post-for-change-social-media-and-the-unethical-dissemination-of-nonconsensual-pornography/)
+Winter, 2021   
+• A Post for Change: Social Media and the Unethical Dissemination of Nonconsensual Pornography [HTML](https://papers.bsafes.com/docs/privacy/a-post-for-change-social-media-and-the-unethical-dissemination-of-nonconsensual-pornography/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -25,10 +27,10 @@ In today’s world, where instant gratification is king and the majority craves 
 </details>
 </div>
 
-
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus, December 16, 2020 [HTML](https://papers.bsafes.com/docs/cybercrime/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
+December 16, 2020  
+• Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus [HTML](https://papers.bsafes.com/docs/cybercrime/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -38,7 +40,19 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Defending Democracy: Taking Stock of the Global Fight Against Digital Repression, Disinformation, and Election Insecurity, Fall , 2020 [HTML](https://papers.bsafes.com/docs/Politics/defending-democracy-taking-stock-of-the-global-fight-against-digital-repression-disinformation-and-election-insecurity/)
+November, 2020  
+• Digital Identity: A Human-Centered Risk Awareness Study [HTML](https://papers.bsafes.com/docs/identity/digital-identity-a-human-centered-risk-awareness-study/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity threats and compromises have been at the epicenter of media attention; their risk and effect on people’s digital identity is something not to be taken lightly. Though cyber threats have affected a great number of people in all age groups, this study focuses on 55 to 75-year-olds, as this age group is close to retirement or already retired. Therefore, a notable compromise impacting their digital identity can have a major impact on their life.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
+Fall , 2020  
+• Defending Democracy: Taking Stock of the Global Fight Against Digital Repression, Disinformation, and Election Insecurity [HTML](https://papers.bsafes.com/docs/Politics/defending-democracy-taking-stock-of-the-global-fight-against-digital-repression-disinformation-and-election-insecurity/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -48,7 +62,8 @@ Amidst the regular drumbeat of reports about Russian attempts to undermine U.S. 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Cryptography, Passwords, Privacy, and the Fifth Amendment, August , 2020 [HTML](https://papers.bsafes.com/docs/encryption/cryptography-passwords-privacy-and-the-fifth-amendment/)
+August, 2020   
+• Cryptography, Passwords, Privacy, and the Fifth Amendment [HTML](https://papers.bsafes.com/docs/encryption/cryptography-passwords-privacy-and-the-fifth-amendment/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -59,7 +74,8 @@ Military-grade cryptography has been widely available at no cost for personal an
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Impact of Social Media on Feminism, June, 2020 [HTML](https://papers.bsafes.com/docs/women/impact-of-social-media-on-feminism/)
+June, 2020  
+• Impact of Social Media on Feminism [HTML](https://papers.bsafes.com/docs/women/impact-of-social-media-on-feminism/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -69,7 +85,8 @@ Military-grade cryptography has been widely available at no cost for personal an
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• A New Compact for Sexual Privacy, June, 2020 [HTML](https://papers.bsafes.com/docs/privacy/a-new-compact-for-sexual-privacy/)
+June, 2020  
+• A New Compact for Sexual Privacy [HTML](https://papers.bsafes.com/docs/privacy/a-new-compact-for-sexual-privacy/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -80,7 +97,8 @@ Intimate life is under constant surveillance. Firms track people’s periods, ho
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• The Red Swimsuit: Essays, May 9, 2020 [HTML](https://papers.bsafes.com/docs/women/the-red-swimsuit-essays/)
+May 9, 2020  
+• The Red Swimsuit: Essays [HTML](https://papers.bsafes.com/docs/women/the-red-swimsuit-essays/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -90,7 +108,8 @@ JACQUELINE KNIRNSCHILD: This thesis is a collection of creative non-fiction essa
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Cyber Mobs, Disinformation, and Death Videos: The Internet as It Is (and as It Should Be), May 4, 2020 [HTML](https://papers.bsafes.com/docs/internet/cyber-mobs-disinformation-and-death-videos-the-internet-as-it-is-and-as-it-should-be/)
+May 4, 2020  
+• Cyber Mobs, Disinformation, and Death Videos: The Internet as It Is (and as It Should Be) [HTML](https://papers.bsafes.com/docs/internet/cyber-mobs-disinformation-and-death-videos-the-internet-as-it-is-and-as-it-should-be/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -100,7 +119,8 @@ Nick Drnaso’s1 graphic novel Sabrina provides a powerful snapshot of online no
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Cyber Security’s Influence on Modern Society, May, 2020 [HTML](https://papers.bsafes.com/docs/internet/cybersecuritys-influence-on-modern-society/)
+May, 2020  
+• Cyber Security’s Influence on Modern Society [HTML](https://papers.bsafes.com/docs/internet/cybersecuritys-influence-on-modern-society/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -110,7 +130,8 @@ The world of cyber security is evolving every day, and cyber-criminals are tryin
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Internet Architecture and Disability, April 5, 2020 [HTML](https://papers.bsafes.com/docs/internet/internet-architecture-and-disability/)
+April 5, 2020  
+• Internet Architecture and Disability [HTML](https://papers.bsafes.com/docs/internet/internet-architecture-and-disability/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -120,7 +141,8 @@ The Internet is essential for education, employment, information, and cultural a
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Revenge Porn and the First Amendment - Should Nonconsensual Distribution of Sexually Explicit Images Receive Constitutional Protection?, June, 2019 [HTML](https://papers.bsafes.com/docs/privacy/revenge-porn-and-the-first-amendmen/)
+June, 2019  
+• Revenge Porn and the First Amendment - Should Nonconsensual Distribution of Sexually Explicit Images Receive Constitutional Protection? [HTML](https://papers.bsafes.com/docs/privacy/revenge-porn-and-the-first-amendmen/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -130,7 +152,8 @@ Like many issues related to relationships and sexuality, “revenge porn” has 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Subculture of Hackers in Russia, by Roman Dremliuga, August 22, 2014 [HTML](https://papers.bsafes.com/docs/hacker/subculture-of-hackers-in-russia/)
+August 22, 2014  
+• Subculture of Hackers in Russia, by Roman Dremliuga [HTML](https://papers.bsafes.com/docs/hacker/subculture-of-hackers-in-russia/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -140,7 +163,8 @@ This article observes the situation with hacker subculture in Russia. The author
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-• Web Application Security, September 30, 2012 [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-12401/)
+September 30, 2012  
+• Web Application Security [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-12401/)
 </p>
 <details>
   <summary>Abstract</summary>
