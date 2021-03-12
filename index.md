@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Smart sex toys come with Bluetooth and remote hijacking weaknesses<a href="https://www.bleepingcomputer.com/news/security/smart-sex-toys-come-with-bluetooth-and-remote-hijacking-weaknesses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, researchers have exposed common weaknesses lurking in the latest smart sex toys that can be exploited by attackers. As more as more adult toy brands enter the market, and COVID-19 situation has led to a rapid increase in sex toy sales, researchers believe a discussion around the security of these devices is vital.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware now attacks Microsoft Exchange servers with ProxyLogon exploits<a href="https://www.bleepingcomputer.com/news/security/ransomware-now-attacks-microsoft-exchange-servers-with-proxylogon-exploits/"> Full Text</a>
 </p>
 <details>
