@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+University of Central Lancashire among three hit by cyber-attacks<a href="https://www.bbc.com/news/uk-england-lancashire-56347708?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of the Highlands and Islands in Scotland and Queen's University in Belfast were also targeted. The National Cyber Security Centre has launched an investigation.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Are Targeting Microsoft Exchange Servers With Ransomware<a href="https://thehackernews.com/2021/03/icrosoft-exchange-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It didn't take long. Intelligence agencies and cybersecurity researchers had been warning that unpatched Exchange Servers could open the pathway for ransomware infections in the wake of swift escalation of the attacks since last week.  Now it appears that threat actors have caught up.   According to the latest reports, cybercriminals are leveraging the heavily exploited ProxyLogon Exchange Server flaws to install a new strain of ransomware called "DearCry."  "Microsoft observed a new family of human operated ransomware attack customers – detected as Ransom:Win32/DoejoCrypt.A," Microsoft researcher Phillip Misner  tweeted . "Human operated ransomware attacks are utilizing the Microsoft Exchange vulnerabilities to exploit customers."   In a  joint advisory  published by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI), the agencies warned that "adversaries could exploit these vulnerabili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber criminals targeting hospitals are 'playing with lives' and must be stopped, report warns<a href="https://www.zdnet.com/article/cyber-criminals-targeting-hospitals-are-playing-with-lives-and-must-be-stopped-report-warns/?&web_view=true"> Full Text</a>
 </p>
 <details>
