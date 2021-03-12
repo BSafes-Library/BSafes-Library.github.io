@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds lawsuits merge as stockholders begin documenting financial losses<a href="https://www.scmagazine.com/home/security-news/legal-security-news/solarwinds-lawsuits-merge-as-stockholders-begin-documenting-financial-losses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A judge approved the merger of three class action lawsuits against SolarWinds as shareholders detail tens of thousands of dollars in stock losses they claim resulted from the hack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Hole Can Knock Smart Meters Offline<a href="https://threatpost.com/critical-security-smart-meter-offline/164753/"> Full Text</a>
 </p>
 <details>
