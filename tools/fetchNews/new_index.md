@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Deep Instinct to offer $3 million ransomware warranty<a href="https://www.scmagazine.com/home/security-news/ransomware/deep-instinct-to-offer-3-million-ransomware-warranty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep Instinct announced that it would back its product with a performance guarantee that delivers false positivity rates of less than 1 percent, plus a ransomware warranty of up to $3 million per company for a single breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds lawsuits merge as stockholders begin documenting financial losses<a href="https://www.scmagazine.com/home/security-news/legal-security-news/solarwinds-lawsuits-merge-as-stockholders-begin-documenting-financial-losses/"> Full Text</a>
 </p>
 <details>
