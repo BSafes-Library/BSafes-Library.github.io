@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers roll out bill to protect critical infrastructure after Florida water hack<a href="https://thehill.com//policy/cybersecurity/542828-lawmakers-roll-out-bill-to-protect-critical-infrastructure-after-florida"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Thursday introduced legislation intended to protect critical infrastructure from cyberattacks&nbsp;after an unsuccessful hack of a Florida water treatment facility.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: No federal civilian agency hacked in Exchange attacks, so far<a href="https://www.bleepingcomputer.com/news/security/cisa-no-federal-civilian-agency-hacked-in-exchange-attacks-so-far/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA officials said that, so far, there is no evidence of US federal civilian agencies compromised during ongoing attacks targeting Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Will Manage .Gov Domain in Effort to Enhance Security<a href="https://www.govinfosecurity.com/cisa-will-manage-gov-domain-in-effort-to-enhance-security-a-16159?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA will take over the day-to-day management of the official .gov top-level domain in April, adding a greater emphasis on security for the domains used for government websites.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

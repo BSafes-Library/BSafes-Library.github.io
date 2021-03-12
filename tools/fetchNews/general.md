@@ -11,6 +11,62 @@ nav_order: 900072
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Let’s Talk About an Emerging Trend in BEC Attacks<a href="https://cyware.com/news/lets-talk-about-an-emerging-trend-in-bec-attacks-03333b81"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers have started targeting Wall Street investors to earn seven times more money than a normal BEC scam by using fake capital calls notices requesting payment for counterfeit investments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Lawmakers roll out bill to protect critical infrastructure after Florida water hack | Clyburn, Klobuchar push $94 billion fix to digital divide | Uber, Lyft to share information on drivers banned for 'most serious' safety incidents<a href="https://thehill.com//policy/technology/overnights/542837-hillicon-valley-lawmakers-roll-out-bill-to-protect-critical"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After an unsuccessful hack of a Florida water treatment facility, a bipartisan group of&nbsp;House lawmakers teamed up to introduce a cyber bill that aims to protect against cyberattacks. Meanwhile, Democrats reintroduced legislation in both chambers Thursday that would invest billions in expanding internet access. In Silicon Valley, leading rideshare companies Uber and Lyft announced a partnership to share information on banned drivers after mounting scrutiny over their handling of assault allegations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School Boss Resigns After Porn Found on Computer<a href="https://www.infosecurity-magazine.com:443/news/school-boss-resigns-after-porn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+County schools superintendent quits after “questionable” images found on work computer
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Accountability framework” proposed to promote secure health care practices<a href="https://www.scmagazine.com/featured/accountability-framework-proposed-to-promote-secure-health-care-practices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CyberPeace Institute’s methodology holds promise, but it must further differentiate itself and overcome enforcement challenges.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Fixing the Weakest Link — The Passwords — in Cybersecurity Today<a href="https://thehackernews.com/2021/03/fixing-weakest-link-passwords-in.html"> Full Text</a>
 </p>
 <details>

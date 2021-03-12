@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber criminals targeting hospitals are 'playing with lives' and must be stopped, report warns<a href="https://www.zdnet.com/article/cyber-criminals-targeting-hospitals-are-playing-with-lives-and-must-be-stopped-report-warns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks targeting healthcare are putting patients at unnecessary risk and more must be done to hold the cybercriminals involved to account, warns the CyberPeace Institute.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

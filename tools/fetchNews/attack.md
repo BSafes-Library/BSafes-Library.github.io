@@ -11,6 +11,34 @@ nav_order: 900015
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Molson Coors brewing operations disrupted by cyberattack<a href="https://www.bleepingcomputer.com/news/security/molson-coors-brewing-operations-disrupted-by-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Molson Coors Beverage Company has suffered a cyberattack that is causing significant disruption to business operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There is Still More to SolarWinds Attack<a href="https://cyware.com/news/there-is-still-more-to-solarwinds-attack-de2590d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and FireEye uncover three more malware strains associated with the suspected Russian perpetrators who breached the SolarWinds software between August and September 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Norwegian Parliament Hit by Second Cyberattack in Span of Six Months<a href="https://www.reuters.com/article/us-norway-cyber/norways-parliament-hit-by-new-hack-attack-idUSKBN2B21TX?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

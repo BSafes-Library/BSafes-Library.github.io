@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Central Lancashire among three hit by cyber-attacks<a href="https://www.bbc.com/news/uk-england-lancashire-56347708?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of the Highlands and Islands in Scotland and Queen's University in Belfast were also targeted. The National Cyber Security Centre has launched an investigation.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Browser Attack Allows Tracking Users Online With JavaScript Disabled<a href="https://thehackernews.com/2021/03/new-browser-attack-allows-tracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a new side-channel that they say can be reliably exploited to leak information from web browsers that could then be leveraged to track users even when JavaScript is completely disabled.  "This is a side-channel attack which doesn't require any JavaScript to run," the researchers said. "This means script blockers cannot stop it. The attacks work even if you strip out all of the fun parts of the web browsing experience. This makes it very difficult to prevent without modifying deep parts of the operating system."  In avoiding JavaScript, the side-channel attacks are also architecturally agnostic, resulting in microarchitectural website fingerprinting attacks that work across hardware platforms, including Intel Core, AMD Ryzen, Samsung Exynos 2100, and Apple M1 CPUs — making it the first known side-channel attack on the iPhone maker's new ARM-based chipsets.  The&nbsp; findings , which come from a group of academics from the Ben-Gurion U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

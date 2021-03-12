@@ -34,7 +34,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2021
+March 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Central Lancashire among three hit by cyber-attacks<a href="https://www.bbc.com/news/uk-england-lancashire-56347708?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of the Highlands and Islands in Scotland and Queen's University in Belfast were also targeted. The National Cyber Security Centre has launched an investigation.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Are Targeting Microsoft Exchange Servers With Ransomware<a href="https://thehackernews.com/2021/03/icrosoft-exchange-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It didn't take long. Intelligence agencies and cybersecurity researchers had been warning that unpatched Exchange Servers could open the pathway for ransomware infections in the wake of swift escalation of the attacks since last week.  Now it appears that threat actors have caught up.   According to the latest reports, cybercriminals are leveraging the heavily exploited ProxyLogon Exchange Server flaws to install a new strain of ransomware called "DearCry."  "Microsoft observed a new family of human operated ransomware attack customers – detected as Ransom:Win32/DoejoCrypt.A," Microsoft researcher Phillip Misner  tweeted . "Human operated ransomware attacks are utilizing the Microsoft Exchange vulnerabilities to exploit customers."   In a  joint advisory  published by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI), the agencies warned that "adversaries could exploit these vulnerabili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber criminals targeting hospitals are 'playing with lives' and must be stopped, report warns<a href="https://www.zdnet.com/article/cyber-criminals-targeting-hospitals-are-playing-with-lives-and-must-be-stopped-report-warns/?&web_view=true"> Full Text</a>
@@ -50,7 +82,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2021
+March 12, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OVH data center fire likely caused by faulty UPS power supply<a href="https://www.bleepingcomputer.com/news/security/ovh-data-center-fire-likely-caused-by-faulty-ups-power-supply/"> Full Text</a>
@@ -66,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smart sex toys come with Bluetooth and remote hijacking weaknesses<a href="https://www.bleepingcomputer.com/news/security/smart-sex-toys-come-with-bluetooth-and-remote-hijacking-weaknesses/"> Full Text</a>
@@ -82,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware now attacks Microsoft Exchange servers with ProxyLogon exploits<a href="https://www.bleepingcomputer.com/news/security/ransomware-now-attacks-microsoft-exchange-servers-with-proxylogon-exploits/"> Full Text</a>
@@ -98,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Browser Attack Allows Tracking Users Online With JavaScript Disabled<a href="https://thehackernews.com/2021/03/new-browser-attack-allows-tracking.html"> Full Text</a>
@@ -114,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DEARCRY Ransomware is targeting Microsoft Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/new-dearcry-ransomware-is-targeting-microsoft-exchange-servers/"> Full Text</a>

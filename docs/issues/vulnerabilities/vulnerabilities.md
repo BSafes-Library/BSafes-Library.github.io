@@ -11,6 +11,20 @@ nav_order: 900220
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Smart sex toys come with Bluetooth and remote hijacking weaknesses<a href="https://www.bleepingcomputer.com/news/security/smart-sex-toys-come-with-bluetooth-and-remote-hijacking-weaknesses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, researchers have exposed common weaknesses lurking in the latest smart sex toys&nbsp;that can be exploited by attackers. As more as more adult toy brands enter the market, and COVID-19 situation has led to a rapid increase in sex toy sales, researchers believe a discussion around the security of these devices is vital.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Smart sex toys come with Bluetooth and remote access weaknesses<a href="https://www.bleepingcomputer.com/news/security/smart-sex-toys-come-with-bluetooth-and-remote-access-weaknesses/"> Full Text</a>
 </p>
 <details>

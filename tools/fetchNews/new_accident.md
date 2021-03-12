@@ -8,6 +8,20 @@ nav_order: 900005
 
 ## Accident
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OVH data center fire likely caused by faulty UPS power supply<a href="https://www.bleepingcomputer.com/news/security/ovh-data-center-fire-likely-caused-by-faulty-ups-power-supply/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OVH founder and chairman Octave Klaba has provided a plausible explanation for the fire that burned down OVH data centers in Strasbourg, France.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
