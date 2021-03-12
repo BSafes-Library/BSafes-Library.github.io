@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Parliament Hit by Second Cyberattack in Span of Six Months<a href="https://www.reuters.com/article/us-norway-cyber/norways-parliament-hit-by-new-hack-attack-idUSKBN2B21TX?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have infiltrated the Norwegian Parliament’s computer systems and extracted data, officials said on Wednesday, just six months after a previous cyber attack was made public.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

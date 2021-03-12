@@ -11,6 +11,94 @@ nav_order: 900220
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Smart sex toys come with Bluetooth and remote access weaknesses<a href="https://www.bleepingcomputer.com/news/security/smart-sex-toys-come-with-bluetooth-and-remote-access-weaknesses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, researchers have exposed common weaknesses lurking in the latest smart sex toys&nbsp;that can be exploited by attackers. As more as more adult toy brands enter the market, and COVID-19 situation has led to a rapid increase in sex toy sales, researchers believe a discussion around the security of these devices is vital.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyLogon PoC Exploit Released; Likely to Fuel More Disruptive Cyber Attacks<a href="https://thehackernews.com/2021/03/proxylogon-exchange-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) on Wednesday issued a joint advisory warning of active exploitation of vulnerabilities in Microsoft Exchange on-premises products by nation-state actors and cybercriminals.  "CISA and FBI assess that adversaries could exploit these vulnerabilities to compromise networks, steal information, encrypt data for ransom, or even execute a destructive attack," the agencies&nbsp; said . "Adversaries may also sell access to compromised networks on the dark web."  The attacks have primarily targeted local governments, academic institutions, non-governmental organizations, and business entities in various industry sectors, including agriculture, biotechnology, aerospace, defense, legal services, power utilities, and pharmaceutical, which the agencies say are in line with previous activity conducted by Chinese cyber actors.  Tens of thousands of entities, including the&nbsp; Eur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert publishes PoC exploit code for Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/115513/hacking/microsoft-exchange-exploit-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week a security researcher published on GitHub a proof-of-concept tool to hack Microsoft Exchange servers chaining two of ProxyLogon flaws.&nbsp;
+
+
+
+On March 2nd, Microsoft has released&nbsp;emergency out-of-band security updates&nbsp;that address four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dependency Confusion Exploit Being Used to Create More Copycat Packages<a href="https://cyware.com/news/dependency-confusion-exploit-being-used-to-create-more-copycat-packages-09f4133d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the release of a proof-of-concept for a new dependency confusion vulnerability by a researcher, hundreds of bogus npm packages have popped up targeting&nbsp;Amazon, Zillow, Lyft, and Slack NodeJS apps.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5, CISA Warn of Critical BIG-IP and BIG-IQ RCE Bugs<a href="https://threatpost.com/f5-cisa-critical-rce-bugs/164679/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The F5 flaws could affect the networking infrastructure for some of the largest tech and Fortune 500 companies – including Microsoft, Oracle and Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC released for Microsoft Exchange ProxyLogon vulnerabilities<a href="https://therecord.media/poc-released-for-microsoft-exchange-proxylogon-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Vietnamese security researcher has published today the first functional public proof-of-concept exploit for a group of vulnerabilities in Microsoft Exchange servers known as ProxyLogon.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Critical RCE Vulnerabilities in BIG-IP, BIG-IQ let Attacker Take Control of an Affected System<a href="https://cybersecuritynews.com/f5-rce-vulnerabilities/"> Full Text</a>
 </p>
 <details>

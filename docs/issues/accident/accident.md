@@ -8,6 +8,20 @@ nav_order: 900005
 
 ## Accident
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OVH Data Center Suffers a Terrible Fire that Affects Multiple Websites<a href="https://cybersecuritynews.com/ovh-data-center/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ OVH is the largest hosting provider in Europe and the third-largest in the world. The cloud computing company provides virtual private servers,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

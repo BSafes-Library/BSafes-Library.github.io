@@ -11,6 +11,76 @@ nav_order: 900180
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Strikes Spain’s Employment Agency<a href="https://threatpost.com/ransomware-attack-spain-employment-agency/164703/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reports say that the agency in charge of managing Spain’s unemployment benefits has been hit by the Ryuk ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another 210,000 Americans Affected by Netgain Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/woodcreek-netgain-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare patients in Washington state impacted by cyber-attack on managed IT services provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Using Mata Framework to Deliver TFlower Ransomware<a href="https://cyware.com/news/lazarus-group-using-mata-framework-to-deliver-tflower-ransomware-17319d23"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lazarus Group was spotted using the MATA framework, which it has been using since 2019, to deploy the TFlower ransomware. It has claimed a dozen victims so far.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia's answer to thwarting ransomware is good cyber hygiene<a href="https://www.zdnet.com/article/australias-answer-to-thwarting-ransomware-is-good-cyber-hygiene/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advice was provided in Locked Out: Tackling Australia's ransomware threat, which is a 14-page document [PDF] prepared by the Cyber Security Industry Advisory Committee.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Related QNAPCrypt and SunCrypt Are?<a href="https://cyware.com/news/how-related-qnapcrypt-and-suncrypt-are-d6f2675f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Considering the duplication and behavioral differences between the two groups, Intezer researchers argue that QNAPCrypt may have been transferred to the SunCrypt operator and upgraded.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware “Paralyzes” Spanish Employment Agency<a href="https://www.infosecurity-magazine.com:443/news/ransomware-paralyzes-spanish/"> Full Text</a>
 </p>
 <details>

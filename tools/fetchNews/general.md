@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fixing the Weakest Link — The Passwords — in Cybersecurity Today<a href="https://thehackernews.com/2021/03/fixing-weakest-link-passwords-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password security has long been an issue for businesses and their cybersecurity standards. Account passwords are often the weakest link in the overall security posture for many organizations.  Many companies have used Microsoft's default password policies for decades. While these can be customized, businesses often accept the default values for their organization.  The Windows default password policy is a good start, but are there security vulnerabilities associated with it? Let's look at the current recommendations from leading cybersecurity authorities and see how they measure up against the Windows default password policy.  Windows default password policy settings  Many, if not most, business environments today use Microsoft Active Directory as their identity and access management solution in the enterprise. Active Directory has served organizations in this capacity for decades.&nbsp;  One of the built-in capabilities provided by Microsoft Active Directory Domain Services (ADDS)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most decision makers plan to increase spending on cybersecurity this year<a href="https://www.helpnetsecurity.com/2021/03/10/spending-cybersecurity-2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The results from an NCC Group survey show that 40% of respondents froze recruitment in cyber, 29% made redundancies and one in five furloughed staff responsible for cyber resilience programs in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third of Office Workers Warned After Sharing Data Via Unofficial Apps<a href="https://www.infosecurity-magazine.com:443/news/third-office-workers-share-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veritas Technologies study warns of major shadow IT challenge
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record Number of Cyber-Incidents Hit US Schools in 2020<a href="https://www.infosecurity-magazine.com:443/news/record-number-cyber-incidents-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 377 districts were affected, according to non-profit
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert overload still plagues cybersecurity industry<a href="https://www.helpnetsecurity.com/2021/03/11/alert-overload-still-plagues-cybersecurity-industry/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alert overload still plagues the cybersecurity industry, according to Critical Start. 47% of respondents reported personally investigating 10 to 20 alerts each day, a 12% increase from 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

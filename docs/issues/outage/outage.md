@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trouble is brewing, as cyber incident takes down Molson Coors operations<a href="https://www.scmagazine.com/home/security-news/trouble-is-brewing-as-cyber-incident-takes-down-molson-coors-operations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Molson Coors today reported that it has experienced a systems outage caused by a cybersecurity incident that has delayed and may continue to disrupt parts of the company’s business, including its brewery operations, production and shipments. While the buzz around the security industry was that the company experienced a ransomware attack, Molson Coors did not…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

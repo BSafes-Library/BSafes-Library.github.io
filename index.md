@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smart sex toys come with Bluetooth and remote access weaknesses<a href="https://www.bleepingcomputer.com/news/security/smart-sex-toys-come-with-bluetooth-and-remote-access-weaknesses/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OVH Data Center Suffers a Terrible Fire that Affects Multiple Websites<a href="https://cybersecuritynews.com/ovh-data-center/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Let’s Talk About an Emerging Trend in BEC Attacks<a href="https://cyware.com/news/lets-talk-about-an-emerging-trend-in-bec-attacks-03333b81"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Lawmakers roll out bill to protect critical infrastructure after Florida water hack | Clyburn, Klobuchar push $94 billion fix to digital divide | Uber, Lyft to share information on drivers banned for 'most serious' safety incidents<a href="https://thehill.com//policy/technology/overnights/542837-hillicon-valley-lawmakers-roll-out-bill-to-protect-critical"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProxyLogon PoC Exploit Released; Likely to Fuel More Disruptive Cyber Attacks<a href="https://thehackernews.com/2021/03/proxylogon-exchange-poc-exploit.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 School Boss Resigns After Porn Found on Computer<a href="https://www.infosecurity-magazine.com:443/news/school-boss-resigns-after-porn/"> Full Text</a>
@@ -130,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert publishes PoC exploit code for Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/115513/hacking/microsoft-exchange-exploit-code.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors bypassing shoddy patching, targeting network gateways<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/threat-actors-bypassing-shoddy-patching-targeting-network-gateways/"> Full Text</a>
@@ -166,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Strikes Spain’s Employment Agency<a href="https://threatpost.com/ransomware-attack-spain-employment-agency/164703/"> Full Text</a>
@@ -182,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Molson Coors brewing operations disrupted by cyberattack<a href="https://www.bleepingcomputer.com/news/security/molson-coors-brewing-operations-disrupted-by-cyberattack/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dependency Confusion Exploit Being Used to Create More Copycat Packages<a href="https://cyware.com/news/dependency-confusion-exploit-being-used-to-create-more-copycat-packages-09f4133d"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers roll out bill to protect critical infrastructure after Florida water hack<a href="https://thehill.com//policy/cybersecurity/542828-lawmakers-roll-out-bill-to-protect-critical-infrastructure-after-florida"> Full Text</a>
@@ -230,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another 210,000 Americans Affected by Netgain Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/woodcreek-netgain-ransomware-attack/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole data from Norway parliament exploiting Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/115503/cyber-warfare-2/norway-parliament-hack.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Accountability framework” proposed to promote secure health care practices<a href="https://www.scmagazine.com/featured/accountability-framework-proposed-to-promote-secure-health-care-practices/"> Full Text</a>
@@ -282,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 Resurfaces with Revamped Backdoor Malware<a href="https://threatpost.com/fin8-resurfaces-backdoor-malware/164684/"> Full Text</a>
@@ -298,7 +298,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA: No federal civilian agency hacked in Exchange attacks, so far<a href="https://www.bleepingcomputer.com/news/security/cisa-no-federal-civilian-agency-hacked-in-exchange-attacks-so-far/"> Full Text</a>
@@ -314,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Will Manage .Gov Domain in Effort to Enhance Security<a href="https://www.govinfosecurity.com/cisa-will-manage-gov-domain-in-effort-to-enhance-security-a-16159?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021  -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trans Tracking Plugin Reported to Norwegian Authorities<a href="https://www.infosecurity-magazine.com:443/news/shinigami-eyes-reported-to/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trouble is brewing, as cyber incident takes down Molson Coors operations<a href="https://www.scmagazine.com/home/security-news/trouble-is-brewing-as-cyber-incident-takes-down-molson-coors-operations/"> Full Text</a>
@@ -362,7 +362,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5, CISA Warn of Critical BIG-IP and BIG-IQ RCE Bugs<a href="https://threatpost.com/f5-cisa-critical-rce-bugs/164679/"> Full Text</a>
@@ -378,7 +378,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Using Mata Framework to Deliver TFlower Ransomware<a href="https://cyware.com/news/lazarus-group-using-mata-framework-to-deliver-tflower-ransomware-17319d23"> Full Text</a>
@@ -394,7 +394,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia's answer to thwarting ransomware is good cyber hygiene<a href="https://www.zdnet.com/article/australias-answer-to-thwarting-ransomware-is-good-cyber-hygiene/?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Lurking Behind Fake FINRA Audit Notifications<a href="https://cyware.com/news/phishing-campaign-lurking-behind-fake-finra-audit-notifications-1673e810"> Full Text</a>
@@ -426,7 +426,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There is Still More to SolarWinds Attack<a href="https://cyware.com/news/there-is-still-more-to-solarwinds-attack-de2590d2"> Full Text</a>
@@ -442,7 +442,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC released for Microsoft Exchange ProxyLogon vulnerabilities<a href="https://therecord.media/poc-released-for-microsoft-exchange-proxylogon-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2021
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Related QNAPCrypt and SunCrypt Are?<a href="https://cyware.com/news/how-related-qnapcrypt-and-suncrypt-are-d6f2675f"> Full Text</a>

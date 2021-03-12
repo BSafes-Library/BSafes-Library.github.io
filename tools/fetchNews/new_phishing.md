@@ -11,6 +11,20 @@ nav_order: 900160
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Lurking Behind Fake FINRA Audit Notifications<a href="https://cyware.com/news/phishing-campaign-lurking-behind-fake-finra-audit-notifications-1673e810"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FINRA has warned brokerage firms and brokers against an ongoing phishing campaign impersonating the agency and sending fake compliance audit alerts to pilfer information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Attackers Leveraging a Fake Google reCAPTCHA System to Steal Office 365 Credentials<a href="https://cybersecuritynews.com/fake-google-recaptcha-system/"> Full Text</a>
 </p>
 <details>

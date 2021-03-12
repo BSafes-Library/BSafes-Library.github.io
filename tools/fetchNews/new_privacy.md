@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 11, 2021  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trans Tracking Plugin Reported to Norwegian Authorities<a href="https://www.infosecurity-magazine.com:443/news/shinigami-eyes-reported-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Browser add-on that flags social networks as transphobic or trans-friendly may violate GDPR
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

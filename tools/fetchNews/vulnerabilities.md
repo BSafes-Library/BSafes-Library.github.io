@@ -11,6 +11,66 @@ nav_order: 900220
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Critical RCE Vulnerabilities in BIG-IP, BIG-IQ let Attacker Take Control of an Affected System<a href="https://cybersecuritynews.com/f5-rce-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ F5 Networks has published a security advisory warning customers to patch a critical flaw in BIG-IP product that is very likely to...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Campaigns Leverage Microsoft Exchange Flaws to Target Thousands of Organizations<a href="https://www.reuters.com/article/us-usa-cyber-microsoft/at-least-10-hacking-groups-using-microsoft-software-flaw-researchers-idUSKBN2B224O?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 10 different hacking groups are using recently discovered flaws in Microsoft Corp’s mail server software to break into targets around the world, ESET said in a blog post on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover First Side-Channel Attack Against Apple M1 Chips<a href="https://www.securityweek.com/researchers-show-first-side-channel-attack-against-apple-m1-chips?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The analysis focused on Prime+Probe, a cache side-channel attack method that can detect which cache sets are accessed by the target and uses that to infer potentially valuable information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 addresses critical vulnerabilities in BIG-IP and BIG-IQ<a href="https://securityaffairs.co/wordpress/115481/security/f5-flaws-big-ip-big-iq.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm F5 announced the availability of patches for seven vulnerabilities in BIG-IP, four of which have been rated as "critical" severity.
+
+
+
+BIG-IP product family includes hardware, modularized software, and&nbsp;virtual appliances&nbsp;that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 F5 addresses critical vulnerabilities in BIG-IP and BIG-IQ<a href="https://securityaffairs.co/wordpress/115481/security/f5-addresses-critical-vulnerabilities-in-big-ip-and-big-iq.html"> Full Text</a>
 </p>
 <details>

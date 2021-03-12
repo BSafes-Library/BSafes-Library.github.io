@@ -34,6 +34,446 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smart sex toys come with Bluetooth and remote access weaknesses<a href="https://www.bleepingcomputer.com/news/security/smart-sex-toys-come-with-bluetooth-and-remote-access-weaknesses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, researchers have exposed common weaknesses lurking in the latest smart sex toys that can be exploited by attackers. As more as more adult toy brands enter the market, and COVID-19 situation has led to a rapid increase in sex toy sales, researchers believe a discussion around the security of these devices is vital.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OVH Data Center Suffers a Terrible Fire that Affects Multiple Websites<a href="https://cybersecuritynews.com/ovh-data-center/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ OVH is the largest hosting provider in Europe and the third-largest in the world. The cloud computing company provides virtual private servers,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let’s Talk About an Emerging Trend in BEC Attacks<a href="https://cyware.com/news/lets-talk-about-an-emerging-trend-in-bec-attacks-03333b81"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers have started targeting Wall Street investors to earn seven times more money than a normal BEC scam by using fake capital calls notices requesting payment for counterfeit investments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Lawmakers roll out bill to protect critical infrastructure after Florida water hack | Clyburn, Klobuchar push $94 billion fix to digital divide | Uber, Lyft to share information on drivers banned for 'most serious' safety incidents<a href="https://thehill.com//policy/technology/overnights/542837-hillicon-valley-lawmakers-roll-out-bill-to-protect-critical"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After an unsuccessful hack of a Florida water treatment facility, a bipartisan group of House lawmakers teamed up to introduce a cyber bill that aims to protect against cyberattacks. Meanwhile, Democrats reintroduced legislation in both chambers Thursday that would invest billions in expanding internet access. In Silicon Valley, leading rideshare companies Uber and Lyft announced a partnership to share information on banned drivers after mounting scrutiny over their handling of assault allegations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyLogon PoC Exploit Released; Likely to Fuel More Disruptive Cyber Attacks<a href="https://thehackernews.com/2021/03/proxylogon-exchange-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) on Wednesday issued a joint advisory warning of active exploitation of vulnerabilities in Microsoft Exchange on-premises products by nation-state actors and cybercriminals.  "CISA and FBI assess that adversaries could exploit these vulnerabilities to compromise networks, steal information, encrypt data for ransom, or even execute a destructive attack," the agencies  said . "Adversaries may also sell access to compromised networks on the dark web."  The attacks have primarily targeted local governments, academic institutions, non-governmental organizations, and business entities in various industry sectors, including agriculture, biotechnology, aerospace, defense, legal services, power utilities, and pharmaceutical, which the agencies say are in line with previous activity conducted by Chinese cyber actors.  Tens of thousands of entities, including the  Eur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School Boss Resigns After Porn Found on Computer<a href="https://www.infosecurity-magazine.com:443/news/school-boss-resigns-after-porn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+County schools superintendent quits after “questionable” images found on work computer
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert publishes PoC exploit code for Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/115513/hacking/microsoft-exchange-exploit-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week a security researcher published on GitHub a proof-of-concept tool to hack Microsoft Exchange servers chaining two of ProxyLogon flaws. 
+
+
+
+On March 2nd, Microsoft has released emergency out-of-band security updates that address four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors bypassing shoddy patching, targeting network gateways<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/threat-actors-bypassing-shoddy-patching-targeting-network-gateways/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patch bypasses and network pivot vulnerabilities are becoming more common tools in the box of threat actors, according to new research.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Strikes Spain’s Employment Agency<a href="https://threatpost.com/ransomware-attack-spain-employment-agency/164703/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reports say that the agency in charge of managing Spain’s unemployment benefits has been hit by the Ryuk ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molson Coors brewing operations disrupted by cyberattack<a href="https://www.bleepingcomputer.com/news/security/molson-coors-brewing-operations-disrupted-by-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Molson Coors Beverage Company has suffered a cyberattack that is causing significant disruption to business operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dependency Confusion Exploit Being Used to Create More Copycat Packages<a href="https://cyware.com/news/dependency-confusion-exploit-being-used-to-create-more-copycat-packages-09f4133d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the release of a proof-of-concept for a new dependency confusion vulnerability by a researcher, hundreds of bogus npm packages have popped up targeting&nbsp;Amazon, Zillow, Lyft, and Slack NodeJS apps.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers roll out bill to protect critical infrastructure after Florida water hack<a href="https://thehill.com//policy/cybersecurity/542828-lawmakers-roll-out-bill-to-protect-critical-infrastructure-after-florida"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Thursday introduced legislation intended to protect critical infrastructure from cyberattacks after an unsuccessful hack of a Florida water treatment facility.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another 210,000 Americans Affected by Netgain Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/woodcreek-netgain-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare patients in Washington state impacted by cyber-attack on managed IT services provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole data from Norway parliament exploiting Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/115503/cyber-warfare-2/norway-parliament-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway parliament, the Storting, has suffered a new cyberattack, hackers stole data by exploiting recently disclosed Microsoft Exchange vulnerabilities.
+
+
+
+Norway 's parliament, the Storting, was hit by a new cyberattack, threat actors stole data exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Accountability framework” proposed to promote secure health care practices<a href="https://www.scmagazine.com/featured/accountability-framework-proposed-to-promote-secure-health-care-practices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CyberPeace Institute’s methodology holds promise, but it must further differentiate itself and overcome enforcement challenges.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Resurfaces with Revamped Backdoor Malware<a href="https://threatpost.com/fin8-resurfaces-backdoor-malware/164684/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial cyber-gang is running limited attacks ahead of broader offensives on point-of-sale systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: No federal civilian agency hacked in Exchange attacks, so far<a href="https://www.bleepingcomputer.com/news/security/cisa-no-federal-civilian-agency-hacked-in-exchange-attacks-so-far/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA officials said that, so far, there is no evidence of US federal civilian agencies compromised during ongoing attacks targeting Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Will Manage .Gov Domain in Effort to Enhance Security<a href="https://www.govinfosecurity.com/cisa-will-manage-gov-domain-in-effort-to-enhance-security-a-16159?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA will take over the day-to-day management of the official .gov top-level domain in April, adding a greater emphasis on security for the domains used for government websites.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021  -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trans Tracking Plugin Reported to Norwegian Authorities<a href="https://www.infosecurity-magazine.com:443/news/shinigami-eyes-reported-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Browser add-on that flags social networks as transphobic or trans-friendly may violate GDPR
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trouble is brewing, as cyber incident takes down Molson Coors operations<a href="https://www.scmagazine.com/home/security-news/trouble-is-brewing-as-cyber-incident-takes-down-molson-coors-operations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Molson Coors today reported that it has experienced a systems outage caused by a cybersecurity incident that has delayed and may continue to disrupt parts of the company’s business, including its brewery operations, production and shipments. While the buzz around the security industry was that the company experienced a ransomware attack, Molson Coors did not…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5, CISA Warn of Critical BIG-IP and BIG-IQ RCE Bugs<a href="https://threatpost.com/f5-cisa-critical-rce-bugs/164679/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The F5 flaws could affect the networking infrastructure for some of the largest tech and Fortune 500 companies – including Microsoft, Oracle and Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Using Mata Framework to Deliver TFlower Ransomware<a href="https://cyware.com/news/lazarus-group-using-mata-framework-to-deliver-tflower-ransomware-17319d23"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lazarus Group was spotted using the MATA framework, which it has been using since 2019, to deploy the TFlower ransomware. It has claimed a dozen victims so far.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia's answer to thwarting ransomware is good cyber hygiene<a href="https://www.zdnet.com/article/australias-answer-to-thwarting-ransomware-is-good-cyber-hygiene/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advice was provided in Locked Out: Tackling Australia's ransomware threat, which is a 14-page document [PDF] prepared by the Cyber Security Industry Advisory Committee.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Lurking Behind Fake FINRA Audit Notifications<a href="https://cyware.com/news/phishing-campaign-lurking-behind-fake-finra-audit-notifications-1673e810"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FINRA has warned brokerage firms and brokers against an ongoing phishing campaign impersonating the agency and sending fake compliance audit alerts to pilfer information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There is Still More to SolarWinds Attack<a href="https://cyware.com/news/there-is-still-more-to-solarwinds-attack-de2590d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and FireEye uncover three more malware strains associated with the suspected Russian perpetrators who breached the SolarWinds software between August and September 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC released for Microsoft Exchange ProxyLogon vulnerabilities<a href="https://therecord.media/poc-released-for-microsoft-exchange-proxylogon-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Vietnamese security researcher has published today the first functional public proof-of-concept exploit for a group of vulnerabilities in Microsoft Exchange servers known as ProxyLogon.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Related QNAPCrypt and SunCrypt Are?<a href="https://cyware.com/news/how-related-qnapcrypt-and-suncrypt-are-d6f2675f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Considering the duplication and behavioral differences between the two groups, Intezer researchers argue that QNAPCrypt may have been transferred to the SunCrypt operator and upgraded.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
