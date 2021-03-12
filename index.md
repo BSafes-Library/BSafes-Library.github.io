@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware now attacks Microsoft Exchange servers with ProxyLogon exploits<a href="https://www.bleepingcomputer.com/news/security/ransomware-now-attacks-microsoft-exchange-servers-with-proxylogon-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware called 'DEARCRY' is targeting Microsoft Exchange servers, with one victim stating they were infected via the ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Browser Attack Allows Tracking Users Online With JavaScript Disabled<a href="https://thehackernews.com/2021/03/new-browser-attack-allows-tracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a new side-channel that they say can be reliably exploited to leak information from web browsers that could then be leveraged to track users even when JavaScript is completely disabled.  "This is a side-channel attack which doesn't require any JavaScript to run," the researchers said. "This means script blockers cannot stop it. The attacks work even if you strip out all of the fun parts of the web browsing experience. This makes it very difficult to prevent without modifying deep parts of the operating system."  In avoiding JavaScript, the side-channel attacks are also architecturally agnostic, resulting in microarchitectural website fingerprinting attacks that work across hardware platforms, including Intel Core, AMD Ryzen, Samsung Exynos 2100, and Apple M1 CPUs — making it the first known side-channel attack on the iPhone maker's new ARM-based chipsets.  The  findings , which come from a group of academics from the Ben-Gurion U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New DEARCRY Ransomware is targeting Microsoft Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/new-dearcry-ransomware-is-targeting-microsoft-exchange-servers/"> Full Text</a>
 </p>
 <details>
