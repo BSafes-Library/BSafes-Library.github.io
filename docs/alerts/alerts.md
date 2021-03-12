@@ -138,7 +138,7 @@ CISA is aware of threat actors using open source tools to search for vulnerable 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2021 - CISA
+March 04, 2021 - NSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joint NSA and CISA Guidance on Strengthening Cyber Defense Through Protective DNS<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/04/joint-nsa-and-cisa-guidance-strengthening-cyber-defense-through"> Full Text</a>
@@ -158,6 +158,30 @@ Cisco Releases Security Updates<a href="https://us-cert.cisa.gov/ncas/current-ac
 <details>
   <summary>Abstract</summary>
 Cisco has released security updates to address a vulnerability in multiple Cisco products. An attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Security Update<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/04/vmware-releases-security-update"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released a security update to address a vulnerability in View Planner. An attacker could exploit this vulnerability to take control of an affected system.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Emergency Directive and Alert on Microsoft Exchange Vulnerabilities<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/03/cisa-issues-emergency-directive-and-alert-microsoft-exchange"> Full Text</a>
+</p> 
+<details>
+  <summary>Abstract</summary>
+CISA has issued Emergency Directive (ED) 21-02 and Alert AA21-062A addressing critical vulnerabilities in Microsoft Exchange products. Successful exploitation of these vulnerabilities allows an attacker to access on-premises Exchange servers, enabling them to gain persistent system access and control of an enterprise network. 
 </details>
 </div>
 
