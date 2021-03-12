@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Google slams Microsoft for 'naked corporate opportunism' | Sanders invites Bezos to testify at inequality hearing | AFL-CIO hits Rubio over union endorsement<a href="https://thehill.com//policy/technology/overnights/543008-hillicon-valley-google-slams-microsoft-for-naked-corporate"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and Google traded barbs Friday over proposals to require tech giants to pay news publishers for content, as lawmakers discussed challenges to the news industry at a House hearing. Amazon CEO Jeff BezosJeffrey (Jeff) Preston BezosPentagon awards 0M in contracts to Musk's SpaceX Philanthropist MacKenzie Scott remarries after divorce from Jeff Bezos Marianne Williamson: Refusal to hike minimum wage is part of 'rigged economy' MORE is also in the hot seat as a unionization vote is in progress at a warehouse in Alabama, with Sen. Bernie SandersBernie SandersVice promotes Liz Landers to chief political correspondent The Memo: How the COVID-19 year upended politics Jayapal asks for ethics investigation into Boebert, Gosar, Brooks MORE (I-Vt.) inviting the billionaire executive to testify at a hearing next week about inequality. Meanwhile, the AFL-CIO slammed Sen. Marco Rubio (R-Fla.) for backing the unionization push at the plant while simultaneously opposing a federal bill that would offer protections for employees trying to unionize. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Deep Instinct to offer $3 million ransomware warranty<a href="https://www.scmagazine.com/home/security-news/ransomware/deep-instinct-to-offer-3-million-ransomware-warranty/"> Full Text</a>
 </p>
 <details>
