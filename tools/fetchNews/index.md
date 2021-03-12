@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Hole Can Knock Smart Meters Offline<a href="https://threatpost.com/critical-security-smart-meter-offline/164753/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched Schneider Electric PowerLogic ION/PM smart meters are open to dangerous attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google fixes second actively exploited Chrome zero-day this month<a href="https://www.bleepingcomputer.com/news/security/google-fixes-second-actively-exploited-chrome-zero-day-this-month/"> Full Text</a>
 </p>
 <details>
