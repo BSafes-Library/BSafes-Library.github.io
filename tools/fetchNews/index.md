@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Million Times Downloaded iPhone app Let Attacker Listen to any User’s Call Recording<a href="https://cybersecuritynews.com/automatic-call-recorder-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The "Automatic call recorder" application is one of the popular applications used by iPhone users to record their calls. The app is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S. government to respond to SolarWinds hackers in weeks: Senior Official<a href="https://www.reuters.com/article/us-usa-biden-solarwinds/u-s-government-to-respond-to-solarwinds-hackers-in-weeks-senior-official-idUSKBN2B42LD?&web_view=true"> Full Text</a>
 </p>
 <details>
