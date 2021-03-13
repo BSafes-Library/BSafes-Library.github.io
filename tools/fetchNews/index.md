@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 12th 2021 - Encrypting Exchange servers<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-12th-2021-encrypting-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past two weeks, the cybersecurity news has been dominated by stories about the Microsoft Exchange ProxyLogon vulnerabilities. One overriding concern has been when will ransomware actors use the vulnerabilities to compromise and encrypt mail servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Google slams Microsoft for 'naked corporate opportunism' | Sanders invites Bezos to testify at inequality hearing | AFL-CIO hits Rubio over union endorsement<a href="https://thehill.com//policy/technology/overnights/543008-hillicon-valley-google-slams-microsoft-for-naked-corporate"> Full Text</a>
 </p>
 <details>
