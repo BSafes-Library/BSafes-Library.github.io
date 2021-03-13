@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. government to respond to SolarWinds hackers in weeks: Senior Official<a href="https://www.reuters.com/article/us-usa-biden-solarwinds/u-s-government-to-respond-to-solarwinds-hackers-in-weeks-senior-official-idUSKBN2B42LD?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration will respond “in weeks, not months” to the perpetrators of the SolarWinds hack, who used the U.S. tech company as a springboard to compromise a raft of U.S. government agencies, a senior administration official said on
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A Spectre proof-of-concept for a Spectre-proof web<a href="https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html?&web_view=true"> Full Text</a>
 </p>
 <details>
