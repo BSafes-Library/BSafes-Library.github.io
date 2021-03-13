@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+10,000+ WeLeakInfo customer records leaked<a href="https://securityaffairs.co/wordpress/115544/data-breach/weleakinfo-leaked-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeLeakInfo.com was a data breach notification service that was allowing its customers to verify if their credentials been compromised in data breaches. The service was claiming a database of over 12 billion records from over 10,000 data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 No sign of Exchange-related ransomware hitting UK orgs, claims NCSC as it urges admins to scan for compromises<a href="https://www.theregister.com/2021/03/12/no_exchange_ransomware_uk_ncsc_hafnium/?&web_view=true"> Full Text</a>
 </p>
 <details>
