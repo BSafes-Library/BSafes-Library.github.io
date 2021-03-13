@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet disruption in Russia coincided with the introduction of restrictions<a href="https://securityaffairs.co/wordpress/115511/security/russia-internet-disruption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at the NetBlocks Internet Observatory observed this week a temporary disruption of internet service in Russia due to new restrictions. 
+
+
+
+On Wednesday 10 March 2021, researchers from Network data from the NetBlocks Internet Observatory observed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

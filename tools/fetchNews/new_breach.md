@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10,000+ WeLeakInfo customer records leaked<a href="https://securityaffairs.co/wordpress/115544/data-breach/weleakinfo-leaked-data.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeLeakInfo.com was a data breach notification service that was allowing its customers to verify if their credentials been compromised in data breaches. The service was claiming a database of over 12 billion records from over 10,000 data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Settlement Reached Over Data Breach Impacting 24 Million Americans<a href="https://www.infosecurity-magazine.com:443/news/settlement-reached-over-amca-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retrieval-Masters Creditors Bureau reaches multi-state settlement over AMCA data breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10,000+ WeLeakInfo customer records leaked<a href="https://securityaffairs.co/wordpress/115544/data-breach/weleakinfo-leaked-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An actor claimed to have registered one of the domains of WeLeakInfo, accessed details of 10000+ WeLeakInfo' s customers, and leaked it.
+
+
+
+WeLeakInfo.com was a data breach notification service that was allowing its customers to verify if their credentials...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

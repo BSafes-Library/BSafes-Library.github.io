@@ -8,6 +8,62 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds lawsuits merge as stockholders begin documenting financial losses<a href="https://www.scmagazine.com/home/security-news/legal-security-news/solarwinds-lawsuits-merge-as-stockholders-begin-documenting-financial-losses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A judge approved the merger of three class action lawsuits against SolarWinds as shareholders detail tens of thousands of dollars in stock losses they claim resulted from the hack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As legislators work toward law requiring companies to alert feds to breaches, key hurdles emerge<a href="https://www.scmagazine.com/home/security-news/data-breach/as-legislators-work-toward-law-requiring-companies-to-alert-feds-to-breaches-key-hurdles-emerge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts say the idea has merit  – if only legislators can balance the promise with the potential liability and burden placed upon industry.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Credits Sweeping Arrests to Cracked Sky ECC Comms &nbsp;<a href="https://threatpost.com/europol-arrests-cracked-sky-ecc/164744/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sky ECC claims that cops cracked a fake version of the app being passed off by disgruntled reseller.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encrypted Comms Firm Denies Police Cracked User Messages<a href="https://www.infosecurity-magazine.com:443/news/encrypted-comms-denies-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol had claimed police accessed hundreds of millions of chats
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

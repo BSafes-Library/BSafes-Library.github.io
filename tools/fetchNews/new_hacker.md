@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Financially-Motivated Actor has Targeted Countless Industrial Organizations<a href="https://cyware.com/news/this-financially-motivated-actor-has-targeted-countless-industrial-organizations-2ad76d5d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts uncovered an attack campaign targeting oil and gas supply chain industries in Europe, the Middle East, Asia Pacific, and North America using spearphishing techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers hacked Indian govt sites via exposed git and env files<a href="https://www.bleepingcomputer.com/news/security/researchers-hacked-indian-govt-sites-via-exposed-git-and-env-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have now disclosed more information on how they were able to breach multiple websites of the Indian government. The full findings disclosed today shed light on the routes leveraged by the researchers, including finding exposed .git directories and .env files on some of these systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

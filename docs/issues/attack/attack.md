@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molson Coors Production Stopped Following a Cyberattack<a href="https://heimdalsecurity.com/blog/molson-coors-production-stopped-following-a-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack took place at Molson Coors breweries based in Milwaukee. It looks like the hack was crippling, leaving the brewery unable to produce beer at the time of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of a surge in cyber attacks against Microsoft Exchange<a href="https://securityaffairs.co/wordpress/115532/hacking/microsoft-exchange-servers-hacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a surge in cyber attacks against Microsoft Exchange servers exploiting the recently disclosed ProxyLogon vulnerabilities.
+
+
+
+Researchers at Check Point Research&nbsp;team reported that threat actors are actively exploiting the recently...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

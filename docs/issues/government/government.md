@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. government to respond to SolarWinds hackers in weeks: Senior Official<a href="https://www.reuters.com/article/us-usa-biden-solarwinds/u-s-government-to-respond-to-solarwinds-hackers-in-weeks-senior-official-idUSKBN2B42LD?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration will respond “in weeks, not months” to the perpetrators of the SolarWinds hack, who used the U.S. tech company as a springboard to compromise a raft of U.S. government agencies, a senior administration official said on
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China blasts Biden administration over new restrictions on Huawei<a href="https://thehill.com//policy/cybersecurity/542925-china-blasts-biden-administration-for-new-restrictions-on-huawei"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China criticized&nbsp;the Biden administration on Friday over new restrictions on the Chinese telecom giant Huawei, arguing the move shows that the U.S. cannot be trusted.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France, Cyber Operations and Sovereignty: The ‘Purist’ Approach to Sovereignty and Contradictory State Practice<a href="https://www.lawfareblog.com/france-cyber-operations-and-sovereignty-purist-approach-sovereignty-and-contradictory-state-practice"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rule of sovereignty that France asserts applies to cyberspace is incompatible with several of its own operations. The “purist” approach to a rule of sovereignty for cyber operations is at odds with the state practice of cyber-capable states.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

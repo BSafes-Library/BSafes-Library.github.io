@@ -8,6 +8,104 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No sign of Exchange-related ransomware hitting UK orgs, claims NCSC as it urges admins to scan for compromises<a href="https://www.theregister.com/2021/03/12/no_exchange_ransomware_uk_ncsc_hafnium/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre has reminded Brits to patch their Microsoft Exchange Server deployments against Hafnium attacks, 10 days after the US and wider infosec industry shouted the house down saying the same thing.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 12th 2021 - Encrypting Exchange servers<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-12th-2021-encrypting-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past two weeks, the cybersecurity news has been dominated by stories about the Microsoft Exchange ProxyLogon vulnerabilities. One overriding concern has been when will ransomware actors use the vulnerabilities to compromise and encrypt mail servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Instinct to offer $3 million ransomware warranty<a href="https://www.scmagazine.com/home/security-news/ransomware/deep-instinct-to-offer-3-million-ransomware-warranty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep Instinct announced that it would back its product with a performance guarantee that delivers false positivity rates of less than 1 percent, plus a ransomware warranty of up to $3 million per company for a single breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Group Claims Slew of Ransomware Attacks<a href="https://threatpost.com/revil-claims-ransomware-attacks/164739/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat group behind the Sodinokibi ransomware claimed to have recently compromised nine organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware may be targeting Microsoft’s Hafnium Exchange Server vulnerabilities<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-may-be-targeting-microsofts-hafnium-exchange-server-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed “a new family of ransomware being used after an initial compromise of unpatched on-premises Exchange Servers,” via its Security Intelligence Twitter account. The ransomware, called DoejoCrypt or DearCry, appears to be the latest threat associated with not patching the Hafnium Exchange Server vulnerabilities Microsoft first announced last week. DoejoCrypt was first noticed on…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside 2.0 Ransomware Promises Fastest Ever Encryption Speeds<a href="https://www.infosecurity-magazine.com:443/news/darkside-20-ransomware-fastest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group releases new features including VoIP calls and VM targeting
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molson Coors Suffers Suspected Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/molson-coors-suffers-suspected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trouble brewing for beverage giant
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

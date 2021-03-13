@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZHtrap botnet malware deploys honeypots to find more targets<a href="https://www.bleepingcomputer.com/news/security/new-zhtrap-botnet-malware-deploys-honeypots-to-find-more-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet is hunting down and transforming unpatched routers,&nbsp;DVRs, and UPnP network&nbsp;devices it takes over into honeypots that help it find other devices to infect.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Are Targeting Microsoft Exchange Servers With Ransomware<a href="https://thehackernews.com/2021/03/icrosoft-exchange-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It didn't take long. Intelligence agencies and cybersecurity researchers had been warning that unpatched Exchange Servers could open the pathway for ransomware infections in the wake of swift escalation of the attacks since last week.  Now it appears that threat actors have caught up.&nbsp;  According to the latest reports, cybercriminals are leveraging the heavily exploited ProxyLogon Exchange Server flaws to install a new strain of ransomware called "DearCry."  "Microsoft observed a new family of human operated ransomware attack customers – detected as Ransom:Win32/DoejoCrypt.A," Microsoft researcher Phillip Misner&nbsp; tweeted . "Human operated ransomware attacks are utilizing the Microsoft Exchange vulnerabilities to exploit customers."   In a&nbsp; joint advisory &nbsp;published by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI), the agencies warned that "adversaries could exploit these vulnerabili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware now attacks Microsoft Exchange servers with ProxyLogon exploits<a href="https://www.bleepingcomputer.com/news/security/ransomware-now-attacks-microsoft-exchange-servers-with-proxylogon-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware called 'DEARCRY' is targeting Microsoft Exchange servers, with one victim stating they were infected via the ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DEARCRY Ransomware is targeting Microsoft Exchange Servers<a href="https://www.bleepingcomputer.com/news/security/new-dearcry-ransomware-is-targeting-microsoft-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware called 'DEARCRY' is targeting Microsoft Exchange servers, with one victim stating they were infected via the ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

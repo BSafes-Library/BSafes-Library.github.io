@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Hacker Games” Launched to Encourage Development of Secure Coding Skills<a href="https://www.infosecurity-magazine.com:443/news/veracode-hacker-games-secure-coding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Participants will face a series of hands-on challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

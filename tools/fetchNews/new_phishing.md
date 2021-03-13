@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers promote fake cryptocurrency giveaways via Twitter ads<a href="https://www.bleepingcomputer.com/news/security/scammers-promote-fake-cryptocurrency-giveaways-via-twitter-ads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have started to use 'Promoted' tweets, otherwise known as Twitter ads, to spread cryptocurrency giveaway scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Campaign Targeting the Middle East has Connections with MuddyWater<a href="https://cyware.com/news/cyber-espionage-campaign-targeting-the-middle-east-has-connections-with-muddywater-c07d769d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers recently detected malicious activity targeting organizations in the Middle East and neighboring regions using spearphishing emails to distribute their harmful packages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google reCAPTCHA Abused in Multiple Phishing Campaigns<a href="https://cyware.com/news/google-recaptcha-abused-in-multiple-phishing-campaigns-99a2d585"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior-level executives in the banking and IT sectors are being targeted for their Office 365 credentials in a phishing campaign that uses a fake Google reCAPTCHA system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

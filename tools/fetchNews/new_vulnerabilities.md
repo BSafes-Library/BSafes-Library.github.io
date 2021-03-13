@@ -8,6 +8,146 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 13, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Spectre proof-of-concept for a Spectre-proof web<a href="https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has published the proof-of-concept (PoC) code that confirms the practicality of Spectre exploits against JavaScript engines. The PoC code is expected to work against all modern browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Hole Can Knock Smart Meters Offline<a href="https://threatpost.com/critical-security-smart-meter-offline/164753/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched Schneider Electric PowerLogic ION/PM smart meters are open to dangerous attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes second actively exploited Chrome zero-day this month<a href="https://www.bleepingcomputer.com/news/security/google-fixes-second-actively-exploited-chrome-zero-day-this-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has fixed a second actively exploited Chrome zero-day this month with the release of&nbsp;Chrome&nbsp;89.0.4389.90&nbsp;to the&nbsp;Stable desktop channel&nbsp;for Windows, Mac, and Linux users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Fixes Critical Security Flaw in Manufacturing Software<a href="https://cybersecuritynews.com/sap-fixes-critical-security-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, SAP has fixed a very critical security flaw in its manufacturing software, this critical-bug fix was a spring of 18 security...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of new threat to 'unpatched' networks<a href="https://thehill.com//policy/cybersecurity/542908-microsoft-warns-of-new-threat-to-unpatched-networks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned late Thursday of a threat detected to unpatched networks from a new family of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah Company Stored Passport Scans on Unsecured Server<a href="https://www.infosecurity-magazine.com:443/news/utah-company-unsecured-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Premier Diagnostics data breach exposes personal information of over 50k customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three flaws that sat in Linux kernel since 2006 could deliver root privileges to attackers<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/three-flaws-that-sat-in-linux-kernel-since-2006-could-deliver-root-privileges-to-attackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three recently unearthed vulnerabilities in the Linux kernel, located in the iSCSI module used for accessing shared data storage facilities, could allow root privileges to anyone with a user account.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google shares Spectre PoC targeting browser JavaScript engines<a href="https://www.bleepingcomputer.com/news/security/google-shares-spectre-poc-targeting-browser-javascript-engines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has published JavaScript&nbsp;proof-of-concept (PoC) code to demonstrate the practicality of using Spectre exploits targeting web browsers to gain access to information from a browser's&nbsp;memory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Install Latest Microsoft Exchange Server Updates Urgently<a href="https://www.infosecurity-magazine.com:443/news/ncsc-install-exchange-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orgs advised to take steps to avoid compromise by increasing range of threat actors
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious Vulnerabilities Found in Schneider Electric Power Meters<a href="https://www.securityweek.com/serious-vulnerabilities-found-schneider-electric-power-meters?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity firm Claroty this week disclosed technical details for two potentially serious vulnerabilities affecting PowerLogic smart meters made by Schneider Electric.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

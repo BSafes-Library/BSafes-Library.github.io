@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Million Times Downloaded iPhone app Let Attacker Listen to any User’s Call Recording<a href="https://cybersecuritynews.com/automatic-call-recorder-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The "Automatic call recorder" application is one of the popular applications used by iPhone users to record their calls. The app is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can private data be recovered from “sanitized” images?<a href="https://www.helpnetsecurity.com/2021/03/12/recover-data-sanitized-images/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the NYU Tandon School of Engineering found that PP-GAN designs can be subverted to pass privacy checks, while still allowing secret information to be extracted from sanitized images.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021  <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
