@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No sign of Exchange-related ransomware hitting UK orgs, claims NCSC as it urges admins to scan for compromises<a href="https://www.theregister.com/2021/03/12/no_exchange_ransomware_uk_ncsc_hafnium/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre has reminded Brits to patch their Microsoft Exchange Server deployments against Hafnium attacks, 10 days after the US and wider infosec industry shouted the house down saying the same thing.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molson Coors Production Stopped Following a Cyberattack<a href="https://heimdalsecurity.com/blog/molson-coors-production-stopped-following-a-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack took place at Molson Coors breweries based in Milwaukee. It looks like the hack was crippling, leaving the brewery unable to produce beer at the time of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
