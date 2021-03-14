@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New PoC for Microsoft Exchange bugs puts attacks in reach of anyone<a href="https://www.bleepingcomputer.com/news/security/new-poc-for-microsoft-exchange-bugs-puts-attacks-in-reach-of-anyone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has released a new proof-of-concept exploit this weekend that requires slight modification to install web shells on Microsoft Exchange servers vulnerable to the actively exploited ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Experts found 15 flaws in Netgear JGS516PE switch, including a critical RCE<a href="https://securityaffairs.co/wordpress/115586/hacking/netgear-soho-flaws.html"> Full Text</a>
 </p>
 <details>
