@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining Botnet Targets Unpatched Vulnerabilities in Cloud Servers<a href="https://cyware.com/news/cryptomining-botnet-targets-unpatched-vulnerabilities-in-cloud-servers-29f9f8a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An upgraded version of z0Miner, a cryptomining botnet, has been found attempting to take over Jenkins and ElasticSearch servers to mine for Monero cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

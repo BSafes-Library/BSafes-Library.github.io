@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XDR Firm Cynet Raises $40 Million Series C Funding<a href="https://www.securityweek.com/xdr-firm-cynet-raises-40-million-series-c-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Venture funding continues to flow this week, with extended detection and response (XDR) firm Cynet adding $40 million to its coffers via a Series C funding round led by Greenfield Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SailPoint Appoints Heather Gantt-Evans as New CISO<a href="https://www.infosecurity-magazine.com:443/news/sailpoint-heather-ganttevans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gantt-Evans joins SailPoint from retail giant The Home Depot
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The fire in the OVH datacenter also impacted APTs and cybercrime groups<a href="https://securityaffairs.co/wordpress/115559/apt/ovh-fire-apt-impact.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fire at the OVH datacenter in Strasbourg also impacted the command and control infrastructure used by several nation-state APT groups and cybercrime gangs.
+
+
+
+OVH, one of the largest hosting providers in the world, has suffered this week a terrible...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

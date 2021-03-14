@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2021
+March 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 305<a href="https://securityaffairs.co/wordpress/115584/breaking-news/security-affairs-newsletter-round-305.html"> Full Text</a>
@@ -58,7 +58,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2021
+March 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google releases Spectre PoC code exploit for Chrome browser<a href="https://securityaffairs.co/wordpress/115573/hacking/google-chrome-spectre-poc.html"> Full Text</a>
@@ -78,7 +78,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge to use a four-week release cycle to sync with Chrome<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-to-use-a-four-week-release-cycle-to-sync-with-chrome/"> Full Text</a>
@@ -94,7 +94,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency Platforms Witness Another Round of Cyber Threats<a href="https://cyware.com/news/cryptocurrency-platforms-witness-another-round-of-cyber-threats-c30e8cbb"> Full Text</a>
@@ -110,7 +110,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CompTIA Security Certification Prep — Lifetime Access for just $30<a href="https://thehackernews.com/2021/03/comptia-security-certification-prep.html"> Full Text</a>
@@ -126,7 +126,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CEO of Sky Global encrypted chat platform indicted by US<a href="https://www.bleepingcomputer.com/news/security/ceo-of-sky-global-encrypted-chat-platform-indicted-by-us/"> Full Text</a>
@@ -142,7 +142,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptomining Botnet Targets Unpatched Vulnerabilities in Cloud Servers<a href="https://cyware.com/news/cryptomining-botnet-targets-unpatched-vulnerabilities-in-cloud-servers-29f9f8a3"> Full Text</a>
@@ -158,7 +158,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 15-year-old Linux kernel bugs let attackers gain root privileges<a href="https://www.bleepingcomputer.com/news/security/15-year-old-linux-kernel-bugs-let-attackers-gain-root-privileges/"> Full Text</a>
@@ -174,7 +174,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found three new 15-year-old bugs in a Linux kernel module<a href="https://securityaffairs.co/wordpress/115565/security/linux-kernel-flaws.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The fire in the OVH datacenter also impacted APTs and cybercrime groups<a href="https://securityaffairs.co/wordpress/115559/apt/ovh-fire-apt-impact.html"> Full Text</a>
@@ -214,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 13, 2021
+March 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New variant for Mac Malware XCSSET compiled for M1 Chips<a href="https://securityaffairs.co/wordpress/115552/hacking/xcsset-mac-malware-m1-chips.html"> Full Text</a>

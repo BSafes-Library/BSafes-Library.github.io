@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Sues Employee for Stealing Trade Secrets<a href="https://www.infosecurity-magazine.com:443/news/apple-sues-employee-for-stealing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former Apple materials lead sued after allegedly leaking trade secrets to media
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

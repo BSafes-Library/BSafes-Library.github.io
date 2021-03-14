@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google releases Spectre PoC code exploit for Chrome browser<a href="https://securityaffairs.co/wordpress/115573/hacking/google-chrome-spectre-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released proof-of-concept code to conduct Spectre attacks against its Chrome browser to share knowledge of browser-based side-channel attacks.
+
+
+
+Google released proof-of-concept code for conducting a Spectre attack against its Chrome browser...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15-year-old Linux kernel bugs let attackers gain root privileges<a href="https://www.bleepingcomputer.com/news/security/15-year-old-linux-kernel-bugs-let-attackers-gain-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities found&nbsp;in the iSCSI subsystem of the Linux kernel could allow local attackers with basic user privileges&nbsp;to gain root privileges on unpatched Linux systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found three new 15-year-old bugs in a Linux kernel module<a href="https://securityaffairs.co/wordpress/115565/security/linux-kernel-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three 15-year-old flaws in Linux kernel could be exploited by local attackers with basic user privileges&nbsp;to gain root privileges on vulnerable Linux systems.
+
+
+
+GRIMM researchers found three vulnerabilities in the SCSI (Small Computer System Interface)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

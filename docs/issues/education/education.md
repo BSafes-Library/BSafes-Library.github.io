@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CompTIA Security Certification Prep — Lifetime Access for just $30<a href="https://thehackernews.com/2021/03/comptia-security-certification-prep.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At long last, top companies are starting to take cybersecurity seriously. As a consequence, technical recruiters are looking for people with hacking skills and certifications to prove it.  CompTIA is seen as the gold standard when it comes to cybersecurity exams, with several certifications to choose from.  If you would like to scoop them all, &nbsp;The CompTIA Security Infrastructure Expert Bundle &nbsp;is worth your attention. This collection of courses offers 111 hours of video tutorials, working towards four certifications: Security+, CySA+, CASP, and PenTest+.   The content in this bundle is worth $1,180 — but The Hacker News has partnered with iCollege to bring the price crashing down.&nbsp;  Special Offer &nbsp;— Right now, you can &nbsp;get lifetime access to all four courses for just $29.99 . This is the final reduction on this bundle, so you won't get a better price!  Whether you want to become a cybersecurity specialist or just build a strong technical résumé, taking CompTIA exams is a smart move.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
