@@ -34,6 +34,206 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 305<a href="https://securityaffairs.co/wordpress/115584/breaking-news/security-affairs-newsletter-round-305.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Chinese hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google releases Spectre PoC code exploit for Chrome browser<a href="https://securityaffairs.co/wordpress/115573/hacking/google-chrome-spectre-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released proof-of-concept code to conduct Spectre attacks against its Chrome browser to share knowledge of browser-based side-channel attacks.
+
+
+
+Google released proof-of-concept code for conducting a Spectre attack against its Chrome browser...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge to use a four-week release cycle to sync with Chrome<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-to-use-a-four-week-release-cycle-to-sync-with-chrome/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major 'Stable' versions of Microsoft Edge will now be released every four weeks to synchronize with the new four-week release cycle announced by Google Chrome.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Platforms Witness Another Round of Cyber Threats<a href="https://cyware.com/news/cryptocurrency-platforms-witness-another-round-of-cyber-threats-c30e8cbb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 25,000 Coinbase users have been compromised in a phishing campaign in over two weeks with 69% of the fraudulent correspondence originating from India, followed by Brazil and the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CompTIA Security Certification Prep — Lifetime Access for just $30<a href="https://thehackernews.com/2021/03/comptia-security-certification-prep.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At long last, top companies are starting to take cybersecurity seriously. As a consequence, technical recruiters are looking for people with hacking skills and certifications to prove it.  CompTIA is seen as the gold standard when it comes to cybersecurity exams, with several certifications to choose from.  If you would like to scoop them all,  The CompTIA Security Infrastructure Expert Bundle  is worth your attention. This collection of courses offers 111 hours of video tutorials, working towards four certifications: Security+, CySA+, CASP, and PenTest+.   The content in this bundle is worth $1,180 — but The Hacker News has partnered with iCollege to bring the price crashing down.   Special Offer  — Right now, you can  get lifetime access to all four courses for just $29.99 . This is the final reduction on this bundle, so you won't get a better price!  Whether you want to become a cybersecurity specialist or just build a strong technical résumé, taking CompTIA exams is a smart move.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CEO of Sky Global encrypted chat platform indicted by US<a href="https://www.bleepingcomputer.com/news/security/ceo-of-sky-global-encrypted-chat-platform-indicted-by-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has indicted the CEO of encrypted messaging company Sky Global, and an associate for allegedly aiding criminal enterprises avoid detection by law enforcement.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining Botnet Targets Unpatched Vulnerabilities in Cloud Servers<a href="https://cyware.com/news/cryptomining-botnet-targets-unpatched-vulnerabilities-in-cloud-servers-29f9f8a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An upgraded version of z0Miner, a cryptomining botnet, has been found attempting to take over Jenkins and ElasticSearch servers to mine for Monero cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15-year-old Linux kernel bugs let attackers gain root privileges<a href="https://www.bleepingcomputer.com/news/security/15-year-old-linux-kernel-bugs-let-attackers-gain-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities found in the iSCSI subsystem of the Linux kernel could allow local attackers with basic user privileges to gain root privileges on unpatched Linux systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found three new 15-year-old bugs in a Linux kernel module<a href="https://securityaffairs.co/wordpress/115565/security/linux-kernel-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three 15-year-old flaws in Linux kernel could be exploited by local attackers with basic user privileges to gain root privileges on vulnerable Linux systems.
+
+
+
+GRIMM researchers found three vulnerabilities in the SCSI (Small Computer System Interface)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The fire in the OVH datacenter also impacted APTs and cybercrime groups<a href="https://securityaffairs.co/wordpress/115559/apt/ovh-fire-apt-impact.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fire at the OVH datacenter in Strasbourg also impacted the command and control infrastructure used by several nation-state APT groups and cybercrime gangs.
+
+
+
+OVH, one of the largest hosting providers in the world, has suffered this week a terrible...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New variant for Mac Malware XCSSET compiled for M1 Chips<a href="https://securityaffairs.co/wordpress/115552/hacking/xcsset-mac-malware-m1-chips.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers spotted a new variant of the XCSSET Mac malware that compiled for devices running on Apple M1 chips.
+
+
+
+XCSSET is a Mac malware that was discovered by Trend Micro in August 2020, it was spreading through Xcode projects and exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 13, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
