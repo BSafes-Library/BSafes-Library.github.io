@@ -11,6 +11,38 @@ nav_order: 900220
 March 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New PoC for Microsoft Exchange bugs puts attacks in reach of anyone<a href="https://www.bleepingcomputer.com/news/security/new-poc-for-microsoft-exchange-bugs-puts-attacks-in-reach-of-anyone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has released a new proof-of-concept exploit this weekend that requires slight modification to install web shells on Microsoft Exchange servers vulnerable to the actively exploited ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 15 flaws in Netgear JGS516PE switch, including a critical RCE<a href="https://securityaffairs.co/wordpress/115586/hacking/netgear-soho-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear has released security and firmware updates for its JGS516PE Ethernet switch to address 15 vulnerabilities, including a critica remote code execution issue.
+
+
+
+Netgear has released security and firmware updates to address 15 vulnerabilities in its JGS516PE...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google releases Spectre PoC code exploit for Chrome browser<a href="https://securityaffairs.co/wordpress/115573/hacking/google-chrome-spectre-poc.html"> Full Text</a>
 </p>
 <details>

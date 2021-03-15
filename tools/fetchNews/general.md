@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Platforms Witness Another Round of Cyber Threats<a href="https://cyware.com/news/cryptocurrency-platforms-witness-another-round-of-cyber-threats-c30e8cbb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 25,000 Coinbase users have been compromised in a phishing campaign in over two weeks with 69% of the fraudulent correspondence originating from India, followed by Brazil and the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

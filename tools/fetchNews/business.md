@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge to use a four-week release cycle to sync with Chrome<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-to-use-a-four-week-release-cycle-to-sync-with-chrome/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major 'Stable' versions of Microsoft Edge will now be released every four weeks to synchronize with the new four-week release cycle announced by Google Chrome.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
