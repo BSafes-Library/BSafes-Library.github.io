@@ -37,6 +37,74 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+RTM and Quoter Ransomware - A Deadly Combo<a href="https://cyware.com/news/rtm-and-quoter-ransomware-a-deadly-combo-2b1072f6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RTM banking trojan is back with an arsenal of tricks. A new ransomware family—Quoter—has joined the party too.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss authorities raid home of hacker potentially responsible for breaching surveillance cameras<a href="https://thehill.com//policy/cybersecurity/543255-swiss-authorities-raid-home-of-hacker-potentially-responsible-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss law enforcement raided the home of a hacker potentially responsible for breaching around 150,000 surveillance cameras, exposing sensitive footage from homes, hospitals, and prisons. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ indicted the CEO of Sky Global encrypted chat platform<a href="https://securityaffairs.co/wordpress/115629/cyber-crime/sky-global-ceo-indicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of the encrypted communications firm Sky Global has been indicted in the US on charges of facilitating international drug trafficking
+
+
+
+The head of the Canada-based company Sky Global that provides encrypted communications, Jean-Francois Eap,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks See Fundamental Changes, A Year into COVID-19<a href="https://threatpost.com/cyberattacks-fundamental-changes-covid-19/164775/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year after COVID-19 was officially determined to be a pandemic, the methods and tactics used by cybercriminals have drastically changed.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Twitter now supports multiple 2FA security keys on mobile and web<a href="https://www.bleepingcomputer.com/news/security/twitter-now-supports-multiple-2fa-security-keys-on-mobile-and-web/"> Full Text</a>
 </p>
 <details>

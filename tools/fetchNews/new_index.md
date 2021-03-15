@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Side-Channel Attack that Works Without Scripting Support<a href="https://cyware.com/news/a-side-channel-attack-that-works-without-scripting-support-20e25757"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered the first browser side-channel attack that is JavaScript-free and it appears that the new Apple M1 chips may be vulnerable to the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple APT Groups Now Targeting Microsoft Exchange Servers<a href="https://cyware.com/news/multiple-apt-groups-now-targeting-microsoft-exchange-servers-09311355"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several threat actors have been found exploiting the recently disclosed ProxyLogon vulnerabilities in Microsoft Exchange servers including &nbsp;APT27, LuckyMouse, Calypso, and Winnti Group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 RTM and Quoter Ransomware - A Deadly Combo<a href="https://cyware.com/news/rtm-and-quoter-ransomware-a-deadly-combo-2b1072f6"> Full Text</a>
 </p>
 <details>
