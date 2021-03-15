@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Metamorfo Banking Trojan Leverages AutoHotKey (AHK) and the AHK compiler to Evade Detection<a href="https://cybersecuritynews.com/metamorfo-banking-trojan/"> Full Text</a>
@@ -50,7 +50,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack at Buffalo Public Schools Leads to Cancelation of Classes<a href="https://www.cyberscoop.com/buffalo-public-schools-canceled-cyberattack-ransomware/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rising Demand for DDoS Protection Software Market By 2020-2028<a href="https://thehackernews.com/2021/03/rising-demand-for-ddos-protection.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Judge Upholds Privacy Lawsuit Against Google<a href="https://www.infosecurity-magazine.com:443/news/judge-upholds-privacy-lawsuit/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProxyLogon Microsoft Exchange exploit is completely out of the bag by now<a href="https://securityaffairs.co/wordpress/115616/hacking/microsoft-exchange-exploit-is-out.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Browser cache-based side-channel Attack that Works Even When Script Execution is Completely Blocked<a href="https://cybersecuritynews.com/browser-cache-based-side-channel-attack/"> Full Text</a>
@@ -134,7 +134,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Indicts Head of Alleged Crime Chat Comms Service<a href="https://www.securityweek.com/us-indicts-head-alleged-crime-chat-comms-service?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CEO of Encrypted Chat Platform Indicted for Aiding Organised Criminals<a href="https://thehackernews.com/2021/03/ceo-of-encrypted-chat-platform-indicted.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 25% of UK Workers Let Their Children Use Their Work Device<a href="https://www.infosecurity-magazine.com:443/news/workers-let-children-use-work/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC is not aware of ransomware attacks compromising UK orgs through Microsoft Exchange bugs<a href="https://securityaffairs.co/wordpress/115605/hacking/ncsc-microsoft-exchange-assessment.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit 32 Indian firms via Microsoft email servers<a href="https://ciso.economictimes.indiatimes.com/news/hackers-hit-32-indian-firms-via-microsoft-email-servers-ld/81510202?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Dates Confirmed for Infosecurity Europe 2021<a href="https://www.infosecurity-magazine.com:443/news/dates-confirmed-infosecurity/"> Full Text</a>
@@ -234,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes the third actively exploited Chrome 0-Day since January<a href="https://securityaffairs.co/wordpress/115600/security/google-chrome-0-day.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes the third actively exploited Chrome 0-Day since January<a href="https://securityaffairs.co/wordpress/115600/security/google-chrome-0-day.html?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber and Lyft Pool Driver Info to Boost Passenger Safety<a href="https://www.infosecurity-magazine.com:443/news/uber-and-lyft-pool-driver-info/"> Full Text</a>
@@ -286,7 +286,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: NCSC is not aware of ransomware attacks compromising UK businesses through Microsoft Exchange bugs<a href="https://securityaffairs.co/wordpress/115605/hacking/ncsc-microsoft-exchange-assessment.html?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encrypted Comms CEO Indicted in Drug Trafficking Conspiracy<a href="https://www.infosecurity-magazine.com:443/news/encrypted-comms-ceo-indicted-drug/"> Full Text</a>
@@ -318,7 +318,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GLEIF CA Stakeholder Group accelerates integration of LEIs in digital certificates<a href="https://www.helpnetsecurity.com/2021/03/15/gleif-ca-stakeholder-group/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exchange Exploit Attempts Surge Sixfold as Ransomware Lands<a href="https://www.infosecurity-magazine.com:443/news/exchange-exploit-attempts-sixfold/"> Full Text</a>
@@ -350,7 +350,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: This Spectre proof-of-concept shows how dangerous these attacks can be<a href="https://www.zdnet.com/article/google-this-spectre-proof-of-concept-shows-how-dangerous-these-attacks-can-be/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alarming number of consumers impacted by identity theft, application fraud and account takeover<a href="https://www.helpnetsecurity.com/2021/03/15/consumers-impacted-by-identity-theft/?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Britain must boost cyber-attack capacity, PM Boris Johnson says<a href="https://ciso.economictimes.indiatimes.com/news/britain-must-boost-cyber-attack-capacity-pm-boris-johnson-says/81503851?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Unsanitized PDF Documents from Security Agencies Reveal Hidden Data and Allow Exploits<a href="https://therecord.media/security-agencies-leak-sensitive-data-by-failing-to-sanitize-pdf-files/?&web_view=true"> Full Text</a>
