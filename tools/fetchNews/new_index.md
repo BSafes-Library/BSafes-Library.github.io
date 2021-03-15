@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ZHtrap Botnet Deploys Honeypots to Trap and Takeover Infected Devices From Competing Botnets<a href="https://therecord.media/zhtrap-botnet-deploys-honeypots-to-trapsteal-bots-from-rivals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered last week a new IoT botnet that deploys honeypots to capture attacks from rival botnets and then uses that information to hijack its rivals’ infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OVH Data Center Fire Impacts Cyber-criminals<a href="https://www.infosecurity-magazine.com:443/news/ovh-data-center-fire-impacts/"> Full Text</a>
 </p>
 <details>
