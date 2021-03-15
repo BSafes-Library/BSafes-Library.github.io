@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Actors Coming After Your Hypervisor<a href="https://cyware.com/news/ransomware-actors-coming-after-your-hypervisor-351a6b0a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, two retooled ransomware strains were found exploiting vulnerabilities in the VMware ESXi hypervisor system and encrypting virtual hard drives or VMs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A Side-Channel Attack that Works Without Scripting Support<a href="https://cyware.com/news/a-side-channel-attack-that-works-without-scripting-support-20e25757"> Full Text</a>
 </p>
 <details>
