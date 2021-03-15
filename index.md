@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Blender website in maintenance mode after hacking attempt<a href="https://www.bleepingcomputer.com/news/security/blender-website-in-maintenance-mode-after-hacking-attempt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blender.org, the official website of the popular 3D computer graphics software Blender, is now in maintenance mode according to a message displayed on the site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 School district IT leaders grade their handling of past malware attacks<a href="https://www.scmagazine.com/disaster-recovery/school-district-it-leaders-grade-their-handling-of-past-malware-attacks/"> Full Text</a>
 </p>
 <details>
