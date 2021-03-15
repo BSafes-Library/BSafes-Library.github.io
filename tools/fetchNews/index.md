@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+What You Need to Know About RedEcho<a href="https://cyware.com/news/what-you-need-to-know-about-redecho-ed0f0f6b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The victimology of this Chinese hacker group coincides with that of APT41, also known as Barium. Moreover, RedEcho boasts of a robust infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Actors Coming After Your Hypervisor<a href="https://cyware.com/news/ransomware-actors-coming-after-your-hypervisor-351a6b0a"> Full Text</a>
 </p>
 <details>
