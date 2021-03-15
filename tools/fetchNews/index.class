@@ -34,6 +34,386 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metamorfo Banking Trojan Leverages AutoHotKey (AHK) and the AHK compiler to Evade Detection<a href="https://cybersecuritynews.com/metamorfo-banking-trojan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A legitimate binary for creating shortcut keys in Windows is being used to help the malware sneak past defenses, in a rash...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at Buffalo Public Schools Leads to Cancelation of Classes<a href="https://www.cyberscoop.com/buffalo-public-schools-canceled-cyberattack-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attackers appear to have taken a swipe at Buffalo Public Schools in recent days, screeching the school system’s plans for remote classes and in-person learning to a halt on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising Demand for DDoS Protection Software Market By 2020-2028<a href="https://thehackernews.com/2021/03/rising-demand-for-ddos-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed Denial of Service (DDoS) attack is a malicious form of attack that disrupts the regular network traffic by overwhelming the website with more traffic than the server can handle. The main aim of this kind of cyberattack is to render the website inoperable.  Over recent years, these kinds of attacks are increasing, fueling the demand for the  best DDoS protection  software solutions. Many unplanned data center outages are owing to DDoS attacks. The threat of DDoS is due to access to easy-to-use tools and the profit potential through extortion.   The attacks target businesses directly, leading to substantial financial and personal losses, making it critical to have robust DDoS protection software solutions in place.  According to the report of  Market Research Inc , the DDoS protection Software Market is predicted to reach +14% CAGR by 2020 – 2028.   Important Statistics to illustrate the growing demand for DDoS Software Solutions  Demand for the DDoS software market is on th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Judge Upholds Privacy Lawsuit Against Google<a href="https://www.infosecurity-magazine.com:443/news/judge-upholds-privacy-lawsuit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will face allegations that it collected data of private browsing mode users
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyLogon Microsoft Exchange exploit is completely out of the bag by now<a href="https://securityaffairs.co/wordpress/115616/hacking/microsoft-exchange-exploit-is-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher released a new PoC exploit for ProxyLogon issues that could be adapted to install web shells on vulnerable Microsoft Exchange servers.
+
+
+
+A security researcher has released a new proof-of-concept exploit that could be adapted to install...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Browser cache-based side-channel Attack that Works Even When Script Execution is Completely Blocked<a href="https://cybersecuritynews.com/browser-cache-based-side-channel-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, a group of security researchers from the University of Michigan, the University of the Negev, and the University of Adelaide have...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Indicts Head of Alleged Crime Chat Comms Service<a href="https://www.securityweek.com/us-indicts-head-alleged-crime-chat-comms-service?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The indictments were presented Friday against Jean-Francois Eap, the head of Sky Global, and Thomas Herdman, a former high-level distributor of Sky Global devices, the department said Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CEO of Encrypted Chat Platform Indicted for Aiding Organised Criminals<a href="https://thehackernews.com/2021/03/ceo-of-encrypted-chat-platform-indicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Friday announced an indictment against Jean-Francois Eap, the CEO of encrypted messaging company Sky Global, and an associate for wilfully participating in a criminal enterprise to help international drug traffickers avoid law enforcement.  Eap (also known as "888888") and Thomas Herdman, a former high-level distributor of Sky Global devices, have been charged with a conspiracy to violate the federal Racketeer Influenced and Corrupt Organizations Act (RICO), according to warrants issued for their arrests.  "The indictment alleges that Sky Global generated hundreds of millions of dollars providing a service that allowed criminal networks around the world to hide their international drug trafficking activity from law enforcement," Acting U.S. Attorney Randy Grossman  said  in the announcement. "This groundbreaking investigation should send a serious message to companies who think they can aid criminals in their unlawful ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+25% of UK Workers Let Their Children Use Their Work Device<a href="https://www.infosecurity-magazine.com:443/news/workers-let-children-use-work/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Study indicates that insecure practices remain prevalent among home workers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC is not aware of ransomware attacks compromising UK orgs through Microsoft Exchange bugs<a href="https://securityaffairs.co/wordpress/115605/hacking/ncsc-microsoft-exchange-assessment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) urges UK organizations to install the patches for the recently disclosed vulnerabilities in Microsoft Exchange.
+
+
+
+The UK's National Cyber Security Centre is urging UK organizations to install security patches...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit 32 Indian firms via Microsoft email servers<a href="https://ciso.economictimes.indiatimes.com/news/hackers-hit-32-indian-firms-via-microsoft-email-servers-ld/81510202?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hardest-hit sectors in India are finance and banking institutions (28%), government\military organizations (16%), manufacturing (12.5%), insurance\legal (9.5%), and others (34%), according to CPR.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Dates Confirmed for Infosecurity Europe 2021<a href="https://www.infosecurity-magazine.com:443/news/dates-confirmed-infosecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity event will take place July 13-15 at London’s Olympia
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the third actively exploited Chrome 0-Day since January<a href="https://securityaffairs.co/wordpress/115600/security/google-chrome-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed a new zero-day flaw in its Chrome browser that has been actively exploited in the wild, the second one within a month
+
+
+
+Google has fixed a new actively exploited zero-day in its Chrome browser, this is the second zero-day issue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the third actively exploited Chrome 0-Day since January<a href="https://securityaffairs.co/wordpress/115600/security/google-chrome-0-day.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2021-21193, is a use after free vulnerability in the Blink rendering engine. Google addressed the issue with the 89.0.4389.90 version for Windows, Mac, and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber and Lyft Pool Driver Info to Boost Passenger Safety<a href="https://www.infosecurity-magazine.com:443/news/uber-and-lyft-pool-driver-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Program will keep deactivated drivers off the roads
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: NCSC is not aware of ransomware attacks compromising UK businesses through Microsoft Exchange bugs<a href="https://securityaffairs.co/wordpress/115605/hacking/ncsc-microsoft-exchange-assessment.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK’s NCSC is urging UK organizations to install security patches for their Microsoft Exchange installs and run Microsoft Safety Scanner to detect webshells employed in the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encrypted Comms CEO Indicted in Drug Trafficking Conspiracy<a href="https://www.infosecurity-magazine.com:443/news/encrypted-comms-ceo-indicted-drug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arrest warrant issued for Sky Global boss Jean-Francois Eap
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GLEIF CA Stakeholder Group accelerates integration of LEIs in digital certificates<a href="https://www.helpnetsecurity.com/2021/03/15/gleif-ca-stakeholder-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In accordance with ISO 17442-2, the CA Stakeholder Group will develop and promote best practice guidelines and use cases for LEI integration across the digital identity industry.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Exploit Attempts Surge Sixfold as Ransomware Lands<a href="https://www.infosecurity-magazine.com:443/news/exchange-exploit-attempts-sixfold/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point warns of major increase in attack activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: This Spectre proof-of-concept shows how dangerous these attacks can be<a href="https://www.zdnet.com/article/google-this-spectre-proof-of-concept-shows-how-dangerous-these-attacks-can-be/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a proof of concept (PoC) code to demonstrate the practicality of Spectre side-channel attacks against a browser's JavaScript engine to leak information from its memory.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alarming number of consumers impacted by identity theft, application fraud and account takeover<a href="https://www.helpnetsecurity.com/2021/03/15/consumers-impacted-by-identity-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Aite Group and GIACT uncovers the pervasiveness of identity theft perpetrated against U.S. consumers and tracks shifts in banking behaviors adopted as a result of the pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Britain must boost cyber-attack capacity, PM Boris Johnson says<a href="https://ciso.economictimes.indiatimes.com/news/britain-must-boost-cyber-attack-capacity-pm-boris-johnson-says/81503851?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Britain needs to boost its capacity to conduct cyber attacks on foreign enemies, Prime Minister Boris Johnson said before the publication of a national security review next week.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Unsanitized PDF Documents from Security Agencies Reveal Hidden Data and Allow Exploits<a href="https://therecord.media/security-agencies-leak-sensitive-data-by-failing-to-sanitize-pdf-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security agencies are doing a poor job at sanitizing PDF documents on their official websites and are leaking troves of sensitive information that could be collected and weaponized in malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

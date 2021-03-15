@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at Buffalo Public Schools Leads to Cancelation of Classes<a href="https://www.cyberscoop.com/buffalo-public-schools-canceled-cyberattack-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attackers appear to have taken a swipe at Buffalo Public Schools in recent days, screeching the school system’s plans for remote classes and in-person learning to a halt on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

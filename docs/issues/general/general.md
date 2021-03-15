@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising Demand for DDoS Protection Software Market By 2020-2028<a href="https://thehackernews.com/2021/03/rising-demand-for-ddos-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed Denial of Service (DDoS) attack is a malicious form of attack that disrupts the regular network traffic by overwhelming the website with more traffic than the server can handle. The main aim of this kind of cyberattack is to render the website inoperable.  Over recent years, these kinds of attacks are increasing, fueling the demand for the&nbsp; best DDoS protection &nbsp;software solutions. Many unplanned data center outages are owing to DDoS attacks. The threat of DDoS is due to access to easy-to-use tools and the profit potential through extortion.&nbsp;  The attacks target businesses directly, leading to substantial financial and personal losses, making it critical to have robust DDoS protection software solutions in place.  According to the report of&nbsp; Market Research Inc , the DDoS protection Software Market is predicted to reach +14% CAGR by 2020 – 2028.&nbsp;  Important Statistics to illustrate the growing demand for DDoS Software Solutions  Demand for the DDoS software market is on th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+25% of UK Workers Let Their Children Use Their Work Device<a href="https://www.infosecurity-magazine.com:443/news/workers-let-children-use-work/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Study indicates that insecure practices remain prevalent among home workers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Dates Confirmed for Infosecurity Europe 2021<a href="https://www.infosecurity-magazine.com:443/news/dates-confirmed-infosecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity event will take place July 13-15 at London’s Olympia
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alarming number of consumers impacted by identity theft, application fraud and account takeover<a href="https://www.helpnetsecurity.com/2021/03/15/consumers-impacted-by-identity-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Aite Group and GIACT uncovers the pervasiveness of identity theft perpetrated against U.S. consumers and tracks shifts in banking behaviors adopted as a result of the pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GLEIF CA Stakeholder Group accelerates integration of LEIs in digital certificates<a href="https://www.helpnetsecurity.com/2021/03/15/gleif-ca-stakeholder-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In accordance with ISO 17442-2, the CA Stakeholder Group will develop and promote best practice guidelines and use cases for LEI integration across the digital identity industry.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyLogon Microsoft Exchange exploit is completely out of the bag by now<a href="https://securityaffairs.co/wordpress/115616/hacking/microsoft-exchange-exploit-is-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher released a new PoC exploit for ProxyLogon issues that could be adapted to install web shells on vulnerable Microsoft Exchange servers.
+
+
+
+A security researcher has released a new proof-of-concept exploit that could be adapted to install...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the third actively exploited Chrome 0-Day since January<a href="https://securityaffairs.co/wordpress/115600/security/google-chrome-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed a new zero-day flaw in its Chrome browser that has been actively exploited in the wild, the second one within a month
+
+
+
+Google has fixed a new actively exploited zero-day in its Chrome browser, this is the second zero-day issue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the third actively exploited Chrome 0-Day since January<a href="https://securityaffairs.co/wordpress/115600/security/google-chrome-0-day.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2021-21193, is a use after free vulnerability in the Blink rendering engine. Google addressed the issue with the 89.0.4389.90 version for Windows, Mac, and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Exploit Attempts Surge Sixfold as Ransomware Lands<a href="https://www.infosecurity-magazine.com:443/news/exchange-exploit-attempts-sixfold/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point warns of major increase in attack activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: This Spectre proof-of-concept shows how dangerous these attacks can be<a href="https://www.zdnet.com/article/google-this-spectre-proof-of-concept-shows-how-dangerous-these-attacks-can-be/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a proof of concept (PoC) code to demonstrate the practicality of Spectre side-channel attacks against a browser's JavaScript engine to leak information from its memory.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Unsanitized PDF Documents from Security Agencies Reveal Hidden Data and Allow Exploits<a href="https://therecord.media/security-agencies-leak-sensitive-data-by-failing-to-sanitize-pdf-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security agencies are doing a poor job at sanitizing PDF documents on their official websites and are leaking troves of sensitive information that could be collected and weaponized in malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
