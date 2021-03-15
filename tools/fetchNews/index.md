@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+IronNet to go public in $1.2 billion deal, as CEO Alexander warns of start of ‘digital arms race’<a href="https://www.scmagazine.com/home/security-news/corporate-news/ironnet-to-go-public-in-1-2-billion-deal-as-ceo-alexander-warns-of-start-of-digital-arms-race/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IronNet Cybersecurity announced a $1.2 billion agreement Monday with special purpose acquisition company LGL Systems Acquisition Corp. to go public. The combined company will move forward as IronNet Cybersecurity Inc., and be listed on the New York Stock Exchange under the ticker symbol IRNT. Company officials expect the company to go public by the third…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Bug-Hunting Sparks Enterprise Confidence<a href="https://threatpost.com/cybersecurity-bug-hunting-enterprise-confidence/164782/"> Full Text</a>
 </p>
 <details>

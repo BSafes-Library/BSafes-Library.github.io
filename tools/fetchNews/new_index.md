@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Trickbot has Filled in Emotet’s Void - Threat Index Report<a href="https://cyware.com/news/trickbot-has-filled-in-emotets-void-threat-index-report-4a8dcdde"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point lists Trickbot trojan as the most popular malware among cybercriminals&nbsp;in its Global Threat Index report. Here we cover other threats on the list and interesting insights you should know about.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 IronNet to go public in $1.2 billion deal, as CEO Alexander warns of start of ‘digital arms race’<a href="https://www.scmagazine.com/home/security-news/corporate-news/ironnet-to-go-public-in-1-2-billion-deal-as-ceo-alexander-warns-of-start-of-digital-arms-race/"> Full Text</a>
 </p>
 <details>
