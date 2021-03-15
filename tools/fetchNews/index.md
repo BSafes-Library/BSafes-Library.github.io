@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Bug-Hunting Sparks Enterprise Confidence<a href="https://threatpost.com/cybersecurity-bug-hunting-enterprise-confidence/164782/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey from Intel shows that most organizations prefer tech providers to have proactive security, but few meet security expectations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Blender website in maintenance mode after hacking attempt<a href="https://www.bleepingcomputer.com/news/security/blender-website-in-maintenance-mode-after-hacking-attempt/"> Full Text</a>
 </p>
 <details>
