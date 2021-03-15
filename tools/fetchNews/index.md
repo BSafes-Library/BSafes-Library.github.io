@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook to label all posts that discuss coronavirus vaccines | Swiss authorities raid home of alleged surveillance camera hacker | Study finds overlap between vaccine hesitancy and QAnon<a href="https://thehill.com//policy/technology/overnights/543302-hillicon-valley-facebook-to-label-all-posts-that-discuss"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid mounting scrutiny over its handling of coronavirus vaccine misinformation — and one week before Facebook CEO Mark ZuckerbergMark Elliot ZuckerbergHillicon Valley: Democrats push Facebook to 'take responsibility' for placement of gun accessory ads | Lawmakers introduce bill allowing Americans to take foreign hackers to court | Malala Yousafzai signs content deal with Apple House Democrats push Facebook to 'take responsibility' for placement of gun accessory ads  NY Times columnist David Brooks says think-tank role 'hasn't affected' his journalism MORE and other tech CEOs testify before Congress — Facebook said it will be rolling out labels for all posts discussing the vaccines. However, one senator says they're not doing enough on anti-vaccination content.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trickbot has Filled in Emotet’s Void - Threat Index Report<a href="https://cyware.com/news/trickbot-has-filled-in-emotets-void-threat-index-report-4a8dcdde"> Full Text</a>
 </p>
 <details>
