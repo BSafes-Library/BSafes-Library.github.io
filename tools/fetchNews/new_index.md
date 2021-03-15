@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Canada Revenue Agency locks out over 800,000 online accounts — here's what to know<a href="https://www.cbc.ca/news/politics/cra-accounts-locked-1.5947714?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Friday, the agency said the move is a precautionary cybersecurity measure and is being taken after a similar action in February, when over 100,000 accounts were locked.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lookout Enters SASE Market Through Acquisition of CipherCloud<a href="https://www.infosecurity-magazine.com:443/news/lookout-sase-market-acquisition/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout acquires CipherCloud with the intention of creating an integrated endpoint to cloud security solution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ZHtrap Botnet Deploys Honeypots to Trap and Takeover Infected Devices From Competing Botnets<a href="https://therecord.media/zhtrap-botnet-deploys-honeypots-to-trapsteal-bots-from-rivals/?&web_view=true"> Full Text</a>
 </p>
 <details>
