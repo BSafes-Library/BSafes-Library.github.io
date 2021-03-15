@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Twitter now supports multiple 2FA security keys on mobile and web<a href="https://www.bleepingcomputer.com/news/security/twitter-now-supports-multiple-2fa-security-keys-on-mobile-and-web/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has added support for multiple security keys to accounts with two-factor authentication (2FA) enabled for logging into the social network's web interface and mobile apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Australian Kids Impacted by Data Breach<a href="https://www.infosecurity-magazine.com:443/news/vulnerable-australian-kids/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former caseworker accessed sensitive data of children hundreds of times after leaving their job
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Police shut down Android app that turned smartphones into proxies<a href="https://therecord.media/police-shut-down-android-app-that-transformed-smartphones-into-proxies/?&web_view=true"> Full Text</a>
 </p>
 <details>
