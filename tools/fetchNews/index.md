@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phishing sites now detect virtual machines to bypass detection<a href="https://www.bleepingcomputer.com/news/security/phishing-sites-now-detect-virtual-machines-to-bypass-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing sites are now using JavaScript to evade detection by checking whether a visitor is browsing the site from a virtual machine or headless device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HeraSoft Looks To Stop Ransomware Attacks After $5M Series A<a href="https://news.crunchbase.com/news/herasoft-looks-to-stop-ransomware-attacks-after-5m-raise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HeraSoft announced a $5 million Series A led by United Capital Management of Kansas. It has developed a public protocol index layer that protects organizations from ransomware and other cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Canada Revenue Agency locks out over 800,000 online accounts — here's what to know<a href="https://www.cbc.ca/news/politics/cra-accounts-locked-1.5947714?&web_view=true"> Full Text</a>
 </p>
 <details>

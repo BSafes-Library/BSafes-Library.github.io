@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Police shut down Android app that turned smartphones into proxies<a href="https://therecord.media/police-shut-down-android-app-that-transformed-smartphones-into-proxies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Spanish and Europol officials, the app enrolled user devices into another company's network which used the devices as proxy bots in its anonymization offering and for DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Phishing sites now detect virtual machines to bypass detection<a href="https://www.bleepingcomputer.com/news/security/phishing-sites-now-detect-virtual-machines-to-bypass-detection/"> Full Text</a>
 </p>
 <details>
