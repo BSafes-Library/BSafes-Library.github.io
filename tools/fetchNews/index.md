@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers hide credit card data from compromised stores in JPG file<a href="https://www.bleepingcomputer.com/news/security/hackers-hide-credit-card-data-from-compromised-stores-in-jpg-file/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have come up with a sneaky method to steal payment card data from compromised online stores that reduces the suspicious traffic footprint and helps them evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail scam says your parcel is waiting for delivery<a href="https://blog.malwarebytes.com/scams/2021/03/royal-mail-delivery-scam-warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This Royal Mail delivery scam begins with a text message out of the blue, claiming that a parcel is waiting for delivery and they are asked to pay the settlement amount to receive it.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lookout Acquires SASE Cloud Provider CipherCloud<a href="https://www.darkreading.com/cloud/lookout-acquires-sase-cloud-provider-ciphercloud/d/d-id/1340407?&web_view=true"> Full Text</a>
 </p>
 <details>
