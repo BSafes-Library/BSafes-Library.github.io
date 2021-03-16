@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncovered Hidden Data in the PDF Files Published by Security Agencies<a href="https://cybersecuritynews.com/uncover-hidden-data-in-the-pdf/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, security researchers from different organizations are publishing and sharing frequent electronic documents like PDF files. But there are still many organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases one-click mitigation tool for  Exchange Server<a href="https://www.scmagazine.com/home/patch-management/microsoft-releases-one-click-mitigation-tool-for-exchange-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released a one-click mitigation tool for the Hafnium Exchange Server vulnerabilities that the company hopes will help organizations struggling to update.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80,000 Exchange Servers Still Affected by Actively Exploited Vulnerabilities<a href="https://www.securityweek.com/over-80000-exchange-servers-still-affected-actively-exploited-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bugs were publicly disclosed on March 2, when the Microsoft announced not only patches for them, but also the fact that a Chinese threat actor had been actively exploiting them in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft One-Click Tool Mitigates Exchange Server Attacks<a href="https://www.infosecurity-magazine.com:443/news/microsoft-oneclick-tool-mitigates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tool designed for customers without dedicated IT or cybersecurity resource
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant Targeting New IoT Vulnerabilities, Network Security Devices<a href="https://unit42.paloaltonetworks.com/mirai-variant-iot-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found attacks using VisualDoor (SonicWall SSL-VPN), CVE-2020-25506 (D-Link firewall), CVE-2020-26919 (Netgear ProSAFE Plus), CVE-2019-19356 (Netis wireless router), and other exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases On-premises Mitigation Tool (EOMT) tool to fix ProxyLogon issues<a href="https://securityaffairs.co/wordpress/115648/security/eomt-tool-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an Exchange On-premises Mitigation Tool (EOMT) tool to small businesses for the fix of ProxyLogon vulnerabilities.
+
+
+
+On March 2nd, Microsoft&nbsp;released&nbsp;emergency out-of-band security updates&nbsp;that address four zero-day issues (CVE-2021-26855,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Microsoft Exchange hacks: How they started and where we are<a href="https://www.bleepingcomputer.com/news/security/the-microsoft-exchange-hacks-how-they-started-and-where-we-are/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergency patches for the recently disclosed critical vulnerabilities in Microsoft Exchange email server did not come soon enough and organizations had little time to prepare before en masse exploitation began.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is there a link between Microsoft Exchange exploits and PoC code the company shared with partner security firms?<a href="https://securityaffairs.co/wordpress/115640/hacking/microsoft-exchange-poc-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is reportedly investigating whether the recent attacks against Microsoft Exchange servers could be linked to information leaked by a partner security firm.
+
+
+
+According to a report published by The Wall Street Journal, Microsoft is investigating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15 Years Old Linux Bug Let Attackers Gain Admin Privileges<a href="https://cybersecuritynews.com/15-years-old-linux-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Three bugs found in the mainline Linux kernel turned out to be about 15 years old. One of these bugs turned out...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

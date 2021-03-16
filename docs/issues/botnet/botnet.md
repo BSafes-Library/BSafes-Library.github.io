@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Variant and ZHtrap Botnet Malware Emerge in the Wild<a href="https://thehackernews.com/2021/03/new-mirai-variant-and-zhtrap-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed a new wave of ongoing attacks exploiting multiple vulnerabilities to deploy Mirai variants on compromised systems.  "Upon successful exploitation, the attackers try to download a malicious shell script, which contains further infection behaviors such as downloading and executing Mirai variants and brute-forcers," Palo Alto Networks' Unit 42 Threat Intelligence Team&nbsp; said &nbsp;in a write-up.  The rash of vulnerabilities being exploited include:   VisualDoor &nbsp;— a SonicWall SSL-VPN remote command injection vulnerability that came to light earlier this January  CVE-2020-25506 &nbsp;- a D-Link DNS-320 firewall remote code execution (RCE) vulnerability  CVE-2021-27561 and CVE-2021-27562 &nbsp;- Two vulnerabilities in Yealink Device Management that allow an unauthenticated attacker to run arbitrary commands on the server with root privileges  CVE-2021-22502 &nbsp;- an RCE flaw in Micro Focus Operation Bridge Reporter (OBR), affecting version 10.40  CV
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

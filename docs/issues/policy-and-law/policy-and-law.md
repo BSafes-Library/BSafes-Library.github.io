@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Face Lawsuit Over Tracking Users in ‘Incognito’ Mode<a href="https://cybersecuritynews.com/google-to-face-lawsuit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A judge in the US has directed Google to face a class-action lawsuit seeking $5 billion, that claimed the tech giant is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

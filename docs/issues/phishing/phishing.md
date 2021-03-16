@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail scam says your parcel is waiting for delivery<a href="https://blog.malwarebytes.com/scams/2021/03/royal-mail-delivery-scam-warning/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This Royal Mail delivery scam begins with a text message out of the blue, claiming that a parcel is waiting for delivery and they are asked to pay the settlement amount to receive it.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

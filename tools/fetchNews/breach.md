@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Australian Kids Impacted by Data Breach<a href="https://www.infosecurity-magazine.com:443/news/vulnerable-australian-kids/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former caseworker accessed sensitive data of children hundreds of times after leaving their job
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

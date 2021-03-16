@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyware Closes $30M Series B Just 7 Months After A Round<a href="https://news.crunchbase.com/news/cyware-closes-30m-series-b-just-7-months-after-a-round/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Even though 2020 was a tough year for many companies, we were able to realize 120 percent (ARR) growth,” CEO Anuj Goel said. “We have now seen three years of triple-digit growth.”
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyware nabs $30M to help organizations detect and stop advanced cyber attacks – TechCrunch<a href="https://techcrunch.com/2021/03/16/cyware-nabs-30m-to-help-organizations-detect-and-stop-advanced-cyber-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding is being co-led by Advent International and Ten Eleven Ventures, with participation from Prelude Fund, Emerald Development Managers, Great Road Holdings, and cloud security firm Zscaler
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lookout Acquires SASE Cloud Provider CipherCloud<a href="https://www.darkreading.com/cloud/lookout-acquires-sase-cloud-provider-ciphercloud/d/d-id/1340407?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout Inc., a provider of mobile security solutions, has acquired cloud security firm CipherCloud. CipherCloud has solutions that span several categories of secure access service edge (SASE).
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hide credit card data from compromised stores in JPG file<a href="https://www.bleepingcomputer.com/news/security/hackers-hide-credit-card-data-from-compromised-stores-in-jpg-file/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have come up with a sneaky method to steal payment card data from compromised online stores that reduces the suspicious traffic footprint and helps them evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
