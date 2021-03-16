@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Microsoft Exchange hacks: How they started and where we are<a href="https://www.bleepingcomputer.com/news/security/the-microsoft-exchange-hacks-how-they-started-and-where-we-are/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergency patches for the recently disclosed critical vulnerabilities in Microsoft Exchange email server did not come soon enough and organizations had little time to prepare before en masse exploitation began.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is there a link between Microsoft Exchange exploits and PoC code the company shared with partner security firms?<a href="https://securityaffairs.co/wordpress/115640/hacking/microsoft-exchange-poc-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is reportedly investigating whether the recent attacks against Microsoft Exchange servers could be linked to information leaked by a partner security firm.
+
+
+
+According to a report published by The Wall Street Journal, Microsoft is investigating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 15 Years Old Linux Bug Let Attackers Gain Admin Privileges<a href="https://cybersecuritynews.com/15-years-old-linux-bug/"> Full Text</a>
 </p>
 <details>
