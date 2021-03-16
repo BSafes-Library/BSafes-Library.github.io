@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Magecart hackers hide captured credit card data in JPG file<a href="https://securityaffairs.co/wordpress/115655/hacking/magecart-credit-card-jpg.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks devised a new method to hide credit card data siphoned from compromised e-stores, experts observed hackers hiding data in JPG files.
+
+
+
+Cybercriminals have devised a new method to hide credit card data siphoned from compromised online stores,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mimecast: SolarWinds hackers used Sunburst malware for initial intrusion<a href="https://www.bleepingcomputer.com/news/security/mimecast-solarwinds-hackers-used-sunburst-malware-for-initial-intrusion/"> Full Text</a>
 </p>
 <details>
