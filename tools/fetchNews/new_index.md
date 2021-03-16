@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google fixes five Chrome bugs, including one zero-day exploited in the wild<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/google-fixes-five-chrome-bugs-including-one-zero-day-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest news from Google warning to patch Chrome vulnerabilities came on the heels of news early last week that the vast majority of Chrome users take close to one month to install a new patch.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Cyberlaw Podcast: The Former Lingerie Salesman Who Has Putin's Knickers in a Twist<a href="https://www.lawfareblog.com/cyberlaw-podcast-former-lingerie-salesman-who-has-putins-knickers-twist"> Full Text</a>
 </p>
 <details>
