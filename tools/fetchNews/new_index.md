@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak payment data from defunct WeLeakInfo breach site<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-payment-data-from-defunct-weleakinfo-breach-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeLeakInfo was a website that offered paid subscriptions that provides searchable access to a database containing 12.5 billion user records stolen during data breaches. This data included email addresses, names, phone numbers, addresses, and in many cases, passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US intel says Russia, Iran sought to influence 2020 election<a href="https://thehill.com//homenews/news/543460-us-intel-says-russia-iran-sought-to-influence-2020-election"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia and Iran undertook campaigns to influence the 2020 U.S. election but intelligence agencies found no evidence that foreign actors tried to alter technical aspects of the voting process, according to conclusions of a declassified report released Tuesday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Enhancements in Darkside Ransomware: How Far will it Go?<a href="https://cyware.com/news/new-enhancements-in-darkside-ransomware-how-far-will-it-go-b56753b3"> Full Text</a>
 </p>
 <details>
