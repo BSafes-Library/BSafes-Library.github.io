@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Taurus Stealer's Evolution<a href="https://blog.minerva-labs.com/taurus-stealers-evolution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The individuals developing this threat have been actively improving the evasiveness of their loader since February 2021, which in turn made their payloads fully undetectable for almost a month.
+</details>
+<div style="text-align: right" markdown="1">
+Minerva Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases On-premises Mitigation Tool (EOMT) tool to fix ProxyLogon issues<a href="https://securityaffairs.co/wordpress/115648/security/eomt-tool-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an Exchange On-premises Mitigation Tool (EOMT) tool to small businesses for the fix of ProxyLogon vulnerabilities.
+
+
+
+On March 2nd, Microsoft released emergency out-of-band security updates that address four zero-day issues (CVE-2021-26855,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacking Incidents, Vendor Breaches Keep Surging<a href="https://www.inforisktoday.com/hacking-incidents-vendor-breaches-keep-surging-a-16186?&web_view=true"> Full Text</a>
 </p>
 <details>
