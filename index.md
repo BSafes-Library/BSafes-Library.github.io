@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hacking Incidents, Vendor Breaches Keep Surging<a href="https://www.inforisktoday.com/hacking-incidents-vendor-breaches-keep-surging-a-16186?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of Monday, the Department of Health and Human Service's HIPAA Breach Reporting Tool website shows 89 major health data breaches affecting a total of over 7.3 million individuals so far in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Microsoft Exchange hacks: How they started and where we are<a href="https://www.bleepingcomputer.com/news/security/the-microsoft-exchange-hacks-how-they-started-and-where-we-are/"> Full Text</a>
 </p>
 <details>
