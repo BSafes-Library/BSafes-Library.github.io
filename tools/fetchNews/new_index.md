@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hacker leak payment data from defunct WeLeakInfo breach site<a href="https://www.bleepingcomputer.com/news/security/hacker-leak-payment-data-from-defunct-weleakinfo-breach-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeLeakInfo was a website that offered paid subscriptions that provides searchable access to a database containing 12.5 billion user records stolen during data breaches. This data included email addresses, names, phone numbers, addresses, and in many cases, passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak payment data from defunct WeLeakInfo breach site<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-payment-data-from-defunct-weleakinfo-breach-site/"> Full Text</a>
 </p>
 <details>
