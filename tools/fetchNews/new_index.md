@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo browser extension vulnerability leaves Edge users open to potential cyber-snooping<a href="https://portswigger.net/daily-swig/duckduckgo-browser-extension-vulnerability-leaves-edge-users-open-to-potential-cyber-snooping?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo has fixed a universal cross-site scripting (uXSS) flaw in a popular browser extension named DuckDuckGo Privacy Essentials available for both Chrome and Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fastway Couriers Confirms Security Breach<a href="https://www.infosecurity-magazine.com:443/news/fastway-couriers-confirms-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigation launched after data breach puts 450k Fastway Couriers customers at risk
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ‘Cyber fusion’ startup Cyware secures $30M in fresh funding<a href="https://siliconangle.com/2021/03/16/cyber-fusion-startup-cyware-secures-30m-fresh-funding/?&web_view=true"> Full Text</a>
 </p>
 <details>
