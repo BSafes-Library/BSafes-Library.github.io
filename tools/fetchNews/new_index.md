@@ -37,6 +37,278 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google to Face Lawsuit Over Tracking Users in ‘Incognito’ Mode<a href="https://cybersecuritynews.com/google-to-face-lawsuit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A judge in the US has directed Google to face a class-action lawsuit seeking $5 billion, that claimed the tech giant is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyware Closes $30M Series B Just 7 Months After A Round<a href="https://news.crunchbase.com/news/cyware-closes-30m-series-b-just-7-months-after-a-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Even though 2020 was a tough year for many companies, we were able to realize 120 percent (ARR) growth,” CEO Anuj Goel said. “We have now seen three years of triple-digit growth.”
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Variant and ZHtrap Botnet Malware Emerge in the Wild<a href="https://thehackernews.com/2021/03/new-mirai-variant-and-zhtrap-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed a new wave of ongoing attacks exploiting multiple vulnerabilities to deploy Mirai variants on compromised systems.  "Upon successful exploitation, the attackers try to download a malicious shell script, which contains further infection behaviors such as downloading and executing Mirai variants and brute-forcers," Palo Alto Networks' Unit 42 Threat Intelligence Team  said  in a write-up.  The rash of vulnerabilities being exploited include:   VisualDoor  — a SonicWall SSL-VPN remote command injection vulnerability that came to light earlier this January  CVE-2020-25506  - a D-Link DNS-320 firewall remote code execution (RCE) vulnerability  CVE-2021-27561 and CVE-2021-27562  - Two vulnerabilities in Yealink Device Management that allow an unauthenticated attacker to run arbitrary commands on the server with root privileges  CVE-2021-22502  - an RCE flaw in Micro Focus Operation Bridge Reporter (OBR), affecting version 10.40  CV
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Security Council Unveils Inaugural Leadership Team<a href="https://www.infosecurity-magazine.com:443/news/cyber-security-council-leadership/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK Cyber Security Council introduces its first four trustees
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Women faces among all of those white men’: Digital Guardian chiefs explain why it matters<a href="https://www.scmagazine.com/women-in-it-security/women-faces-among-all-of-those-white-men-digital-guardian-chiefs-explain-why-it-matters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media spoke to Digital Guardian’s Debra Danielson and Connie Stack recently about their own career experiences, the evolution of diversity in the information security market, and the power of pink.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top MSP Challenges in 2021<a href="https://threatpost.com/top-msp-challenges-in-2021/164784/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At SafeDNS, we see three entangled hurdles for MSPs in 2021 and the coming years— tied with the current economic uncertainty and somewhat linked to the pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncovered Hidden Data in the PDF Files Published by Security Agencies<a href="https://cybersecuritynews.com/uncover-hidden-data-in-the-pdf/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, security researchers from different organizations are publishing and sharing frequent electronic documents like PDF files. But there are still many organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threatening within Budget: How WSH-RAT is abused by Cyber-Crooks<a href="https://yoroi.company/research/threatening-within-budget-how-wsh-rat-is-abused-by-cyber-crooks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WSH-RAT kit is a complete Remote Administration tool sold in the underground and frequently abused by criminal actors relying on off-the-shelf kits to build their offensive campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Updates 2FA to Enable Use of Multiple Security Keys<a href="https://www.infosecurity-magazine.com:443/news/twitter-2fa-security-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users will soon be able to use security keys as sole authentication method
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases one-click mitigation tool for  Exchange Server<a href="https://www.scmagazine.com/home/patch-management/microsoft-releases-one-click-mitigation-tool-for-exchange-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released a one-click mitigation tool for the Hafnium Exchange Server vulnerabilities that the company hopes will help organizations struggling to update.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80,000 Exchange Servers Still Affected by Actively Exploited Vulnerabilities<a href="https://www.securityweek.com/over-80000-exchange-servers-still-affected-actively-exploited-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bugs were publicly disclosed on March 2, when the Microsoft announced not only patches for them, but also the fact that a Chinese threat actor had been actively exploiting them in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware and IoT Malware Detections Surge by Over 60%<a href="https://www.infosecurity-magazine.com:443/news/ransomware-iot-malware-detections/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall points to a perfect storm for threat actors in 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Dumps Guns.com Database Containing Customer and Admin Data<a href="https://www.hackread.com/hacker-dumps-guns-com-database-customers-admin-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The actor behind the data dump claimed that it includes a complete database of Guns.com along with its source code. They further added that the breach took place somewhere around the end of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft One-Click Tool Mitigates Exchange Server Attacks<a href="https://www.infosecurity-magazine.com:443/news/microsoft-oneclick-tool-mitigates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tool designed for customers without dedicated IT or cybersecurity resource
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users of NFT Digital Art Marketplace Nifty Gateway Suffer Account Takeover and Theft Attacks<a href="https://www.cyberscoop.com/nft-nifty-gateway-hackers-digital-art-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many users of the digital art marketplace Nifty Gateway reported that hackers had taken over their accounts and stolen artwork worth thousands of dollars over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyware nabs $30M to help organizations detect and stop advanced cyber attacks – TechCrunch<a href="https://techcrunch.com/2021/03/16/cyware-nabs-30m-to-help-organizations-detect-and-stop-advanced-cyber-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding is being co-led by Advent International and Ten Eleven Ventures, with participation from Prelude Fund, Emerald Development Managers, Great Road Holdings, and cloud security firm Zscaler
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant Targeting New IoT Vulnerabilities, Network Security Devices<a href="https://unit42.paloaltonetworks.com/mirai-variant-iot-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found attacks using VisualDoor (SonicWall SSL-VPN), CVE-2020-25506 (D-Link firewall), CVE-2020-26919 (Netgear ProSAFE Plus), CVE-2019-19356 (Netis wireless router), and other exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 MoD Contractor Security Incidents Double in a Year<a href="https://www.infosecurity-magazine.com:443/news/mod-contractor-security-incidents/"> Full Text</a>
 </p>
 <details>
