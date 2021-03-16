@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New botnet targets network security devices with critical exploits<a href="https://www.bleepingcomputer.com/news/security/new-botnet-targets-network-security-devices-with-critical-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authors of a new botnet are targeting connected devices affected by critical-level vulnerabilities, some of them impacting network security devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DuckDuckGo browser extension vulnerability leaves Edge users open to potential cyber-snooping<a href="https://portswigger.net/daily-swig/duckduckgo-browser-extension-vulnerability-leaves-edge-users-open-to-potential-cyber-snooping?&web_view=true"> Full Text</a>
 </p>
 <details>
