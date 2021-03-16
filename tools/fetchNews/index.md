@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PYSA Ransomware Pillages Education Sector, Feds Warn<a href="https://threatpost.com/pysa-ransomware-education-feds-warn/164832/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major spike of attacks against higher ed, K-12 and seminaries in March has prompted the FBI to issue a special alert.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mom & Daughter Duo Hack Homecoming Crown<a href="https://threatpost.com/mom-daughter-duo-hack-homecoming-crown/164829/"> Full Text</a>
 </p>
 <details>
