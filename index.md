@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolls back update to fix access issues for thousands<a href="https://www.reuters.com/article/us-microsoft-teams-outages/microsoft-rolls-back-update-to-fix-access-issues-for-thousands-idUSKBN2B72MJ?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Corp said early on Tuesday glitches that affected access to workplace messaging app Teams, Outlook.com and other services have been largely fixed after it rolled back an update.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Attackers Save Stolen Credit-Card Data in .JPG File<a href="https://threatpost.com/magecart-attackers-stolen-data-jpg/164815/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Sucuri discovered the tactic, which creatively hides malicious activity until the info can be retrieved, during an investigation into a compromised Magento 2 e-commerce site.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Spanish Data Protection Agency Issues Highest Ever Fine<a href="https://www.infosecurity-magazine.com:443/news/aepd-issues-highest-ever-fine/"> Full Text</a>
 </p>
 <details>
