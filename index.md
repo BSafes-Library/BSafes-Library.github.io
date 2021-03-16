@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Enhancements in Darkside Ransomware: How Far will it Go?<a href="https://cyware.com/news/new-enhancements-in-darkside-ransomware-how-far-will-it-go-b56753b3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence experts warn of a new version of the Darkside ransomware variant that its creators claim will feature faster encryption speeds and VoIP calling while exploiting VMware flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New botnet targets network security devices with critical exploits<a href="https://www.bleepingcomputer.com/news/security/new-botnet-targets-network-security-devices-with-critical-exploits/"> Full Text</a>
 </p>
 <details>
