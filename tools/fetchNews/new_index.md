@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mimecast: SolarWinds hackers used Sunburst malware for initial intrusion<a href="https://www.bleepingcomputer.com/news/security/mimecast-solarwinds-hackers-used-sunburst-malware-for-initial-intrusion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security company Mimecast has confirmed today that the state-sponsored SolarWinds hackers who breached its network earlier this year used the Sunburst backdoor during the initial intrusion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Users Can Now Secure Accounts With Multiple Security Keys<a href="https://www.securityweek.com/twitter-users-can-now-secure-accounts-multiple-security-keys?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Secure your account (and that alt) with multiple security keys. Now you can enroll and log in with more than one physical key on both mobile and web,” the company announced.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft rolls back update to fix access issues for thousands<a href="https://www.reuters.com/article/us-microsoft-teams-outages/microsoft-rolls-back-update-to-fix-access-issues-for-thousands-idUSKBN2B72MJ?&web_view=true"> Full Text</a>
 </p>
 <details>
