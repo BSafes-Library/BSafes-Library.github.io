@@ -141,7 +141,7 @@ The Internet is essential for education, employment, information, and cultural a
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-April 1, 2020
+April 1, 2020  
 • The Networked Question in the Digital Era: How Do Networked, Bounded, and Limited Individuals Connect at Different Stages in the Life Course? [HTML](https://papers.bsafes.com/docs/internet/the-networked-question-in-the-digital-era-how-do-networked-bounded-and-limited-individuals-connect-at-different-stages-in-the-life-course/)
 </p>
 <details>
@@ -153,7 +153,7 @@ We used in-depth interviews with 101 participants in the East York section of To
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-January, 2020
+January, 2020  
 • The Internet as a Speech Machine and Other Myths Confounding Section 230 Reform [HTML](https://papers.bsafes.com/docs/internet/the-internet-as-as-speech-machine-and-other-myths-confounding-section-230-reform/)
 </p>
 <details>
