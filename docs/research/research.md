@@ -141,12 +141,47 @@ The Internet is essential for education, employment, information, and cultural a
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+April 1, 2020
+• The Networked Question in the Digital Era: How Do Networked, Bounded, and Limited Individuals Connect at Different Stages in the Life Course? [HTML](https://papers.bsafes.com/docs/internet/the-networked-question-in-the-digital-era-how-do-networked-bounded-and-limited-individuals-connect-at-different-stages-in-the-life-course/)
+</p>
+<details>
+  <summary>Abstract</summary>
+We used in-depth interviews with 101 participants in the East York section of Toronto, Canada to understand how digital media affects social connectivity in general–and networked individualism in particular–for people at different stages of the life course. Although people of all ages intertwined their use of digital media with their face-to-face interactions, younger adults used more types of digital media and more diversified personal networks. People in different age-groups conserved media, tending to stick with the digital media they learned to use in earlier life stages. Approximately one-third of the participants were Networked Individuals: In each age-group, they were the most actively using digital media to maintain ties and to develop new ones. Another one-third were Socially Bounded, who often actively used digital media but kept their connectivity within a smaller set of social groups. The remaining one-third, who were Socially Limited, were the least likely to use digital media. Younger adults were the most likely to be Networked Individuals, leading us to wonder if the percentage of the population who are Bounded or Limited will decline over time.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
+January, 2020
+• The Internet as a Speech Machine and Other Myths Confounding Section 230 Reform [HTML](https://papers.bsafes.com/docs/internet/the-internet-as-as-speech-machine-and-other-myths-confounding-section-230-reform/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A robust public debate is currently underway about the responsibility of online platforms. We have long called for this discussion, but only recently has it been seriously taken up by legislators and the public. The debate begins with a basic question: should platforms should be responsible for user-generated content? If so, under what circumstances? What exactly would such responsibility look like? Under consideration is Section 230 of the Communications Decency Act—a provision originally designed to encourage tech companies to clean up “offensive” online content. The public discourse around Section 230, however, is riddled with misconceptions. As an initial matter, many people who opine about the law are unfamiliar with its history, text, and application. This lack of knowledge impairs thoughtful evaluation of the law’s goals and how well they have been achieved. Accordingly, Part I of this Article sets the stage with a description of Section 230—its legislative history and purpose, its interpretation in the courts, and the problems that current judicial interpretation raises. A second, and related, major source of misunderstanding is the conflation of Section 230 and the First Amendment. Part II details how this conflation distorts discussion in three ways: it assumes all Internet activity is protected speech; it treats private actors as though they were government actors; and it presumes that regulation will inevitably result in less speech. These distortions must be addressed in order to pave the way for clear-eyed policy reform. Part III offers potential solutions to help Section 230 achieve its legitimate goals.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 June, 2019  
 • Revenge Porn and the First Amendment - Should Nonconsensual Distribution of Sexually Explicit Images Receive Constitutional Protection? [HTML](https://papers.bsafes.com/docs/privacy/revenge-porn-and-the-first-amendmen/)
 </p>
 <details>
   <summary>Abstract</summary>
 Like many issues related to relationships and sexuality, “revenge porn” has become more complicated—and its consequences more sinister—thanks to twenty-first century technology. Revenge porn, often referred to as nonconsensual pornography, involves the publication or distribution of sexually explicit images without the subject’s consent. This may include images obtained without consent, as well as images initially obtained with consent—often within the context of an intimate relationship—but later shared broadly or used as blackmail. The issue received increased public attention after a 2014 incident in which a hacker accessed and leaked sexually explicit photos of several celebrities. But celebrities are far from the only victims: a 2016 study found that roughly one in twenty-five Americans have been threatened with or been the victim of nonconsensual image sharing.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
+August 5, 2020
+• Web Application Security [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-18321/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This report documents the program and the outcomes of Dagstuhl Seminar 18321 “Web Application Security”. In this third seminar on the topic, a healthy mix of academics, practitioners and representatives of all major browser vendors reflected on the last decade of web security research and discussed the upcoming security challenges for the Web platform. In addition, for the first time, the list of attendees included several members of the human factors in security community, to enable broadening the web security topic towards this important facet of application security.
 </details>
 </div>
 
