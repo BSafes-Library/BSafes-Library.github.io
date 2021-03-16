@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: The Former Lingerie Salesman Who Has Putin's Knickers in a Twist<a href="https://www.lawfareblog.com/cyberlaw-podcast-former-lingerie-salesman-who-has-putins-knickers-twist"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we interview Eliot Higgins, founder and executive director of the online investigative collective Bellingcat and author of
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Microsoft Exchange hack: The risks and rewards of sharing bug intel<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/the-microsoft-exchange-hack-the-risks-and-rewards-of-sharing-bug-intel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel that Microsoft privately shared with security partners may have leaked to hackers. How do companies know who to trust with their secrets?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Teen hacker agrees to 3 years in prison for Twitter Bitcoin scam<a href="https://www.bleepingcomputer.com/news/security/teen-hacker-agrees-to-3-years-in-prison-for-twitter-bitcoin-scam/"> Full Text</a>
 </p>
 <details>
