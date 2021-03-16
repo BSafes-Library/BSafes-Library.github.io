@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Teen hacker agrees to 3 years in prison for Twitter Bitcoin scam<a href="https://www.bleepingcomputer.com/news/security/teen-hacker-agrees-to-3-years-in-prison-for-twitter-bitcoin-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Florida teenager has pleaded guilty to fraud charges after coordinating the hack of high-profile Twitter accounts to run a cryptocurrency scam that collected roughly $120,000 worth of bitcoins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai variant appears in the threat landscape<a href="https://securityaffairs.co/wordpress/115664/uncategorized/mirai-botnet-variant-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto researchers uncovered a series of ongoing attacks to spread a variant of the infamous Mirai bot exploiting multiple vulnerabilities.
+
+
+
+Security experts at Palo Alto Networks disclosed a series of attacks aimed at delivering a Mirai variant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaks payment data from defunct WeLeakInfo breach site<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-payment-data-from-defunct-weleakinfo-breach-site/"> Full Text</a>
 </p>
 <details>
