@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases one-click Exchange On-Premises Mitigation Tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-one-click-exchange-on-premises-mitigation-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a one-click Exchange On-premises Mitigation Tool (EOMT) tool to allow small business owners to easily mitigate the recently disclosed ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security ratings could raise the bar on cyber hygiene, but won’t stop the next SolarWinds<a href="https://www.scmagazine.com/home/government/security-labeling-could-raise-the-bar-on-cyber-hygiene-but-wont-stop-the-next-solarwinds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of security ratings, noted by Biden officials, is one that the cybersecurity community has batted around for some time: place a label on the box that says a product is or is not secure, and let consumers create a market around security. But experts say the simplicity of that concept is both its strength and its weakness.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook to label all posts that discuss coronavirus vaccines | Swiss authorities raid home of alleged surveillance camera hacker | Study finds overlap between vaccine hesitancy and QAnon<a href="https://thehill.com//policy/technology/overnights/543302-hillicon-valley-facebook-to-label-all-posts-that-discuss"> Full Text</a>
 </p>
 <details>
