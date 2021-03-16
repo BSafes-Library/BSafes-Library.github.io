@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lookout Acquires SASE Cloud Provider CipherCloud<a href="https://www.darkreading.com/cloud/lookout-acquires-sase-cloud-provider-ciphercloud/d/d-id/1340407?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout Inc., a provider of mobile security solutions, has acquired cloud security firm CipherCloud. CipherCloud has solutions that span several categories of secure access service edge (SASE).
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Taurus Stealer's Evolution<a href="https://blog.minerva-labs.com/taurus-stealers-evolution?&web_view=true"> Full Text</a>
 </p>
 <details>
