@@ -11,6 +11,34 @@ nav_order: 900027
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+IronNet to go public in $1.2 billion deal, as CEO Alexander warns of start of ‘digital arms race’<a href="https://www.scmagazine.com/home/security-news/corporate-news/ironnet-to-go-public-in-1-2-billion-deal-as-ceo-alexander-warns-of-start-of-digital-arms-race/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IronNet Cybersecurity announced a $1.2 billion agreement Monday with special purpose acquisition company LGL Systems Acquisition Corp. to go public. The combined company will move forward as IronNet Cybersecurity Inc., and be listed on the New York Stock Exchange under the ticker symbol IRNT. Company officials expect the company to go public by the third…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lookout Enters SASE Market Through Acquisition of CipherCloud<a href="https://www.infosecurity-magazine.com:443/news/lookout-sase-market-acquisition/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout acquires CipherCloud with the intention of creating an integrated endpoint to cloud security solution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Uber and Lyft Pool Driver Info to Boost Passenger Safety<a href="https://www.infosecurity-magazine.com:443/news/uber-and-lyft-pool-driver-info/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What You Need to Know About RedEcho<a href="https://cyware.com/news/what-you-need-to-know-about-redecho-ed0f0f6b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The victimology of this Chinese hacker group coincides with that of APT41, also known as Barium. Moreover, RedEcho boasts of a robust infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple APT Groups Now Targeting Microsoft Exchange Servers<a href="https://cyware.com/news/multiple-apt-groups-now-targeting-microsoft-exchange-servers-09311355"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several threat actors have been found exploiting the recently disclosed ProxyLogon vulnerabilities in Microsoft Exchange servers including &nbsp;APT27, LuckyMouse, Calypso, and Winnti Group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,62 @@ nav_order: 900180
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Two Ransomware with Different Modus Operandi are Making Inroads<a href="https://cyware.com/news/two-ransomware-with-different-modus-operandi-are-making-inroads-549b48fd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers recently discovered two new ransomware variants, one of which is a variant of the Thanos ransomware series, which spreads through PDF files that fake the subject of invoices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Actors Coming After Your Hypervisor<a href="https://cyware.com/news/ransomware-actors-coming-after-your-hypervisor-351a6b0a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, two retooled ransomware strains were found exploiting vulnerabilities in the VMware ESXi hypervisor system and encrypting virtual hard drives or VMs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM and Quoter Ransomware - A Deadly Combo<a href="https://cyware.com/news/rtm-and-quoter-ransomware-a-deadly-combo-2b1072f6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RTM banking trojan is back with an arsenal of tricks. A new ransomware family—Quoter—has joined the party too.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HeraSoft Looks To Stop Ransomware Attacks After $5M Series A<a href="https://news.crunchbase.com/news/herasoft-looks-to-stop-ransomware-attacks-after-5m-raise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HeraSoft announced a $5 million Series A led by United Capital Management of Kansas. It has developed a public protocol index layer that protects organizations from ransomware and other cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NCSC is not aware of ransomware attacks compromising UK orgs through Microsoft Exchange bugs<a href="https://securityaffairs.co/wordpress/115605/hacking/ncsc-microsoft-exchange-assessment.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,48 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot has Filled in Emotet’s Void - Threat Index Report<a href="https://cyware.com/news/trickbot-has-filled-in-emotets-void-threat-index-report-4a8dcdde"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point lists Trickbot trojan as the most popular malware among cybercriminals&nbsp;in its Global Threat Index report. Here we cover other threats on the list and interesting insights you should know about.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police shut down Android app that turned smartphones into proxies<a href="https://therecord.media/police-shut-down-android-app-that-transformed-smartphones-into-proxies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Spanish and Europol officials, the app enrolled user devices into another company's network which used the devices as proxy bots in its anonymization offering and for DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZHtrap Botnet Deploys Honeypots to Trap and Takeover Infected Devices From Competing Botnets<a href="https://therecord.media/zhtrap-botnet-deploys-honeypots-to-trapsteal-bots-from-rivals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered last week a new IoT botnet that deploys honeypots to capture attacks from rival botnets and then uses that information to hijack its rivals’ infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

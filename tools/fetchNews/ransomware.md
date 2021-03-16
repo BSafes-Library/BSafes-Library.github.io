@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC is not aware of ransomware attacks compromising UK orgs through Microsoft Exchange bugs<a href="https://securityaffairs.co/wordpress/115605/hacking/ncsc-microsoft-exchange-assessment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) urges UK organizations to install the patches for the recently disclosed vulnerabilities in Microsoft Exchange.
+
+
+
+The UK's National Cyber Security Centre is urging UK organizations to install security patches...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: NCSC is not aware of ransomware attacks compromising UK businesses through Microsoft Exchange bugs<a href="https://securityaffairs.co/wordpress/115605/hacking/ncsc-microsoft-exchange-assessment.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK’s NCSC is urging UK organizations to install security patches for their Microsoft Exchange installs and run Microsoft Safety Scanner to detect webshells employed in the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

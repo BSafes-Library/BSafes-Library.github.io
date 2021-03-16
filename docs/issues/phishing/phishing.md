@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing sites now detect virtual machines to bypass detection<a href="https://www.bleepingcomputer.com/news/security/phishing-sites-now-detect-virtual-machines-to-bypass-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing sites are now using JavaScript to evade detection by checking whether a visitor is browsing the site from a virtual machine or headless device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

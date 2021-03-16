@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit 32 Indian firms via Microsoft email servers<a href="https://ciso.economictimes.indiatimes.com/news/hackers-hit-32-indian-firms-via-microsoft-email-servers-ld/81510202?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hardest-hit sectors in India are finance and banking institutions (28%), government\military organizations (16%), manufacturing (12.5%), insurance\legal (9.5%), and others (34%), according to CPR.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

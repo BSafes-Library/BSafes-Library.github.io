@@ -11,6 +11,48 @@ nav_order: 900072
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Security ratings could raise the bar on cyber hygiene, but won’t stop the next SolarWinds<a href="https://www.scmagazine.com/home/government/security-labeling-could-raise-the-bar-on-cyber-hygiene-but-wont-stop-the-next-solarwinds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of security ratings, noted by Biden officials, is one that the cybersecurity community has batted around for some time: place a label on the box that says a product is or is not secure, and let consumers create a market around security. But experts say the simplicity of that concept is both its strength and its weakness.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook to label all posts that discuss coronavirus vaccines | Swiss authorities raid home of alleged surveillance camera hacker | Study finds overlap between vaccine hesitancy and QAnon<a href="https://thehill.com//policy/technology/overnights/543302-hillicon-valley-facebook-to-label-all-posts-that-discuss"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid mounting scrutiny over its handling of coronavirus vaccine misinformation — and one week before Facebook CEO Mark ZuckerbergMark Elliot ZuckerbergHillicon Valley: Democrats push Facebook to 'take responsibility' for placement of gun accessory ads | Lawmakers introduce bill allowing Americans to take foreign hackers to court | Malala Yousafzai signs content deal with Apple House Democrats push Facebook to 'take responsibility' for placement of gun accessory ads  NY Times columnist David Brooks says think-tank&nbsp;role 'hasn't affected' his journalism MORE and other tech CEOs testify before Congress — Facebook said it will be rolling out labels for all posts discussing the vaccines. However, one senator says they're not doing enough on&nbsp;anti-vaccination content.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Bug-Hunting Sparks Enterprise Confidence<a href="https://threatpost.com/cybersecurity-bug-hunting-enterprise-confidence/164782/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey from Intel shows that most organizations prefer tech providers to have proactive security, but few meet security expectations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Rising Demand for DDoS Protection Software Market By 2020-2028<a href="https://thehackernews.com/2021/03/rising-demand-for-ddos-protection.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber and Lyft Pool Driver Info to Boost Passenger Safety<a href="https://www.infosecurity-magazine.com:443/news/uber-and-lyft-pool-driver-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Program will keep deactivated drivers off the roads
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

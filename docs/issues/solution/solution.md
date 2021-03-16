@@ -11,6 +11,20 @@ nav_order: 900195
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Twitter now supports multiple 2FA security keys on mobile and web<a href="https://www.bleepingcomputer.com/news/security/twitter-now-supports-multiple-2fa-security-keys-on-mobile-and-web/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has added support for multiple security keys to accounts with two-factor authentication (2FA) enabled for logging&nbsp;into the social network's web interface and mobile apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GLEIF CA Stakeholder Group accelerates integration of LEIs in digital certificates<a href="https://www.helpnetsecurity.com/2021/03/15/gleif-ca-stakeholder-group/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

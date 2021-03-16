@@ -11,6 +11,20 @@ nav_order: 900075
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Canada Revenue Agency locks out over 800,000 online accounts — here's what to know<a href="https://www.cbc.ca/news/politics/cra-accounts-locked-1.5947714?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Friday, the agency said the move is a precautionary cybersecurity measure and is being taken after a similar action in February, when over 100,000 accounts were locked.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Britain must boost cyber-attack capacity, PM Boris Johnson says<a href="https://ciso.economictimes.indiatimes.com/news/britain-must-boost-cyber-attack-capacity-pm-boris-johnson-says/81503851?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

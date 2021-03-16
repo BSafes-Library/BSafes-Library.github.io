@@ -8,6 +8,62 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Judge Upholds Privacy Lawsuit Against Google<a href="https://www.infosecurity-magazine.com:443/news/judge-upholds-privacy-lawsuit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will face allegations that it collected data of private browsing mode users
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Indicts Head of Alleged Crime Chat Comms Service<a href="https://www.securityweek.com/us-indicts-head-alleged-crime-chat-comms-service?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The indictments were presented Friday against Jean-Francois Eap, the head of Sky Global, and Thomas Herdman, a former high-level distributor of Sky Global devices, the department said Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CEO of Encrypted Chat Platform Indicted for Aiding Organised Criminals<a href="https://thehackernews.com/2021/03/ceo-of-encrypted-chat-platform-indicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Friday announced an indictment against Jean-Francois Eap, the CEO of encrypted messaging company Sky Global, and an associate for wilfully participating in a criminal enterprise to help international drug traffickers avoid law enforcement.  Eap (also known as "888888") and Thomas Herdman, a former high-level distributor of Sky Global devices, have been charged with a conspiracy to violate the federal Racketeer Influenced and Corrupt Organizations Act (RICO), according to warrants issued for their arrests.  "The indictment alleges that Sky Global generated hundreds of millions of dollars providing a service that allowed criminal networks around the world to hide their international drug trafficking activity from law enforcement," Acting U.S. Attorney Randy Grossman&nbsp; said &nbsp;in the announcement. "This groundbreaking investigation should send a serious message to companies who think they can aid criminals in their unlawful ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encrypted Comms CEO Indicted in Drug Trafficking Conspiracy<a href="https://www.infosecurity-magazine.com:443/news/encrypted-comms-ceo-indicted-drug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arrest warrant issued for Sky Global boss Jean-Francois Eap
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

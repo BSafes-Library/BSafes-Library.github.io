@@ -11,6 +11,38 @@ nav_order: 900163
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Swiss authorities raid home of hacker potentially responsible for breaching surveillance cameras<a href="https://thehill.com//policy/cybersecurity/543255-swiss-authorities-raid-home-of-hacker-potentially-responsible-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss law enforcement raided the home of a hacker potentially responsible for breaching around 150,000 surveillance cameras, exposing sensitive footage from homes, hospitals, and prisons.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ indicted the CEO of Sky Global encrypted chat platform<a href="https://securityaffairs.co/wordpress/115629/cyber-crime/sky-global-ceo-indicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of the encrypted communications firm Sky Global has been indicted in the US on charges of facilitating international drug trafficking
+
+
+
+The head of the Canada-based company Sky Global that provides encrypted communications, Jean-Francois Eap,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Judge Upholds Privacy Lawsuit Against Google<a href="https://www.infosecurity-magazine.com:443/news/judge-upholds-privacy-lawsuit/"> Full Text</a>
 </p>
 <details>

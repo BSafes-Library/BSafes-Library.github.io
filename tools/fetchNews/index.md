@@ -34,7 +34,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases one-click Exchange On-Premises Mitigation Tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-one-click-exchange-on-premises-mitigation-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a one-click Exchange On-premises Mitigation Tool (EOMT) tool to allow small business owners to easily mitigate the recently disclosed ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security ratings could raise the bar on cyber hygiene, but won’t stop the next SolarWinds<a href="https://www.scmagazine.com/home/government/security-labeling-could-raise-the-bar-on-cyber-hygiene-but-wont-stop-the-next-solarwinds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of security ratings, noted by Biden officials, is one that the cybersecurity community has batted around for some time: place a label on the box that says a product is or is not secure, and let consumers create a market around security. But experts say the simplicity of that concept is both its strength and its weakness.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook to label all posts that discuss coronavirus vaccines | Swiss authorities raid home of alleged surveillance camera hacker | Study finds overlap between vaccine hesitancy and QAnon<a href="https://thehill.com//policy/technology/overnights/543302-hillicon-valley-facebook-to-label-all-posts-that-discuss"> Full Text</a>
@@ -50,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot has Filled in Emotet’s Void - Threat Index Report<a href="https://cyware.com/news/trickbot-has-filled-in-emotets-void-threat-index-report-4a8dcdde"> Full Text</a>
@@ -66,7 +98,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IronNet to go public in $1.2 billion deal, as CEO Alexander warns of start of ‘digital arms race’<a href="https://www.scmagazine.com/home/security-news/corporate-news/ironnet-to-go-public-in-1-2-billion-deal-as-ceo-alexander-warns-of-start-of-digital-arms-race/"> Full Text</a>
@@ -82,7 +114,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Bug-Hunting Sparks Enterprise Confidence<a href="https://threatpost.com/cybersecurity-bug-hunting-enterprise-confidence/164782/"> Full Text</a>
@@ -98,7 +130,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blender website in maintenance mode after hacking attempt<a href="https://www.bleepingcomputer.com/news/security/blender-website-in-maintenance-mode-after-hacking-attempt/"> Full Text</a>
@@ -114,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 School district IT leaders grade their handling of past malware attacks<a href="https://www.scmagazine.com/disaster-recovery/school-district-it-leaders-grade-their-handling-of-past-malware-attacks/"> Full Text</a>
@@ -130,7 +162,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Ransomware with Different Modus Operandi are Making Inroads<a href="https://cyware.com/news/two-ransomware-with-different-modus-operandi-are-making-inroads-549b48fd"> Full Text</a>
@@ -146,7 +178,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What You Need to Know About RedEcho<a href="https://cyware.com/news/what-you-need-to-know-about-redecho-ed0f0f6b"> Full Text</a>
@@ -162,7 +194,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Actors Coming After Your Hypervisor<a href="https://cyware.com/news/ransomware-actors-coming-after-your-hypervisor-351a6b0a"> Full Text</a>
@@ -178,7 +210,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Side-Channel Attack that Works Without Scripting Support<a href="https://cyware.com/news/a-side-channel-attack-that-works-without-scripting-support-20e25757"> Full Text</a>
@@ -194,7 +226,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple APT Groups Now Targeting Microsoft Exchange Servers<a href="https://cyware.com/news/multiple-apt-groups-now-targeting-microsoft-exchange-servers-09311355"> Full Text</a>
@@ -210,7 +242,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RTM and Quoter Ransomware - A Deadly Combo<a href="https://cyware.com/news/rtm-and-quoter-ransomware-a-deadly-combo-2b1072f6"> Full Text</a>
@@ -226,7 +258,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss authorities raid home of hacker potentially responsible for breaching surveillance cameras<a href="https://thehill.com//policy/cybersecurity/543255-swiss-authorities-raid-home-of-hacker-potentially-responsible-for"> Full Text</a>
@@ -242,7 +274,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoJ indicted the CEO of Sky Global encrypted chat platform<a href="https://securityaffairs.co/wordpress/115629/cyber-crime/sky-global-ceo-indicted.html"> Full Text</a>
@@ -262,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks See Fundamental Changes, A Year into COVID-19<a href="https://threatpost.com/cyberattacks-fundamental-changes-covid-19/164775/"> Full Text</a>
@@ -278,7 +310,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter now supports multiple 2FA security keys on mobile and web<a href="https://www.bleepingcomputer.com/news/security/twitter-now-supports-multiple-2fa-security-keys-on-mobile-and-web/"> Full Text</a>
@@ -294,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerable Australian Kids Impacted by Data Breach<a href="https://www.infosecurity-magazine.com:443/news/vulnerable-australian-kids/"> Full Text</a>
@@ -310,7 +342,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police shut down Android app that turned smartphones into proxies<a href="https://therecord.media/police-shut-down-android-app-that-transformed-smartphones-into-proxies/?&web_view=true"> Full Text</a>
@@ -326,7 +358,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing sites now detect virtual machines to bypass detection<a href="https://www.bleepingcomputer.com/news/security/phishing-sites-now-detect-virtual-machines-to-bypass-detection/"> Full Text</a>
@@ -342,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HeraSoft Looks To Stop Ransomware Attacks After $5M Series A<a href="https://news.crunchbase.com/news/herasoft-looks-to-stop-ransomware-attacks-after-5m-raise/?&web_view=true"> Full Text</a>
@@ -358,7 +390,7 @@ CrunchBase News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada Revenue Agency locks out over 800,000 online accounts — here's what to know<a href="https://www.cbc.ca/news/politics/cra-accounts-locked-1.5947714?&web_view=true"> Full Text</a>
@@ -374,7 +406,7 @@ CBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lookout Enters SASE Market Through Acquisition of CipherCloud<a href="https://www.infosecurity-magazine.com:443/news/lookout-sase-market-acquisition/"> Full Text</a>
@@ -390,7 +422,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZHtrap Botnet Deploys Honeypots to Trap and Takeover Infected Devices From Competing Botnets<a href="https://therecord.media/zhtrap-botnet-deploys-honeypots-to-trapsteal-bots-from-rivals/?&web_view=true"> Full Text</a>
@@ -406,7 +438,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2021
+March 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OVH Data Center Fire Impacts Cyber-criminals<a href="https://www.infosecurity-magazine.com:443/news/ovh-data-center-fire-impacts/"> Full Text</a>

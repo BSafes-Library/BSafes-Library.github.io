@@ -11,6 +11,34 @@ nav_order: 900220
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases one-click Exchange On-Premises Mitigation Tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-one-click-exchange-on-premises-mitigation-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a one-click Exchange On-premises Mitigation Tool (EOMT) tool to allow small business owners to easily mitigate the recently disclosed ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Side-Channel Attack that Works Without Scripting Support<a href="https://cyware.com/news/a-side-channel-attack-that-works-without-scripting-support-20e25757"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered the first browser side-channel attack that is JavaScript-free and it appears that the new Apple M1 chips may be vulnerable to the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ProxyLogon Microsoft Exchange exploit is completely out of the bag by now<a href="https://securityaffairs.co/wordpress/115616/hacking/microsoft-exchange-exploit-is-out.html"> Full Text</a>
 </p>
 <details>
