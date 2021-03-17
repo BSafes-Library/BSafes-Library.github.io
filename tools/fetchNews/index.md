@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Infrastructure Security Specialist Optilan Appoints Adrian Bannister as CFO<a href="https://www.infosecurity-magazine.com:443/news/optilan-appoints-adrian-bannister/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bannister brings over 25 years of financial experience to the firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Mirai Variant Targeting IoT & Network Security Devices<a href="https://cybersecuritynews.com/new-mirai-variant-iot/"> Full Text</a>
 </p>
 <details>
