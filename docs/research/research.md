@@ -18,6 +18,17 @@ The effects of identity theft can haunt data breach victims for years. Some vict
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+January, 2021  
+• Israel’s Perspective on Key Legal and Practical Issues Concerning the Application of International Law to Cyber Operations [HTML](https://papers.bsafes.com/docs/law/israels-perspective-on-key-legal-and-practical-issues-concerning-the-application-of-international-law-to-cyber-operations/#contents)
+</p>
+<details>
+  <summary>Abstract</summary>
+I would like to present, here today, Israel’s perspective on key aspects of the application of international law in connection with cyber operations, with a particular emphasis on issues related to the use of force and armed conflicts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 Winter, 2021   
 • A Post for Change: Social Media and the Unethical Dissemination of Nonconsensual Pornography [HTML](https://papers.bsafes.com/docs/privacy/a-post-for-change-social-media-and-the-unethical-dissemination-of-nonconsensual-pornography/)
 </p>
