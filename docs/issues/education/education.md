@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UK Cyber Security Council to be official governing body on training and standards<a href="https://www.gov.uk/government/news/new-uk-cyber-security-council-to-be-official-governing-body-on-training-and-standards?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK government has set up a new independent body, the UK Cyber Security Council, to boost career opportunities and professional standards for the UK’s booming cyber security sector.
+</details>
+<div style="text-align: right" markdown="1">
+Gov.UK
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

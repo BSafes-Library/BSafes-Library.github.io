@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Paradigm in Data Security: Insider Risk Management<a href="https://threatpost.com/a-new-paradigm-in-data-security-insider-risk-management/164768/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insider Risk Management builds a framework around the new paradigm of “risk tolerance,” aiming to give security teams the visibility and context around data activity to protect that data, without putting rigid constraints on users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

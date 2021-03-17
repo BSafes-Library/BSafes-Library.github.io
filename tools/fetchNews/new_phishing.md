@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SBI, ICICI, HDFC, Axis Bank, PNB and the Indian IT department targeted in phishing scam<a href="https://ciso.economictimes.indiatimes.com/news/sbi-icici-hdfc-axis-bank-pnb-and-the-indian-it-department-targeted-in-phishing-scam/81522843?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted banks in the campaign include the State Bank of India, ICICI, HDFC, Axis Bank and Punjab National Bank, revealed an investigation by CyberPeace Foundation and Autobot Infosec.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nurseries sent first official cyber-attack warning<a href="https://www.bbc.com/news/education-56403778?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sarah Lyons, deputy director for economy and society engagement at the NCSC, said across educational settings it was "vital that all providers know how to secure their devices and sensitive data".
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

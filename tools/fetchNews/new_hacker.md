@@ -8,6 +8,110 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-sponsored Threat Groups Target Telcos, Steal 5G Secrets<a href="https://threatpost.com/state-sponsored-threat-groups-target-telcos-steal-5g-secrets/164841/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say China-linked APTs lure victims with bogus Huawei career pages in what they dub ‘Operation Diànxùn’.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Webinar] Oy Vey, We Hired a Large, Hairy Hacker…<a href="https://thehackernews.com/2021/03/webinar-oy-vey-we-hired-large-hairy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's not every day that one of the best-known independent cybersecurity individuals joins a cybersecurity company. The two are generally on opposite sides of the coin, with little crossover.  After all, they're usually concerned with different parts of the cybersecurity puzzle – one providing platforms and tools to defend organizations, the other keeping them accountable and looking for blind spots in even the best security tools.  That seems to be changing, however, with a recent appointment.  Cynet, an Autonomous XDR provider that recently closed a Series C funding round worth $40 million, announced that it has hired Chris Roberts as their Chief Security Strategist.  Roberts is world-renowned in counter-threat intelligence, as well as in vulnerability and threat research fields, thanks to decades of experience. As part of his efforts at Cynet, Roberts will be focusing his work on helping empower and connect security professionals from organizations outside of the Fortune 200
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors thriving on the fear and uncertainty of remote workforces<a href="https://www.helpnetsecurity.com/2021/03/17/threat-actors-remote-workforces/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WFH reality resulted in an unprecedented change for organizations as they fought to defend exponentially greater attack surfaces from cybercriminals armed with powerful cloud-based tools.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Actors Target Global 5G Operators<a href="https://www.infosecurity-magazine.com:443/news/chinese-threat-actors-target/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spoofed Huawei phishing page lures employees
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher adds his fake package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-his-fake-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases.
+The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hackers stole some of Mimecast source code<a href="https://securityaffairs.co/wordpress/115670/data-breach/solarwinds-hackers-stole-mimecast-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Mimecast confirmed that SolarWinds hackers who breached its network stole some of its source code.
+
+
+
+Back in December, the&nbsp;SolarWinds supply chain attack&nbsp;made the headlines when a Russian cyber espionage group tampered with updates...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher adds their package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to add their own test package to the official list of Microsoft Azure SDK latest releases.
+The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

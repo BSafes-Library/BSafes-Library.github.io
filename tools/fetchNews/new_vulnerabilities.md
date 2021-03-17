@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter images can be abused to hide ZIP, MP3 files — here's how<a href="https://www.bleepingcomputer.com/news/security/twitter-images-can-be-abused-to-hide-zip-mp3-files-heres-how/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, a researcher disclosed a method&nbsp;of hiding&nbsp;up to three&nbsp;MB of data inside a Twitter&nbsp;image. In his demonstration, the researcher showed both&nbsp;MP3 audio files and ZIP archives contained within the PNG images hosted on Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration convenes government, private sector groups to respond to Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/543605-biden-administration-convenes-government-private-sector-groups-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House officials said Wednesday that the Biden administration has formally stood up a task force of government and private sector groups as it works to investigate and respond to the recently uncovered cyber espionage incident involving a Microsoft email application.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft breach ramps up pressure on Biden to tackle cyber vulnerabilities<a href="https://thehill.com//policy/cybersecurity/543535-microsoft-breach-ramps-up-pressure-on-biden-to-tackle-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is coming under increasing pressure to address U.S. cybersecurity vulnerabilities following the Microsoft breach that has quickly been viewed as a massive threat to the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases one-click mitigation tool for Exchange Server hacks<a href="https://www.zdnet.com/article/microsoft-releases-one-click-mitigation-tool-for-exchange-server-hacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Released on Monday, the tool is designed to mitigate the threat posed by four actively-exploited vulnerabilities that have collectively caused havoc for organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old Linux storage bugs, new security patches<a href="https://www.zdnet.com/article/old-linux-storage-bugs-new-security-patches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of security holes -- CVE-2021-27365, CVE-2021-27363, and CVE-2021-27364 -- was found by security company GRIMM researchers in an almost forgotten corner of the mainline Linux kernel.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

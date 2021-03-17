@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Nurseries Get First Official Cyber-Attack Warning<a href="https://www.infosecurity-magazine.com:443/news/ncsc-warning-to-nurseries/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCSC warns childminders and nurseries to safeguard personal data and be wary of malware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cream Finance and PancakeSwap Cryptocurrency Portals Experience DNS Hijacking Attacks Simultaneously<a href="https://therecord.media/two-cryptocurrency-portals-are-experiencing-a-dns-hijack-at-the-same-time/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a source who tipped The Record earlier today, the same attacker is believed to be behind both incidents as DNS records for both websites were changed within a minute of each other.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

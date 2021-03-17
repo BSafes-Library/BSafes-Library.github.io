@@ -11,6 +11,34 @@ nav_order: 900072
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US Intel says Russia, Iran sought to influence elections | Advocates press Facebook to combat Spanish-language disinformation | Five attorneys general join lawsuit against Google<a href="https://thehill.com//policy/technology/overnights/543522-hillicon-valley-us-intel-says-russia-iran-sought-to-influence"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top U.S. intelligence officials on Wednesday concluded that Russia and Iran attempted to interfere in the 2020 elections, but did not change any votes. Meanwhile, Facebook is facing fierce pushback over its handling of Spanish-language disinformation, with at least one Democrat saying he will raise the issue at next week’s House Energy and Commerce Hearing. Google’s challenges are also growing, with five more attorneys general jumping onto the Texas-led lawsuit against the Silicon Valley giant, including the first Democrat to join the effort.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: The Former Lingerie Salesman Who Has Putin's Knickers in a Twist<a href="https://www.lawfareblog.com/cyberlaw-podcast-former-lingerie-salesman-who-has-putins-knickers-twist"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we interview Eliot Higgins, founder and executive director of the online investigative collective Bellingcat and author of
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ‘Women faces among all of those white men’: Digital Guardian chiefs explain why it matters<a href="https://www.scmagazine.com/women-in-it-security/women-faces-among-all-of-those-white-men-digital-guardian-chiefs-explain-why-it-matters/"> Full Text</a>
 </p>
 <details>

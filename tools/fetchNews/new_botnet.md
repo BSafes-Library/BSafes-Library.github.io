@@ -8,6 +8,42 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZHtrap botnet uses honeypot to find more victims<a href="https://securityaffairs.co/wordpress/115684/cyber-crime/zhtrap-botnet-honeypot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netlab 360 experts discovered a new Mirai-based botnet dubbed ZHtrap that implements honeypot to find more victims.
+
+
+
+Researchers from Netlab 360 discovered a new Mirai-based botnet dubbed ZHtrap that implements honeypot to find more victims.
+
+
+
+ZHtrap...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Network Attack Campaign Delivered by Cutwail Botnet and Poisonous PowerShell Scripts<a href="https://cybersecuritynews.com/dridex-network-attack-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The IBM X-Force threat intelligence team has recently reported that they are continuously witnessing a huge increase in Dridex-related network attacks, and...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

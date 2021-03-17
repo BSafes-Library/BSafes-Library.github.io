@@ -11,6 +11,20 @@ nav_order: 900025
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New botnet targets network security devices with critical exploits<a href="https://www.bleepingcomputer.com/news/security/new-botnet-targets-network-security-devices-with-critical-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authors of a new botnet are targeting connected devices affected by critical-level vulnerabilities, some of them impacting network security devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Mirai Variant and ZHtrap Botnet Malware Emerge in the Wild<a href="https://thehackernews.com/2021/03/new-mirai-variant-and-zhtrap-botnet.html"> Full Text</a>
 </p>
 <details>

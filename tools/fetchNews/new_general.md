@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of Incident Response Pros Want Better Work-Life Balance<a href="https://www.infosecurity-magazine.com:443/news/ir-pros-better-work-life-balance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Study highlights key factors IR pros look for in prospective employers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than a Quarter of Threats Never Seen Before<a href="https://www.infosecurity-magazine.com:443/news/more-than-quarter-threats-never/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP reveals widespread use of packers and obfuscation
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIA publishes process-based supply chain security standard for the ICT industry<a href="https://www.helpnetsecurity.com/2021/03/16/tia-scs-9001/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Telecommunications Industry Association published a new white paper on SCS 9001, a process-based supply chain security standard for the information communications technology (ICT) industry.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

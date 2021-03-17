@@ -11,6 +11,34 @@ nav_order: 900195
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Argon emerges from stealth as concern over software supply chain integrity peaks<a href="https://www.scmagazine.com/home/security-news/argon-emerges-from-stealth-as-concern-over-software-supply-chain-integrity-peaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Argon’s main pitch — that it aims to secure the integrity of the software development and update process — has become increasingly relevant to industry following the SolarWinds breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Users Can Now Secure Accounts With Multiple Security Keys<a href="https://www.securityweek.com/twitter-users-can-now-secure-accounts-multiple-security-keys?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Secure your account (and that alt) with multiple security keys. Now you can enroll and log in with more than one physical key on both mobile and web,” the company announced.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Twitter Updates 2FA to Enable Use of Multiple Security Keys<a href="https://www.infosecurity-magazine.com:443/news/twitter-2fa-security-keys/"> Full Text</a>
 </p>
 <details>
