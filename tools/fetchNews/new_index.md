@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+China suspected of cyber attack on Western Australia's Parliament during state election<a href="https://www.abc.net.au/news/2021-03-17/wa-parliament-targeted-cyber-attack/13253926?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Australia's parliamentary email network was hit by suspected Chinese hackers earlier this month as part of a massive global cyber-attack involving Microsoft software.
+</details>
+<div style="text-align: right" markdown="1">
+ABC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Twitter images can be abused to hide ZIP, MP3 files — here's how<a href="https://www.bleepingcomputer.com/news/security/twitter-images-can-be-abused-to-hide-zip-mp3-files-heres-how/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acronis acquires Synapsys to extend cyber protection solutions to organizations across Africa<a href="https://www.helpnetsecurity.com/2021/03/17/acronis-synapsys/?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration convenes government, private sector groups to respond to Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/543605-biden-administration-convenes-government-private-sector-groups-to"> Full Text</a>
@@ -82,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mimecast Finds SolarWinds Hackers Stole Some of Its Source Code<a href="https://thehackernews.com/2021/03/mimecast-finds-solarwinds-hackers-stole.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50% of Incident Response Pros Want Better Work-Life Balance<a href="https://www.infosecurity-magazine.com:443/news/ir-pros-better-work-life-balance/"> Full Text</a>
@@ -114,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ZHtrap botnet uses honeypot to find more victims<a href="https://securityaffairs.co/wordpress/115684/cyber-crime/zhtrap-botnet-honeypot.html"> Full Text</a>
@@ -138,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-sponsored Threat Groups Target Telcos, Steal 5G Secrets<a href="https://threatpost.com/state-sponsored-threat-groups-target-telcos-steal-5g-secrets/164841/"> Full Text</a>
@@ -154,7 +170,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's Azure SDK site tricked into listing fake package<a href="https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/"> Full Text</a>
@@ -171,7 +187,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sensitive data from US shipping management software firm exposed online<a href="https://www.hackread.com/shipping-management-software-firm-data-online/?&web_view=true"> Full Text</a>
@@ -187,7 +203,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft breach ramps up pressure on Biden to tackle cyber vulnerabilities<a href="https://thehill.com//policy/cybersecurity/543535-microsoft-breach-ramps-up-pressure-on-biden-to-tackle-cyber"> Full Text</a>
@@ -203,7 +219,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Webinar] Oy Vey, We Hired a Large, Hairy Hacker…<a href="https://thehackernews.com/2021/03/webinar-oy-vey-we-hired-large-hairy.html"> Full Text</a>
@@ -219,7 +235,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC Charges Man Over Cannabis Firm Pump-and-Dump<a href="https://www.infosecurity-magazine.com:443/news/sec-charges-man-cannabis/"> Full Text</a>
@@ -235,7 +251,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of PYSA Ransomware attacks against Education Institutions in US and UK<a href="https://securityaffairs.co/wordpress/115679/cyber-crime/fbi-alert-pysa-ransomware.html"> Full Text</a>
@@ -255,7 +271,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Paradigm in Data Security: Insider Risk Management<a href="https://threatpost.com/a-new-paradigm-in-data-security-insider-risk-management/164768/"> Full Text</a>
@@ -271,7 +287,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors thriving on the fear and uncertainty of remote workforces<a href="https://www.helpnetsecurity.com/2021/03/17/threat-actors-remote-workforces/?&web_view=true"> Full Text</a>
@@ -287,7 +303,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Threat Actors Target Global 5G Operators<a href="https://www.infosecurity-magazine.com:443/news/chinese-threat-actors-target/"> Full Text</a>
@@ -303,7 +319,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UK Cyber Security Council to be official governing body on training and standards<a href="https://www.gov.uk/government/news/new-uk-cyber-security-council-to-be-official-governing-body-on-training-and-standards?&web_view=true"> Full Text</a>
@@ -319,7 +335,7 @@ Gov.UK
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's latest cloud authentication outage: What went wrong<a href="https://www.zdnet.com/article/microsofts-latest-cloud-authentication-outage-what-went-wrong/?&web_view=true"> Full Text</a>
@@ -335,7 +351,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-based Mustang Panda APT Targets Telecom Companies to Steal 5G Secrets<a href="https://www.zdnet.com/article/hackers-are-targeting-telecoms-companies-to-steal-5g-secrets/?&web_view=true"> Full Text</a>
@@ -351,7 +367,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity insurance company Coalition raises $175M to secure the modern enterprise<a href="https://venturebeat.com/2021/03/17/cybersecurity-insurance-company-coalition-raises-175m-to-secure-the-modern-enterprise/?&web_view=true"> Full Text</a>
@@ -367,7 +383,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than a Quarter of Threats Never Seen Before<a href="https://www.infosecurity-magazine.com:443/news/more-than-quarter-threats-never/"> Full Text</a>
@@ -383,7 +399,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nurseries sent first official cyber-attack warning<a href="https://www.bbc.com/news/education-56403778?&web_view=true"> Full Text</a>
@@ -399,7 +415,7 @@ BBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 18-Year-Old Hacker Gets 3 Years in Prison for Massive Twitter 'Bitcoin Scam' Hack<a href="https://thehackernews.com/2021/03/18-year-old-hacker-gets-3-years-in.html"> Full Text</a>
@@ -415,7 +431,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack on Pimpri Chinchwad Smart City servers managed by Tech Mahindra<a href="https://ciso.economictimes.indiatimes.com/news/ransomware-attack-on-pimpri-chinchwad-smart-city-servers-managed-by-tech-mahindra/81522854?&web_view=true"> Full Text</a>
@@ -431,7 +447,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher adds his fake package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-his-fake-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
@@ -448,7 +464,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TIA publishes process-based supply chain security standard for the ICT industry<a href="https://www.helpnetsecurity.com/2021/03/16/tia-scs-9001/?&web_view=true"> Full Text</a>
@@ -464,7 +480,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SBI, ICICI, HDFC, Axis Bank, PNB and the Indian IT department targeted in phishing scam<a href="https://ciso.economictimes.indiatimes.com/news/sbi-icici-hdfc-axis-bank-pnb-and-the-indian-it-department-targeted-in-phishing-scam/81522843?&web_view=true"> Full Text</a>
@@ -480,7 +496,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hackers stole some of Mimecast source code<a href="https://securityaffairs.co/wordpress/115670/data-breach/solarwinds-hackers-stole-mimecast-code.html"> Full Text</a>
@@ -500,7 +516,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases one-click mitigation tool for Exchange Server hacks<a href="https://www.zdnet.com/article/microsoft-releases-one-click-mitigation-tool-for-exchange-server-hacks/?&web_view=true"> Full Text</a>
@@ -516,7 +532,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher adds their package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
@@ -533,7 +549,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple May Start Delivering Security Patches Separately From Other OS Updates<a href="https://thehackernews.com/2021/03/apple-may-start-delivering-security.html"> Full Text</a>
@@ -549,7 +565,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Old Linux storage bugs, new security patches<a href="https://www.zdnet.com/article/old-linux-storage-bugs-new-security-patches/?&web_view=true"> Full Text</a>
@@ -565,7 +581,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex Network Attack Campaign Delivered by Cutwail Botnet and Poisonous PowerShell Scripts<a href="https://cybersecuritynews.com/dridex-network-attack-campaign/"> Full Text</a>

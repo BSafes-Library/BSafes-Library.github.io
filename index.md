@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China suspected of cyber attack on Western Australia's Parliament during state election<a href="https://www.abc.net.au/news/2021-03-17/wa-parliament-targeted-cyber-attack/13253926?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Australia's parliamentary email network was hit by suspected Chinese hackers earlier this month as part of a massive global cyber-attack involving Microsoft software.
+</details>
+<div style="text-align: right" markdown="1">
+ABC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
