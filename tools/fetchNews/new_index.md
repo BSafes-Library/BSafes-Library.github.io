@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Variant Targeting IoT & Network Security Devices<a href="https://cybersecuritynews.com/new-mirai-variant-iot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Unit 42 researchers observed a new Mirai variant targeting IoT and network security devices. They discovered attacks leveraging several vulnerabilities, including:
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$4,000 COVID-19 ‘Relief Checks’ Cloak Dridex Malware<a href="https://threatpost.com/covid-19-relief-checks-dridex-malware/164853/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Rescue Act is the latest zeitgeisty lure being circulated in an email campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dropbox to Make Password Manager Feature Free for All Users<a href="https://www.infosecurity-magazine.com:443/news/dropbox-password-manager-free/"> Full Text</a>
 </p>
 <details>
