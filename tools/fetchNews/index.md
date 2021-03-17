@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+White House forms public-private task force to tackle Microsoft Exchange hack<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-forms-public-private-task-force-to-tackle-microsoft-exchange-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Unified Coordination Group established by the National Security Council includes officials from the FBI, the Cybersecurity and Infrastructure Security Agency at DHS, the Office of the Director of National Intelligence and the NSA, as well as private sector companies with “specific insights to this incident.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China-linked hackers target telcos to steal 5G secrets<a href="https://securityaffairs.co/wordpress/115693/apt/chinese-hackers-5g.html"> Full Text</a>
 </p>
 <details>
