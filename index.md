@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Old Linux storage bugs, new security patches<a href="https://www.zdnet.com/article/old-linux-storage-bugs-new-security-patches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of security holes -- CVE-2021-27365, CVE-2021-27363, and CVE-2021-27364 -- was found by security company GRIMM researchers in an almost forgotten corner of the mainline Linux kernel.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dridex Network Attack Campaign Delivered by Cutwail Botnet and Poisonous PowerShell Scripts<a href="https://cybersecuritynews.com/dridex-network-attack-campaign/"> Full Text</a>
 </p>
 <details>
