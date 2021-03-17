@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+China-linked hackers target telcos to steal 5G secrets<a href="https://securityaffairs.co/wordpress/115693/apt/chinese-hackers-5g.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese APT groups are targeting telecom companies in cyberespionage campaigns collectively tracked as Operation Diànxùn, to steal 5G secrets.
+
+
+
+Chinese-language threat actors are targeting telecom companies, as part of a cyber espionage campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CompTIA Launches Training Catalogue to Promote “Outstanding” IT Apprenticeships<a href="https://www.infosecurity-magazine.com:443/news/comptia-training-catalogue-it/"> Full Text</a>
 </p>
 <details>
