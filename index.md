@@ -37,6 +37,339 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Twitter images can be abused to hide ZIP, MP3 files — here's how<a href="https://www.bleepingcomputer.com/news/security/twitter-images-can-be-abused-to-hide-zip-mp3-files-heres-how/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, a researcher disclosed a method of hiding up to three MB of data inside a Twitter image. In his demonstration, the researcher showed both MP3 audio files and ZIP archives contained within the PNG images hosted on Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis acquires Synapsys to extend cyber protection solutions to organizations across Africa<a href="https://www.helpnetsecurity.com/2021/03/17/acronis-synapsys/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acronis announced to acquire Synapsys, its partner located in Cape Town, South Africa that specializes in distributing Acronis Cyber Protection Solutions through the service provider channel.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration convenes government, private sector groups to respond to Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/543605-biden-administration-convenes-government-private-sector-groups-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House officials said Wednesday that the Biden administration has formally stood up a task force of government and private sector groups as it works to investigate and respond to the recently uncovered cyber espionage incident involving a Microsoft email application.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast Finds SolarWinds Hackers Stole Some of Its Source Code<a href="https://thehackernews.com/2021/03/mimecast-finds-solarwinds-hackers-stole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security firm Mimecast on Tuesday revealed that the state-sponsored SolarWinds hackers who broke into its internal network also downloaded source code out of a limited number of repositories.  "The threat actor did access a subset of email addresses and other contact information and hashed and salted credentials," the company  said  in a write-up detailing its investigation, adding the adversary "accessed and downloaded a limited number of our source code repositories, as the threat actor is reported to have done with other victims of the SolarWinds Orion supply chain attack."  But Mimecast said the source code downloaded by the attackers was incomplete and would be insufficient to build and run any aspect of the Mimecast service and that it did not find signs of any tampering made by the threat actor to the build process associated with the executables that are distributed to its customers.    On January 12, Mimecast  disclosed  that that "a sophisticat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of Incident Response Pros Want Better Work-Life Balance<a href="https://www.infosecurity-magazine.com:443/news/ir-pros-better-work-life-balance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Study highlights key factors IR pros look for in prospective employers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZHtrap botnet uses honeypot to find more victims<a href="https://securityaffairs.co/wordpress/115684/cyber-crime/zhtrap-botnet-honeypot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netlab 360 experts discovered a new Mirai-based botnet dubbed ZHtrap that implements honeypot to find more victims.
+
+
+
+Researchers from Netlab 360 discovered a new Mirai-based botnet dubbed ZHtrap that implements honeypot to find more victims.
+
+
+
+ZHtrap...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-sponsored Threat Groups Target Telcos, Steal 5G Secrets<a href="https://threatpost.com/state-sponsored-threat-groups-target-telcos-steal-5g-secrets/164841/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say China-linked APTs lure victims with bogus Huawei career pages in what they dub ‘Operation Diànxùn’.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Azure SDK site tricked into listing fake package<a href="https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases.
+The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive data from US shipping management software firm exposed online<a href="https://www.hackread.com/shipping-management-software-firm-data-online/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data, which belonged to New Jersy based Descartes Aljex Software, was exposed by a misconfigured AWS S3 Bucket which left it unsecured and vulnerable to intrusion by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft breach ramps up pressure on Biden to tackle cyber vulnerabilities<a href="https://thehill.com//policy/cybersecurity/543535-microsoft-breach-ramps-up-pressure-on-biden-to-tackle-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is coming under increasing pressure to address U.S. cybersecurity vulnerabilities following the Microsoft breach that has quickly been viewed as a massive threat to the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Webinar] Oy Vey, We Hired a Large, Hairy Hacker…<a href="https://thehackernews.com/2021/03/webinar-oy-vey-we-hired-large-hairy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's not every day that one of the best-known independent cybersecurity individuals joins a cybersecurity company. The two are generally on opposite sides of the coin, with little crossover.  After all, they're usually concerned with different parts of the cybersecurity puzzle – one providing platforms and tools to defend organizations, the other keeping them accountable and looking for blind spots in even the best security tools.  That seems to be changing, however, with a recent appointment.  Cynet, an Autonomous XDR provider that recently closed a Series C funding round worth $40 million, announced that it has hired Chris Roberts as their Chief Security Strategist.  Roberts is world-renowned in counter-threat intelligence, as well as in vulnerability and threat research fields, thanks to decades of experience. As part of his efforts at Cynet, Roberts will be focusing his work on helping empower and connect security professionals from organizations outside of the Fortune 200
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Charges Man Over Cannabis Firm Pump-and-Dump<a href="https://www.infosecurity-magazine.com:443/news/sec-charges-man-cannabis/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individual allegedly amplified false statements via Twitter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of PYSA Ransomware attacks against Education Institutions in US and UK<a href="https://securityaffairs.co/wordpress/115679/cyber-crime/fbi-alert-pysa-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued an alert to warn about an increase in PYSA ransomware attacks on education institutions in the US and UK.
+
+
+
+The FBI has issued Tuesday an alert to warn about an increase in PYSA ransomware attacks against education institutions in the United...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Paradigm in Data Security: Insider Risk Management<a href="https://threatpost.com/a-new-paradigm-in-data-security-insider-risk-management/164768/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insider Risk Management builds a framework around the new paradigm of “risk tolerance,” aiming to give security teams the visibility and context around data activity to protect that data, without putting rigid constraints on users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors thriving on the fear and uncertainty of remote workforces<a href="https://www.helpnetsecurity.com/2021/03/17/threat-actors-remote-workforces/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WFH reality resulted in an unprecedented change for organizations as they fought to defend exponentially greater attack surfaces from cybercriminals armed with powerful cloud-based tools.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Actors Target Global 5G Operators<a href="https://www.infosecurity-magazine.com:443/news/chinese-threat-actors-target/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spoofed Huawei phishing page lures employees
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UK Cyber Security Council to be official governing body on training and standards<a href="https://www.gov.uk/government/news/new-uk-cyber-security-council-to-be-official-governing-body-on-training-and-standards?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK government has set up a new independent body, the UK Cyber Security Council, to boost career opportunities and professional standards for the UK’s booming cyber security sector.
+</details>
+<div style="text-align: right" markdown="1">
+Gov.UK
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's latest cloud authentication outage: What went wrong<a href="https://www.zdnet.com/article/microsofts-latest-cloud-authentication-outage-what-went-wrong/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published a preliminary root cause analysis of its March 15 Azure Active Directory outage, which took down Office, Teams, Dynamics 365, Xbox Live, and other apps.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based Mustang Panda APT Targets Telecom Companies to Steal 5G Secrets<a href="https://www.zdnet.com/article/hackers-are-targeting-telecoms-companies-to-steal-5g-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 23 telecommunications providers in Southeast Asia, Europe, and the United States, are suspected to have been targeted as part of the campaign that has been active since at least August 2020.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity insurance company Coalition raises $175M to secure the modern enterprise<a href="https://venturebeat.com/2021/03/17/cybersecurity-insurance-company-coalition-raises-175m-to-secure-the-modern-enterprise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coalition, an enterprise-grade cybersecurity platform that specializes in providing insurance, has raised $175 million in its Series D round of funding led by Index Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 More Than a Quarter of Threats Never Seen Before<a href="https://www.infosecurity-magazine.com:443/news/more-than-quarter-threats-never/"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+More Than a Quarter of Threats Never Seen Before<a href="https://www.infosecurity-magazine.com:443/news/more-than-quarter-threats-never/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP reveals widespread use of packers and obfuscation
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Nurseries sent first official cyber-attack warning<a href="https://www.bbc.com/news/education-56403778?&web_view=true"> Full Text</a>
 </p>
 <details>
