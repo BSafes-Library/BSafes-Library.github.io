@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds threat actor gains access to Mimecast’s production grid environment<a href="https://www.scmagazine.com/home/email-security/solarwinds-threat-actor-gains-access-to-mimecasts-production-grid-environment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company earned kudos from security researchers for transparency and swift response, with one saying “I would have hoped to see more companies to be this responsive and forthcoming.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco Plugs Security Hole in Small Business Routers<a href="https://threatpost.com/cisco-security-hole-small-business-routers/164859/"> Full Text</a>
 </p>
 <details>
