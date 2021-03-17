@@ -37,6 +37,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researcher adds their package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to add their own test package to the official list of Microsoft Azure SDK latest releases.
+The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple May Start Delivering Security Patches Separately From Other OS Updates<a href="https://thehackernews.com/2021/03/apple-may-start-delivering-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple may be changing the way it delivers security patches to its devices running iOS and iPadOS mobile operating systems.  According to code spotted in iOS 14.5, the iPhone maker is reportedly working on a method for delivering security fixes independently of other OS updates.  The changes were first reported by  the 9to5Mac  website.   While Google's Android has had monthly security patches rolled out that are completely divorced from the OS-related updates, iOS has no option to install a security update without upgrading to the latest version of the OS.  But with this new setting called "Install Security Updates" added to the software update menu, it's expected that Apple will let users choose between either installing the entire iOS update or just the security updates, in a manner that echoes macOS.  On Macs running older versions of the operating system such as macOS Mojave, Apple has offered standalone update packs, allowing users to get security patches and bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Old Linux storage bugs, new security patches<a href="https://www.zdnet.com/article/old-linux-storage-bugs-new-security-patches/?&web_view=true"> Full Text</a>
 </p>
 <details>
