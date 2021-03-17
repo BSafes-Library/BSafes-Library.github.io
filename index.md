@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases one-click mitigation tool for Exchange Server hacks<a href="https://www.zdnet.com/article/microsoft-releases-one-click-mitigation-tool-for-exchange-server-hacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Released on Monday, the tool is designed to mitigate the threat posed by four actively-exploited vulnerabilities that have collectively caused havoc for organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researcher adds their package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
 </p>
 <details>
