@@ -11,6 +11,38 @@ nav_order: 900080
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Magecart hackers hide captured credit card data in JPG file<a href="https://securityaffairs.co/wordpress/115655/hacking/magecart-credit-card-jpg.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks devised a new method to hide credit card data siphoned from compromised e-stores, experts observed hackers hiding data in JPG files.
+
+
+
+Cybercriminals have devised a new method to hide credit card data siphoned from compromised online stores,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Attackers Save Stolen Credit-Card Data in .JPG File<a href="https://threatpost.com/magecart-attackers-stolen-data-jpg/164815/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Sucuri discovered the tactic, which creatively hides malicious activity until the info can be retrieved, during an investigation into a compromised Magento 2 e-commerce site.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers hide credit card data from compromised stores in JPG file<a href="https://www.bleepingcomputer.com/news/security/hackers-hide-credit-card-data-from-compromised-stores-in-jpg-file/"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,62 @@ nav_order: 900163
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Teen responsible for major Twitter hack to serve three years in prison<a href="https://thehill.com//policy/cybersecurity/543515-twitter-hacker-to-serve-three-years-in-prison"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A teenager responsible for masterminding a massive bitcoin scam last year that involved hacking Twitter accounts for various politicians and other high-profile figures&nbsp;has been sentenced to three years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen hacker agrees to 3 years in prison for Twitter Bitcoin scam<a href="https://www.bleepingcomputer.com/news/security/teen-hacker-agrees-to-3-years-in-prison-for-twitter-bitcoin-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Florida teenager has pleaded guilty to fraud charges after coordinating the hack of high-profile Twitter accounts to run a cryptocurrency scam that&nbsp;collected roughly&nbsp;$120,000 worth of bitcoins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mom &amp; Daughter Duo Hack Homecoming Crown<a href="https://threatpost.com/mom-daughter-duo-hack-homecoming-crown/164829/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Florida high-school student faces jail time for rigging her school’s Homecoming Queen election.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish Data Protection Agency Issues Highest Ever Fine<a href="https://www.infosecurity-magazine.com:443/news/aepd-issues-highest-ever-fine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AEPD fines Vodafone Spain a record-breaking $9.72m for failing to protect data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google to Face Lawsuit Over Tracking Users in ‘Incognito’ Mode<a href="https://cybersecuritynews.com/google-to-face-lawsuit/"> Full Text</a>
 </p>
 <details>

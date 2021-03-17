@@ -11,6 +11,76 @@ nav_order: 900029
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks payment data from defunct WeLeakInfo breach site<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-payment-data-from-defunct-weleakinfo-breach-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeLeakInfo was a website that offered paid subscriptions that provides searchable access to a database containing 12.5 billion user records stolen during data breaches. This data included email addresses, names, phone numbers, addresses, and in many cases, passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast: SolarWinds hackers stole some of our source code<a href="https://www.bleepingcomputer.com/news/security/mimecast-solarwinds-hackers-stole-some-of-our-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security company Mimecast&nbsp;has confirmed today that the state-sponsored SolarWinds hackers who breached its network earlier this year used the Sunburst backdoor during the&nbsp;initial intrusion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leak payment data from defunct WeLeakInfo breach site<a href="https://www.bleepingcomputer.com/news/security/hacker-leak-payment-data-from-defunct-weleakinfo-breach-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeLeakInfo was a website that offered paid subscriptions that provides searchable access to a database containing 12.5 billion user records stolen during data breaches. This data included email addresses, names, phone numbers, addresses, and in many cases, passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak payment data from defunct WeLeakInfo breach site<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-payment-data-from-defunct-weleakinfo-breach-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeLeakInfo was a website that offered paid subscriptions that provides searchable access to a database containing 12.5 billion user records stolen during data breaches. This data included email addresses, names, phone numbers, addresses, and in many cases, passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fastway Couriers Confirms Security Breach<a href="https://www.infosecurity-magazine.com:443/news/fastway-couriers-confirms-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigation launched after data breach puts 450k Fastway Couriers customers at risk
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacker Dumps Guns.com Database Containing Customer and Admin Data<a href="https://www.hackread.com/hacker-dumps-guns-com-database-customers-admin-data/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

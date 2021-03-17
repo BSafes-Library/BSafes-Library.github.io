@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Dumps Guns.com Database Containing Customer and Admin Data<a href="https://www.hackread.com/hacker-dumps-guns-com-database-customers-admin-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The actor behind the data dump claimed that it includes a complete database of Guns.com along with its source code. They further added that the breach took place somewhere around the end of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users of NFT Digital Art Marketplace Nifty Gateway Suffer Account Takeover and Theft Attacks<a href="https://www.cyberscoop.com/nft-nifty-gateway-hackers-digital-art-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many users of the digital art marketplace Nifty Gateway reported that hackers had taken over their accounts and stolen artwork worth thousands of dollars over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK College group closes all campuses for a week following ‘major’ cyber attack<a href="https://feweek.co.uk/2021/03/15/college-group-closes-all-campuses-for-a-week-following-major-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The eight sites of South and City College Birmingham will be shut and revert to online teaching from today while computer forensic specialists work to respond to the ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+FE Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

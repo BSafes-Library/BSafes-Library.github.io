@@ -32,6 +32,7 @@ Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-warns-of-vishing-attacks-stealing-corporate-accounts
 . https://www.bleepingcomputer.com/news/security/fbi-telephony-denial-of-service-attacks-can-lead-to-loss-of-lives/
 . https://threatpost.com/cisa-federal-agencies-patch-exchange-servers/164499/
+. https://www.bleepingcomputer.com/news/security/fbi-warns-of-escalating-pysa-ransomware-attacks-on-education-orgs/
 APT
 . APT27
 . APT37

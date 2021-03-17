@@ -11,6 +11,62 @@ nav_order: 900220
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google fixes five Chrome bugs, including one zero-day exploited in the wild<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/google-fixes-five-chrome-bugs-including-one-zero-day-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest news from Google warning to patch Chrome vulnerabilities came on the heels of news early last week that the vast majority of Chrome users take close to one month to install a new patch.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Microsoft Exchange hack: The risks and rewards of sharing bug intel<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/the-microsoft-exchange-hack-the-risks-and-rewards-of-sharing-bug-intel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel that Microsoft privately shared with security partners may have leaked to hackers. How do companies know who to trust with their secrets?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo browser extension vulnerability leaves Edge users open to potential cyber-snooping<a href="https://portswigger.net/daily-swig/duckduckgo-browser-extension-vulnerability-leaves-edge-users-open-to-potential-cyber-snooping?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo has fixed a universal cross-site scripting (uXSS) flaw in a popular browser extension named DuckDuckGo Privacy Essentials available for both Chrome and Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolls back update to fix access issues for thousands<a href="https://www.reuters.com/article/us-microsoft-teams-outages/microsoft-rolls-back-update-to-fix-access-issues-for-thousands-idUSKBN2B72MJ?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Corp said early on Tuesday glitches that affected access to workplace messaging app Teams, Outlook.com and other services have been largely fixed after it rolled back an update.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncovered Hidden Data in the PDF Files Published by Security Agencies<a href="https://cybersecuritynews.com/uncover-hidden-data-in-the-pdf/"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,20 @@ nav_order: 900075
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US&nbsp;intel says Russia, Iran sought to influence 2020 election<a href="https://thehill.com//homenews/news/543460-us-intel-says-russia-iran-sought-to-influence-2020-election"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia and Iran undertook campaigns to influence the 2020 U.S. election but intelligence agencies found no&nbsp;evidence that foreign actors tried to alter technical aspects of the voting process, according to conclusions of a declassified report released Tuesday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK Cyber Security Council Unveils Inaugural Leadership Team<a href="https://www.infosecurity-magazine.com:443/news/cyber-security-council-leadership/"> Full Text</a>
 </p>
 <details>

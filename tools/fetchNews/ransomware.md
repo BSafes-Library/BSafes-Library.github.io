@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware and IoT Malware Detections Surge by Over 60%<a href="https://www.infosecurity-magazine.com:443/news/ransomware-iot-malware-detections/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall points to a perfect storm for threat actors in 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

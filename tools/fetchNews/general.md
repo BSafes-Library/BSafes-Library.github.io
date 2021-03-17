@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Women faces among all of those white men’: Digital Guardian chiefs explain why it matters<a href="https://www.scmagazine.com/women-in-it-security/women-faces-among-all-of-those-white-men-digital-guardian-chiefs-explain-why-it-matters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media spoke to Digital Guardian’s Debra Danielson and Connie Stack recently about their own career experiences, the evolution of diversity in the information security market, and the power of pink.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top MSP Challenges in 2021<a href="https://threatpost.com/top-msp-challenges-in-2021/164784/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At SafeDNS, we see three entangled hurdles for MSPs in 2021 and the coming years— tied with the current economic uncertainty and somewhat linked to the pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoD Contractor Security Incidents Double in a Year<a href="https://www.infosecurity-magazine.com:443/news/mod-contractor-security-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WARP reports hit a record 151 in 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Incidents, Vendor Breaches Keep Surging<a href="https://www.inforisktoday.com/hacking-incidents-vendor-breaches-keep-surging-a-16186?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of Monday, the Department of Health and Human Service's HIPAA Breach Reporting Tool website shows 89 major health data breaches affecting a total of over 7.3 million individuals so far in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

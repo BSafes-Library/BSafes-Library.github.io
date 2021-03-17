@@ -11,6 +11,48 @@ nav_order: 900180
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PYSA Ransomware Pillages Education Sector, Feds Warn<a href="https://threatpost.com/pysa-ransomware-education-feds-warn/164832/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major spike of attacks against higher ed, K-12 and seminaries in March has prompted the FBI to issue a special alert.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Enhancements in Darkside Ransomware: How Far will it Go?<a href="https://cyware.com/news/new-enhancements-in-darkside-ransomware-how-far-will-it-go-b56753b3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence experts warn of a new version of the Darkside ransomware variant that its creators claim will feature faster encryption speeds and VoIP calling while exploiting VMware flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of escalating Pysa ransomware attacks on education orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-escalating-pysa-ransomware-attacks-on-education-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) Cyber Division has warned system administrators and cybersecurity professionals of increased Pysa ransomware activity targeting educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware and IoT Malware Detections Surge by Over 60%<a href="https://www.infosecurity-magazine.com:443/news/ransomware-iot-malware-detections/"> Full Text</a>
 </p>
 <details>
