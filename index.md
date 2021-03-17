@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dropbox to Make Password Manager Feature Free for All Users<a href="https://www.infosecurity-magazine.com:443/news/dropbox-password-manager-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of April, users can try a limited version of Dropbox Passwords free-of-charge
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast: SolarWinds Attackers Stole Source Code<a href="https://threatpost.com/mimecast-solarwinds-attackers-stole-source-code/164847/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Mimecast update reveals the SolarWinds hackers accessed several “limited” source code repositories. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chile's bank regulator shares IOCs after Microsoft Exchange hack<a href="https://www.bleepingcomputer.com/news/security/chiles-bank-regulator-shares-iocs-after-microsoft-exchange-hack/"> Full Text</a>
 </p>
 <details>
