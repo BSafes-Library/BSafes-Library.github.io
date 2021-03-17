@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Data Breaches Tracker monitor unsecured ElasticSearch servers online<a href="https://securityaffairs.co/wordpress/115698/security/data-breaches-tracker-unsecured-elasticsearch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity research at WizCase, an online security and privacy portal, built a tool to track accessible ElasticSearch servers on the internet. 
+
+
+
+Cybersecurity research at WizCase, an online security and privacy portal, developed a tool...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds threat actor gains access to Mimecast’s production grid environment<a href="https://www.scmagazine.com/home/email-security/solarwinds-threat-actor-gains-access-to-mimecasts-production-grid-environment/"> Full Text</a>
 </p>
 <details>
