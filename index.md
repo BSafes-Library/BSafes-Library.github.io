@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CompTIA Launches Training Catalogue to Promote “Outstanding” IT Apprenticeships<a href="https://www.infosecurity-magazine.com:443/news/comptia-training-catalogue-it/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Catalogue aims to facilitate more flexible learning for apprentices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TIA CEO: Supply chain standard shows feds ‘they don’t have to be heavy handed’<a href="https://www.scmagazine.com/home/security-news/tia-chief-sees-progress-importance-on-ict-supply-chain-standard/"> Full Text</a>
 </p>
 <details>
