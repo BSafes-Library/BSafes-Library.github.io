@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chile's bank regulator shares IOCs after Microsoft Exchange hack<a href="https://www.bleepingcomputer.com/news/security/chiles-bank-regulator-shares-iocs-after-microsoft-exchange-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chile's Comisión para el Mercado Financiero (CMF) has disclosed that their Microsoft Exchange server was compromised through the recently disclosed ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rising, Unpredictable Cases of Botnet Threats<a href="https://cyware.com/news/the-rising-unpredictable-cases-of-botnet-threats-3a1eab77"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Gafgyt botnet that uses the Tor network to target vulnerable D-Link and IoT devices, has been identified by NetLab 360 researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China suspected of cyber attack on Western Australia's Parliament during state election<a href="https://www.abc.net.au/news/2021-03-17/wa-parliament-targeted-cyber-attack/13253926?&web_view=true"> Full Text</a>
 </p>
 <details>
