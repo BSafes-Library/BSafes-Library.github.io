@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SBI, ICICI, HDFC, Axis Bank, PNB and the Indian IT department targeted in phishing scam<a href="https://ciso.economictimes.indiatimes.com/news/sbi-icici-hdfc-axis-bank-pnb-and-the-indian-it-department-targeted-in-phishing-scam/81522843?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted banks in the campaign include the State Bank of India, ICICI, HDFC, Axis Bank and Punjab National Bank, revealed an investigation by CyberPeace Foundation and Autobot Infosec.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hackers stole some of Mimecast source code<a href="https://securityaffairs.co/wordpress/115670/data-breach/solarwinds-hackers-stole-mimecast-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Mimecast confirmed that SolarWinds hackers who breached its network stole some of its source code.
+
+
+
+Back in December, the SolarWinds supply chain attack made the headlines when a Russian cyber espionage group tampered with updates...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases one-click mitigation tool for Exchange Server hacks<a href="https://www.zdnet.com/article/microsoft-releases-one-click-mitigation-tool-for-exchange-server-hacks/?&web_view=true"> Full Text</a>
 </p>
 <details>

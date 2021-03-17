@@ -37,6 +37,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researcher adds his fake package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-his-fake-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases.
+The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIA publishes process-based supply chain security standard for the ICT industry<a href="https://www.helpnetsecurity.com/2021/03/16/tia-scs-9001/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Telecommunications Industry Association published a new white paper on SCS 9001, a process-based supply chain security standard for the information communications technology (ICT) industry.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SBI, ICICI, HDFC, Axis Bank, PNB and the Indian IT department targeted in phishing scam<a href="https://ciso.economictimes.indiatimes.com/news/sbi-icici-hdfc-axis-bank-pnb-and-the-indian-it-department-targeted-in-phishing-scam/81522843?&web_view=true"> Full Text</a>
 </p>
 <details>
