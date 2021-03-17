@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US Intel says Russia, Iran sought to influence elections | Advocates press Facebook to combat Spanish-language disinformation | Five attorneys general join lawsuit against Google<a href="https://thehill.com//policy/technology/overnights/543522-hillicon-valley-us-intel-says-russia-iran-sought-to-influence"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top U.S. intelligence officials on Wednesday concluded that Russia and Iran attempted to interfere in the 2020 elections, but did not change any votes. Meanwhile, Facebook is facing fierce pushback over its handling of Spanish-language disinformation, with at least one Democrat saying he will raise the issue at next week’s House Energy and Commerce Hearing. Google’s challenges are also growing, with five more attorneys general jumping onto the Texas-led lawsuit against the Silicon Valley giant, including the first Democrat to join the effort. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Argon emerges from stealth as concern over software supply chain integrity peaks<a href="https://www.scmagazine.com/home/security-news/argon-emerges-from-stealth-as-concern-over-software-supply-chain-integrity-peaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Argon’s main pitch — that it aims to secure the integrity of the software development and update process — has become increasingly relevant to industry following the SolarWinds breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen responsible for major Twitter hack to serve three years in prison<a href="https://thehill.com//policy/cybersecurity/543515-twitter-hacker-to-serve-three-years-in-prison"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A teenager responsible for masterminding a massive bitcoin scam last year that involved hacking Twitter accounts for various politicians and other high-profile figures has been sentenced to three years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google fixes five Chrome bugs, including one zero-day exploited in the wild<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/google-fixes-five-chrome-bugs-including-one-zero-day-exploited-in-the-wild/"> Full Text</a>
 </p>
 <details>
