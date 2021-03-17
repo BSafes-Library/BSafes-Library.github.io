@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Nurseries sent first official cyber-attack warning<a href="https://www.bbc.com/news/education-56403778?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sarah Lyons, deputy director for economy and society engagement at the NCSC, said across educational settings it was "vital that all providers know how to secure their devices and sensitive data".
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+18-Year-Old Hacker Gets 3 Years in Prison for Massive Twitter 'Bitcoin Scam' Hack<a href="https://thehackernews.com/2021/03/18-year-old-hacker-gets-3-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Florida teen accused of masterminding the hacks of several high-profile Twitter accounts last summer as part of a widespread cryptocurrency scam pled guilty to fraud charges in exchange for a three-year prison sentence.  Graham Ivan Clark, 18, will also serve an additional three years on probation.  The development comes after the U.S. Department of Justice (DoJ)  charged  Mason Sheppard (aka Chaewon), Nima Fazeli (aka Rolex), and Clark (then a juvenile) with conspiracy to commit wire fraud and money laundering.  Specifically, 30 felony charges were filed against Clark, including one count of organized fraud, 17 counts of communications fraud, one count of fraudulent use of personal information with over $100,000 or 30 or more victims, 10 counts of fraudulent use of personal information, and one count of access to computer or electronic device without authority.   On July 15, 2020, Twitter  suffered  one of the biggest security lapses in its history after the attackers managed to hi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack on Pimpri Chinchwad Smart City servers managed by Tech Mahindra<a href="https://ciso.economictimes.indiatimes.com/news/ransomware-attack-on-pimpri-chinchwad-smart-city-servers-managed-by-tech-mahindra/81522854?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pimpri-Chinchwad Municipal Corporation Smart City said on Monday that it had not suffered any data loss due to a ransomware attack late last month and that it had also not paid ransom to the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researcher adds his fake package to Microsoft Azure SDK releases list<a href="https://www.bleepingcomputer.com/news/security/researcher-adds-his-fake-package-to-microsoft-azure-sdk-releases-list/"> Full Text</a>
 </p>
 <details>
