@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fake Telegram Desktop App Malware Campaign Persists<a href="https://www.inforisktoday.com/fake-telegram-desktop-app-malware-campaign-persists-a-16196?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The .com and .net sites have seen 2,746 downloads of the malicious Windows executable, and a second-stage malware was then pushed down 129 times. The .org site snared 529 downloads in just two days.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Cached Credentials Can Cause Account Lockouts and How to Stop it<a href="https://thehackernews.com/2021/03/why-cached-credentials-can-cause.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a user account becomes locked out, the cause is often attributed to a user who has simply entered an old or incorrect password too many times. However, this is far from being the only thing that can cause an account to become locked.  Another common cause, for example, is an application or script that is configured to log into the system using an old password. Perhaps the most easily overlooked cause of account lockouts, however, is the use of cached credentials.  Before I explain  why cached credentials can be problematic , let's first consider what the Windows cached credentials do and why they are necessary.  Cached and stored credentials  Cached credentials are a mechanism that is used to ensure that users have a way of logging into their device in the event that the device is unable to access the Active Directory. Suppose for a moment that a user is working from a domain-joined laptop and is connected to the corporate network.  In that type of situation, the Active Directory
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI: Over $4.2 billion officially lost to cybercrime in 2020<a href="https://www.bleepingcomputer.com/news/security/fbi-over-42-billion-officially-lost-to-cybercrime-in-2020/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The 17-year-old Twitter Hacker who is the “mastermind” Behind a High-Profile Attack Pleads Guilty<a href="https://cybersecuritynews.com/twitter-hack-mastermind/"> Full Text</a>
@@ -66,7 +98,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The dangers of misusing instant messaging and business collaboration tools<a href="https://www.helpnetsecurity.com/2021/03/17/misusing-instant-messaging/?&web_view=true"> Full Text</a>
@@ -82,7 +114,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Reveals What Personal Data Chrome and It's Apps Collect On You<a href="https://thehackernews.com/2021/03/google-to-reveals-what-personal-data.html"> Full Text</a>
@@ -98,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Average Ransom Payment Surged 171% in 2020<a href="https://www.infosecurity-magazine.com:443/news/average-ransom-payment-surged-171/"> Full Text</a>
@@ -114,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prime Minister Boris Johnson wants to enhance UK cyber capabilities<a href="https://securityaffairs.co/wordpress/115704/cyber-warfare-2/boris-johnson-uk-cyber-capabilities.html"> Full Text</a>
@@ -134,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thinking of Joining Clubhouse? The Membership Fee Could Be Your Data Privacy<a href="https://blog.checkpoint.com/2021/03/17/thinking-of-joining-clubhouse-the-membership-fee-could-be-your-data-privacy/?&web_view=true"> Full Text</a>
@@ -150,7 +182,7 @@ Check Point Research
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Management Firm Vulcan Cyber Raises $21 Million<a href="https://www.securityweek.com/vulnerability-management-firm-vulcan-cyber-raises-21-million?&web_view=true"> Full Text</a>
@@ -166,7 +198,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android apps are asking for too many dangerous permissions. Here's how we know<a href="https://cybernews.com/privacy/android-apps-are-asking-for-too-many-dangerous-permissions-heres-how-we-know/?&web_view=true"> Full Text</a>
@@ -182,7 +214,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Google ad report reveal | SolarWinds fallout raises pressure on Biden | UK Uber drivers get some solace<a href="https://thehill.com//policy/technology/overnights/543740-hillicon-valley-google-ad-report-reveal-solarwind-fallouts"> Full Text</a>
@@ -198,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber helped him overcome hardship. Now he’s paying it forward to the black community.<a href="https://www.scmagazine.com/home/security-news/cyber-helped-him-overcome-hardship-now-hes-paying-it-forward-to-the-black-community/"> Full Text</a>
@@ -214,7 +246,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials urge Biden to appoint cyber leaders after SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/543734-officials-urge-biden-to-appoint-federal-cyber-leaders-after-solarwinds"> Full Text</a>
@@ -230,7 +262,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Two Popular WordPress Plugins Affect Over 7 Million Websites<a href="https://thehackernews.com/2021/03/flaws-in-two-popular-wordpress-plugins.html"> Full Text</a>
@@ -246,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers press federal agencies on scope of SolarWinds attack<a href="https://thehill.com//policy/cybersecurity/543728-lawmakers-demand-answers-from-federal-agencies-on-scope-of-solarwinds"> Full Text</a>
@@ -262,7 +294,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US subpoenas multiple Chinese communications providers in security review<a href="https://thehill.com//policy/cybersecurity/543727-us-subpoenas-multiple-chinese-communications-providers-in-security"> Full Text</a>
@@ -278,7 +310,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breaches Tracker monitor unsecured ElasticSearch servers online<a href="https://securityaffairs.co/wordpress/115698/security/data-breaches-tracker-unsecured-elasticsearch.html"> Full Text</a>
@@ -298,7 +330,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds threat actor gains access to Mimecast’s production grid environment<a href="https://www.scmagazine.com/home/email-security/solarwinds-threat-actor-gains-access-to-mimecasts-production-grid-environment/"> Full Text</a>
@@ -314,7 +346,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Plugs Security Hole in Small Business Routers<a href="https://threatpost.com/cisco-security-hole-small-business-routers/164859/"> Full Text</a>
@@ -330,7 +362,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Teen Behind Twitter Bit-Con Breach Cuts Plea Deal<a href="https://threatpost.com/teen-twitter-breach-plea-deal/164863/"> Full Text</a>
@@ -346,7 +378,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House forms public-private task force to tackle Microsoft Exchange hack<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-forms-public-private-task-force-to-tackle-microsoft-exchange-hack/"> Full Text</a>
@@ -362,7 +394,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked hackers target telcos to steal 5G secrets<a href="https://securityaffairs.co/wordpress/115693/apt/chinese-hackers-5g.html"> Full Text</a>
@@ -382,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CompTIA Launches Training Catalogue to Promote “Outstanding” IT Apprenticeships<a href="https://www.infosecurity-magazine.com:443/news/comptia-training-catalogue-it/"> Full Text</a>
@@ -398,7 +430,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TIA CEO: Supply chain standard shows feds ‘they don’t have to be heavy handed’<a href="https://www.scmagazine.com/home/security-news/tia-chief-sees-progress-importance-on-ict-supply-chain-standard/"> Full Text</a>
@@ -414,7 +446,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infrastructure Security Specialist Optilan Appoints Adrian Bannister as CFO<a href="https://www.infosecurity-magazine.com:443/news/optilan-appoints-adrian-bannister/"> Full Text</a>
@@ -430,7 +462,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mirai Variant Targeting IoT & Network Security Devices<a href="https://cybersecuritynews.com/new-mirai-variant-iot/"> Full Text</a>
@@ -446,7 +478,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $4,000 COVID-19 ‘Relief Checks’ Cloak Dridex Malware<a href="https://threatpost.com/covid-19-relief-checks-dridex-malware/164853/"> Full Text</a>
@@ -462,7 +494,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dropbox to Make Password Manager Feature Free for All Users<a href="https://www.infosecurity-magazine.com:443/news/dropbox-password-manager-free/"> Full Text</a>
@@ -478,7 +510,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mimecast: SolarWinds Attackers Stole Source Code<a href="https://threatpost.com/mimecast-solarwinds-attackers-stole-source-code/164847/"> Full Text</a>
@@ -494,7 +526,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chile's bank regulator shares IOCs after Microsoft Exchange hack<a href="https://www.bleepingcomputer.com/news/security/chiles-bank-regulator-shares-iocs-after-microsoft-exchange-hack/"> Full Text</a>
@@ -510,7 +542,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rising, Unpredictable Cases of Botnet Threats<a href="https://cyware.com/news/the-rising-unpredictable-cases-of-botnet-threats-3a1eab77"> Full Text</a>
@@ -526,7 +558,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2021
+March 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China suspected of cyber attack on Western Australia's Parliament during state election<a href="https://www.abc.net.au/news/2021-03-17/wa-parliament-targeted-cyber-attack/13253926?&web_view=true"> Full Text</a>
