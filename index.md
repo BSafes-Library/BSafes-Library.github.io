@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Satori: Mirai Botnet Variant Targeting Vantage Velocity Field Unit RCE Vulnerability<a href="https://unit42.paloaltonetworks.com/satori-mirai-botnet-variant-targeting-vantage-velocity-field-unit-rce-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers observed attempts to exploit CVE-2020-9020, which is a Remote Command Execution (RCE) vulnerability in Iteris’ Vantage Velocity field unit version 2.3.1, 2.4.2, and 3.0.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Alert: Pysa Ransomware Targeting Education Sector<a href="https://www.infosecurity-magazine.com:443/news/fbi-alert-pysa-ransomware-target/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors disable AV before deploying ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reading the FBI IC3’s ‘2020 Internet Crime Report’<a href="https://securityaffairs.co/wordpress/115708/cyber-crime/2020-internet-crime-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI’s Internet Crime Complaint Center has released its annual report, the 2020 Internet Crime Report, which includes data from 791,790 complaints of suspected cybercrimes.
+
+
+
+The FBI’s Internet Crime Complaint Center (IC3) has published its annual...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Fake Telegram Desktop App Malware Campaign Persists<a href="https://www.inforisktoday.com/fake-telegram-desktop-app-malware-campaign-persists-a-16196?&web_view=true"> Full Text</a>
 </p>
 <details>

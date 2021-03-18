@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Telegram Desktop App Malware Campaign Persists<a href="https://www.inforisktoday.com/fake-telegram-desktop-app-malware-campaign-persists-a-16196?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The .com and .net sites have seen 2,746 downloads of the malicious Windows executable, and a second-stage malware was then pushed down 129 times. The .org site snared 529 downloads in just two days.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Cached Credentials Can Cause Account Lockouts and How to Stop it<a href="https://thehackernews.com/2021/03/why-cached-credentials-can-cause.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a user account becomes locked out, the cause is often attributed to a user who has simply entered an old or incorrect password too many times. However, this is far from being the only thing that can cause an account to become locked.  Another common cause, for example, is an application or script that is configured to log into the system using an old password. Perhaps the most easily overlooked cause of account lockouts, however, is the use of cached credentials.  Before I explain  why cached credentials can be problematic , let's first consider what the Windows cached credentials do and why they are necessary.  Cached and stored credentials  Cached credentials are a mechanism that is used to ensure that users have a way of logging into their device in the event that the device is unable to access the Active Directory. Suppose for a moment that a user is working from a domain-joined laptop and is connected to the corporate network.  In that type of situation, the Active Directory
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
