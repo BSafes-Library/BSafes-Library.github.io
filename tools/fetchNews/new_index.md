@@ -34,6 +34,250 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Over $4.2 billion officially lost to cybercrime in 2020<a href="https://www.bleepingcomputer.com/news/security/fbi-over-42-billion-officially-lost-to-cybercrime-in-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation has published its annual report on cybercrime affecting victims in the U.S., noting a record number of complaints and financial losses in 2020 compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 17-year-old Twitter Hacker who is the “mastermind” Behind a High-Profile Attack Pleads Guilty<a href="https://cybersecuritynews.com/twitter-hack-mastermind/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Graham Ivan Clark, 17, of Tampa, was arrested on 30 felony charges. Authorities say he was the "mastermind" of a July 15...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The dangers of misusing instant messaging and business collaboration tools<a href="https://www.helpnetsecurity.com/2021/03/17/misusing-instant-messaging/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+71% of workers – including 68% in the US – admitted to sharing sensitive and business-critical company data using instant messaging (IM) and business collaboration tools, a Veritas report revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Reveals What Personal Data Chrome and It's Apps Collect On You<a href="https://thehackernews.com/2021/03/google-to-reveals-what-personal-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privacy-focused search engine DuckDuckGo called out rival Google for "spying" on users after the search giant updated its flagship app to spell out the exact kinds of information it collects for personalization and marketing purposes.  "After months of stalling, Google finally revealed how much personal data they collect in Chrome and the Google app. No wonder they wanted to hide it," the company  said  in a tweet. "Spying on users has nothing to do with building a great web browser or search engine."  The " privacy nutrition labels " are part of a new policy that  went into effect  on December 8, 2020, mandating app developers to disclose their data collection practices and help users understand how their personal information is put to use.  The insinuation from DuckDuckGo comes as Google has been steadily adding app privacy labels to its iOS apps over the course of the last several weeks in accordance with Apple's App Store rules, but not
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average Ransom Payment Surged 171% in 2020<a href="https://www.infosecurity-magazine.com:443/news/average-ransom-payment-surged-171/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report claims incident response costs could ruin some firms
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prime Minister Boris Johnson wants to enhance UK cyber capabilities<a href="https://securityaffairs.co/wordpress/115704/cyber-warfare-2/boris-johnson-uk-cyber-capabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prime Minister Boris Johnson declared that Britain needs to boost its cyber capability to conduct cyber attacks on foreign hostile actors.
+
+
+
+Prime Minister Boris Johnson said that his government needs to boost its capability to conduct cyber attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thinking of Joining Clubhouse? The Membership Fee Could Be Your Data Privacy<a href="https://blog.checkpoint.com/2021/03/17/thinking-of-joining-clubhouse-the-membership-fee-could-be-your-data-privacy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are questions about the way Clubhouse app handles users’ contacts. There are also questions over just how private users’ actions and audio content are on the app, too.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Management Firm Vulcan Cyber Raises $21 Million<a href="https://www.securityweek.com/vulnerability-management-firm-vulcan-cyber-raises-21-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding, Vulcan Cyber says, will help it expand its platform with new vulnerability remediation solutions for both cloud and applications, as well as meet demand for its SaaS solution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android apps are asking for too many dangerous permissions. Here's how we know<a href="https://cybernews.com/privacy/android-apps-are-asking-for-too-many-dangerous-permissions-heres-how-we-know/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In theory, Android app permissions are a great way to ensure our safety and protect our privacy. In practice, however, these permissions aren’t always shown prominently or described in much detail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Google ad report reveal | SolarWinds fallout raises pressure on Biden | UK Uber drivers get some solace<a href="https://thehill.com//policy/technology/overnights/543740-hillicon-valley-google-ad-report-reveal-solarwind-fallouts"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released its yearly ad transparency report Wednesday, revealing the action it took on both misleading coronavirus ads and political ads during the 2020 election season. On the cyber front, the Biden administration is facing pressure to act on vulnerabilities in the wake of the SolarWinds hack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber helped him overcome hardship. Now he’s paying it forward to the black community.<a href="https://www.scmagazine.com/home/security-news/cyber-helped-him-overcome-hardship-now-hes-paying-it-forward-to-the-black-community/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darold Kelly Jr. is CEO of the Black Cybersecurity Association, which helps underserved individuals – especially African-Americans – land careers in cyber.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials urge Biden to appoint cyber leaders after SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/543734-officials-urge-biden-to-appoint-federal-cyber-leaders-after-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Homeland Security Secretary Alejandro Mayorkas and leading lawmakers on Wednesday urged President Biden to nominate officials to lead federal cybersecurity policy, particularly as the government continues to grapple with the fallout from two massive cyber espionage attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Two Popular WordPress Plugins Affect Over 7 Million Websites<a href="https://thehackernews.com/2021/03/flaws-in-two-popular-wordpress-plugins.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed vulnerabilities in multiple WordPress plugins that, if successfully exploited, could allow an attacker to run arbitrary code and take over a website in certain scenarios.  The flaws were uncovered in  Elementor , a website builder plugin used on more than seven million sites, and  WP Super Cache , a tool used to serve cached pages of a WordPress site.  According to Wordfence, which discovered the security weaknesses in Elementor, the bug concerns a set of  stored cross-site scripting  (XSS) vulnerabilities (CVSS score: 6.4), which occurs when a malicious script is injected directly into a vulnerable web application.   In this case, due to a lack of validation of the HTML tags on the server-side, a bad actor can exploit the issues to add executable JavaScript to a post or page via a crafted request.  "Since posts created by contributors are typically reviewed by editors or administrators before publishing, any JavaScript added to one of these posts would
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers press federal agencies on scope of SolarWinds attack<a href="https://thehill.com//policy/cybersecurity/543728-lawmakers-demand-answers-from-federal-agencies-on-scope-of-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of a House panel on Wednesday drilled multiple agencies for updates on the SolarWinds hack, a mass cyber campaign that compromised at least nine federal agencies and 100 private sector groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US subpoenas multiple Chinese communications providers in security review<a href="https://thehill.com//policy/cybersecurity/543727-us-subpoenas-multiple-chinese-communications-providers-in-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department announced Wednesday that it subpoenaed several Chinese communications firms as the government reviews possible national security risks following alarming cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
