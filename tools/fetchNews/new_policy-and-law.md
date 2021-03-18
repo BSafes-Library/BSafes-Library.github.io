@@ -8,6 +8,62 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 17-year-old Twitter Hacker who is the “mastermind” Behind a High-Profile Attack Pleads Guilty<a href="https://cybersecuritynews.com/twitter-hack-mastermind/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Graham Ivan Clark, 17, of Tampa, was arrested on 30 felony charges. Authorities say he was the "mastermind" of a July 15...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers press federal agencies on scope of SolarWinds attack<a href="https://thehill.com//policy/cybersecurity/543728-lawmakers-demand-answers-from-federal-agencies-on-scope-of-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of&nbsp;a House&nbsp;panel on Wednesday drilled multiple agencies for updates on the&nbsp;SolarWinds hack, a mass cyber campaign that compromised at least nine federal agencies and 100 private sector groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US subpoenas multiple Chinese communications providers in security review<a href="https://thehill.com//policy/cybersecurity/543727-us-subpoenas-multiple-chinese-communications-providers-in-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department announced Wednesday that it subpoenaed several Chinese communications firms as the government reviews possible national security risks following alarming cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen Behind Twitter Bit-Con Breach Cuts Plea Deal<a href="https://threatpost.com/teen-twitter-breach-plea-deal/164863/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ‘young mastermind’ of the Twitter hack will serve three years in juvenile detention.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

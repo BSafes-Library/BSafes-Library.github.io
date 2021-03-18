@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Management Firm Vulcan Cyber Raises $21 Million<a href="https://www.securityweek.com/vulnerability-management-firm-vulcan-cyber-raises-21-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding, Vulcan Cyber says, will help it expand its platform with new vulnerability remediation solutions for both cloud and applications, as well as meet demand for its SaaS solution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android apps are asking for too many dangerous permissions. Here's how we know<a href="https://cybernews.com/privacy/android-apps-are-asking-for-too-many-dangerous-permissions-heres-how-we-know/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In theory, Android app permissions are a great way to ensure our safety and protect our privacy. In practice, however, these permissions aren’t always shown prominently or described in much detail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Two Popular WordPress Plugins Affect Over 7 Million Websites<a href="https://thehackernews.com/2021/03/flaws-in-two-popular-wordpress-plugins.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed vulnerabilities in multiple WordPress plugins that, if successfully exploited, could allow an attacker to run arbitrary code and take over a website in certain scenarios.  The flaws were uncovered in&nbsp; Elementor , a website builder plugin used on more than seven million sites, and&nbsp; WP Super Cache , a tool used to serve cached pages of a WordPress site.  According to Wordfence, which discovered the security weaknesses in Elementor, the bug concerns a set of&nbsp; stored cross-site scripting &nbsp;(XSS) vulnerabilities (CVSS score: 6.4), which occurs when a malicious script is injected directly into a vulnerable web application.   In this case, due to a lack of validation of the HTML tags on the server-side, a bad actor can exploit the issues to add executable JavaScript to a post or page via a crafted request.  "Since posts created by contributors are typically reviewed by editors or administrators before publishing, any JavaScript added to one of these posts would
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Plugs Security Hole in Small Business Routers<a href="https://threatpost.com/cisco-security-hole-small-business-routers/164859/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cisco security vulnerability exists in the RV132W ADSL2+ Wireless-N VPN Routers and RV134W VDSL2 Wireless-AC VPN Routers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple May Start Delivering Security Patches Separately From Other OS Updates<a href="https://thehackernews.com/2021/03/apple-may-start-delivering-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple may be changing the way it delivers security patches to its devices running iOS and iPadOS mobile operating systems.  According to code spotted in iOS 14.5, the iPhone maker is reportedly working on a method for delivering security fixes independently of other OS updates.  The changes were first reported by&nbsp; the 9to5Mac &nbsp;website.   While Google's Android has had monthly security patches rolled out that are completely divorced from the OS-related updates, iOS has no option to install a security update without upgrading to the latest version of the OS.  But with this new setting called "Install Security Updates" added to the software update menu, it's expected that Apple will let users choose between either installing the entire iOS update or just the security updates, in a manner that echoes macOS.  On Macs running older versions of the operating system such as macOS Mojave, Apple has offered standalone update packs, allowing users to get security patches and bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

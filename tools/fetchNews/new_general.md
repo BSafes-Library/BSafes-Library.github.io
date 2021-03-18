@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Over $4.2 billion officially lost to cybercrime in 2020<a href="https://www.bleepingcomputer.com/news/security/fbi-over-42-billion-officially-lost-to-cybercrime-in-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation has published its annual report on cybercrime affecting victims in the U.S., noting a record number of complaints and financial losses in 2020 compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The dangers of misusing instant messaging and business collaboration tools<a href="https://www.helpnetsecurity.com/2021/03/17/misusing-instant-messaging/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+71% of workers – including 68% in the US – admitted to sharing sensitive and business-critical company data using instant messaging (IM) and business collaboration tools, a Veritas report revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Google ad report reveal | SolarWinds fallout raises pressure on Biden | UK Uber drivers get some solace<a href="https://thehill.com//policy/technology/overnights/543740-hillicon-valley-google-ad-report-reveal-solarwind-fallouts"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released its yearly ad transparency report Wednesday, revealing the action it took on both misleading coronavirus ads and political ads during the&nbsp;2020 election season. On the cyber front, the Biden administration is facing pressure to act on vulnerabilities in the wake of the SolarWinds hack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber helped him overcome hardship. Now he’s paying it forward to the black community.<a href="https://www.scmagazine.com/home/security-news/cyber-helped-him-overcome-hardship-now-hes-paying-it-forward-to-the-black-community/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darold Kelly Jr. is CEO of the Black Cybersecurity Association, which helps underserved individuals – especially African-Americans – land careers in cyber.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

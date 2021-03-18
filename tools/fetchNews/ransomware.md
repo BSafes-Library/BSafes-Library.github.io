@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of PYSA Ransomware attacks against Education Institutions in US and UK<a href="https://securityaffairs.co/wordpress/115679/cyber-crime/fbi-alert-pysa-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued an alert to warn about an increase in PYSA ransomware attacks on education institutions in the US and UK.
+
+
+
+The FBI has issued Tuesday an alert to warn about an increase in PYSA ransomware attacks against education institutions in the United...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack on Pimpri Chinchwad Smart City servers managed by Tech Mahindra<a href="https://ciso.economictimes.indiatimes.com/news/ransomware-attack-on-pimpri-chinchwad-smart-city-servers-managed-by-tech-mahindra/81522854?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pimpri-Chinchwad Municipal Corporation Smart City said on Monday that it had not suffered any data loss due to a ransomware attack late last month and that it had also not paid ransom to the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

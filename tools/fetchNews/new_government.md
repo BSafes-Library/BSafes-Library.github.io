@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prime Minister Boris Johnson wants to enhance UK cyber capabilities<a href="https://securityaffairs.co/wordpress/115704/cyber-warfare-2/boris-johnson-uk-cyber-capabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prime Minister Boris Johnson declared that Britain needs to boost its cyber capability to conduct cyber attacks on foreign hostile actors.
+
+
+
+Prime Minister Boris Johnson said that his government needs to boost its capability to conduct cyber attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials urge Biden to appoint cyber leaders after SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/543734-officials-urge-biden-to-appoint-federal-cyber-leaders-after-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Homeland Security Secretary Alejandro Mayorkas and leading lawmakers on Wednesday urged President Biden to nominate officials to lead federal cybersecurity policy, particularly as the government continues to grapple with the fallout from two massive cyber espionage attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House forms public-private task force to tackle Microsoft Exchange hack<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-forms-public-private-task-force-to-tackle-microsoft-exchange-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Unified Coordination Group established by the National Security Council includes officials from the FBI, the Cybersecurity and Infrastructure Security Agency at DHS, the Office of the Director of National Intelligence and the NSA, as well as private sector companies with “specific insights to this incident.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIA CEO: Supply chain standard shows feds ‘they don’t have to be heavy handed’<a href="https://www.scmagazine.com/home/security-news/tia-chief-sees-progress-importance-on-ict-supply-chain-standard/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobody likes a new standard, said TIA CEO David Stehlin. But with security concerns tied to Huawei and SolarWinds still fresh, government and businesses alike need assurance that industry is addressing the problem.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

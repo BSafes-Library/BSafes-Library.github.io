@@ -11,6 +11,20 @@ nav_order: 900025
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Rising, Unpredictable Cases of Botnet Threats<a href="https://cyware.com/news/the-rising-unpredictable-cases-of-botnet-threats-3a1eab77"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Gafgyt botnet that uses the Tor network to target vulnerable D-Link and IoT devices, has been identified by NetLab 360 researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New ZHtrap botnet uses honeypot to find more victims<a href="https://securityaffairs.co/wordpress/115684/cyber-crime/zhtrap-botnet-honeypot.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's latest cloud authentication outage: What went wrong<a href="https://www.zdnet.com/article/microsofts-latest-cloud-authentication-outage-what-went-wrong/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published a preliminary root cause analysis of its March 15 Azure Active Directory outage, which took down Office, Teams, Dynamics 365, Xbox Live, and other apps.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

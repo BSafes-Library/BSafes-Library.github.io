@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Charges Man Over Cannabis Firm Pump-and-Dump<a href="https://www.infosecurity-magazine.com:443/news/sec-charges-man-cannabis/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individual allegedly amplified false statements via Twitter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+18-Year-Old Hacker Gets 3 Years in Prison for Massive Twitter 'Bitcoin Scam' Hack<a href="https://thehackernews.com/2021/03/18-year-old-hacker-gets-3-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Florida teen accused of masterminding the hacks of several high-profile Twitter accounts last summer as part of a widespread cryptocurrency scam pled guilty to fraud charges in exchange for a three-year prison sentence.  Graham Ivan Clark, 18, will also serve an additional three years on probation.  The development comes after the U.S. Department of Justice (DoJ)&nbsp; charged &nbsp;Mason Sheppard (aka Chaewon), Nima Fazeli (aka Rolex), and Clark (then a juvenile) with conspiracy to commit wire fraud and money laundering.  Specifically, 30 felony charges were filed against Clark, including one count of organized fraud, 17 counts of communications fraud, one count of fraudulent use of personal information with over $100,000 or 30 or more victims, 10 counts of fraudulent use of personal information, and one count of access to computer or electronic device without authority.   On July 15, 2020, Twitter&nbsp; suffered &nbsp;one of the biggest security lapses in its history after the attackers managed to hi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

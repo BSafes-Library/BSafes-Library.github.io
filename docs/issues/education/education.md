@@ -11,6 +11,20 @@ nav_order: 900053
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CompTIA Launches Training Catalogue to Promote “Outstanding” IT Apprenticeships<a href="https://www.infosecurity-magazine.com:443/news/comptia-training-catalogue-it/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Catalogue aims to facilitate more flexible learning for apprentices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New UK Cyber Security Council to be official governing body on training and standards<a href="https://www.gov.uk/government/news/new-uk-cyber-security-council-to-be-official-governing-body-on-training-and-standards?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

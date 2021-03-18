@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast Finds SolarWinds Hackers Stole Some of Its Source Code<a href="https://thehackernews.com/2021/03/mimecast-finds-solarwinds-hackers-stole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security firm Mimecast on Tuesday revealed that the state-sponsored SolarWinds hackers who broke into its internal network also downloaded source code out of a limited number of repositories.  "The threat actor did access a subset of email addresses and other contact information and hashed and salted credentials," the company&nbsp; said &nbsp;in a write-up detailing its investigation, adding the adversary "accessed and downloaded a limited number of our source code repositories, as the threat actor is reported to have done with other victims of the SolarWinds Orion supply chain attack."  But Mimecast said the source code downloaded by the attackers was incomplete and would be insufficient to build and run any aspect of the Mimecast service and that it did not find signs of any tampering made by the threat actor to the build process associated with the executables that are distributed to its customers.&nbsp;   On January 12, Mimecast&nbsp; disclosed &nbsp;that that "a sophisticat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Azure SDK site tricked into listing fake package<a href="https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases.
+The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive data from US shipping management software firm exposed online<a href="https://www.hackread.com/shipping-management-software-firm-data-online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data, which belonged to New Jersy based Descartes Aljex Software, was exposed by a misconfigured AWS S3 Bucket which left it unsecured and vulnerable to intrusion by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

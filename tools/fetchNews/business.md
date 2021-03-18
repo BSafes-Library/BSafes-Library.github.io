@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis acquires Synapsys to extend cyber protection solutions to organizations across Africa<a href="https://www.helpnetsecurity.com/2021/03/17/acronis-synapsys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acronis announced to acquire Synapsys, its partner located in Cape Town, South Africa that specializes in distributing Acronis Cyber Protection Solutions through the service provider channel.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity insurance company Coalition raises $175M to secure the modern enterprise<a href="https://venturebeat.com/2021/03/17/cybersecurity-insurance-company-coalition-raises-175m-to-secure-the-modern-enterprise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coalition, an enterprise-grade cybersecurity platform that specializes in providing insurance, has raised $175 million in its Series D round of funding led by Index Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

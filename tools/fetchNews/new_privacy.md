@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Reveals What Personal Data Chrome and It's Apps Collect On You<a href="https://thehackernews.com/2021/03/google-to-reveals-what-personal-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privacy-focused search engine DuckDuckGo called out rival Google for "spying" on users after the search giant updated its flagship app to spell out the exact kinds of information it collects for personalization and marketing purposes.  "After months of stalling, Google finally revealed how much personal data they collect in Chrome and the Google app. No wonder they wanted to hide it," the company&nbsp; said &nbsp;in a tweet. "Spying on users has nothing to do with building a great web browser or search engine."  The " privacy nutrition labels " are part of a new policy that&nbsp; went into effect &nbsp;on December 8, 2020, mandating app developers to disclose their data collection practices and help users understand how their personal information is put to use.  The insinuation from DuckDuckGo comes as Google has been steadily adding app privacy labels to its iOS apps over the course of the last several weeks in accordance with Apple's App Store rules, but not
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thinking of Joining Clubhouse? The Membership Fee Could Be Your Data Privacy<a href="https://blog.checkpoint.com/2021/03/17/thinking-of-joining-clubhouse-the-membership-fee-could-be-your-data-privacy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are questions about the way Clubhouse app handles users’ contacts. There are also questions over just how private users’ actions and audio content are on the app, too.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
