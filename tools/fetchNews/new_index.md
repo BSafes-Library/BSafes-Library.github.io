@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDP Attacks Reached Record Levels as More Employees Continue to Work from Home<a href="https://cybersecuritynews.com/rdp-attacks-reached-record-levels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The vast majority of companies had to switch to remote work due to the Covid-19 pandemic. As life for large swaths of...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA releases new SolarWinds malicious activity detection tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-solarwinds-malicious-activity-detection-tool/"> Full Text</a>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 and Fundamental Changes in Cyberattacks<a href="https://cyware.com/news/covid-19-and-fundamental-changes-in-cyberattacks-6657561c"> Full Text</a>
@@ -66,7 +82,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Senate Republicans call for hearing on FTC's Obama-era Google decision | US grid at rising risk to cyberattack, says GAO | YouTube rolls out TikTok rival in the US<a href="https://thehill.com//policy/technology/overnights/543940-hillicon-valley-senate-republicans-call-for-hearing-on-ftcs"> Full Text</a>
@@ -82,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Flaw Reported in MyBB Forum Software—Patch Your Sites<a href="https://thehackernews.com/2021/03/critical-rce-flaw-reported-in-mybb.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mom Charged in Deepfake Cheerleading Plot<a href="https://www.infosecurity-magazine.com:443/news/mom-charged-in-deepfake/"> Full Text</a>
@@ -114,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Understanding and Responding to the SolarWinds Supply Chain Attack: The Federal Perspective<a href="https://www.lawfareblog.com/understanding-and-responding-solarwinds-supply-chain-attack-federal-perspective"> Full Text</a>
@@ -130,7 +146,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XcodeSpy Mac malware targets Xcode Developers with a backdoor<a href="https://securityaffairs.co/wordpress/115729/malware/xcodespy-mac-malware.html"> Full Text</a>
@@ -150,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Cybercrime skyrocketed in 2020, with email compromise scams accounting for 43% of losses<a href="https://www.scmagazine.com/home/security-news/cybercrime/fbi-cybercrime-skyrocketed-in-2020-with-email-compromise-scams-accounting-for-43-of-losses/"> Full Text</a>
@@ -166,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fiserv Forgets to Buy Domain It Used as System Default<a href="https://threatpost.com/fiserv-forgets-to-buy-domain-it-used-as-system-default/164903/"> Full Text</a>
@@ -182,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CopperStealer malware steals Google, Apple, Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/new-copperstealer-malware-steals-google-apple-facebook-accounts/"> Full Text</a>
@@ -198,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mekotio Tojan is Using AutoHotKey to Avoid Detection<a href="https://cyware.com/news/mekotio-tojan-is-using-autohotkey-to-avoid-detection-d9d237d4"> Full Text</a>
@@ -214,7 +230,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House Republicans examine federal election funds awarded to Biden-linked firm<a href="https://thehill.com//policy/cybersecurity/543829-house-republicans-question-awarding-of-federal-election-funds-to-biden"> Full Text</a>
@@ -230,7 +246,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Successfully Pursue a Career in Malware Analysis<a href="https://thehackernews.com/2021/03/how-to-successfully-pursue-career-in.html"> Full Text</a>
@@ -246,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acronis Acquires South African Partner<a href="https://www.infosecurity-magazine.com:443/news/acronis-acquires-south-african/"> Full Text</a>
@@ -262,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT31 group was behind the attack on Finnish Parliament<a href="https://securityaffairs.co/wordpress/115723/apt/apt31-attack-parliament-finland.html"> Full Text</a>
@@ -282,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple developers targeted by malicious Xcode project<a href="https://www.scmagazine.com/home/security-news/apple-developers-targeted-by-malicious-xcode-project/"> Full Text</a>
@@ -298,7 +314,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized Xcode Project Slips MacOS Malware to Apple Developers<a href="https://threatpost.com/xcode-macos-malware-apple-developers/164897/"> Full Text</a>
@@ -314,7 +330,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US taxpayers targeted with RAT malware in ongoing phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-taxpayers-targeted-with-rat-malware-in-ongoing-phishing-attacks/"> Full Text</a>
@@ -330,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange Threats Spreading Faster than Wildfire<a href="https://cyware.com/news/microsoft-exchange-threats-spreading-faster-than-wildfire-40d538cb"> Full Text</a>
@@ -346,7 +362,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US grid at rising risk to cyberattack, says GAO<a href="https://thehill.com//policy/energy-environment/543831-government-watchdog-energy-department-must-address-cyber-threats-to"> Full Text</a>
@@ -362,7 +378,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Consultant Indicted on Cyberstalking Charges<a href="https://www.infosecurity-magazine.com:443/news/security-consultant-indicted-on-1/"> Full Text</a>
@@ -378,7 +394,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WINTRIAGE: THE TRIAGE TOOL FOR WINDOWS DFIRERS<a href="https://securityaffairs.co/wordpress/115719/security/wintriage-triage-tool-windows-dfirers.html"> Full Text</a>
@@ -398,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2020 was a golden year for ransomware gangs, with evolving tactics and increasing payouts<a href="https://www.scmagazine.com/home/security-news/ransomware/2020-was-a-golden-year-for-ransomware-gangs-with-evolving-tactics-and-increasing-payouts/"> Full Text</a>
@@ -414,7 +430,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom Screen-Sharing Glitch ‘Briefly’ Leaks Sensitive Data<a href="https://threatpost.com/zoom-glitch-leaks-data/164876/"> Full Text</a>
@@ -430,7 +446,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New XcodeSpy malware targets iOS devs in supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/new-xcodespy-malware-targets-ios-devs-in-supply-chain-attack/"> Full Text</a>
@@ -446,7 +462,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Releases the IC3 Internet Crime Report 2020<a href="https://cyware.com/news/fbi-releases-the-ic3-internet-crime-report-2020-c6670ebe"> Full Text</a>
@@ -462,7 +478,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook rolls out physical keys to guard against hacking mobile accounts<a href="https://thehill.com//policy/cybersecurity/543798-facebook-rolls-out-physical-security-keys-for-mobile-devices-to-defend"> Full Text</a>
@@ -478,7 +494,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet Crime Complaints Surge in 2020, Fueled By Pandemic<a href="https://www.infosecurity-magazine.com:443/news/internet-crime-complaints-pandemic/"> Full Text</a>
@@ -494,7 +510,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found a 1-Click RCE in the TikTok App for Android<a href="https://securityaffairs.co/wordpress/115714/hacking/rce-tiktok-android-app.html"> Full Text</a>
@@ -514,7 +530,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘I vowed I was going to teach people’: NPower’s trauma-informed training nurtures digital talent<a href="https://www.scmagazine.com/home/security-news/i-vowed-i-was-going-to-teach-people-npowers-trauma-informed-training-nurtures-digital-talent/"> Full Text</a>
@@ -530,7 +546,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese nation state hackers linked to Finnish Parliament hack<a href="https://www.bleepingcomputer.com/news/security/chinese-nation-state-hackers-linked-to-finnish-parliament-hack/"> Full Text</a>
@@ -546,7 +562,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Old RAT in New Theme<a href="https://cyware.com/news/old-rat-in-new-theme-a172dc7d"> Full Text</a>
@@ -562,7 +578,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraudsters Impersonating Tesco in New Phone Scam, Police Warn<a href="https://www.infosecurity-magazine.com:443/news/police-fraudsters-tesco-phone-scam/"> Full Text</a>
@@ -578,7 +594,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can get access to your SMSes for just few dollars<a href="https://ciso.economictimes.indiatimes.com/news/hackers-can-get-access-to-your-smses-for-just-rs-1160/81547254?&web_view=true"> Full Text</a>
@@ -594,7 +610,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Soaring Too High<a href="https://cyware.com/news/ransomware-soaring-too-high-91d2c0ec"> Full Text</a>
@@ -610,7 +626,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA alerts of TrickBot trojan attacks<a href="https://us-cert.cisa.gov/ncas/alerts/aa21-076a?&web_view=true"> Full Text</a>
@@ -626,7 +642,7 @@ CISA
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recorded Future Swoops for Gemini Advisory in $52m Deal<a href="https://www.infosecurity-magazine.com:443/news/recorded-future-gemini-advisory-in/"> Full Text</a>
@@ -642,7 +658,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Polish Government Websites Hacked and Used to Spread Fake Information on Radioactive Leak<a href="https://www.securityweek.com/polish-state-websites-hacked-and-used-spread-false-info?&web_view=true"> Full Text</a>
@@ -658,7 +674,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tutor LMS for WordPress Open to Info-Stealing Security Holes<a href="https://threatpost.com/tutor-lms-wordpress-security-holes/164868/"> Full Text</a>
@@ -674,7 +690,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Satori: Mirai Botnet Variant Targeting Vantage Velocity Field Unit RCE Vulnerability<a href="https://unit42.paloaltonetworks.com/satori-mirai-botnet-variant-targeting-vantage-velocity-field-unit-rce-vulnerability/?&web_view=true"> Full Text</a>
@@ -690,7 +706,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Alert: Pysa Ransomware Targeting Education Sector<a href="https://www.infosecurity-magazine.com:443/news/fbi-alert-pysa-ransomware-target/"> Full Text</a>
@@ -706,7 +722,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reading the FBI IC3’s ‘2020 Internet Crime Report’<a href="https://securityaffairs.co/wordpress/115708/cyber-crime/2020-internet-crime-report.html"> Full Text</a>
@@ -726,7 +742,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Telegram Desktop App Malware Campaign Persists<a href="https://www.inforisktoday.com/fake-telegram-desktop-app-malware-campaign-persists-a-16196?&web_view=true"> Full Text</a>
@@ -742,7 +758,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Cached Credentials Can Cause Account Lockouts and How to Stop it<a href="https://thehackernews.com/2021/03/why-cached-credentials-can-cause.html"> Full Text</a>
