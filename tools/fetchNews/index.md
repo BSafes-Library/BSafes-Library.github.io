@@ -761,22 +761,6 @@ Infosecurity Magazine
 March 18, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Recorded Future Swoops for Gemini Advisory in $52m Deal<a href="https://www.infosecurity-magazine.com:443/news/recorded-future-gemini-advisory-in/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Combination will enhance customers’ threat intelligence
-</details>
-<div style="text-align: right" markdown="1">
-Infosecurity Magazine
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
 Polish Government Websites Hacked and Used to Spread Fake Information on Radioactive Leak<a href="https://www.securityweek.com/polish-state-websites-hacked-and-used-spread-false-info?&web_view=true"> Full Text</a>
 </p>
 <details>

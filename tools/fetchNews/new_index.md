@@ -37,6 +37,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of BEC attacks increasingly targeting US govt orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attacks-increasingly-targeting-us-govt-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) is warning US private sector companies about an increase in business email compromise (BEC) attacks targeting state, local, tribal, and territorial (SLTT) government entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Office 365-themed phishing campaign targets executives, assistants, financial departments<a href="https://www.helpnetsecurity.com/2021/03/18/office-365-phishing-executives/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated and highly targeted Microsoft Office 365 phishing campaign is being aimed at C-suite executives, executive assistants, and financial departments across numerous industries.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Ransomware Hacker Pleads Guilty; Swiss Hacktivist Charged for Fraud<a href="https://thehackernews.com/2021/03/tesla-ransomware-hacker-pledges-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice yesterday announced updates on two separate cases involving cyberattacks—a Swiss hacktivist and a Russian hacker who planned to plant malware in the Tesla company.  A Swiss hacker who was involved in the intrusion of cloud-based surveillance firm Verkada and exposed camera footage from its customers was charged by the U.S. Department of Justice (DoJ) on Thursday with conspiracy, wire fraud, and identity theft.  Till Kottmann (aka "deletescape" and "tillie crimew"), 21, of Lucerne, Switzerland, and his co-conspirators were accused of hacking dozens  of companies and government agencies since 2019 by targeting their "git" and other source code repositories and posting the proprietary data of more than 100 entities on a website called git[.]rip, according to the indictment.  Kottmann is alleged to have cloned the source code and other confidential files containing hard-coded administrative credentials and access keys, using the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protective Intelligence Honors Launched<a href="https://www.infosecurity-magazine.com:443/news/protective-intelligence-honors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber investigations firm founder among first security pioneers awarded new security honor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of ongoing TrickBot attacks<a href="https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and FBI are warning of ongoing TrickBot attacks despite security firms took down the C2 infrastructure of the infamous botnet in October.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft antivirus now automatically mitigates Exchange Server vulnerability<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-antivirus-now-automatically-mitigates-hafnium-exchange-server-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft antivirus tools many users already have installed will now automatically mitigate a critical Exchange Server vulnerability, the lynchpin of several recent campaigns to breach on-premises servers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian pleads guilty to Tesla hacking and extortion attempt<a href="https://www.bleepingcomputer.com/news/security/russian-pleads-guilty-to-tesla-hacking-and-extortion-attempt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian national Egor Igorevich Kriuchkov has pleaded guilty to recruiting a Tesla employee to plant malware designed to steal data within the network of Tesla's Nevada Gigafactory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secureframe raises $18M Series A to simplify cybersecurity compliance<a href="https://techcrunch.com/2021/03/18/secureframe-series-a-cybersecurity-compliance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company is announcing it has raised $18 million at Series A, led by Kleiner Perkins and with participation from Gradient Ventures and Base10 Partners, which led its $4.5 million seed round.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET Exposes Malware Disguised as Clubhouse App<a href="https://www.infosecurity-magazine.com:443/news/eset-malware-disguised-clubhouse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware can steal login information for 458 online services
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss hacker charged for leaking proprietary source code<a href="https://www.bleepingcomputer.com/news/security/swiss-hacker-charged-for-leaking-proprietary-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss national Till Kottmann, 21, has been charged for conspiracy, wire fraud and aggravated identity theft, the U.S. Department of Justice announced.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Widely Used Malware Crypter<a href="https://www.govinfosecurity.com/researchers-uncover-widely-used-malware-crypter-a-16212?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Avast have discovered that more than 30 hacker groups have been using a malware crypter dubbed OnionCrypter to use encryption and obfuscation to make detection more difficult.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Man Pleads Guilty in Tesla Extortion Plot<a href="https://www.infosecurity-magazine.com:443/news/russian-man-guilty-tesla-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individual tried to recruit insider to deploy malware at Nevada facility
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender adds automatic Exchange ProxyLogon mitigation<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-adds-automatic-exchange-proxylogon-mitigation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender Antivirus will now protect unpatched on-premises Exchange servers from ongoing attacks by automatically mitigating the actively exploited CVE-2021-26855 vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cylera raises $10M to protect organizations against cyberattacks on IoT devices<a href="https://www.helpnetsecurity.com/2021/03/19/cylera-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cylera announced the company secured $10 million in Series A funding, led by Concord Health Partners and Maverick Ventures. This brings the company’s total funding to $17 million.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Website Builders Take Hands-Off Approach to Fake News<a href="https://www.infosecurity-magazine.com:443/news/website-builders-handsoff-approach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research reveals most don't take down conspiracy theories
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware has a new ‘Windows Safe Mode’ encryption mode<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-has-a-new-windows-safe-mode-encryption-mode/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation has added a new ability to encrypt files in Windows Safe Mode, likely to evade detection by security software and for greater success when encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Taxpayers Targeted in NetWire, Remcos Trojan Attack Campaign<a href="https://www.zdnet.com/article/us-taxpayers-targeted-in-netwire-remcos-trojan-attack-wave/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tax season is now upon us and as US residents file their returns ahead of a deadline in April, this is also a prime time for cybercriminals to launch campaigns tailored to take advantage of it.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware acquires Mesh7 for cloud-native application security<a href="https://www.zdnet.com/article/vmware-acquires-mesh7-for-cloud-native-application-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Thursday announced it plans to acquire Mesh7, a company that secures cloud-native applications and miroservices by monitoring application behavior at the API layer.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK’s CEOs Commit to Cyber Spending After Pandemic<a href="https://www.infosecurity-magazine.com:443/news/uks-ceos-commit-to-cyber-spending/"> Full Text</a>
 </p>
 <details>

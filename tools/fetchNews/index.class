@@ -34,6 +34,122 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s CEOs Commit to Cyber Spending After Pandemic<a href="https://www.infosecurity-magazine.com:443/news/uks-ceos-commit-to-cyber-spending/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concerns about cyber-threats rose during the crisis
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INDRIK SPIDER: WastedLocker Superseded by Hades Ransomware<a href="https://www.crowdstrike.com/blog/hades-ransomware-successor-to-indrik-spiders-wastedlocker/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In June 2020, the trend of moving away from their typical infection chain continued, and INDRIK SPIDER began using fake browser updates to deliver the Cobalt Strike red-teaming tool.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Eastern Health cyber 'incident' cancels some surgeries across Melbourne<a href="https://www.zdnet.com/article/eastern-health-cyber-incident-cancels-surgeries-across-melbourne/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some surgeries were canceled at Eastern Health facilities in Victoria, following a "cyber incident" late Tuesday. Eastern Health said it took many of its systems offline in response to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan messenger app Line let engineers in China access user data without consent: Report<a href="https://ciso.economictimes.indiatimes.com/news/japan-messenger-app-line-let-engineers-in-china-access-user-data-without-consent-report/81562102?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Line, which has 186 million users worldwide - of which just under half are in Japan - has since blocked access to user data at the Chinese affiliate, the company spokesman said.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Infecting Apple App Developers With Trojanized Xcode Projects<a href="https://thehackernews.com/2021/03/hackers-infecting-apple-app-developers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed a new attack wherein threat actors are leveraging Xcode as an attack vector to compromise Apple platform developers with a backdoor, adding to a growing trend that involves targeting developers and researchers with malicious attacks.  Dubbed "XcodeSpy," the trojanized Xcode project is a tainted version of a legitimate, open-source project available on GitHub called TabBarInteraction that's used by developers to animate iOS tab bars based on user interaction.  "XcodeSpy is a malicious Xcode project that installs a custom variant of the EggShell backdoor on the developer's macOS computer along with a persistence mechanism," SentinelOne researchers  said .   Xcode is Apple's integrated development environment (IDE) for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.  Earlier this year, Google's Threat Analysis group  uncovered  a North Korean campaign aimed at security researche
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by researchers at PrivacySavvy, many travel companies expose users' data through their booking apps.
+
+
+
+In a report published on the 16th of March by PrivacySavvy, many travel companies expose users' data through their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDP Attacks Reached Record Levels as More Employees Continue to Work from Home<a href="https://cybersecuritynews.com/rdp-attacks-reached-record-levels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The vast majority of companies had to switch to remote work due to the Covid-19 pandemic. As life for large swaths of...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
