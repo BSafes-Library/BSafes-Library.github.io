@@ -11,6 +11,48 @@ nav_order: 900075
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House Republicans examine federal election funds awarded to Biden-linked firm<a href="https://thehill.com//policy/cybersecurity/543829-house-republicans-question-awarding-of-federal-election-funds-to-biden"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three House Republican leaders on Thursday raised questions about oversight of federal election funds awarded by California to a firm linked to now-President Biden in the months ahead of the election.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Releases the IC3 Internet Crime Report 2020<a href="https://cyware.com/news/fbi-releases-the-ic3-internet-crime-report-2020-c6670ebe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI received 791,790 cybercrime complaints in 2020—300,000 more than 2019— resulting in a loss of over $4.2 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Alert: Pysa Ransomware Targeting Education Sector<a href="https://www.infosecurity-magazine.com:443/news/fbi-alert-pysa-ransomware-target/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors disable AV before deploying ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Prime Minister Boris Johnson wants to enhance UK cyber capabilities<a href="https://securityaffairs.co/wordpress/115704/cyber-warfare-2/boris-johnson-uk-cyber-capabilities.html"> Full Text</a>
 </p>
 <details>

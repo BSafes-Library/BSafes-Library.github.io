@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘I vowed I was going to teach people’: NPower’s trauma-informed training nurtures digital talent<a href="https://www.scmagazine.com/home/security-news/i-vowed-i-was-going-to-teach-people-npowers-trauma-informed-training-nurtures-digital-talent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In Part 2 of a series looking at winners of the inaugural Gula Tech Foundation grant competition, we meet Robert Vaughn, head of the nonprofit’s National Instructors Institute, whose chance meeting with a stranger a gas station led to career transformation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

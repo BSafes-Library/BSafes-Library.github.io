@@ -11,6 +11,24 @@ nav_order: 900080
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+China-linked hackers target telcos to steal 5G secrets<a href="https://securityaffairs.co/wordpress/115693/apt/chinese-hackers-5g.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese APT groups are targeting telecom companies in cyberespionage campaigns collectively tracked as Operation Diànxùn, to steal 5G secrets.
+
+
+
+Chinese-language threat actors are targeting telecom companies, as part of a cyber espionage campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 State-sponsored Threat Groups Target Telcos, Steal 5G Secrets<a href="https://threatpost.com/state-sponsored-threat-groups-target-telcos-steal-5g-secrets/164841/"> Full Text</a>
 </p>
 <details>

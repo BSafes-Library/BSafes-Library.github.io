@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases new SolarWinds malicious activity detection tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-solarwinds-malicious-activity-detection-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has released a new tool to detect post-compromise malicious activity associated with the SolarWinds hackers in on-premises enterprise environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WINTRIAGE: THE TRIAGE TOOL FOR WINDOWS DFIRERS<a href="https://securityaffairs.co/wordpress/115719/security/wintriage-triage-tool-windows-dfirers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wintriage is a live response tool that extracts Windows artifacts, it allows to extract the most artifacts as possible, but in a selective way
+
+
+
+Throughout my life, my daily job has been purely related to cybersecurity. But the branch I like the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook rolls out physical keys to guard against hacking mobile accounts<a href="https://thehill.com//policy/cybersecurity/543798-facebook-rolls-out-physical-security-keys-for-mobile-devices-to-defend"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday announced that&nbsp;iOS and Android mobile device&nbsp;users&nbsp;can now utilize physical security keys to verify their accounts and guard against hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Polish Government Websites Hacked and Used to Spread Fake Information on Radioactive Leak<a href="https://www.securityweek.com/polish-state-websites-hacked-and-used-spread-false-info?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Atomic Energy Agency and Health Ministry websites briefly carried claims of a supposed nuclear waste leak coming from neighboring Lithuania and threatening Poland.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

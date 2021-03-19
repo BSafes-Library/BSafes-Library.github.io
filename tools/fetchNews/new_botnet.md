@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA alerts of TrickBot trojan attacks<a href="https://us-cert.cisa.gov/ncas/alerts/aa21-076a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot uses person-in-the-browser attacks to steal information, such as login credentials. Some of TrickBot’s modules spread the malware laterally across a network by abusing the SMB protocol.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Satori: Mirai Botnet Variant Targeting Vantage Velocity Field Unit RCE Vulnerability<a href="https://unit42.paloaltonetworks.com/satori-mirai-botnet-variant-targeting-vantage-velocity-field-unit-rce-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers observed attempts to exploit CVE-2020-9020, which is a Remote Command Execution (RCE) vulnerability in Iteris’ Vantage Velocity field unit version 2.3.1, 2.4.2, and 3.0.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

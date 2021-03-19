@@ -11,6 +11,62 @@ nav_order: 900220
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Reported in MyBB Forum Software—Patch Your Sites<a href="https://thehackernews.com/2021/03/critical-rce-flaw-reported-in-mybb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of critical vulnerabilities in a popular bulletin board software called MyBB could have been chained together to achieve remote code execution (RCE) without the need for prior access to a privileged account.  The flaws, which were discovered by independent security researchers Simon Scannell and Carl Smith, were reported to the MyBB Team on February 22, following which it&nbsp; released &nbsp;an update (version 1.8.26) on March 10 addressing the issues.  MyBB, formerly MyBBoard and originally MyBulletinBoard, is free and open-source forum software developed using PHP and MySQL.   According to the researchers, the first issue — a nested auto URL persistent XSS vulnerability (CVE-2021-27889) — stems from how MyBB parses messages containing URLs during the rendering process, thus enabling any unprivileged forum user to embed stored XSS payloads into threads, posts, and even private messages.  "The vulnerability can be exploited with minimal user interaction by saving a maliciously craf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fiserv Forgets to Buy Domain It Used as System Default<a href="https://threatpost.com/fiserv-forgets-to-buy-domain-it-used-as-system-default/164903/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fintech security provider Fiserv acknowledges it used unregistered domain as default email. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tutor LMS for WordPress Open to Info-Stealing Security Holes<a href="https://threatpost.com/tutor-lms-wordpress-security-holes/164868/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular learning-management system for teacher-student communication is rife with SQL-injection vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Cached Credentials Can Cause Account Lockouts and How to Stop it<a href="https://thehackernews.com/2021/03/why-cached-credentials-can-cause.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a user account becomes locked out, the cause is often attributed to a user who has simply entered an old or incorrect password too many times. However, this is far from being the only thing that can cause an account to become locked.  Another common cause, for example, is an application or script that is configured to log into the system using an old password. Perhaps the most easily overlooked cause of account lockouts, however, is the use of cached credentials.  Before I explain&nbsp; why cached credentials can be problematic , let's first consider what the Windows cached credentials do and why they are necessary.  Cached and stored credentials  Cached credentials are a mechanism that is used to ensure that users have a way of logging into their device in the event that the device is unable to access the Active Directory. Suppose for a moment that a user is working from a domain-joined laptop and is connected to the corporate network.  In that type of situation, the Active Directory
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Management Firm Vulcan Cyber Raises $21 Million<a href="https://www.securityweek.com/vulnerability-management-firm-vulcan-cyber-raises-21-million?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

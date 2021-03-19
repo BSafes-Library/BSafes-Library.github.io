@@ -11,6 +11,34 @@ nav_order: 900180
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+2020 was a golden year for ransomware gangs, with evolving tactics and increasing payouts<a href="https://www.scmagazine.com/home/security-news/ransomware/2020-was-a-golden-year-for-ransomware-gangs-with-evolving-tactics-and-increasing-payouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The money has never been better, but there are signs that increasingly aggressive responses from law enforcement are taking a toll.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Soaring Too High<a href="https://cyware.com/news/ransomware-soaring-too-high-91d2c0ec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The extent and severity of ransomware attacks witnessed an all-time high in 2020 and there’s no reason to believe that it is going to be any different this year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Average Ransom Payment Surged 171% in 2020<a href="https://www.infosecurity-magazine.com:443/news/average-ransom-payment-surged-171/"> Full Text</a>
 </p>
 <details>

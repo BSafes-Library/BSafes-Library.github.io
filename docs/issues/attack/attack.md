@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding and Responding to the SolarWinds Supply Chain Attack: The Federal Perspective<a href="https://www.lawfareblog.com/understanding-and-responding-solarwinds-supply-chain-attack-federal-perspective"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, March 18, 2021, at 10:15 a.m., the Senate Homeland Security and Governmental Affairs Committee will hold&nbsp;a hearing on understanding and responding to the SolarWinds supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

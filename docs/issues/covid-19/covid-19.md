@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 and Fundamental Changes in Cyberattacks<a href="https://cyware.com/news/covid-19-and-fundamental-changes-in-cyberattacks-6657561c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among other threats, email scamming proved to the most successful infection vector in the coronavirus era, Kaspersky finds. It also changed the way people understood cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

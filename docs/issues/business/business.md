@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis Acquires South African Partner<a href="https://www.infosecurity-magazine.com:443/news/acronis-acquires-south-african/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acronis acquires Synapsys in fourth acquisition in the past 18 months
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recorded Future Swoops for Gemini Advisory in $52m Deal<a href="https://www.infosecurity-magazine.com:443/news/recorded-future-gemini-advisory-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Combination will enhance customers’ threat intelligence
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

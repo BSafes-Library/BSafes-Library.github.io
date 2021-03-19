@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Screen-Sharing Glitch ‘Briefly’ Leaks Sensitive Data<a href="https://threatpost.com/zoom-glitch-leaks-data/164876/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A glitch in Zoom’s screen-sharing feature shows parts of presenters’ screens that they did not intend to share – potentially leaking emails or passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
