@@ -32,7 +32,9 @@ Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-warns-of-vishing-attacks-stealing-corporate-accounts
 . https://www.bleepingcomputer.com/news/security/fbi-telephony-denial-of-service-attacks-can-lead-to-loss-of-lives/
 . https://threatpost.com/cisa-federal-agencies-patch-exchange-servers/164499/
-. https://www.bleepingcomputer.com/news/security/fbi-warns-of-escalating-pysa-ransomware-attacks-on-education-orgs/
+. https://www.scmagazine.com/home/security-news/cybercrime/fbi-cybercrime-skyrocketed-in-2020-with-email-compromise-scams-accounting-for-43-of-losses/
+. https://cyware.com/news/fbi-releases-the-ic3-internet-crime-report-2020-c6670ebe
+. https://us-cert.cisa.gov/ncas/alerts/aa21-076a?&web_view=truehttps://us-cert.cisa.gov/ncas/alerts/aa21-076a?&web_view=true
 APT
 . APT27
 . APT37

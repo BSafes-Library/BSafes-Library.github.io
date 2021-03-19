@@ -11,6 +11,34 @@ nav_order: 900015
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chile's bank regulator shares IOCs after Microsoft Exchange hack<a href="https://www.bleepingcomputer.com/news/security/chiles-bank-regulator-shares-iocs-after-microsoft-exchange-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chile's&nbsp;Comisión para el Mercado Financiero&nbsp;(CMF) has disclosed that their Microsoft Exchange server was compromised through the recently disclosed ProxyLogon vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China suspected of cyber attack on Western Australia's Parliament during state election<a href="https://www.abc.net.au/news/2021-03-17/wa-parliament-targeted-cyber-attack/13253926?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Australia's parliamentary email network was hit by suspected Chinese hackers earlier this month as part of a massive global cyber-attack involving Microsoft software.
+</details>
+<div style="text-align: right" markdown="1">
+ABC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Nurseries sent first official cyber-attack warning<a href="https://www.bbc.com/news/education-56403778?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

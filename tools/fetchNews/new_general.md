@@ -11,6 +11,94 @@ nav_order: 900072
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate Republicans call for hearing on FTC's Obama-era Google decision | US grid at rising risk to cyberattack, says GAO | YouTube rolls out TikTok rival in the US<a href="https://thehill.com//policy/technology/overnights/543940-hillicon-valley-senate-republicans-call-for-hearing-on-ftcs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Senate Republicans pushed for a Judiciary Committee hearing into the Federal Trade Commission’s decision nearly a decade ago not to sue Google, as lawmakers take a closer look at the tech giant’s market power. A government watchdog released a report stating distribution systems within the U.S. electrical grid are increasingly vulnerable to cyberattack. And YouTube's short-form video service will be launching in the U.S.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cybercrime skyrocketed in 2020, with email compromise scams accounting for 43% of losses<a href="https://www.scmagazine.com/home/security-news/cybercrime/fbi-cybercrime-skyrocketed-in-2020-with-email-compromise-scams-accounting-for-43-of-losses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI’s Internet Crime Complaint Center (IC3) released its annual report Wednesday, showing a sharp increase in cybercrime, both in quantity and cost in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Threats Spreading Faster than Wildfire<a href="https://cyware.com/news/microsoft-exchange-threats-spreading-faster-than-wildfire-40d538cb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of attempted attacks observed against vulnerable Microsoft Exchange Servers is doubling every few hours. Security teams and malicious actors are continuously outwitting each other.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US grid at rising risk to cyberattack, says GAO<a href="https://thehill.com//policy/energy-environment/543831-government-watchdog-energy-department-must-address-cyber-threats-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distribution systems within the U.S. electrical grid are increasingly vulnerable to cyberattack, a government watchdog said in a report released Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Crime Complaints Surge in 2020, Fueled By Pandemic<a href="https://www.infosecurity-magazine.com:443/news/internet-crime-complaints-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IC3 saw a 69% increase in internet crime complaints last year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reading the FBI IC3’s ‘2020 Internet Crime Report’<a href="https://securityaffairs.co/wordpress/115708/cyber-crime/2020-internet-crime-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI’s Internet Crime Complaint Center has released its annual report, the&nbsp;2020 Internet Crime Report, which&nbsp;includes data from 791,790 complaints of suspected cybercrimes.
+
+
+
+The FBI’s Internet Crime Complaint Center (IC3) has published its annual...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI: Over $4.2 billion officially lost to cybercrime in 2020<a href="https://www.bleepingcomputer.com/news/security/fbi-over-42-billion-officially-lost-to-cybercrime-in-2020/"> Full Text</a>
 </p>
 <details>

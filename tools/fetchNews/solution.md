@@ -11,6 +11,20 @@ nav_order: 900195
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dropbox to Make Password Manager Feature Free for All Users<a href="https://www.infosecurity-magazine.com:443/news/dropbox-password-manager-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of April, users can try a limited version of Dropbox Passwords free-of-charge
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Apple May Start Delivering Security Patches Separately From Other OS Updates<a href="https://thehackernews.com/2021/03/apple-may-start-delivering-security.html"> Full Text</a>
 </p>
 <details>

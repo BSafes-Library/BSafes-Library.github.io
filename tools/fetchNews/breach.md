@@ -11,6 +11,52 @@ nav_order: 900029
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Data Breaches Tracker monitor unsecured ElasticSearch servers online<a href="https://securityaffairs.co/wordpress/115698/security/data-breaches-tracker-unsecured-elasticsearch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity research at WizCase, an online security and privacy portal, built a tool to track&nbsp;accessible ElasticSearch servers on the internet.&nbsp;
+
+
+
+Cybersecurity research at WizCase, an online security and privacy portal, developed a tool...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds threat actor gains access to Mimecast’s production grid environment<a href="https://www.scmagazine.com/home/email-security/solarwinds-threat-actor-gains-access-to-mimecasts-production-grid-environment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company earned kudos from security researchers for transparency and swift response, with one saying “I would have hoped to see more companies to be this responsive and forthcoming.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mimecast: SolarWinds Attackers Stole Source Code<a href="https://threatpost.com/mimecast-solarwinds-attackers-stole-source-code/164847/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Mimecast update reveals the SolarWinds hackers accessed several “limited” source code repositories. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mimecast Finds SolarWinds Hackers Stole Some of Its Source Code<a href="https://thehackernews.com/2021/03/mimecast-finds-solarwinds-hackers-stole.html"> Full Text</a>
 </p>
 <details>

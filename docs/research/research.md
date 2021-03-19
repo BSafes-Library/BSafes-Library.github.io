@@ -18,6 +18,17 @@ The effects of identity theft can haunt data breach victims for years. Some vict
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+January, 2021<br>
+• Repeal the Defend Trade Secret Act: Why Congress Can’t Rely on Trade Secret Law to Protect America’s Trade Secrets [HTML](https://papers.bsafes.com/docs/law/repeal-the-defend-trade-secret-act-whey-congress-cant-rely-on-trade-secret-law-to-protect-americas-trade-secrets/)
+</p>
+<details>
+  <summary>Abstract</summary>
+“[T]here are only ‘two categories’ of companies affected by trade secret theft — ‘[T]hose [sic] that know they’ve been compromised and those that don’t know yet.’”  Whether you imagine a cyber thief subverting a company’s network defenses or an employee selling secret information to a competitor, trade secret theft is a real threat. The epidemic has ballooned to such proportions- $600 billion –that combatting trade secret theft enjoys bipartisan congressional support. Despite Congress’s best efforts, there is no evidence the bleeding has slowed, much less stopped.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 January, 2021  
 • Israel’s Perspective on Key Legal and Practical Issues Concerning the Application of International Law to Cyber Operations [HTML](https://papers.bsafes.com/docs/law/israels-perspective-on-key-legal-and-practical-issues-concerning-the-application-of-international-law-to-cyber-operations/#contents)
 </p>

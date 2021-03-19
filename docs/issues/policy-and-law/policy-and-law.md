@@ -11,6 +11,34 @@ nav_order: 900163
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mom Charged in Deepfake Cheerleading Plot<a href="https://www.infosecurity-magazine.com:443/news/mom-charged-in-deepfake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mom allegedly used deepfake tech in attempt to oust daughter’s cheerleading rivals from squad
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Consultant Indicted on Cyberstalking Charges<a href="https://www.infosecurity-magazine.com:443/news/security-consultant-indicted-on-1/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seattle cybersecurity professional accused of cyberstalking multiple victims
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The 17-year-old Twitter Hacker who is the “mastermind” Behind a High-Profile Attack Pleads Guilty<a href="https://cybersecuritynews.com/twitter-hack-mastermind/"> Full Text</a>
 </p>
 <details>

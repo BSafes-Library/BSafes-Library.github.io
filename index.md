@@ -34,7 +34,715 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s CEOs Commit to Cyber Spending After Pandemic<a href="https://www.infosecurity-magazine.com:443/news/uks-ceos-commit-to-cyber-spending/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concerns about cyber-threats rose during the crisis
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INDRIK SPIDER: WastedLocker Superseded by Hades Ransomware<a href="https://www.crowdstrike.com/blog/hades-ransomware-successor-to-indrik-spiders-wastedlocker/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In June 2020, the trend of moving away from their typical infection chain continued, and INDRIK SPIDER began using fake browser updates to deliver the Cobalt Strike red-teaming tool.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Eastern Health cyber 'incident' cancels some surgeries across Melbourne<a href="https://www.zdnet.com/article/eastern-health-cyber-incident-cancels-surgeries-across-melbourne/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some surgeries were canceled at Eastern Health facilities in Victoria, following a "cyber incident" late Tuesday. Eastern Health said it took many of its systems offline in response to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan messenger app Line let engineers in China access user data without consent: Report<a href="https://ciso.economictimes.indiatimes.com/news/japan-messenger-app-line-let-engineers-in-china-access-user-data-without-consent-report/81562102?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Line, which has 186 million users worldwide - of which just under half are in Japan - has since blocked access to user data at the Chinese affiliate, the company spokesman said.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Infecting Apple App Developers With Trojanized Xcode Projects<a href="https://thehackernews.com/2021/03/hackers-infecting-apple-app-developers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed a new attack wherein threat actors are leveraging Xcode as an attack vector to compromise Apple platform developers with a backdoor, adding to a growing trend that involves targeting developers and researchers with malicious attacks.  Dubbed "XcodeSpy," the trojanized Xcode project is a tainted version of a legitimate, open-source project available on GitHub called TabBarInteraction that's used by developers to animate iOS tab bars based on user interaction.  "XcodeSpy is a malicious Xcode project that installs a custom variant of the EggShell backdoor on the developer's macOS computer along with a persistence mechanism," SentinelOne researchers  said .   Xcode is Apple's integrated development environment (IDE) for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.  Earlier this year, Google's Threat Analysis group  uncovered  a North Korean campaign aimed at security researche
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by researchers at PrivacySavvy, many travel companies expose users' data through their booking apps.
+
+
+
+In a report published on the 16th of March by PrivacySavvy, many travel companies expose users' data through their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDP Attacks Reached Record Levels as More Employees Continue to Work from Home<a href="https://cybersecuritynews.com/rdp-attacks-reached-record-levels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The vast majority of companies had to switch to remote work due to the Covid-19 pandemic. As life for large swaths of...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases new SolarWinds malicious activity detection tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-solarwinds-malicious-activity-detection-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has released a new tool to detect post-compromise malicious activity associated with the SolarWinds hackers in on-premises enterprise environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 and Fundamental Changes in Cyberattacks<a href="https://cyware.com/news/covid-19-and-fundamental-changes-in-cyberattacks-6657561c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among other threats, email scamming proved to the most successful infection vector in the coronavirus era, Kaspersky finds. It also changed the way people understood cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate Republicans call for hearing on FTC's Obama-era Google decision | US grid at rising risk to cyberattack, says GAO | YouTube rolls out TikTok rival in the US<a href="https://thehill.com//policy/technology/overnights/543940-hillicon-valley-senate-republicans-call-for-hearing-on-ftcs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Senate Republicans pushed for a Judiciary Committee hearing into the Federal Trade Commission’s decision nearly a decade ago not to sue Google, as lawmakers take a closer look at the tech giant’s market power. A government watchdog released a report stating distribution systems within the U.S. electrical grid are increasingly vulnerable to cyberattack. And YouTube's short-form video service will be launching in the U.S. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Reported in MyBB Forum Software—Patch Your Sites<a href="https://thehackernews.com/2021/03/critical-rce-flaw-reported-in-mybb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of critical vulnerabilities in a popular bulletin board software called MyBB could have been chained together to achieve remote code execution (RCE) without the need for prior access to a privileged account.  The flaws, which were discovered by independent security researchers Simon Scannell and Carl Smith, were reported to the MyBB Team on February 22, following which it  released  an update (version 1.8.26) on March 10 addressing the issues.  MyBB, formerly MyBBoard and originally MyBulletinBoard, is free and open-source forum software developed using PHP and MySQL.   According to the researchers, the first issue — a nested auto URL persistent XSS vulnerability (CVE-2021-27889) — stems from how MyBB parses messages containing URLs during the rendering process, thus enabling any unprivileged forum user to embed stored XSS payloads into threads, posts, and even private messages.  "The vulnerability can be exploited with minimal user interaction by saving a maliciously craf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mom Charged in Deepfake Cheerleading Plot<a href="https://www.infosecurity-magazine.com:443/news/mom-charged-in-deepfake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mom allegedly used deepfake tech in attempt to oust daughter’s cheerleading rivals from squad
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding and Responding to the SolarWinds Supply Chain Attack: The Federal Perspective<a href="https://www.lawfareblog.com/understanding-and-responding-solarwinds-supply-chain-attack-federal-perspective"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, March 18, 2021, at 10:15 a.m., the Senate Homeland Security and Governmental Affairs Committee will hold a hearing on understanding and responding to the SolarWinds supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XcodeSpy Mac malware targets Xcode Developers with a backdoor<a href="https://securityaffairs.co/wordpress/115729/malware/xcodespy-mac-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown threat actors have been using a new XcodeSpy Mac malware to target software developers who use Apple’s Xcode integrated development environment.
+
+
+
+Researchers at SentinelOne uncovered a series of attacks involving a new XcodeSpy used to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cybercrime skyrocketed in 2020, with email compromise scams accounting for 43% of losses<a href="https://www.scmagazine.com/home/security-news/cybercrime/fbi-cybercrime-skyrocketed-in-2020-with-email-compromise-scams-accounting-for-43-of-losses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI’s Internet Crime Complaint Center (IC3) released its annual report Wednesday, showing a sharp increase in cybercrime, both in quantity and cost in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fiserv Forgets to Buy Domain It Used as System Default<a href="https://threatpost.com/fiserv-forgets-to-buy-domain-it-used-as-system-default/164903/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fintech security provider Fiserv acknowledges it used unregistered domain as default email. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CopperStealer malware steals Google, Apple, Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/new-copperstealer-malware-steals-google-apple-facebook-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Previously undocumented account-stealing malware distributed via fake software crack sites targets the users of major service providers, including Google, Facebook, Amazon, and Apple.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mekotio Tojan is Using AutoHotKey to Avoid Detection<a href="https://cyware.com/news/mekotio-tojan-is-using-autohotkey-to-avoid-detection-d9d237d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mekotio trojan has been found using two separate emails as an initial infection vector which then abuses AutoHotKey (AHK) and the AHK compiler to steal users’ information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Republicans examine federal election funds awarded to Biden-linked firm<a href="https://thehill.com//policy/cybersecurity/543829-house-republicans-question-awarding-of-federal-election-funds-to-biden"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three House Republican leaders on Thursday raised questions about oversight of federal election funds awarded by California to a firm linked to now-President Biden in the months ahead of the election.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Successfully Pursue a Career in Malware Analysis<a href="https://thehackernews.com/2021/03/how-to-successfully-pursue-career-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you looking to becoming a malware analyst? Then continue reading to discover how to gain the training you need and start a career in malware analysis career. Did you know that new malware is released every seven seconds?  As more and more systems become reliant on the internet, the proliferation of malware becomes increasingly destructive. Once upon a time, a computer virus might cause considerable inconvenience, but its reach might have been limited to the handful of systems connected to the internet.  Today, with every home, factory, and institution online, it's theoretically possible for malware to shut down an entire nation.  That's where malware analysis comes in.  Malware analysis is the process of isolating and reverse-engineering malicious software. Malware analysts draw on a wide range of skills, from programming to digital forensics, to identify and understand different types of malware. From there, they can design security solutions to protect computers from sim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis Acquires South African Partner<a href="https://www.infosecurity-magazine.com:443/news/acronis-acquires-south-african/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acronis acquires Synapsys in fourth acquisition in the past 18 months
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT31 group was behind the attack on Finnish Parliament<a href="https://securityaffairs.co/wordpress/115723/apt/apt31-attack-parliament-finland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked cyber espionage group APT31 is believed to be behind an attack on the Parliament of Finland that took place in 2020.
+
+
+
+China-linked cyber espionage group APT31 is believed to be behind an attack on the Parliament of Finland that took place...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple developers targeted by malicious Xcode project<a href="https://www.scmagazine.com/home/security-news/apple-developers-targeted-by-malicious-xcode-project/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backdoor is able to record the victim’s microphone, camera and keyboard entries, plus can upload and download files.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized Xcode Project Slips MacOS Malware to Apple Developers<a href="https://threatpost.com/xcode-macos-malware-apple-developers/164897/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new campaign, threat actors are bundling macOS malware in trojanized Apple Xcode developer projects. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US taxpayers targeted with RAT malware in ongoing phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-taxpayers-targeted-with-rat-malware-in-ongoing-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US taxpayers are being targeted by phishing attacks attempting to take over their computers using malware and steal sensitive personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Threats Spreading Faster than Wildfire<a href="https://cyware.com/news/microsoft-exchange-threats-spreading-faster-than-wildfire-40d538cb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of attempted attacks observed against vulnerable Microsoft Exchange Servers is doubling every few hours. Security teams and malicious actors are continuously outwitting each other.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US grid at rising risk to cyberattack, says GAO<a href="https://thehill.com//policy/energy-environment/543831-government-watchdog-energy-department-must-address-cyber-threats-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distribution systems within the U.S. electrical grid are increasingly vulnerable to cyberattack, a government watchdog said in a report released Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Consultant Indicted on Cyberstalking Charges<a href="https://www.infosecurity-magazine.com:443/news/security-consultant-indicted-on-1/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seattle cybersecurity professional accused of cyberstalking multiple victims
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WINTRIAGE: THE TRIAGE TOOL FOR WINDOWS DFIRERS<a href="https://securityaffairs.co/wordpress/115719/security/wintriage-triage-tool-windows-dfirers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wintriage is a live response tool that extracts Windows artifacts, it allows to extract the most artifacts as possible, but in a selective way
+
+
+
+Throughout my life, my daily job has been purely related to cybersecurity. But the branch I like the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2020 was a golden year for ransomware gangs, with evolving tactics and increasing payouts<a href="https://www.scmagazine.com/home/security-news/ransomware/2020-was-a-golden-year-for-ransomware-gangs-with-evolving-tactics-and-increasing-payouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The money has never been better, but there are signs that increasingly aggressive responses from law enforcement are taking a toll.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Screen-Sharing Glitch ‘Briefly’ Leaks Sensitive Data<a href="https://threatpost.com/zoom-glitch-leaks-data/164876/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A glitch in Zoom’s screen-sharing feature shows parts of presenters’ screens that they did not intend to share – potentially leaking emails or passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XcodeSpy malware targets iOS devs in supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/new-xcodespy-malware-targets-ios-devs-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Xcode project known as XcodeSpy is targeting iOS devs in a supply-chain attack to install a macOS backdoor on the developer's computer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Releases the IC3 Internet Crime Report 2020<a href="https://cyware.com/news/fbi-releases-the-ic3-internet-crime-report-2020-c6670ebe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI received 791,790 cybercrime complaints in 2020—300,000 more than 2019— resulting in a loss of over $4.2 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook rolls out physical keys to guard against hacking mobile accounts<a href="https://thehill.com//policy/cybersecurity/543798-facebook-rolls-out-physical-security-keys-for-mobile-devices-to-defend"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday announced that iOS and Android mobile device users can now utilize physical security keys to verify their accounts and guard against hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Crime Complaints Surge in 2020, Fueled By Pandemic<a href="https://www.infosecurity-magazine.com:443/news/internet-crime-complaints-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IC3 saw a 69% increase in internet crime complaints last year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found a 1-Click RCE in the TikTok App for Android<a href="https://securityaffairs.co/wordpress/115714/hacking/rce-tiktok-android-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Egyptian security researcher Sayed Abdelhafiz discovered multiple bugs in TikTok Android Application that can be chained to achieve Remote code execution.
+
+
+
+Egyptian security researcher Sayed Abdelhafiz discovered multiple vulnerabilities in the TikTok...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘I vowed I was going to teach people’: NPower’s trauma-informed training nurtures digital talent<a href="https://www.scmagazine.com/home/security-news/i-vowed-i-was-going-to-teach-people-npowers-trauma-informed-training-nurtures-digital-talent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In Part 2 of a series looking at winners of the inaugural Gula Tech Foundation grant competition, we meet Robert Vaughn, head of the nonprofit’s National Instructors Institute, whose chance meeting with a stranger a gas station led to career transformation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese nation state hackers linked to Finnish Parliament hack<a href="https://www.bleepingcomputer.com/news/security/chinese-nation-state-hackers-linked-to-finnish-parliament-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese nation-state hackers have been linked to an attack on the Parliament of Finland that took place last year and led to the compromise of some parliament email accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old RAT in New Theme<a href="https://cyware.com/news/old-rat-in-new-theme-a172dc7d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave researchers have spotted a new malspam campaign that is exploiting icon files to deceive victims into executing the NanoCore RAT.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudsters Impersonating Tesco in New Phone Scam, Police Warn<a href="https://www.infosecurity-magazine.com:443/news/police-fraudsters-tesco-phone-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims are being tricked into giving away personal details, including banking details
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can get access to your SMSes for just few dollars<a href="https://ciso.economictimes.indiatimes.com/news/hackers-can-get-access-to-your-smses-for-just-rs-1160/81547254?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Text-messaging management services are now being misused for as little as $16 to covertly redirect text messages from users to hackers, giving cybercriminals access to two-factor codes/login SMSes.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Soaring Too High<a href="https://cyware.com/news/ransomware-soaring-too-high-91d2c0ec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The extent and severity of ransomware attacks witnessed an all-time high in 2020 and there’s no reason to believe that it is going to be any different this year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA alerts of TrickBot trojan attacks<a href="https://us-cert.cisa.gov/ncas/alerts/aa21-076a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot uses person-in-the-browser attacks to steal information, such as login credentials. Some of TrickBot’s modules spread the malware laterally across a network by abusing the SMB protocol.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recorded Future Swoops for Gemini Advisory in $52m Deal<a href="https://www.infosecurity-magazine.com:443/news/recorded-future-gemini-advisory-in/"> Full Text</a>
@@ -50,7 +758,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Polish Government Websites Hacked and Used to Spread Fake Information on Radioactive Leak<a href="https://www.securityweek.com/polish-state-websites-hacked-and-used-spread-false-info?&web_view=true"> Full Text</a>
@@ -66,7 +774,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tutor LMS for WordPress Open to Info-Stealing Security Holes<a href="https://threatpost.com/tutor-lms-wordpress-security-holes/164868/"> Full Text</a>
@@ -82,7 +790,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Satori: Mirai Botnet Variant Targeting Vantage Velocity Field Unit RCE Vulnerability<a href="https://unit42.paloaltonetworks.com/satori-mirai-botnet-variant-targeting-vantage-velocity-field-unit-rce-vulnerability/?&web_view=true"> Full Text</a>
@@ -98,7 +806,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Alert: Pysa Ransomware Targeting Education Sector<a href="https://www.infosecurity-magazine.com:443/news/fbi-alert-pysa-ransomware-target/"> Full Text</a>
@@ -114,7 +822,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reading the FBI IC3’s ‘2020 Internet Crime Report’<a href="https://securityaffairs.co/wordpress/115708/cyber-crime/2020-internet-crime-report.html"> Full Text</a>
@@ -134,7 +842,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Telegram Desktop App Malware Campaign Persists<a href="https://www.inforisktoday.com/fake-telegram-desktop-app-malware-campaign-persists-a-16196?&web_view=true"> Full Text</a>
@@ -150,7 +858,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2021
+March 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Cached Credentials Can Cause Account Lockouts and How to Stop it<a href="https://thehackernews.com/2021/03/why-cached-credentials-can-cause.html"> Full Text</a>
