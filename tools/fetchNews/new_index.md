@@ -37,11 +37,11 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-FBI warns of BEC attacks increasingly targeting US govt orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attacks-increasingly-targeting-us-govt-orgs/"> Full Text</a>
+The Week in Ransomware - March 19th 2021 - Highest ransom ever!<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-19th-2021-highest-ransom-ever/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The Federal Bureau of Investigation (FBI) is warning US private sector companies about an increase in business email compromise (BEC) attacks targeting state, local, tribal, and territorial (SLTT) government entities.
+While the beginning of this week was fairly quiet, it definitely ended with a bang as news came out of the largest ransom demand yet.
 </details>
 <div style="text-align: right" markdown="1">
 BleepingComputer
@@ -53,14 +53,30 @@ BleepingComputer
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Ongoing Office 365-themed phishing campaign targets executives, assistants, financial departments<a href="https://www.helpnetsecurity.com/2021/03/18/office-365-phishing-executives/?&web_view=true"> Full Text</a>
+A Picture is Better than Thousand Words<a href="https://cyware.com/news/a-picture-is-better-than-thousand-words-0a03d2de"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-A sophisticated and highly targeted Microsoft Office 365 phishing campaign is being aimed at C-suite executives, executive assistants, and financial departments across numerous industries.
+Researchers from Sucuri recently discovered a tactic, practiced by Magecart groups, to hide malicious activity by saving stolen credit card data into a JPEG file.
 </details>
 <div style="text-align: right" markdown="1">
-Help Net Security
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Twitter says Greene account suspended in error | Justice Dept. indicts hacker connected to massive surveillance breach | Trump reference to 'Chinese virus' linked to increase in anti-Asian hashtags<a href="https://thehill.com//policy/technology/overnights/544113-hillicon-valley-twitter-says-greene-account-suspended-in-error"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Friday announced that the personal account of Rep. Marjorie Taylor GreeneMarjorie Taylor GreeneRep. Marjorie Taylor Greene says she's meeting with Trump 'soon' in Florida QAnon site shutters after reports identifying developer Republicans head to runoff in GA-14 MORE (R-Ga.) had been accidentally suspended, and Greene isn't happy. Meanwhile, the Justice Department brought a slew of charges against a Swiss hacker connected to the recent breach of troves of surveillance data, and a new study found increases in anti-Asian hashtags tied to tweets from former President TrumpDonald TrumpAdvocates demand transparency in Biden migrant facilities The Memo: America faces long war with extremism NYPD investigating anti-Asian incident against teen MORE. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -85,6 +101,206 @@ The Hacker News
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Indicts Software Engineer<a href="https://www.infosecurity-magazine.com:443/news/us-indicts-software-engineer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss man indicted for allegedly stealing and publishing sensitive government and corporate data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian National pleads guilty to conspiracy to plant malware on Tesla systems<a href="https://securityaffairs.co/wordpress/115770/cyber-crime/russian-man-malware-tesla.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian national who attempted to convince a Tesla employee to plant malware on Tesla systems has pleaded guilty.
+
+
+
+The U.S. Justice Department announced on Thursday that the Russian national Egor Igorevich Kriuchkov (27), who attempted to convince...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CopperStealer malware infected up to 5,000 hosts per day over first three months of 2021<a href="https://www.scmagazine.com/home/security-news/copperstealer-malware-infected-up-to-5000-hosts-per-day-over-first-three-months-of-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware stole credentials of users on major platforms including Facebook, Instagram, Apple, Amazon, Bing, Google, PayPal, Tumblr and Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP Flaw Now Under Active Attack<a href="https://threatpost.com/critical-f5-big-ip-flaw-now-under-active-attack/164940/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are reporting mass scanning for – and in-the-wild exploitation of – a critical-severity flaw in the F5 BIG-IP and BIG-IQ enterprise networking infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP vulnerability now targeted in ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-vulnerability-now-targeted-in-ongoing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm NCC Group said on Thursday that it detected successful in the wild exploitation of a recently patched critical vulnerability in F5 BIG-IP and BIG-IQ networking devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases PoC Utilizing Spectre Flaw<a href="https://cyware.com/news/google-releases-poc-utilizing-spectre-flaw-4224eda3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released a Proof-of-Concept on Spectre side-channel vulnerability for web app developers, highlighting the importance of deploying application-level mitigations to stay secure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department indicts hacker connected to massive surveillance camera breach<a href="https://thehill.com//policy/cybersecurity/544063-justice-department-indicts-hacker-connected-to-massive-surveillance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department brought charges this week against a Swiss individual allegedly responsible for hacking into dozens of companies over the course of several years, most recently allegedly carrying out a breach that exposed massive amounts of surveillance data. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT31 Fingered for Cyber-Attack on Finnish Parliament<a href="https://www.infosecurity-magazine.com:443/news/apt31-cyberattack-finnish/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland says its government was spied on by threat group with links to Chinese government
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are attempting to exploit CVE-2021-22986 in F5 BIG-IP devices in the wild<a href="https://securityaffairs.co/wordpress/115760/hacking/f5-big-ip-attacks-cve-2021-22986.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts warn of ongoing attacks aimed at exploiting a recently patched critical vulnerability in F5 BIG-IP and BIG-IQ networking devices.
+
+
+
+Cybersecurity experts from NCC Group and Bad Packets security firm this week detected a wave...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Girl Security brings the ‘lived security experiences of diverse girls to the forefront’<a href="https://www.scmagazine.com/women-in-it-security/girl-security-brings-the-lived-security-experiences-of-diverse-girls-to-the-forefront/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In part 3 of our series spotlighting winners of the inaugural Gula Tech Foundation grant competition, we speak to Girl Security CEO Lauren Bean Buitta. She calls her job the “most important work… I’ve ever done,” empowering women in security with education, training and mentoring.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer giant Acer hit by $50 million ransomware attack<a href="https://www.bleepingcomputer.com/news/security/computer-giant-acer-hit-by-50-million-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Computer giant Acer has been hit by a REvil ransomware attack where the threat actors are demanding the largest known ransom to date, $50,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil is on Another Attack Spree<a href="https://cyware.com/news/revil-is-on-another-attack-spree-ee5bd9d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victimizing at least nine organizations across Africa, Europe, Mexico, and the U.S in the past two weeks, the REvil gang is probably showing off its Gootloader malware loader.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Protective Intelligence Honors Launched<a href="https://www.infosecurity-magazine.com:443/news/protective-intelligence-honors/"> Full Text</a>
 </p>
 <details>
@@ -101,15 +317,99 @@ Infosecurity Magazine
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-CISA and FBI warn of ongoing TrickBot attacks<a href="https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html"> Full Text</a>
+Why Focusing on Container Runtimes Is the Most Critical Piece of Security for EKS Workloads?<a href="https://securityaffairs.co/wordpress/115755/security/amazon-elastic-kubernetes-service-eks.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-CISA and FBI are warning of ongoing TrickBot attacks despite security firms took down the C2 infrastructure of the infamous botnet in October.
+Amazon Elastic Kubernetes Service (EKS), a platform which gives customers the ability to run Kubernetes apps in the AWS cloud or on premises.
 
 
 
-The Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI)...
+Organizations are increasingly turning to Kubernetes to manage their containers. In the 2020 Cloud Native...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘A lot of late nights’: Zoom’s compliance chief reflects on the year that was the pandemic<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/a-lot-of-late-nights-zooms-compliance-chief-reflects-on-the-year-that-was-the-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lynn Haaland joined Zoom as chief compliance and ethics officer in January 2020 – only months before the pandemic took hold. SC Media caught up with Haaland to get her take on challenges and lessons learned during a year transformed by COVID-19.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of BEC attacks increasingly targeting US govt orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attacks-increasingly-targeting-us-govt-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) is warning US private sector companies about an increase in business email compromise (BEC) attacks targeting state, local, tribal, and territorial (SLTT) government entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published on March 16 by PrivacySavvy, many travel companies expose users’ data through their booking apps which could impact up to 105 million users.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET Exposes Malware Disguised as Clubhouse App<a href="https://www.infosecurity-magazine.com:443/news/eset-malware-disguised-clubhouse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware can steal login information for 458 online services
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of sites could be hacked due to flaws in popular WordPress plugins<a href="https://securityaffairs.co/wordpress/115750/hacking/wordpress-plugins-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found vulnerabilities in two WordPress plugins that could be exploited to run arbitrary code and potentially take over a website.
+
+
+
+Security researchers disclosed vulnerabilities in Elementor and WP Super Cache WordPress plugins that could be exploited...
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs
@@ -153,14 +453,14 @@ BleepingComputer
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Secureframe raises $18M Series A to simplify cybersecurity compliance<a href="https://techcrunch.com/2021/03/18/secureframe-series-a-cybersecurity-compliance/?&web_view=true"> Full Text</a>
+Beware the Package Typosquatting Supply Chain Attack<a href="https://www.darkreading.com/vulnerabilities---threats/beware-the-package-typosquatting-supply-chain-attack/a/d-id/1340383?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The company is announcing it has raised $18 million at Series A, led by Kleiner Perkins and with participation from Gradient Ventures and Base10 Partners, which led its $4.5 million seed round.
+Attackers are mimicking the names of existing packages on public registries in hopes that users or developers will accidentally download these malicious packages instead of legitimate ones.
 </details>
 <div style="text-align: right" markdown="1">
-TechCrunch
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -169,14 +469,34 @@ TechCrunch
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-ESET Exposes Malware Disguised as Clubhouse App<a href="https://www.infosecurity-magazine.com:443/news/eset-malware-disguised-clubhouse/"> Full Text</a>
+Russian Man Pleads Guilty in Tesla Extortion Plot<a href="https://www.infosecurity-magazine.com:443/news/russian-man-guilty-tesla-extortion/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The malware can steal login information for 458 online services
+Individual tried to recruit insider to deploy malware at Nevada facility
 </details>
 <div style="text-align: right" markdown="1">
 Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of ongoing TrickBot attacks<a href="https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and FBI are warning of ongoing TrickBot attacks despite security firms took down the C2 infrastructure of the infamous botnet in October.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -201,14 +521,14 @@ BleepingComputer
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Researchers Uncover Widely Used Malware Crypter<a href="https://www.govinfosecurity.com/researchers-uncover-widely-used-malware-crypter-a-16212?&web_view=true"> Full Text</a>
+BlackRock Android trojan Poses as Clubhouse App to Steal Login Credentials for Over 450 Apps<a href="https://www.welivesecurity.com/2021/03/18/beware-android-trojan-posing-clubhouse-app/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Security researchers at Avast have discovered that more than 30 hacker groups have been using a malware crypter dubbed OnionCrypter to use encryption and obfuscation to make detection more difficult.
+Disguised as the (non-existent) Android version of the invitation-only audio chat app, the malicious package is served from a website that has the look and feel of the genuine Clubhouse website.
 </details>
 <div style="text-align: right" markdown="1">
-Gov Info Security
+ESET Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -217,11 +537,11 @@ Gov Info Security
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Russian Man Pleads Guilty in Tesla Extortion Plot<a href="https://www.infosecurity-magazine.com:443/news/russian-man-guilty-tesla-extortion/"> Full Text</a>
+Website Builders Take Hands-Off Approach to Fake News<a href="https://www.infosecurity-magazine.com:443/news/website-builders-handsoff-approach/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Individual tried to recruit insider to deploy malware at Nevada facility
+Research reveals most don't take down conspiracy theories
 </details>
 <div style="text-align: right" markdown="1">
 Infosecurity Magazine
@@ -249,30 +569,14 @@ BleepingComputer
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Cylera raises $10M to protect organizations against cyberattacks on IoT devices<a href="https://www.helpnetsecurity.com/2021/03/19/cylera-funding/?&web_view=true"> Full Text</a>
+Ongoing Office 365-themed phishing campaign targets executives, assistants, financial departments<a href="https://www.helpnetsecurity.com/2021/03/18/office-365-phishing-executives/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Cylera announced the company secured $10 million in Series A funding, led by Concord Health Partners and Maverick Ventures. This brings the company’s total funding to $17 million.
+A sophisticated and highly targeted Microsoft Office 365 phishing campaign is being aimed at C-suite executives, executive assistants, and financial departments across numerous industries.
 </details>
 <div style="text-align: right" markdown="1">
 Help Net Security
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Website Builders Take Hands-Off Approach to Fake News<a href="https://www.infosecurity-magazine.com:443/news/website-builders-handsoff-approach/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Research reveals most don't take down conspiracy theories
-</details>
-<div style="text-align: right" markdown="1">
-Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -294,39 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-US Taxpayers Targeted in NetWire, Remcos Trojan Attack Campaign<a href="https://www.zdnet.com/article/us-taxpayers-targeted-in-netwire-remcos-trojan-attack-wave/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The tax season is now upon us and as US residents file their returns ahead of a deadline in April, this is also a prime time for cybercriminals to launch campaigns tailored to take advantage of it.
-</details>
-<div style="text-align: right" markdown="1">
-ZDNet
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-VMware acquires Mesh7 for cloud-native application security<a href="https://www.zdnet.com/article/vmware-acquires-mesh7-for-cloud-native-application-security/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-VMware on Thursday announced it plans to acquire Mesh7, a company that secures cloud-native applications and miroservices by monitoring application behavior at the API layer.
-</details>
-<div style="text-align: right" markdown="1">
-ZDNet
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK’s CEOs Commit to Cyber Spending After Pandemic<a href="https://www.infosecurity-magazine.com:443/news/uks-ceos-commit-to-cyber-spending/"> Full Text</a>
@@ -342,7 +614,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INDRIK SPIDER: WastedLocker Superseded by Hades Ransomware<a href="https://www.crowdstrike.com/blog/hades-ransomware-successor-to-indrik-spiders-wastedlocker/?&web_view=true"> Full Text</a>
@@ -358,7 +630,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: Eastern Health cyber 'incident' cancels some surgeries across Melbourne<a href="https://www.zdnet.com/article/eastern-health-cyber-incident-cancels-surgeries-across-melbourne/?&web_view=true"> Full Text</a>
@@ -374,7 +646,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan messenger app Line let engineers in China access user data without consent: Report<a href="https://ciso.economictimes.indiatimes.com/news/japan-messenger-app-line-let-engineers-in-china-access-user-data-without-consent-report/81562102?&web_view=true"> Full Text</a>
@@ -390,7 +662,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Infecting Apple App Developers With Trojanized Xcode Projects<a href="https://thehackernews.com/2021/03/hackers-infecting-apple-app-developers.html"> Full Text</a>
@@ -406,7 +678,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html"> Full Text</a>
@@ -426,7 +698,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RDP Attacks Reached Record Levels as More Employees Continue to Work from Home<a href="https://cybersecuritynews.com/rdp-attacks-reached-record-levels/"> Full Text</a>
