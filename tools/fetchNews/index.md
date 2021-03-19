@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by researchers at PrivacySavvy, many travel companies expose users' data through their booking apps.
+
+
+
+In a report published on the 16th of March by PrivacySavvy, many travel companies expose users' data through their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 RDP Attacks Reached Record Levels as More Employees Continue to Work from Home<a href="https://cybersecuritynews.com/rdp-attacks-reached-record-levels/"> Full Text</a>
 </p>
 <details>
