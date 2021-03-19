@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Infecting Apple App Developers With Trojanized Xcode Projects<a href="https://thehackernews.com/2021/03/hackers-infecting-apple-app-developers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed a new attack wherein threat actors are leveraging Xcode as an attack vector to compromise Apple platform developers with a backdoor, adding to a growing trend that involves targeting developers and researchers with malicious attacks.  Dubbed "XcodeSpy," the trojanized Xcode project is a tainted version of a legitimate, open-source project available on GitHub called TabBarInteraction that's used by developers to animate iOS tab bars based on user interaction.  "XcodeSpy is a malicious Xcode project that installs a custom variant of the EggShell backdoor on the developer's macOS computer along with a persistence mechanism," SentinelOne researchers  said .   Xcode is Apple's integrated development environment (IDE) for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.  Earlier this year, Google's Threat Analysis group  uncovered  a North Korean campaign aimed at security researche
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html"> Full Text</a>
 </p>
 <details>
