@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Japan messenger app Line let engineers in China access user data without consent: Report<a href="https://ciso.economictimes.indiatimes.com/news/japan-messenger-app-line-let-engineers-in-china-access-user-data-without-consent-report/81562102?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Line, which has 186 million users worldwide - of which just under half are in Japan - has since blocked access to user data at the Chinese affiliate, the company spokesman said.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Infecting Apple App Developers With Trojanized Xcode Projects<a href="https://thehackernews.com/2021/03/hackers-infecting-apple-app-developers.html"> Full Text</a>
 </p>
 <details>

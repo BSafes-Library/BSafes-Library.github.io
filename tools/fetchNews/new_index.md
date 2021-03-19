@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Australia: Eastern Health cyber 'incident' cancels some surgeries across Melbourne<a href="https://www.zdnet.com/article/eastern-health-cyber-incident-cancels-surgeries-across-melbourne/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some surgeries were canceled at Eastern Health facilities in Victoria, following a "cyber incident" late Tuesday. Eastern Health said it took many of its systems offline in response to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Japan messenger app Line let engineers in China access user data without consent: Report<a href="https://ciso.economictimes.indiatimes.com/news/japan-messenger-app-line-let-engineers-in-china-access-user-data-without-consent-report/81562102?&web_view=true"> Full Text</a>
 </p>
 <details>
