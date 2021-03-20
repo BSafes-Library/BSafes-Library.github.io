@@ -34,7 +34,191 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group used 11 zero-days to attack Windows, iOS, Android users<a href="https://www.bleepingcomputer.com/news/security/hacking-group-used-11-zero-days-to-attack-windows-ios-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Project Zero, Google's zero-day bug-hunting team, discovered a group of hackers that used 11 zero-days in attacks targeting Windows, iOS, and Android users within a single year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hackers Hide the Credit Card Data in Image Files<a href="https://cybersecuritynews.com/magecart-hackers-hide-credit-card-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Nowadays the cybercriminals are mainly focusing on credit card theft, as they always try their best to find different methods to successfully...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Mirai Variant Uses New Vulnerabilities in IoT Devices<a href="https://cyware.com/news/this-new-mirai-variant-uses-new-vulnerabilities-in-iot-devices-864d3605"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, cybersecurity researchers disclosed a new wave of ongoing attacks exploiting multiple vulnerabilities to deploy new Mirai variants on internet-connected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk denies cars were used to spy in China: Tesla would be 'shut down'<a href="https://thehill.com//policy/technology/544140-elon-musk-denies-cars-were-used-to-spy-in-china-tesla-would-be-shut-down"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tesla founder and CEO Elon Musk denied claims from the Chinese government that Tesla vehicles could be tied to espionage efforts in the country, arguing such a move would force the electric car manufacturer to “shut down.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP Bug Under Active Attacks After PoC Exploit Posted Online<a href="https://thehackernews.com/2021/03/latest-f5-big-ip-bug-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 10 days after application security company F5 Networks  released patches  for critical vulnerabilities in its BIG-IP and BIG-IQ products, adversaries have begun opportunistically mass scanning and targeting exposed and unpatched networking devices to break into enterprise networks.  News of in the wild exploitation development comes on the heels of a proof-of-concept exploit code that surfaced online earlier this week by reverse-engineering the Java software patch in BIG-IP. The  mass scans  are said to have spiked since March 18.   The flaws affect BIG-IP versions 11.6 or 12.x and newer, with a critical remote code execution (CVE-2021-22986) also impacting BIG-IQ versions 6.x and 7.x.  CVE-2021-22986  (CVSS score: 9.8) is notable for the fact that it's an unauthenticated, remote command execution vulnerability affecting the iControl REST interface, allowing an attacker to execute arbitrary system commands, create or delete files, and disable services without the need for a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A threat actor exploited 11 zero-day flaws in 2020 campaigns<a href="https://securityaffairs.co/wordpress/115786/hacking/11-zero-day-flaws-hacking-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group has employed at least 11 zero-day flaws as part of an operation that took place in 2020 and targeted Android, iOS, and Windows users.
+
+
+
+Google’s Project Zero security team published a report about the activity of a mysterious hacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Bug Deleting the Downloaded Files from Microsoft Teams and SharePoint files<a href="https://cybersecuritynews.com/microsoft-bug-deleting-the-downloaded-files-from-microsoft-teams-and-sharepoint-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft SharePoint and Microsoft Teams users report that the downloaded files are missing or moved to the Recycle Bin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unit 42 Finds 15 New Vulnerabilities in Microsoft, Adobe, Apple Products<a href="https://unit42.paloaltonetworks.com/15-new-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers have been credited with discovering 15 new vulnerabilities addressed by the Microsoft Security Response Center (MSRC), Adobe Security Bulletin, and Apple Security Updates, as part of the last quarter of security update releases.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang hacked Acer and is demanding a $50 million ransom<a href="https://securityaffairs.co/wordpress/115777/cyber-crime/acer-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese multinational hardware and electronics corporation Acer was victim of a REvil ransomware attack, the gang demanded a $50,000,000 ransom.
+
+
+
+Taiwanese computer giant Acer was victim of the REvil ransomware attack, the gang is demanding the payment...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iOS app developers targeted with trojanized Xcode project<a href="https://www.helpnetsecurity.com/2021/03/19/trojanized-xcode-project/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The script contacts a C&C server and downloads a custom variant of the EggShell backdoor, which installs a user LaunchAgent for persistence, and allows the attacker to record information from the victim’s microphone, camera, and keyboard.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of ongoing TrickBot attacks<a href="https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) warn of ongoing Trickbot attacks despite in October multiple security firms dismantled its C2 infrastructure in a joint operation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - March 19th 2021 - Highest ransom ever!<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-19th-2021-highest-ransom-ever/"> Full Text</a>
@@ -50,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Picture is Better than Thousand Words<a href="https://cyware.com/news/a-picture-is-better-than-thousand-words-0a03d2de"> Full Text</a>
@@ -66,7 +250,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Twitter says Greene account suspended in error | Justice Dept. indicts hacker connected to massive surveillance breach | Trump reference to 'Chinese virus' linked to increase in anti-Asian hashtags<a href="https://thehill.com//policy/technology/overnights/544113-hillicon-valley-twitter-says-greene-account-suspended-in-error"> Full Text</a>
@@ -82,7 +266,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tesla Ransomware Hacker Pleads Guilty; Swiss Hacktivist Charged for Fraud<a href="https://thehackernews.com/2021/03/tesla-ransomware-hacker-pledges-guilty.html"> Full Text</a>
@@ -98,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Indicts Software Engineer<a href="https://www.infosecurity-magazine.com:443/news/us-indicts-software-engineer/"> Full Text</a>
@@ -114,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian National pleads guilty to conspiracy to plant malware on Tesla systems<a href="https://securityaffairs.co/wordpress/115770/cyber-crime/russian-man-malware-tesla.html"> Full Text</a>
@@ -134,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CopperStealer malware infected up to 5,000 hosts per day over first three months of 2021<a href="https://www.scmagazine.com/home/security-news/copperstealer-malware-infected-up-to-5000-hosts-per-day-over-first-three-months-of-2021/"> Full Text</a>
@@ -150,7 +334,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical F5 BIG-IP Flaw Now Under Active Attack<a href="https://threatpost.com/critical-f5-big-ip-flaw-now-under-active-attack/164940/"> Full Text</a>
@@ -166,7 +350,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical F5 BIG-IP vulnerability now targeted in ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-vulnerability-now-targeted-in-ongoing-attacks/"> Full Text</a>
@@ -182,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases PoC Utilizing Spectre Flaw<a href="https://cyware.com/news/google-releases-poc-utilizing-spectre-flaw-4224eda3"> Full Text</a>
@@ -198,7 +382,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department indicts hacker connected to massive surveillance camera breach<a href="https://thehill.com//policy/cybersecurity/544063-justice-department-indicts-hacker-connected-to-massive-surveillance"> Full Text</a>
@@ -214,7 +398,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT31 Fingered for Cyber-Attack on Finnish Parliament<a href="https://www.infosecurity-magazine.com:443/news/apt31-cyberattack-finnish/"> Full Text</a>
@@ -230,7 +414,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are attempting to exploit CVE-2021-22986 in F5 BIG-IP devices in the wild<a href="https://securityaffairs.co/wordpress/115760/hacking/f5-big-ip-attacks-cve-2021-22986.html"> Full Text</a>
@@ -250,7 +434,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Girl Security brings the ‘lived security experiences of diverse girls to the forefront’<a href="https://www.scmagazine.com/women-in-it-security/girl-security-brings-the-lived-security-experiences-of-diverse-girls-to-the-forefront/"> Full Text</a>
@@ -266,7 +450,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Computer giant Acer hit by $50 million ransomware attack<a href="https://www.bleepingcomputer.com/news/security/computer-giant-acer-hit-by-50-million-ransomware-attack/"> Full Text</a>
@@ -282,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil is on Another Attack Spree<a href="https://cyware.com/news/revil-is-on-another-attack-spree-ee5bd9d6"> Full Text</a>
@@ -298,7 +482,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protective Intelligence Honors Launched<a href="https://www.infosecurity-magazine.com:443/news/protective-intelligence-honors/"> Full Text</a>
@@ -314,7 +498,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Focusing on Container Runtimes Is the Most Critical Piece of Security for EKS Workloads?<a href="https://securityaffairs.co/wordpress/115755/security/amazon-elastic-kubernetes-service-eks.html"> Full Text</a>
@@ -334,7 +518,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘A lot of late nights’: Zoom’s compliance chief reflects on the year that was the pandemic<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/a-lot-of-late-nights-zooms-compliance-chief-reflects-on-the-year-that-was-the-pandemic/"> Full Text</a>
@@ -350,7 +534,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of BEC attacks increasingly targeting US govt orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attacks-increasingly-targeting-us-govt-orgs/"> Full Text</a>
@@ -366,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html?&web_view=true"> Full Text</a>
@@ -382,7 +566,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESET Exposes Malware Disguised as Clubhouse App<a href="https://www.infosecurity-magazine.com:443/news/eset-malware-disguised-clubhouse/"> Full Text</a>
@@ -398,7 +582,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of sites could be hacked due to flaws in popular WordPress plugins<a href="https://securityaffairs.co/wordpress/115750/hacking/wordpress-plugins-flaws.html"> Full Text</a>
@@ -418,7 +602,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft antivirus now automatically mitigates Exchange Server vulnerability<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-antivirus-now-automatically-mitigates-hafnium-exchange-server-vulnerability/"> Full Text</a>
@@ -434,7 +618,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian pleads guilty to Tesla hacking and extortion attempt<a href="https://www.bleepingcomputer.com/news/security/russian-pleads-guilty-to-tesla-hacking-and-extortion-attempt/"> Full Text</a>
@@ -450,7 +634,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware the Package Typosquatting Supply Chain Attack<a href="https://www.darkreading.com/vulnerabilities---threats/beware-the-package-typosquatting-supply-chain-attack/a/d-id/1340383?&web_view=true"> Full Text</a>
@@ -466,7 +650,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Man Pleads Guilty in Tesla Extortion Plot<a href="https://www.infosecurity-magazine.com:443/news/russian-man-guilty-tesla-extortion/"> Full Text</a>
@@ -482,7 +666,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and FBI warn of ongoing TrickBot attacks<a href="https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html"> Full Text</a>
@@ -502,7 +686,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss hacker charged for leaking proprietary source code<a href="https://www.bleepingcomputer.com/news/security/swiss-hacker-charged-for-leaking-proprietary-source-code/"> Full Text</a>
@@ -518,7 +702,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackRock Android trojan Poses as Clubhouse App to Steal Login Credentials for Over 450 Apps<a href="https://www.welivesecurity.com/2021/03/18/beware-android-trojan-posing-clubhouse-app/?&web_view=true"> Full Text</a>
@@ -534,7 +718,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Website Builders Take Hands-Off Approach to Fake News<a href="https://www.infosecurity-magazine.com:443/news/website-builders-handsoff-approach/"> Full Text</a>
@@ -550,7 +734,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender adds automatic Exchange ProxyLogon mitigation<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-adds-automatic-exchange-proxylogon-mitigation/"> Full Text</a>
@@ -566,7 +750,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Office 365-themed phishing campaign targets executives, assistants, financial departments<a href="https://www.helpnetsecurity.com/2021/03/18/office-365-phishing-executives/?&web_view=true"> Full Text</a>
@@ -582,7 +766,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2021
+March 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware has a new ‘Windows Safe Mode’ encryption mode<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-has-a-new-windows-safe-mode-encryption-mode/"> Full Text</a>
