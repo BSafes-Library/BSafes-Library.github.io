@@ -8,6 +8,76 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Indicts Software Engineer<a href="https://www.infosecurity-magazine.com:443/news/us-indicts-software-engineer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss man indicted for allegedly stealing and publishing sensitive government and corporate data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department indicts hacker connected to massive surveillance camera breach<a href="https://thehill.com//policy/cybersecurity/544063-justice-department-indicts-hacker-connected-to-massive-surveillance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department brought charges this week against a Swiss individual allegedly responsible for hacking into dozens of companies over the course of several years, most recently allegedly carrying out a breach that exposed massive amounts of surveillance data.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian pleads guilty to Tesla hacking and extortion attempt<a href="https://www.bleepingcomputer.com/news/security/russian-pleads-guilty-to-tesla-hacking-and-extortion-attempt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian national Egor Igorevich Kriuchkov has pleaded guilty to recruiting a Tesla employee to plant malware designed to steal data within the network of Tesla's Nevada Gigafactory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Man Pleads Guilty in Tesla Extortion Plot<a href="https://www.infosecurity-magazine.com:443/news/russian-man-guilty-tesla-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individual tried to recruit insider to deploy malware at Nevada facility
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss hacker charged for leaking proprietary source code<a href="https://www.bleepingcomputer.com/news/security/swiss-hacker-charged-for-leaking-proprietary-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss national Till Kottmann, 21, has been charged for conspiracy, wire fraud and aggravated identity theft, the U.S. Department of Justice announced.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

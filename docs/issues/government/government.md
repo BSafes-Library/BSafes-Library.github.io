@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of BEC attacks increasingly targeting US govt orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attacks-increasingly-targeting-us-govt-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) is warning&nbsp;US private sector companies&nbsp;about an increase in business email compromise (BEC) attacks targeting state, local, tribal, and territorial (SLTT) government entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

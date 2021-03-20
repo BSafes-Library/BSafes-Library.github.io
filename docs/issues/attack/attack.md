@@ -11,6 +11,20 @@ nav_order: 900015
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Beware the Package Typosquatting Supply Chain Attack<a href="https://www.darkreading.com/vulnerabilities---threats/beware-the-package-typosquatting-supply-chain-attack/a/d-id/1340383?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are mimicking the names of existing packages on public registries in hopes that users or developers will accidentally download these malicious packages instead of legitimate ones.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 RDP Attacks Reached Record Levels as More Employees Continue to Work from Home<a href="https://cybersecuritynews.com/rdp-attacks-reached-record-levels/"> Full Text</a>
 </p>
 <details>

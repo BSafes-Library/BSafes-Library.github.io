@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Picture is Better than Thousand Words<a href="https://cyware.com/news/a-picture-is-better-than-thousand-words-0a03d2de"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Sucuri recently discovered a tactic, practiced by Magecart groups, to hide malicious activity by saving stolen credit card data into a JPEG file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

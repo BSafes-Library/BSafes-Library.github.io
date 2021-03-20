@@ -11,6 +11,80 @@ nav_order: 900072
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Twitter says Greene account suspended in error | Justice Dept. indicts hacker connected to massive surveillance breach | Trump reference to 'Chinese virus' linked to increase in anti-Asian hashtags<a href="https://thehill.com//policy/technology/overnights/544113-hillicon-valley-twitter-says-greene-account-suspended-in-error"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Friday announced that the&nbsp;personal account of Rep. Marjorie Taylor GreeneMarjorie Taylor GreeneRep. Marjorie Taylor Greene says she's meeting with Trump 'soon' in Florida QAnon site shutters after reports identifying developer Republicans head to runoff in GA-14 MORE (R-Ga.) had been accidentally suspended,&nbsp;and Greene isn't happy. Meanwhile, the Justice Department brought a slew of charges against a Swiss hacker connected to the recent breach of troves of surveillance data, and a new study found increases in anti-Asian hashtags tied to tweets from former President TrumpDonald TrumpAdvocates demand transparency in Biden migrant facilities The Memo: America faces long war with extremism NYPD investigating anti-Asian incident against teen MORE.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Girl Security brings the ‘lived security experiences of diverse girls to the forefront’<a href="https://www.scmagazine.com/women-in-it-security/girl-security-brings-the-lived-security-experiences-of-diverse-girls-to-the-forefront/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In part 3 of our series spotlighting winners of the inaugural Gula Tech Foundation grant competition, we speak to Girl Security CEO Lauren Bean Buitta. She calls her job the “most important work… I’ve ever done,” empowering women in security with education, training and mentoring.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protective Intelligence Honors Launched<a href="https://www.infosecurity-magazine.com:443/news/protective-intelligence-honors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber investigations firm founder among first security pioneers awarded new security honor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Focusing on Container Runtimes Is the Most Critical Piece of Security for EKS Workloads?<a href="https://securityaffairs.co/wordpress/115755/security/amazon-elastic-kubernetes-service-eks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Elastic Kubernetes Service (EKS), a platform which gives customers the ability to run Kubernetes apps in the AWS cloud or on premises.
+
+
+
+Organizations are increasingly turning to Kubernetes to manage their containers. In the 2020 Cloud Native...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘A lot of late nights’: Zoom’s compliance chief reflects on the year that was the pandemic<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/a-lot-of-late-nights-zooms-compliance-chief-reflects-on-the-year-that-was-the-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lynn Haaland joined Zoom as chief compliance and ethics officer in January 2020 – only months before the pandemic took hold. SC Media caught up with Haaland to get her take on challenges and lessons learned during a year transformed by COVID-19.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK’s CEOs Commit to Cyber Spending After Pandemic<a href="https://www.infosecurity-magazine.com:443/news/uks-ceos-commit-to-cyber-spending/"> Full Text</a>
 </p>
 <details>

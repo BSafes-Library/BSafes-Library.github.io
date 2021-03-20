@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of ongoing TrickBot attacks<a href="https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and FBI are warning of ongoing TrickBot attacks despite security firms took down the C2 infrastructure of the infamous&nbsp;botnet in October.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

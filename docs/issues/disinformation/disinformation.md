@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Website Builders Take Hands-Off Approach to Fake News<a href="https://www.infosecurity-magazine.com:443/news/website-builders-handsoff-approach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research reveals most don't take down conspiracy theories
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

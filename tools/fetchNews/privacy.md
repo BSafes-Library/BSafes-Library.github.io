@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan messenger app Line let engineers in China access user data without consent: Report<a href="https://ciso.economictimes.indiatimes.com/news/japan-messenger-app-line-let-engineers-in-china-access-user-data-without-consent-report/81562102?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Line, which has 186 million users worldwide - of which just under half are in Japan - has since blocked access to user data at the Chinese affiliate, the company spokesman said.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of People Can Lose Sensitive Data through Travel Apps, Privacysavvy reports<a href="https://securityaffairs.co/wordpress/115737/digital-id/travel-apps-data-exposure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by researchers at PrivacySavvy, many travel companies expose users' data through their booking apps.
+
+
+
+In a report published on the 16th of March by PrivacySavvy, many travel companies expose users' data through their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
