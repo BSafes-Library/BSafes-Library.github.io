@@ -34,6 +34,154 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS booters now abuse DTLS servers to amplify attacks<a href="https://www.bleepingcomputer.com/news/security/ddos-booters-now-abuse-dtls-servers-to-amplify-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS-for-hire services are now actively abusing misconfigured or out-of-date Datagram Transport Layer Security (D/TLS) servers to amplify Distributed Denial of Service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tech Gaint Acer Hit by a REvil Ransomware – Attackers Demanding $50,000,000 Ransom<a href="https://cybersecuritynews.com/acer-hit-by-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Taiwanese computer manufacturer Acer has been hit by a REvil ransomware attack where the threat actors are demanding the largest known ransom...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss Firm Says It Has Accessed Servers of a SolarWinds Hacker<a href="https://www.bloombergquint.com/onweb/swiss-firm-says-it-has-accessed-servers-of-a-solarwinds-hacker?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Swiss cybersecurity firm says it has accessed servers used by a hacking group tied to the SolarWinds breach, revealing details about who the attackers targeted and how they carried out their operation.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Quint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden under growing pressure to nominate cyber czar<a href="https://thehill.com//policy/cybersecurity/544124-biden-under-growing-pressure-to-nominate-cyber-czar"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden is coming under increasing pressure from lawmakers and other officials to nominate a White House cyber czar as the government starts formulating its response to two major foreign cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases CHIRP, a tool to detect SolarWinds malicious activity<a href="https://securityaffairs.co/wordpress/115821/security/cisa-chirp-solarwinds-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA has released a new tool that allows detecting malicious activity associated with the SolarWinds hackers in compromised on-premises enterprise environments.
+
+
+
+US CISA released the CISA Hunt and Incident Response Program (CHIRP) tool, is a Python-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss expert Till Kottmann indicted for conspiracy, wire fraud, and aggravated identity theft<a href="https://securityaffairs.co/wordpress/115808/cyber-crime/till-kottmann-indicted-crimes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Department of Justice announced that Swiss hacker Till Kottmann, 21, has been indicted for conspiracy, wire fraud, and aggravated identity theft.
+
+
+
+A group of US hackers recently claimed to have gained access to footage from 150,000 security cameras...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 306<a href="https://securityaffairs.co/wordpress/115806/breaking-news/security-affairs-newsletter-round-306.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Experts found...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender can now protect servers against ProxyLogon attacks<a href="https://securityaffairs.co/wordpress/115801/hacking/microsoft-defender-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that its Defender Antivirus and System Center Endpoint Protection now protects users against attacks exploiting Exchange Server vulnerabilities.
+
+
+
+Microsoft announced this week that Defender Antivirus and System Center Endpoint Protection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
