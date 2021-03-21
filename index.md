@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+An Uprising of DDoS Attacks, a Cause of Concern for Organizations<a href="https://cyware.com/news/an-uprising-of-ddos-attacks-a-cause-of-concern-for-organizations-5f159c55"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of attacks almost doubled between February to September 2020. More than 50 million attacks were observed in the span of a year, according to a recent report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Let’s Talk About NimzaLoader, the New Malware in Town<a href="https://cyware.com/news/lets-talk-about-nimzaloader-the-new-malware-in-town-f9f4b245"> Full Text</a>
 </p>
 <details>
