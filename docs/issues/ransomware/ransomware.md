@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tech Gaint Acer Hit by a REvil Ransomware – Attackers Demanding $50,000,000 Ransom<a href="https://cybersecuritynews.com/acer-hit-by-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Taiwanese computer manufacturer Acer has been hit by a REvil ransomware attack where the threat actors are demanding the largest known ransom...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang hacked Acer and is demanding a $50 million ransom<a href="https://securityaffairs.co/wordpress/115777/cyber-crime/acer-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese&nbsp;multinational&nbsp;hardware and electronics corporation Acer was victim of a REvil ransomware attack, the gang demanded a $50,000,000 ransom.
+
+
+
+Taiwanese&nbsp;computer giant Acer was victim of the REvil ransomware attack, the gang is demanding the payment...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

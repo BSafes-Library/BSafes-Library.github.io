@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss Firm Says It Has Accessed&nbsp;Servers of a SolarWinds Hacker<a href="https://www.bloombergquint.com/onweb/swiss-firm-says-it-has-accessed-servers-of-a-solarwinds-hacker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Swiss cybersecurity firm says it has accessed servers used by a hacking group tied to the SolarWinds breach, revealing details about who the attackers targeted and how they carried out their operation.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Quint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group used 11 zero-days to attack Windows, iOS, Android users<a href="https://www.bleepingcomputer.com/news/security/hacking-group-used-11-zero-days-to-attack-windows-ios-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Project Zero, Google's zero-day bug-hunting team, discovered a group of hackers that used 11 zero-days in attacks targeting Windows, iOS, and Android users within a single year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hackers Hide the Credit Card Data in Image Files<a href="https://cybersecuritynews.com/magecart-hackers-hide-credit-card-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Nowadays the cybercriminals are mainly focusing on credit card theft, as they always try their best to find different methods to successfully...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

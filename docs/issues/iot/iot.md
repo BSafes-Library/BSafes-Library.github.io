@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Mirai Variant Uses New Vulnerabilities in IoT Devices<a href="https://cyware.com/news/this-new-mirai-variant-uses-new-vulnerabilities-in-iot-devices-864d3605"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, cybersecurity researchers disclosed a new wave of ongoing attacks exploiting multiple vulnerabilities to deploy new Mirai variants on internet-connected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are attempting to exploit CVE-2021-22986 in F5 BIG-IP devices in the wild<a href="https://securityaffairs.co/wordpress/115760/hacking/f5-big-ip-attacks-cve-2021-22986.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts warn of ongoing attacks aimed at exploiting a recently patched critical vulnerability in F5 BIG-IP and BIG-IQ networking devices.
+
+
+
+Cybersecurity experts from NCC Group&nbsp;and&nbsp;Bad Packets security firm this week detected a wave...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil is on Another Attack Spree<a href="https://cyware.com/news/revil-is-on-another-attack-spree-ee5bd9d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victimizing at least nine organizations across Africa, Europe, Mexico, and the U.S in the past two weeks, the REvil gang is probably showing off its Gootloader malware loader.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

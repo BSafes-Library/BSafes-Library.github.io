@@ -11,6 +11,62 @@ nav_order: 900180
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 19th 2021 - Highest ransom ever!<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-19th-2021-highest-ransom-ever/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the beginning of this week was fairly quiet, it definitely ended with a bang as news came out of the largest ransom demand yet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Ransomware Hacker Pleads Guilty; Swiss Hacktivist Charged for Fraud<a href="https://thehackernews.com/2021/03/tesla-ransomware-hacker-pledges-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice yesterday announced updates on two separate cases involving cyberattacks—a Swiss hacktivist and a Russian hacker who planned to plant malware in the Tesla company.  A Swiss hacker who was involved in the intrusion of cloud-based surveillance firm Verkada and exposed camera footage from its customers was charged by the U.S. Department of Justice (DoJ) on Thursday with conspiracy, wire fraud, and identity theft.  Till Kottmann (aka "deletescape" and "tillie crimew"), 21, of Lucerne, Switzerland, and his co-conspirators were accused of hacking dozens  of companies and government agencies since 2019 by targeting their "git" and other source code repositories and posting the proprietary data of more than 100 entities on a website called git[.]rip, according to the indictment.  Kottmann is alleged to have cloned the source code and other confidential files containing hard-coded administrative credentials and access keys, using the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer giant Acer hit by $50 million ransomware attack<a href="https://www.bleepingcomputer.com/news/security/computer-giant-acer-hit-by-50-million-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Computer giant Acer has been hit by a REvil ransomware attack where the threat actors are demanding the largest known ransom to date, $50,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware has a new ‘Windows Safe Mode’ encryption mode<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-has-a-new-windows-safe-mode-encryption-mode/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation has added a new ability to encrypt files in Windows Safe Mode, likely to evade detection by security software and for greater success when encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 INDRIK SPIDER: WastedLocker Superseded by Hades Ransomware<a href="https://www.crowdstrike.com/blog/hades-ransomware-successor-to-indrik-spiders-wastedlocker/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT31 Fingered for Cyber-Attack on Finnish Parliament<a href="https://www.infosecurity-magazine.com:443/news/apt31-cyberattack-finnish/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland says its government was spied on by threat group with links to Chinese government
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

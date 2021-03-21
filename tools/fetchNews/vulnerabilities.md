@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP Flaw Now Under Active Attack<a href="https://threatpost.com/critical-f5-big-ip-flaw-now-under-active-attack/164940/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are reporting mass scanning for – and in-the-wild exploitation of – a critical-severity flaw in the F5 BIG-IP and BIG-IQ enterprise networking infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP vulnerability now targeted in ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-vulnerability-now-targeted-in-ongoing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm NCC Group said on Thursday that it detected successful&nbsp;in the wild exploitation of a recently patched critical vulnerability in&nbsp;F5&nbsp;BIG-IP and BIG-IQ networking devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases PoC Utilizing Spectre Flaw<a href="https://cyware.com/news/google-releases-poc-utilizing-spectre-flaw-4224eda3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released a Proof-of-Concept on Spectre side-channel vulnerability for web app developers, highlighting the importance of deploying application-level mitigations to stay secure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of sites could be hacked due to flaws in popular WordPress plugins<a href="https://securityaffairs.co/wordpress/115750/hacking/wordpress-plugins-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found vulnerabilities in two WordPress plugins that could be exploited to run arbitrary code and potentially take over a website.
+
+
+
+Security researchers disclosed vulnerabilities in Elementor and WP Super Cache WordPress plugins that could be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft antivirus now automatically mitigates Exchange Server vulnerability<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-antivirus-now-automatically-mitigates-hafnium-exchange-server-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft antivirus tools many users already have installed will now automatically mitigate a critical Exchange Server vulnerability, the lynchpin of several recent campaigns to breach on-premises servers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender adds automatic Exchange ProxyLogon mitigation<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-adds-automatic-exchange-proxylogon-mitigation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender Antivirus will now protect unpatched on-premises Exchange servers from ongoing attacks by automatically mitigating the actively exploited CVE-2021-26855 vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

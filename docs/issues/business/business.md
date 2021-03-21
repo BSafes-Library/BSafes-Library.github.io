@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk denies cars were used to spy in China: Tesla would be 'shut down'<a href="https://thehill.com//policy/technology/544140-elon-musk-denies-cars-were-used-to-spy-in-china-tesla-would-be-shut-down"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tesla founder and CEO Elon Musk denied claims from the Chinese government that Tesla vehicles could be tied to espionage efforts in the country,&nbsp;arguing&nbsp;such a move would force the&nbsp;electric&nbsp;car manufacturer&nbsp;to&nbsp;“shut down.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
