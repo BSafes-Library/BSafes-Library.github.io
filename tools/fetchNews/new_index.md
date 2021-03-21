@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS booters now abuse DTLS servers to amplify attacks<a href="https://www.bleepingcomputer.com/news/security/ddos-booters-now-abuse-dtls-servers-to-amplify-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tech Gaint Acer Hit by a REvil Ransomware – Attackers Demanding $50,000,000 Ransom<a href="https://cybersecuritynews.com/acer-hit-by-revil-ransomware/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss Firm Says It Has Accessed Servers of a SolarWinds Hacker<a href="https://www.bloombergquint.com/onweb/swiss-firm-says-it-has-accessed-servers-of-a-solarwinds-hacker?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Bloomberg Quint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden under growing pressure to nominate cyber czar<a href="https://thehill.com//policy/cybersecurity/544124-biden-under-growing-pressure-to-nominate-cyber-czar"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA releases CHIRP, a tool to detect SolarWinds malicious activity<a href="https://securityaffairs.co/wordpress/115821/security/cisa-chirp-solarwinds-tool.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss expert Till Kottmann indicted for conspiracy, wire fraud, and aggravated identity theft<a href="https://securityaffairs.co/wordpress/115808/cyber-crime/till-kottmann-indicted-crimes.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 306<a href="https://securityaffairs.co/wordpress/115806/breaking-news/security-affairs-newsletter-round-306.html"> Full Text</a>
@@ -162,7 +162,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender can now protect servers against ProxyLogon attacks<a href="https://securityaffairs.co/wordpress/115801/hacking/microsoft-defender-microsoft-exchange.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking group used 11 zero-days to attack Windows, iOS, Android users<a href="https://www.bleepingcomputer.com/news/security/hacking-group-used-11-zero-days-to-attack-windows-ios-android-users/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart Hackers Hide the Credit Card Data in Image Files<a href="https://cybersecuritynews.com/magecart-hackers-hide-credit-card-data/"> Full Text</a>
@@ -214,7 +214,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This New Mirai Variant Uses New Vulnerabilities in IoT Devices<a href="https://cyware.com/news/this-new-mirai-variant-uses-new-vulnerabilities-in-iot-devices-864d3605"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elon Musk denies cars were used to spy in China: Tesla would be 'shut down'<a href="https://thehill.com//policy/technology/544140-elon-musk-denies-cars-were-used-to-spy-in-china-tesla-would-be-shut-down"> Full Text</a>
@@ -246,7 +246,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical F5 BIG-IP Bug Under Active Attacks After PoC Exploit Posted Online<a href="https://thehackernews.com/2021/03/latest-f5-big-ip-bug-under-active.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A threat actor exploited 11 zero-day flaws in 2020 campaigns<a href="https://securityaffairs.co/wordpress/115786/hacking/11-zero-day-flaws-hacking-group.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Bug Deleting the Downloaded Files from Microsoft Teams and SharePoint files<a href="https://cybersecuritynews.com/microsoft-bug-deleting-the-downloaded-files-from-microsoft-teams-and-sharepoint-files/"> Full Text</a>
@@ -298,7 +298,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unit 42 Finds 15 New Vulnerabilities in Microsoft, Adobe, Apple Products<a href="https://unit42.paloaltonetworks.com/15-new-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware gang hacked Acer and is demanding a $50 million ransom<a href="https://securityaffairs.co/wordpress/115777/cyber-crime/acer-revil-ransomware.html"> Full Text</a>
@@ -334,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iOS app developers targeted with trojanized Xcode project<a href="https://www.helpnetsecurity.com/2021/03/19/trojanized-xcode-project/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2021
+March 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and FBI warn of ongoing TrickBot attacks<a href="https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html?&web_view=true"> Full Text</a>
