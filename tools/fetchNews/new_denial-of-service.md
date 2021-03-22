@@ -11,6 +11,20 @@ nav_order: 900042
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+An Uprising of DDoS Attacks, a Cause of Concern for Organizations<a href="https://cyware.com/news/an-uprising-of-ddos-attacks-a-cause-of-concern-for-organizations-5f159c55"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of attacks almost doubled between February to September 2020. More than 50 million attacks were observed in the span of a year, according to a recent report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DDoS booters now abuse DTLS servers to amplify attacks<a href="https://www.bleepingcomputer.com/news/security/ddos-booters-now-abuse-dtls-servers-to-amplify-attacks/"> Full Text</a>
 </p>
 <details>

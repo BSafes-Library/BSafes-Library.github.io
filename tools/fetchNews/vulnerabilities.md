@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP Bug Under Active Attacks After PoC Exploit Posted Online<a href="https://thehackernews.com/2021/03/latest-f5-big-ip-bug-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 10 days after application security company F5 Networks&nbsp; released patches &nbsp;for critical vulnerabilities in its BIG-IP and BIG-IQ products, adversaries have begun opportunistically mass scanning and targeting exposed and unpatched networking devices to break into enterprise networks.  News of in the wild exploitation development comes on the heels of a proof-of-concept exploit code that surfaced online earlier this week by reverse-engineering the Java software patch in BIG-IP. The&nbsp; mass scans &nbsp;are said to have spiked since March 18.   The flaws affect BIG-IP versions 11.6 or 12.x and newer, with a critical remote code execution (CVE-2021-22986) also impacting BIG-IQ versions 6.x and 7.x.&nbsp; CVE-2021-22986 &nbsp;(CVSS score: 9.8) is notable for the fact that it's an unauthenticated, remote command execution vulnerability affecting the iControl REST interface, allowing an attacker to execute arbitrary system commands, create or delete files, and disable services without the need for a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A threat actor exploited 11 zero-day flaws in 2020 campaigns<a href="https://securityaffairs.co/wordpress/115786/hacking/11-zero-day-flaws-hacking-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group has employed at least 11 zero-day flaws as part of an operation that took place in 2020 and targeted Android, iOS, and Windows users.
+
+
+
+Google’s Project Zero security team published a report about the activity of a mysterious hacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Bug Deleting the Downloaded Files from Microsoft Teams and SharePoint files<a href="https://cybersecuritynews.com/microsoft-bug-deleting-the-downloaded-files-from-microsoft-teams-and-sharepoint-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft SharePoint and Microsoft Teams users report that the downloaded files are missing or moved to the Recycle Bin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unit 42 Finds 15 New Vulnerabilities in Microsoft, Adobe, Apple Products<a href="https://unit42.paloaltonetworks.com/15-new-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers have been credited with discovering 15 new vulnerabilities addressed by the Microsoft Security Response Center (MSRC), Adobe Security Bulletin, and Apple Security Updates, as part of the last quarter of security update releases.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

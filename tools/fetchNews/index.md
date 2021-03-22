@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Uprising of DDoS Attacks, a Cause of Concern for Organizations<a href="https://cyware.com/news/an-uprising-of-ddos-attacks-a-cause-of-concern-for-organizations-5f159c55"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2021
+March 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Let’s Talk About NimzaLoader, the New Malware in Town<a href="https://cyware.com/news/lets-talk-about-nimzaloader-the-new-malware-in-town-f9f4b245"> Full Text</a>

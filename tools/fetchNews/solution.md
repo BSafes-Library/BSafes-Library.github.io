@@ -8,6 +8,42 @@ nav_order: 900195
 
 ## Solution
 ---
+March 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases CHIRP, a tool to detect SolarWinds malicious activity<a href="https://securityaffairs.co/wordpress/115821/security/cisa-chirp-solarwinds-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA has released a new tool that allows detecting malicious activity associated with the SolarWinds hackers in compromised on-premises enterprise environments.
+
+
+
+US CISA released the CISA Hunt and Incident Response Program (CHIRP) tool, is a Python-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender can now protect servers against ProxyLogon attacks<a href="https://securityaffairs.co/wordpress/115801/hacking/microsoft-defender-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that its Defender Antivirus and System Center Endpoint Protection now protects users against attacks exploiting Exchange Server vulnerabilities.
+
+
+
+Microsoft announced this week that Defender Antivirus and System Center Endpoint Protection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
