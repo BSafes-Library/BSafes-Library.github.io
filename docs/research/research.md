@@ -18,6 +18,17 @@ The effects of identity theft can haunt data breach victims for years. Some vict
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+February 1, 2021<br>
+• Illicit Activity Detection in Large-Scale Dark and Opaque Web Social Networks [HTML](https://papers.bsafes.com/docs/cybercrime/illicit-activity-detection-in-large-scale-dark-and-opaque-web-social-networks/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Many online chat applications live in a grey area between the legitimate web and the dark net. The Telegram network in particular can aid criminal activities. Telegram hosts “chats” which consist of varied conversations and advertisements. These chats take place among automated “bots” and human users. Classifying legitimate activity from illegitimate activity can aid law enforcement in finding criminals. Social network analysis of Telegram chats presents a difficult problem. Users can change their username or create new accounts. Users involved in criminal activity often do this to obscure their identity. This makes establishing the unique identity behind a given username challenging. Thus we explored classifying users from their language usage in their chat messages.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 January, 2021<br>
 • Repeal the Defend Trade Secret Act: Why Congress Can’t Rely on Trade Secret Law to Protect America’s Trade Secrets [HTML](https://papers.bsafes.com/docs/law/repeal-the-defend-trade-secret-act-whey-congress-cant-rely-on-trade-secret-law-to-protect-americas-trade-secrets/)
 </p>
@@ -57,6 +68,17 @@ December 16, 2020
 <details>
   <summary>Abstract</summary>
 In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus attempts to demystify the increasingly sophisticated business of cybercrime and examine how it has matured into a large, profit-driven industry. Through interviews with hundreds of subjects involved in the cybercrime industry in varying capacities, Lusthaus has sought to draw a map that, by showing how seemingly disparate elements in the industry relate to one another, can better explain how the cybercrime industry functions. In particular, Lusthaus strives to produce a better understanding of the people behind cybercrime and the contexts in which they operate. By doing so, the book endeavors to lift the veil of anonymity that has historically hidden cybercrime offenders and their activities from public view.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
+November 23, 2020<br> 
+• The Internet Never Forgets: A Federal Solution to the Dissemination of Nonconsensual Pornography [HTML](https://papers.bsafes.com/docs/law/the-internet-never-forgets-a-federal-solution-to-the-dissemination-of-nonconsensual-pornography/)
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology evolves, new outlets for interpersonal conflict and crime evolve with it. The law is notorious for its inability to keep pace with this evolution. This Comment focuses on one area that the law urgently needs to regulate—the dissemination of “revenge porn,” otherwise known as nonconsensual pornography. Currently, no federal law exists in the U.S. that criminalizes the dissemination of nonconsensual pornography. Most U.S. states have criminalized the offense, but with vastly different degrees of severity, resulting in legal inconsistencies and jurisdictional conflicts. This Comment proposes a federal solution to the dissemination of nonconsensual pornography that carefully balances the interests of victims with the variety of scenarios that may give rise to this crime.
 </details>
 </div>
 
