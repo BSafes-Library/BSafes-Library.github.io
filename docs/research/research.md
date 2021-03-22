@@ -163,6 +163,17 @@ Nick Drnaso’s1 graphic novel Sabrina provides a powerful snapshot of online no
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+May, 2020<br>
+• Articulating the Cloud: Understanding Data Centers, Renewable Energy, and Public Policy [HTML](https://papers.bsafes.com/docs/internet/articulating-the-cloud-understanding-data-centers-renewable-energy-and-public-policy/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts urge that drastic steps must be taken to reduce carbon dioxide emissions as the ongoing climate crisis worsens. Amid this, it is also important to understand the relationships between media infrastructures and the finite resources they require. This thesis goes beyond arguing that data centers are inherently unsustainable media infrastructures that consumers rely on to access the Internet and cloud storage. Instead, this thesis focuses on Google as an industry leading company in the United States to assess how the company understands their role in the climate crisis, and how they define renewable energy and sustainability. To do so, this thesis used critical discourse analysis of Google’s public-facing documents, government documents, and related joint reports between external research organizations and Google related to their data centers. The findings revealed the company defines sustainability as a commitment and company value, and that they have an immense renewable energy portfolio through additional acquisitions measures. Ultimately, this thesis argues that Google discursively positions themselves as corporately benevolent and masks retroactive sustainability in the guise of activism while simultaneously firing activist employees, having fossil fuel industry clientele, and financially contributing to anti-climate change organizations. This thesis contributes to important conversations related to media infrastructure sustainability, in particular emphasizing the complex tensions and dynamics at work to make banal technologies possible. It is important for consumers to understand the limitations and items lacking in corporate discourse to advocate for a more sustainable future for everyone.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 May, 2020  
 • Cyber Security’s Influence on Modern Society [HTML](https://papers.bsafes.com/docs/internet/cybersecuritys-influence-on-modern-society/)
 </p>
