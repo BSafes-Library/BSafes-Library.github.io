@@ -34,7 +34,123 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases CHIRP Tool that Allows to Detect SolarWinds Malicious Activity<a href="https://cybersecuritynews.com/chirp-tools-solarwinds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The Cybersecurity and Infrastructure Security Agency (CISA) has released Hunt and Incident Response Program (CHIRP) tool.  CHIRP is a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Exchange servers breached prior to patching, CISA boss says<a href="https://www.cyberscoop.com/brandon-wales-exchange-server-patch-dhs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CISA official on Monday warned organizations about vulnerabilities in Microsoft Exchange Server software, noting that “thousands” of computer servers with updated software had already been breached.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jumio Secures Whopping $150m Investment from Private Equity Firm<a href="https://www.infosecurity-magazine.com:443/news/jumio-150m-investment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investment represents largest digital identity funding round ever
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy giant Shell discloses data breach caused by Accellion FTA hack<a href="https://securityaffairs.co/wordpress/115869/cyber-crime/shell-accellion-fta-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oil and gas giant Royal Dutch Shell (Shell) discloses a data breach resulting from the compromise of its Accellion File Transfer Appliance (FTA) file sharing service.
+
+
+
+Energy giant Shell disclosed a data breach resulting from the compromise of an Accellion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Only 14% of domains worldwide truly protected from spoofing with DMARC enforcement<a href="https://www.helpnetsecurity.com/2021/03/23/domains-protected-dmarc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email continues to be an effective way to communicate and use has increased during a year of the global pandemic, and hackers continue to use email as a primary attack vector.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: A New Android Zero-Day Vulnerability Is Under Active Attack<a href="https://thehackernews.com/2021/03/warning-new-android-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has disclosed that a now-patched vulnerability affecting Android devices that use Qualcomm chipsets is being weaponized by attackers to launch targeted attacks.  Tracked as CVE-2020-11261  (CVSS score 8.4), the flaw concerns  an "improper input validation" issue in Qualcomm's Graphics component that could be exploited to trigger memory corruption when an attacker-engineered app requests access to a huge chunk of the device's memory.   "There are indications that CVE-2020-11261 may be under limited, targeted exploitation," the search giant said  in an updated January security bulletin on March 18.  CVE-2020-11261 was discovered and reported to Qualcomm by Google's Android Security team on July 20, 2020, after which it was fixed in January 2021.   It's worth noting that the access vector for the vulnerability is "local," meaning that exploitation requires local access to the device. In other words, to launch a successful attack, the b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange exploit a possible factor in $50M ransomware attack on Acer<a href="https://www.scmagazine.com/home/security-news/ransomware/microsoft-exchange-exploit-a-possible-factor-in-50m-ransomware-attack-on-acer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company did not confirm whether the ransomware attack was executed via one of its Microsoft Exchange servers, but several cyber leaders commented on a potential connection to  the vulnerabilities exploited by multiple actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MangaDex manga site temporarily shut down after cyberattack<a href="https://www.bleepingcomputer.com/news/security/mangadex-manga-site-temporarily-shut-down-after-cyberattack/"> Full Text</a>
@@ -50,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom’s screen-sharing Feature Bug Leaks Sensitive Data<a href="https://cybersecuritynews.com/zooms-screen-sharing-feature-bug/"> Full Text</a>
@@ -66,7 +182,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Demands are Growing Faster than You can Imagine<a href="https://cyware.com/news/ransom-demands-are-growing-faster-than-you-can-imagine-12b3f2b8"> Full Text</a>
@@ -82,7 +198,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Lina Khan to get FTC nomination | Big tech critics join against 'surveillance advertising' | Microsoft moving back to the office<a href="https://thehill.com//policy/technology/overnights/544401-hillicon-valley-lina-khan-to-get-ftc-nomination-big-tech-critics"> Full Text</a>
@@ -98,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular Netop Remote Learning Software Found Vulnerable to Hacking<a href="https://thehackernews.com/2021/03/popular-netops-remote-learning-software.html"> Full Text</a>
@@ -114,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Delhi Police Bust Call Center Scammers<a href="https://www.infosecurity-magazine.com:443/news/delhi-police-bust-call-center/"> Full Text</a>
@@ -130,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ministry of Defence academy hit by state-sponsored hackers<a href="https://securityaffairs.co/wordpress/115870/hacking/ministry-of-defence-hacked.html"> Full Text</a>
@@ -150,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Securing the Super Bowl: Lessons in network lockdown during mega events<a href="https://www.scmagazine.com/home/security-news/network-security/securing-the-super-bowl-lessons-in-network-lockdown-during-mega-events/"> Full Text</a>
@@ -166,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical code execution vulnerability fixed in Adobe ColdFusion<a href="https://www.bleepingcomputer.com/news/security/critical-code-execution-vulnerability-fixed-in-adobe-coldfusion/"> Full Text</a>
@@ -182,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Account-stealing Malware Targets Global Tech Giants<a href="https://cyware.com/news/a-new-account-stealing-malware-targets-global-tech-giants-e2995d5a"> Full Text</a>
@@ -198,7 +314,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8 in 10 say cyberterrorism is top potential threat: Gallup<a href="https://thehill.com//policy/cybersecurity/544274-8-in-10-say-cyberterrorism-is-top-potential-threat-gallup"> Full Text</a>
@@ -214,7 +330,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Found in Apache OFBiz ERP Software—Patch Now<a href="https://thehackernews.com/2021/03/critical-rce-vulnerability-found-in.html"> Full Text</a>
@@ -230,7 +346,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Council Adopts Cybersecurity Strategy<a href="https://www.infosecurity-magazine.com:443/news/eu-council-adopts-cybersecurity/"> Full Text</a>
@@ -246,7 +362,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses a critical vulnerability in ColdFusion product<a href="https://securityaffairs.co/wordpress/115864/security/adobe-coldfusion-flaw.html"> Full Text</a>
@@ -266,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange exploit a possible factor in $50M ransomware attack on Acer<a href="https://www.scmagazine.com/home/security-news/microsoft-exchange-exploit-a-possible-factor-in-50m-ransomware-attack-on-acer/"> Full Text</a>
@@ -282,7 +398,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Energy giant Shell discloses data breach after Accellion hack<a href="https://www.bleepingcomputer.com/news/security/energy-giant-shell-discloses-data-breach-after-accellion-hack/"> Full Text</a>
@@ -298,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA Ransomware Eyeing Educational Institutions<a href="https://cyware.com/news/pysa-ransomware-eyeing-educational-institutions-31a14cbe"> Full Text</a>
@@ -314,7 +430,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Heading for “Catastrophic” Digital Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/uk-digital-skills-shortage/"> Full Text</a>
@@ -330,7 +446,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abusing distance learning software to hack into student PCs<a href="https://securityaffairs.co/wordpress/115854/hacking/distance-learning-software-flaws.html"> Full Text</a>
@@ -350,7 +466,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘The race is on’: CISA raises alarm bells about ransomware attacks against Microsoft Exchange servers<a href="https://www.scmagazine.com/home/security-news/ransomware/the-race-is-on-cisa-raises-alarm-bells-about-ransomware-attacks-against-microsoft-exchange-servers/"> Full Text</a>
@@ -366,7 +482,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers now targeted by Black Kingdom ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-now-targeted-by-black-kingdom-ransomware/"> Full Text</a>
@@ -382,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sentences Russian, North Macedonian in Cyber Fraud Case<a href="https://www.securityweek.com/us-sentences-russian-north-macedonian-cyber-fraud-case?&web_view=true"> Full Text</a>
@@ -398,7 +514,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cybersecurity Programs to Protect US Energy<a href="https://www.infosecurity-magazine.com:443/news/new-cybersecurity-programs-to/"> Full Text</a>
@@ -414,7 +530,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE flaw in Apache OFBiz could allow to take over the ERP system<a href="https://securityaffairs.co/wordpress/115846/security/rce-flaw-apache-ofbiz-erp.html"> Full Text</a>
@@ -434,7 +550,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After F5 publishes proofs of concept, potential hackers get to work<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/after-f5-publishes-proofs-of-concept-potential-hackers-get-to-work/"> Full Text</a>
@@ -450,7 +566,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Electricity Distribution Systems at Increasing Risk of Cyberattacks, GAO Warns<a href="https://www.securityweek.com/electricity-distribution-systems-increasing-risk-cyberattacks-gao-warns?&web_view=true"> Full Text</a>
@@ -466,7 +582,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Govt Department Loses 306 Mobiles and Laptops in Two Years<a href="https://www.infosecurity-magazine.com:443/news/government-loss-mobiles-laptops/"> Full Text</a>
@@ -482,7 +598,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Which is the Threat landscape for the ICS sector in 2020?<a href="https://securityaffairs.co/wordpress/115830/ics-scada/threat-landscape-ics-sector-2020.html"> Full Text</a>
@@ -502,7 +618,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishers’ perfect targets: Employees getting back to the office<a href="https://www.helpnetsecurity.com/2021/03/22/phishers-employees/?&web_view=true"> Full Text</a>
@@ -518,7 +634,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firms Urged to Patch as Attackers Exploit Critical F5 Bugs<a href="https://www.infosecurity-magazine.com:443/news/firms-urged-to-patch-exploit/"> Full Text</a>
@@ -534,7 +650,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Firefox tweaks Referrer Policy to shore up user privacy<a href="https://www.zdnet.com/article/mozilla-firefox-tweaks-referrer-policy-to-shore-up-user-privacy/?&web_view=true"> Full Text</a>
@@ -550,7 +666,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: State and Local Governments Losing Millions to BEC<a href="https://www.infosecurity-magazine.com:443/news/fbi-state-local-governments-losing/"> Full Text</a>
@@ -566,7 +682,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MangaDex website taken offline following cyber-attack, data breach<a href="https://portswigger.net/daily-swig/mangadex-website-taken-offline-following-cyber-attack-data-breach?&web_view=true"> Full Text</a>
@@ -582,7 +698,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Musk Denies Tesla Security Claims After Chinese Military Ban<a href="https://www.infosecurity-magazine.com:443/news/musk-denies-tesla-security-chinese/"> Full Text</a>
@@ -598,7 +714,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2021
+March 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud security company Axis raises $50m.<a href="https://www.jpost.com/jpost-tech/cloud-security-company-axis-raises-50m-662784?&web_view=true"> Full Text</a>

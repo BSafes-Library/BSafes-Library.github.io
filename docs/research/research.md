@@ -7,6 +7,17 @@ nav_order: 800
 ## Research 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+March 3, 2021<br>
+•  CYBER AND TRIA: EXPANDING THE DEFINITION OF AN “ACT OF TERRORISM” TO INCLUDE CYBER ATTACKS [HTML](https://papers.bsafes.com/docs/cybercrime/cyber-and-tria-expand-the-definition-of-an-act-of-terrorism-to-include-cyber-attacks/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The 9/11 terrorist attacks brought on financial losses that caused insurers and Congress to reevaluate how the United States approaches terrorism risk coverage. Congress quelled concerns of insurers evading coverage of future terrorist attacks by enacting the Terrorism Risk Insurance Act in 2002. This Note considers the difficulties presented by the out-of-date language employed by Congress in 2002 and proposes amendments so that the Act more clearly covers acts of cyberterrorism, which are ever-growing in their destructive potential.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 February 3, 2021  
 • The District of Columbia Circuit Finds Article III Standing Based on the Risk of Future Identity Theft in In re U.S. Office of Personnel Management Data Security Breach Litigation [HTML](https://papers.bsafes.com/docs/identity/the-district-of-columbia-circuit-finds-article-iii-standing-based-on-the-risk-of-future-identity-theft/)
 </p>
