@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Council Adopts Cybersecurity Strategy<a href="https://www.infosecurity-magazine.com:443/news/eu-council-adopts-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity conclusions presented in December officially adopted by EU Council
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cybersecurity Programs to Protect US Energy<a href="https://www.infosecurity-magazine.com:443/news/new-cybersecurity-programs-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US to launch three new research programs to safeguard energy security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Govt Department Loses 306 Mobiles and Laptops in Two Years<a href="https://www.infosecurity-magazine.com:443/news/government-loss-mobiles-laptops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The figures raise concerns about the security of highly sensitive data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: State and Local Governments Losing Millions to BEC<a href="https://www.infosecurity-magazine.com:443/news/fbi-state-local-governments-losing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alert urges improved education and awareness training
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

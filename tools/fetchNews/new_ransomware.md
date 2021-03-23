@@ -8,6 +8,76 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Demands are Growing Faster than You can Imagine<a href="https://cyware.com/news/ransom-demands-are-growing-faster-than-you-can-imagine-12b3f2b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report on ransomware actors underlines their boldness with which they have evolved as one of the most precarious threats to organizations worldwide while increasing ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange exploit a possible factor in $50M ransomware attack on Acer<a href="https://www.scmagazine.com/home/security-news/microsoft-exchange-exploit-a-possible-factor-in-50m-ransomware-attack-on-acer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers responded Monday to news of the REvil ransomware attack on computer and electronics manufacturer Acer late last week, mostly expressing shock over the $50 million price tag and advising the computer maker not to pay. The incident was first reported in BleepingComputer. which said the REvil cybercriminal gang (also known as Sodinokibi) announced…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA Ransomware Eyeing Educational Institutions<a href="https://cyware.com/news/pysa-ransomware-eyeing-educational-institutions-31a14cbe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has recently warned of a surge in attacks against schools in which a new strain of PYSA ransomware is stealing data and threatening to leak it. However, the education sector is not the only target.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘The race is on’: CISA raises alarm bells about ransomware attacks against Microsoft Exchange servers<a href="https://www.scmagazine.com/home/security-news/ransomware/the-race-is-on-cisa-raises-alarm-bells-about-ransomware-attacks-against-microsoft-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA’s acting executive director said “there are literally thousands of compromised [Exchange] servers that are currently patched” and said some systems owners may think they’re in the clear when they’re not.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers now targeted by Black Kingdom ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-now-targeted-by-black-kingdom-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another ransomware operation known as 'Black Kingdom' is exploiting the Microsoft Exchange Server ProxyLogon vulnerabilities&nbsp;to encrypt servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

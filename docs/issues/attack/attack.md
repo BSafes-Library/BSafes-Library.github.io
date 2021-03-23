@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ministry of Defence academy hit by state-sponsored hackers<a href="https://securityaffairs.co/wordpress/115870/hacking/ministry-of-defence-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Defence academy was hit by a major cyber attack, Russia and China state-sponsored hackers are suspected to be behind the offensive
+
+
+
+The Ministry of Defence academy was hit by a major cyber attack, according to the British tabloid newspaper...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

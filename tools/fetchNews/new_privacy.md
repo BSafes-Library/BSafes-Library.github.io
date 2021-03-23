@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Firefox tweaks Referrer Policy to shore up user privacy<a href="https://www.zdnet.com/article/mozilla-firefox-tweaks-referrer-policy-to-shore-up-user-privacy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firefox 87, due to ship on March 23, will cut back on path and query string information from referrer headers "to prevent sites from accidentally leaking sensitive user data."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

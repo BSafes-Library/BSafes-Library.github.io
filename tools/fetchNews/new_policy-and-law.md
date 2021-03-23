@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sentences Russian, North Macedonian in Cyber Fraud Case<a href="https://www.securityweek.com/us-sentences-russian-north-macedonian-cyber-fraud-case?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sergey Medvedev, 33, of Russia and Marko Leopard, 31, of North Macedonia, were sentenced to ten and five years respectively, according to a U.S. Justice Department statement.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
