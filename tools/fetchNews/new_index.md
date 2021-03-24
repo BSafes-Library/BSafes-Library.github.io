@@ -37,6 +37,658 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CNA insurance firm hit by a cyberattack, operations impacted<a href="https://www.bleepingcomputer.com/news/security/cna-insurance-firm-hit-by-a-cyberattack-operations-impacted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial, a leading US-based insurance company, has suffered a cyberattack impacting its business operations and shutting down its website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shell Suffers Data Breach – Hackers Accessed Confidential Data<a href="https://cybersecuritynews.com/shell-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Shell is the global group of energy and petrochemical companies with more than 80,000 employees in more than 70 countries. They use...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What You Need to Know About Operation Diànxùn<a href="https://cyware.com/news/what-you-need-to-know-about-operation-dianxun-3b485ba2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This cyber espionage campaign is targeting telecom companies since August 2020 and it has been attributed to the RedDelta threat actor, also known as TA416 and Mustang Panda.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: John Matze takes on Parler | Prince Harry heads to Silicon Valley | YouTube leaves up Boulder shooting video<a href="https://thehill.com//policy/technology/overnights/544597-hillicon-valley-john-matze-takes-on-parler-new-report-tracks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Departed co-founder John Matze is suing the right-wing social media site Parler over his dismissal earlier this year, arguing that GOP megadonor Rebekah Mercer conspired against him. Prince HarryPrince HarryPrince Harry to be named chief impact officer at BetterUp UK royal family considers appointing diversity czar  Prince Harry pens personal note in children's bereavement book: 'I know how you feel' MORE is joining a Sillicon Valley start-up. And YouTube made a controversial call about footage from the Boulder shooting.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Affecting GE's Universal Relay Pose Threat to Electric Utilities<a href="https://thehackernews.com/2021/03/critical-flaws-affecting-ges-universal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of critical security shortcomings in GE's Universal Relay (UR) family of power management devices.  "Successful exploitation of these vulnerabilities could allow an attacker to access sensitive information, reboot the UR, gain privileged access, or cause a denial-of-service condition," the agency said  in an advisory published on March 16.  GE's universal relays enable  integrated monitoring and metering, high-speed communications, and offer simplified power management for the protection of critical assets.  The flaws, which affect a number of UR advanced protection and control relays, including B30, B90, C30, C60, C70, C95, D30, D60, F35, F60, G30, G60, L30, L60, L90, M60, N60, T35 and T60, were addressed by GE with the release of an updated version of the UR firmware  (version 8.10) made available on December 24, 2020.   The patches resolve a total of nine vulnerabilities, the most importan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: The Critical Role of Culture in DevSecOps<a href="https://www.infosecurity-magazine.com:443/news/imos21-culture-in-devsecops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How does the culture of an organization impact DevSecOps?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Email Isn’t Secure. Here’s How to Fix It.<a href="https://www.lawfareblog.com/most-email-isnt-secure-heres-how-fix-it"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+End-to-end encrypted email is generally cumbersome and unintuitive. It’s time to invest in alternatives.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless halted production at its manufacturing sites due to ransomware attack<a href="https://securityaffairs.co/wordpress/115897/malware/sierra-wireless-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, IoT company Sierra Wireless disclosed a ransomware attack that hit its internal IT systems on March 20 and disrupted its production.
+
+
+
+Sierra Wireless is a Canadian multinational wireless communications equipment designer and manufacturer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless withdraws financial guidance as ransomware attack takes down plants<a href="https://www.scmagazine.com/home/security-news/ransomware/sierra-wireless-withdraws-financial-guidance-as-ransomware-attack-takes-down-plants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Because of the disruptions caused by the ransomware incident, Sierra Wireless withdrew the Q1 2021 financial guidance provided Feb. 23, indicating a potential impact to the bottom line.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hobby Lobby Exposes Customer Data in Cloud Misconfiguration<a href="https://threatpost.com/hobby-lobby-customer-data-cloud-misconfiguration/164980/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The arts-and-crafts retailer left 138GB of sensitive information open to the public internet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Fox malware worms its way into exposed Windows systems<a href="https://www.bleepingcomputer.com/news/security/purple-fox-malware-worms-its-way-into-exposed-windows-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Purple Fox, a malware previously distributed via exploit kits and phishing emails, has now added a worm module that allows it to scan for and infect Windows systems reachable over the Internet in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs in Virtual Learning Software May be Used to Hack into Student PCs<a href="https://cybersecuritynews.com/virtual-learning-software-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The McAfee Labs Advanced Threat Research team recently investigated software installed on computers used in K-12 school districts.  Netop...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDP Attacks Trend During Lockdown<a href="https://cyware.com/news/rdp-attacks-trend-during-lockdown-0899b402"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Obviously, the number of RDP attacks increased sharply during the COVID lockdown.&nbsp;Lately, researchers disclosed that RDP attacks grew by 768% between the first and fourth quarters of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired IT Contractor Jailed for Retaliatory Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/it-contractor-retaliatory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prison for IT pro who hacked company server and deleted over 1,200 Microsoft user accounts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes an Android vulnerability actively exploited in the wild<a href="https://securityaffairs.co/wordpress/115888/mobile-2/google-android-flaw-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a zero-day vulnerability affecting Android devices that use Qualcomm chipsets which is actively exploited in the wild.
+
+
+
+Google has addressed a zero-day vulnerability, tracked as CVE-2020-11261, affecting Android devices that use Qualcomm...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orca raises another $210 million after increasing workforce fivefold amid pandemic<a href="https://www.scmagazine.com/home/security-news/cloud-security/orca-raises-another-210-million-after-increasing-workforce-fivefold-amid-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CEO and cofounder Avi Shua told SC Media that the company is trying to balance its original, scrappier identity with its newer status as a cybersecurity unicorn.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: Microsoft Exchange Server Attack Onslaught Continues<a href="https://threatpost.com/podcast-microsoft-exchange-server-attack-onslaught-continues/164968/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Derek Manky, Chief of Security Insights & Global Threat Alliances at Fortinet’s FortiGuard Labs, gives insight into the surge in attacks against vulnerable Microsoft Exchange servers over the last week.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang leaks data stolen from Colorado, Miami universities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-from-colorado-miami-universities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grades and social security numbers for students at the University of Colorado and University of Miami patient data have been posted online by the Clop ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Are Developing and Using Entire New Breeds Of Malware<a href="https://cyware.com/news/attackers-are-developing-and-using-entire-new-breeds-of-malware-3dbac289"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by HP revealed that about 88% of malware threats detected were delivered to victims via email, whereas there were a quarter of unseen threats in Q4 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UPMC and Charles Hilton Sued Over PHI Breach<a href="https://www.infosecurity-magazine.com:443/news/upmc-and-charles-hilton-sued-over/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical center and law firm facing class action after 36,000-record breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA is warning of vulnerabilities in GE Power Management Devices<a href="https://securityaffairs.co/wordpress/115881/security/cisa-ge-power-management-devices-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cybersecurity & Infrastructure Security Agency (CISA) warns of flaws in GE Power Management Devices that could allow an attacker to conduct multiple malicious activities on vulnerable systems.
+
+
+
+U.S. Cybersecurity & Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheap shots: Vaccine phishing scams target employees seeking a return to the office<a href="https://www.scmagazine.com/home/security-news/phishing/cheap-shots-vaccine-phishing-scams-target-employees-seeking-a-return-to-the-office/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Use of dynamic algorithms could make these phishing schemes look like they are personalized for the recipient.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of phishing attacks bypassing email gateways<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-phishing-attacks-bypassing-email-gateways/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing operation that stole an estimated 400,000 OWA and Office 365 credentials since December has now expanded to abuse new legitimate services to bypass secure email gateways (SEGs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZHtrap Botnet: Hackers Pitting Against Each Other<a href="https://cyware.com/news/zhtrap-botnet-hackers-pitting-against-each-other-7c6924cb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new IoT botnet has been discovered that deploys honeypots to capture attacks from rival botnets and use that information to hijack their infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: AI Analysts May Prove Key to Keeping Organizations Secure<a href="https://www.infosecurity-magazine.com:443/news/imos21-ai-analysts-keeping-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developing AI tools that can investigate threats could prove vital
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-availability server maker Stratus hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/high-availability-server-maker-stratus-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stratus Technologies has suffered a ransomware attack that required systems to be taken offline to prevent the attack's spread.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Two Dozen Malicious Chrome Extensions<a href="https://www.darkreading.com/vulnerabilities---threats/researchers-discover-two-dozen-malicious-chrome-extensions/d/d-id/1340482?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered two dozen Google Chrome browser extensions and 40 associated malicious domains that are being used to inject adware, steal credentials, or redirect victims to malicious sites.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Herjavec to Handle Cybersecurity for Formula 1<a href="https://www.infosecurity-magazine.com:443/news/herjavec-to-handle-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Formula 1 appoints Herjavec Group as official cybersecurity services provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack shuts down Sierra Wireless IoT maker<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-shuts-down-sierra-wireless-iot-maker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sierra Wireless, a world-leading IoT solutions provider, today disclosed a ransomware attack that forced it to halt production at all manufacturing sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok no worse than Facebook for privacy, says Citizen Lab<a href="https://www.theregister.com/2021/03/23/tiktok_privacy_report_citizenlab/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TikTok is likely no more of a threat to users than Facebook, according to Citizen Lab that analyzed the video-sharing social networking app to probe for security, privacy, and censorship issues.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSA and ISACA Announce First Auditing Credential for Cloud Security Systems<a href="https://www.infosecurity-magazine.com:443/news/csa-isaca-credential-auditing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CCAK program comes amid rising cloud adoption
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: 92% of Exchange servers safe from ProxyLogon attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-92-percent-of-exchange-servers-safe-from-proxylogon-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly 92% of all Internet-connected on-premises Microsoft Exchange servers affected by the ProxyLogon vulnerabilities are now patched and safe from attacks, Microsoft said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomwared Bank Tells Customers It Lost Their SSNs<a href="https://www.vice.com/en/article/xgznxw/ransomwared-bank-tells-customers-it-lost-their-ssns?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flagstar, a bank that was hacked by a ransomware gang, has notified several customers that it lost their Social Security Numbers, home address, full name, phone number, and home address.
+</details>
+<div style="text-align: right" markdown="1">
+Motherboard Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MangaDex Site Could Be Offline for Weeks After Attack<a href="https://www.infosecurity-magazine.com:443/news/mangadex-site-could-be-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular scanlation site being rebuilt following breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook says took down 1.3 billion fake accounts in Oct-Dec 2020<a href="https://telecom.economictimes.indiatimes.com/news/facebook-says-took-down-1-3-billion-fake-accounts-in-oct-dec/81633136?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook Inc said on Monday it took down 1.3 billion fake accounts between October and December and that it had over 35,000 people working on tackling misinformation on its platform.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web #COVID19 Vaccine Ads Surge 350%<a href="https://www.infosecurity-magazine.com:443/news/dark-web-covid19-vaccine-ads-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point sees uptick in illicit activity as demand grows
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals exchange tips on avoiding arrest, jail in underground forums<a href="https://www.zdnet.com/article/cybercriminals-exchange-tips-on-avoiding-arrest-jail-in-underground-forums/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzing underground forums have revealed insight into the methodology behind cyberattacker targets -- as well as what criminals say to do if, or when, they are caught.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: Overcoming the Defender’s Dilemma<a href="https://www.infosecurity-magazine.com:443/news/imos21-overcoming-defenders-dilemma/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Javvad Malik opens the Infosecurity Magazine Online Summit
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS Scam Emails Ask Tax Preparers for EFIN Information<a href="https://securityintelligence.com/news/irs-scam-emails-ask-for-efin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the IRS, the attack began with a scam email. This email claimed to come from ‘IRS Tax E-Filing.’ The subject line reads ‘Verifying your EFIN before e-filing.’
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shell Latest to Fall to Accellion FTA Exploits<a href="https://www.infosecurity-magazine.com:443/news/shell-latest-to-fall-to-accellion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oil giant admits personal and corporate data was stolen
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases CHIRP Tool that Allows to Detect SolarWinds Malicious Activity<a href="https://cybersecuritynews.com/chirp-tools-solarwinds/"> Full Text</a>
 </p>
 <details>

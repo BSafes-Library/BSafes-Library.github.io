@@ -34,6 +34,122 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases CHIRP Tool that Allows to Detect SolarWinds Malicious Activity<a href="https://cybersecuritynews.com/chirp-tools-solarwinds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The Cybersecurity and Infrastructure Security Agency (CISA) has released Hunt and Incident Response Program (CHIRP) tool.  CHIRP is a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Exchange servers breached prior to patching, CISA boss says<a href="https://www.cyberscoop.com/brandon-wales-exchange-server-patch-dhs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CISA official on Monday warned organizations about vulnerabilities in Microsoft Exchange Server software, noting that “thousands” of computer servers with updated software had already been breached.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jumio Secures Whopping $150m Investment from Private Equity Firm<a href="https://www.infosecurity-magazine.com:443/news/jumio-150m-investment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investment represents largest digital identity funding round ever
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy giant Shell discloses data breach caused by Accellion FTA hack<a href="https://securityaffairs.co/wordpress/115869/cyber-crime/shell-accellion-fta-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oil and gas giant Royal Dutch Shell (Shell) discloses a data breach resulting from the compromise of its Accellion File Transfer Appliance (FTA) file sharing service.
+
+
+
+Energy giant Shell disclosed a data breach resulting from the compromise of an Accellion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Only 14% of domains worldwide truly protected from spoofing with DMARC enforcement<a href="https://www.helpnetsecurity.com/2021/03/23/domains-protected-dmarc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email continues to be an effective way to communicate and use has increased during a year of the global pandemic, and hackers continue to use email as a primary attack vector.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: A New Android Zero-Day Vulnerability Is Under Active Attack<a href="https://thehackernews.com/2021/03/warning-new-android-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has disclosed that a now-patched vulnerability affecting Android devices that use Qualcomm chipsets is being weaponized by attackers to launch targeted attacks.  Tracked as CVE-2020-11261  (CVSS score 8.4), the flaw concerns  an "improper input validation" issue in Qualcomm's Graphics component that could be exploited to trigger memory corruption when an attacker-engineered app requests access to a huge chunk of the device's memory.   "There are indications that CVE-2020-11261 may be under limited, targeted exploitation," the search giant said  in an updated January security bulletin on March 18.  CVE-2020-11261 was discovered and reported to Qualcomm by Google's Android Security team on July 20, 2020, after which it was fixed in January 2021.   It's worth noting that the access vector for the vulnerability is "local," meaning that exploitation requires local access to the device. In other words, to launch a successful attack, the b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange exploit a possible factor in $50M ransomware attack on Acer<a href="https://www.scmagazine.com/home/security-news/ransomware/microsoft-exchange-exploit-a-possible-factor-in-50m-ransomware-attack-on-acer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company did not confirm whether the ransomware attack was executed via one of its Microsoft Exchange servers, but several cyber leaders commented on a potential connection to  the vulnerabilities exploited by multiple actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
