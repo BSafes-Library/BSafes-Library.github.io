@@ -242,7 +242,7 @@ Like many issues related to relationships and sexuality, “revenge porn” has 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
-August 5, 2020
+August 5, 2018
 • Web Application Security [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-18321/)
 </p>
 <details>
