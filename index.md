@@ -34,6 +34,174 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resentful employee deletes 1,200 Microsoft Office 365 accounts, gets prison<a href="https://www.bleepingcomputer.com/news/security/resentful-employee-deletes-1-200-microsoft-office-365-accounts-gets-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former IT consultant hacked a company in Carlsbad, California, and deleted almost all its Microsoft Office 365 accounts in an act of revenge that has brought him two years of prison time.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT admin with axe to grind sent to prison for wiping Microsoft user accounts<a href="https://www.zdnet.com/article/it-admin-with-axe-to-grind-lands-two-years-behind-bars-for-wiping-microsoft-user-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deepanshu Kher was sentenced to two years in prison for breaking into the network of a California-based firm after being fired potentially in connection to a consultancy job the firm hired him for.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless Halts Production After Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/sierra-wireless-halts-production/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IoT giant was hit by unspecified variant on March 20
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A day before elections, hackers leaked details of millions of Israeli voters<a href="https://securityaffairs.co/wordpress/115918/hacking/israeli-voters-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have exposed personal and voter registration details of over 6.5 million Israeli voters, less than 24 hours before the election.
+
+
+
+A few hours before the election in Israel, hackers exposed the voter registration and personal details of millions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Web Shell Used in the Microsoft Exchange Server Attacks<a href="https://www.darkreading.com/attacks-breaches/inside-the-web-shell-used-in-the-microsoft-exchange-server-attacks/d/d-id/1340498?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China Chopper Web shells are an older threat causing new problems for many organizations targeted in ongoing attacks against vulnerable Microsoft Exchange Servers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+92% of worldwide Microsoft Exchange IPs are now patched or mitigated<a href="https://securityaffairs.co/wordpress/115896/security/microsoft-exchange-patched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that 92% of all on-premises Microsoft Exchange servers exposed online affected by the ProxyLogon vulnerabilities are now patched.
+
+
+
+On March 2nd, Microsoft released emergency out-of-band security updates that address four zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.55 million cyber security incidents in 2019, 2020: Govt tells India's Parliament<a href="https://ciso.economictimes.indiatimes.com/news/15-5-lakh-cyber-security-incidents-in-2019-2020-govt-tells-lok-sabha/81650884?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the information reported to and tracked by the CERT-In, 394,499 and 1,158,208 cyber security incidents were observed during the years 2019 and 2020, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phish Leads to Breach at Calif. State Controller — Krebs on Security<a href="https://krebsonsecurity.com/2021/03/phish-leads-to-breach-at-calif-state-controller/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For more than 24 hours starting on the afternoon of March 18, attackers had access to the email records of an employee in its Unclaimed Property Division after the employee got phished.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The ‘Frankencloud’ model is our biggest security risk<a href="https://techcrunch.com/2021/03/22/the-frankencloud-model-is-our-biggest-security-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lately, firms scrambled to take advantage of the cloud while maintaining their legacy systems. This led to systems riddled with complexity and disconnected parts put together.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Fox Rootkit Can Now Spread Itself to Other Windows Computers<a href="https://thehackernews.com/2021/03/purple-fox-rootkit-can-now-spread.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Purple Fox , a Windows malware previously known for infecting machines by using exploit kits and phishing emails, has now added a new technique to its arsenal that gives it worm-like propagation capabilities.  The ongoing campaign makes use of a "novel spreading technique via indiscriminate port scanning and exploitation of exposed SMB services with weak passwords and hashes," according to  Guardicore researchers , who say the attacks have spiked by about 600% since May 2020.  A total of 90,000 incidents have been spotted through the rest of 2020 and the beginning of 2021.   First discovered in March 2018, Purple Fox is distributed in the form of malicious ".msi" payloads hosted on nearly 2,000 compromised Windows servers that, in turn, download and execute a component with  rootkit capabilities , which enables the threat actors to hide the malware on the machine and make it easy to evade detection.  Guardicore says Purple Fox hasn't changed much post-exploitat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 23, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
