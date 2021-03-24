@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers reintroduce legislation to secure internet-connected devices<a href="https://thehill.com//policy/cybersecurity/544711-lawmakers-reintroduce-legislation-to-secure-internet-connected-devices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Ed Markey (D-Mass.) and Rep. Ted LieuTed W. LieuOVERNIGHT ENERGY: Supreme Court declines to hear challenge to Obama marine monument designation | Interior reverses course on tribal ownership of portion of Missouri river | White House climate adviser meets with oil and gas companies Anger over anti-Asian violence, rhetoric rips through Capitol Lawmakers condemn anti-Asian rhetoric at hearing following shootings MORE (D-Calif.) on Wednesday again rolled out legislation intended to help secure internet-connected devices and increase consumer confidence in them. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
