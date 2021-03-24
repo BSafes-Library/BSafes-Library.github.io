@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Spreading Actively, Launches Phishing Schemes<a href="https://cyware.com/news/trickbot-spreading-actively-launches-phishing-schemes-ba2f050b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA and FBI are warning of ongoing Trickbot attacks that are leveraging a traffic infringement phishing scheme to trick victims into installing the TrickBot malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybeats Technologies Acquired by Relay Medical<a href="https://www.infosecurity-magazine.com:443/news/cybeats-technologies-acquired-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Relay completes acquisition of Toronto-based IoT cybersecurity firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #IMOS21: How to Better Understand and Secure Modern Data<a href="https://www.infosecurity-magazine.com:443/news/imos21-secure-data/"> Full Text</a>
 </p>
 <details>
