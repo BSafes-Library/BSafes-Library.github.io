@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Facebook takes action against Chinese hackers targeting Uyghurs<a href="https://thehill.com//policy/cybersecurity/544804-facebook-takes-action-against-chinese-hackers-targeting-uyghurs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Wednesday announced that it had taken steps to disrupt efforts of Chinese hacking groups to target and surveil members of the Uyghur community both in China and abroad. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Purple Fox Malware Targets Windows Machines With New Worm Capabilities<a href="https://threatpost.com/purple-fox-malware-windows-worm/164993/"> Full Text</a>
 </p>
 <details>
