@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LogMeIn Appoints Michael Oberlaender as CISO<a href="https://www.infosecurity-magazine.com:443/news/logmein-appoints-michael/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oberlaender will be responsible for managing and growing LogMeIn’s security program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proton Founder Accuses Apple of “Giving in to Tyrants”<a href="https://www.infosecurity-magazine.com:443/news/proton-founder-accuses-apple/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human rights should trump profits, says Andy Yen
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

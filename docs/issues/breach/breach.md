@@ -8,6 +8,98 @@ nav_order: 900029
 
 ## Breach
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach at California State Controller's Office<a href="https://www.infosecurity-magazine.com:443/news/breach-at-california-state/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attack exposes unclaimed property holder report data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor Leaks Voter Registration Data of 6.5 Million Israeli Citizens Online<a href="https://therecord.media/data-of-6-5-million-israeli-citizens-leaks-online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The voter registration and personal details of millions of Israeli citizens were leaked online on Monday, just two days before the country held general elections for its unicameral parliament.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billions of FBS Records Exposed in Online Trading Broker Data Leak<a href="https://securityaffairs.co/wordpress/115925/data-breach/fbs-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ata Hakcil led the team of white hat hackers from&nbsp;WizCase&nbsp;in identifying a major data leak on online trading broker FBS’ websites. 
+
+
+
+The data from FBS.com and FBS.eu comprised millions of confidential records including names, passwords, email addresses,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Clothing Retailer Fat Face Discloses Data Breach<a href="https://www.inforisktoday.com/british-clothing-retailer-fat-face-discloses-data-breach-a-16249?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization says that some employee and customer information was exposed, including names, addresses, email addresses and the last four digits of credit card numbers, plus the expiration dates.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forex Broker Leaks Billions of Customer Records Online<a href="https://www.infosecurity-magazine.com:443/news/forex-leaks-millions-customer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured Elasticsearch server exposes payment and identity data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A day before elections, hackers leaked details of millions of Israeli voters<a href="https://securityaffairs.co/wordpress/115918/hacking/israeli-voters-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have exposed personal and voter registration details of over 6.5 million Israeli voters, less than 24 hours before the election.
+
+
+
+A few hours before the election in Israel, hackers exposed the voter registration and personal details of millions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

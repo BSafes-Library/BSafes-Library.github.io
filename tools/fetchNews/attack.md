@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: Microsoft Exchange Server Attack Onslaught Continues<a href="https://threatpost.com/podcast-microsoft-exchange-server-attack-onslaught-continues/164968/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Derek Manky, Chief of Security Insights &amp; Global Threat Alliances at Fortinet’s FortiGuard Labs, gives insight into the surge in attacks against vulnerable Microsoft Exchange servers over the last week.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shell Latest to Fall to Accellion FTA Exploits<a href="https://www.infosecurity-magazine.com:443/news/shell-latest-to-fall-to-accellion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oil giant admits personal and corporate data was stolen
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

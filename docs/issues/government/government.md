@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Making the National Cyber Director Operational With a National Cyber Defense Center<a href="https://www.lawfareblog.com/making-national-cyber-director-operational-national-cyber-defense-center"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Without a National Cyber Defense Center, the Office of the National Cyber Director will fail to move the needle in improving the U.S. cybersecurity posture.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

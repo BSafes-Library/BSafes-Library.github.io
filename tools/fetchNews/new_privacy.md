@@ -8,6 +8,21 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google removes privacy-focused ClearURLs Chrome extension <a href="https://www.bleepingcomputer.com/news/security/google-removes-privacy-focused-clearurls-chrome-extension/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has mysteriously removed the popular browser&nbsp;extension ClearURLs from the Chrome Web Store.
+ClearURLs&nbsp;is a privacy-preserving browser add-on which&nbsp;automatically removes tracking elements from URLs. This,&nbsp;according to its developer, can help protect your privacy when browsing&nbsp;the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

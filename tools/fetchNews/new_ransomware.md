@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom ransomware is targeting Microsoft Exchange servers<a href="https://securityaffairs.co/wordpress/115912/malware/black-kingdom-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts reported that a second ransomware gang, named Black Kingdom, is targeting Microsoft Exchange servers.
+
+
+
+After the public disclosure of ProxyLogon vulnerabilities, multiple threat actors started targeting vulnerable Microsoft Exchange...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks hit event-management, wireless technology firms<a href="https://www.cyberscoop.com/ransomware-attacks-spargo-sierra-wireless/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attackers encrypted the systems of the events firm, Spargo Inc., on March 14, according to a notification sent by the Armed Forces Communications and Electronics Association (AFCEA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless Halts Production After Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/sierra-wireless-halts-production/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IoT giant was hit by unspecified variant on March 20
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

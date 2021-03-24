@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok no worse than Facebook for privacy, says Citizen Lab<a href="https://www.theregister.com/2021/03/23/tiktok_privacy_report_citizenlab/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TikTok is likely no more of a threat to users than Facebook, according to Citizen Lab that analyzed the video-sharing social networking app to probe for security, privacy, and censorship issues.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

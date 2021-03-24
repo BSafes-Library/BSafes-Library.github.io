@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The human impact of a Royal Mail phishing scam<a href="https://blog.malwarebytes.com/scams/2021/03/the-human-impact-of-a-royal-mail-phishing-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam asks recipients to pay a £2.99 GBP fee, but of course the scammers are after much more. To pay the fee, the victim has to enter their personal details, and credit card details.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breach at California State Controller's Office<a href="https://www.infosecurity-magazine.com:443/news/breach-at-california-state/"> Full Text</a>
@@ -50,7 +66,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google removes privacy-focused ClearURLs Chrome extension <a href="https://www.bleepingcomputer.com/news/security/google-removes-privacy-focused-clearurls-chrome-extension/"> Full Text</a>
@@ -67,7 +83,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat Actor Leaks Voter Registration Data of 6.5 Million Israeli Citizens Online<a href="https://therecord.media/data-of-6-5-million-israeli-citizens-leaks-online/?&web_view=true"> Full Text</a>
@@ -83,7 +99,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LogMeIn Appoints Michael Oberlaender as CISO<a href="https://www.infosecurity-magazine.com:443/news/logmein-appoints-michael/"> Full Text</a>
@@ -99,7 +115,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Making the National Cyber Director Operational With a National Cyber Defense Center<a href="https://www.lawfareblog.com/making-national-cyber-director-operational-national-cyber-defense-center"> Full Text</a>
@@ -115,7 +131,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Billions of FBS Records Exposed in Online Trading Broker Data Leak<a href="https://securityaffairs.co/wordpress/115925/data-breach/fbs-data-breach.html"> Full Text</a>
@@ -135,7 +151,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers tried slurping folks' login details through 70,000 coronavirus-themed phishing URLs during 2020<a href="https://www.theregister.com/2021/03/24/covid_phishing_2020_palo_alto_networks_research/?&web_view=true"> Full Text</a>
@@ -151,7 +167,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proton Founder Accuses Apple of “Giving in to Tyrants”<a href="https://www.infosecurity-magazine.com:443/news/proton-founder-accuses-apple/"> Full Text</a>
@@ -167,7 +183,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Kingdom ransomware is targeting Microsoft Exchange servers<a href="https://securityaffairs.co/wordpress/115912/malware/black-kingdom-microsoft-exchange.html"> Full Text</a>
@@ -187,7 +203,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breaches and network outages: A real and growing cost for the healthcare industry<a href="https://www.helpnetsecurity.com/2021/03/23/healthcare-breaches-outages/?&web_view=true"> Full Text</a>
@@ -203,7 +219,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Clothing Retailer Fat Face Discloses Data Breach<a href="https://www.inforisktoday.com/british-clothing-retailer-fat-face-discloses-data-breach-a-16249?&web_view=true"> Full Text</a>
@@ -219,7 +235,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Pays Out $11,000 Bounty for High-Impact Exploit<a href="https://www.securityweek.com/tiktok-pays-out-11000-bounty-high-impact-exploit?&web_view=true"> Full Text</a>
@@ -235,7 +251,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tackling cross-site request forgery (CSRF) on company websites<a href="https://www.helpnetsecurity.com/2021/03/23/csrf-on-company-websites/?&web_view=true"> Full Text</a>
@@ -251,7 +267,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forex Broker Leaks Billions of Customer Records Online<a href="https://www.infosecurity-magazine.com:443/news/forex-leaks-millions-customer/"> Full Text</a>
@@ -267,7 +283,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Attackers Manipulated OAuth App Certificates<a href="https://www.govinfosecurity.com/solarwinds-attackers-manipulated-oauth-app-certificates-a-16253?&web_view=true"> Full Text</a>
@@ -283,7 +299,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks hit event-management, wireless technology firms<a href="https://www.cyberscoop.com/ransomware-attacks-spargo-sierra-wireless/?&web_view=true"> Full Text</a>
@@ -299,7 +315,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resentful employee deletes 1,200 Microsoft Office 365 accounts, gets prison<a href="https://www.bleepingcomputer.com/news/security/resentful-employee-deletes-1-200-microsoft-office-365-accounts-gets-prison/"> Full Text</a>
@@ -315,7 +331,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT admin with axe to grind sent to prison for wiping Microsoft user accounts<a href="https://www.zdnet.com/article/it-admin-with-axe-to-grind-lands-two-years-behind-bars-for-wiping-microsoft-user-accounts/?&web_view=true"> Full Text</a>
@@ -331,7 +347,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sierra Wireless Halts Production After Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/sierra-wireless-halts-production/"> Full Text</a>
@@ -347,7 +363,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A day before elections, hackers leaked details of millions of Israeli voters<a href="https://securityaffairs.co/wordpress/115918/hacking/israeli-voters-leak.html"> Full Text</a>
@@ -367,7 +383,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the Web Shell Used in the Microsoft Exchange Server Attacks<a href="https://www.darkreading.com/attacks-breaches/inside-the-web-shell-used-in-the-microsoft-exchange-server-attacks/d/d-id/1340498?&web_view=true"> Full Text</a>
@@ -383,7 +399,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 92% of worldwide Microsoft Exchange IPs are now patched or mitigated<a href="https://securityaffairs.co/wordpress/115896/security/microsoft-exchange-patched.html"> Full Text</a>
@@ -403,7 +419,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1.55 million cyber security incidents in 2019, 2020: Govt tells India's Parliament<a href="https://ciso.economictimes.indiatimes.com/news/15-5-lakh-cyber-security-incidents-in-2019-2020-govt-tells-lok-sabha/81650884?&web_view=true"> Full Text</a>
@@ -419,7 +435,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phish Leads to Breach at Calif. State Controller — Krebs on Security<a href="https://krebsonsecurity.com/2021/03/phish-leads-to-breach-at-calif-state-controller/?&web_view=true"> Full Text</a>
@@ -435,7 +451,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The ‘Frankencloud’ model is our biggest security risk<a href="https://techcrunch.com/2021/03/22/the-frankencloud-model-is-our-biggest-security-risk/?&web_view=true"> Full Text</a>
@@ -451,7 +467,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2021
+March 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Purple Fox Rootkit Can Now Spread Itself to Other Windows Computers<a href="https://thehackernews.com/2021/03/purple-fox-rootkit-can-now-spread.html"> Full Text</a>

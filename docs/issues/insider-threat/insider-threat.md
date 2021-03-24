@@ -8,6 +8,34 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resentful employee deletes 1,200 Microsoft Office 365 accounts, gets prison<a href="https://www.bleepingcomputer.com/news/security/resentful-employee-deletes-1-200-microsoft-office-365-accounts-gets-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former IT consultant hacked a company in Carlsbad, California, and deleted almost all its Microsoft Office 365 accounts&nbsp;in an act of revenge that has brought him two years of prison time.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT admin with axe to grind sent to prison for wiping Microsoft user accounts<a href="https://www.zdnet.com/article/it-admin-with-axe-to-grind-lands-two-years-behind-bars-for-wiping-microsoft-user-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deepanshu Kher was sentenced to two years in prison for breaking into the network of a California-based firm after being fired potentially in connection to a consultancy job the firm hired him for.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

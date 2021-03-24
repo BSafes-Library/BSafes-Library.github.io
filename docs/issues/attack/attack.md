@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Attackers Manipulated OAuth App Certificates<a href="https://www.govinfosecurity.com/solarwinds-attackers-manipulated-oauth-app-certificates-a-16253?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds supply chain attackers manipulated OAuth app certificates to maintain persistence and access privileged resources including email, according to researchers at Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Web Shell Used in the Microsoft Exchange Server Attacks<a href="https://www.darkreading.com/attacks-breaches/inside-the-web-shell-used-in-the-microsoft-exchange-server-attacks/d/d-id/1340498?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China Chopper Web shells are an older threat causing new problems for many organizations targeted in ongoing attacks against vulnerable Microsoft Exchange Servers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
