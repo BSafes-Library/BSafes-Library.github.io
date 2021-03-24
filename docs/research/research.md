@@ -253,6 +253,18 @@ This report documents the program and the outcomes of Dagstuhl Seminar 18321 “
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+October, 2016<br>
+• Cybersecurity Best Practices for Modern Vehicles [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-best-practices-for-modern-vehicles/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This document describes the National Highway Traffic Safety Administration’s nonbinding guidance to the automotive industry for improving motor vehicle cybersecurity.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 August 22, 2014  
 • Subculture of Hackers in Russia, by Roman Dremliuga [HTML](https://papers.bsafes.com/docs/hacker/subculture-of-hackers-in-russia/)
 </p>
