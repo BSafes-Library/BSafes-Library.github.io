@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Attackers Manipulated OAuth App Certificates<a href="https://www.govinfosecurity.com/solarwinds-attackers-manipulated-oauth-app-certificates-a-16253?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds supply chain attackers manipulated OAuth app certificates to maintain persistence and access privileged resources including email, according to researchers at Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks hit event-management, wireless technology firms<a href="https://www.cyberscoop.com/ransomware-attacks-spargo-sierra-wireless/?&web_view=true"> Full Text</a>
 </p>
 <details>
