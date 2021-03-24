@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Purple Fox Malware Targets Windows Machines With New Worm Capabilities<a href="https://threatpost.com/purple-fox-malware-windows-worm/164993/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new infection vector from the established malware puts internet-facing Windows systems at risk from SMB password brute-forcing.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Active Exploits Hit WordPress Sites Vulnerable to Thrive Themes Flaws<a href="https://threatpost.com/active-exploits-wordpress-sites-thrive-themes/165013/"> Full Text</a>
 </p>
 <details>
