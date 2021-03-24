@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Foils IoT Giant Sierra Wireless<a href="https://threatpost.com/ransomware-iot-sierra-wireless/165003/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack has impacted the IoT manufacturer’s production lines across multiple sites, and other internal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Servers See ProxyLogon Patching Frenzy<a href="https://threatpost.com/microsoft-exchange-servers-proxylogon-patching/165001/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vast swathes of companies were likely compromised before patches were applied, so the danger remains.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco addresses critical bug in Windows, macOS Jabber clients<a href="https://www.bleepingcomputer.com/news/security/cisco-addresses-critical-bug-in-windows-macos-jabber-clients/"> Full Text</a>
 </p>
 <details>
