@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks hit event-management, wireless technology firms<a href="https://www.cyberscoop.com/ransomware-attacks-spargo-sierra-wireless/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attackers encrypted the systems of the events firm, Spargo Inc., on March 14, according to a notification sent by the Armed Forces Communications and Electronics Association (AFCEA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Resentful employee deletes 1,200 Microsoft Office 365 accounts, gets prison<a href="https://www.bleepingcomputer.com/news/security/resentful-employee-deletes-1-200-microsoft-office-365-accounts-gets-prison/"> Full Text</a>
 </p>
 <details>
