@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Facebook blocks Chinese state hackers targeting Uyghur activists<a href="https://www.bleepingcomputer.com/news/security/facebook-blocks-chinese-state-hackers-targeting-uyghur-activists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook took down accounts used by a Chinese-sponsored hacking group to deploy surveillance malware on devices used by Uyghurs activists, journalists, and dissidents living outside China.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows PSExec privilege elevation vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-psexec-privilege-elevation-vulnerability/"> Full Text</a>
 </p>
 <details>
