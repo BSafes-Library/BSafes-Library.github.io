@@ -37,6 +37,191 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google removes privacy-focused ClearURLs Chrome extension <a href="https://www.bleepingcomputer.com/news/security/google-removes-privacy-focused-clearurls-chrome-extension/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has mysteriously removed the popular browser extension ClearURLs from the Chrome Web Store.
+ClearURLs is a privacy-preserving browser add-on which automatically removes tracking elements from URLs. This, according to its developer, can help protect your privacy when browsing the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor Leaks Voter Registration Data of 6.5 Million Israeli Citizens Online<a href="https://therecord.media/data-of-6-5-million-israeli-citizens-leaks-online/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The voter registration and personal details of millions of Israeli citizens were leaked online on Monday, just two days before the country held general elections for its unicameral parliament.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LogMeIn Appoints Michael Oberlaender as CISO<a href="https://www.infosecurity-magazine.com:443/news/logmein-appoints-michael/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oberlaender will be responsible for managing and growing LogMeIn’s security program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Making the National Cyber Director Operational With a National Cyber Defense Center<a href="https://www.lawfareblog.com/making-national-cyber-director-operational-national-cyber-defense-center"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Without a National Cyber Defense Center, the Office of the National Cyber Director will fail to move the needle in improving the U.S. cybersecurity posture.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billions of FBS Records Exposed in Online Trading Broker Data Leak<a href="https://securityaffairs.co/wordpress/115925/data-breach/fbs-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ata Hakcil led the team of white hat hackers from WizCase in identifying a major data leak on online trading broker FBS’ websites. 
+
+
+
+The data from FBS.com and FBS.eu comprised millions of confidential records including names, passwords, email addresses,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers tried slurping folks' login details through 70,000 coronavirus-themed phishing URLs during 2020<a href="https://www.theregister.com/2021/03/24/covid_phishing_2020_palo_alto_networks_research/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals exploited the coronavirus pandemic to set up phishing websites that posed as Pfizer, BioNTech and other household-name suppliers of vaccines and PPE, according to Palo Alto Networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proton Founder Accuses Apple of “Giving in to Tyrants”<a href="https://www.infosecurity-magazine.com:443/news/proton-founder-accuses-apple/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human rights should trump profits, says Andy Yen
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom ransomware is targeting Microsoft Exchange servers<a href="https://securityaffairs.co/wordpress/115912/malware/black-kingdom-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts reported that a second ransomware gang, named Black Kingdom, is targeting Microsoft Exchange servers.
+
+
+
+After the public disclosure of ProxyLogon vulnerabilities, multiple threat actors started targeting vulnerable Microsoft Exchange...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breaches and network outages: A real and growing cost for the healthcare industry<a href="https://www.helpnetsecurity.com/2021/03/23/healthcare-breaches-outages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breaches and network outages are a real and growing cost for the industry: 43% respondents estimated the costs of data breaches would exceed $2 million and 34% said the same for network outages.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Clothing Retailer Fat Face Discloses Data Breach<a href="https://www.inforisktoday.com/british-clothing-retailer-fat-face-discloses-data-breach-a-16249?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization says that some employee and customer information was exposed, including names, addresses, email addresses and the last four digits of credit card numbers, plus the expiration dates.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Pays Out $11,000 Bounty for High-Impact Exploit<a href="https://www.securityweek.com/tiktok-pays-out-11000-bounty-high-impact-exploit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sayed Abdelhafiz discovered a couple of cross-site scripting (XSS) vulnerabilities, an issue related to starting arbitrary components, and a so-called Zip Slip archive extraction vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Tackling cross-site request forgery (CSRF) on company websites<a href="https://www.helpnetsecurity.com/2021/03/23/csrf-on-company-websites/?&web_view=true"> Full Text</a>
 </p>
 <details>
