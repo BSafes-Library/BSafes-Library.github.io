@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Active Exploits Hit WordPress Sites Vulnerable to Thrive Themes Flaws<a href="https://threatpost.com/active-exploits-wordpress-sites-thrive-themes/165013/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thrive Themes have recently patched vulnerabilities in their Wordpress plugins and legacy Themes – but attackers are targeting those who haven’t yet applied security updates. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 9,000 employees targeted in phishing attack against California agency<a href="https://www.scmagazine.com/home/security-news/phishing/9000-employees-targeted-in-phishing-attack-against-california-agency/"> Full Text</a>
 </p>
 <details>
