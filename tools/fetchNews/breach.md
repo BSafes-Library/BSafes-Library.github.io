@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy giant Shell discloses data breach after Accellion hack<a href="https://www.bleepingcomputer.com/news/security/energy-giant-shell-discloses-data-breach-after-accellion-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energy giant Shell has disclosed a data breach after attackers compromised the company's secure file-sharing system powered by Accellion's File Transfer Appliance (FTA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MangaDex website taken offline following cyber-attack, data breach<a href="https://portswigger.net/daily-swig/mangadex-website-taken-offline-following-cyber-attack-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The site’s maintainers said the attacker was able to access the account through “the reuse of a session token found in an old database leak through faulty configuration of session management”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -36,6 +36,8 @@ Alerts:
 . https://cyware.com/news/fbi-releases-the-ic3-internet-crime-report-2020-c6670ebe
 . https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attacks-increasingly-targeting-us-govt-orgs/
 . https://securityaffairs.co/wordpress/115743/malware/cisa-fbi-trickbot-attacks.html
+. https://securityaffairs.co/wordpress/115881/security/cisa-ge-power-management-devices-flaws.html
+
 APT
 . APT27
 . APT37

@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orca raises another $210 million after increasing workforce fivefold amid pandemic<a href="https://www.scmagazine.com/home/security-news/cloud-security/orca-raises-another-210-million-after-increasing-workforce-fivefold-amid-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CEO and cofounder Avi Shua told SC Media that the company is trying to balance its original, scrappier identity with its newer status as a cybersecurity unicorn.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Herjavec to Handle Cybersecurity for Formula 1<a href="https://www.infosecurity-magazine.com:443/news/herjavec-to-handle-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Formula 1 appoints Herjavec Group as official cybersecurity services provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook says took down 1.3 billion fake accounts in Oct-Dec 2020<a href="https://telecom.economictimes.indiatimes.com/news/facebook-says-took-down-1-3-billion-fake-accounts-in-oct-dec/81633136?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook Inc said on Monday it took down 1.3 billion fake accounts between October and December and that it had over 35,000 people working on tackling misinformation on its platform.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jumio Secures Whopping $150m Investment from Private Equity Firm<a href="https://www.infosecurity-magazine.com:443/news/jumio-150m-investment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investment represents largest digital identity funding round ever
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

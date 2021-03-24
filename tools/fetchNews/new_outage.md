@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNA insurance firm hit by a cyberattack, operations impacted<a href="https://www.bleepingcomputer.com/news/security/cna-insurance-firm-hit-by-a-cyberattack-operations-impacted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial, a leading US-based insurance company, has suffered a cyberattack impacting its business operations and shutting down its website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MangaDex Site Could Be Offline for Weeks After Attack<a href="https://www.infosecurity-magazine.com:443/news/mangadex-site-could-be-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular scanlation site being rebuilt following breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

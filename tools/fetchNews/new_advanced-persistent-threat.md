@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What You Need to Know About Operation Diànxùn<a href="https://cyware.com/news/what-you-need-to-know-about-operation-dianxun-3b485ba2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This cyber espionage campaign is targeting telecom companies since August 2020 and it has been attributed to the RedDelta threat actor, also known as TA416 and Mustang Panda.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

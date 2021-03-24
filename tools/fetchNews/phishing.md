@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Delhi Police Bust Call Center Scammers<a href="https://www.infosecurity-magazine.com:443/news/delhi-police-bust-call-center/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+34 arrested for allegedly duping Americans, Canadians, and Brits with tech support scam
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers’ perfect targets: Employees getting back to the office<a href="https://www.helpnetsecurity.com/2021/03/22/phishers-employees/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Inky, employees who have slowly been returning to work in offices and other company premises can expect cyber crooks to impersonate their colleagues and their company’s leadership.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

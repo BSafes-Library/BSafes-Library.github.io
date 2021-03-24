@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired IT Contractor Jailed for Retaliatory Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/it-contractor-retaliatory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prison for IT pro who hacked company server and deleted over 1,200 Microsoft user accounts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UPMC and Charles Hilton Sued Over PHI Breach<a href="https://www.infosecurity-magazine.com:443/news/upmc-and-charles-hilton-sued-over/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical center and law firm facing class action after 36,000-record breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

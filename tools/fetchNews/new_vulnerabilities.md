@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Affecting GE's Universal Relay Pose Threat to Electric Utilities<a href="https://thehackernews.com/2021/03/critical-flaws-affecting-ges-universal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of critical security shortcomings in GE's Universal Relay (UR) family of power management devices.  "Successful exploitation of these vulnerabilities could allow an attacker to access sensitive information, reboot the UR, gain privileged access, or cause a denial-of-service condition," the agency said  in an advisory published on March 16.  GE's universal relays enable &nbsp;integrated monitoring and metering, high-speed communications, and offer simplified power management for the protection of critical assets.  The flaws, which affect a number of UR advanced protection and control relays, including B30, B90, C30, C60, C70, C95, D30, D60, F35, F60, G30, G60, L30, L60, L90, M60, N60, T35 and T60, were addressed by GE with the release of an updated version of the UR firmware  (version 8.10) made available on December 24, 2020.   The patches resolve a total of nine vulnerabilities, the most importan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Email Isn’t Secure. Here’s How to Fix It.<a href="https://www.lawfareblog.com/most-email-isnt-secure-heres-how-fix-it"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+End-to-end encrypted email is generally cumbersome and unintuitive. It’s time to invest in alternatives.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs in Virtual Learning Software May be Used to Hack into Student PCs<a href="https://cybersecuritynews.com/virtual-learning-software-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The McAfee Labs Advanced Threat Research team recently investigated software installed on computers used in K-12 school districts.  Netop...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes an Android vulnerability actively exploited in the wild<a href="https://securityaffairs.co/wordpress/115888/mobile-2/google-android-flaw-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a zero-day vulnerability affecting Android devices that use Qualcomm chipsets which is actively exploited in the wild.
+
+
+
+Google has addressed a zero-day vulnerability, tracked as CVE-2020-11261, affecting Android devices that use Qualcomm...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA is warning of vulnerabilities in GE Power Management Devices<a href="https://securityaffairs.co/wordpress/115881/security/cisa-ge-power-management-devices-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cybersecurity &amp; Infrastructure Security Agency (CISA) warns of flaws in GE Power Management Devices that could allow an attacker to conduct multiple malicious activities on vulnerable systems.
+
+
+
+U.S. Cybersecurity &amp; Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: 92% of Exchange servers safe from ProxyLogon attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-92-percent-of-exchange-servers-safe-from-proxylogon-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly 92% of all Internet-connected on-premises Microsoft Exchange servers affected by the ProxyLogon vulnerabilities are now patched and safe from attacks, Microsoft said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Only 14% of domains worldwide truly protected from spoofing with DMARC enforcement<a href="https://www.helpnetsecurity.com/2021/03/23/domains-protected-dmarc/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email continues to be an effective way to communicate and use has increased during a year of the global pandemic, and hackers continue to use email as a primary attack vector.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: A New Android Zero-Day Vulnerability Is Under Active Attack<a href="https://thehackernews.com/2021/03/warning-new-android-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has disclosed that a now-patched vulnerability affecting Android devices that use Qualcomm chipsets is being weaponized by attackers to launch targeted attacks.  Tracked as CVE-2020-11261  (CVSS score 8.4), the flaw concerns  an "improper input validation" issue in Qualcomm's Graphics component that could be exploited to trigger memory corruption when an attacker-engineered app requests access to a huge chunk of the device's memory.   "There are indications that CVE-2020-11261 may be under limited, targeted exploitation," the search giant said  in an updated January security bulletin on March 18.  CVE-2020-11261 was discovered and reported to Qualcomm by Google's Android Security team on July 20, 2020, after which it was fixed in January 2021.   It's worth noting that the access vector for the vulnerability is "local," meaning that exploitation requires local access to the device. In other words, to launch a successful attack, the b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

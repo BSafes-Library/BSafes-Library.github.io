@@ -8,6 +8,108 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless halted production at its manufacturing sites due to ransomware attack<a href="https://securityaffairs.co/wordpress/115897/malware/sierra-wireless-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, IoT company Sierra Wireless disclosed a ransomware attack that hit its internal IT systems on March 20 and disrupted its production.
+
+
+
+Sierra Wireless is a Canadian multinational wireless communications equipment designer and manufacturer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless withdraws financial guidance as ransomware attack takes down plants<a href="https://www.scmagazine.com/home/security-news/ransomware/sierra-wireless-withdraws-financial-guidance-as-ransomware-attack-takes-down-plants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Because of the disruptions caused by the ransomware incident, Sierra Wireless withdrew the Q1 2021 financial guidance provided Feb. 23, indicating a potential impact to the bottom line.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang leaks data stolen from Colorado, Miami universities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-from-colorado-miami-universities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grades and social security numbers for students at the University of Colorado and University of Miami patient data have been posted online by the Clop ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-availability server maker Stratus hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/high-availability-server-maker-stratus-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stratus Technologies has suffered a ransomware attack that required systems to be taken offline to prevent the attack's spread.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack shuts down Sierra Wireless IoT maker<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-shuts-down-sierra-wireless-iot-maker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sierra Wireless, a world-leading&nbsp;IoT solutions provider, today disclosed a ransomware attack that forced it to halt production at all manufacturing sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomwared Bank Tells Customers It Lost Their SSNs<a href="https://www.vice.com/en/article/xgznxw/ransomwared-bank-tells-customers-it-lost-their-ssns?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flagstar, a bank that was hacked by a ransomware gang, has notified several customers that it lost their Social Security Numbers, home address, full name, phone number, and home address.
+</details>
+<div style="text-align: right" markdown="1">
+Motherboard Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange exploit a possible factor in $50M ransomware attack on Acer<a href="https://www.scmagazine.com/home/security-news/ransomware/microsoft-exchange-exploit-a-possible-factor-in-50m-ransomware-attack-on-acer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company did not confirm whether the ransomware attack was executed via one of its Microsoft Exchange servers, but several cyber leaders commented on a potential connection to  the vulnerabilities exploited by multiple actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

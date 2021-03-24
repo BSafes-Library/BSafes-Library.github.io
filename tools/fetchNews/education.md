@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing the Super Bowl: Lessons in network lockdown during mega events<a href="https://www.scmagazine.com/home/security-news/network-security/securing-the-super-bowl-lessons-in-network-lockdown-during-mega-events/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the world opens up, words of warning: high-profile, short-term events require special preparation and a massive scaling up of network infrastructure and security resources.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Lina Khan to get FTC nomination | Big tech critics join against 'surveillance advertising' | Microsoft moving back to the office<a href="https://thehill.com//policy/technology/overnights/544401-hillicon-valley-lina-khan-to-get-ftc-nomination-big-tech-critics"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today: President BidenJoe BidenAstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's Morning Report - Biden: Back to the future on immigration, Afghanistan, Iran This week: Senate works to confirm Biden picks ahead of break MORE announced his intention to fill one of the two open roles on the Federal Trade Commission with prominent antitrust scholar, Lina Khan. And a broad coalition of groups in the technology came together to launch a coalition with its sights set on ending “surveillance advertising.”&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8 in 10 say cyberterrorism is top potential threat: Gallup<a href="https://thehill.com//policy/cybersecurity/544274-8-in-10-say-cyberterrorism-is-top-potential-threat-gallup"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberterrorism is seen as the top threat to the U.S., according to a new Gallup poll, surpassing nuclear weapons development and international terrorism.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Heading for “Catastrophic” Digital Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/uk-digital-skills-shortage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Number of students enrolling in ICT GCSE has fallen by 40% between 2015 and 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Electricity Distribution Systems at Increasing Risk of Cyberattacks, GAO Warns<a href="https://www.securityweek.com/electricity-distribution-systems-increasing-risk-cyberattacks-gao-warns?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly published report from the U.S. GAO describes the risks of cyber-attacks on the electricity grid’s distribution systems, along with the scale of the potential impact of such attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Which is the Threat landscape for the ICS sector in 2020?<a href="https://securityaffairs.co/wordpress/115830/ics-scada/threat-landscape-ics-sector-2020.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kaspersky ICS CERT published a report that provided details about the threat landscape for computers in the ICS engineering and integration sector in 2020.
+
+
+
+Kaspersky ICS CERT published a report that provided details about the threat landscape...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MangaDex manga site temporarily shut down after cyberattack<a href="https://www.bleepingcomputer.com/news/security/mangadex-manga-site-temporarily-shut-down-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manga scanlation giant MangaDex&nbsp;has been temporarily shut down after suffering a cyberattack and having its source code stolen.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shell Suffers Data Breach – Hackers Accessed Confidential Data<a href="https://cybersecuritynews.com/shell-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Shell is the global group of energy and petrochemical companies with more than 80,000 employees in more than 70 countries. They use...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hobby Lobby Exposes Customer Data in Cloud Misconfiguration<a href="https://threatpost.com/hobby-lobby-customer-data-cloud-misconfiguration/164980/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The arts-and-crafts retailer left 138GB of sensitive information open to the public internet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Exchange servers breached prior to patching, CISA boss says<a href="https://www.cyberscoop.com/brandon-wales-exchange-server-patch-dhs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CISA official on Monday warned organizations about vulnerabilities in Microsoft Exchange Server software, noting that “thousands” of computer servers with updated software had already been breached.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy giant Shell discloses data breach caused by Accellion FTA hack<a href="https://securityaffairs.co/wordpress/115869/cyber-crime/shell-accellion-fta-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oil and gas giant Royal Dutch Shell (Shell) discloses a data breach resulting from the compromise of its Accellion File Transfer Appliance (FTA) file sharing service.
+
+
+
+Energy giant Shell disclosed a data breach resulting from the compromise of an Accellion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

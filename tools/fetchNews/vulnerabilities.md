@@ -8,6 +8,144 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom’s screen-sharing Feature Bug Leaks Sensitive Data<a href="https://cybersecuritynews.com/zooms-screen-sharing-feature-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Zoom is a video conferencing and messaging software with support for many different devices.  A glitch in Zoom’s display-sharing...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Netop Remote Learning Software Found Vulnerable to Hacking<a href="https://thehackernews.com/2021/03/popular-netops-remote-learning-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Sunday disclosed multiple critical vulnerabilities in remote student monitoring software Netop Vision Pro &nbsp;that a malicious attacker could abuse to execute arbitrary code and take over Windows computers.  "These findings allow for elevation of privileges and ultimately remote code execution which could be used by a malicious attacker within the same network to gain full control over students' computers," the McAfee Labs Advanced Threat Research team said  in an analysis.  The vulnerabilities, tracked as CVE-2021-27192, CVE-2021-27193, CVE-2021-27194, and CVE-2021-27195, were reported to Netop on December 11, 2020, after which the Denmark-based company fixed the issues in an update (version 9.7.2) released on February 25.  "Version 9.7.2 of Vision and Vision Pro is a maintenance release that addresses several vulnerabilities, such as escalating local privileges sending sensitive information in plain text," the company stated  in its
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical code execution vulnerability fixed in Adobe ColdFusion<a href="https://www.bleepingcomputer.com/news/security/critical-code-execution-vulnerability-fixed-in-adobe-coldfusion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released out-of-band security updates to address a critical vulnerability impacting&nbsp;ColdFusion versions 2021, 2016, and 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Found in Apache OFBiz ERP Software—Patch Now<a href="https://thehackernews.com/2021/03/critical-rce-vulnerability-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation on Friday addressed a high severity vulnerability in Apache OFBiz that could have allowed an unauthenticated adversary to remotely seize control of the open-source enterprise resource planning (ERP) system.  Tracked as&nbsp; CVE-2021-26295 , the flaw affects all versions of the software prior to&nbsp; 17.12.06 &nbsp;and employs an "unsafe deserialization" as an attack vector to permit unauthorized remote attackers to execute arbitrary code on a server directly.   OFBiz &nbsp;is a Java-based web framework for automating enterprise processes and offers a wide range of functionality, including accounting, customer relationship management, manufacturing operations management, order management, supply chain fulfillment, and warehouse management system, among others.  Specifically, by exploiting this flaw, a malicious party can tamper with serialized data to insert arbitrary code that, when deserialized, can potentially result in remote code execution.  "An unauthe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addresses a critical vulnerability in ColdFusion product<a href="https://securityaffairs.co/wordpress/115864/security/adobe-coldfusion-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released security updates to address a critical vulnerability in the ColdFusion product (versions 2021, 2016, and 2018) that could lead to&nbsp;arbitrary code execution. 
+
+
+
+Adobe has released security patches to address a critical vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abusing distance learning software to hack into student PCs<a href="https://securityaffairs.co/wordpress/115854/hacking/distance-learning-software-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered critical flaws in the Netop Vision Pro distance learning software used by many schools to control remote learning sessions. 
+
+
+
+McAfee discovered multiple security vulnerabilities in&nbsp;the Netop Vision Pro popular distance learning software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE flaw in Apache OFBiz could allow to take over the ERP system<a href="https://securityaffairs.co/wordpress/115846/security/rce-flaw-apache-ofbiz-erp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation fixed a high severity remote code execution flaw in Apache OFBiz that could have allowed attackers to take over the ERP system.
+
+
+
+The Apache Software Foundation addressed last week a high severity vulnerability in Apache...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After F5 publishes proofs of concept, potential hackers get to work<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/after-f5-publishes-proofs-of-concept-potential-hackers-get-to-work/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After proofs of concept for vulnerabilities in F5’s BIG-IP and BIG-IQ products were published March 18, several researchers have logged upticks in hacking attempts and mass vulnerability scans.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firms Urged to Patch as Attackers Exploit Critical F5 Bugs<a href="https://www.infosecurity-magazine.com:443/news/firms-urged-to-patch-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Full chain exploitation now seen in wild
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheap shots: Vaccine phishing scams target employees seeking a return to the office<a href="https://www.scmagazine.com/home/security-news/phishing/cheap-shots-vaccine-phishing-scams-target-employees-seeking-a-return-to-the-office/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Use of dynamic algorithms could make these phishing schemes look like they are personalized for the recipient.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of phishing attacks bypassing email gateways<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-phishing-attacks-bypassing-email-gateways/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing operation that stole an estimated 400,000 OWA and Office 365 credentials since December has now expanded to abuse new legitimate services to bypass secure email gateways (SEGs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS Scam Emails Ask Tax Preparers for EFIN Information<a href="https://securityintelligence.com/news/irs-scam-emails-ask-for-efin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the IRS, the attack began with a scam email. This email claimed to come from ‘IRS Tax E-Filing.’ The subject line reads ‘Verifying your EFIN before e-filing.’
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

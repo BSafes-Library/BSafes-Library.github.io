@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: John Matze takes on Parler | Prince Harry heads to Silicon Valley | YouTube leaves up Boulder shooting video<a href="https://thehill.com//policy/technology/overnights/544597-hillicon-valley-john-matze-takes-on-parler-new-report-tracks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Departed co-founder John Matze is suing the right-wing social media site Parler over his dismissal earlier this year, arguing that GOP megadonor Rebekah Mercer conspired against him. Prince HarryPrince HarryPrince Harry to be named chief impact officer at BetterUp UK royal family considers appointing diversity czar  Prince Harry pens personal note in children's bereavement book: 'I know how you feel' MORE is joining a Sillicon Valley start-up. And YouTube made a controversial call about footage from the Boulder shooting.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: The Critical Role of Culture in DevSecOps<a href="https://www.infosecurity-magazine.com:443/news/imos21-culture-in-devsecops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How does the culture of an organization impact DevSecOps?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDP Attacks Trend During Lockdown<a href="https://cyware.com/news/rdp-attacks-trend-during-lockdown-0899b402"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Obviously, the number of RDP attacks increased sharply during the COVID lockdown.&nbsp;Lately, researchers disclosed that RDP attacks grew by 768% between the first and fourth quarters of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: AI Analysts May Prove Key to Keeping Organizations Secure<a href="https://www.infosecurity-magazine.com:443/news/imos21-ai-analysts-keeping-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developing AI tools that can investigate threats could prove vital
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSA and ISACA Announce First Auditing Credential for Cloud Security Systems<a href="https://www.infosecurity-magazine.com:443/news/csa-isaca-credential-auditing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CCAK program comes amid rising cloud adoption
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: Overcoming the Defender’s Dilemma<a href="https://www.infosecurity-magazine.com:443/news/imos21-overcoming-defenders-dilemma/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Javvad Malik opens the Infosecurity Magazine Online Summit
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

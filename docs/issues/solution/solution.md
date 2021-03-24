@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases CHIRP Tool that Allows to Detect SolarWinds Malicious Activity<a href="https://cybersecuritynews.com/chirp-tools-solarwinds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The Cybersecurity and Infrastructure Security Agency (CISA) has released Hunt and Incident Response Program (CHIRP) tool.  CHIRP is a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZHtrap Botnet: Hackers Pitting Against Each Other<a href="https://cyware.com/news/zhtrap-botnet-hackers-pitting-against-each-other-7c6924cb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new IoT botnet has been discovered that deploys honeypots to capture attacks from rival botnets and use that information to hijack their infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
