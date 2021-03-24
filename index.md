@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lessons Learned from the Accellion Breaches<a href="https://cyware.com/news/lessons-learned-from-the-accellion-breaches-da5a9e9e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of 2020, Accellion fell victim to a two-phase SQL injection attack, and the following months have been rife with data breach disclosures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Spreading Actively, Launches Phishing Schemes<a href="https://cyware.com/news/trickbot-spreading-actively-launches-phishing-schemes-ba2f050b"> Full Text</a>
 </p>
 <details>
