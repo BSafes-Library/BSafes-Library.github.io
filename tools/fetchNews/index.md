@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Breach at California State Controller's Office<a href="https://www.infosecurity-magazine.com:443/news/breach-at-california-state/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attack exposes unclaimed property holder report data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google removes privacy-focused ClearURLs Chrome extension <a href="https://www.bleepingcomputer.com/news/security/google-removes-privacy-focused-clearurls-chrome-extension/"> Full Text</a>
 </p>
 <details>
