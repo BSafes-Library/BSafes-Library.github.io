@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco addresses critical bug in Windows, macOS Jabber clients<a href="https://www.bleepingcomputer.com/news/security/cisco-addresses-critical-bug-in-windows-macos-jabber-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a critical arbitrary program execution vulnerability impacting several Cisco Jabber client software for Windows, macOS, Android, and iOS.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Flaws Used in Nine Months Long Campaign Targeting Windows, iOS, and Android Devices<a href="https://cyware.com/news/zero-day-flaws-used-in-nine-months-long-campaign-targeting-windows-ios-and-android-devices-7172c468"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All the exploits were propagated via watering hole attacks that redirected targets to an infrastructure that installed diverse malware depending on the browsers and devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lessons Learned from the Accellion Breaches<a href="https://cyware.com/news/lessons-learned-from-the-accellion-breaches-da5a9e9e"> Full Text</a>
 </p>
 <details>
