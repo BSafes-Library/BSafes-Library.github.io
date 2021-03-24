@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome will use HTTPS as default navigation protocol<a href="https://www.bleepingcomputer.com/news/google/google-chrome-will-use-https-as-default-navigation-protocol/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome will switch to choosing HTTPS as the default protocol for all URLs typed in the address bar, starting with the web browser's next stable version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Foils IoT Giant Sierra Wireless<a href="https://threatpost.com/ransomware-iot-sierra-wireless/165003/"> Full Text</a>
 </p>
 <details>
