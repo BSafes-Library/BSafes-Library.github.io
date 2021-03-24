@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: How to Better Understand and Secure Modern Data<a href="https://www.infosecurity-magazine.com:443/news/imos21-secure-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wendy Nather opens Day Two of the Infosecurity Magazine Online Summit
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Drug Maker to Pay $50m for Destroying Data<a href="https://www.infosecurity-magazine.com:443/news/drug-maker-to-pay-50m-for/"> Full Text</a>
 </p>
 <details>
