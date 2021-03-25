@@ -37,6 +37,30 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+62,000 Microsoft Exchange Servers potentially left unpatched, weeks after software bugs were first uncovered<a href="https://securityaffairs.co/wordpress/115965/hacking/microsoft-exchange-servers-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CyberNews investigation team found 62,174 potentially vulnerable unpatched Microsoft Exchange Servers.
+
+
+
+A number of entities in the US and worldwide remain vulnerable to software bugs that were reported by Microsoft weeks ago. 
+
+
+
+The CyberNews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange Attacks - Wild Tornado on Loose<a href="https://cyware.com/news/microsoft-exchange-attacks-wild-tornado-on-loose-e6388051"> Full Text</a>
 </p>
 <details>
