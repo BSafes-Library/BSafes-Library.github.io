@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fleeceware Apps Bank $400M in Revenue<a href="https://threatpost.com/fleeceware-apps-400m-revenue/165040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cache of apps, found in Apple and Google’s official marketplaces is largely targeted towards children, including several “slime simulators.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command chief says dozens of cyber operations carried out to defend 2020 elections<a href="https://thehill.com//policy/cybersecurity/544993-cyber-command-chief-says-dozens-of-cyber-operations-carried-out-to"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command chief says dozens of cyber operations carried out to defend 2020 elections<a href="https://thehill.com//policy/cybersecurity/544993-cyber-command-chief-says-dozens-of-cyber-operations-carried-out-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s top military cybersecurity leader said Thursday that U.S. Cyber Command conducted dozens of operations ahead of the 2020 elections aimed at securing voting against foreign interference.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds chief details changes in the boardroom, build process in wake of hack<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-chief-details-changes-in-the-board-room-build-process-in-wake-of-hack/"> Full Text</a>
 </p>
 <details>
