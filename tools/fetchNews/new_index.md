@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity awareness is too often a part-time effort<a href="https://www.helpnetsecurity.com/2021/03/24/cybersecurity-awareness-effort/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 75% of cybersecurity awareness professionals are spending less than half their time on security awareness, implying awareness is too often a part-time effort, according to a SANS report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The surge of fake COVID-19 test results, vaccines and vaccination certificates on the Dark Web<a href="https://securityaffairs.co/wordpress/115943/cyber-crime/covid-19-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are offering fake COVID-19 test results and vaccination certificates in blackmarkets and hacking forums on the Dark Web.
+
+
+
+While vaccination campaigns go ahead with different speeds in many countries multiple threat actors on the Dark...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACSC running scans to find vulnerable Microsoft Exchange servers in Australia<a href="https://www.zdnet.com/article/acsc-running-scans-to-find-vulnerable-microsoft-exchange-servers-in-australia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Head of the Australian Cyber Security Centre (ACSC) Abigail Bradshaw has told senators "10s of organizations" have so far reached out to her agency regarding vulnerable Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of ongoing brute-force attacks against NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ongoing-brute-force-attacks-against-nas-devices/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Former IT Consultant Hacked a Company and Deleted 1,200 User Accounts<a href="https://cybersecuritynews.com/it-contractor-sentenced/"> Full Text</a>
@@ -66,7 +118,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Can Now Reboot Infected Devices<a href="https://www.govinfosecurity.com/revil-ransomware-now-reboot-infected-devices-a-16259?&web_view=true"> Full Text</a>
@@ -82,7 +134,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Kingdom Ransomware Hunting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/03/black-kingdom-ransomware-hunting.html"> Full Text</a>
@@ -98,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rise in Attacks on ICS Computers in Second Half of 2020<a href="https://www.infosecurity-magazine.com:443/news/attacks-ics-computers-rise/"> Full Text</a>
@@ -114,7 +166,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 30 million Americans affected by the Astoria Company data breach<a href="https://securityaffairs.co/wordpress/115934/breaking-news/astoria-company-data-leak.html"> Full Text</a>
@@ -134,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BackBlaze mistakenly shared backup metadata with Facebook<a href="https://www.bleepingcomputer.com/news/security/backblaze-mistakenly-shared-backup-metadata-with-facebook/"> Full Text</a>
@@ -150,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DDoS Attack Vector Discovered in DCCP Protocol<a href="https://cybersecuritynews.com/new-ddos-attack-vector-discovered-in-dccp-protocol/"> Full Text</a>
@@ -166,7 +218,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal advisories detail bitcoin payments to ransomware gangs, urgency of threat<a href="https://www.cyberscoop.com/is-paying-ransomware-legal/?&web_view=true"> Full Text</a>
@@ -182,7 +234,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forcing Self-Service Password Reset (SSPR) Registration to Increase ROI<a href="https://thehackernews.com/2021/03/forcing-self-service-password-reset.html"> Full Text</a>
@@ -198,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two-Thirds of Large Firms Attacked as #COVID19 Hampers Security<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-large-firms-attacked/"> Full Text</a>
@@ -214,7 +266,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Engineer reports data leak to nonprofit, hears from the police<a href="https://www.bleepingcomputer.com/news/security/engineer-reports-data-leak-to-nonprofit-hears-from-the-police/"> Full Text</a>
@@ -230,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Launches zero-trust Tool Designed to Help Protect Remote Employees from Cyberattacks<a href="https://cybersecuritynews.com/cloudflare-zero-trust-tool/"> Full Text</a>
@@ -246,7 +298,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Used Fake Office 365 Update Messages<a href="https://www.govinfosecurity.com/phishing-campaign-used-fake-office-365-update-messages-a-16261?&web_view=true"> Full Text</a>
@@ -262,7 +314,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Cisco Jabber Bug Could Let Attackers Hack Remote Systems<a href="https://thehackernews.com/2021/03/critical-cisco-jabber-bug-could-let.html"> Full Text</a>
@@ -278,7 +330,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Half of UK Firms Suffer Cyber-Skills Gaps<a href="https://www.infosecurity-magazine.com:443/news/half-of-uk-firms-suffer-cyber/"> Full Text</a>
@@ -294,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Paid Just Before Netwalker Gang Disrupted<a href="https://www.govinfosecurity.com/ransom-paid-just-before-netwalker-gang-disrupted-a-16264?&web_view=true"> Full Text</a>
@@ -310,7 +362,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Used Facebook to Hack Uighur Muslims Living Abroad<a href="https://thehackernews.com/2021/03/chinese-hackers-used-facebook-to-hack.html"> Full Text</a>
@@ -326,7 +378,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #IMOS21: Six Components of a Bug Bounty Program<a href="https://www.infosecurity-magazine.com:443/news/imos21-six-components-bug-bounty/"> Full Text</a>
@@ -342,7 +394,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Used Facebook to Hack Uyghurs Living Abroad<a href="https://www.nbcnews.com/tech/security/facebook-says-chinese-hackers-used-platform-hack-uyghurs-abroad-rcna492?&web_view=true"> Full Text</a>
@@ -358,7 +410,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FatFace Faces Customer Anger After Controversial Breach Response<a href="https://www.infosecurity-magazine.com:443/news/fatface-faces-customer-anger/"> Full Text</a>
@@ -374,7 +426,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 100,000 web shells detected on Exchange servers<a href="https://searchsecurity.techtarget.com/news/252498373/Nearly-100000-web-shells-detected-on-Exchange-servers?&web_view=true"> Full Text</a>
@@ -390,7 +442,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 - [5G](/docs/issues/5g/5g/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Vulnerability in 5G Network Slicing Leaves Enterprises Exposed to Cyberattacks<a href="https://www.helpnetsecurity.com/2021/03/24/5g-network-slicing-vulnerability/?&web_view=true"> Full Text</a>
@@ -406,7 +458,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns Scammers Spoofing FBI Office Phone Numbers in Government Impersonation Fraud<a href="https://www.fbi.gov/contact-us/field-offices/elpaso/news/press-releases/fbi-warns-scammers-spoofing-fbi-office-phone-numbers-in-government-impersonation-fraud?&web_view=true"> Full Text</a>
@@ -422,7 +474,7 @@ FBI
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazil leads in phishing attacks<a href="https://www.zdnet.com/article/brazil-leads-in-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -438,7 +490,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: House lawmakers fired up for hearing with tech CEOs | Zuckerberg proposes conditional Section 230 reforms | Lawmakers reintroduce bill to secure internet-connected devices<a href="https://thehill.com//policy/technology/overnights/544817-hillicon-valley-house-lawmakers-fired-up-for-hearing-with-tech"> Full Text</a>
@@ -454,7 +506,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Policyholders may be the primary target in hack of cyber insurance provider CNA<a href="https://www.scmagazine.com/home/security-news/ransomware/policyholders-may-be-the-primary-target-in-hack-of-cyber-insurance-provider-cna/"> Full Text</a>
@@ -470,7 +522,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Jabber for Windows, macOS, Android and iOS is affected by a critical issue<a href="https://securityaffairs.co/wordpress/115931/security/cisco-jabber-critical-flaw.html"> Full Text</a>
@@ -490,7 +542,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Managing the great return: What CISOs should consider when reopening the office<a href="https://www.scmagazine.com/home/security-news/network-security/managing-the-great-return-what-cisos-should-consider-when-reopening-the-office/"> Full Text</a>
