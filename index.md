@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New certificate program teaches cloud auditing in a multi-tenant architecture<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certificate-program-teaches-cloud-auditing-in-a-multi-tenant-architecture/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certificate fills a gap in the knowledge-based training market, as auditing hosted cloud services differs from traditional IT audit.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Insurance giant CNA hit by new Phoenix CryptoLocker ransomware<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-hit-by-new-phoenix-cryptolocker-ransomware/"> Full Text</a>
 </p>
 <details>
