@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Page Shield: Early warning system for malicious scripts<a href="https://www.bleepingcomputer.com/news/security/cloudflare-page-shield-early-warning-system-for-malicious-scripts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has released a new feature that aims to protect websites from Magecart and other malicious JavaScript-based attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators urge Energy chief to prioritize cybersecurity amid growing threats<a href="https://thehill.com//policy/cybersecurity/545006-senators-urge-energy-secretary-to-prioritize-cybersecurity-in-face-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan leaders of the Senate Energy and Natural Resources Committee on Thursday urged Energy Secretary Jennifer Granholm to prioritize cybersecurity and maintain leadership for the agency’s key cybersecurity office in the face of growing threats to the power grid.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Project released 1.1.1k version to fix two High-severity flaws<a href="https://securityaffairs.co/wordpress/115968/security/openssl-flaws-2.html"> Full Text</a>
 </p>
 <details>
