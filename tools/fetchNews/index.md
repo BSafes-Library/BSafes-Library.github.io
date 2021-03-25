@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical Code Execution Flaw with Cisco Jabber Let Attackers Execute Arbitrary Programs<a href="https://cybersecuritynews.com/cisco-jabber-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cisco released software updates to address multiple vulnerabilities affecting its Jabber messaging clients across Windows, macOS, Android, and iOS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Partners with College to Help Address Cyber-Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/mcafee-partners-college-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration is designed to encourage more young people to pursue careers in cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CNA Suffers “Sophisticated” Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/cna-suffers-sophisticated/"> Full Text</a>
 </p>
 <details>

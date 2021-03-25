@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL fixes severe DoS, certificate validation vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/openssl-fixes-severe-dos-certificate-validation-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL has patched two high severity vulnerabilities. These include a Denial of Service (DoS) vulnerability (CVE-2021-3449) and an improper CA certificate validation issue (CVE-2021-3450).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Code Execution Flaw with Cisco Jabber Let Attackers Execute Arbitrary Programs<a href="https://cybersecuritynews.com/cisco-jabber-flaw/"> Full Text</a>
 </p>
 <details>
