@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of ongoing brute-force attacks against NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ongoing-brute-force-attacks-against-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns customers of ongoing attacks targeting QNAP NAS (network-attached storage) devices and urges them to immediately take action to mitigate them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco Jabber Bug Could Let Attackers Hack Remote Systems<a href="https://thehackernews.com/2021/03/critical-cisco-jabber-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday released software updates to address multiple vulnerabilities affecting its Jabber messaging clients across Windows, macOS, Android, and iOS.  Successful exploitation of the flaws could permit an "attacker to execute arbitrary programs on the underlying operating system with elevated privileges, access sensitive information, intercept protected network traffic, or cause a denial of service (DoS) condition," the networking major&nbsp; said &nbsp;in an advisory.  The issues concern a total of five security vulnerabilities, three of which (CVE-2021-1411, CVE-2021-1417, and CVE-2021-1418) were reported to the company by Olav Sortland Thoresen of Watchcom, with two others (CVE-2021-1469 and CVE-2021-1471) uncovered during internal security testing.   Cisco notes that the flaws are not dependent on one another, and that exploitation of any one of the vulnerabilities doesn't hinge on the exploitation of another. But in order to do this, an attacker needs to be authenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: Six Components of a Bug Bounty Program<a href="https://www.infosecurity-magazine.com:443/news/imos21-six-components-bug-bounty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon Media’s Sean Poris outlines how to run a successful bug bounty scheme
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 100,000 web shells detected on Exchange servers<a href="https://searchsecurity.techtarget.com/news/252498373/Nearly-100000-web-shells-detected-on-Exchange-servers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kryptos Logic found nearly 100,000 active web shells during internet scans of ProxyLogon, the most serious of four vulnerabilities in Microsoft's Exchange Server software disclosed earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Jabber for Windows, macOS, Android and iOS is affected by a critical issue<a href="https://securityaffairs.co/wordpress/115931/security/cisco-jabber-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a critical arbitrary program execution flaw in its Cisco Jabber client software for Windows, macOS, Android, and iOS.
+
+
+
+Cisco has addressed a critical arbitrary program execution issue, tracked as CVE-2021-1411, that affects several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

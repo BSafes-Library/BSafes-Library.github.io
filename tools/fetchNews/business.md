@@ -11,6 +11,20 @@ nav_order: 900027
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybeats Technologies Acquired by Relay Medical<a href="https://www.infosecurity-magazine.com:443/news/cybeats-technologies-acquired-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Relay completes acquisition of Toronto-based IoT cybersecurity firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LogMeIn Appoints Michael Oberlaender as CISO<a href="https://www.infosecurity-magazine.com:443/news/logmein-appoints-michael/"> Full Text</a>
 </p>
 <details>

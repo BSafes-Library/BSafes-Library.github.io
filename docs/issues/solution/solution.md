@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Launches zero-trust Tool Designed to Help Protect Remote Employees from Cyberattacks<a href="https://cybersecuritynews.com/cloudflare-zero-trust-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cloudflare is excited to announce that Cloudflare Browser Isolation is now available within Cloudflare for Teams suite of zero trust security and...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,34 @@ nav_order: 900160
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+9,000 employees targeted in phishing attack against California agency<a href="https://www.scmagazine.com/home/security-news/phishing/9000-employees-targeted-in-phishing-attack-against-california-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A California state agency was victimized by a phishing incident last week in which an employee clicked on a link that provided access to the employee’s account for some 24 hours.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Spreading Actively, Launches Phishing Schemes<a href="https://cyware.com/news/trickbot-spreading-actively-launches-phishing-schemes-ba2f050b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA and FBI are warning of ongoing Trickbot attacks that are leveraging a traffic infringement phishing scheme to trick victims into installing the TrickBot malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The human impact of a Royal Mail phishing scam<a href="https://blog.malwarebytes.com/scams/2021/03/the-human-impact-of-a-royal-mail-phishing-scam/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

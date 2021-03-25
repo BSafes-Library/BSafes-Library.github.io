@@ -8,6 +8,34 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Former IT Consultant Hacked a Company and Deleted 1,200 User Accounts<a href="https://cybersecuritynews.com/it-contractor-sentenced/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ An IT Contractor, Deepanshu Kher was sentenced to two years in prison for accessing the server of a Carlsbad Company and deleting...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Engineer reports data leak to nonprofit, hears from the police<a href="https://www.bleepingcomputer.com/news/security/engineer-reports-data-leak-to-nonprofit-hears-from-the-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security engineer and ex-contributor to the open systems&nbsp;non-profit organization, Apperta Foundation, recently reported a data leak to them. In return, he gets contacted by their lawyers and eventually the police.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

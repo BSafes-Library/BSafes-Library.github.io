@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook takes action against Chinese hackers targeting Uyghurs<a href="https://thehill.com//policy/cybersecurity/544804-facebook-takes-action-against-chinese-hackers-targeting-uyghurs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Wednesday announced that it had taken steps to disrupt efforts of Chinese hacking groups to target and surveil members of the Uyghur community both in China and abroad.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook blocks Chinese state hackers targeting Uyghur activists<a href="https://www.bleepingcomputer.com/news/security/facebook-blocks-chinese-state-hackers-targeting-uyghur-activists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook took down accounts used by a Chinese-sponsored hacking group to deploy surveillance malware on devices used by Uyghurs activists, journalists, and dissidents&nbsp;living outside China.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

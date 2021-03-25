@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Used Fake Office 365 Update Messages<a href="https://www.govinfosecurity.com/phishing-campaign-used-fake-office-365-update-messages-a-16261?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing scheme used fake Microsoft Office 365 update messages to target financial executives and others in an effort to harvest their credentials, according to the security firm Area 1.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Scammers Spoofing FBI Office Phone Numbers in Government Impersonation Fraud<a href="https://www.fbi.gov/contact-us/field-offices/elpaso/news/press-releases/fbi-warns-scammers-spoofing-fbi-office-phone-numbers-in-government-impersonation-fraud?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has seen a recent increase in phone calls that spoof the Bureau’s phone number as part of various scams, but most recently in trying to obtain banking data or gift card/wire transfer payments.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil leads in phishing attacks<a href="https://www.zdnet.com/article/brazil-leads-in-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report on phishing by cybersecurity firm Kaspersky, Brazil tops a list of five countries with the highest rate of users targeted for data theft throughout last year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

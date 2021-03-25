@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two-Thirds of Large Firms Attacked as #COVID19 Hampers Security<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-large-firms-attacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government report warns malicious activity is going undetected
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

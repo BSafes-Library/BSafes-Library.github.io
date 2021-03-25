@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used Facebook to Hack Uighur Muslims Living Abroad<a href="https://thehackernews.com/2021/03/chinese-hackers-used-facebook-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook may be banned in China, but the company on Wednesday said it has disrupted a network of bad actors using its platform to target the Uyghur community and lure them into downloading malicious software that would allow surveillance of their devices.  "They targeted activists, journalists and dissidents predominantly among Uyghurs from Xinjiang in China primarily living abroad in Turkey, Kazakhstan, the United States, Syria, Australia, Canada and other countries," Facebook's Head of Cyber Espionage Investigations, Mike Dvilyanski, and Head of Security Policy, Nathaniel Gleicher,&nbsp; said . "This group used various cyber espionage tactics to identify its targets and infect their devices with malware to enable surveillance."  The social media giant said the "well-resourced and persistent operation" aligned with a threat actor known as&nbsp; Evil Eye &nbsp;(or Earth Empusa), a China-based collective known for its history of espionage attacks against the Muslim m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used Facebook to Hack Uyghurs Living Abroad<a href="https://www.nbcnews.com/tech/security/facebook-says-chinese-hackers-used-platform-hack-uyghurs-abroad-rcna492?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook’s head of cyberespionage said it had found and removed fewer than 500 accounts that sent malicious links to Uyghurs as part of “an extremely targeted operation.”
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
