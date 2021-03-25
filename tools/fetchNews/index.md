@@ -34,6 +34,478 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of ongoing brute-force attacks against NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ongoing-brute-force-attacks-against-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns customers of ongoing attacks targeting QNAP NAS (network-attached storage) devices and urges them to immediately take action to mitigate them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Former IT Consultant Hacked a Company and Deleted 1,200 User Accounts<a href="https://cybersecuritynews.com/it-contractor-sentenced/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ An IT Contractor, Deepanshu Kher was sentenced to two years in prison for accessing the server of a Carlsbad Company and deleting...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Can Now Reboot Infected Devices<a href="https://www.govinfosecurity.com/revil-ransomware-now-reboot-infected-devices-a-16259?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has added a new malware capability that enables the attackers to reboot an infected device after encryption, security researchers at MalwareHunterTeam report.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom Ransomware Hunting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/03/black-kingdom-ransomware-hunting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a week after Microsoft released a  one-click mitigation tool  to mitigate cyberattacks targeting on-premises Exchange servers, the company  disclosed  that patches have been applied to 92% of all internet-facing servers affected by the ProxyLogon vulnerabilities.  The development, a 43% improvement from the previous week, caps off a whirlwind of espionage and malware campaigns that hit thousands of companies worldwide, with as many as 10 advanced persistent threat (APT) groups opportunistically moving quickly to exploit the bugs.  According to telemetry data from RiskIQ, there are roughly 29,966 instances of Microsoft Exchange servers still exposed to attacks, down from 92,072 on March 10.   While Exchange servers were under assault by multiple Chinese-linked state-sponsored hacking groups prior to  Microsoft's patch  on March 2, the release of  public proof-of-concept  exploits fanned a feeding frenzy of infections, opening the door for escalating attacks like ransomwar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise in Attacks on ICS Computers in Second Half of 2020<a href="https://www.infosecurity-magazine.com:443/news/attacks-ics-computers-rise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19 lockdowns may have led to a rise in attacks on ICS computers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+30 million Americans affected by the Astoria Company data breach<a href="https://securityaffairs.co/wordpress/115934/breaking-news/astoria-company-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered the availability in the DarK Web of 30M of records of Americans affected by the Astoria Company data breach
+
+
+
+Astoria Company LLC is a lead generation company that leverages on a network of websites to collect information on a person...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackBlaze mistakenly shared backup metadata with Facebook<a href="https://www.bleepingcomputer.com/news/security/backblaze-mistakenly-shared-backup-metadata-with-facebook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backblaze has removed Facebook tracking code (also known as an advertising pixel) accidentally added to web UI pages only accessible to logged-in customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DDoS Attack Vector Discovered in DCCP Protocol<a href="https://cybersecuritynews.com/new-ddos-attack-vector-discovered-in-dccp-protocol/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Akamai Technologies, Inc. is a global content delivery network, cybersecurity, and cloud service company, providing web and Internet security services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal advisories detail bitcoin payments to ransomware gangs, urgency of threat<a href="https://www.cyberscoop.com/is-paying-ransomware-legal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware victims paid attackers at least $144.35 million in bitcoin between 2013 and 2019, according to a recent FBI bulletin that likely fails to account for millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcing Self-Service Password Reset (SSPR) Registration to Increase ROI<a href="https://thehackernews.com/2021/03/forcing-self-service-password-reset.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When your organization invests in a new product or service, it is essential that you take advantage of all the features it has to offer. This will help you to maximize your return on investment (ROI). If you have purchased or are thinking about purchasing a self-service password reset (SSPR) tool, one of the most important things you will need to do is make sure that 100% of users are registered to use it.   If you leave user enrollment optional, many people will delay registration, or decide not to use it at all. This often happens because people think that they will not ever be locked out of their account, or that it is fast and easy to contact the help desk if they do. While your help desk may be able to provide great support to your users, it comes at a significant cost. According to one study from Forrester Research, every password reset that the help desk performs costs  approximately $70 . With that price, it is easy to see that every user who isn't enrolled in uReset is a majo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two-Thirds of Large Firms Attacked as #COVID19 Hampers Security<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-large-firms-attacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government report warns malicious activity is going undetected
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Engineer reports data leak to nonprofit, hears from the police<a href="https://www.bleepingcomputer.com/news/security/engineer-reports-data-leak-to-nonprofit-hears-from-the-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security engineer and ex-contributor to the open systems non-profit organization, Apperta Foundation, recently reported a data leak to them. In return, he gets contacted by their lawyers and eventually the police.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Launches zero-trust Tool Designed to Help Protect Remote Employees from Cyberattacks<a href="https://cybersecuritynews.com/cloudflare-zero-trust-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cloudflare is excited to announce that Cloudflare Browser Isolation is now available within Cloudflare for Teams suite of zero trust security and...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Used Fake Office 365 Update Messages<a href="https://www.govinfosecurity.com/phishing-campaign-used-fake-office-365-update-messages-a-16261?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing scheme used fake Microsoft Office 365 update messages to target financial executives and others in an effort to harvest their credentials, according to the security firm Area 1.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco Jabber Bug Could Let Attackers Hack Remote Systems<a href="https://thehackernews.com/2021/03/critical-cisco-jabber-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday released software updates to address multiple vulnerabilities affecting its Jabber messaging clients across Windows, macOS, Android, and iOS.  Successful exploitation of the flaws could permit an "attacker to execute arbitrary programs on the underlying operating system with elevated privileges, access sensitive information, intercept protected network traffic, or cause a denial of service (DoS) condition," the networking major  said  in an advisory.  The issues concern a total of five security vulnerabilities, three of which (CVE-2021-1411, CVE-2021-1417, and CVE-2021-1418) were reported to the company by Olav Sortland Thoresen of Watchcom, with two others (CVE-2021-1469 and CVE-2021-1471) uncovered during internal security testing.   Cisco notes that the flaws are not dependent on one another, and that exploitation of any one of the vulnerabilities doesn't hinge on the exploitation of another. But in order to do this, an attacker needs to be authenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of UK Firms Suffer Cyber-Skills Gaps<a href="https://www.infosecurity-magazine.com:443/news/half-of-uk-firms-suffer-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CIISec calls for overhaul to recruiment process
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Paid Just Before Netwalker Gang Disrupted<a href="https://www.govinfosecurity.com/ransom-paid-just-before-netwalker-gang-disrupted-a-16264?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A third-party claims administrator of health and social services programs for the elderly paid a ransom to Netwalker attackers about a month before law enforcement disrupted the gang in January.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used Facebook to Hack Uighur Muslims Living Abroad<a href="https://thehackernews.com/2021/03/chinese-hackers-used-facebook-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook may be banned in China, but the company on Wednesday said it has disrupted a network of bad actors using its platform to target the Uyghur community and lure them into downloading malicious software that would allow surveillance of their devices.  "They targeted activists, journalists and dissidents predominantly among Uyghurs from Xinjiang in China primarily living abroad in Turkey, Kazakhstan, the United States, Syria, Australia, Canada and other countries," Facebook's Head of Cyber Espionage Investigations, Mike Dvilyanski, and Head of Security Policy, Nathaniel Gleicher,  said . "This group used various cyber espionage tactics to identify its targets and infect their devices with malware to enable surveillance."  The social media giant said the "well-resourced and persistent operation" aligned with a threat actor known as  Evil Eye  (or Earth Empusa), a China-based collective known for its history of espionage attacks against the Muslim m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: Six Components of a Bug Bounty Program<a href="https://www.infosecurity-magazine.com:443/news/imos21-six-components-bug-bounty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon Media’s Sean Poris outlines how to run a successful bug bounty scheme
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used Facebook to Hack Uyghurs Living Abroad<a href="https://www.nbcnews.com/tech/security/facebook-says-chinese-hackers-used-platform-hack-uyghurs-abroad-rcna492?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook’s head of cyberespionage said it had found and removed fewer than 500 accounts that sent malicious links to Uyghurs as part of “an extremely targeted operation.”
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FatFace Faces Customer Anger After Controversial Breach Response<a href="https://www.infosecurity-magazine.com:443/news/fatface-faces-customer-anger/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retailer urges those affected to keep it quiet
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 100,000 web shells detected on Exchange servers<a href="https://searchsecurity.techtarget.com/news/252498373/Nearly-100000-web-shells-detected-on-Exchange-servers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kryptos Logic found nearly 100,000 active web shells during internet scans of ProxyLogon, the most serious of four vulnerabilities in Microsoft's Exchange Server software disclosed earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Vulnerability in 5G Network Slicing Leaves Enterprises Exposed to Cyberattacks<a href="https://www.helpnetsecurity.com/2021/03/24/5g-network-slicing-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability has the potential to allow data access and denial of service attacks between different network slices on a mobile operator’s 5G network, exposing enterprise customers to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Scammers Spoofing FBI Office Phone Numbers in Government Impersonation Fraud<a href="https://www.fbi.gov/contact-us/field-offices/elpaso/news/press-releases/fbi-warns-scammers-spoofing-fbi-office-phone-numbers-in-government-impersonation-fraud?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has seen a recent increase in phone calls that spoof the Bureau’s phone number as part of various scams, but most recently in trying to obtain banking data or gift card/wire transfer payments.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil leads in phishing attacks<a href="https://www.zdnet.com/article/brazil-leads-in-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report on phishing by cybersecurity firm Kaspersky, Brazil tops a list of five countries with the highest rate of users targeted for data theft throughout last year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House lawmakers fired up for hearing with tech CEOs | Zuckerberg proposes conditional Section 230 reforms | Lawmakers reintroduce bill to secure internet-connected devices<a href="https://thehill.com//policy/technology/overnights/544817-hillicon-valley-house-lawmakers-fired-up-for-hearing-with-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today: The CEOs of major social media platforms are gearing up to testify before a House committee tomorrow on misinformation around COVID-19 and the recent Capitol riot. Meanwhile, a group of 12 state attorneys general are pressuring Facebook and Twitter to tackle COVID-19 vaccine misinformation, and two lawmakers reintroduced legislation aimed at making internet-connected devices safer for the consumer. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Policyholders may be the primary target in hack of cyber insurance provider CNA<a href="https://www.scmagazine.com/home/security-news/ransomware/policyholders-may-be-the-primary-target-in-hack-of-cyber-insurance-provider-cna/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the words of one expert: “The theft of customer policies is the Sword of Damocles that has been hanging over the cyber insurance industry since its inception.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Jabber for Windows, macOS, Android and iOS is affected by a critical issue<a href="https://securityaffairs.co/wordpress/115931/security/cisco-jabber-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a critical arbitrary program execution flaw in its Cisco Jabber client software for Windows, macOS, Android, and iOS.
+
+
+
+Cisco has addressed a critical arbitrary program execution issue, tracked as CVE-2021-1411, that affects several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing the great return: What CISOs should consider when reopening the office<a href="https://www.scmagazine.com/home/security-news/network-security/managing-the-great-return-what-cisos-should-consider-when-reopening-the-office/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the COVID-19 vaccine rollout, many companies will welcome back employees. But that return will mean laptops that have been off-network for a year, workspaces and equipment left unattended for months, and the need to acclimate employees back into an office environment. All considered, security will be at an inflection point.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
