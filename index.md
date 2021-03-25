@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds chief details changes in the boardroom, build process in wake of hack<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-chief-details-changes-in-the-board-room-build-process-in-wake-of-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chief executive Sudhakar Ramakrishna described the work they’re doing as an “experiment” and said he has had conversations with CISA and the Cyberspace Solarium Commission about whether it could serve as a model for other businesses.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chrome to defaults to HTTPS, as Google looks to improve privacy and loading speeds<a href="https://www.scmagazine.com/home/security-news/chrome-to-defaults-to-https-as-google-looks-to-improve-privacy-and-loading-speeds/"> Full Text</a>
 </p>
 <details>
