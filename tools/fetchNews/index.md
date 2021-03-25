@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CNA Suffers “Sophisticated” Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/cna-suffers-sophisticated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance giant’s website reduced to attack notice following Sunday cyber-strike
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Honeywell Says Malware Disrupted IT Systems<a href="https://www.securityweek.com/honeywell-says-malware-disrupted-it-systems/?&web_view=true"> Full Text</a>
 </p>
 <details>
