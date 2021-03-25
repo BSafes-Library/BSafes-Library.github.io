@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Trojanized Xcode Project Spreads MacOS Malware<a href="https://cyware.com/news/trojanized-xcode-project-spreads-macos-malware-1a2f1982"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat identified as XcodeSpy has emerged to target macOS users. The malware spies on Mac users of Xcode IDE by delivering the EggShell backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activist Denies Facebook Fraud<a href="https://www.infosecurity-magazine.com:443/news/activist-denies-facebook-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sir Maejor Page denies posing as Black Lives Matter leader on Facebook to pocket donations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Loss Impacts 40% of SaaS App Users<a href="https://www.infosecurity-magazine.com:443/news/data-loss-impacts-40-of-saas-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Survey of SaaS users finds 40% have lost data stored in online tools
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 62,000 Microsoft Exchange Servers potentially left unpatched, weeks after software bugs were first uncovered<a href="https://securityaffairs.co/wordpress/115965/hacking/microsoft-exchange-servers-unpatched.html"> Full Text</a>
 </p>
 <details>
