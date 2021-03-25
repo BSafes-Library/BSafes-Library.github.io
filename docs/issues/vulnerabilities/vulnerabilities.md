@@ -11,6 +11,76 @@ nav_order: 900220
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Active Exploits Hit WordPress Sites Vulnerable to Thrive Themes Flaws<a href="https://threatpost.com/active-exploits-wordpress-sites-thrive-themes/165013/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thrive Themes have recently patched vulnerabilities in their Wordpress plugins and legacy Themes – but attackers are targeting those who haven’t yet applied security updates. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows PSExec privilege elevation vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-psexec-privilege-elevation-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a vulnerability in the PsExec utility that allows local users to gain elevated privileges on Windows devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Servers See ProxyLogon Patching Frenzy<a href="https://threatpost.com/microsoft-exchange-servers-proxylogon-patching/165001/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vast swathes of companies were likely compromised before patches were applied, so the danger remains.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addresses critical bug in Windows, macOS Jabber clients<a href="https://www.bleepingcomputer.com/news/security/cisco-addresses-critical-bug-in-windows-macos-jabber-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a critical arbitrary program execution vulnerability impacting&nbsp;several Cisco Jabber client software for Windows, macOS, Android, and iOS.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Flaws Used in Nine Months Long Campaign Targeting Windows, iOS, and Android Devices<a href="https://cyware.com/news/zero-day-flaws-used-in-nine-months-long-campaign-targeting-windows-ios-and-android-devices-7172c468"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All the exploits were propagated via watering hole attacks that redirected targets to an infrastructure that installed diverse malware depending on the browsers and devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TikTok Pays Out $11,000 Bounty for High-Impact Exploit<a href="https://www.securityweek.com/tiktok-pays-out-11000-bounty-high-impact-exploit?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drug Maker to Pay $50m for Destroying Data<a href="https://www.infosecurity-magazine.com:443/news/drug-maker-to-pay-50m-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cancer drug manufacturer admits erasing and concealing records ahead of FDA inspection
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers reintroduce legislation to secure internet-connected devices<a href="https://thehill.com//policy/cybersecurity/544711-lawmakers-reintroduce-legislation-to-secure-internet-connected-devices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Ed Markey (D-Mass.) and Rep. Ted LieuTed W. LieuOVERNIGHT ENERGY: Supreme Court declines to hear challenge to Obama marine monument designation | Interior reverses course on tribal ownership of portion of Missouri river | White House climate adviser meets with oil and gas companies Anger over anti-Asian violence, rhetoric rips through Capitol Lawmakers condemn anti-Asian rhetoric at hearing following shootings MORE (D-Calif.) on Wednesday again rolled out legislation intended to help secure internet-connected devices and increase consumer confidence in them.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

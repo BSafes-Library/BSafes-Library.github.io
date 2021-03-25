@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Pays Out $11,000 Bounty for High-Impact Exploit<a href="https://www.securityweek.com/tiktok-pays-out-11000-bounty-high-impact-exploit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sayed Abdelhafiz discovered a couple of cross-site scripting (XSS) vulnerabilities, an issue related to starting arbitrary components, and a so-called Zip Slip archive extraction vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+92% of worldwide Microsoft Exchange IPs are now patched or mitigated<a href="https://securityaffairs.co/wordpress/115896/security/microsoft-exchange-patched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that 92% of all on-premises Microsoft Exchange servers exposed online affected by the ProxyLogon vulnerabilities are now patched.
+
+
+
+On March 2nd, Microsoft released&nbsp;emergency out-of-band security updates&nbsp;that address four zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

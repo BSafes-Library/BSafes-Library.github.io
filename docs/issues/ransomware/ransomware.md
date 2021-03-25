@@ -11,6 +11,20 @@ nav_order: 900180
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Foils IoT Giant Sierra Wireless<a href="https://threatpost.com/ransomware-iot-sierra-wireless/165003/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack has impacted the IoT manufacturer’s production lines across multiple sites, and other internal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Black Kingdom ransomware is targeting Microsoft Exchange servers<a href="https://securityaffairs.co/wordpress/115912/malware/black-kingdom-microsoft-exchange.html"> Full Text</a>
 </p>
 <details>

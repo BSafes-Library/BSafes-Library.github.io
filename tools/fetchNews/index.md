@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook takes action against Chinese hackers targeting Uyghurs<a href="https://thehill.com//policy/cybersecurity/544804-facebook-takes-action-against-chinese-hackers-targeting-uyghurs"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Purple Fox Malware Targets Windows Machines With New Worm Capabilities<a href="https://threatpost.com/purple-fox-malware-windows-worm/164993/"> Full Text</a>
@@ -66,7 +66,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Active Exploits Hit WordPress Sites Vulnerable to Thrive Themes Flaws<a href="https://threatpost.com/active-exploits-wordpress-sites-thrive-themes/165013/"> Full Text</a>
@@ -82,7 +82,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 9,000 employees targeted in phishing attack against California agency<a href="https://www.scmagazine.com/home/security-news/phishing/9000-employees-targeted-in-phishing-attack-against-california-agency/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook blocks Chinese state hackers targeting Uyghur activists<a href="https://www.bleepingcomputer.com/news/security/facebook-blocks-chinese-state-hackers-targeting-uyghur-activists/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows PSExec privilege elevation vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-psexec-privilege-elevation-vulnerability/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome will use HTTPS as default navigation protocol<a href="https://www.bleepingcomputer.com/news/google/google-chrome-will-use-https-as-default-navigation-protocol/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Foils IoT Giant Sierra Wireless<a href="https://threatpost.com/ransomware-iot-sierra-wireless/165003/"> Full Text</a>
@@ -162,7 +162,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange Servers See ProxyLogon Patching Frenzy<a href="https://threatpost.com/microsoft-exchange-servers-proxylogon-patching/165001/"> Full Text</a>
@@ -178,7 +178,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco addresses critical bug in Windows, macOS Jabber clients<a href="https://www.bleepingcomputer.com/news/security/cisco-addresses-critical-bug-in-windows-macos-jabber-clients/"> Full Text</a>
@@ -194,7 +194,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-day Flaws Used in Nine Months Long Campaign Targeting Windows, iOS, and Android Devices<a href="https://cyware.com/news/zero-day-flaws-used-in-nine-months-long-campaign-targeting-windows-ios-and-android-devices-7172c468"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lessons Learned from the Accellion Breaches<a href="https://cyware.com/news/lessons-learned-from-the-accellion-breaches-da5a9e9e"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Spreading Actively, Launches Phishing Schemes<a href="https://cyware.com/news/trickbot-spreading-actively-launches-phishing-schemes-ba2f050b"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybeats Technologies Acquired by Relay Medical<a href="https://www.infosecurity-magazine.com:443/news/cybeats-technologies-acquired-by/"> Full Text</a>
@@ -258,7 +258,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #IMOS21: How to Better Understand and Secure Modern Data<a href="https://www.infosecurity-magazine.com:443/news/imos21-secure-data/"> Full Text</a>
@@ -274,7 +274,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drug Maker to Pay $50m for Destroying Data<a href="https://www.infosecurity-magazine.com:443/news/drug-maker-to-pay-50m-for/"> Full Text</a>
@@ -290,7 +290,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2021
+March 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers reintroduce legislation to secure internet-connected devices<a href="https://thehill.com//policy/cybersecurity/544711-lawmakers-reintroduce-legislation-to-secure-internet-connected-devices"> Full Text</a>

@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The human impact of a Royal Mail phishing scam<a href="https://blog.malwarebytes.com/scams/2021/03/the-human-impact-of-a-royal-mail-phishing-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam asks recipients to pay a £2.99 GBP fee, but of course the scammers are after much more. To pay the fee, the victim has to enter their personal details, and credit card details.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers tried slurping folks' login details through 70,000 coronavirus-themed phishing URLs during 2020<a href="https://www.theregister.com/2021/03/24/covid_phishing_2020_palo_alto_networks_research/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals exploited the coronavirus pandemic to set up phishing websites that posed as Pfizer, BioNTech and other household-name suppliers of vaccines and PPE, according to Palo Alto Networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phish Leads to Breach at Calif. State Controller — Krebs on Security<a href="https://krebsonsecurity.com/2021/03/phish-leads-to-breach-at-calif-state-controller/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For more than 24 hours starting on the afternoon of March 18, attackers had access to the email records of an employee in its Unclaimed Property Division after the employee got phished.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

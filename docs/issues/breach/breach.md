@@ -11,6 +11,20 @@ nav_order: 900029
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lessons Learned from the Accellion Breaches<a href="https://cyware.com/news/lessons-learned-from-the-accellion-breaches-da5a9e9e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of 2020, Accellion fell victim to a two-phase SQL injection attack, and the following months have been rife with data breach disclosures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Breach at California State Controller's Office<a href="https://www.infosecurity-magazine.com:443/news/breach-at-california-state/"> Full Text</a>
 </p>
 <details>

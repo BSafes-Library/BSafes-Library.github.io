@@ -11,6 +11,20 @@ nav_order: 900072
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: How to Better Understand and Secure Modern Data<a href="https://www.infosecurity-magazine.com:443/news/imos21-secure-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wendy Nather opens Day Two of the Infosecurity Magazine Online Summit
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data breaches and network outages: A real and growing cost for the healthcare industry<a href="https://www.helpnetsecurity.com/2021/03/23/healthcare-breaches-outages/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

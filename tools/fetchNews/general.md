@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breaches and network outages: A real and growing cost for the healthcare industry<a href="https://www.helpnetsecurity.com/2021/03/23/healthcare-breaches-outages/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breaches and network outages are a real and growing cost for the industry: 43% respondents estimated the costs of data breaches would exceed $2 million and 34% said the same for network outages.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tackling cross-site request forgery (CSRF) on company websites<a href="https://www.helpnetsecurity.com/2021/03/23/csrf-on-company-websites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clicking on suspicious links in emails means that an attacker can use CSRF to fake any user-supplied input on a site and make it indistinguishable from a user doing it themselves.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.55 million cyber security incidents in 2019, 2020: Govt tells India's Parliament<a href="https://ciso.economictimes.indiatimes.com/news/15-5-lakh-cyber-security-incidents-in-2019-2020-govt-tells-lok-sabha/81650884?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the information reported to and tracked by the CERT-In, 394,499 and 1,158,208 cyber security incidents were observed during the years 2019 and 2020, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The ‘Frankencloud’ model is our biggest security risk<a href="https://techcrunch.com/2021/03/22/the-frankencloud-model-is-our-biggest-security-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lately, firms scrambled to take advantage of the cloud while maintaining their legacy systems. This led to systems riddled with complexity and disconnected parts put together.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
