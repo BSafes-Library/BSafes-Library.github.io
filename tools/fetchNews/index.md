@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chrome to defaults to HTTPS, as Google looks to improve privacy and loading speeds<a href="https://www.scmagazine.com/home/security-news/chrome-to-defaults-to-https-as-google-looks-to-improve-privacy-and-loading-speeds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome will start using the more secure protocol by default for all URLs typed in the address bar starting April 13.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Offers Up To $30K For Teams Bugs<a href="https://threatpost.com/microsoft-30k-teams-bugs/165037/"> Full Text</a>
 </p>
 <details>
