@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threats and Attacks Looming over macOS<a href="https://cyware.com/news/threats-and-attacks-looming-over-macos-34d72002"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high volume of attacks is actively targeting macOS and other Apple products as, a ccording to a recent report, Mac malware detections  for companies  have increased up to 31%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Facebook took action against China-linked APT targeting Uyghur activists<a href="https://securityaffairs.co/wordpress/115956/apt/facebook-china-apt-uyghur.html"> Full Text</a>
 </p>
 <details>
