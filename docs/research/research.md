@@ -196,6 +196,18 @@ The world of cyber security is evolving every day, and cyber-criminals are tryin
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+April 17, 2020<br>
+• A Copy of a Copy of a Copy: Internet Mimesis and the Copyrightability of Memes [HTML](https://papers.bsafes.com/docs/internet/a-copy-of-a-copy-of-a-copy-internet-mimesis-and-the-copyrightability-of-memes/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Memes have become a staple of Internet culture. They provide a crucial form of cultural interchange by allowing billions to communicate and commiserate about all facets of life through the sharing of amusing and relatable phenomena. However, many memes are created from copyrighted images, making it unclear whether their use constitutes copyright infringement actionable by the original copyright owners. This Note considers memes in the context of U.S. copyright law and proposes that memes could be protected against copyright infringement by the fair use doctrine, which excuses infringement if the would-be infringer’s use is socially desirable and aligned with the basic aims of copyright law. To illustrate this, this Note analyzes the “typical meme” through a thorough examination of the four statutory factors of fair use.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 April 5, 2020  
 • Internet Architecture and Disability [HTML](https://papers.bsafes.com/docs/internet/internet-architecture-and-disability/)
 </p>
