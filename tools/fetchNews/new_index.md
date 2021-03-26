@@ -34,7 +34,123 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI exposes weakness in Mamba ransomware, DiskCryptor<a href="https://www.bleepingcomputer.com/news/security/fbi-exposes-weakness-in-mamba-ransomware-diskcryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alert from the U.S. Federal Bureau of Investigation about Mamba ransomware reveals a weak spot in the encryption process that could help targeted organizations recover from the attack without paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe vulnerabilities patched in Facebook for WordPress Plugin<a href="https://www.zdnet.com/article/severe-vulnerabilities-patched-in-facebook-for-wordpress-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plugin (formerly called Official Facebook Pixel) is used to capture user actions when they visit a page and to monitor site traffic and has been installed on over 500,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 5G Flaw Exposes Priority Networks to Location Tracking and Other Attacks<a href="https://thehackernews.com/2021/03/new-5g-flaw-exposes-priority-networks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research into  5G architecture  has uncovered a security flaw in its network slicing and virtualized network functions that could be exploited to allow data access and denial of service attacks between different network slices on a mobile operator's 5G network.  AdaptiveMobile shared its findings with the GSM Association (GSMA) on February 4, 2021, following which the weaknesses were collectively designated as CVD-2021-0047.  5G is an evolution of current 4G architectures and is based on what's called a service-based architecture (SBA) that provides a modular framework to deploy a set of interconnected network functions, allowing consumers to discover and authorize their access to a plethora of services.  The network functions are also responsible for registering subscribers, managing sessions and subscriber profiles, storing subscriber data, and connecting the users (UE or user equipment) to the internet via a base station (gNB). What's more, each network function of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI published a flash alert on Mamba Ransomware attacks<a href="https://securityaffairs.co/wordpress/115974/malware/fbi-mamba-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) issued an alert to warn that the Mamba ransomware is abusing the DiskCryptor open source tool to encrypt entire drives.
+
+
+
+The Federal Bureau of Investigation (FBI) published an alert to warn that the Mamba ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Charter Firm Solairus Aviation Suffers Data Breach<a href="https://www.securityweek.com/air-charter-firm-solairus-aviation-suffers-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private aviation services provider Solairus Aviation on Tuesday announced that some employee and customer data was compromised in a security incident at third-party vendor Avianis.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI sends out private industry alert about Mamba ransomware<a href="https://therecord.media/fbi-sends-out-private-industry-alert-about-mamba-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigations has sent out this week a private industry notification to US organizations warning about attacks carried out by the Mamba ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical RCE Flaw Discovered in SolarWinds Orion Platform<a href="https://thehackernews.com/2021/03/solarwinds-orion-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT infrastructure management provider SolarWinds on Thursday released a new update to its Orion networking monitoring tool with fixes for four security vulnerabilities, counting two weaknesses that could be exploited by an authenticated attacker to achieve remote code execution (RCE).  Chief among them is a JSON deserialization flaw that allows an authenticated user to execute arbitrary code via the  test alert actions  feature available in the Orion Web Console, which lets users simulate network events (e.g., an unresponsive server) that can be configured to trigger an alert during setup. It has been rated critical in severity.   A second issue concerns a high-risk vulnerability that could be leveraged by an adversary to achieve RCE in the Orion Job Scheduler. "In order to exploit this, an attacker first needs to know the credentials of an unprivileged local account on the Orion Server," SolarWinds  said  in its release notes.  The advisory is light on technical specifics,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Another Big Tech hearing | Cyber Command flexes operations | Trump's social media site in the works<a href="https://thehill.com//policy/technology/overnights/545022-hillicon-valley-another-big-tech-hearing-comes-and-goes-cyber"> Full Text</a>
@@ -50,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Page Shield: Early warning system for malicious scripts<a href="https://www.bleepingcomputer.com/news/security/cloudflare-page-shield-early-warning-system-for-malicious-scripts/"> Full Text</a>
@@ -66,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators urge Energy chief to prioritize cybersecurity amid growing threats<a href="https://thehill.com//policy/cybersecurity/545006-senators-urge-energy-secretary-to-prioritize-cybersecurity-in-face-of"> Full Text</a>
@@ -82,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Project released 1.1.1k version to fix two High-severity flaws<a href="https://securityaffairs.co/wordpress/115968/security/openssl-flaws-2.html"> Full Text</a>
@@ -102,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fleeceware Apps Bank $400M in Revenue<a href="https://threatpost.com/fleeceware-apps-400m-revenue/165040/"> Full Text</a>
@@ -118,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command chief says dozens of cyber operations carried out to defend 2020 elections<a href="https://thehill.com//policy/cybersecurity/544993-cyber-command-chief-says-dozens-of-cyber-operations-carried-out-to"> Full Text</a>
@@ -134,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds chief details changes in the boardroom, build process in wake of hack<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-chief-details-changes-in-the-board-room-build-process-in-wake-of-hack/"> Full Text</a>
@@ -150,7 +266,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome to defaults to HTTPS, as Google looks to improve privacy and loading speeds<a href="https://www.scmagazine.com/home/security-news/chrome-to-defaults-to-https-as-google-looks-to-improve-privacy-and-loading-speeds/"> Full Text</a>
@@ -166,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Offers Up To $30K For Teams Bugs<a href="https://threatpost.com/microsoft-30k-teams-bugs/165037/"> Full Text</a>
@@ -182,7 +298,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New certificate program teaches cloud auditing in a multi-tenant architecture<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certificate-program-teaches-cloud-auditing-in-a-multi-tenant-architecture/"> Full Text</a>
@@ -198,7 +314,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance giant CNA hit by new Phoenix CryptoLocker ransomware<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-hit-by-new-phoenix-cryptolocker-ransomware/"> Full Text</a>
@@ -214,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized Xcode Project Spreads MacOS Malware<a href="https://cyware.com/news/trojanized-xcode-project-spreads-macos-malware-1a2f1982"> Full Text</a>
@@ -230,7 +346,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Activist Denies Facebook Fraud<a href="https://www.infosecurity-magazine.com:443/news/activist-denies-facebook-fraud/"> Full Text</a>
@@ -246,7 +362,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Loss Impacts 40% of SaaS App Users<a href="https://www.infosecurity-magazine.com:443/news/data-loss-impacts-40-of-saas-app/"> Full Text</a>
@@ -262,7 +378,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 62,000 Microsoft Exchange Servers potentially left unpatched, weeks after software bugs were first uncovered<a href="https://securityaffairs.co/wordpress/115965/hacking/microsoft-exchange-servers-unpatched.html"> Full Text</a>
@@ -286,7 +402,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange Attacks - Wild Tornado on Loose<a href="https://cyware.com/news/microsoft-exchange-attacks-wild-tornado-on-loose-e6388051"> Full Text</a>
@@ -302,7 +418,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp switches to Hades ransomware to evade sanctions<a href="https://www.bleepingcomputer.com/news/security/evil-corp-switches-to-hades-ransomware-to-evade-sanctions/"> Full Text</a>
@@ -318,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threats and Attacks Looming over macOS<a href="https://cyware.com/news/threats-and-attacks-looming-over-macos-34d72002"> Full Text</a>
@@ -334,7 +450,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook took action against China-linked APT targeting Uyghur activists<a href="https://securityaffairs.co/wordpress/115956/apt/facebook-china-apt-uyghur.html"> Full Text</a>
@@ -354,7 +470,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manufacturing’s Cloud Migration Opens Door to Major Cyber-Risk<a href="https://threatpost.com/manufacturing-cloud-migration-cyber-risk/165028/"> Full Text</a>
@@ -370,7 +486,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL fixes severe DoS, certificate validation vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/openssl-fixes-severe-dos-certificate-validation-vulnerabilities/"> Full Text</a>
@@ -386,7 +502,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Code Execution Flaw with Cisco Jabber Let Attackers Execute Arbitrary Programs<a href="https://cybersecuritynews.com/cisco-jabber-flaw/"> Full Text</a>
@@ -402,7 +518,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McAfee Partners with College to Help Address Cyber-Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/mcafee-partners-college-cyber/"> Full Text</a>
@@ -418,7 +534,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CNA Suffers “Sophisticated” Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/cna-suffers-sophisticated/"> Full Text</a>
@@ -434,7 +550,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Honeywell Says Malware Disrupted IT Systems<a href="https://www.securityweek.com/honeywell-says-malware-disrupted-it-systems/?&web_view=true"> Full Text</a>
@@ -450,7 +566,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity awareness is too often a part-time effort<a href="https://www.helpnetsecurity.com/2021/03/24/cybersecurity-awareness-effort/?&web_view=true"> Full Text</a>
@@ -466,7 +582,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The surge of fake COVID-19 test results, vaccines and vaccination certificates on the Dark Web<a href="https://securityaffairs.co/wordpress/115943/cyber-crime/covid-19-dark-web.html"> Full Text</a>
@@ -486,7 +602,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ACSC running scans to find vulnerable Microsoft Exchange servers in Australia<a href="https://www.zdnet.com/article/acsc-running-scans-to-find-vulnerable-microsoft-exchange-servers-in-australia/?&web_view=true"> Full Text</a>

@@ -34,6 +34,122 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI exposes weakness in Mamba ransomware, DiskCryptor<a href="https://www.bleepingcomputer.com/news/security/fbi-exposes-weakness-in-mamba-ransomware-diskcryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alert from the U.S. Federal Bureau of Investigation about Mamba ransomware reveals a weak spot in the encryption process that could help targeted organizations recover from the attack without paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe vulnerabilities patched in Facebook for WordPress Plugin<a href="https://www.zdnet.com/article/severe-vulnerabilities-patched-in-facebook-for-wordpress-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plugin (formerly called Official Facebook Pixel) is used to capture user actions when they visit a page and to monitor site traffic and has been installed on over 500,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 5G Flaw Exposes Priority Networks to Location Tracking and Other Attacks<a href="https://thehackernews.com/2021/03/new-5g-flaw-exposes-priority-networks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research into  5G architecture  has uncovered a security flaw in its network slicing and virtualized network functions that could be exploited to allow data access and denial of service attacks between different network slices on a mobile operator's 5G network.  AdaptiveMobile shared its findings with the GSM Association (GSMA) on February 4, 2021, following which the weaknesses were collectively designated as CVD-2021-0047.  5G is an evolution of current 4G architectures and is based on what's called a service-based architecture (SBA) that provides a modular framework to deploy a set of interconnected network functions, allowing consumers to discover and authorize their access to a plethora of services.  The network functions are also responsible for registering subscribers, managing sessions and subscriber profiles, storing subscriber data, and connecting the users (UE or user equipment) to the internet via a base station (gNB). What's more, each network function of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI published a flash alert on Mamba Ransomware attacks<a href="https://securityaffairs.co/wordpress/115974/malware/fbi-mamba-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) issued an alert to warn that the Mamba ransomware is abusing the DiskCryptor open source tool to encrypt entire drives.
+
+
+
+The Federal Bureau of Investigation (FBI) published an alert to warn that the Mamba ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Charter Firm Solairus Aviation Suffers Data Breach<a href="https://www.securityweek.com/air-charter-firm-solairus-aviation-suffers-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private aviation services provider Solairus Aviation on Tuesday announced that some employee and customer data was compromised in a security incident at third-party vendor Avianis.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI sends out private industry alert about Mamba ransomware<a href="https://therecord.media/fbi-sends-out-private-industry-alert-about-mamba-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigations has sent out this week a private industry notification to US organizations warning about attacks carried out by the Mamba ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical RCE Flaw Discovered in SolarWinds Orion Platform<a href="https://thehackernews.com/2021/03/solarwinds-orion-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT infrastructure management provider SolarWinds on Thursday released a new update to its Orion networking monitoring tool with fixes for four security vulnerabilities, counting two weaknesses that could be exploited by an authenticated attacker to achieve remote code execution (RCE).  Chief among them is a JSON deserialization flaw that allows an authenticated user to execute arbitrary code via the  test alert actions  feature available in the Orion Web Console, which lets users simulate network events (e.g., an unresponsive server) that can be configured to trigger an alert during setup. It has been rated critical in severity.   A second issue concerns a high-risk vulnerability that could be leveraged by an adversary to achieve RCE in the Orion Job Scheduler. "In order to exploit this, an attacker first needs to know the credentials of an unprivileged local account on the Orion Server," SolarWinds  said  in its release notes.  The advisory is light on technical specifics,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
