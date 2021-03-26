@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Another Big Tech hearing | Cyber Command flexes operations | Trump's social media site in the works<a href="https://thehill.com//policy/technology/overnights/545022-hillicon-valley-another-big-tech-hearing-comes-and-goes-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEOs of major social media platforms returned for another grilling by Congress Thursday that ended up looking a lot like the last few — although Jack Dorsey apparently Zoomed in from his kitchen. Meanwhile, the nation’s top military cybersecurity leader detailed measures taken to secure the 2020 elections against foreign interference, former President TrumpDonald TrumpThe Hill's Morning Report - Biden tasks Harris on border; news conference today Democrats face questions over agenda Democrats divided on gun control strategy MORE is reportedly in talks to create his own social media network, and lawmakers zeroed in on grid security. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Page Shield: Early warning system for malicious scripts<a href="https://www.bleepingcomputer.com/news/security/cloudflare-page-shield-early-warning-system-for-malicious-scripts/"> Full Text</a>
 </p>
 <details>
