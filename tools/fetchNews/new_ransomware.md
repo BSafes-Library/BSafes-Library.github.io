@@ -8,6 +8,80 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Locker Ransomware Gang Leaks Data from US Military Contractor PDI Group<a href="https://therecord.media/ransomware-gang-leaks-data-from-us-military-contractor-the-pdi-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ohio-based PDI Group, a major supplier of military equipment to the US Air Force and militaries across the globe appears to have fallen victim to a Babuk Locker ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom ransomware foiled through Mega password change<a href="https://searchsecurity.techtarget.com/news/252498444/Black-Kingdom-ransomware-foiled-through-Mega-password-change?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Kingdom ransomware, which was detected in recent ProxyLogon attacks against Microsoft Exchange servers was, at least temporarily, foiled through a simple password change.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI exposes weakness in Mamba ransomware, DiskCryptor<a href="https://www.bleepingcomputer.com/news/security/fbi-exposes-weakness-in-mamba-ransomware-diskcryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alert from the U.S. Federal Bureau of Investigation about Mamba ransomware reveals a weak spot in the encryption process that could help targeted organizations recover from the attack without paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI published a flash alert on Mamba Ransomware attacks<a href="https://securityaffairs.co/wordpress/115974/malware/fbi-mamba-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) issued an alert to warn that the Mamba ransomware is abusing the DiskCryptor open source tool to encrypt entire drives.
+
+
+
+The Federal Bureau of Investigation (FBI) published an alert to warn that the Mamba ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI sends out private industry alert about Mamba ransomware<a href="https://therecord.media/fbi-sends-out-private-industry-alert-about-mamba-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigations has sent out this week a private industry notification to US organizations warning about attacks carried out by the Mamba ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

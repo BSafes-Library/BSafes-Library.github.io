@@ -11,6 +11,76 @@ nav_order: 900072
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Another Big Tech hearing | Cyber Command flexes operations | Trump's social media site in the works<a href="https://thehill.com//policy/technology/overnights/545022-hillicon-valley-another-big-tech-hearing-comes-and-goes-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEOs of major social media platforms returned for another grilling by Congress Thursday that ended up looking a lot like the last few — although Jack Dorsey apparently Zoomed in from his kitchen. Meanwhile, the nation’s top military cybersecurity leader detailed measures taken to secure the 2020 elections against foreign interference, former President TrumpDonald TrumpThe Hill's Morning Report - Biden tasks Harris on border; news conference today Democrats face questions over agenda Democrats divided on gun control strategy MORE is reportedly in talks to create his own social media network, and lawmakers zeroed in on grid security.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activist Denies Facebook Fraud<a href="https://www.infosecurity-magazine.com:443/news/activist-denies-facebook-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sir Maejor Page denies posing as Black Lives Matter leader on Facebook to pocket donations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threats and Attacks Looming over macOS<a href="https://cyware.com/news/threats-and-attacks-looming-over-macos-34d72002"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high volume of attacks is actively targeting macOS and other Apple products as, a ccording to a recent report, Mac malware detections  for companies  have increased up to 31%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing’s Cloud Migration Opens Door to Major Cyber-Risk<a href="https://threatpost.com/manufacturing-cloud-migration-cyber-risk/165028/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research shows that while all sectors are at risk, 70 percent of manufacturing apps have vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity awareness is too often a part-time effort<a href="https://www.helpnetsecurity.com/2021/03/24/cybersecurity-awareness-effort/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 75% of cybersecurity awareness professionals are spending less than half their time on security awareness, implying awareness is too often a part-time effort, according to a SANS report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Rise in Attacks on ICS Computers in Second Half of 2020<a href="https://www.infosecurity-magazine.com:443/news/attacks-ics-computers-rise/"> Full Text</a>
 </p>
 <details>

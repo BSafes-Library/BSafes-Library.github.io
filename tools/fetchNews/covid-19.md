@@ -11,6 +11,24 @@ nav_order: 900030
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The surge of fake COVID-19 test results, vaccines and vaccination certificates on the Dark Web<a href="https://securityaffairs.co/wordpress/115943/cyber-crime/covid-19-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are offering fake COVID-19 test results and vaccination certificates in blackmarkets and hacking forums on the Dark Web.
+
+
+
+While vaccination campaigns go ahead with different speeds in many countries multiple threat actors on the Dark...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Two-Thirds of Large Firms Attacked as #COVID19 Hampers Security<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-large-firms-attacked/"> Full Text</a>
 </p>
 <details>

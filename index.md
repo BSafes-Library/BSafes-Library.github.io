@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds patches critical code execution bug in Orion Platform<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-code-execution-bug-in-orion-platform/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly Half of Popular Android Apps Built With High-Risk Components<a href="https://www.darkreading.com/application-security/nearly-half-of-popular-android-apps-built-with-high-risk-components/d/d-id/1340522?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Security Chief: CEOs Must Get Closer to Their CISOs<a href="https://www.infosecurity-magazine.com:443/news/uk-security-chief-ceos-closer/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solarwinds Orion Platform updates fix two remote code execution issues<a href="https://securityaffairs.co/wordpress/115983/security/solarwinds-updates-rce.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Project released 1.1.1k version to fix two High-severity flaws<a href="https://securityaffairs.co/wordpress/115968/security/openssl-flaws-2.html?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Burned Out Employees Put Corporate Security at Risk<a href="https://www.infosecurity-magazine.com:443/news/burned-out-employees-corporate/"> Full Text</a>
@@ -134,7 +134,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Announces the Android Ready SE Alliance<a href="https://security.googleblog.com/2021/03/announcing-android-ready-se-alliance.html?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Chrome Releases
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patch Facebook for WordPress to Fix Site Takeover Bugs<a href="https://www.infosecurity-magazine.com:443/news/patch-facebook-for-wordpress-site/"> Full Text</a>
@@ -166,7 +166,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Personally Identifiable Information Can Put Your Company at Risk<a href="https://www.darkreading.com/endpoint/how-personally-identifiable-information-can-put-your-company-at-risk/a/d-id/1340449?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hornetsecurity Acquires Zerospam<a href="https://www.finsmes.com/2021/03/hornetsecurity-acquires-zerospam.html?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital Marketing Company Apollo Hit by Breach Impacting 11 Million French Users<a href="https://cybernews.com/security/11-million-records-of-french-users-stolen-from-marketing-platform-and-put-for-sale-online/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exec Order Could Force Software Vendors to Disclose Breaches to Federal Gov't Customers<a href="https://www.darkreading.com/attacks-breaches/exec-order-could-force-software-vendors-to-disclose-breaches-to-federal-govt-customers/d/d-id/1340526?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk Locker Ransomware Gang Leaks Data from US Military Contractor PDI Group<a href="https://therecord.media/ransomware-gang-leaks-data-from-us-military-contractor-the-pdi-group/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 30 Million Americans’ Data from Astoria Company Sold on Dark Web Marketplace<a href="https://securityaffairs.co/wordpress/115934/breaking-news/astoria-company-data-leak.html?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Kingdom ransomware foiled through Mega password change<a href="https://searchsecurity.techtarget.com/news/252498444/Black-Kingdom-ransomware-foiled-through-Mega-password-change?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kroll Acquires Redscan to Expand Cyber-Risk Offering<a href="https://www.infosecurity-magazine.com:443/news/kroll-acquires-redscan/"> Full Text</a>
@@ -294,7 +294,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity startup Morphisec reels in $31M funding round<a href="https://siliconangle.com/2021/03/25/cybersecurity-startup-morphisec-reels-31m-funding-round/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI exposes weakness in Mamba ransomware, DiskCryptor<a href="https://www.bleepingcomputer.com/news/security/fbi-exposes-weakness-in-mamba-ransomware-diskcryptor/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe vulnerabilities patched in Facebook for WordPress Plugin<a href="https://www.zdnet.com/article/severe-vulnerabilities-patched-in-facebook-for-wordpress-plugin/?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 5G Flaw Exposes Priority Networks to Location Tracking and Other Attacks<a href="https://thehackernews.com/2021/03/new-5g-flaw-exposes-priority-networks.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI published a flash alert on Mamba Ransomware attacks<a href="https://securityaffairs.co/wordpress/115974/malware/fbi-mamba-ransomware.html"> Full Text</a>
@@ -378,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air Charter Firm Solairus Aviation Suffers Data Breach<a href="https://www.securityweek.com/air-charter-firm-solairus-aviation-suffers-data-breach?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI sends out private industry alert about Mamba ransomware<a href="https://therecord.media/fbi-sends-out-private-industry-alert-about-mamba-ransomware/?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2021
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Critical RCE Flaw Discovered in SolarWinds Orion Platform<a href="https://thehackernews.com/2021/03/solarwinds-orion-vulnerability.html"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Attacks - Wild Tornado on Loose<a href="https://cyware.com/news/microsoft-exchange-attacks-wild-tornado-on-loose-e6388051"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weeks after the disclosure of the ProxyLogon group of security bugs, exploitation attempts against unpatched Microsoft Exchange servers have skyrocketed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNA Suffers “Sophisticated” Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/cna-suffers-sophisticated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance giant’s website reduced to attack notice following Sunday cyber-strike
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

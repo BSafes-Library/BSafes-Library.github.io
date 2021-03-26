@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Burned Out Employees Put Corporate Security at Risk<a href="https://www.infosecurity-magazine.com:443/news/burned-out-employees-corporate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote workers are making mistakes and using shadow IT
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

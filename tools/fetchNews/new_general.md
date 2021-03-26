@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Security Chief: CEOs Must Get Closer to Their CISOs<a href="https://www.infosecurity-magazine.com:443/news/uk-security-chief-ceos-closer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lindy Cameron to make first speech as NCSC boss today
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Personally Identifiable Information Can Put Your Company at Risk<a href="https://www.darkreading.com/endpoint/how-personally-identifiable-information-can-put-your-company-at-risk/a/d-id/1340449?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PII security has to be a priority all the time — it's not enough to make sure employees are using good password hygiene, avoiding malicious links and attachments in emails, and so on.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,398 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds patches critical code execution bug in Orion Platform<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-code-execution-bug-in-orion-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has released security updates to address four vulnerabilities impacting the company's Orion IT monitoring platform, two o them allowing remote attackers to execute arbitrary code following exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly Half of Popular Android Apps Built With High-Risk Components<a href="https://www.darkreading.com/application-security/nearly-half-of-popular-android-apps-built-with-high-risk-components/d/d-id/1340522?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost all of the most popular Android applications use open source components, but many of those components are outdated and have at least one high-risk vulnerability, as per an analysis by Synopsys.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Security Chief: CEOs Must Get Closer to Their CISOs<a href="https://www.infosecurity-magazine.com:443/news/uk-security-chief-ceos-closer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lindy Cameron to make first speech as NCSC boss today
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solarwinds Orion Platform updates fix two remote code execution issues<a href="https://securityaffairs.co/wordpress/115983/security/solarwinds-updates-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Solarwinds released security updates that address multiple vulnerabilities, including two flaws that be exploited by attackers for remote code execution.
+
+
+
+Solarwinds has released a major security update to address multiple security vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Project released 1.1.1k version to fix two High-severity flaws<a href="https://securityaffairs.co/wordpress/115968/security/openssl-flaws-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue affects servers running OpenSSL 1.1.1 versions with TLS 1.2 and renegotiation enabled, which is the default configuration. The vulnerability was reported by two researchers from Nokia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Burned Out Employees Put Corporate Security at Risk<a href="https://www.infosecurity-magazine.com:443/news/burned-out-employees-corporate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote workers are making mistakes and using shadow IT
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Announces the Android Ready SE Alliance<a href="https://security.googleblog.com/2021/03/announcing-android-ready-se-alliance.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the formation of the Android Ready SE Alliance. SE vendors are joining hands with Google to create a set of open-source, validated, and ready-to-use SE Applets.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Facebook for WordPress to Fix Site Takeover Bugs<a href="https://www.infosecurity-magazine.com:443/news/patch-facebook-for-wordpress-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence reveals new vulnerabilities in popular plugin
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Personally Identifiable Information Can Put Your Company at Risk<a href="https://www.darkreading.com/endpoint/how-personally-identifiable-information-can-put-your-company-at-risk/a/d-id/1340449?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PII security has to be a priority all the time — it's not enough to make sure employees are using good password hygiene, avoiding malicious links and attachments in emails, and so on.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hornetsecurity Acquires Zerospam<a href="https://www.finsmes.com/2021/03/hornetsecurity-acquires-zerospam.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hornetsecurity Group, a Hanover, Germany-based cloud email security provider, acquired Zerospam, a Montreal, Canada-based email protection company, in a bid to extend its presence in North America.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Marketing Company Apollo Hit by Breach Impacting 11 Million French Users<a href="https://cybernews.com/security/11-million-records-of-french-users-stolen-from-marketing-platform-and-put-for-sale-online/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The archive, containing the purportedly stolen data of 10,930,000 France-based users, includes their names, phone numbers, location coordinates, workplace information, social media profiles, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exec Order Could Force Software Vendors to Disclose Breaches to Federal Gov't Customers<a href="https://www.darkreading.com/attacks-breaches/exec-order-could-force-software-vendors-to-disclose-breaches-to-federal-govt-customers/d/d-id/1340526?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In wake of the SolarWinds hack, the White House is prepping an executive order to require software vendors to notify federal government customers if they experience a breach.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Locker Ransomware Gang Leaks Data from US Military Contractor PDI Group<a href="https://therecord.media/ransomware-gang-leaks-data-from-us-military-contractor-the-pdi-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ohio-based PDI Group, a major supplier of military equipment to the US Air Force and militaries across the globe appears to have fallen victim to a Babuk Locker ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+30 Million Americans’ Data from Astoria Company Sold on Dark Web Marketplace<a href="https://securityaffairs.co/wordpress/115934/breaking-news/astoria-company-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Night Lion's analysis revealed the data of 10 million people, including SSNs, bank accounts, and drivers license numbers, and millions more with credit history, medical, and vehicle data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom ransomware foiled through Mega password change<a href="https://searchsecurity.techtarget.com/news/252498444/Black-Kingdom-ransomware-foiled-through-Mega-password-change?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Kingdom ransomware, which was detected in recent ProxyLogon attacks against Microsoft Exchange servers was, at least temporarily, foiled through a simple password change.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroll Acquires Redscan to Expand Cyber-Risk Offering<a href="https://www.infosecurity-magazine.com:443/news/kroll-acquires-redscan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior Redscan execs to stay on as part of the deal
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Morphisec reels in $31M funding round<a href="https://siliconangle.com/2021/03/25/cybersecurity-startup-morphisec-reels-31m-funding-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec Ltd., a cybersecurity startup with offices in the U.S. and Israel, today said that it has nabbed $31 million in Series C funding to support expansion initiatives.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI exposes weakness in Mamba ransomware, DiskCryptor<a href="https://www.bleepingcomputer.com/news/security/fbi-exposes-weakness-in-mamba-ransomware-diskcryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alert from the U.S. Federal Bureau of Investigation about Mamba ransomware reveals a weak spot in the encryption process that could help targeted organizations recover from the attack without paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe vulnerabilities patched in Facebook for WordPress Plugin<a href="https://www.zdnet.com/article/severe-vulnerabilities-patched-in-facebook-for-wordpress-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plugin (formerly called Official Facebook Pixel) is used to capture user actions when they visit a page and to monitor site traffic and has been installed on over 500,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 5G Flaw Exposes Priority Networks to Location Tracking and Other Attacks<a href="https://thehackernews.com/2021/03/new-5g-flaw-exposes-priority-networks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research into  5G architecture  has uncovered a security flaw in its network slicing and virtualized network functions that could be exploited to allow data access and denial of service attacks between different network slices on a mobile operator's 5G network.  AdaptiveMobile shared its findings with the GSM Association (GSMA) on February 4, 2021, following which the weaknesses were collectively designated as CVD-2021-0047.  5G is an evolution of current 4G architectures and is based on what's called a service-based architecture (SBA) that provides a modular framework to deploy a set of interconnected network functions, allowing consumers to discover and authorize their access to a plethora of services.  The network functions are also responsible for registering subscribers, managing sessions and subscriber profiles, storing subscriber data, and connecting the users (UE or user equipment) to the internet via a base station (gNB). What's more, each network function of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI published a flash alert on Mamba Ransomware attacks<a href="https://securityaffairs.co/wordpress/115974/malware/fbi-mamba-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) issued an alert to warn that the Mamba ransomware is abusing the DiskCryptor open source tool to encrypt entire drives.
+
+
+
+The Federal Bureau of Investigation (FBI) published an alert to warn that the Mamba ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Charter Firm Solairus Aviation Suffers Data Breach<a href="https://www.securityweek.com/air-charter-firm-solairus-aviation-suffers-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private aviation services provider Solairus Aviation on Tuesday announced that some employee and customer data was compromised in a security incident at third-party vendor Avianis.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI sends out private industry alert about Mamba ransomware<a href="https://therecord.media/fbi-sends-out-private-industry-alert-about-mamba-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigations has sent out this week a private industry notification to US organizations warning about attacks carried out by the Mamba ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical RCE Flaw Discovered in SolarWinds Orion Platform<a href="https://thehackernews.com/2021/03/solarwinds-orion-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT infrastructure management provider SolarWinds on Thursday released a new update to its Orion networking monitoring tool with fixes for four security vulnerabilities, counting two weaknesses that could be exploited by an authenticated attacker to achieve remote code execution (RCE).  Chief among them is a JSON deserialization flaw that allows an authenticated user to execute arbitrary code via the  test alert actions  feature available in the Orion Web Console, which lets users simulate network events (e.g., an unresponsive server) that can be configured to trigger an alert during setup. It has been rated critical in severity.   A second issue concerns a high-risk vulnerability that could be leveraged by an adversary to achieve RCE in the Orion Job Scheduler. "In order to exploit this, an attacker first needs to know the credentials of an unprivileged local account on the Orion Server," SolarWinds  said  in its release notes.  The advisory is light on technical specifics,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
