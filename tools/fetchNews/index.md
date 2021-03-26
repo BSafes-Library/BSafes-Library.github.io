@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Morphisec reels in $31M funding round<a href="https://siliconangle.com/2021/03/25/cybersecurity-startup-morphisec-reels-31m-funding-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec Ltd., a cybersecurity startup with offices in the U.S. and Israel, today said that it has nabbed $31 million in Series C funding to support expansion initiatives.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI exposes weakness in Mamba ransomware, DiskCryptor<a href="https://www.bleepingcomputer.com/news/security/fbi-exposes-weakness-in-mamba-ransomware-diskcryptor/"> Full Text</a>
 </p>
 <details>
