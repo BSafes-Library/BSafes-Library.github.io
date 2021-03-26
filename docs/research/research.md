@@ -84,6 +84,18 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+November 27, 2020<br>
+• Cybersecurity of Smart Electric Vehicle Charging: A Power Grid Perspective [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-of-smart-electric-vehicle-charging-a-power-grid-perspective/)
+</p>
+<details>
+  <summary>Abstract</summary>
+With the roll-out of electric vehicles (EVs), the automobile industry is transitioning away from conventional gasoline-fueled vehicles. As a result, the EV charging demand is continuously growing and to meet this growing demand, various types of electric vehicle charging stations (EVCSs) are being deployed for commercial and residential use. This nexus of EVs, EVCSs, and power grids creates complex cyber-physical interdependencies that can be maliciously exploited to damage each of these components. This paper describes and analyzes cyber vulnerabilities that arise at this nexus and points to the current and emerging gaps in the security of the EV charging ecosystem. These vulnerabilities must be addressed as the number of EVs continue to grow worldwide and their impact on the power grid becomes more viable. The purpose of this paper is to list and characterize all backdoors that can be exploited to seriously harm either EV and EVCS equipments, or power grid, or both. The presented issues and challenges intend to ignite research efforts on cybersecurity of smart EV charging and enhancing power grid resiliency against such demand-side cyberattacks in general.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 November 23, 2020<br> 
 • The Internet Never Forgets: A Federal Solution to the Dissemination of Nonconsensual Pornography [HTML](https://papers.bsafes.com/docs/law/the-internet-never-forgets-a-federal-solution-to-the-dissemination-of-nonconsensual-pornography/)
 </p>
