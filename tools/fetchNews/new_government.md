@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators urge Energy chief to prioritize cybersecurity amid growing threats<a href="https://thehill.com//policy/cybersecurity/545006-senators-urge-energy-secretary-to-prioritize-cybersecurity-in-face-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan leaders of the Senate Energy and Natural Resources Committee on Thursday urged Energy Secretary Jennifer Granholm to prioritize cybersecurity and maintain leadership for the agency’s key cybersecurity office in the face of growing threats to the power grid.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command chief says dozens of cyber operations carried out to defend 2020 elections<a href="https://thehill.com//policy/cybersecurity/544993-cyber-command-chief-says-dozens-of-cyber-operations-carried-out-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s top military cybersecurity leader said Thursday that U.S. Cyber Command conducted dozens of operations ahead of the 2020 elections aimed at securing voting against foreign interference.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

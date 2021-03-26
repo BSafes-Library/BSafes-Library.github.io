@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DDoS Attack Vector Discovered in DCCP Protocol<a href="https://cybersecuritynews.com/new-ddos-attack-vector-discovered-in-dccp-protocol/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Akamai Technologies, Inc. is a global content delivery network, cybersecurity, and cloud service company, providing web and Internet security services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

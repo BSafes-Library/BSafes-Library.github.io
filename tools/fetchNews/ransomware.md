@@ -8,6 +8,62 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Can Now Reboot Infected Devices<a href="https://www.govinfosecurity.com/revil-ransomware-now-reboot-infected-devices-a-16259?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has added a new malware capability that enables the attackers to reboot an infected device after encryption, security researchers at MalwareHunterTeam report.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom Ransomware Hunting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/03/black-kingdom-ransomware-hunting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a week after Microsoft released a&nbsp; one-click mitigation tool &nbsp;to mitigate cyberattacks targeting on-premises Exchange servers, the company&nbsp; disclosed &nbsp;that patches have been applied to 92% of all internet-facing servers affected by the ProxyLogon vulnerabilities.  The development, a 43% improvement from the previous week, caps off a whirlwind of espionage and malware campaigns that hit thousands of companies worldwide, with as many as 10 advanced persistent threat (APT) groups opportunistically moving quickly to exploit the bugs.  According to telemetry data from RiskIQ, there are roughly 29,966 instances of Microsoft Exchange servers still exposed to attacks, down from 92,072 on March 10.   While Exchange servers were under assault by multiple Chinese-linked state-sponsored hacking groups prior to&nbsp; Microsoft's patch &nbsp;on March 2, the release of&nbsp; public proof-of-concept &nbsp;exploits fanned a feeding frenzy of infections, opening the door for escalating attacks like ransomwar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal advisories detail bitcoin payments to ransomware gangs, urgency of threat<a href="https://www.cyberscoop.com/is-paying-ransomware-legal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware victims paid attackers at least $144.35 million in bitcoin between 2013 and 2019, according to a recent FBI bulletin that likely fails to account for millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Paid Just Before Netwalker Gang Disrupted<a href="https://www.govinfosecurity.com/ransom-paid-just-before-netwalker-gang-disrupted-a-16264?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A third-party claims administrator of health and social services programs for the elderly paid a ransom to Netwalker attackers about a month before law enforcement disrupted the gang in January.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

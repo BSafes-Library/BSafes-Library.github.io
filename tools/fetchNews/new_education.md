@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New certificate program teaches cloud auditing in a multi-tenant architecture<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certificate-program-teaches-cloud-auditing-in-a-multi-tenant-architecture/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certificate fills a gap in the knowledge-based training market, as auditing hosted cloud services differs from traditional IT audit.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

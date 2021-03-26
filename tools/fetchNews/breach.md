@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+30 million Americans affected by the Astoria Company data breach<a href="https://securityaffairs.co/wordpress/115934/breaking-news/astoria-company-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered the availability in the DarK Web of 30M of records of Americans affected by the Astoria Company data breach
+
+
+
+Astoria Company LLC is a lead generation company that leverages on a network of websites to collect information on a person...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackBlaze mistakenly shared backup metadata with Facebook<a href="https://www.bleepingcomputer.com/news/security/backblaze-mistakenly-shared-backup-metadata-with-facebook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backblaze&nbsp;has removed&nbsp;Facebook tracking code (also known as an advertising pixel) accidentally added to web UI pages only accessible to logged-in customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FatFace Faces Customer Anger After Controversial Breach Response<a href="https://www.infosecurity-magazine.com:443/news/fatface-faces-customer-anger/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retailer urges those affected to keep it quiet
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

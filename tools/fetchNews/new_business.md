@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fleeceware Apps Bank $400M in Revenue<a href="https://threatpost.com/fleeceware-apps-400m-revenue/165040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cache of apps, found in Apple and Google’s official marketplaces is largely targeted towards children, including several “slime simulators.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds chief details changes in the boardroom, build process in wake of hack<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-chief-details-changes-in-the-board-room-build-process-in-wake-of-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chief executive Sudhakar Ramakrishna described the work they’re doing as an “experiment” and said he has had conversations with CISA and the Cyberspace Solarium Commission about whether it could serve as a model for other businesses.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Partners with College to Help Address Cyber-Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/mcafee-partners-college-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration is designed to encourage more young people to pursue careers in cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

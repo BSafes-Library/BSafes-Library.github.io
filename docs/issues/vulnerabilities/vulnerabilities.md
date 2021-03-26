@@ -11,6 +11,88 @@ nav_order: 900220
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Project released 1.1.1k version to fix two High-severity flaws<a href="https://securityaffairs.co/wordpress/115968/security/openssl-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project addresses two high-severity vulnerabilities, including one related to verifying a certificate chain and one that can trigger a DoS condition.
+
+
+
+The OpenSSL Project this week released version 1.1.1k to address two high-severity vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Offers Up To $30K For Teams Bugs<a href="https://threatpost.com/microsoft-30k-teams-bugs/165037/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug-bounty program launched for the Teams desktop videoconferencing and collaboration application has big payouts for finding security holes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+62,000 Microsoft Exchange Servers potentially left unpatched, weeks after software bugs were first uncovered<a href="https://securityaffairs.co/wordpress/115965/hacking/microsoft-exchange-servers-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CyberNews investigation team found 62,174 potentially vulnerable unpatched Microsoft Exchange Servers.
+
+
+
+A number of entities in the US and worldwide remain vulnerable to software bugs that were reported by Microsoft weeks ago. 
+
+
+
+The CyberNews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Code Execution Flaw with Cisco Jabber Let Attackers Execute Arbitrary Programs<a href="https://cybersecuritynews.com/cisco-jabber-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cisco released software updates to address multiple vulnerabilities affecting its Jabber messaging clients across Windows, macOS, Android, and iOS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACSC running scans to find vulnerable Microsoft Exchange servers in Australia<a href="https://www.zdnet.com/article/acsc-running-scans-to-find-vulnerable-microsoft-exchange-servers-in-australia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Head of the Australian Cyber Security Centre (ACSC) Abigail Bradshaw has told senators "10s of organizations" have so far reached out to her agency regarding vulnerable Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of ongoing brute-force attacks against NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ongoing-brute-force-attacks-against-nas-devices/"> Full Text</a>
 </p>
 <details>

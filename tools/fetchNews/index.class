@@ -34,6 +34,474 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Another Big Tech hearing | Cyber Command flexes operations | Trump's social media site in the works<a href="https://thehill.com//policy/technology/overnights/545022-hillicon-valley-another-big-tech-hearing-comes-and-goes-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEOs of major social media platforms returned for another grilling by Congress Thursday that ended up looking a lot like the last few — although Jack Dorsey apparently Zoomed in from his kitchen. Meanwhile, the nation’s top military cybersecurity leader detailed measures taken to secure the 2020 elections against foreign interference, former President TrumpDonald TrumpThe Hill's Morning Report - Biden tasks Harris on border; news conference today Democrats face questions over agenda Democrats divided on gun control strategy MORE is reportedly in talks to create his own social media network, and lawmakers zeroed in on grid security. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Page Shield: Early warning system for malicious scripts<a href="https://www.bleepingcomputer.com/news/security/cloudflare-page-shield-early-warning-system-for-malicious-scripts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has released a new feature that aims to protect websites from Magecart and other malicious JavaScript-based attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators urge Energy chief to prioritize cybersecurity amid growing threats<a href="https://thehill.com//policy/cybersecurity/545006-senators-urge-energy-secretary-to-prioritize-cybersecurity-in-face-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan leaders of the Senate Energy and Natural Resources Committee on Thursday urged Energy Secretary Jennifer Granholm to prioritize cybersecurity and maintain leadership for the agency’s key cybersecurity office in the face of growing threats to the power grid.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Project released 1.1.1k version to fix two High-severity flaws<a href="https://securityaffairs.co/wordpress/115968/security/openssl-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project addresses two high-severity vulnerabilities, including one related to verifying a certificate chain and one that can trigger a DoS condition.
+
+
+
+The OpenSSL Project this week released version 1.1.1k to address two high-severity vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fleeceware Apps Bank $400M in Revenue<a href="https://threatpost.com/fleeceware-apps-400m-revenue/165040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cache of apps, found in Apple and Google’s official marketplaces is largely targeted towards children, including several “slime simulators.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command chief says dozens of cyber operations carried out to defend 2020 elections<a href="https://thehill.com//policy/cybersecurity/544993-cyber-command-chief-says-dozens-of-cyber-operations-carried-out-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s top military cybersecurity leader said Thursday that U.S. Cyber Command conducted dozens of operations ahead of the 2020 elections aimed at securing voting against foreign interference.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds chief details changes in the boardroom, build process in wake of hack<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-chief-details-changes-in-the-board-room-build-process-in-wake-of-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chief executive Sudhakar Ramakrishna described the work they’re doing as an “experiment” and said he has had conversations with CISA and the Cyberspace Solarium Commission about whether it could serve as a model for other businesses.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome to defaults to HTTPS, as Google looks to improve privacy and loading speeds<a href="https://www.scmagazine.com/home/security-news/chrome-to-defaults-to-https-as-google-looks-to-improve-privacy-and-loading-speeds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome will start using the more secure protocol by default for all URLs typed in the address bar starting April 13.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Offers Up To $30K For Teams Bugs<a href="https://threatpost.com/microsoft-30k-teams-bugs/165037/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug-bounty program launched for the Teams desktop videoconferencing and collaboration application has big payouts for finding security holes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New certificate program teaches cloud auditing in a multi-tenant architecture<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certificate-program-teaches-cloud-auditing-in-a-multi-tenant-architecture/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certificate fills a gap in the knowledge-based training market, as auditing hosted cloud services differs from traditional IT audit.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA hit by new Phoenix CryptoLocker ransomware<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-hit-by-new-phoenix-cryptolocker-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance giant CNA has suffered a ransomware attack using a new variant called Phoenix CryptoLocker that is possibly linked to the Evil Corp hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized Xcode Project Spreads MacOS Malware<a href="https://cyware.com/news/trojanized-xcode-project-spreads-macos-malware-1a2f1982"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat identified as XcodeSpy has emerged to target macOS users. The malware spies on Mac users of Xcode IDE by delivering the EggShell backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activist Denies Facebook Fraud<a href="https://www.infosecurity-magazine.com:443/news/activist-denies-facebook-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sir Maejor Page denies posing as Black Lives Matter leader on Facebook to pocket donations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Loss Impacts 40% of SaaS App Users<a href="https://www.infosecurity-magazine.com:443/news/data-loss-impacts-40-of-saas-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Survey of SaaS users finds 40% have lost data stored in online tools
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+62,000 Microsoft Exchange Servers potentially left unpatched, weeks after software bugs were first uncovered<a href="https://securityaffairs.co/wordpress/115965/hacking/microsoft-exchange-servers-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CyberNews investigation team found 62,174 potentially vulnerable unpatched Microsoft Exchange Servers.
+
+
+
+A number of entities in the US and worldwide remain vulnerable to software bugs that were reported by Microsoft weeks ago. 
+
+
+
+The CyberNews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Attacks - Wild Tornado on Loose<a href="https://cyware.com/news/microsoft-exchange-attacks-wild-tornado-on-loose-e6388051"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weeks after the disclosure of the ProxyLogon group of security bugs, exploitation attempts against unpatched Microsoft Exchange servers have skyrocketed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp switches to Hades ransomware to evade sanctions<a href="https://www.bleepingcomputer.com/news/security/evil-corp-switches-to-hades-ransomware-to-evade-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hades ransomware has been linked to the Evil Corp cybercrime gang who uses it to evade sanctions imposed by the Treasury Department's Office of Foreign Assets Control (OFAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threats and Attacks Looming over macOS<a href="https://cyware.com/news/threats-and-attacks-looming-over-macos-34d72002"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high volume of attacks is actively targeting macOS and other Apple products as, a ccording to a recent report, Mac malware detections  for companies  have increased up to 31%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook took action against China-linked APT targeting Uyghur activists<a href="https://securityaffairs.co/wordpress/115956/apt/facebook-china-apt-uyghur.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has closed accounts used by a China-linked APT to distribute malware to spy on Uyghurs activists, journalists, and dissidents living outside China.
+
+
+
+Facebook has taken action against a series of accounts used by a China-linked cyber-espionage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing’s Cloud Migration Opens Door to Major Cyber-Risk<a href="https://threatpost.com/manufacturing-cloud-migration-cyber-risk/165028/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research shows that while all sectors are at risk, 70 percent of manufacturing apps have vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL fixes severe DoS, certificate validation vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/openssl-fixes-severe-dos-certificate-validation-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL has patched two high severity vulnerabilities. These include a Denial of Service (DoS) vulnerability (CVE-2021-3449) and an improper CA certificate validation issue (CVE-2021-3450).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Code Execution Flaw with Cisco Jabber Let Attackers Execute Arbitrary Programs<a href="https://cybersecuritynews.com/cisco-jabber-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cisco released software updates to address multiple vulnerabilities affecting its Jabber messaging clients across Windows, macOS, Android, and iOS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Partners with College to Help Address Cyber-Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/mcafee-partners-college-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration is designed to encourage more young people to pursue careers in cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNA Suffers “Sophisticated” Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/cna-suffers-sophisticated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance giant’s website reduced to attack notice following Sunday cyber-strike
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honeywell Says Malware Disrupted IT Systems<a href="https://www.securityweek.com/honeywell-says-malware-disrupted-it-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said the intrusion was detected “recently” and only a “limited number” of IT systems were disrupted. No other information has been provided regarding the impact.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity awareness is too often a part-time effort<a href="https://www.helpnetsecurity.com/2021/03/24/cybersecurity-awareness-effort/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 75% of cybersecurity awareness professionals are spending less than half their time on security awareness, implying awareness is too often a part-time effort, according to a SANS report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The surge of fake COVID-19 test results, vaccines and vaccination certificates on the Dark Web<a href="https://securityaffairs.co/wordpress/115943/cyber-crime/covid-19-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are offering fake COVID-19 test results and vaccination certificates in blackmarkets and hacking forums on the Dark Web.
+
+
+
+While vaccination campaigns go ahead with different speeds in many countries multiple threat actors on the Dark...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACSC running scans to find vulnerable Microsoft Exchange servers in Australia<a href="https://www.zdnet.com/article/acsc-running-scans-to-find-vulnerable-microsoft-exchange-servers-in-australia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Head of the Australian Cyber Security Centre (ACSC) Abigail Bradshaw has told senators "10s of organizations" have so far reached out to her agency regarding vulnerable Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

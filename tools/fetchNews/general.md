@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise in Attacks on ICS Computers in Second Half of 2020<a href="https://www.infosecurity-magazine.com:443/news/attacks-ics-computers-rise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19 lockdowns may have led to a rise in attacks on ICS computers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcing Self-Service Password Reset (SSPR) Registration to Increase ROI<a href="https://thehackernews.com/2021/03/forcing-self-service-password-reset.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When your organization invests in a new product or service, it is essential that you take advantage of all the features it has to offer. This will help you to maximize your return on investment (ROI). If you have purchased or are thinking about purchasing a self-service password reset (SSPR) tool, one of the most important things you will need to do is make sure that 100% of users are registered to use it.&nbsp;  If you leave user enrollment optional, many people will delay registration, or decide not to use it at all. This often happens because people think that they will not ever be locked out of their account, or that it is fast and easy to contact the help desk if they do. While your help desk may be able to provide great support to your users, it comes at a significant cost. According to one study from Forrester Research, every password reset that the help desk performs costs&nbsp; approximately $70 . With that price, it is easy to see that every user who isn't enrolled in uReset is a majo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of UK Firms Suffer Cyber-Skills Gaps<a href="https://www.infosecurity-magazine.com:443/news/half-of-uk-firms-suffer-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CIISec calls for overhaul to recruiment process
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House lawmakers fired up for hearing with tech CEOs | Zuckerberg proposes conditional Section 230 reforms | Lawmakers reintroduce bill to secure internet-connected devices<a href="https://thehill.com//policy/technology/overnights/544817-hillicon-valley-house-lawmakers-fired-up-for-hearing-with-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today: The CEOs of major social media platforms are gearing up to testify before a House committee tomorrow on misinformation around COVID-19 and the recent Capitol riot. Meanwhile, a group of 12 state attorneys general are pressuring Facebook and Twitter to tackle COVID-19 vaccine misinformation, and two lawmakers reintroduced legislation aimed at making internet-connected devices safer for the consumer.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Policyholders may be the primary target in hack of cyber insurance provider CNA<a href="https://www.scmagazine.com/home/security-news/ransomware/policyholders-may-be-the-primary-target-in-hack-of-cyber-insurance-provider-cna/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the words of one expert: “The theft of customer policies is the Sword of Damocles that has been hanging over the cyber insurance industry since its inception.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing the great return: What CISOs should consider when reopening the office<a href="https://www.scmagazine.com/home/security-news/network-security/managing-the-great-return-what-cisos-should-consider-when-reopening-the-office/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the COVID-19 vaccine rollout, many companies will welcome back employees. But that return will mean laptops that have been off-network for a year, workspaces and equipment left unattended for months, and the need to acclimate employees back into an office environment. All considered, security will be at an inflection point.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

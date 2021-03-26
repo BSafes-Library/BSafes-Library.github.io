@@ -11,6 +11,34 @@ nav_order: 900195
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Page Shield: Early warning system for malicious scripts<a href="https://www.bleepingcomputer.com/news/security/cloudflare-page-shield-early-warning-system-for-malicious-scripts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has released a new feature that aims to protect websites from Magecart and other malicious JavaScript-based attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome to defaults to HTTPS, as Google looks to improve privacy and loading speeds<a href="https://www.scmagazine.com/home/security-news/chrome-to-defaults-to-https-as-google-looks-to-improve-privacy-and-loading-speeds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome will start using the more secure protocol by default for all URLs typed in the address bar starting April 13.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Launches zero-trust Tool Designed to Help Protect Remote Employees from Cyberattacks<a href="https://cybersecuritynews.com/cloudflare-zero-trust-tool/"> Full Text</a>
 </p>
 <details>

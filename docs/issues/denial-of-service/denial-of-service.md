@@ -11,6 +11,20 @@ nav_order: 900042
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL fixes severe DoS, certificate validation vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/openssl-fixes-severe-dos-certificate-validation-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL has patched two high severity vulnerabilities. These include a Denial of Service (DoS) vulnerability (CVE-2021-3449) and an improper&nbsp;CA&nbsp;certificate validation issue (CVE-2021-3450).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New DDoS Attack Vector Discovered in DCCP Protocol<a href="https://cybersecuritynews.com/new-ddos-attack-vector-discovered-in-dccp-protocol/"> Full Text</a>
 </p>
 <details>

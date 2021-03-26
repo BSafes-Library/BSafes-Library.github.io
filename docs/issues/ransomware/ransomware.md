@@ -11,6 +11,34 @@ nav_order: 900180
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA hit by new Phoenix CryptoLocker ransomware<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-hit-by-new-phoenix-cryptolocker-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance giant CNA has suffered a ransomware attack using a new variant called Phoenix CryptoLocker that is possibly linked to the Evil Corp hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp switches to Hades ransomware to evade sanctions<a href="https://www.bleepingcomputer.com/news/security/evil-corp-switches-to-hades-ransomware-to-evade-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hades ransomware has been linked to the Evil Corp cybercrime gang who uses it to evade sanctions imposed by the Treasury Department's Office of Foreign Assets Control (OFAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Can Now Reboot Infected Devices<a href="https://www.govinfosecurity.com/revil-ransomware-now-reboot-infected-devices-a-16259?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
