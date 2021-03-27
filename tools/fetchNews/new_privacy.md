@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! That Android System Update May Contain A Powerful Spyware<a href="https://thehackernews.com/2021/03/watch-out-that-android-system-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a new information-stealing trojan, which targets Android devices with an onslaught of data-exfiltration capabilities — from collecting browser searches to recording audio and phone calls.  While malware on Android has previously taken the guise of copycat apps, which go under names similar to legitimate pieces of software, this sophisticated new malicious app masquerades itself as a System Update application to take control of compromised devices.  "The spyware creates a notification if the device's screen is off when it receives a command using the Firebase messaging service," Zimperium researchers&nbsp; said &nbsp;in a Friday analysis. "The 'Searching for update..' is not a legitimate notification from the operating system, but the spyware."   Once installed, the sophisticated spyware campaign sets about its task by registering the device with a Firebase command-and-control (C2) server with information such as battery percentage, sto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

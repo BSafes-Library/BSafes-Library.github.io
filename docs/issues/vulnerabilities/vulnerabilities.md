@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released out-of-band updates for a new Zero‑Day actively exploited<a href="https://securityaffairs.co/wordpress/116007/security/apple-zero%e2%80%91day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released new out-of-band updates for iOS, iPadOS, macOS and watchOS to address another zero‑day flaw, tracked CVE-2021-1879, actively exploited.
+
+
+
+Apple has released a new set of out-of-band patches for iOS, iPadOS, macOS and watchOS to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Patch Update for Another Zero‑Day Under Attack<a href="https://thehackernews.com/2021/03/apple-issues-urgent-patch-update-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Merely weeks after releasing out-of-band patches for iOS, iPadOS, macOS and watchOS, Apple has issued yet another security update for iPhone, iPad, and Apple Watch to fix a critical zero-day weakness that it says is being actively exploited in the wild.  Tracked as CVE-2021-1879 , the vulnerability relates to a WebKit flaw that could enable adversaries to process maliciously crafted web content that may result in universal cross-site scripting attacks.  "This issue was addressed by improved management of object lifetimes," the iPhone maker noted.  Apple has credited Clement Lecigne and Billy Leonard of Google's Threat Analysis Group for discovering and reporting the issue. While details of the flaw have not been disclosed, the company said it's aware of reports that CVE-2021-1879 may have been actively exploited.   Updates are available for the following devices:   iOS 12.5.2 &nbsp;- Phone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes a iOS zero-day vulnerability actively used in attacks<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-a-ios-zero-day-vulnerability-actively-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates today to address an iOS zero-day bug actively exploited in the wild and&nbsp;affecting iPhone, iPad, iPod, and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

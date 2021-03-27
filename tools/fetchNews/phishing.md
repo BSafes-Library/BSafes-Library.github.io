@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phished Healthcare Provider Takes Legal Action Against Amazon<a href="https://www.infosecurity-magazine.com:443/news/saluscare-takes-legal-action/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SalusCare turns to the law after Amazon denies request to view storage buckets allegedly housing healthcare provider’s stolen data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

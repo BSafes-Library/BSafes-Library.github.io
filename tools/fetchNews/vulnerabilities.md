@@ -11,6 +11,76 @@ nav_order: 900220
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Releases Patches for 2 High-Severity Security Vulnerabilities<a href="https://thehackernews.com/2021/03/openssl-releases-patches-for-2-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of OpenSSL have released a fix for two high-severity security flaws in its software that could be exploited to carry out denial-of-service (DoS) attacks and bypass certificate verification.  Tracked as CVE-2021-3449  and CVE-2021-3450 , both the&nbsp; vulnerabilities &nbsp;have been resolved in an update (version OpenSSL 1.1.1k) released on Thursday. While CVE-2021-3449 affects all OpenSSL 1.1.1 versions, CVE-2021-3450 impacts OpenSSL versions 1.1.1h and newer.  OpenSSL is a software library consisting of cryptographic functions that implement the Transport Layer Security protocol with the goal of securing communications sent over a computer network.   According to an advisory published by OpenSSL, CVE-2021-3449 concerns a potential DoS vulnerability arising due to NULL pointer dereferencing that can cause an OpenSSL TLS server to crash if in the course of renegotiation the client transmits a malicious "ClientHello" message during the&nbsp; handshake &nbsp;between the server and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New, critical vulnerability discovered that could let attackers gain entry to SolarWinds systems<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-critical-vulnerability-discovered-that-could-let-attackers-gain-entry-to-solarwinds-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While not great news for SolarWinds, it’s also not surprising, say researchers, considering that the software has been under the spotlight for months.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies don’t bother to patch. Should MSPs cut them out of decision process?<a href="https://www.scmagazine.com/home/patch-management/companies-dont-bother-to-patch-should-msps-cut-them-out-of-decision-process/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies continue to be exploited via Microsoft Exchange vulnerabilities due to inaction.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes iOS zero-day vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-ios-zero-day-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates today to address an iOS zero-day bug actively exploited in the wild and&nbsp;affecting iPhone, iPad, iPod, and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Can Allow Attackers to Remotely Gain Control of Weintek HMIs<a href="https://www.securityweek.com/vulnerabilities-can-allow-attackers-remotely-gain-control-weintek-hmis?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity researcher who specializes in industrial control systems (ICS) has identified three types of critical vulnerabilities in products made by human-machine interface (HMI) manufacturer Weintek.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds patches critical code execution bug in Orion Platform<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-code-execution-bug-in-orion-platform/"> Full Text</a>
 </p>
 <details>
