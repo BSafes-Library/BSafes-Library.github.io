@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warner presses Zuckerberg to tackle vaccine misinformation on Facebook, Instagram<a href="https://thehill.com//policy/cybersecurity/545165-warner-presses-zuckerberg-to-tackle-vaccine-misinformation-on-facebook"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Intelligence Committee Chairman Mark Warner (D-Va.) on Friday pressed Facebook to do more to combat the spread of COVID-19 vaccine misinformation on both its platform and Instagram.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

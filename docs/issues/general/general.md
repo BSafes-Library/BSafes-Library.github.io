@@ -11,6 +11,34 @@ nav_order: 900072
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler claims it alerted FBI to threats before Capitol riot | Warner presses Zuckerberg to tackle vaccine misinfo on Facebook, Instagram | U.S. schools increasingly resuming in-person learning<a href="https://thehill.com//policy/technology/overnights/545174-hillicon-valley-parler-claims-it-alerted-fbi-to-threats-before"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platform Parler revealed that it flagged concerning material for the FBI ahead of the January 6 U.S. Capitol riot. Meanwhile, a leading senator expressed serious concerns around Facebook’s handling of COVID-19 vaccine misinformation on both Facebook and Instagram, and new data shows schools are increasingly moving back into in-person learning.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise Cybersecurity Measurement<a href="https://www.lawfareblog.com/enterprise-cybersecurity-measurement"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprises can manage, mitigate and monitor their cyber risks by mapping threats and adversary tactics, techniques and procedures to known vulnerabilities. Ultimately, the goal is to have a scalable, reproducible metric for risk.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK Security Chief: CEOs Must Get Closer to Their CISOs<a href="https://www.infosecurity-magazine.com:443/news/uk-security-chief-ceos-closer/"> Full Text</a>
 </p>
 <details>

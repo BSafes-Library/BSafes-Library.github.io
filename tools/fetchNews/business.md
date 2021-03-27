@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Announces the Android Ready SE Alliance<a href="https://security.googleblog.com/2021/03/announcing-android-ready-se-alliance.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the formation of the Android Ready SE Alliance. SE vendors are joining hands with Google to create a set of open-source, validated, and ready-to-use SE Applets.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hornetsecurity Acquires Zerospam<a href="https://www.finsmes.com/2021/03/hornetsecurity-acquires-zerospam.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hornetsecurity Group, a Hanover, Germany-based cloud email security provider, acquired Zerospam, a Montreal, Canada-based email protection company, in a bid to extend its presence in North America.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroll Acquires Redscan to Expand Cyber-Risk Offering<a href="https://www.infosecurity-magazine.com:443/news/kroll-acquires-redscan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior Redscan execs to stay on as part of the deal
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Morphisec reels in $31M funding round<a href="https://siliconangle.com/2021/03/25/cybersecurity-startup-morphisec-reels-31m-funding-round/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec Ltd., a cybersecurity startup with offices in the U.S. and Israel, today said that it has nabbed $31 million in Series C funding to support expansion initiatives.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese Group Exploiting Microsoft Exchange Servers<a href="https://www.recordedfuture.com/chinese-group-calypso-exploiting-microsoft-exchange/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beginning on March 1, 2021, Recorded Future’s Insikt Group identified a large increase in victim communications to PlugX command and control (C2) infrastructure publicly attributed to the suspected Chinese state-sponsored group Calypso APT.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

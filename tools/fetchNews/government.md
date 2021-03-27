@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exec Order Could Force Software Vendors to Disclose Breaches to Federal Gov't Customers<a href="https://www.darkreading.com/attacks-breaches/exec-order-could-force-software-vendors-to-disclose-breaches-to-federal-govt-customers/d/d-id/1340526?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In wake of the SolarWinds hack, the White House is prepping an executive order to require software vendors to notify federal government customers if they experience a breach.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds patches critical code execution bug in Orion Platform<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-code-execution-bug-in-orion-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has released security updates to address four vulnerabilities impacting&nbsp;the company's Orion&nbsp;IT monitoring platform, two o them allowing remote attackers to execute arbitrary code following exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly Half of Popular Android Apps Built With High-Risk Components<a href="https://www.darkreading.com/application-security/nearly-half-of-popular-android-apps-built-with-high-risk-components/d/d-id/1340522?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost all of the most popular Android applications use open source components, but many of those components are outdated and have at least one high-risk vulnerability, as per an analysis by Synopsys.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solarwinds Orion Platform updates fix two remote code execution issues<a href="https://securityaffairs.co/wordpress/115983/security/solarwinds-updates-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Solarwinds released security updates that address multiple vulnerabilities, including two flaws that be exploited by attackers for remote code execution.
+
+
+
+Solarwinds has released a major security update to address multiple security vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Facebook for WordPress to Fix Site Takeover Bugs<a href="https://www.infosecurity-magazine.com:443/news/patch-facebook-for-wordpress-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence reveals new vulnerabilities in popular plugin
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe vulnerabilities patched in Facebook for WordPress Plugin<a href="https://www.zdnet.com/article/severe-vulnerabilities-patched-in-facebook-for-wordpress-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plugin (formerly called Official Facebook Pixel) is used to capture user actions when they visit a page and to monitor site traffic and has been installed on over 500,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 5G Flaw Exposes Priority Networks to Location Tracking and Other Attacks<a href="https://thehackernews.com/2021/03/new-5g-flaw-exposes-priority-networks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research into&nbsp; 5G architecture &nbsp;has uncovered a security flaw in its network slicing and virtualized network functions that could be exploited to allow data access and denial of service attacks between different network slices on a mobile operator's 5G network.  AdaptiveMobile shared its findings with the GSM Association (GSMA) on February 4, 2021, following which the weaknesses were collectively designated as CVD-2021-0047.  5G is an evolution of current 4G architectures and is based on what's called a service-based architecture (SBA) that provides a modular framework to deploy a set of interconnected network functions, allowing consumers to discover and authorize their access to a plethora of services.  The network functions are also responsible for registering subscribers, managing sessions and subscriber profiles, storing subscriber data, and connecting the users (UE or user equipment) to the internet via a base station (gNB). What's more, each network function of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical RCE Flaw Discovered in SolarWinds Orion Platform<a href="https://thehackernews.com/2021/03/solarwinds-orion-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT infrastructure management provider SolarWinds on Thursday released a new update to its Orion networking monitoring tool with fixes for four security vulnerabilities, counting two weaknesses that could be exploited by an authenticated attacker to achieve remote code execution (RCE).  Chief among them is a JSON deserialization flaw that allows an authenticated user to execute arbitrary code via the&nbsp; test alert actions &nbsp;feature available in the Orion Web Console, which lets users simulate network events (e.g., an unresponsive server) that can be configured to trigger an alert during setup. It has been rated critical in severity.   A second issue concerns a high-risk vulnerability that could be leveraged by an adversary to achieve RCE in the Orion Job Scheduler. "In order to exploit this, an attacker first needs to know the credentials of an unprivileged local account on the Orion Server," SolarWinds&nbsp; said &nbsp;in its release notes.  The advisory is light on technical specifics,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,108 @@ nav_order: 900180
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 26th 2021 - Attacks increase<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-26th-2021-attacks-increase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks against the enterprise continue in the form of Accellion data leaks, full-fledged ransomware attacks, and more ransomware gangs targeting Microsoft Exchange.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang urges victims’ customers to fight for their privacy<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-urges-victims-customers-to-fight-for-their-privacy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware operation known as 'Clop' is applying maximum pressure on victims by emailing their customers and asking them to demand a ransom payment to protect their privacy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades ransomware gang targets big organizations in the US<a href="https://securityaffairs.co/wordpress/115994/cyber-crime/hades-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture security researchers published an&nbsp;analysis&nbsp;of the latest Hades campaign, which is ongoing since at least&nbsp;December 2020.&nbsp;
+
+
+
+Accenture's Cyber Investigation &amp; Forensic Response (CIFR) and Cyber Threat Intelligence (ACTI) teams published&nbsp;an...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Mamba Alert<a href="https://www.infosecurity-magazine.com:443/news/fbi-issues-mamba-alert/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Feds flag danger of ransomware that weaponizes DiskCryptor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless partially restores network following ransomware attack<a href="https://www.zdnet.com/article/sierra-wireless-partially-restores-network-following-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian company Sierra Wireless became the victim of a ransomware attack against its IT systems on March 20, disrupting internal operations and production facilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Black Kingdom ransomware hacked 1.5K Exchange servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-black-kingdom-ransomware-hacked-15k-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered web shells deployed by Black Kingdom operators on approximately 1,500 Exchange servers vulnerable to ProxyLogon attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades ransomware operators are hunting big game in the US<a href="https://www.zdnet.com/article/hades-ransomware-operators-are-hunting-big-game-in-the-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture's Cyber Investigation &amp; Forensic Response (CIFR) and Cyber Threat Intelligence (ACTI) teams has published an analysis into the latest Hades campaign which has been operating since at least December 2020 until this month.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Babuk Locker Ransomware Gang Leaks Data from US Military Contractor PDI Group<a href="https://therecord.media/ransomware-gang-leaks-data-from-us-military-contractor-the-pdi-group/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

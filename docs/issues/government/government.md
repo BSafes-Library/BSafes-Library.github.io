@@ -11,6 +11,20 @@ nav_order: 900075
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Watch out for Russia and China, UK's cyber security boss says<a href="https://www.reuters.com/article/us-britain-security-cyber/watch-out-for-russia-and-china-uks-cyber-security-boss-says-idUSKBN2BI24L?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia poses the most acute immediate threat to the United Kingdom in cyberspace while China’s ambition to be dominant in a host of new technologies will transform the 21st Century world we live in, the head of Britain’s cybersecurity center said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Exec Order Could Force Software Vendors to Disclose Breaches to Federal Gov't Customers<a href="https://www.darkreading.com/attacks-breaches/exec-order-could-force-software-vendors-to-disclose-breaches-to-federal-govt-customers/d/d-id/1340526?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

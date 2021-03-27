@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NGA Picks Four States for Academy on Cybersecurity Policy<a href="https://www.infosecurity-magazine.com:443/news/nga-picks-four-states-for-academy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kansas, Missouri, Montana, and Washington to work with National Governors Association
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

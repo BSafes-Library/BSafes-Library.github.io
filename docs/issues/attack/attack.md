@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Parliament Bundestag targeted again by Russia-linked hackers<a href="https://securityaffairs.co/wordpress/116001/apt/german-parliament-bundestag-russia-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several members of the German Parliament (Bundestag) and other members of the state parliament were hit by a targeted attack allegedly launched by Russia-linked hackers.
+
+
+
+German newspaper Der Spiegel revealed that email accounts of multiple members...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Parliament targeted again by Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/german-parliament-targeted-again-by-russian-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email accounts of multiple German Parliament members were targeted in a spearphishing attack. It is not yet known if any data was stolen during the incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

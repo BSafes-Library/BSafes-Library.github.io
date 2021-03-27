@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Marketing Company Apollo Hit by Breach Impacting 11 Million French Users<a href="https://cybernews.com/security/11-million-records-of-french-users-stolen-from-marketing-platform-and-put-for-sale-online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The archive, containing the purportedly stolen data of 10,930,000 France-based users, includes their names, phone numbers, location coordinates, workplace information, social media profiles, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Charter Firm Solairus Aviation Suffers Data Breach<a href="https://www.securityweek.com/air-charter-firm-solairus-aviation-suffers-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private aviation services provider Solairus Aviation on Tuesday announced that some employee and customer data was compromised in a security incident at third-party vendor Avianis.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

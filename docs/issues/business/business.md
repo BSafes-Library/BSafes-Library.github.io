@@ -11,6 +11,20 @@ nav_order: 900027
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FatFace disclosure a case study in ‘bungling the process’<a href="https://www.scmagazine.com/home/security-news/data-breach/fatface-disclosure-a-case-study-in-bungling-the-process/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.K.-clothing retailer FatFace has egg on its face after a botched disclosure letter customers and security professionals consider too late, too secretive and too hard to confirm.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Announces the Android Ready SE Alliance<a href="https://security.googleblog.com/2021/03/announcing-android-ready-se-alliance.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

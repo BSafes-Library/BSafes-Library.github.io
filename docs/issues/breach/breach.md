@@ -11,6 +11,20 @@ nav_order: 900029
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Feedzai Lands $200M in Series C Funding<a href="https://www.securityweek.com/feedzai-lands-200m-series-c-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Feedzai, a late-stage fintech startup, is the latest entrant into cybersecurity’s unicorn club after snagging a new $200 million funding round that values the company at more than $1 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Digital Marketing Company Apollo Hit by Breach Impacting 11 Million French Users<a href="https://cybernews.com/security/11-million-records-of-french-users-stolen-from-marketing-platform-and-put-for-sale-online/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
