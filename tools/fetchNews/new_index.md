@@ -34,7 +34,139 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FatFace sends controversial data breach email after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fatface-sends-controversial-data-breach-email-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British clothing brand FatFace has sent a controversial 'confidential' data breach notification to customers after suffering a ransomware attack earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! That Android System Update May Contain A Powerful Spyware<a href="https://thehackernews.com/2021/03/watch-out-that-android-system-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a new information-stealing trojan, which targets Android devices with an onslaught of data-exfiltration capabilities — from collecting browser searches to recording audio and phone calls.  While malware on Android has previously taken the guise of copycat apps, which go under names similar to legitimate pieces of software, this sophisticated new malicious app masquerades itself as a System Update application to take control of compromised devices.  "The spyware creates a notification if the device's screen is off when it receives a command using the Firebase messaging service," Zimperium researchers  said  in a Friday analysis. "The 'Searching for update..' is not a legitimate notification from the operating system, but the spyware."   Once installed, the sophisticated spyware campaign sets about its task by registering the device with a Firebase command-and-control (C2) server with information such as battery percentage, sto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released out-of-band updates for a new Zero‑Day actively exploited<a href="https://securityaffairs.co/wordpress/116007/security/apple-zero%e2%80%91day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released new out-of-band updates for iOS, iPadOS, macOS and watchOS to address another zero‑day flaw, tracked CVE-2021-1879, actively exploited.
+
+
+
+Apple has released a new set of out-of-band patches for iOS, iPadOS, macOS and watchOS to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android malware spies on you while posing as a System Update<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-spies-on-you-while-posing-as-a-system-update/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New malware with extensive spyware capabilities steals data from infected Android devices and is designed to automatically trigger whenever new info is read to be exfiltrated.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Patch Update for Another Zero‑Day Under Attack<a href="https://thehackernews.com/2021/03/apple-issues-urgent-patch-update-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Merely weeks after releasing out-of-band patches for iOS, iPadOS, macOS and watchOS, Apple has issued yet another security update for iPhone, iPad, and Apple Watch to fix a critical zero-day weakness that it says is being actively exploited in the wild.  Tracked as CVE-2021-1879 , the vulnerability relates to a WebKit flaw that could enable adversaries to process maliciously crafted web content that may result in universal cross-site scripting attacks.  "This issue was addressed by improved management of object lifetimes," the iPhone maker noted.  Apple has credited Clement Lecigne and Billy Leonard of Google's Threat Analysis Group for discovering and reporting the issue. While details of the flaw have not been disclosed, the company said it's aware of reports that CVE-2021-1879 may have been actively exploited.   Updates are available for the following devices:   iOS 12.5.2  - Phone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang urges victims’ customers to demand a ransom payment<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-urges-victims-customers-to-demand-a-ransom-payment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware operation known as 'Clop' is applying maximum pressure on victims by emailing their customers and asking them to demand a ransom payment to protect their privacy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes a iOS zero-day vulnerability actively used in attacks<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-a-ios-zero-day-vulnerability-actively-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates today to address an iOS zero-day bug actively exploited in the wild and affecting iPhone, iPad, iPod, and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Black Kingdom ransomware group hacked 1.5K Exchange servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-black-kingdom-ransomware-group-hacked-15k-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered web shells deployed by Black Kingdom operators on approximately 1,500 Exchange servers vulnerable to ProxyLogon attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - March 26th 2021 - Attacks increase<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-26th-2021-attacks-increase/"> Full Text</a>
@@ -50,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feedzai Lands $200M in Series C Funding<a href="https://www.securityweek.com/feedzai-lands-200m-series-c-funding?&web_view=true"> Full Text</a>
@@ -66,7 +198,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Parler claims it alerted FBI to threats before Capitol riot | Warner presses Zuckerberg to tackle vaccine misinfo on Facebook, Instagram | U.S. schools increasingly resuming in-person learning<a href="https://thehill.com//policy/technology/overnights/545174-hillicon-valley-parler-claims-it-alerted-fbi-to-threats-before"> Full Text</a>
@@ -82,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Releases Patches for 2 High-Severity Security Vulnerabilities<a href="https://thehackernews.com/2021/03/openssl-releases-patches-for-2-high.html"> Full Text</a>
@@ -98,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phished Healthcare Provider Takes Legal Action Against Amazon<a href="https://www.infosecurity-magazine.com:443/news/saluscare-takes-legal-action/"> Full Text</a>
@@ -114,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enterprise Cybersecurity Measurement<a href="https://www.lawfareblog.com/enterprise-cybersecurity-measurement"> Full Text</a>
@@ -130,7 +262,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Parliament Bundestag targeted again by Russia-linked hackers<a href="https://securityaffairs.co/wordpress/116001/apt/german-parliament-bundestag-russia-hackers.html"> Full Text</a>
@@ -150,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New, critical vulnerability discovered that could let attackers gain entry to SolarWinds systems<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-critical-vulnerability-discovered-that-could-let-attackers-gain-entry-to-solarwinds-systems/"> Full Text</a>
@@ -166,7 +298,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang urges victims’ customers to fight for their privacy<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-urges-victims-customers-to-fight-for-their-privacy/"> Full Text</a>
@@ -182,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for Russia and China, UK's cyber security boss says<a href="https://www.reuters.com/article/us-britain-security-cyber/watch-out-for-russia-and-china-uks-cyber-security-boss-says-idUSKBN2BI24L?&web_view=true"> Full Text</a>
@@ -198,7 +330,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warner presses Zuckerberg to tackle vaccine misinformation on Facebook, Instagram<a href="https://thehill.com//policy/cybersecurity/545165-warner-presses-zuckerberg-to-tackle-vaccine-misinformation-on-facebook"> Full Text</a>
@@ -214,7 +346,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NGA Picks Four States for Academy on Cybersecurity Policy<a href="https://www.infosecurity-magazine.com:443/news/nga-picks-four-states-for-academy/"> Full Text</a>
@@ -230,7 +362,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hades ransomware gang targets big organizations in the US<a href="https://securityaffairs.co/wordpress/115994/cyber-crime/hades-ransomware.html"> Full Text</a>
@@ -250,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FatFace disclosure a case study in ‘bungling the process’<a href="https://www.scmagazine.com/home/security-news/data-breach/fatface-disclosure-a-case-study-in-bungling-the-process/"> Full Text</a>
@@ -266,7 +398,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Parliament targeted again by Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/german-parliament-targeted-again-by-russian-state-hackers/"> Full Text</a>
@@ -282,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Chinese Group Exploiting Microsoft Exchange Servers<a href="https://www.recordedfuture.com/chinese-group-calypso-exploiting-microsoft-exchange/?&web_view=true"> Full Text</a>
@@ -298,7 +430,7 @@ Recorded Future
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Issues Mamba Alert<a href="https://www.infosecurity-magazine.com:443/news/fbi-issues-mamba-alert/"> Full Text</a>
@@ -314,7 +446,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Companies don’t bother to patch. Should MSPs cut them out of decision process?<a href="https://www.scmagazine.com/home/patch-management/companies-dont-bother-to-patch-should-msps-cut-them-out-of-decision-process/"> Full Text</a>
@@ -330,7 +462,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes iOS zero-day vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-ios-zero-day-vulnerability-exploited-in-the-wild/"> Full Text</a>
@@ -346,7 +478,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sierra Wireless partially restores network following ransomware attack<a href="https://www.zdnet.com/article/sierra-wireless-partially-restores-network-following-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -362,7 +494,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Black Kingdom ransomware hacked 1.5K Exchange servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-black-kingdom-ransomware-hacked-15k-exchange-servers/"> Full Text</a>
@@ -378,7 +510,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot Malware Is Now Spreading Via Phishing Emails<a href="https://heimdalsecurity.com/blog/phishing-emails-are-now-spreading-trickbot-malware/?&web_view=true"> Full Text</a>
@@ -394,7 +526,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hades ransomware operators are hunting big game in the US<a href="https://www.zdnet.com/article/hades-ransomware-operators-are-hunting-big-game-in-the-us/?&web_view=true"> Full Text</a>
@@ -410,7 +542,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2021
+March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities Can Allow Attackers to Remotely Gain Control of Weintek HMIs<a href="https://www.securityweek.com/vulnerabilities-can-allow-attackers-remotely-gain-control-weintek-hmis?&web_view=true"> Full Text</a>
