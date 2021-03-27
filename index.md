@@ -34,6 +34,398 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 26th 2021 - Attacks increase<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-26th-2021-attacks-increase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks against the enterprise continue in the form of Accellion data leaks, full-fledged ransomware attacks, and more ransomware gangs targeting Microsoft Exchange.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feedzai Lands $200M in Series C Funding<a href="https://www.securityweek.com/feedzai-lands-200m-series-c-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Feedzai, a late-stage fintech startup, is the latest entrant into cybersecurity’s unicorn club after snagging a new $200 million funding round that values the company at more than $1 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler claims it alerted FBI to threats before Capitol riot | Warner presses Zuckerberg to tackle vaccine misinfo on Facebook, Instagram | U.S. schools increasingly resuming in-person learning<a href="https://thehill.com//policy/technology/overnights/545174-hillicon-valley-parler-claims-it-alerted-fbi-to-threats-before"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platform Parler revealed that it flagged concerning material for the FBI ahead of the January 6 U.S. Capitol riot. Meanwhile, a leading senator expressed serious concerns around Facebook’s handling of COVID-19 vaccine misinformation on both Facebook and Instagram, and new data shows schools are increasingly moving back into in-person learning. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Releases Patches for 2 High-Severity Security Vulnerabilities<a href="https://thehackernews.com/2021/03/openssl-releases-patches-for-2-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of OpenSSL have released a fix for two high-severity security flaws in its software that could be exploited to carry out denial-of-service (DoS) attacks and bypass certificate verification.  Tracked as CVE-2021-3449  and CVE-2021-3450 , both the  vulnerabilities  have been resolved in an update (version OpenSSL 1.1.1k) released on Thursday. While CVE-2021-3449 affects all OpenSSL 1.1.1 versions, CVE-2021-3450 impacts OpenSSL versions 1.1.1h and newer.  OpenSSL is a software library consisting of cryptographic functions that implement the Transport Layer Security protocol with the goal of securing communications sent over a computer network.   According to an advisory published by OpenSSL, CVE-2021-3449 concerns a potential DoS vulnerability arising due to NULL pointer dereferencing that can cause an OpenSSL TLS server to crash if in the course of renegotiation the client transmits a malicious "ClientHello" message during the  handshake  between the server and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phished Healthcare Provider Takes Legal Action Against Amazon<a href="https://www.infosecurity-magazine.com:443/news/saluscare-takes-legal-action/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SalusCare turns to the law after Amazon denies request to view storage buckets allegedly housing healthcare provider’s stolen data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise Cybersecurity Measurement<a href="https://www.lawfareblog.com/enterprise-cybersecurity-measurement"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprises can manage, mitigate and monitor their cyber risks by mapping threats and adversary tactics, techniques and procedures to known vulnerabilities. Ultimately, the goal is to have a scalable, reproducible metric for risk.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Parliament Bundestag targeted again by Russia-linked hackers<a href="https://securityaffairs.co/wordpress/116001/apt/german-parliament-bundestag-russia-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several members of the German Parliament (Bundestag) and other members of the state parliament were hit by a targeted attack allegedly launched by Russia-linked hackers.
+
+
+
+German newspaper Der Spiegel revealed that email accounts of multiple members...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New, critical vulnerability discovered that could let attackers gain entry to SolarWinds systems<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-critical-vulnerability-discovered-that-could-let-attackers-gain-entry-to-solarwinds-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While not great news for SolarWinds, it’s also not surprising, say researchers, considering that the software has been under the spotlight for months.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang urges victims’ customers to fight for their privacy<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-urges-victims-customers-to-fight-for-their-privacy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware operation known as 'Clop' is applying maximum pressure on victims by emailing their customers and asking them to demand a ransom payment to protect their privacy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for Russia and China, UK's cyber security boss says<a href="https://www.reuters.com/article/us-britain-security-cyber/watch-out-for-russia-and-china-uks-cyber-security-boss-says-idUSKBN2BI24L?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia poses the most acute immediate threat to the United Kingdom in cyberspace while China’s ambition to be dominant in a host of new technologies will transform the 21st Century world we live in, the head of Britain’s cybersecurity center said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warner presses Zuckerberg to tackle vaccine misinformation on Facebook, Instagram<a href="https://thehill.com//policy/cybersecurity/545165-warner-presses-zuckerberg-to-tackle-vaccine-misinformation-on-facebook"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Intelligence Committee Chairman Mark Warner (D-Va.) on Friday pressed Facebook to do more to combat the spread of COVID-19 vaccine misinformation on both its platform and Instagram. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NGA Picks Four States for Academy on Cybersecurity Policy<a href="https://www.infosecurity-magazine.com:443/news/nga-picks-four-states-for-academy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kansas, Missouri, Montana, and Washington to work with National Governors Association
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades ransomware gang targets big organizations in the US<a href="https://securityaffairs.co/wordpress/115994/cyber-crime/hades-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture security researchers published an analysis of the latest Hades campaign, which is ongoing since at least December 2020. 
+
+
+
+Accenture's Cyber Investigation & Forensic Response (CIFR) and Cyber Threat Intelligence (ACTI) teams published an...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FatFace disclosure a case study in ‘bungling the process’<a href="https://www.scmagazine.com/home/security-news/data-breach/fatface-disclosure-a-case-study-in-bungling-the-process/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.K.-clothing retailer FatFace has egg on its face after a botched disclosure letter customers and security professionals consider too late, too secretive and too hard to confirm.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Parliament targeted again by Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/german-parliament-targeted-again-by-russian-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email accounts of multiple German Parliament members were targeted in a spearphishing attack. It is not yet known if any data was stolen during the incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese Group Exploiting Microsoft Exchange Servers<a href="https://www.recordedfuture.com/chinese-group-calypso-exploiting-microsoft-exchange/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beginning on March 1, 2021, Recorded Future’s Insikt Group identified a large increase in victim communications to PlugX command and control (C2) infrastructure publicly attributed to the suspected Chinese state-sponsored group Calypso APT.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Mamba Alert<a href="https://www.infosecurity-magazine.com:443/news/fbi-issues-mamba-alert/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Feds flag danger of ransomware that weaponizes DiskCryptor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies don’t bother to patch. Should MSPs cut them out of decision process?<a href="https://www.scmagazine.com/home/patch-management/companies-dont-bother-to-patch-should-msps-cut-them-out-of-decision-process/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies continue to be exploited via Microsoft Exchange vulnerabilities due to inaction.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes iOS zero-day vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-ios-zero-day-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates today to address an iOS zero-day bug actively exploited in the wild and affecting iPhone, iPad, iPod, and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless partially restores network following ransomware attack<a href="https://www.zdnet.com/article/sierra-wireless-partially-restores-network-following-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian company Sierra Wireless became the victim of a ransomware attack against its IT systems on March 20, disrupting internal operations and production facilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Black Kingdom ransomware hacked 1.5K Exchange servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-black-kingdom-ransomware-hacked-15k-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered web shells deployed by Black Kingdom operators on approximately 1,500 Exchange servers vulnerable to ProxyLogon attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Malware Is Now Spreading Via Phishing Emails<a href="https://heimdalsecurity.com/blog/phishing-emails-are-now-spreading-trickbot-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a joint statement of the FBI and the CISA, one of the most widespread and powerful forms of malware, Trickbot malware, is now being used in spear-phishing campaigns in an attempt to infect PCs.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades ransomware operators are hunting big game in the US<a href="https://www.zdnet.com/article/hades-ransomware-operators-are-hunting-big-game-in-the-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture's Cyber Investigation & Forensic Response (CIFR) and Cyber Threat Intelligence (ACTI) teams has published an analysis into the latest Hades campaign which has been operating since at least December 2020 until this month.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Can Allow Attackers to Remotely Gain Control of Weintek HMIs<a href="https://www.securityweek.com/vulnerabilities-can-allow-attackers-remotely-gain-control-weintek-hmis?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity researcher who specializes in industrial control systems (ICS) has identified three types of critical vulnerabilities in products made by human-machine interface (HMI) manufacturer Weintek.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
