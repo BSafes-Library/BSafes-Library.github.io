@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CompuCom MSP expects over $20M in losses after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/compucom-msp-expects-over-20m-in-losses-after-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 62,000 Microsoft Exchange Servers, Still Left unpatched<a href="https://cybersecuritynews.com/over-62000-microsoft-exchange-servers-still-left-unpatched/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP urges users to take action to protect devices against Brute-Force attacks<a href="https://securityaffairs.co/wordpress/116042/hacking/qnap-alert-brute-force-attacks.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 307<a href="https://securityaffairs.co/wordpress/116040/breaking-news/security-affairs-newsletter-round-307.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Gov Executive Order would oblige to disclose security breach impacting gov users<a href="https://securityaffairs.co/wordpress/116033/security/executive-order-data-breach.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2021
+March 27, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DCCP Request-based DDoS Attack Vector Emerges<a href="https://cyware.com/news/new-dccp-request-based-ddos-attack-vector-emerges-382cf003"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2021
+March 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram Business Accounts Under Attack by CopperStealer<a href="https://cyware.com/news/instagram-business-accounts-under-attack-by-copperstealer-53d13dda"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2021
+March 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DearCry Enters the Threat Landscape to Exploit Exchange Servers<a href="https://cyware.com/news/dearcry-enters-the-threat-landscape-to-exploit-exchange-servers-277d2304"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2021
+March 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Ransomware gang now contacts victims’ customers to force victims into pay a ransom<a href="https://securityaffairs.co/wordpress/116029/cyber-crime/clop-ransomware-extortion.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2021
+March 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new advanced Android spyware posing as “System Update”<a href="https://securityaffairs.co/wordpress/116016/malware/android-spyware-system-update.html"> Full Text</a>
