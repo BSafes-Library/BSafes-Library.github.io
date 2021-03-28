@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram Business Accounts Under Attack by CopperStealer<a href="https://cyware.com/news/instagram-business-accounts-under-attack-by-copperstealer-53d13dda"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This malware is now targeting Instagram and Facebook business accounts to steal passwords stored in Edge, Chrome, Opera, Firefox, and Yandex.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov Executive Order would oblige to disclose security breach impacting gov users<a href="https://securityaffairs.co/wordpress/116033/security/executive-order-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a proposed executive order of the Biden administration, software vendors would have to disclose breaches to U.S. government users.
+
+
+
+The Reuters agency revealed that an executive order proposed by the Biden administration will oblige software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

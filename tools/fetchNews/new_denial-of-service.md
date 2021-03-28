@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DCCP Request-based DDoS Attack Vector Emerges<a href="https://cyware.com/news/new-dccp-request-based-ddos-attack-vector-emerges-382cf003"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The protocol abused is known as Datagram Congestion Control Protocol (DCCP) that offers data congestion procedures for UDP-based communications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 62,000 Microsoft Exchange Servers, Still Left unpatched<a href="https://cybersecuritynews.com/over-62000-microsoft-exchange-servers-still-left-unpatched/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has recently published a very new, one-click mitigation tool, as Microsoft has recently identified various 0-day exploits that are generally being...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP urges users to take action to protect devices against Brute-Force attacks<a href="https://securityaffairs.co/wordpress/116042/hacking/qnap-alert-brute-force-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese manufacturer QNAP published an alert urging its customers to secure their devices after a growing number of users reported that their devices have been hit by brute-force attacks.
+
+
+
+This week the Taiwanese vendor QNAP has published an alert...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DearCry Enters the Threat Landscape to Exploit Exchange Servers<a href="https://cyware.com/news/dearcry-enters-the-threat-landscape-to-exploit-exchange-servers-277d2304"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The encryption approach taken by this ransomware matches that of WannaCry, however, not other similarities have been observed between the two.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
