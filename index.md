@@ -34,6 +34,190 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CompuCom MSP expects over $20M in losses after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/compucom-msp-expects-over-20m-in-losses-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American managed service provider CompuCom is expecting losses of over $20 million following this month's DarkSide ransomware attack that took down most of its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 62,000 Microsoft Exchange Servers, Still Left unpatched<a href="https://cybersecuritynews.com/over-62000-microsoft-exchange-servers-still-left-unpatched/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has recently published a very new, one-click mitigation tool, as Microsoft has recently identified various 0-day exploits that are generally being...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP urges users to take action to protect devices against Brute-Force attacks<a href="https://securityaffairs.co/wordpress/116042/hacking/qnap-alert-brute-force-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese manufacturer QNAP published an alert urging its customers to secure their devices after a growing number of users reported that their devices have been hit by brute-force attacks.
+
+
+
+This week the Taiwanese vendor QNAP has published an alert...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 307<a href="https://securityaffairs.co/wordpress/116040/breaking-news/security-affairs-newsletter-round-307.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+CISA releases...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov Executive Order would oblige to disclose security breach impacting gov users<a href="https://securityaffairs.co/wordpress/116033/security/executive-order-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a proposed executive order of the Biden administration, software vendors would have to disclose breaches to U.S. government users.
+
+
+
+The Reuters agency revealed that an executive order proposed by the Biden administration will oblige software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DCCP Request-based DDoS Attack Vector Emerges<a href="https://cyware.com/news/new-dccp-request-based-ddos-attack-vector-emerges-382cf003"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The protocol abused is known as Datagram Congestion Control Protocol (DCCP) that offers data congestion procedures for UDP-based communications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram Business Accounts Under Attack by CopperStealer<a href="https://cyware.com/news/instagram-business-accounts-under-attack-by-copperstealer-53d13dda"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This malware is now targeting Instagram and Facebook business accounts to steal passwords stored in Edge, Chrome, Opera, Firefox, and Yandex.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DearCry Enters the Threat Landscape to Exploit Exchange Servers<a href="https://cyware.com/news/dearcry-enters-the-threat-landscape-to-exploit-exchange-servers-277d2304"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The encryption approach taken by this ransomware matches that of WannaCry, however, not other similarities have been observed between the two.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware gang now contacts victims’ customers to force victims into pay a ransom<a href="https://securityaffairs.co/wordpress/116029/cyber-crime/clop-ransomware-extortion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware operators now email victim's customers and ask them to demand a ransom payment to protect their privacy to force victims into paying the ransom.
+
+
+
+Clop ransomware operators are switching to a new tactic to force victims into paying the ransom...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new advanced Android spyware posing as “System Update”<a href="https://securityaffairs.co/wordpress/116016/malware/android-spyware-system-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a sophisticated Android spyware that implements exfiltration capabilities and surveillance features, including recording audio and phone calls.
+
+
+
+Experts from security firm Zimperium have spotted a new sophisticated Android spyware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
