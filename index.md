@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon union vote count to start for Alabama warehouse | Hackers accessed emails of top DHS officials as part of SolarWinds breach: report | Ex-Google exec launches left-leaning tech coalition<a href="https://thehill.com//policy/technology/overnights/545457-hillicon-valley-amazon-union-vote-count-starts-this-week-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contentious unionization vote at Amazon’s Alabama warehouse is pushing forward with ballots set to be tabulated starting this week. Fallout from what has become known as the SolarWinds breach continued with news of hackers reportedly breaching email accounts of top Department of Homeland Security officials. Meanwhile, a former Google executive on Monday launched a new tech coalition backed by some of the top companies in the industry amid mounting scrutiny from Washington. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Judge denies Cisco new trial, upholds judgement in patent infringement suit<a href="https://www.scmagazine.com/home/security-news/legal-security-news/judge-denies-cisco-new-trial-upholds-judgement-in-patent-infringement-suit/"> Full Text</a>
 </p>
 <details>
