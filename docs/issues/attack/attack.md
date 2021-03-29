@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP's Git server hacked to add backdoors to PHP source code<a href="https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest software supply chain attack, the official PHP Git repository was hacked and&nbsp;tampered with. Yesterday, two malicious commits were pushed to the php-src&nbsp;Git&nbsp;repository maintained by the PHP team on their git.php.net server. The threat actors had signed off on these commits as if they were made by known PHP developers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

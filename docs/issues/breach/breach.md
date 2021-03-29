@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call Center Provider Experiences Major Data Leak<a href="https://www.hackread.com/call-center-provider-experiences-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From the time when it was exposed till when it was secured again, the database logged 1.48 million robocalls altogether and the majority of the calls were outgoing but some callbacks were also logged.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached the PHP ‘s Git Server and inserted a backdoor in the source code<a href="https://securityaffairs.co/wordpress/116088/hacking/php-git-server-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the official Git server of the PHP programming language and pushed unauthorized updates to insert a backdoor into the source code.
+
+
+
+Unknown attackers hacked the official Git server of the PHP programming language and pushed unauthorized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackBlaze Mistakenly Shared Backup Meta Data with Facebook<a href="https://heimdalsecurity.com/blog/backblaze-shared-meta-data-with-facebook/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this month, a user reported to Backblaze the fact that the B2 web UI looked like it was submitting all of the names and sizes of his files in the B2 bucket to Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP's Git Server Hacked to Insert Secret Backdoor to Its Source code<a href="https://thehackernews.com/2021/03/phps-git-server-hacked-to-insert-secret.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another instance of a software supply chain attack,&nbsp;unidentified actors hacked the official Git server of the PHP programming language and pushed unauthorized updates to insert a secret backdoor into its source code.  The two malicious commits were pushed to the self-hosted "php-src" repository hosted on the git.php.net server, illicitly using the names of Rasmus Lerdorf, the author of the programming language, and Nikita Popov, a software developer at Jetbrains.  The changes are said to have been made yesterday on March 28.   "We don't yet know how exactly this happened, but everything points towards a compromise of the git.php.net server (rather than a compromise of an individual git account)," Popov&nbsp; said &nbsp;in an announcement.   The changes, which were committed  as " Fix Typo " in an attempt to slip through undetected as a typographical correction, involved provisions for execution of arbitrary PHP code. "This line executes PHP code fro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

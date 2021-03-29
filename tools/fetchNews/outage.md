@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers disrupted live broadcasts at Channel Nine. Is it a Russian retaliation?<a href="https://securityaffairs.co/wordpress/116053/breaking-news/channel-nine-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack&nbsp;has disrupted the Australian Channel Nine's live broadcasts, the company was unable to transmit its Sunday morning news program.
+
+
+
+A cyber attack&nbsp;has hit the Australian Channel Nine's live broadcasts causing the disruption of its operations....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpaceX Engineer Pleads Guilty for Insider Trading on the Dark Web<a href="https://cybersecuritynews.com/spacex-engineer-pleads-guilty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A SpaceX engineer pleaded guilty for exchanging insider trading tips on the dark web. James Roland Jones, aged 33, of Hermosa Beach,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s CNI Security Threatened by Staff Burnout<a href="https://www.infosecurity-magazine.com:443/news/cni-security-threatened-burnout/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT skills shortage could also weaken Britain’s defense against attacks on critical national infrastructures
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

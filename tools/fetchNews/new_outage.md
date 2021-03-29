@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aussie TV Network Taken Off Air by Ransomware<a href="https://www.infosecurity-magazine.com:443/news/aussie-tv-network-taken-off-air-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No ransom demand could indicate state involvement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

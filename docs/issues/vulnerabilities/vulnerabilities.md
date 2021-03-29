@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Ovarro TBox RTUs Could Open Industrial Systems to Remote Attacks<a href="https://thehackernews.com/2021/03/flaws-in-ovarro-tbox-rtus-could-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five vulnerabilities have been uncovered in Ovarro's TBox remote terminal units (RTUs) that, if left unpatched, could open the door for escalating attacks against critical infrastructures, like remote code execution and denial-of-service.  "Successful exploitation of these vulnerabilities could result in remote code execution, which may cause a denial-of-service condition," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said &nbsp;in an advisory published on March 23.  TBox is an "all-in-one" solution for automation and control systems for supervisory control and data acquisition ( SCADA ) applications, with its telemetry software used for remote control and monitoring of assets in a number of critical infrastructure sectors, such as water, power, oil and gas, transportation, and process industries. TBox devices can be programmed using a software suite called TWinSoft, which allows for the creation of interactive web pages, where users
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bugs Could Let Hackers Bypass Spectre Attack Mitigations On Linux Systems<a href="https://thehackernews.com/2021/03/new-bugs-could-let-hackers-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed two new vulnerabilities in Linux-based operating systems that, if successfully exploited, could let attackers circumvent mitigations for speculative attacks such as&nbsp; Spectre &nbsp;and obtain sensitive information from kernel memory.  Discovered by&nbsp; Piotr Krysiuk &nbsp;of Symantec's Threat Hunter team, the flaws — tracked as CVE-2020-27170 and CVE-2020-27171 (CVSS scores: 5.5) — impact all Linux kernels prior to 5.11.8. Patches for the security issues were released on March 20, with Ubuntu, Debian, and Red Hat deploying fixes for the vulnerabilities in their respective Linux distributions.  While&nbsp; CVE-2020-27170 &nbsp;can be abused to reveal content from any location within the kernel memory,&nbsp; CVE-2020-27171  can be used to retrieve data from a 4GB range of kernel memory.   First documented in January 2018,&nbsp; Spectre and Meltdown &nbsp;take advantage of flaws in modern processors to&nbsp; leak data &nbsp;that are currently processed on the computer, thereby allowing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No, I Did Not Hack Your MS Exchange Server — Krebs on Security<a href="https://krebsonsecurity.com/2021/03/no-i-did-not-hack-your-ms-exchange-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The motivations of the cybercriminals behind the Krebonsecurity dot top domain are unclear, but the domain itself has a recent association with other cybercrime activity — and harassing this author.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

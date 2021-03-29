@@ -11,6 +11,52 @@ nav_order: 900220
 March 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical netmask networking bug impacts thousands of applications<a href="https://www.bleepingcomputer.com/news/security/critical-netmask-networking-bug-impacts-thousands-of-applications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular npm component netmask&nbsp;has a critical networking vulnerability, CVE-2021-28918. netmask&nbsp;is frequently used by hundreds of thousands of applications to parse IPv4 addresses and CIDR blocks or compare them. The component gets over 3 million weekly downloads, and as of today, has scored over 238 million total downloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found two flaws in Facebook for WordPress Plugin<a href="https://securityaffairs.co/wordpress/116063/social-networks/facebook-wordpress-plugin-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in the official Facebook for WordPress plugin could be abused exploited for remote code execution attacks.
+
+
+
+Researchers at Wordfence have discovered two vulnerabilities in the Facebook for WordPress plugin, which has more than 500,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP NAS Devices: A Juicy Target for Cryptominers<a href="https://cyware.com/news/qnap-nas-devices-a-juicy-target-for-cryptominers-4cb5ebf8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers from Qihoo 360 found QNAP’s unpatched NAS devices targeted by a newly discovered malware named UnityMiner.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Over 62,000 Microsoft Exchange Servers, Still Left unpatched<a href="https://cybersecuritynews.com/over-62000-microsoft-exchange-servers-still-left-unpatched/"> Full Text</a>
 </p>
 <details>
