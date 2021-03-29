@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Imprisons BEC Scammer<a href="https://www.infosecurity-magazine.com:443/news/us-imprisons-bec-scammer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas resident scammed schools, senior citizens, and charity supporting families of the terminally ill
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Docker Hub images downloaded 20M times come with cryptominers<a href="https://www.bleepingcomputer.com/news/security/docker-hub-images-downloaded-20m-times-come-with-cryptominers/"> Full Text</a>
 </p>
 <details>
