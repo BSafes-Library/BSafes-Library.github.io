@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Harris Federation hit by ransomware attack affecting 50 schools<a href="https://www.bleepingcomputer.com/news/security/harris-federation-hit-by-ransomware-attack-affecting-50-schools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT systems and email servers of London-based nonprofit multi-academy trust Harris Federation were taken down by a ransomware attack on Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise of Linux Malware, Spoofing, and COVID-19<a href="https://cyware.com/news/rise-of-linux-malware-spoofing-and-covid-19-2b0bc571"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on insights and observations from monitoring over 150 billion security events per day in more than 130 countries, IBM's new report underlines top trends from the last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Solutions Doesn’t Mean More Protection<a href="https://www.infosecurity-magazine.com:443/news/more-solutions-doesnt-mean-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data loss struck over 50% of organizations last year despite most running up to 10 cybersecurity solutions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China-linked RedEcho APT took down part of its C2 domains<a href="https://securityaffairs.co/wordpress/116094/apt/redecho-apt-c2-shutdown.html"> Full Text</a>
 </p>
 <details>
