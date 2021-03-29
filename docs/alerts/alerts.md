@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mamba Ransomware Weaponizing DiskCryptor <a href="https://publications.bsafes.com/docs/fbi/flash-2021-032301-mamba-ransomware-weaponizing-diskcryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mamba ransomware has been deployed against local governments, public transportation agencies, legal services, technology services, industrial, commercial, manufacturing, and construction businesses. Mamba ransomware weaponizes DiskCryptor—an open source full disk encryption software— to restrict victim access by encrypting an entire drive, including the operating system. DiskCryptor is not inherently malicious but has been weaponized. Once encrypted, the system displays a ransom note including the actor’s email address, ransomware file name, the host system name, and a place to enter the decryption key. Victims are instructed to contact the actor’s email address to pay the ransom in exchange for the decryption key.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 17, 2021 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
