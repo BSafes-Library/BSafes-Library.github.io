@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Judge denies Cisco new trial, upholds judgement in patent infringement suit<a href="https://www.scmagazine.com/home/security-news/legal-security-news/judge-denies-cisco-new-trial-upholds-judgement-in-patent-infringement-suit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A district judge summarily dimissed the company’s request for a new trial, writing that the “most compelling evidence [for infringement] originated in Cisco’s own technical documents introduced at trial by Centripetal.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Time suck: Security awareness pros are getting sidetracked from core functions<a href="https://www.scmagazine.com/home/security-news/time-suck-security-awareness-pros-are-getting-sidetracked-from-core-functions/"> Full Text</a>
 </p>
 <details>
