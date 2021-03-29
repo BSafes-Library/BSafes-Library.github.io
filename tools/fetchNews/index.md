@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In wake of giant software hacks, application security tactics due for an overhaul<a href="https://www.scmagazine.com/application-security/in-wake-of-giant-software-hacks-application-security-tactics-due-for-an-overhaul/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rising rates of vulnerabilities, a more complex development environment and a lack of industry standards are putting software applications at risk. Can newer security tools and processes turn the tide?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Infiltrated with Backdoor Malware<a href="https://threatpost.com/php-infiltrated-backdoor-malware/165061/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The server for the web-application scripting language was compromised on Sunday.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
