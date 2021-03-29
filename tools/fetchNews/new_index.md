@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+In wake of giant software hacks, application security tactics due for an overhaul<a href="https://www.scmagazine.com/application-security/in-wake-of-giant-software-hacks-application-security-tactics-due-for-an-overhaul/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rising rates of vulnerabilities, a more complex development environment and a lack of industry standards are putting software applications at risk. Can newer security tools and processes turn the tide?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Infiltrated with Backdoor Malware<a href="https://threatpost.com/php-infiltrated-backdoor-malware/165061/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The server for the web-application scripting language was compromised on Sunday.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 PHP's Git server hacked to add backdoors to PHP source code<a href="https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Advanced Android Malware Poses as “System Update” to Steal Messages, Images and Taking Control of Android Phones<a href="https://cybersecuritynews.com/android-malware-poses-as-system-update/"> Full Text</a>
@@ -66,7 +98,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Call Center Provider Experiences Major Data Leak<a href="https://www.hackread.com/call-center-provider-experiences-data-leak/?&web_view=true"> Full Text</a>
@@ -82,7 +114,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Ovarro TBox RTUs Could Open Industrial Systems to Remote Attacks<a href="https://thehackernews.com/2021/03/flaws-in-ovarro-tbox-rtus-could-open.html"> Full Text</a>
@@ -98,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ClubCISO Appoints Stephen Khan as its New Chair<a href="https://www.infosecurity-magazine.com:443/news/clubciso-steohen-khan-chair/"> Full Text</a>
@@ -114,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breached the PHP ‘s Git Server and inserted a backdoor in the source code<a href="https://securityaffairs.co/wordpress/116088/hacking/php-git-server-hack.html"> Full Text</a>
@@ -134,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meet the 2021 SC Awards judges<a href="https://www.scmagazine.com/scawards/meet-the-2021-sc-awards-judges/"> Full Text</a>
@@ -150,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpaceX Engineer Pleads Guilty for Insider Trading on the Dark Web<a href="https://cybersecuritynews.com/spacex-engineer-pleads-guilty/"> Full Text</a>
@@ -166,7 +198,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Android spyware masquerades as a ‘system update’<a href="https://techcrunch.com/2021/03/26/android-malware-system-update/?&web_view=true"> Full Text</a>
@@ -182,7 +214,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bugs Could Let Hackers Bypass Spectre Attack Mitigations On Linux Systems<a href="https://thehackernews.com/2021/03/new-bugs-could-let-hackers-bypass.html"> Full Text</a>
@@ -198,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hades Ransomware Linked to Hafnium and Exchange Attacks<a href="https://www.infosecurity-magazine.com:443/news/hades-ransomware-linked-hafnium/"> Full Text</a>
@@ -214,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ziggy ransomware admin announced it will refund victims who paid the ransom<a href="https://securityaffairs.co/wordpress/116079/malware/ziggy-ransomware-refunds-victims.html"> Full Text</a>
@@ -234,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Live Broadcast at Australia’s Channel Nine Goes Down due to Cyberattack<a href="https://securityaffairs.co/wordpress/116053/breaking-news/channel-nine-cyber-attack.html?&web_view=true"> Full Text</a>
@@ -250,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Effectively Prevent Email Spoofing Attacks in 2021?<a href="https://thehackernews.com/2021/03/how-to-effectively-prevent-email.html"> Full Text</a>
@@ -266,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #IMOS21: Infosecurity Magazine Spring Online Summit Now Available On-Demand<a href="https://www.infosecurity-magazine.com:443/news/imos21-online-summit-ondemand/"> Full Text</a>
@@ -282,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Purple Fox version includes Rootkit and implements wormable propagation<a href="https://securityaffairs.co/wordpress/116070/malware/purple-fox-rootkit-version.html"> Full Text</a>
@@ -302,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BackBlaze Mistakenly Shared Backup Meta Data with Facebook<a href="https://heimdalsecurity.com/blog/backblaze-shared-meta-data-with-facebook/?&web_view=true"> Full Text</a>
@@ -318,7 +350,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK’s CNI Security Threatened by Staff Burnout<a href="https://www.infosecurity-magazine.com:443/news/cni-security-threatened-burnout/"> Full Text</a>
@@ -334,7 +366,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No, I Did Not Hack Your MS Exchange Server — Krebs on Security<a href="https://krebsonsecurity.com/2021/03/no-i-did-not-hack-your-ms-exchange-server/?&web_view=true"> Full Text</a>
@@ -350,7 +382,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German MPs Hit by Russian-Backed Phishing Attacks<a href="https://www.infosecurity-magazine.com:443/news/german-mps-hit-russianbacked/"> Full Text</a>
@@ -366,7 +398,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aussie TV Network Taken Off Air by Ransomware<a href="https://www.infosecurity-magazine.com:443/news/aussie-tv-network-taken-off-air-by/"> Full Text</a>
@@ -382,7 +414,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PHP's Git Server Hacked to Insert Secret Backdoor to Its Source code<a href="https://thehackernews.com/2021/03/phps-git-server-hacked-to-insert-secret.html"> Full Text</a>
