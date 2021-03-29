@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware admin is refunding victims their ransom payments<a href="https://www.bleepingcomputer.com/news/security/ransomware-admin-is-refunding-victims-their-ransom-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After recently announcing the end of the operation, the administrator of Ziggy ransomware is now stating that they will also give the money back.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical netmask networking bug impacts thousands of applications<a href="https://www.bleepingcomputer.com/news/security/critical-netmask-networking-bug-impacts-thousands-of-applications/"> Full Text</a>
 </p>
 <details>

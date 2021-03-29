@@ -34,6 +34,94 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical netmask networking bug impacts thousands of applications<a href="https://www.bleepingcomputer.com/news/security/critical-netmask-networking-bug-impacts-thousands-of-applications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular npm component netmask has a critical networking vulnerability, CVE-2021-28918. netmask is frequently used by hundreds of thousands of applications to parse IPv4 addresses and CIDR blocks or compare them. The component gets over 3 million weekly downloads, and as of today, has scored over 238 million total downloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater APT Goes Ham on its Targets<a href="https://cyware.com/news/muddywater-apt-goes-ham-on-its-targets-bd67fa1b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month, Trend Micro attributed the politically-motivated hacking group to a newly discovered cyber espionage campaign dubbed Earth Vetala.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found two flaws in Facebook for WordPress Plugin<a href="https://securityaffairs.co/wordpress/116063/social-networks/facebook-wordpress-plugin-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in the official Facebook for WordPress plugin could be abused exploited for remote code execution attacks.
+
+
+
+Researchers at Wordfence have discovered two vulnerabilities in the Facebook for WordPress plugin, which has more than 500,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP NAS Devices: A Juicy Target for Cryptominers<a href="https://cyware.com/news/qnap-nas-devices-a-juicy-target-for-cryptominers-4cb5ebf8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers from Qihoo 360 found QNAP’s unpatched NAS devices targeted by a newly discovered malware named UnityMiner.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers disrupted live broadcasts at Channel Nine. Is it a Russian retaliation?<a href="https://securityaffairs.co/wordpress/116053/breaking-news/channel-nine-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack has disrupted the Australian Channel Nine's live broadcasts, the company was unable to transmit its Sunday morning news program.
+
+
+
+A cyber attack has hit the Australian Channel Nine's live broadcasts causing the disruption of its operations....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
