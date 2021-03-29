@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers accessed emails of top DHS officials as part of SolarWinds breach: report<a href="https://thehill.com//policy/cybersecurity/545405-hackers-accessed-emails-of-top-dhs-officials-as-part-of-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers involved in what has become known as the SolarWinds breach accessed email accounts of top officials at the Department of Homeland Security (DHS) along with other personal information of senior federal officials, the Associated Press reported Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumble Launches Online Safety Guide<a href="https://www.infosecurity-magazine.com:443/news/bumble-launches-online-safety/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dating app starts Stand for Safety initiative to protect women from online abuse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #LORCALive: More Work Required to Realize the Potential of AI in Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/lorcalive-work-ai-cybersecurity/"> Full Text</a>
 </p>
 <details>

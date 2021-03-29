@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+China-linked RedEcho APT took down part of its C2 domains<a href="https://securityaffairs.co/wordpress/116094/apt/redecho-apt-c2-shutdown.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group RedEcho has taken down its attack infrastructure after it was exposed at the end of February by security researchers. 
+
+
+
+China-linked APT group RedEcho has taken down its attack infrastructure after security experts have exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers accessed emails of top DHS officials as part of SolarWinds breach: report<a href="https://thehill.com//policy/cybersecurity/545405-hackers-accessed-emails-of-top-dhs-officials-as-part-of-solarwinds"> Full Text</a>
 </p>
 <details>
