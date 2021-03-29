@@ -11,6 +11,20 @@ nav_order: 900029
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers accessed emails of top DHS officials as part of SolarWinds breach: report<a href="https://thehill.com//policy/cybersecurity/545405-hackers-accessed-emails-of-top-dhs-officials-as-part-of-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers involved in what has become known as the SolarWinds breach accessed email accounts of top officials at the Department of Homeland Security (DHS) along with other personal information of senior federal officials, the Associated Press reported Monday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Call Center Provider Experiences Major Data Leak<a href="https://www.hackread.com/call-center-provider-experiences-data-leak/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

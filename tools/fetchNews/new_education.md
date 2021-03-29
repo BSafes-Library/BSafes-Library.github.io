@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumble Launches Online Safety Guide<a href="https://www.infosecurity-magazine.com:443/news/bumble-launches-online-safety/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dating app starts Stand for Safety initiative to protect women from online abuse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

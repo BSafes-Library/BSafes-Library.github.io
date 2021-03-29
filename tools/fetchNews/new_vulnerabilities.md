@@ -11,6 +11,34 @@ nav_order: 900220
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple patches zero-day targeted for iPhones, iPads and its popular watches<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/apple-patches-zero-day-targeted-for-iphones-ipads-and-its-popular-watches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Friday said it patched a zero-day cross-site scripting vulnerability affecting iPhones, iPads, the iPod touch and Apple watches that was actively exploited in the wild – the company’s seventh such announcement of a zero-day patch in the past five months. The Cybersecurity and Infrastructure Security Agency (CISA) issued a release on the bug…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patched Linux bugs nix Spectre mitigations<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/patched-linux-bugs-nix-spectre-mitigations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spectre is a flaw in speculative execution in Intel, ARM and AMD processors that first came to light in 2018. The vulnerability could ultimately reveal the contents of memory.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Ovarro TBox RTUs Could Open Industrial Systems to Remote Attacks<a href="https://thehackernews.com/2021/03/flaws-in-ovarro-tbox-rtus-could-open.html"> Full Text</a>
 </p>
 <details>

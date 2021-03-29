@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple patches zero-day targeted for iPhones, iPads and its popular watches<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/apple-patches-zero-day-targeted-for-iphones-ipads-and-its-popular-watches/"> Full Text</a>
@@ -50,7 +50,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Amazon union vote count to start for Alabama warehouse | Hackers accessed emails of top DHS officials as part of SolarWinds breach: report | Ex-Google exec launches left-leaning tech coalition<a href="https://thehill.com//policy/technology/overnights/545457-hillicon-valley-amazon-union-vote-count-starts-this-week-for"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Judge denies Cisco new trial, upholds judgement in patent infringement suit<a href="https://www.scmagazine.com/home/security-news/legal-security-news/judge-denies-cisco-new-trial-upholds-judgement-in-patent-infringement-suit/"> Full Text</a>
@@ -82,7 +82,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Time suck: Security awareness pros are getting sidetracked from core functions<a href="https://www.scmagazine.com/home/security-news/time-suck-security-awareness-pros-are-getting-sidetracked-from-core-functions/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 London-based academies Harris Federation hit by ransomware attack<a href="https://securityaffairs.co/wordpress/116101/malware/harris-federation-hit-ransomware.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hades Ransomware Gang Exhibits Connections to Hafnium<a href="https://threatpost.com/hades-ransomware-connections-hafnium/165069/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Imprisons BEC Scammer<a href="https://www.infosecurity-magazine.com:443/news/us-imprisons-bec-scammer/"> Full Text</a>
@@ -150,7 +150,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Docker Hub images downloaded 20M times come with cryptominers<a href="https://www.bleepingcomputer.com/news/security/docker-hub-images-downloaded-20m-times-come-with-cryptominers/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of Mamba Ransomware - FBI Alerts<a href="https://cyware.com/news/beware-of-mamba-ransomware-fbi-alerts-74c28bd9"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Next Wave of Scams is Bleeding Internet Users<a href="https://cyware.com/news/the-next-wave-of-scams-is-bleeding-internet-users-2343817e"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp is Now Using Hades Ransomware to Evade Sanctions<a href="https://cyware.com/news/evil-corp-is-now-using-hades-ransomware-to-evade-sanctions-62c9499f"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Educational Institutions Getting No Break from Cyberattacks<a href="https://cyware.com/news/educational-institutions-getting-no-break-from-cyberattacks-6300e11f"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Harris Federation hit by ransomware attack affecting 50 schools<a href="https://www.bleepingcomputer.com/news/security/harris-federation-hit-by-ransomware-attack-affecting-50-schools/"> Full Text</a>
@@ -246,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rise of Linux Malware, Spoofing, and COVID-19<a href="https://cyware.com/news/rise-of-linux-malware-spoofing-and-covid-19-2b0bc571"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Solutions Doesn’t Mean More Protection<a href="https://www.infosecurity-magazine.com:443/news/more-solutions-doesnt-mean-more/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked RedEcho APT took down part of its C2 domains<a href="https://securityaffairs.co/wordpress/116094/apt/redecho-apt-c2-shutdown.html"> Full Text</a>
@@ -298,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers accessed emails of top DHS officials as part of SolarWinds breach: report<a href="https://thehill.com//policy/cybersecurity/545405-hackers-accessed-emails-of-top-dhs-officials-as-part-of-solarwinds"> Full Text</a>
@@ -314,7 +314,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bumble Launches Online Safety Guide<a href="https://www.infosecurity-magazine.com:443/news/bumble-launches-online-safety/"> Full Text</a>
@@ -330,7 +330,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #LORCALive: More Work Required to Realize the Potential of AI in Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/lorcalive-work-ai-cybersecurity/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patched Linux bugs nix Spectre mitigations<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/patched-linux-bugs-nix-spectre-mitigations/"> Full Text</a>
@@ -362,7 +362,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedEcho group parks domains after public exposure<a href="https://therecord.media/redecho-group-parks-domains-after-public-exposure/?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In wake of giant software hacks, application security tactics due for an overhaul<a href="https://www.scmagazine.com/application-security/in-wake-of-giant-software-hacks-application-security-tactics-due-for-an-overhaul/"> Full Text</a>
@@ -394,7 +394,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PHP Infiltrated with Backdoor Malware<a href="https://threatpost.com/php-infiltrated-backdoor-malware/165061/"> Full Text</a>

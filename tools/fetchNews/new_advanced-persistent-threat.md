@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked RedEcho APT took down part of its C2 domains<a href="https://securityaffairs.co/wordpress/116094/apt/redecho-apt-c2-shutdown.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group RedEcho has taken down its attack infrastructure after it was exposed at the end of February by security researchers. 
+
+
+
+China-linked APT group RedEcho has taken down its attack infrastructure after security experts have exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

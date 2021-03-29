@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Judge denies Cisco new trial, upholds judgement in patent infringement suit<a href="https://www.scmagazine.com/home/security-news/legal-security-news/judge-denies-cisco-new-trial-upholds-judgement-in-patent-infringement-suit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A district judge summarily dimissed the company’s request for a new trial, writing that the “most compelling evidence [for infringement] originated in Cisco’s own technical documents introduced at trial by Centripetal.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Imprisons BEC Scammer<a href="https://www.infosecurity-magazine.com:443/news/us-imprisons-bec-scammer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas resident scammed schools, senior citizens, and charity supporting families of the terminally ill
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

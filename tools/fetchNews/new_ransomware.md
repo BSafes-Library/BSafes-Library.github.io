@@ -11,6 +11,80 @@ nav_order: 900180
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+London-based academies Harris Federation hit by ransomware attack<a href="https://securityaffairs.co/wordpress/116101/malware/harris-federation-hit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harris Federation, the multi-academy trust of 50 primary and secondary academies in and around London, was hit by a ransomware attack.
+
+
+
+A ransomware attack hit the IT systems of London-based nonprofit multi-academy trust Harris Federation on Saturday,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades Ransomware Gang Exhibits Connections to Hafnium<a href="https://threatpost.com/hades-ransomware-connections-hafnium/165069/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There could be more than immediately meets the eye with this targeted attack group.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Mamba Ransomware - FBI Alerts<a href="https://cyware.com/news/beware-of-mamba-ransomware-fbi-alerts-74c28bd9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mamba ransomware is being used to target local governments, tech services, legal services, public transportation agencies, and industrial, construction, manufacturing, and commercial businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp is Now Using Hades Ransomware to Evade Sanctions<a href="https://cyware.com/news/evil-corp-is-now-using-hades-ransomware-to-evade-sanctions-62c9499f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators behind Hades ransomware are getting their hands even dirtier as they attempt to&nbsp;bypass the sanctions put by federal agencies. Recently, it compromised three major companies&nbsp;in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harris Federation hit by ransomware attack affecting 50 schools<a href="https://www.bleepingcomputer.com/news/security/harris-federation-hit-by-ransomware-attack-affecting-50-schools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT systems and email servers of London-based nonprofit multi-academy trust Harris Federation were taken down by a ransomware attack on Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hades Ransomware Linked to Hafnium and Exchange Attacks<a href="https://www.infosecurity-magazine.com:443/news/hades-ransomware-linked-hafnium/"> Full Text</a>
 </p>
 <details>

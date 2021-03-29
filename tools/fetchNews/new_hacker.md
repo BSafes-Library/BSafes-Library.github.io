@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedEcho group parks domains after public exposure<a href="https://therecord.media/redecho-group-parks-domains-after-public-exposure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RedEcho, which was linked to a campaign that targeted India’s power grid, has taken down its attack infrastructure after having its operations exposed at the end of February 2021.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

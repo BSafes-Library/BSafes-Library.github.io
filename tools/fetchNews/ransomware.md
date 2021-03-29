@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades Ransomware Linked to Hafnium and Exchange Attacks<a href="https://www.infosecurity-magazine.com:443/news/hades-ransomware-linked-hafnium/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Awake Security report claims ransom may not be group’s primary goal
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ziggy ransomware admin announced it will refund victims who paid the ransom<a href="https://securityaffairs.co/wordpress/116079/malware/ziggy-ransomware-refunds-victims.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Administrator of Ziggy ransomware recently announced the end of the operation, and now is promising that its victims will have back their money.
+
+
+
+In an unusual move, the administrator of Ziggy ransomware after the announcement of the end of the operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

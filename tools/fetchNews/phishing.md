@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Effectively Prevent Email Spoofing Attacks in 2021?<a href="https://thehackernews.com/2021/03/how-to-effectively-prevent-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email spoofing is a growing problem for an organization's security. Spoofing occurs when a hacker sends an email that appears to have been sent from a trusted source/domain. Email spoofing is not a new concept. Defined as "the forgery of an email address header to make the message appear as if it was sent from a person or location other than the actual sender," it has plagued brands for decades.&nbsp;  When an email is sent, the From address doesn't show which server the email was actually sent from - instead, it shows the domain that was entered when the address was created so as not to arouse suspicion among recipients.  With the amount of data flowing through email servers these days, it should come as no surprise that spoofing is a problem for businesses. At the end of 2020, we found that phishing incidents were up a staggering 220% year-over-year at the height of the global pandemic scare. Since not all spoofing attacks are large-scale, the actual number could be muc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German MPs Hit by Russian-Backed Phishing Attacks<a href="https://www.infosecurity-magazine.com:443/news/german-mps-hit-russianbacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GRU-linked Ghostwriter group pegged for involvement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
