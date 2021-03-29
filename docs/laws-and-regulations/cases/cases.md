@@ -41,3 +41,15 @@ Conspiracy to Commit Computer Fraud, Sebastien Vachon-Desjardins<a href="https:/
 Beginning on an unknown date, but at least as early as in or about April 2020, and continuing through the date of this Indictment, in the Middle District of Florida and elsewhere, the defendant, SEBASTIEN VACHON-DESJARDINS, did knowingly and intentionally conspire and agree with others known and unknown to the Grand Jury to commit offenses against the United States related to NetWalker Ransomware attacks, that is ...
 </details>
 </div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2019
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+H.R.4792 - Cyber Shield Act of 2019 <a href="https://www.congress.gov/bill/116th-congress/house-bill/4792/text?r=55&s=1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To establish a voluntary program to identify and promote internet-connected products that meet industry-leading cybersecurity and data security standards, guidelines, best practices, methodologies, procedures, and processes, and for other purposes.
+</details>
+</div>
