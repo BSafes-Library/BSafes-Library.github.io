@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Docker Hub images downloaded 20M times come with cryptominers<a href="https://www.bleepingcomputer.com/news/security/docker-hub-images-downloaded-20m-times-come-with-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that more than two-dozen containers on Docker Hub have been downloaded more than 20 million times for cryptojacking operations spanning at least two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Mamba Ransomware - FBI Alerts<a href="https://cyware.com/news/beware-of-mamba-ransomware-fbi-alerts-74c28bd9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mamba ransomware is being used to target local governments, tech services, legal services, public transportation agencies, and industrial, construction, manufacturing, and commercial businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Next Wave of Scams is Bleeding Internet Users<a href="https://cyware.com/news/the-next-wave-of-scams-is-bleeding-internet-users-2343817e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rampant scams continue to  diddle  thousands of online users worldwide. L osses from these financially motivated BEC and EAC scams surpassed $1.86 billion in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp is Now Using Hades Ransomware to Evade Sanctions<a href="https://cyware.com/news/evil-corp-is-now-using-hades-ransomware-to-evade-sanctions-62c9499f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators behind Hades ransomware are getting their hands even dirtier as they attempt to&nbsp;bypass the sanctions put by federal agencies. Recently, it compromised three major companies&nbsp;in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Educational Institutions Getting No Break from Cyberattacks<a href="https://cyware.com/news/educational-institutions-getting-no-break-from-cyberattacks-6300e11f"> Full Text</a>
 </p>
 <details>
