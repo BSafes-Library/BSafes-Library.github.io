@@ -130,6 +130,18 @@ Cybersecurity threats and compromises have been at the epicenter of media attent
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+October, 2020<br>
+• Electric Vehicle Charging Infrastructure Trends from the Alternative Fueling Station Locator: First Quarter 2020 [HTML](https://papers.bsafes.com/docs/electric-vehicle/electric-vehicle-charging-infrastructure-trends-from-the-alternative-fueling-station-locator-first-quarter-2020/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The US. Department of Energy’s (DOE’s) Alternative Fueling Station Locator contains information on public and private non-residential alternative fueling stations in the United States and Canada and currently tracks ethanol (E85), biodiesel, compressed natural gas, electric vehicle (EV) charging, hydrogen, liquefied natural gas, and propane stations. Of these fuels, EV charging continues to experience rapidly changing technology and growing infrastructure. This report provides a snapshot of the state of EV charging infrastructure in the United States in the first calendar quarter of 2020 (Q1). Using data from the Station Locator, this report breaks down the growth of public and private charging infrastructure by charging level, network, and location. Additionally, this report measures the current state of charging infrastructure compared with the amount projected to meet charging demand for an estimated 15 million plug-in electric vehicles by 2030. This information is intended to help transportation planners, policymakers, researchers, infrastructure developers, and others understand the rapidly changing landscape for EV charging.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 Fall , 2020  
 • Defending Democracy: Taking Stock of the Global Fight Against Digital Repression, Disinformation, and Election Insecurity [HTML](https://papers.bsafes.com/docs/Politics/defending-democracy-taking-stock-of-the-global-fight-against-digital-repression-disinformation-and-election-insecurity/)
 </p>
