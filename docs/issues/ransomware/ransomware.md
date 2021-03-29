@@ -11,6 +11,20 @@ nav_order: 900180
 March 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware admin is refunding victims their ransom payments<a href="https://www.bleepingcomputer.com/news/security/ransomware-admin-is-refunding-victims-their-ransom-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After recently announcing the end of the operation, the administrator of Ziggy ransomware is now stating that they will also give the money back.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CompuCom MSP expects over $20M in losses after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/compucom-msp-expects-over-20m-in-losses-after-ransomware-attack/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CompuCom MSP expects over $20M in losses after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/compucom-msp-expects-over-20m-in-losses-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American managed service provider&nbsp;CompuCom is expecting losses of over $20 million following this month's DarkSide ransomware attack that took down most of its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware gang now contacts victims’ customers to force victims into pay a ransom<a href="https://securityaffairs.co/wordpress/116029/cyber-crime/clop-ransomware-extortion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware operators now email victim's customers and ask them to demand a ransom payment to protect their privacy to force victims into paying the ransom.
+
+
+
+Clop ransomware operators are switching to a new tactic to force victims into paying the ransom...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

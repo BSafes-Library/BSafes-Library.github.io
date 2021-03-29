@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater APT Goes Ham on its Targets<a href="https://cyware.com/news/muddywater-apt-goes-ham-on-its-targets-bd67fa1b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month, Trend Micro attributed the politically-motivated hacking group to a newly discovered cyber espionage campaign dubbed Earth Vetala.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
