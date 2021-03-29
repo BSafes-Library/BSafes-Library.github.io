@@ -40,6 +40,18 @@ Many online chat applications live in a grey area between the legitimate web and
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+February, 2021<br>
+• Protecting Children in the Frontier of Surveillance Capitalism [HTML](https://papers.bsafes.com/docs/privacy/protecting-children-in-the-frontier-of-surveillance-capitalism/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This article examines the ongoing technological revolution and its impact on today’s consumers. In particular, this article addresses the promulgation of the Children’s Online Privacy Protection Act (COPPA) in the context of “surveillance capitalism” and analyzes the harms associated with social media and data collection. Finally, this paper will argue that COPPA should be revamped to better regulate the Internet of 2020. A just society ought to protect children from the lurking perils of social media.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 January, 2021<br>
 • Repeal the Defend Trade Secret Act: Why Congress Can’t Rely on Trade Secret Law to Protect America’s Trade Secrets [HTML](https://papers.bsafes.com/docs/law/repeal-the-defend-trade-secret-act-whey-congress-cant-rely-on-trade-secret-law-to-protect-americas-trade-secrets/)
 </p>
