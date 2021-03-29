@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Educational Institutions Getting No Break from Cyberattacks<a href="https://cyware.com/news/educational-institutions-getting-no-break-from-cyberattacks-6300e11f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a spike in cybercriminals targeting schools, colleges, and universities. Stakeholders are recommended to devise a robust strategy to parry attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Harris Federation hit by ransomware attack affecting 50 schools<a href="https://www.bleepingcomputer.com/news/security/harris-federation-hit-by-ransomware-attack-affecting-50-schools/"> Full Text</a>
 </p>
 <details>
