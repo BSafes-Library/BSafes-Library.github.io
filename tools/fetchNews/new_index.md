@@ -34,7 +34,371 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP's Git server hacked to add backdoors to PHP source code<a href="https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest software supply chain attack, the official PHP Git repository was hacked and tampered with. Yesterday, two malicious commits were pushed to the php-src Git repository maintained by the PHP team on their git.php.net server. The threat actors had signed off on these commits as if they were made by known PHP developers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Advanced Android Malware Poses as “System Update” to Steal Messages, Images and Taking Control of Android Phones<a href="https://cybersecuritynews.com/android-malware-poses-as-system-update/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Zimperium zLabs researchers revealed unsecured cloud configurations exposing information in thousands of legitimate iOS and Android apps. zLabs is warning Android users...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call Center Provider Experiences Major Data Leak<a href="https://www.hackread.com/call-center-provider-experiences-data-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From the time when it was exposed till when it was secured again, the database logged 1.48 million robocalls altogether and the majority of the calls were outgoing but some callbacks were also logged.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Ovarro TBox RTUs Could Open Industrial Systems to Remote Attacks<a href="https://thehackernews.com/2021/03/flaws-in-ovarro-tbox-rtus-could-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five vulnerabilities have been uncovered in Ovarro's TBox remote terminal units (RTUs) that, if left unpatched, could open the door for escalating attacks against critical infrastructures, like remote code execution and denial-of-service.  "Successful exploitation of these vulnerabilities could result in remote code execution, which may cause a denial-of-service condition," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said  in an advisory published on March 23.  TBox is an "all-in-one" solution for automation and control systems for supervisory control and data acquisition ( SCADA ) applications, with its telemetry software used for remote control and monitoring of assets in a number of critical infrastructure sectors, such as water, power, oil and gas, transportation, and process industries. TBox devices can be programmed using a software suite called TWinSoft, which allows for the creation of interactive web pages, where users
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ClubCISO Appoints Stephen Khan as its New Chair<a href="https://www.infosecurity-magazine.com:443/news/clubciso-steohen-khan-chair/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Khan replaces Dr Jessica Barker in the role
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached the PHP ‘s Git Server and inserted a backdoor in the source code<a href="https://securityaffairs.co/wordpress/116088/hacking/php-git-server-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the official Git server of the PHP programming language and pushed unauthorized updates to insert a backdoor into the source code.
+
+
+
+Unknown attackers hacked the official Git server of the PHP programming language and pushed unauthorized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet the 2021 SC Awards judges<a href="https://www.scmagazine.com/scawards/meet-the-2021-sc-awards-judges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introducing our esteemed panel of judges for the SC Trust and Excellence Awards, cybersecurity leaders contributing from health care, engineering, finance, education, manufacturing, non profit, and consulting, among others.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpaceX Engineer Pleads Guilty for Insider Trading on the Dark Web<a href="https://cybersecuritynews.com/spacex-engineer-pleads-guilty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A SpaceX engineer pleaded guilty for exchanging insider trading tips on the dark web. James Roland Jones, aged 33, of Hermosa Beach,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Android spyware masquerades as a ‘system update’<a href="https://techcrunch.com/2021/03/26/android-malware-system-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spyware can steal messages, contacts, device details, browser bookmarks and search history, record calls and ambient sound from the microphone, and take photos using the phone’s cameras.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bugs Could Let Hackers Bypass Spectre Attack Mitigations On Linux Systems<a href="https://thehackernews.com/2021/03/new-bugs-could-let-hackers-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed two new vulnerabilities in Linux-based operating systems that, if successfully exploited, could let attackers circumvent mitigations for speculative attacks such as  Spectre  and obtain sensitive information from kernel memory.  Discovered by  Piotr Krysiuk  of Symantec's Threat Hunter team, the flaws — tracked as CVE-2020-27170 and CVE-2020-27171 (CVSS scores: 5.5) — impact all Linux kernels prior to 5.11.8. Patches for the security issues were released on March 20, with Ubuntu, Debian, and Red Hat deploying fixes for the vulnerabilities in their respective Linux distributions.  While  CVE-2020-27170  can be abused to reveal content from any location within the kernel memory,  CVE-2020-27171  can be used to retrieve data from a 4GB range of kernel memory.   First documented in January 2018,  Spectre and Meltdown  take advantage of flaws in modern processors to  leak data  that are currently processed on the computer, thereby allowing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades Ransomware Linked to Hafnium and Exchange Attacks<a href="https://www.infosecurity-magazine.com:443/news/hades-ransomware-linked-hafnium/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Awake Security report claims ransom may not be group’s primary goal
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ziggy ransomware admin announced it will refund victims who paid the ransom<a href="https://securityaffairs.co/wordpress/116079/malware/ziggy-ransomware-refunds-victims.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Administrator of Ziggy ransomware recently announced the end of the operation, and now is promising that its victims will have back their money.
+
+
+
+In an unusual move, the administrator of Ziggy ransomware after the announcement of the end of the operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live Broadcast at Australia’s Channel Nine Goes Down due to Cyberattack<a href="https://securityaffairs.co/wordpress/116053/breaking-news/channel-nine-cyber-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The broadcaster was unable to air its Sunday morning news program, which runs from 7:00 AM to 1:00 PM from Sidney. The 5:00 PM news program, which is transmitted from Melbourne, did not go to air too.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Effectively Prevent Email Spoofing Attacks in 2021?<a href="https://thehackernews.com/2021/03/how-to-effectively-prevent-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email spoofing is a growing problem for an organization's security. Spoofing occurs when a hacker sends an email that appears to have been sent from a trusted source/domain. Email spoofing is not a new concept. Defined as "the forgery of an email address header to make the message appear as if it was sent from a person or location other than the actual sender," it has plagued brands for decades.   When an email is sent, the From address doesn't show which server the email was actually sent from - instead, it shows the domain that was entered when the address was created so as not to arouse suspicion among recipients.  With the amount of data flowing through email servers these days, it should come as no surprise that spoofing is a problem for businesses. At the end of 2020, we found that phishing incidents were up a staggering 220% year-over-year at the height of the global pandemic scare. Since not all spoofing attacks are large-scale, the actual number could be muc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#IMOS21: Infosecurity Magazine Spring Online Summit Now Available On-Demand<a href="https://www.infosecurity-magazine.com:443/news/imos21-online-summit-ondemand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Full event now available to watch anytime, anywhere!
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Purple Fox version includes Rootkit and implements wormable propagation<a href="https://securityaffairs.co/wordpress/116070/malware/purple-fox-rootkit-version.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Guardicore have spotted a new variant of the Purple Fox Windows malware that implements worm-like propagation capabilities.
+
+
+
+Researchers from Guardicore have discovered a new version of the Purple Fox Windows malware that implements...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackBlaze Mistakenly Shared Backup Meta Data with Facebook<a href="https://heimdalsecurity.com/blog/backblaze-shared-meta-data-with-facebook/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this month, a user reported to Backblaze the fact that the B2 web UI looked like it was submitting all of the names and sizes of his files in the B2 bucket to Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s CNI Security Threatened by Staff Burnout<a href="https://www.infosecurity-magazine.com:443/news/cni-security-threatened-burnout/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT skills shortage could also weaken Britain’s defense against attacks on critical national infrastructures
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No, I Did Not Hack Your MS Exchange Server — Krebs on Security<a href="https://krebsonsecurity.com/2021/03/no-i-did-not-hack-your-ms-exchange-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The motivations of the cybercriminals behind the Krebonsecurity dot top domain are unclear, but the domain itself has a recent association with other cybercrime activity — and harassing this author.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German MPs Hit by Russian-Backed Phishing Attacks<a href="https://www.infosecurity-magazine.com:443/news/german-mps-hit-russianbacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GRU-linked Ghostwriter group pegged for involvement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aussie TV Network Taken Off Air by Ransomware<a href="https://www.infosecurity-magazine.com:443/news/aussie-tv-network-taken-off-air-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No ransom demand could indicate state involvement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP's Git Server Hacked to Insert Secret Backdoor to Its Source code<a href="https://thehackernews.com/2021/03/phps-git-server-hacked-to-insert-secret.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another instance of a software supply chain attack, unidentified actors hacked the official Git server of the PHP programming language and pushed unauthorized updates to insert a secret backdoor into its source code.  The two malicious commits were pushed to the self-hosted "php-src" repository hosted on the git.php.net server, illicitly using the names of Rasmus Lerdorf, the author of the programming language, and Nikita Popov, a software developer at Jetbrains.  The changes are said to have been made yesterday on March 28.   "We don't yet know how exactly this happened, but everything points towards a compromise of the git.php.net server (rather than a compromise of an individual git account)," Popov  said  in an announcement.   The changes, which were committed  as " Fix Typo " in an attempt to slip through undetected as a typographical correction, involved provisions for execution of arbitrary PHP code. "This line executes PHP code fro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware admin is refunding victims their ransom payments<a href="https://www.bleepingcomputer.com/news/security/ransomware-admin-is-refunding-victims-their-ransom-payments/"> Full Text</a>
@@ -50,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical netmask networking bug impacts thousands of applications<a href="https://www.bleepingcomputer.com/news/security/critical-netmask-networking-bug-impacts-thousands-of-applications/"> Full Text</a>
@@ -66,7 +430,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MuddyWater APT Goes Ham on its Targets<a href="https://cyware.com/news/muddywater-apt-goes-ham-on-its-targets-bd67fa1b"> Full Text</a>
@@ -82,7 +446,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found two flaws in Facebook for WordPress Plugin<a href="https://securityaffairs.co/wordpress/116063/social-networks/facebook-wordpress-plugin-attacks.html"> Full Text</a>
@@ -102,7 +466,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP NAS Devices: A Juicy Target for Cryptominers<a href="https://cyware.com/news/qnap-nas-devices-a-juicy-target-for-cryptominers-4cb5ebf8"> Full Text</a>
@@ -118,7 +482,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2021
+March 28, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers disrupted live broadcasts at Channel Nine. Is it a Russian retaliation?<a href="https://securityaffairs.co/wordpress/116053/breaking-news/channel-nine-cyber-attack.html"> Full Text</a>
