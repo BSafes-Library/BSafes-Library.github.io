@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+What Would Happen If States Started Looking at Cyber Operations as a “Threat” to Use Force?<a href="https://www.lawfareblog.com/what-would-happen-if-states-started-looking-cyber-operations-threat-use-force"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+States and other stakeholders can use Article 2(4) of the U.N. Charter to bar not just uses of force in cyberspace but also threats of such force by equal measure.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Spotted Posing as System Update<a href="https://cyware.com/news/new-android-malware-spotted-posing-as-system-update-e4a545c4"> Full Text</a>
 </p>
 <details>
