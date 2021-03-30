@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scammers target universities in ongoing IRS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/scammers-target-universities-in-ongoing-irs-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service (IRS) is warning of ongoing phishing attacks impersonating the IRS and targeting educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#LORCALive: Nation State Cooperation Essential to Fighting Scourge of Cybercrime<a href="https://www.infosecurity-magazine.com:443/news/nation-state-cooperation-fighting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Can more dialogue be promoted between rival nations?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Younger Ransomware Victims More Likely to Pay Up<a href="https://www.infosecurity-magazine.com:443/news/younger-ransomware-victims-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research finds fewer ransomware victims over the age of 55 pay to recover their data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New U.K. NCSC chief stresses on the importance of investing in cybersecurity hygiene<a href="https://www.theregister.com/2021/03/30/ncsc_ceo_infosec_better_than_insurance/?&web_view=true"> Full Text</a>
 </p>
 <details>
