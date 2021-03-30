@@ -37,6 +37,106 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Leading Indian fintech platform MobiKwik denies data breach<a href="https://www.bleepingcomputer.com/news/security/leading-indian-fintech-platform-mobikwik-denies-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian digital financial services platform Mobikwik denies claims that almost 8 TB of data put up for sale was allegedly stolen from its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+52% of Indian firms report cyberattack in the last 12 months<a href="https://ciso.economictimes.indiatimes.com/news/52-of-indian-firms-report-cyber-attack-in-last-12-months/81758955?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 52 percent of Indian organizations said they fell victim to a successful cybersecurity attack in the last 12 months, according to a survey released on Tuesday by Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reflected XSS Vulnerability In “Ivory Search” WP Plugin Impact Over 60K sites<a href="https://securityaffairs.co/wordpress/116140/hacking/reflected-xss-ivory-search-wp-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a reflected XSS vulnerability in the Ivory Search WordPress Plugin installed on over 60,000 sites.
+
+
+
+On March 28, 2021, Astra Security Threat Intelligence Team responsibly disclosed a vulnerability in Ivory Search, a WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian telcos have blocked over 55 million scam calls since December<a href="https://www.zdnet.com/article/australian-telcos-have-blocked-over-55-million-scam-calls-since-december/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian Communications Minister Paul Fletcher said on Tuesday that Australian telcos have blocked over 55 million scam calls since the industry got a new scam call code in December.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai Sees Largest DDoS Extortion Attack Known to Date<a href="https://www.securityweek.com/akamai-sees-largest-ddos-extortion-attack-known-date?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial of service (DDoS) attacks are growing bigger in volume, and they have also become more targeted and increasingly persistent, according to web security services provider Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Cloud Data Protection Vendor HYCU Closes $87.5M Funding Round<a href="https://www.crn.com/news/storage/multi-cloud-data-protection-vendor-hycu-closes-87-5m-funding-round?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HYCU, which was founded in April 2018, managed to stay completely private for a very long time before working with Bain Capital Ventures, which is leading the A funding round, said CEO Simon Taylor.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange attacks increase while WannaCry gets a restart<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-attacks-increase-while-wannacry-gets-a-restart/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MobiKwik Data Breach – Hackers Selling Over 8TB of Users Personal and Financial Data<a href="https://cybersecuritynews.com/mobikwik-data-breach/"> Full Text</a>
@@ -66,7 +166,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware negotiations: An inside look at the process<a href="https://searchsecurity.techtarget.com/feature/Ransomware-negotiations-An-inside-look-at-the-process?&web_view=true"> Full Text</a>
@@ -82,7 +182,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Double-Extortion Ransomware Attacks Surged in 2020<a href="https://www.infosecurity-magazine.com:443/news/double-extortion-ransomware/"> Full Text</a>
@@ -98,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found 2 Linux Kernel flaws that can allow bypassing Spectre mitigations<a href="https://securityaffairs.co/wordpress/116131/security/linux-kernel-flaws-spectre-bypass.html"> Full Text</a>
@@ -118,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel Sued Under Wiretapping Laws for Tracking User Activity on its Website<a href="https://threatpost.com/intel-sued-under-wiretapping-laws/165104/"> Full Text</a>
@@ -134,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PHP Git Server Hacked – Attackers Insert Secret Backdoor to Its Source Code<a href="https://cybersecuritynews.com/php-git-server-hacked/"> Full Text</a>
@@ -150,7 +250,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steam users: Don’t fall for the "I accidentally reported you" scam<a href="https://blog.malwarebytes.com/scams/2021/03/steam-users-dont-fall-for-the-i-accidentally-reported-you-scam/?&web_view=true"> Full Text</a>
@@ -166,7 +266,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Concern as Ransomware and Exchange Server Attacks Surge<a href="https://www.infosecurity-magazine.com:443/news/concerns-ransomware-exchange/"> Full Text</a>
@@ -182,7 +282,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of thousands of projects affected by a flaw in netmask npm package<a href="https://securityaffairs.co/wordpress/116126/hacking/netmask-npm-package-flaw.html"> Full Text</a>
@@ -202,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manufacturing Firms Learn Cybersecurity the Hard Way<a href="https://www.darkreading.com/physical-security/manufacturing-firms-learn-cybersecurity-the-hard-way/d/d-id/1340542?&web_view=true"> Full Text</a>
@@ -218,7 +318,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fileless Malware Detections Soar 900% in 2020<a href="https://www.infosecurity-magazine.com:443/news/fileless-malware-detections-soar-1/"> Full Text</a>
@@ -234,7 +334,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 30 Docker images downloaded 20M times in cryptojacking attacks<a href="https://securityaffairs.co/wordpress/116111/cyber-crime/docker-cryptojacking-attacks.html"> Full Text</a>
@@ -254,7 +354,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 London-based Multi-Academy Trust Harris Federation Suffers System Outage Due to Ransomware Attack<a href="https://securityaffairs.co/wordpress/116101/malware/harris-federation-hit-ransomware.html?&web_view=true"> Full Text</a>
@@ -270,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Attackers Accessed DHS Secretary’s Emails — Report<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-attackers-accessed-dhs/"> Full Text</a>
@@ -286,7 +386,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack at New York-based Personal Touch Holding Corp Affects Over 753,000 Patients, Employees<a href="https://www.inforisktoday.com/ransomware-home-health-firm-reports-2nd-cloud-vendor-incident-a-16291?&web_view=true"> Full Text</a>
@@ -302,7 +402,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Ransomware Group Leaks Data Allegedly Stolen from Universities of Maryland, California<a href="https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/?&web_view=true"> Full Text</a>
@@ -318,7 +418,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia investigates reported hacks aimed at parliament, media<a href="https://www.cyberscoop.com/australia-hacks-parliament-channel-nine/?&web_view=true"> Full Text</a>
@@ -334,7 +434,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US charges close to 500 individuals for COVID-19 fraud, criminal activity<a href="https://www.zdnet.com/article/us-charges-close-to-500-individuals-for-covid-19-fraud-criminal-activity/?&web_view=true"> Full Text</a>
@@ -350,7 +450,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers discover SAML XML Injection vulnerability<a href="https://research.nccgroup.com/2021/03/29/saml-xml-injection/?&web_view=true"> Full Text</a>
@@ -366,7 +466,7 @@ NCC Group
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2021
+March 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MobiKwik Suffers Major Breach — KYC Data of 3.5 Million Users Exposed<a href="https://thehackernews.com/2021/03/mobikwik-suffers-major-breach-kyc-data.html"> Full Text</a>

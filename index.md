@@ -34,6 +34,106 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading Indian fintech platform MobiKwik denies data breach<a href="https://www.bleepingcomputer.com/news/security/leading-indian-fintech-platform-mobikwik-denies-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian digital financial services platform Mobikwik denies claims that almost 8 TB of data put up for sale was allegedly stolen from its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+52% of Indian firms report cyberattack in the last 12 months<a href="https://ciso.economictimes.indiatimes.com/news/52-of-indian-firms-report-cyber-attack-in-last-12-months/81758955?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 52 percent of Indian organizations said they fell victim to a successful cybersecurity attack in the last 12 months, according to a survey released on Tuesday by Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reflected XSS Vulnerability In “Ivory Search” WP Plugin Impact Over 60K sites<a href="https://securityaffairs.co/wordpress/116140/hacking/reflected-xss-ivory-search-wp-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a reflected XSS vulnerability in the Ivory Search WordPress Plugin installed on over 60,000 sites.
+
+
+
+On March 28, 2021, Astra Security Threat Intelligence Team responsibly disclosed a vulnerability in Ivory Search, a WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian telcos have blocked over 55 million scam calls since December<a href="https://www.zdnet.com/article/australian-telcos-have-blocked-over-55-million-scam-calls-since-december/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian Communications Minister Paul Fletcher said on Tuesday that Australian telcos have blocked over 55 million scam calls since the industry got a new scam call code in December.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai Sees Largest DDoS Extortion Attack Known to Date<a href="https://www.securityweek.com/akamai-sees-largest-ddos-extortion-attack-known-date?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial of service (DDoS) attacks are growing bigger in volume, and they have also become more targeted and increasingly persistent, according to web security services provider Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Cloud Data Protection Vendor HYCU Closes $87.5M Funding Round<a href="https://www.crn.com/news/storage/multi-cloud-data-protection-vendor-hycu-closes-87-5m-funding-round?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HYCU, which was founded in April 2018, managed to stay completely private for a very long time before working with Bain Capital Ventures, which is leading the A funding round, said CEO Simon Taylor.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
