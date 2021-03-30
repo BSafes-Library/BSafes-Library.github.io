@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Officials say cyber executive order with 'a dozen' actions forthcoming | Epic Games submits Apple complaint to UK watchdog | Facebook's chief revenue officer to leave company<a href="https://thehill.com//policy/technology/overnights/545635-hillicon-valley-officials-say-cyber-executive-order-with-a-dozen"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top federal officials teased an upcoming executive order to improve federal cybersecurity in the wake of two major international hacking incidents. Meanwhile, Epic Games filed a complaint about Apple’s “monopolistic” aspects with a British watchdog group, and a top Facebook official announced his departure. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Officials say executive order with 'a dozen' actions forthcoming after SolarWinds, Microsoft breaches<a href="https://thehill.com//policy/cybersecurity/545631-officials-say-executive-order-with-a-dozen-actions-incoming-after"> Full Text</a>
 </p>
 <details>
