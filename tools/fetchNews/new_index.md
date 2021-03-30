@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: Can Editorial Middleware Cut the Power of the Big Platforms?<a href="https://www.lawfareblog.com/cyberlaw-podcast-can-editorial-middleware-cut-power-big-platforms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest episode of the Cyberlaw Podcast.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ziggy Ransomware Gang Offers Refund to Victims<a href="https://threatpost.com/ziggy-ransomware-gang-offers-refund-to-victims/165124/"> Full Text</a>
 </p>
 <details>
