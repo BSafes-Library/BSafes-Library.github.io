@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dog Helps Kids Stay Safe Online<a href="https://www.infosecurity-magazine.com:443/news/dog-helps-kids-stay-safe-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lacey the dog teaches children about cybersecurity awareness in new book by CISO
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Attackers Accessed DHS Emails, Report<a href="https://threatpost.com/solarwinds-attackers-dhs-emails/165110/"> Full Text</a>
 </p>
 <details>
