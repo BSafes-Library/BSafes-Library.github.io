@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses SSRF flaw in vRealize Operations that allows stealing admin credentials<a href="https://securityaffairs.co/wordpress/116145/security/vmware-vrealize-operations-ssrf-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a high severity vulnerability in vRealize Operations that could allow stealing admin credentials from vulnerable servers.
+
+
+
+VMware has published security updates to address multiple vulnerabilities in VMware vRealize Operations that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US govt warns that buying fake COVID-19 vaccine cards is a crime<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-that-buying-fake-covid-19-vaccine-cards-is-a-crime/"> Full Text</a>
 </p>
 <details>
