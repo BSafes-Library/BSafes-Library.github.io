@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ziggy Ransomware Gang Offers Refund to Victims<a href="https://threatpost.com/ziggy-ransomware-gang-offers-refund-to-victims/165124/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ziggy joins Fonix ransomware group and shuts down, with apologies to targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Docker Cryptomining Images Rack Up 20M Downloads<a href="https://threatpost.com/malicious-docker-cryptomining-images/165120/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Publicly available cloud images are spreading Monero-mining malware to unsuspecting cloud developers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New ‘digital trust exchange’ removes risks of managing  PII of job applicants<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/new-digital-trust-exchange-removes-risks-of-managing-pii-of-job-applicants/"> Full Text</a>
 </p>
 <details>

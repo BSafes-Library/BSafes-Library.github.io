@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New ‘digital trust exchange’ removes risks of managing  PII of job applicants<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/new-digital-trust-exchange-removes-risks-of-managing-pii-of-job-applicants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The onus of responsible data stewardship fall on employing organizations, when in reality they’d probably prefer to move that burden elsewhere. Raj Ananthanpillai, CEO of Endera, believes he has created a solution to this problem.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 VMware addresses SSRF flaw in vRealize Operations that allows stealing admin credentials<a href="https://securityaffairs.co/wordpress/116145/security/vmware-vrealize-operations-ssrf-flaw.html"> Full Text</a>
 </p>
 <details>
