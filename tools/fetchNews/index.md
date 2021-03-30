@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New U.K. NCSC chief stresses on the importance of investing in cybersecurity hygiene<a href="https://www.theregister.com/2021/03/30/ncsc_ceo_infosec_better_than_insurance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So-called cyber-attack insurance "cannot be a substitute for better basic cybersecurity," the National Cyber Security Centre's chief exec has said in her first major speech since taking office.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US: DeKalb County schools notify parents about data breach<a href="https://www.ajc.com/news/atlanta-news/dekalb-schools-notify-parents-about-data-breach/RWU6MHZYBJBUTPG3SXRGNLMU3Q/?&web_view=true"> Full Text</a>
 </p>
 <details>
