@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US: DeKalb County schools notify parents about data breach<a href="https://www.ajc.com/news/atlanta-news/dekalb-schools-notify-parents-about-data-breach/RWU6MHZYBJBUTPG3SXRGNLMU3Q/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some students at the DeKalb County School District may have their personal information exposed in a 2019 security breach at PCS Revenue Control Systems, a school nutrition technology services firm.
+</details>
+<div style="text-align: right" markdown="1">
+AJC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Leading Indian fintech platform MobiKwik denies data breach<a href="https://www.bleepingcomputer.com/news/security/leading-indian-fintech-platform-mobikwik-denies-data-breach/"> Full Text</a>
 </p>
 <details>
