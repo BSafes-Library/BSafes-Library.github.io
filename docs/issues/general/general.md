@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange attacks increase while WannaCry gets a restart<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-attacks-increase-while-wannacry-gets-a-restart/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently patched vulnerabilities in Microsoft Exchange have sparked new interest among cybercriminals, who increased the volume of attacks focusing on this particular vector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Concern as Ransomware and Exchange Server Attacks Surge<a href="https://www.infosecurity-magazine.com:443/news/concerns-ransomware-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point urges admins to patch now
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Firms Learn Cybersecurity the Hard Way<a href="https://www.darkreading.com/physical-security/manufacturing-firms-learn-cybersecurity-the-hard-way/d/d-id/1340542?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturing firms have become a top target of cybercriminals and nation-state groups, with 61% of firms experiencing a security incident affecting their factories, as per a report by Trend Micro.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia investigates reported hacks aimed at parliament, media<a href="https://www.cyberscoop.com/australia-hacks-parliament-channel-nine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian officials are investigating two apparent security issues that have resulted in downtime for a parliamentary email system, and technical issues for a popular television broadcaster.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

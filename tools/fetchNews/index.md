@@ -34,6 +34,354 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange attacks increase while WannaCry gets a restart<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-attacks-increase-while-wannacry-gets-a-restart/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently patched vulnerabilities in Microsoft Exchange have sparked new interest among cybercriminals, who increased the volume of attacks focusing on this particular vector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobiKwik Data Breach – Hackers Selling Over 8TB of Users Personal and Financial Data<a href="https://cybersecuritynews.com/mobikwik-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Threat actor offers to sell 8 TB of MobiKwik’s personal and financial data on almost 100M consumers. MobiKwik is India’s leading fintech...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware negotiations: An inside look at the process<a href="https://searchsecurity.techtarget.com/feature/Ransomware-negotiations-An-inside-look-at-the-process?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance carriers typically have lists or "panels" of approved vendors for various incident response services that address breaches and ransomware attacks, including ransomware negotiations.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-Extortion Ransomware Attacks Surged in 2020<a href="https://www.infosecurity-magazine.com:443/news/double-extortion-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+15 ransomware families were observed using double-extortion tactics last year, compared to just one in 2019
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 2 Linux Kernel flaws that can allow bypassing Spectre mitigations<a href="https://securityaffairs.co/wordpress/116131/security/linux-kernel-flaws-spectre-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux kernel recently fixed a couple of vulnerabilities that could allow an attacker to bypass mitigations designed to protect devices against Spectre attacks.
+
+
+
+Kernel updates released in March have addressed a couple of vulnerabilities that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Sued Under Wiretapping Laws for Tracking User Activity on its Website<a href="https://threatpost.com/intel-sued-under-wiretapping-laws/165104/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A class-action suit in Florida accuses the tech giant of unlawfully intercepting communications by using session-replay software to capture the interaction of people visiting the corporate homepage Intel.com.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Git Server Hacked – Attackers Insert Secret Backdoor to Its Source Code<a href="https://cybersecuritynews.com/php-git-server-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Threat actors have recently managed to gain control of PHP's Git repository by implementing two back doors to the code. However, the...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steam users: Don’t fall for the "I accidentally reported you" scam<a href="https://blog.malwarebytes.com/scams/2021/03/steam-users-dont-fall-for-the-i-accidentally-reported-you-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fraudsters behind the “I accidentally reported you” Steam scam usually approach their targets under the pretext that they need something, or they have something to say.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Concern as Ransomware and Exchange Server Attacks Surge<a href="https://www.infosecurity-magazine.com:443/news/concerns-ransomware-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point urges admins to patch now
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of thousands of projects affected by a flaw in netmask npm package<a href="https://securityaffairs.co/wordpress/116126/hacking/netmask-npm-package-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the netmask npm package, tracked as CVE-2021-28918, could be exploited by attackers to conduct a variety of attacks.
+
+
+
+A vulnerability in the netmask npm package, tracked as CVE-2021-28918, could expose private networks to multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Firms Learn Cybersecurity the Hard Way<a href="https://www.darkreading.com/physical-security/manufacturing-firms-learn-cybersecurity-the-hard-way/d/d-id/1340542?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturing firms have become a top target of cybercriminals and nation-state groups, with 61% of firms experiencing a security incident affecting their factories, as per a report by Trend Micro.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fileless Malware Detections Soar 900% in 2020<a href="https://www.infosecurity-magazine.com:443/news/fileless-malware-detections-soar-1/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers continue to look for ways to evade detection
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+30 Docker images downloaded 20M times in cryptojacking attacks<a href="https://securityaffairs.co/wordpress/116111/cyber-crime/docker-cryptojacking-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered that 30 malicious Docker images with a total number of 20 million pulls were involved in cryptomining operations.
+
+
+
+Palo Alto Network researcher Aviv Sasson discovered 30 malicious Docker images, which were downloaded 20 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London-based Multi-Academy Trust Harris Federation Suffers System Outage Due to Ransomware Attack<a href="https://securityaffairs.co/wordpress/116101/malware/harris-federation-hit-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once discovered the ransomware infection, the IT staff at the nonprofit organization has taken its systems offline along with the email and landline phone systems, and students’ devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Attackers Accessed DHS Secretary’s Emails — Report<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-attackers-accessed-dhs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trump administration’s security boss and staff compromised
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack at New York-based Personal Touch Holding Corp Affects Over 753,000 Patients, Employees<a href="https://www.inforisktoday.com/ransomware-home-health-firm-reports-2nd-cloud-vendor-incident-a-16291?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A home healthcare company says a data breach affecting more than 753,000 patients, employees and former workers stems from a ransomware attack on its private cloud hosted by managed service providers.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware Group Leaks Data Allegedly Stolen from Universities of Maryland, California<a href="https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware group has posted financial documents and passport information allegedly belonging to the University of Maryland and the University of California online.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia investigates reported hacks aimed at parliament, media<a href="https://www.cyberscoop.com/australia-hacks-parliament-channel-nine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian officials are investigating two apparent security issues that have resulted in downtime for a parliamentary email system, and technical issues for a popular television broadcaster.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges close to 500 individuals for COVID-19 fraud, criminal activity<a href="https://www.zdnet.com/article/us-charges-close-to-500-individuals-for-covid-19-fraud-criminal-activity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an update published last week, the DoJ said that 474 defendants to date have been publicly charged "with criminal offenses based on fraud schemes connected to the COVID-19 pandemic."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers discover SAML XML Injection vulnerability<a href="https://research.nccgroup.com/2021/03/29/saml-xml-injection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw could allow an attacker to modify SAML responses generated by an Identity Provider, and thereby gain unauthorized access to user accounts, or to escalate privileges within an application.
+</details>
+<div style="text-align: right" markdown="1">
+NCC Group
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobiKwik Suffers Major Breach — KYC Data of 3.5 Million Users Exposed<a href="https://thehackernews.com/2021/03/mobikwik-suffers-major-breach-kyc-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular Indian mobile payments service MobiKwik  on Monday came under fire after 8.2 terabytes (TB) of data belonging to millions of its users began circulating on the dark web in the aftermath of a major data breach that came to light earlier this month.  The leaked data includes sensitive personal information such as: customer names, hashed passwords, email addresses, residential addresses, GPS locations, list of installed apps, partially-masked credit card numbers, connected bank accounts and associated account numbers, and know your customer (KYC) documents of 3.5 million users.  Even worse, the leak also shows that MobiKwik does not  delete the card information  from its servers even after a user has removed them, in what's likely a breach of government regulations.  New guidelines issued by India's apex banking institution, the Reserve Bank of India,  prohibit  online merchants, e-commerce websites, and payment aggregators from storing card details of a customer online.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

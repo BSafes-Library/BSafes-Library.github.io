@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Attackers Accessed DHS Secretary’s Emails — Report<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-attackers-accessed-dhs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trump administration’s security boss and staff compromised
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

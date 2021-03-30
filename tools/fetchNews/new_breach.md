@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobiKwik Data Breach – Hackers Selling Over 8TB of Users Personal and Financial Data<a href="https://cybersecuritynews.com/mobikwik-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Threat actor offers to sell 8 TB of MobiKwik’s personal and financial data on almost 100M consumers. MobiKwik is India’s leading fintech...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Git Server Hacked – Attackers Insert Secret Backdoor to Its Source Code<a href="https://cybersecuritynews.com/php-git-server-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Threat actors have recently managed to gain control of PHP's Git repository by implementing two back doors to the code. However, the...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobiKwik Suffers Major Breach — KYC Data of 3.5 Million Users Exposed<a href="https://thehackernews.com/2021/03/mobikwik-suffers-major-breach-kyc-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular Indian mobile payments service MobiKwik  on Monday came under fire after 8.2 terabytes (TB) of data belonging to millions of its users began circulating on the dark web in the aftermath of a major data breach that came to light earlier this month.  The leaked data includes sensitive personal information such as: customer names, hashed passwords, email addresses, residential addresses, GPS locations, list of installed apps, partially-masked credit card numbers, connected bank accounts and associated account numbers, and know your customer (KYC) documents of 3.5 million users.  Even worse, the leak also shows that MobiKwik does not&nbsp; delete the card information &nbsp;from its servers even after a user has removed them, in what's likely a breach of government regulations.  New guidelines issued by India's apex banking institution, the Reserve Bank of India,&nbsp; prohibit &nbsp;online merchants, e-commerce websites, and payment aggregators from storing card details of a customer online.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

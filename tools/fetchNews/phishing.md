@@ -11,6 +11,20 @@ nav_order: 900160
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Next Wave of Scams is Bleeding Internet Users<a href="https://cyware.com/news/the-next-wave-of-scams-is-bleeding-internet-users-2343817e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rampant scams continue to  diddle  thousands of online users worldwide. L osses from these financially motivated BEC and EAC scams surpassed $1.86 billion in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How to Effectively Prevent Email Spoofing Attacks in 2021?<a href="https://thehackernews.com/2021/03/how-to-effectively-prevent-email.html"> Full Text</a>
 </p>
 <details>

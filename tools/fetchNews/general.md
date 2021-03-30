@@ -11,6 +11,90 @@ nav_order: 900072
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon union vote count to start for Alabama warehouse | Hackers accessed emails of top DHS officials as part of SolarWinds breach: report | Ex-Google exec launches left-leaning tech coalition<a href="https://thehill.com//policy/technology/overnights/545457-hillicon-valley-amazon-union-vote-count-starts-this-week-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contentious unionization vote at Amazon’s Alabama warehouse is pushing forward with ballots set to be tabulated starting this week. Fallout from what has become known as the SolarWinds breach continued with news of hackers reportedly breaching email accounts of top Department of Homeland Security officials. Meanwhile, a former Google executive on Monday launched a new tech coalition backed by some of the top companies in the industry amid mounting scrutiny from Washington.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Time suck: Security awareness pros are getting sidetracked from core functions<a href="https://www.scmagazine.com/home/security-news/time-suck-security-awareness-pros-are-getting-sidetracked-from-core-functions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report urges awareness program leaders to delegate and outsource tasks that are not central to their main responsibilities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Educational Institutions Getting No Break from Cyberattacks<a href="https://cyware.com/news/educational-institutions-getting-no-break-from-cyberattacks-6300e11f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a spike in cybercriminals targeting schools, colleges, and universities. Stakeholders are recommended to devise a robust strategy to parry attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Solutions Doesn’t Mean More Protection<a href="https://www.infosecurity-magazine.com:443/news/more-solutions-doesnt-mean-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data loss struck over 50% of organizations last year despite most running up to 10 cybersecurity solutions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#LORCALive: More Work Required to Realize the Potential of AI in Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/lorcalive-work-ai-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What are the main concerns regarding the use of AI in cybersecurity?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In wake of giant software hacks, application security tactics due for an overhaul<a href="https://www.scmagazine.com/application-security/in-wake-of-giant-software-hacks-application-security-tactics-due-for-an-overhaul/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rising rates of vulnerabilities, a more complex development environment and a lack of industry standards are putting software applications at risk. Can newer security tools and processes turn the tide?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Meet the 2021 SC Awards judges<a href="https://www.scmagazine.com/scawards/meet-the-2021-sc-awards-judges/"> Full Text</a>
 </p>
 <details>
