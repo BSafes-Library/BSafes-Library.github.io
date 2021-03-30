@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scams: Past and Future<a href="https://cyware.com/news/crypto-scams-past-and-future-287a8ca0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2020, more than 400,000 crypto scams were observed. This was a 40% surge from 2019. The scams that topped the charts include giveaways, fake prizes, and sweepstakes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes bug allowing attackers to steal admin credentials<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-bug-allowing-attackers-to-steal-admin-credentials/"> Full Text</a>
 </p>
 <details>
