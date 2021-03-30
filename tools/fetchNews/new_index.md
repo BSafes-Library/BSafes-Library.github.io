@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes bug allowing attackers to steal admin credentials<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-bug-allowing-attackers-to-steal-admin-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has published security updates to address a high severity vulnerability in vRealize Operations that could allow attackers to steal admin credentials after exploiting vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dog Helps Kids Stay Safe Online<a href="https://www.infosecurity-magazine.com:443/news/dog-helps-kids-stay-safe-online/"> Full Text</a>
 </p>
 <details>
