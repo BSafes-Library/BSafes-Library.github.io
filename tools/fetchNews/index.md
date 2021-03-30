@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US govt warns that buying fake COVID-19 vaccine cards is a crime<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-that-buying-fake-covid-19-vaccine-cards-is-a-crime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US federal agencies have warned today against making or selling fake COVID-19 vaccination record cards as this is breaking the law.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 What Would Happen If States Started Looking at Cyber Operations as a “Threat” to Use Force?<a href="https://www.lawfareblog.com/what-would-happen-if-states-started-looking-cyber-operations-threat-use-force"> Full Text</a>
 </p>
 <details>
