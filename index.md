@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Attackers Accessed DHS Emails, Report<a href="https://threatpost.com/solarwinds-attackers-dhs-emails/165110/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current and former administration sources say the nation-state attackers were able to read the Homeland Security Secretary’s emails, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers target universities in ongoing IRS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/scammers-target-universities-in-ongoing-irs-phishing-attacks/"> Full Text</a>
 </p>
 <details>
