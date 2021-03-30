@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Officials say executive order with 'a dozen' actions forthcoming after SolarWinds, Microsoft breaches<a href="https://thehill.com//policy/cybersecurity/545631-officials-say-executive-order-with-a-dozen-actions-incoming-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials at the Department of Homeland Security (DHS) on Tuesday said that the Biden administration is working on “close to a dozen” action items to be included in an upcoming executive order meant to strengthen federal cybersecurity in the wake of two major breaches. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Cyberlaw Podcast: Can Editorial Middleware Cut the Power of the Big Platforms?<a href="https://www.lawfareblog.com/cyberlaw-podcast-can-editorial-middleware-cut-power-big-platforms"> Full Text</a>
 </p>
 <details>
