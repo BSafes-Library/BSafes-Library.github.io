@@ -34,6 +34,450 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers steal New Yorkers' private info for benefits fraud<a href="https://www.bleepingcomputer.com/news/security/scammers-steal-new-yorkers-private-info-for-benefits-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York's Department of Financial Services (DFS) warns of an ongoing series of attacks resulting in the theft of personal information belonging to hundreds of thousands of New Yorkers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker Hub Image that Downloaded Over 20 Million Times Come with Cryptominers<a href="https://cybersecuritynews.com/cryptominers-in-docker-hub-image/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Malicious Docker Hub containers infect 20 million with cryptomining malware. Aviv Sasson, part of the Palo Alto Networks threat intelligence team, Unit...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Infrastructure Protection Firm OPSWAT Secures $125 Million Growth Funding<a href="https://www.securityweek.com/critical-infrastructure-protection-firm-opswat-secures-125-million-growth-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure protection firm OPSWAT has secured $125 million growth funding from Brighton Park Capital, to accelerate its global growth, invest in R&D, and pursue strategic acquisitions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers targeting US, Israeli medical researchers: analysis<a href="https://thehill.com//policy/cybersecurity/545654-iranian-hackers-targeting-us-israeli-medical-researchers-analysis"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group associated with the Iranian government targeted senior medical researchers in the U.S. and Israel over the past few months, new research released Wednesday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decided to move on from your NGAV/EDR? A Guide for Small Security Teams to What's Next<a href="https://thehackernews.com/2021/03/decided-to-move-on-from-your-ngavedr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You're fully aware of the need to stop threats at the front door and then hunt any that got through that first gate, so your company installed an EPP/ EDR solution.  But like most companies, you've already come across its shortcoming – and these are amplified since you have a small security team. More than likely, you noticed that it has its share of detection blind spots and limitations for which you need to tack on more detection technologies.   Remediation requires manual effort, and in terms of operation, it's become too much of an investment on your already resource-constrained staff. Deployment took you ages, so you're somewhat wary of introducing new technology and going through that process again.   What should you do – fight for more resources, flight from the EDR/ EPP combo to other technological solutions, or freeze by accepting this painful situation and updating the board that your risk levels remain high?   When fight and freeze are typically the directio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winner Crowned in “Hacker Games” Contest Promoting Secure Coding Skills<a href="https://www.infosecurity-magazine.com:443/news/winner-hacker-games-secure-coding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University of Warwick achieves first place in Veracode’s inaugural Hacker Games
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Did Gen. Nakasone Say About Defense Department Operations (Not Just Cyber Operations)?<a href="https://www.lawfareblog.com/what-did-gen-nakasone-say-about-defense-department-operations-not-just-cyber-operations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some notes on a curious comment from Gen. Paul Nakasone, commander of U.S. Cyber Command.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese experts earned $20,000 for reporting a Chrome Sandbox Escape<a href="https://securityaffairs.co/wordpress/116165/security/chrome-sandbox-escape.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have reported to Google a sandbox escape vulnerability in the Chrome web browser to Google that awarded them $20,000.
+
+
+
+Experts from the Chinese cybersecurity company Qihoo 360 have reported to Google another sandbox escape vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian credential thieves targeting medical researchers<a href="https://www.scmagazine.com/home/security-news/iranian-credential-thieves-targeting-medical-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late 2020, a well-known hacker group believed to be sponsored by the Iranian government started a credential harvesting campaign targeting United States and Israeli medical personnel, according to new research from Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Charming Kitten Pounces on Medical Researchers<a href="https://threatpost.com/charming-kitten-pounces-on-researchers/165129/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncover a credential-stealing campaign targeting genetic, neurology and oncology professionals.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake jQuery files infect WordPress sites with malware<a href="https://www.bleepingcomputer.com/news/security/fake-jquery-files-infect-wordpress-sites-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted counterfeit versions of the jQuery Migrate plugin injected on dozens of websites which contains obfuscated code to load malware. These files are named jquery-migrate.js & jquery-migrate.min.js and present at the exact locations where JavaScript files are normally present on WordPress sites but are malicious.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whistleblower claims Ubiquiti Networks data breach was ‘catastrophic’<a href="https://www.zdnet.com/article/whistleblower-claims-ubiquiti-networks-data-breach-was-catastrophic/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A whistleblower involved in the response to a data breach suffered by networking equipment provider Ubiquiti Networks has claimed the incident was downplayed and could be described as "catastrophic."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are implanting multiple backdoors at industrial targets in Japan<a href="https://thehackernews.com/2021/03/hackers-are-implanting-multiple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed details of a sophisticated campaign that deploys malicious backdoors for the purpose of exfiltrating information from a number of industry sectors located in Japan.  Dubbed "A41APT" by Kaspersky researchers, the findings delve into a new slew of attacks undertaken by  APT10  (aka Stone Panda or Cicada) using previously undocumented malware to deliver as many as three payloads such as SodaMaster, P8RAT, and FYAnti.  The long-running intelligence-gathering operation first came into the scene in March 2019, with activities spotted as recently as November 2020, when  reports  emerged of Japan-linked companies being targeted by the threat actor in over 17 regions worldwide.   The fresh attacks uncovered by Kaspersky are said to have occurred in January 2021. The infection chain leverages a multi-stage attack process, with the initial intrusion happening via abuse of SSL-VPN by exploiting unpatched vulnerabilities or stolen credential
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Global Chip Companies Show Signs of Compromise<a href="https://www.infosecurity-magazine.com:443/news/most-global-chip-companies-signs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueVoyant report reveals widespread vulnerabilities and open ports
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email accounts of DHS members were compromised in the SolarWinds hack<a href="https://securityaffairs.co/wordpress/116154/hacking/dhs-email-compromised-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers accessed the email accounts of US Department of Homeland Security (DHS) officials as a result of the SolarWinds hack.
+
+
+
+Russia-linked hackers were able to access email accounts belonging to US Department of Homeland Security (DHS) officials...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome for Linux is getting DNS-over-HTTPS, but there's a catch<a href="https://www.bleepingcomputer.com/news/security/google-chrome-for-linux-is-getting-dns-over-https-but-theres-a-catch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome developers have announced plans to roll out DNS-over-HTTPS (DoH) support to Chrome web browser for Linux. DoH has been supported on Google Chrome for other platforms, including Android, since at least 2020. But, there's a catch.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Board directors need to play an active role in protecting their org from cyber risks<a href="https://www.helpnetsecurity.com/2021/03/31/board-directors-cybersecurity-role/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by WEF reveals that boards of directors need to play a more active role in protecting their organization from cyber risks – and provides a solution to this fragmentation.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Security Council Officially Launches as Independent Body<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-council/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The council will be working on boosting professional standards in the cybersecurity industry
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IETF deprecates TLS 1.0 and TLS 1.1, update to latest versions<a href="https://securityaffairs.co/wordpress/116151/security/ietf-deprecates-tls-1-0-tls-1-1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IETF has formally deprecated the TLS 1.0 and TLS 1.1 cryptographic protocols because they lack support for recommended cryptographic algorithms and mechanisms
+
+
+
+The Internet Engineering Task Force (IETF) formally deprecates Transport Layer Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pair accused of turning photos into vids to crack tax dept facial recognition system in China<a href="https://www.theregister.com/2021/03/31/tax_scammers_fool_ai_facial_recognition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Xinhua, the suspects tricked the State Taxation Administration platform’s identity verification system by manipulating photos with a widely available app that turns photos into videos.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+James Reynolds Joins SecureAge Technology to Lead Security Product Strategy<a href="https://www.infosecurity-magazine.com:443/news/james-reynolds-join-secureage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reynolds brings 30 years of IT experience to the data security firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Firmware Attacks Outpacing Security Investments<a href="https://www.securityweek.com/microsoft-firmware-attacks-outpacing-security-investments?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new Security Signals report released Tuesday by Microsoft, a whopping 80 percent of businesses reported “at least one firmware attack” in the past two years.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Legal Breaches Caused by Insiders<a href="https://www.infosecurity-magazine.com:443/news/threequarters-of-legal-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NetDocuments FOI data shows scale of employee threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APAC firms face growing cyberattacks, take more than a week to remediate<a href="https://www.zdnet.com/article/apac-firms-face-growing-cyberattacks-take-more-than-a-week-to-remediate/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some 68% of businesses across six Asian markets say they have been breached, up from 32% in 2019, with an average 60.83% admitting to taking more than a week to remediate cybersecurity attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Reduces Cyber-Skills Shortages but Breach Problems Remain<a href="https://www.infosecurity-magazine.com:443/news/nhs-cyber-skills-shortages-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Redscan study shows improvement but plenty still to do
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of IT-OT collaboration holding back smart factory security projects<a href="https://www.helpnetsecurity.com/2021/03/31/smart-factory-security-projects/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+61% of firms have experienced cybersecurity incidents in their smart factories and are struggling to deploy the technology needed to effectively manage cyber risk, as per a Vanson Bourne survey.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks latest security giant accused of patent infringement<a href="https://www.scmagazine.com/home/security-news/corporate-news/palo-alto-networks-latest-security-giant-accused-of-patent-infringement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Centripetal claims Palo Alto executives used a series of meetings and technical demonstrations to gain insight into the company’s network security innovations, before incorporating them into a wide range of Palo Alto products. The situation highlights the potential risks for both parties if early stage partnership discussions are not handled with care.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
