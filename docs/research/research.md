@@ -290,6 +290,17 @@ Like many issues related to relationships and sexuality, “revenge porn” has 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+October 1, 2018
+• Securing Vehicle Charging Infrastructure [HTML](https://papers.bsafes.com/docs/electric-vehicle/securing-vehicle-charging-infrastructure/)
+</p>
+<details>
+  <summary>Abstract</summary>
+As the US electrifies the transportation sector, cyber attacks targeting vehicle charging could bring consequences to electrical system infrastructure. This is a growing area of concern as charging stations increase power delivery and must communicate to a range of entities to authorize charging, sequence the charging process, and manage load (grid operators, vehicles, OEM vendors, charging network operators, etc.).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 August 5, 2018
 • Web Application Security [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-18321/)
 </p>
