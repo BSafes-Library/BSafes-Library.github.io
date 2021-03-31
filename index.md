@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Healthcare haunted by account security<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/report-healthcare-haunted-by-account-security/"> Full Text</a>
@@ -50,7 +50,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Officials say cyber executive order with 'a dozen' actions forthcoming | Epic Games submits Apple complaint to UK watchdog | Facebook's chief revenue officer to leave company<a href="https://thehill.com//policy/technology/overnights/545635-hillicon-valley-officials-say-cyber-executive-order-with-a-dozen"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 202 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials say executive order with 'a dozen' actions forthcoming after SolarWinds, Microsoft breaches<a href="https://thehill.com//policy/cybersecurity/545631-officials-say-executive-order-with-a-dozen-actions-incoming-after"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Cyberlaw Podcast: Can Editorial Middleware Cut the Power of the Big Platforms?<a href="https://www.lawfareblog.com/cyberlaw-podcast-can-editorial-middleware-cut-power-big-platforms"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ziggy Ransomware Gang Offers Refund to Victims<a href="https://threatpost.com/ziggy-ransomware-gang-offers-refund-to-victims/165124/"> Full Text</a>
@@ -114,7 +114,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Docker Cryptomining Images Rack Up 20M Downloads<a href="https://threatpost.com/malicious-docker-cryptomining-images/165120/"> Full Text</a>
@@ -130,7 +130,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘digital trust exchange’ removes risks of managing  PII of job applicants<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/new-digital-trust-exchange-removes-risks-of-managing-pii-of-job-applicants/"> Full Text</a>
@@ -146,7 +146,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addresses SSRF flaw in vRealize Operations that allows stealing admin credentials<a href="https://securityaffairs.co/wordpress/116145/security/vmware-vrealize-operations-ssrf-flaw.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns that buying fake COVID-19 vaccine cards is a crime<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-that-buying-fake-covid-19-vaccine-cards-is-a-crime/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Would Happen If States Started Looking at Cyber Operations as a “Threat” to Use Force?<a href="https://www.lawfareblog.com/what-would-happen-if-states-started-looking-cyber-operations-threat-use-force"> Full Text</a>
@@ -198,7 +198,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Spotted Posing as System Update<a href="https://cyware.com/news/new-android-malware-spotted-posing-as-system-update-e4a545c4"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberbullying Linked to Social Media Addiction<a href="https://www.infosecurity-magazine.com:443/news/cyberbullying-linked-to-social/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Scams: Past and Future<a href="https://cyware.com/news/crypto-scams-past-and-future-287a8ca0"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes bug allowing attackers to steal admin credentials<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-bug-allowing-attackers-to-steal-admin-credentials/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dog Helps Kids Stay Safe Online<a href="https://www.infosecurity-magazine.com:443/news/dog-helps-kids-stay-safe-online/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Attackers Accessed DHS Emails, Report<a href="https://threatpost.com/solarwinds-attackers-dhs-emails/165110/"> Full Text</a>
@@ -294,7 +294,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers target universities in ongoing IRS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/scammers-target-universities-in-ongoing-irs-phishing-attacks/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #LORCALive: Nation State Cooperation Essential to Fighting Scourge of Cybercrime<a href="https://www.infosecurity-magazine.com:443/news/nation-state-cooperation-fighting/"> Full Text</a>
@@ -326,7 +326,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Younger Ransomware Victims More Likely to Pay Up<a href="https://www.infosecurity-magazine.com:443/news/younger-ransomware-victims-more/"> Full Text</a>
@@ -342,7 +342,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New U.K. NCSC chief stresses on the importance of investing in cybersecurity hygiene<a href="https://www.theregister.com/2021/03/30/ncsc_ceo_infosec_better_than_insurance/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US: DeKalb County schools notify parents about data breach<a href="https://www.ajc.com/news/atlanta-news/dekalb-schools-notify-parents-about-data-breach/RWU6MHZYBJBUTPG3SXRGNLMU3Q/?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ AJC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leading Indian fintech platform MobiKwik denies data breach<a href="https://www.bleepingcomputer.com/news/security/leading-indian-fintech-platform-mobikwik-denies-data-breach/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 52% of Indian firms report cyberattack in the last 12 months<a href="https://ciso.economictimes.indiatimes.com/news/52-of-indian-firms-report-cyber-attack-in-last-12-months/81758955?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reflected XSS Vulnerability In “Ivory Search” WP Plugin Impact Over 60K sites<a href="https://securityaffairs.co/wordpress/116140/hacking/reflected-xss-ivory-search-wp-plugin.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian telcos have blocked over 55 million scam calls since December<a href="https://www.zdnet.com/article/australian-telcos-have-blocked-over-55-million-scam-calls-since-december/?&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai Sees Largest DDoS Extortion Attack Known to Date<a href="https://www.securityweek.com/akamai-sees-largest-ddos-extortion-attack-known-date?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Cloud Data Protection Vendor HYCU Closes $87.5M Funding Round<a href="https://www.crn.com/news/storage/multi-cloud-data-protection-vendor-hycu-closes-87-5m-funding-round?&web_view=true"> Full Text</a>

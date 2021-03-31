@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+March 30, 202 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials say executive order with 'a dozen' actions forthcoming after SolarWinds, Microsoft breaches<a href="https://thehill.com//policy/cybersecurity/545631-officials-say-executive-order-with-a-dozen-actions-incoming-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials&nbsp;at the Department of Homeland Security (DHS) on Tuesday said that the Biden administration is working on “close to a dozen” action items to be included in an upcoming executive order meant to strengthen federal cybersecurity in the wake of two major breaches.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: Can Editorial Middleware Cut the Power of the Big Platforms?<a href="https://www.lawfareblog.com/cyberlaw-podcast-can-editorial-middleware-cut-power-big-platforms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest episode of the Cyberlaw Podcast.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns that buying fake COVID-19 vaccine cards is a crime<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-that-buying-fake-covid-19-vaccine-cards-is-a-crime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US federal agencies have warned today against making or selling fake COVID-19 vaccination record cards as this is breaking the law.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

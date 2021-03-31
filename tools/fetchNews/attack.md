@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+30 Docker images downloaded 20M times in cryptojacking attacks<a href="https://securityaffairs.co/wordpress/116111/cyber-crime/docker-cryptojacking-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered that 30 malicious Docker images with a total number of 20 million&nbsp;pulls were involved in cryptomining operations.
+
+
+
+Palo Alto Network researcher Aviv Sasson discovered 30 malicious Docker images, which were downloaded 20 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

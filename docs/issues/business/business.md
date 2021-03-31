@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Cloud Data Protection Vendor HYCU Closes $87.5M Funding Round<a href="https://www.crn.com/news/storage/multi-cloud-data-protection-vendor-hycu-closes-87-5m-funding-round?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HYCU, which was founded in April 2018, managed to stay completely private for a very long time before working with Bain Capital Ventures, which is leading the A funding round, said CEO Simon Taylor.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

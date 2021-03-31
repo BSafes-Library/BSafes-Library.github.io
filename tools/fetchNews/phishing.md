@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steam users: Don’t fall for the "I accidentally reported you" scam<a href="https://blog.malwarebytes.com/scams/2021/03/steam-users-dont-fall-for-the-i-accidentally-reported-you-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fraudsters behind the “I accidentally reported you” Steam scam usually approach their targets under the pretext that they need something, or they have something to say.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

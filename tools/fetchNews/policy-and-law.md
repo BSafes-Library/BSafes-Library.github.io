@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Sued Under Wiretapping Laws for Tracking User Activity on its Website<a href="https://threatpost.com/intel-sued-under-wiretapping-laws/165104/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A class-action suit in Florida accuses the tech giant of unlawfully intercepting communications by using session-replay software to capture the interaction of people visiting the corporate homepage Intel.com.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges close to 500 individuals for COVID-19 fraud, criminal activity<a href="https://www.zdnet.com/article/us-charges-close-to-500-individuals-for-covid-19-fraud-criminal-activity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an update published last week, the DoJ said that 474 defendants to date have been publicly charged "with criminal offenses based on fraud schemes connected to the COVID-19 pandemic."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

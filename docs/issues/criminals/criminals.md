@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#LORCALive: Nation State Cooperation Essential to Fighting Scourge of Cybercrime<a href="https://www.infosecurity-magazine.com:443/news/nation-state-cooperation-fighting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Can more dialogue be promoted between rival nations?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

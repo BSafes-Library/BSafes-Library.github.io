@@ -11,6 +11,48 @@ nav_order: 900160
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scams: Past and Future<a href="https://cyware.com/news/crypto-scams-past-and-future-287a8ca0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2020, more than 400,000 crypto scams were observed. This was a 40% surge from 2019. The scams that topped the charts include giveaways, fake prizes, and sweepstakes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers target universities in ongoing IRS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/scammers-target-universities-in-ongoing-irs-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service (IRS) is warning of ongoing phishing attacks impersonating the IRS and targeting&nbsp;educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian telcos have blocked over 55 million scam calls since December<a href="https://www.zdnet.com/article/australian-telcos-have-blocked-over-55-million-scam-calls-since-december/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian Communications Minister Paul Fletcher said on Tuesday that Australian telcos have blocked over 55 million scam calls since the industry got a new scam call code in December.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Steam users: Don’t fall for the "I accidentally reported you" scam<a href="https://blog.malwarebytes.com/scams/2021/03/steam-users-dont-fall-for-the-i-accidentally-reported-you-scam/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai Sees Largest DDoS Extortion Attack Known to Date<a href="https://www.securityweek.com/akamai-sees-largest-ddos-extortion-attack-known-date?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial of service (DDoS) attacks are growing bigger in volume, and they have also become more targeted and increasingly persistent, according to web security services provider Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

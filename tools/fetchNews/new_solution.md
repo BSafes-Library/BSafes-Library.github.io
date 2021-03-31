@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘digital trust exchange’ removes risks of managing  PII of job applicants<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/new-digital-trust-exchange-removes-risks-of-managing-pii-of-job-applicants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The onus of responsible data stewardship fall on employing organizations, when in reality they’d probably prefer to move that burden elsewhere. Raj Ananthanpillai, CEO of Endera, believes he has created a solution to this problem.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

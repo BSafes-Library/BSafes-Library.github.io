@@ -11,6 +11,34 @@ nav_order: 900029
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US: DeKalb County schools notify parents about data breach<a href="https://www.ajc.com/news/atlanta-news/dekalb-schools-notify-parents-about-data-breach/RWU6MHZYBJBUTPG3SXRGNLMU3Q/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some students at the DeKalb County School District may have their personal information exposed in a 2019 security breach at PCS Revenue Control Systems, a school nutrition technology services firm.
+</details>
+<div style="text-align: right" markdown="1">
+AJC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading Indian fintech platform MobiKwik denies data breach<a href="https://www.bleepingcomputer.com/news/security/leading-indian-fintech-platform-mobikwik-denies-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian digital financial services platform Mobikwik denies claims that almost 8 TB of data put up for sale was allegedly stolen from its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 MobiKwik Data Breach – Hackers Selling Over 8TB of Users Personal and Financial Data<a href="https://cybersecuritynews.com/mobikwik-data-breach/"> Full Text</a>
 </p>
 <details>

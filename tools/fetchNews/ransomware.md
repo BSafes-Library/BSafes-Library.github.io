@@ -8,6 +8,62 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware negotiations: An inside look at the process<a href="https://searchsecurity.techtarget.com/feature/Ransomware-negotiations-An-inside-look-at-the-process?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance carriers typically have lists or "panels" of approved vendors for various incident response services that address breaches and ransomware attacks, including ransomware negotiations.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-Extortion Ransomware Attacks Surged in 2020<a href="https://www.infosecurity-magazine.com:443/news/double-extortion-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+15 ransomware families were observed using double-extortion tactics last year, compared to just one in 2019
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack at New York-based Personal Touch Holding Corp Affects Over 753,000 Patients, Employees<a href="https://www.inforisktoday.com/ransomware-home-health-firm-reports-2nd-cloud-vendor-incident-a-16291?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A home healthcare company says a data breach affecting more than 753,000 patients, employees and former workers stems from a ransomware attack on its private cloud hosted by managed service providers.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware Group Leaks Data Allegedly Stolen from Universities of Maryland, California<a href="https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware group has posted financial documents and passport information allegedly belonging to the University of Maryland and the University of California online.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

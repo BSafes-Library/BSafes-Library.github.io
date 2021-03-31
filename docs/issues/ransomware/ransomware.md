@@ -11,6 +11,34 @@ nav_order: 900180
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ziggy Ransomware Gang Offers Refund to Victims<a href="https://threatpost.com/ziggy-ransomware-gang-offers-refund-to-victims/165124/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ziggy joins Fonix ransomware group and shuts down, with apologies to targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Younger Ransomware Victims More Likely to Pay Up<a href="https://www.infosecurity-magazine.com:443/news/younger-ransomware-victims-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research finds fewer ransomware victims over the age of 55 pay to recover their data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware negotiations: An inside look at the process<a href="https://searchsecurity.techtarget.com/feature/Ransomware-negotiations-An-inside-look-at-the-process?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
