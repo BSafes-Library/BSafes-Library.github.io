@@ -34,6 +34,450 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+800Gbps DDoS extortion attack hits gambling company<a href="https://www.bleepingcomputer.com/news/security/800gbps-ddos-extortion-attack-hits-gambling-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial-of-service (DDoS) attacks started strong this year, setting new records and taking the extortion trend that started last August to the next level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Fixes Critical Flaw that Let Attackers Steal Admin Credentials<a href="https://cybersecuritynews.com/vmware-fixes-critical-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ VMware security teams announced the release of security patches to fix a severe flaw in vRealize Operations whose exploit would allow threat...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack Trends in 2020 - A Boom in Double-Extortion Ransomware<a href="https://cyware.com/news/attack-trends-in-2020-a-boom-in-double-extortion-ransomware-7550c9ed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, 15 ransomware families used the double-extortion approach, in comparison to only one in 2019. In addition, around 40% of newly discovered ransomware families utilized the tactic in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: DHS chief lays out actions to boost cybersecurity after major hacks | Facebook removes video of Trump citing suspension from platform | Battle rages over vaccine passports<a href="https://thehill.com//policy/technology/overnights/545871-hillicon-valley-dhs-chief-lays-out-actions-to-boost"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Homeland Security Secretary Alejandro MayorkasAlejandro MayorkasGOP lawmakers ask Mayorkas for documents on warnings from DHS to Biden on immigration Officials say executive order with 'a dozen' actions forthcoming after SolarWinds, Microsoft breaches UK considering 'extreme' measures to deal with asylum seekers; pay attention — Biden may follow suit MORE on Wednesday laid out a roadmap for federal cybersecurity while teasing an upcoming cyber executive order. Facebook enforced its indefinite suspension on former President TrumpDonald TrumpThe Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle rages over vaccine passports MORE by removing a video posted by Lara Trump of a sit down interview with the former president. President BidenJoe BidenThe Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic plans MORE proposed billions in funding to boost research and development of emerging technologies, and Republicans pushed back on the idea of so-called vaccine passports.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS Warns of Higher Education Phishing Scam<a href="https://www.infosecurity-magazine.com:443/news/irs-warns-of-higher-education/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attackers impersonate IRS to scam university students and staff
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawfare Lecture: Paul Rosenzweig on Enterprise Cybersecurity Measurement<a href="https://www.lawfareblog.com/lawfare-lecture-paul-rosenzweig-enterprise-cybersecurity-measurement"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Join us for a live presentation on measuring cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked hackers target security experts again<a href="https://securityaffairs.co/wordpress/116183/apt/north-korea-hackers-target-researchers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google's Threat Analysis Group (TAG) reported that North Korea-linked hackers are targeting security researchers via social media.
+
+
+
+The cyberspies used fake Twitter and LinkedIn social media accounts to get in contact with the victims....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National infrastructure plan could replace insecure old equipment, but also strain CISA<a href="https://www.scmagazine.com/featured/national-infrastructure-plan-could-replace-insecure-old-equipment-but-also-strain-cisa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plans to upgrade the electric grid, revitalize manufacturing and secure U.S. supply chains will have a palpable impact on cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA gives federal agencies 5 days to find hacked Exchange servers<a href="https://www.bleepingcomputer.com/news/security/cisa-gives-federal-agencies-5-days-to-find-hacked-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to scan their networks again for any signs of compromised on-premises Microsoft Exchange servers and report their findings within five days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Calypso APT Eyes Microsoft Exchange Vulnerabilities<a href="https://cyware.com/news/calypso-apt-eyes-microsoft-exchange-vulnerabilities-2ab3f520"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked Calypso APT group was observed to be targeting vulnerable Microsoft Exchange servers to deploy web shells and eventually load the PlugX malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS chief lays out actions to strengthen cybersecurity in wake of major hacks<a href="https://thehill.com//policy/cybersecurity/545840-dhs-chief-lays-out-actions-to-strengthen-cybersecurity-wake-of-major"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Homeland Security Secretary Alejandro Mayorkas on Wednesday issued a “call for action” to confront mounting cybersecurity threats to the federal government, laying out a plan to combat hacking efforts following two major foreign cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and RH-ISAC to Run Cybersecurity Drill<a href="https://www.infosecurity-magazine.com:443/news/cisa-and-rhisac-to-run/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First retail, hospitality, and travel industry–wide cybersecurity exercise announced
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden extended Executive Order 13694 regarding cyberattack sanctions<a href="https://securityaffairs.co/wordpress/116171/cyber-warfare-2/biden-extended-executive-order-13694.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden has extended Executive Order 13694, issued in 2015 by President Obama, regarding sanctions issued in response to cyberattacks.
+
+
+
+President Joe Biden this week has extended Executive Order 13694 regarding sanctions issued in response...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CISOs should focus more on people and less on tech, report finds<a href="https://www.scmagazine.com/home/security-news/new-cisos-should-focus-more-people-and-less-on-tech-report-finds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new CISO must take steps to build relationships, while also making sure not to alienate other business units or harm the security team’s brand.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: North Korean hackers target security researchers again<a href="https://www.bleepingcomputer.com/news/security/google-north-korean-hackers-target-security-researchers-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) says that North Korean government-sponsored hackers are once again targeting security researchers using fake Twitter and LinkedIn social media accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In Yet Another Supply Chain Attack, PHP's Git Server Gets Compromised<a href="https://cyware.com/news/in-yet-another-supply-chain-attack-phps-git-server-gets-compromised-b71b900f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To compromise the PHP codebase, two malicious commits were pushed to a Git repository maintained by the PHP development team.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reality Show Members Charged with Telemarketing Scam<a href="https://www.infosecurity-magazine.com:443/news/reality-show-cast-telemarketing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Real Housewives of Salt Lake City stars face money laundering and wire fraud charges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5-star customer service: fraudsters launch massive campaign against Indonesia’s major banks on Twitter<a href="https://securityaffairs.co/wordpress/116173/cyber-crime/5-star-customer-service-fraudsters-launch-massive-campaign-against-indonesias-major-banks-on-twitter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that cybercriminals are targeting Indonesia’s major banks posing as bank representatives or customer support team members on Twitter.
+
+
+
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company, warns of an ongoing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In wake of PHP Git server attack, researcher advises developers to enable encryption<a href="https://www.scmagazine.com/featured/in-wake-of-php-git-server-attack-researcher-advises-developers-to-enable-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Had two malicious commits not been caught, they could have infected scores of websites using the programming language.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarCall malware uses malicious call centers to infect victims<a href="https://www.bleepingcomputer.com/news/security/bazarcall-malware-uses-malicious-call-centers-to-infect-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past two months, security researchers have been waging an online battle against a new 'BazarCall' malware that uses call centers to distribute some of the most damaging Windows malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Fleeceware Apps Earning Millions of Dollars<a href="https://cyware.com/news/hundreds-of-fleeceware-apps-earning-millions-of-dollars-dead669b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast researchers have found a total of 204 fleeceware apps on both Apple and Google stores which have earned an estimated over $400 million to date for their developers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MITRE ATT&CK certification course could boost framework’s adoption<a href="https://www.scmagazine.com/security-training-certification-user-awareness/new-mitre-attck-certification-course-could-boost-frameworks-adoption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+But unusual recertification process must avoid becoming burdensome for busy security professionals.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware hidden in game cheats and mods used to target gamers<a href="https://www.bleepingcomputer.com/news/security/malware-hidden-in-game-cheats-and-mods-used-to-target-gamers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target gamers with backdoored game tweaks, patches, and cheats hiding malware capable of stealing information from infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York charity leaves sensitive patients’ data unsecured<a href="https://cybernews.com/security/new-york-charity-leaves-sensitive-patients-data-unsecured/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unsecured database contained over 2,000 CSV and TXT files, each with thousands of entries on medical records, children’s legal guardians, caseworkers, doctors, and other child welfare specialists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian credential thieves targeting medical researchers<a href="https://www.scmagazine.com/home/security-news/phishing/iranian-credential-thieves-targeting-medical-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late 2020, a well-known hacker group believed to be sponsored by the Iranian government started a credential harvesting campaign targeting United States and Israeli medical personnel, according to new research from Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Cl0p ransomware gang leaks sensitive data from 6 US universites<a href="https://www.hackread.com/cl0p-ransomware-gang-us-universites-leak-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent update, the infamous Cl0p ransomware group claimed to gain access to financial documents and passport information belonging to students and staff from six top universities in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversaries are using backdoored video game cheat engines and modding tools<a href="https://blog.talosintelligence.com/2021/03/cheating-cheater-how-adversaries-are.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos detected a new cryptor used in several different malware campaigns hidden in files that users would usually download to install cheat codes into video games or other visual and game mods.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
