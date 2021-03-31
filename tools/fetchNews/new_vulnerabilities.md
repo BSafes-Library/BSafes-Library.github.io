@@ -11,6 +11,56 @@ nav_order: 900220
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses SSRF flaw in vRealize Operations that allows stealing admin credentials<a href="https://securityaffairs.co/wordpress/116145/security/vmware-vrealize-operations-ssrf-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a high severity&nbsp;vulnerability in vRealize Operations that could allow stealing admin credentials from vulnerable servers.
+
+
+
+VMware has published security updates to address multiple vulnerabilities in VMware vRealize Operations that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes bug allowing attackers to steal admin credentials<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-bug-allowing-attackers-to-steal-admin-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has published security updates to address a high severity&nbsp;vulnerability in vRealize Operations that could allow attackers to steal admin credentials after exploiting&nbsp;vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reflected XSS Vulnerability In “Ivory Search” WP Plugin Impact Over 60K sites<a href="https://securityaffairs.co/wordpress/116140/hacking/reflected-xss-ivory-search-wp-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a reflected XSS vulnerability in the Ivory Search WordPress Plugin installed on over 60,000 sites.
+
+
+
+On March 28, 2021, Astra Security Threat Intelligence Team responsibly disclosed a vulnerability in Ivory Search, a WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Experts found 2 Linux Kernel flaws that can allow bypassing Spectre mitigations<a href="https://securityaffairs.co/wordpress/116131/security/linux-kernel-flaws-spectre-bypass.html"> Full Text</a>
 </p>
 <details>

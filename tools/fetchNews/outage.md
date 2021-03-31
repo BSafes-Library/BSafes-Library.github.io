@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London-based Multi-Academy Trust Harris Federation Suffers System Outage Due to Ransomware Attack<a href="https://securityaffairs.co/wordpress/116101/malware/harris-federation-hit-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once discovered the ransomware infection, the IT staff at the nonprofit organization has taken its systems offline along with the email and landline phone systems, and students’ devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
