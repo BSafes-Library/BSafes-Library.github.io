@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Report: Healthcare haunted by account security<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/report-healthcare-haunted-by-account-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study found that one in five files in health care are visible to all employees – including one in eight containing sensitive information. And more than three-quarters of organizations in the sector had at least 500 accounts that expire, and even more than that had at least a thousand “ghost accounts” of former employees that were never closed.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Officials say cyber executive order with 'a dozen' actions forthcoming | Epic Games submits Apple complaint to UK watchdog | Facebook's chief revenue officer to leave company<a href="https://thehill.com//policy/technology/overnights/545635-hillicon-valley-officials-say-cyber-executive-order-with-a-dozen"> Full Text</a>
 </p>
 <details>
