@@ -96,6 +96,17 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
+December, 2020
+• Cybersecurity Best Practices for the Safety of Modern Vehicles [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-best-practices-for-the-safety-of-modern-vehicles/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This document from the National Highway Traffic Safety Administration (NHTSA) updates the Agency’s non-binding and voluntary guidance to the automotive industry for improving motor vehicle cybersecurity. NHTSA encourages vehicle and equipment manufacturers to review this guidance to determine whether and, if so, how to apply this guidance to their unique systems.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
 November 27, 2020<br>
 • Cybersecurity of Smart Electric Vehicle Charging: A Power Grid Perspective [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-of-smart-electric-vehicle-charging-a-power-grid-perspective/)
 </p>
