@@ -8,6 +8,118 @@ nav_order: 900072
 
 ## General
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decided to move on from your NGAV/EDR? A Guide for Small Security Teams to What's Next<a href="https://thehackernews.com/2021/03/decided-to-move-on-from-your-ngavedr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You're fully aware of the need to stop threats at the front door and then hunt any that got through that first gate, so your company installed an EPP/ EDR solution.  But like most companies, you've already come across its shortcoming – and these are amplified since you have a small security team. More than likely, you noticed that it has its share of detection blind spots and limitations for which you need to tack on more detection technologies.&nbsp;  Remediation requires manual effort, and in terms of operation, it's become too much of an investment on your already resource-constrained staff. Deployment took you ages, so you're somewhat wary of introducing new technology and going through that process again.&nbsp;  What should you do – fight for more resources, flight from the EDR/ EPP combo to other technological solutions, or freeze by accepting this painful situation and updating the board that your risk levels remain high?&nbsp;  When fight and freeze are typically the directio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winner Crowned in “Hacker Games” Contest Promoting Secure Coding Skills<a href="https://www.infosecurity-magazine.com:443/news/winner-hacker-games-secure-coding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University of Warwick achieves first place in Veracode’s inaugural Hacker Games
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian credential thieves targeting medical researchers<a href="https://www.scmagazine.com/home/security-news/iranian-credential-thieves-targeting-medical-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late 2020, a well-known hacker group believed to be sponsored by the Iranian government started a credential harvesting campaign targeting United States and Israeli medical personnel, according to new research from Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Board directors need to play an active role in protecting their org from cyber risks<a href="https://www.helpnetsecurity.com/2021/03/31/board-directors-cybersecurity-role/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by WEF reveals that boards of directors need to play a more active role in protecting their organization from cyber risks – and provides a solution to this fragmentation.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Firmware Attacks Outpacing Security Investments<a href="https://www.securityweek.com/microsoft-firmware-attacks-outpacing-security-investments?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new Security Signals report released Tuesday by Microsoft, a whopping 80 percent of businesses reported “at least one firmware attack” in the past two years.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APAC firms face growing cyberattacks, take more than a week to remediate<a href="https://www.zdnet.com/article/apac-firms-face-growing-cyberattacks-take-more-than-a-week-to-remediate/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some 68% of businesses across six Asian markets say they have been breached, up from 32% in 2019, with an average 60.83% admitting to taking more than a week to remediate cybersecurity attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Reduces Cyber-Skills Shortages but Breach Problems Remain<a href="https://www.infosecurity-magazine.com:443/news/nhs-cyber-skills-shortages-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Redscan study shows improvement but plenty still to do
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of IT-OT collaboration holding back smart factory security projects<a href="https://www.helpnetsecurity.com/2021/03/31/smart-factory-security-projects/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+61% of firms have experienced cybersecurity incidents in their smart factories and are struggling to deploy the technology needed to effectively manage cyber risk, as per a Vanson Bourne survey.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pair accused of turning photos into vids to crack tax dept facial recognition system in China<a href="https://www.theregister.com/2021/03/31/tax_scammers_fool_ai_facial_recognition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Xinhua, the suspects tricked the State Taxation Administration platform’s identity verification system by manipulating photos with a widely available app that turns photos into videos.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks latest security giant accused of patent infringement<a href="https://www.scmagazine.com/home/security-news/corporate-news/palo-alto-networks-latest-security-giant-accused-of-patent-infringement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Centripetal claims Palo Alto executives used a series of meetings and technical demonstrations to gain insight into the company’s network security innovations, before incorporating them into a wide range of Palo Alto products. The situation highlights the potential risks for both parties if early stage partnership discussions are not handled with care.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

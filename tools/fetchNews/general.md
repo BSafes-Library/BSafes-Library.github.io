@@ -11,6 +11,90 @@ nav_order: 900072
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Report: Healthcare haunted by account security<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/report-healthcare-haunted-by-account-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study found that one in five files in health care are visible to all employees – including one in eight containing sensitive information. And more than three-quarters of organizations in the sector had at least 500 accounts that expire, and even more than that had at least a thousand “ghost accounts” of former employees that were never closed.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Officials say cyber executive order with 'a dozen' actions forthcoming | Epic Games submits Apple complaint to UK watchdog | Facebook's chief revenue officer to leave company<a href="https://thehill.com//policy/technology/overnights/545635-hillicon-valley-officials-say-cyber-executive-order-with-a-dozen"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top federal officials teased an upcoming executive order to improve federal cybersecurity in the wake of two major international hacking incidents. Meanwhile, Epic Games filed a complaint about Apple’s “monopolistic” aspects with a British watchdog group, and a top Facebook official announced his departure.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Would Happen If States Started Looking at Cyber Operations as a “Threat” to Use Force?<a href="https://www.lawfareblog.com/what-would-happen-if-states-started-looking-cyber-operations-threat-use-force"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+States and other stakeholders can use Article 2(4) of the U.N. Charter to bar not just uses of force in cyberspace but also threats of such force by equal measure.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberbullying Linked to Social Media Addiction<a href="https://www.infosecurity-magazine.com:443/news/cyberbullying-linked-to-social/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University study finds social media addicts more likely to be cyber-bullies
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New U.K. NCSC chief stresses on the importance of investing in cybersecurity hygiene<a href="https://www.theregister.com/2021/03/30/ncsc_ceo_infosec_better_than_insurance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So-called cyber-attack insurance "cannot be a substitute for better basic cybersecurity," the National Cyber Security Centre's chief exec has said in her first major speech since taking office.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+52% of Indian firms report cyberattack in the last 12 months<a href="https://ciso.economictimes.indiatimes.com/news/52-of-indian-firms-report-cyber-attack-in-last-12-months/81758955?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 52 percent of Indian organizations said they fell victim to a successful cybersecurity attack in the last 12 months, according to a survey released on Tuesday by Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange attacks increase while WannaCry gets a restart<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-attacks-increase-while-wannacry-gets-a-restart/"> Full Text</a>
 </p>
 <details>

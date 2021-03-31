@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dog Helps Kids Stay Safe Online<a href="https://www.infosecurity-magazine.com:443/news/dog-helps-kids-stay-safe-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lacey the dog teaches children about cybersecurity awareness in new book by CISO
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

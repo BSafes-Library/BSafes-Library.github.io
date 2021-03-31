@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Did Gen. Nakasone Say About Defense Department Operations (Not Just Cyber Operations)?<a href="https://www.lawfareblog.com/what-did-gen-nakasone-say-about-defense-department-operations-not-just-cyber-operations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some notes on a curious comment from Gen. Paul Nakasone, commander of U.S. Cyber Command.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Security Council Officially Launches as Independent Body<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-council/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The council will be working on boosting professional standards in the cybersecurity industry
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 202 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

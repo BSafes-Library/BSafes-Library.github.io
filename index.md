@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers steal New Yorkers' private info for benefits fraud<a href="https://www.bleepingcomputer.com/news/security/scammers-steal-new-yorkers-private-info-for-benefits-fraud/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Docker Hub Image that Downloaded Over 20 Million Times Come with Cryptominers<a href="https://cybersecuritynews.com/cryptominers-in-docker-hub-image/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Infrastructure Protection Firm OPSWAT Secures $125 Million Growth Funding<a href="https://www.securityweek.com/critical-infrastructure-protection-firm-opswat-secures-125-million-growth-funding?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian hackers targeting US, Israeli medical researchers: analysis<a href="https://thehill.com//policy/cybersecurity/545654-iranian-hackers-targeting-us-israeli-medical-researchers-analysis"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decided to move on from your NGAV/EDR? A Guide for Small Security Teams to What's Next<a href="https://thehackernews.com/2021/03/decided-to-move-on-from-your-ngavedr.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winner Crowned in “Hacker Games” Contest Promoting Secure Coding Skills<a href="https://www.infosecurity-magazine.com:443/news/winner-hacker-games-secure-coding/"> Full Text</a>
@@ -130,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Did Gen. Nakasone Say About Defense Department Operations (Not Just Cyber Operations)?<a href="https://www.lawfareblog.com/what-did-gen-nakasone-say-about-defense-department-operations-not-just-cyber-operations"> Full Text</a>
@@ -146,7 +146,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese experts earned $20,000 for reporting a Chrome Sandbox Escape<a href="https://securityaffairs.co/wordpress/116165/security/chrome-sandbox-escape.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian credential thieves targeting medical researchers<a href="https://www.scmagazine.com/home/security-news/iranian-credential-thieves-targeting-medical-researchers/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Charming Kitten Pounces on Medical Researchers<a href="https://threatpost.com/charming-kitten-pounces-on-researchers/165129/"> Full Text</a>
@@ -198,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake jQuery files infect WordPress sites with malware<a href="https://www.bleepingcomputer.com/news/security/fake-jquery-files-infect-wordpress-sites-with-malware/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Whistleblower claims Ubiquiti Networks data breach was ‘catastrophic’<a href="https://www.zdnet.com/article/whistleblower-claims-ubiquiti-networks-data-breach-was-catastrophic/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are implanting multiple backdoors at industrial targets in Japan<a href="https://thehackernews.com/2021/03/hackers-are-implanting-multiple.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Global Chip Companies Show Signs of Compromise<a href="https://www.infosecurity-magazine.com:443/news/most-global-chip-companies-signs/"> Full Text</a>
@@ -262,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Email accounts of DHS members were compromised in the SolarWinds hack<a href="https://securityaffairs.co/wordpress/116154/hacking/dhs-email-compromised-solarwinds.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome for Linux is getting DNS-over-HTTPS, but there's a catch<a href="https://www.bleepingcomputer.com/news/security/google-chrome-for-linux-is-getting-dns-over-https-but-theres-a-catch/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Board directors need to play an active role in protecting their org from cyber risks<a href="https://www.helpnetsecurity.com/2021/03/31/board-directors-cybersecurity-role/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Cyber Security Council Officially Launches as Independent Body<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-council/"> Full Text</a>
@@ -330,7 +330,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IETF deprecates TLS 1.0 and TLS 1.1, update to latest versions<a href="https://securityaffairs.co/wordpress/116151/security/ietf-deprecates-tls-1-0-tls-1-1.html"> Full Text</a>
@@ -350,7 +350,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pair accused of turning photos into vids to crack tax dept facial recognition system in China<a href="https://www.theregister.com/2021/03/31/tax_scammers_fool_ai_facial_recognition/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 James Reynolds Joins SecureAge Technology to Lead Security Product Strategy<a href="https://www.infosecurity-magazine.com:443/news/james-reynolds-join-secureage/"> Full Text</a>
@@ -382,7 +382,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Firmware Attacks Outpacing Security Investments<a href="https://www.securityweek.com/microsoft-firmware-attacks-outpacing-security-investments?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three-Quarters of Legal Breaches Caused by Insiders<a href="https://www.infosecurity-magazine.com:443/news/threequarters-of-legal-breaches/"> Full Text</a>
@@ -414,7 +414,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APAC firms face growing cyberattacks, take more than a week to remediate<a href="https://www.zdnet.com/article/apac-firms-face-growing-cyberattacks-take-more-than-a-week-to-remediate/?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS Reduces Cyber-Skills Shortages but Breach Problems Remain<a href="https://www.infosecurity-magazine.com:443/news/nhs-cyber-skills-shortages-breach/"> Full Text</a>
@@ -446,7 +446,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lack of IT-OT collaboration holding back smart factory security projects<a href="https://www.helpnetsecurity.com/2021/03/31/smart-factory-security-projects/?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2021
+March 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks latest security giant accused of patent infringement<a href="https://www.scmagazine.com/home/security-news/corporate-news/palo-alto-networks-latest-security-giant-accused-of-patent-infringement/"> Full Text</a>

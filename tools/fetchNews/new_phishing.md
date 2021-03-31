@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers steal New Yorkers' private info for benefits fraud<a href="https://www.bleepingcomputer.com/news/security/scammers-steal-new-yorkers-private-info-for-benefits-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York's&nbsp;Department of Financial Services (DFS) warns of an ongoing series of attacks resulting in the theft of personal information belonging to hundreds of thousands of&nbsp;New Yorkers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

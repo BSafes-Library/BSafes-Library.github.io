@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Charming Kitten Pounces on Medical Researchers<a href="https://threatpost.com/charming-kitten-pounces-on-researchers/165129/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncover a credential-stealing campaign targeting genetic, neurology and oncology professionals.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
