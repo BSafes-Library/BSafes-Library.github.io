@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting employees from job offer scams can lead to awkward, but important conversations<a href="https://www.scmagazine.com/home/security-news/phishing/protecting-employees-from-job-offer-scams-can-lead-to-awkward-but-important-conversations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employees who are successfully phished with a job offer likely won’t report the incident to their employer, expert says.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 1, 2021 12:00 am
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
