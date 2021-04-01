@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes authentication bypass in Carbon Black Cloud Workload appliance<a href="https://securityaffairs.co/wordpress/116233/security/vmware-carbon-black-cloud-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical authentication bypass vulnerability in the VMware Carbon Black Cloud Workload appliance.
+
+
+
+VMware has addressed a critical vulnerability, tracked as CVE-2021-21982, in the VMware Carbon Black Cloud Workload appliance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legacy QNAP NAS Devices Vulnerable to Zero-Day Attack<a href="https://threatpost.com/qnap-nas-devices-zero-day-attack/165165/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some legacy models of QNAP network attached storage devices are vulnerable to remote unauthorized attacks because of two unpatched vulnerabilities. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Just like cyber became a C-suite issue, it’s also now your governor’s concern<a href="https://www.scmagazine.com/featured/just-like-cyber-became-a-c-suite-issue-its-also-now-your-governors-concern/"> Full Text</a>
 </p>
 <details>
