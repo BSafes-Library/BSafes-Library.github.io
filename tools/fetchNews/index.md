@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fileless Malware Growth Beats All Other Odds in 2020<a href="https://cyware.com/news/fileless-malware-growth-beats-all-other-odds-in-2020-c823b83e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Watchguard Technologies, in 2020, the use of fileless malware increased rapidly as cybercriminals tried to find new ways to evade traditional security controls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
