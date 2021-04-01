@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA encourages everyone to follow updated guidance for Microsoft Exchange fixes<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/cisa-encourages-everyone-to-follow-updated-guidance-for-microsoft-exchange-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday issued a supplemental direction to Emergency Directive (ED) 21-02, which lays out hardening, forensic triage and reporting requirements designed to mitigate vulnerabilities found in the wake of the massive Microsoft Exchange vulnerability hacks that have affected tens of thousands of organizations. The update directs federal departments…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes authentication bypass in Carbon Black Cloud Workload appliance<a href="https://securityaffairs.co/wordpress/116233/security/vmware-carbon-black-cloud-flaw.html"> Full Text</a>
 </p>
 <details>
