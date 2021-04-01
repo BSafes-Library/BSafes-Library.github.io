@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Supreme Court rules Facebook text alerts not akin to robocalls | Republicans press Google, Apple, Amazon on Parler removals | Texas Senate blocks social media platforms from banning users based on politics<a href="https://thehill.com//policy/technology/overnights/546084-hillicon-valley-supreme-court-rules-facebook-text-alerts-not"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court issued an unanimous ruling Thursday siding with Facebook over the platform’s notification system to alert users of suspicious logins. Meanwhile, Google, Apple and Amazon received letters from two Republicans questioning the companies’ actions taken against the social media platform Parler. Top tech platforms were also the target of a Texas Senate bill that passed Thursday that aims to block social media platforms from banning residents based on political views.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
