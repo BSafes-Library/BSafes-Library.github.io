@@ -6,6 +6,53 @@ has_children: true
 nav_order: 5097909
 ---
 ## March, 2021
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National infrastructure plan could strain CISA despite modernizing systems<a href="https://www.scmagazine.com/home/government/national-infrastructure-plan-could-replace-insecure-old-equipment-but-also-strain-cisa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plans to upgrade the electric grid, revitalize manufacturing and secure U.S. supply chains will have a palpable impact on cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In wake of PHP Git server attack, researcher advises developers to enable encryption<a href="https://www.scmagazine.com/website-web-server-security/in-wake-of-php-git-server-attack-researcher-advises-developers-to-enable-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Had two malicious commits not been caught, they could have infected scores of websites using the programming language.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Set Up a Fake Cybersecurity Firm to Target Security Experts<a href="https://thehackernews.com/2021/03/hackers-set-up-fake-cybersecurity-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean government-backed campaign targeting cybersecurity researchers with malware has re-emerged with new tactics in their arsenal as part of a fresh social engineering attack.  In an update shared on Wednesday, Google's Threat Analysis Group said the attackers behind the operation set up a fake security company called SecuriElite and a slew of social media accounts across Twitter and LinkedIn in an attempt to trick unsuspecting researchers into visiting the company's booby-trapped website "where a browser exploit was waiting to be triggered."  "The new website claims the company is an offensive security company located in Turkey that offers pentests, software security assessments and exploits," TAG's Adam Weidemann  said . The website is said to have gone live on March 17.   A total of eight Twitter profiles and seven LinkedIn profiles, who claimed to be vulnerability researchers and human resources personnel at different security firms (inclu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 31, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
