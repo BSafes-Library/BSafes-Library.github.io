@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US DOJ: Phishing attacks use vaccine surveys to steal personal info<a href="https://www.bleepingcomputer.com/news/security/us-doj-phishing-attacks-use-vaccine-surveys-to-steal-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice warns of phishing attacks using fake post-vaccine surveys to steal money from people or tricking them into handing over their personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades Ransomware and Hafnium Hacker Group - Peas from the Same Pod?<a href="https://cyware.com/news/hades-ransomware-and-hafnium-hacker-group-peas-from-the-same-pod-689c76f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers surmise that the Hafnium APT group might be operating under the disguise of Hades due to shared IOCs observed in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Barrage of Cyberattacks Hits the Financial Sector<a href="https://cyware.com/news/a-barrage-of-cyberattacks-hits-the-financial-sector-d7da5396"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of these attacks were observed in the U.S.-based financial institutions, while other impacted regions include Western Asia, Central, and Western Europe. Phishing is still a major infection vector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Coinhive domain repurposed to warn visitors of hacked sites, routers<a href="https://www.bleepingcomputer.com/news/security/coinhive-domain-repurposed-to-warn-visitors-of-hacked-sites-routers/"> Full Text</a>
 </p>
 <details>
