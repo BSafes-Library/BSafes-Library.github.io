@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+80% of Global Enterprises Report Firmware Cyberattacks<a href="https://threatpost.com/enterprises-firmware-cyberattacks/165174/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vast majority of companies in a global survey from Microsoft report being a victim of a firmware-focused cyberattack, but defense spending lags, but defense spending lags.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA encourages everyone to follow updated guidance for Microsoft Exchange fixes<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/cisa-encourages-everyone-to-follow-updated-guidance-for-microsoft-exchange-fixes/"> Full Text</a>
 </p>
 <details>
