@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed flaws in vROps that can be chained to compromise organizations<a href="https://securityaffairs.co/wordpress/116216/security/vmware-vrops-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed two vulnerabilities in its vRealize Operations (vROps) product that can expose organizations to a significant risk of attacks
+
+
+
+The vROps delivers self-driving IT operations management for private, hybrid, and multi-cloud environments...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using a Windows OS Feature to Evade Firewall and Gain Persistence<a href="https://thehackernews.com/2021/04/hackers-using-windows-os-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel technique adopted by attackers finds ways to use Microsoft's Background Intelligent Transfer Service (BITS) so as to deploy malicious payloads on Windows machines stealthily.  In 2020, hospitals, retirement communities, and medical centers bore the brunt of an&nbsp; ever-shifting phishing campaign &nbsp;that distributed custom backdoors such as KEGTAP, which ultimately paved the way for RYUK ransomware attacks.  But new&nbsp; research &nbsp;by FireEye's Mandiant cyber forensics arm has now revealed a previously unknown persistence mechanism that shows the adversaries made use of BITS to launch the backdoor.   Introduced in Windows XP,&nbsp; BITS &nbsp;is a component of Microsoft Windows, which makes use of idle network bandwidth to facilitate the asynchronous transfer of files between machines. This is achieved by creating a job — a container that includes the files to download or upload.  BITS is commonly used to deliver operating system updates to clients as well as by Windows Defender antivirus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA warns of DoS flaws in Citrix Hypervisor<a href="https://securityaffairs.co/wordpress/116190/security/citrix-hypervisor-dos-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix addressed vulnerabilities in Hypervisor that could be exploited by threat actors to execute code in a virtual machine to trigger a denial of service condition on the host.
+
+
+
+US CISA warns that Citrix has released security updates to address flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Researchers Earn Another $20,000 for Chrome Sandbox Escape<a href="https://www.securityweek.com/chinese-researchers-earn-another-20000-chrome-sandbox-escape?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-21194, it can be exploited to escape the Chrome sandbox. In combination with a renderer bug, it can allow an attacker to remotely execute arbitrary code outside the Chrome sandbox.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,80 @@ nav_order: 900075
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+National infrastructure plan could replace insecure old equipment, but also strain CISA<a href="https://www.scmagazine.com/featured/national-infrastructure-plan-could-replace-insecure-old-equipment-but-also-strain-cisa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plans to upgrade the electric grid, revitalize manufacturing and secure U.S. supply chains will have a palpable impact on cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA gives federal agencies 5 days to find hacked Exchange servers<a href="https://www.bleepingcomputer.com/news/security/cisa-gives-federal-agencies-5-days-to-find-hacked-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to scan their networks again for any signs of compromised on-premises Microsoft Exchange servers and report their findings within five days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS chief lays out actions to strengthen cybersecurity in wake of major hacks<a href="https://thehill.com//policy/cybersecurity/545840-dhs-chief-lays-out-actions-to-strengthen-cybersecurity-wake-of-major"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Homeland Security Secretary Alejandro Mayorkas on Wednesday issued a “call for action” to confront mounting cybersecurity threats to the federal government, laying out a plan to combat hacking efforts following two major foreign cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and RH-ISAC to Run Cybersecurity Drill<a href="https://www.infosecurity-magazine.com:443/news/cisa-and-rhisac-to-run/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First retail, hospitality, and travel industry–wide cybersecurity exercise announced
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden extended Executive Order 13694 regarding cyberattack sanctions<a href="https://securityaffairs.co/wordpress/116171/cyber-warfare-2/biden-extended-executive-order-13694.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden has extended Executive Order 13694, issued in 2015 by President Obama, regarding sanctions issued in response to cyberattacks.
+
+
+
+President Joe Biden this week has extended Executive Order 13694 regarding sanctions issued in response...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 What Did Gen. Nakasone Say About Defense Department Operations (Not Just Cyber Operations)?<a href="https://www.lawfareblog.com/what-did-gen-nakasone-say-about-defense-department-operations-not-just-cyber-operations"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+800Gbps DDoS extortion attack hits gambling company<a href="https://www.bleepingcomputer.com/news/security/800gbps-ddos-extortion-attack-hits-gambling-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial-of-service (DDoS) attacks started strong this year, setting new records and taking the extortion trend that started last August to the next level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

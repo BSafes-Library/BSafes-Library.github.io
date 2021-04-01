@@ -8,6 +8,80 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb Admin Pleads Guilty to Money Laundering Charges<a href="https://thehackernews.com/2021/04/deepdotweb-admin-pleads-guilty-to-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Wednesday said that an Israeli national pleaded guilty for his role as an "administrator" of a portal called DeepDotWeb  ( DDW ), a "news" website that "served as a gateway to numerous dark web marketplaces."  According to the unsealed court documents, Tal Prihar , 37, an Israeli citizen residing in Brazil, operated DDW alongside Michael Phan , 34, of Israel, starting October 2013, in return for which they received kickbacks from the operators of the marketplaces in the form of virtual currency amounting to 8,155 bitcoins (worth $8.4 million at the time of the transactions).   In an attempt to conceal the illicit payments, Prihar is said to have transferred the money to other bitcoin accounts and to bank accounts under his control in the name of shell companies.  "Tal Prihar served as a broker for illegal Darknet marketplaces — helping such marketplaces find customers for fentanyl, firearms, and other dangerous
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb Administrator Admits Darknet Conspiracy<a href="https://www.infosecurity-magazine.com:443/news/deepdotweb-admin-admits-conspiracy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Website owner made over $8m advertising illegal online marketplaces
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb admin pleads guilty to money laundering conspiracy<a href="https://securityaffairs.co/wordpress/116217/cyber-crime/deepdotweb-pleads-guilty-moneylaudering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the administrators for the DeepDotWeb dark web portal pleads guilty to receiving kickbacks from the operators of the marketplaces.
+
+
+
+One of the administrators for the DeepDotWeb dark web portal, Tal Prihar (37), pleads guilty to receiving kickbacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22-Year-Old Charged With Hacking Water System and Endangering Lives<a href="https://thehackernews.com/2021/04/22-year-old-charged-with-hacking-water.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old man from the U.S. state of Kansas has been indicted on charges that he unauthorizedly accessed a public water facility's computer system, jeopardizing the residents' safety and health in the local community.  Wyatt A. Travnichek, 22, of Ellsworth County, Kansas, has been charged with one count of tampering with a public water system and one count of reckless damage to a protected computer during unauthorized access, according to the Department of Justice (DoJ).   "By illegally tampering with a public drinking water system, the defendant threatened the safety and health of an entire community,"&nbsp; said &nbsp;Lance Ehrig, Special Agent in Charge of the Environmental Protection Agency (EPA) Criminal Investigation Division in Kansas.  "EPA and its law enforcement partners are committed to upholding the laws designed to protect our drinking water systems from harm or threat of harm. Today's indictment sends a clear message that individuals who intentionall
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Booking.com Fined $558,000 for Late Breach Notification<a href="https://www.infosecurity-magazine.com:443/news/bookingcom-fined-558k-for-late/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch regulator brands 2018 incident a “serious violation”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

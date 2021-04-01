@@ -11,6 +11,20 @@ nav_order: 900010
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Calypso APT Eyes Microsoft Exchange Vulnerabilities<a href="https://cyware.com/news/calypso-apt-eyes-microsoft-exchange-vulnerabilities-2ab3f520"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked Calypso APT group was observed to be targeting vulnerable Microsoft Exchange servers to deploy web shells and eventually load the PlugX malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 APT Charming Kitten Pounces on Medical Researchers<a href="https://threatpost.com/charming-kitten-pounces-on-researchers/165129/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USB threats to ICS systems have nearly doubled: Report<a href="https://www.tripwire.com/state-of-security/ics-security/report-usb-threats-to-ics-systems-have-nearly-doubled/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest Honeywell USB Threat Report 2020 indicates that the number of threats specifically targeting Operational Technology systems has nearly doubled from 16% to 28%.
+</details>
+<div style="text-align: right" markdown="1">
+Tripwire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of Global Retailers See Account Takeovers Surge<a href="https://www.infosecurity-magazine.com:443/news/half-global-retailers-account/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ravelin study finds most are increasing fraud budgets this year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#LORCALive: Cybersecurity to Play a Key Role in Supporting Growing Space Sector<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-supporting-space/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the commercial use of space grows, the sector will come under increased threat of attacks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

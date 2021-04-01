@@ -11,6 +11,20 @@ nav_order: 900056
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+In wake of PHP Git server attack, researcher advises developers to enable encryption<a href="https://www.scmagazine.com/website-web-server-security/in-wake-of-php-git-server-attack-researcher-advises-developers-to-enable-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Had two malicious commits not been caught, they could have infected scores of websites using the programming language.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 In wake of PHP Git server attack, researcher advises developers to enable encryption<a href="https://www.scmagazine.com/featured/in-wake-of-php-git-server-attack-researcher-advises-developers-to-enable-encryption/"> Full Text</a>
 </p>
 <details>

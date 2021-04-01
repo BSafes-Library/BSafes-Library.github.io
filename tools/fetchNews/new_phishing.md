@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1,600 Fake Twitter Accounts Being Used to Impersonate Major Indonesian Banks<a href="https://securityaffairs.co/wordpress/116173/cyber-crime/5-star-customer-service-fraudsters-launch-massive-campaign-against-indonesias-major-banks-on-twitter.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam campaign involving over 1600 fake Twitter accounts, targets over 2 million Indonesian bank customers, which corresponds to the number of legitimate bank Twitter pages’ followers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

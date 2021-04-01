@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubiquiti confirms extortion attempt following security breach<a href="https://www.bleepingcomputer.com/news/security/ubiquiti-confirms-extortion-attempt-following-security-breach/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Don’t Share Your COVID-19 Vaccine Card on Social Media – US Govt Warns<a href="https://cybersecuritynews.com/covid-19-vaccination-record-card/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Activision Reveals Malware Disguised as 'Call of Duty: Warzone' Cheats<a href="https://www.vice.com/en/article/bvxwva/activision-reveals-malware-disguised-as-call-of-duty-warzone-cheats?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Motherboard Vice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepDotWeb Admin Pleads Guilty to Money Laundering Charges<a href="https://thehackernews.com/2021/04/deepdotweb-admin-pleads-guilty-to-money.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepDotWeb Administrator Admits Darknet Conspiracy<a href="https://www.infosecurity-magazine.com:443/news/deepdotweb-admin-admits-conspiracy/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepDotWeb admin pleads guilty to money laundering conspiracy<a href="https://securityaffairs.co/wordpress/116217/cyber-crime/deepdotweb-pleads-guilty-moneylaudering.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Building a Fortress: 3 Key Strategies for Optimized IT Security<a href="https://threatpost.com/key-strategies-optimized-it-security/165157/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubiquiti cyberattack may be far worse than originally disclosed<a href="https://www.bleepingcomputer.com/news/security/ubiquiti-cyberattack-may-be-far-worse-than-originally-disclosed/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS Secretary Mayorkas Outlines His Vision for Cybersecurity Resilience<a href="https://www.dhs.gov/news/2021/03/31/secretary-mayorkas-outlines-his-vision-cybersecurity-resilience?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ DHS
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 22-Year-Old Charged With Hacking Water System and Endangering Lives<a href="https://thehackernews.com/2021/04/22-year-old-charged-with-hacking-water.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS Secretary Outlines Biden Administration’s Cybersecurity Vision<a href="https://www.infosecurity-magazine.com:443/news/dhs-secretary-biden-admin/"> Full Text</a>
@@ -214,7 +214,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed flaws in vROps that can be chained to compromise organizations<a href="https://securityaffairs.co/wordpress/116216/security/vmware-vrops-flaws.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USB threats to ICS systems have nearly doubled: Report<a href="https://www.tripwire.com/state-of-security/ics-security/report-usb-threats-to-ics-systems-have-nearly-doubled/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Tripwire
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Vaccinate Against the Poor Password Policy Pandemic<a href="https://thehackernews.com/2021/04/how-to-vaccinate-against-poor-password.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Booking.com Fined $558,000 for Late Breach Notification<a href="https://www.infosecurity-magazine.com:443/news/bookingcom-fined-558k-for-late/"> Full Text</a>
@@ -282,7 +282,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai dealt with an 800Gbps ransom DDoS against a gambling company<a href="https://securityaffairs.co/wordpress/116207/cyber-crime/800gbps-ransom-ddos.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Healthcare Providers Report Patient Data Breaches in Wake of Netgain Security Incident<a href="https://www.inforisktoday.com/breach-victims-piling-up-in-wake-cloud-vendor-attack-a-16307?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using a Windows OS Feature to Evade Firewall and Gain Persistence<a href="https://thehackernews.com/2021/04/hackers-using-windows-os-feature-to.html"> Full Text</a>
@@ -338,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Expand Targeting of Security Community<a href="https://www.infosecurity-magazine.com:443/news/north-korean-hackers-target/"> Full Text</a>
@@ -354,7 +354,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubiquiti security breach may be a catastrophe<a href="https://securityaffairs.co/wordpress/116196/data-breach/ubiquiti-security-breach.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 1,600 Fake Twitter Accounts Being Used to Impersonate Major Indonesian Banks<a href="https://securityaffairs.co/wordpress/116173/cyber-crime/5-star-customer-service-fraudsters-launch-massive-campaign-against-indonesias-major-banks-on-twitter.html?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Half of Global Retailers See Account Takeovers Surge<a href="https://www.infosecurity-magazine.com:443/news/half-global-retailers-account/"> Full Text</a>
@@ -406,7 +406,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA warns of DoS flaws in Citrix Hypervisor<a href="https://securityaffairs.co/wordpress/116190/security/citrix-hypervisor-dos-flaws.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud And Deloitte Launch Security Analytics Platform<a href="https://www.crn.com/news/cloud/google-cloud-and-deloitte-launch-security-analytics-platform?&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #LORCALive: Cybersecurity to Play a Key Role in Supporting Growing Space Sector<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-supporting-space/"> Full Text</a>
@@ -458,7 +458,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Back in a Bit: Attacker Use of the Windows Background Intelligent
@@ -475,7 +475,7 @@ FireEye
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Researchers Earn Another $20,000 for Chrome Sandbox Escape<a href="https://www.securityweek.com/chinese-researchers-earn-another-20000-chrome-sandbox-escape?&web_view=true"> Full Text</a>
@@ -491,7 +491,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National infrastructure plan could strain CISA despite modernizing systems<a href="https://www.scmagazine.com/home/government/national-infrastructure-plan-could-replace-insecure-old-equipment-but-also-strain-cisa/"> Full Text</a>
@@ -507,7 +507,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In wake of PHP Git server attack, researcher advises developers to enable encryption<a href="https://www.scmagazine.com/website-web-server-security/in-wake-of-php-git-server-attack-researcher-advises-developers-to-enable-encryption/"> Full Text</a>
@@ -523,7 +523,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Set Up a Fake Cybersecurity Firm to Target Security Experts<a href="https://thehackernews.com/2021/03/hackers-set-up-fake-cybersecurity-firm.html"> Full Text</a>

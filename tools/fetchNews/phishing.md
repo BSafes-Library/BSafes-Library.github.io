@@ -11,6 +11,34 @@ nav_order: 900160
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+IRS Warns of Higher Education Phishing Scam<a href="https://www.infosecurity-magazine.com:443/news/irs-warns-of-higher-education/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attackers impersonate IRS to scam university students and staff
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reality Show Members Charged with Telemarketing Scam<a href="https://www.infosecurity-magazine.com:443/news/reality-show-cast-telemarketing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Real Housewives of Salt Lake City stars face money laundering and wire fraud charges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers steal New Yorkers' private info for benefits fraud<a href="https://www.bleepingcomputer.com/news/security/scammers-steal-new-yorkers-private-info-for-benefits-fraud/"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,62 @@ nav_order: 900072
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Attack Trends in 2020 - A Boom in Double-Extortion Ransomware<a href="https://cyware.com/news/attack-trends-in-2020-a-boom-in-double-extortion-ransomware-7550c9ed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, 15 ransomware families used the double-extortion approach, in comparison to only one in 2019. In addition, around 40% of newly discovered ransomware families utilized the tactic in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: DHS chief lays out actions to boost cybersecurity after major hacks | Facebook removes video of Trump citing suspension from platform | Battle rages over vaccine passports<a href="https://thehill.com//policy/technology/overnights/545871-hillicon-valley-dhs-chief-lays-out-actions-to-boost"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Homeland Security Secretary Alejandro MayorkasAlejandro MayorkasGOP lawmakers ask Mayorkas for documents on warnings from DHS to Biden on immigration Officials say executive order with 'a dozen' actions forthcoming after SolarWinds, Microsoft breaches UK considering 'extreme' measures to deal with asylum seekers; pay attention — Biden may follow suit MORE on Wednesday laid out a roadmap for federal cybersecurity while teasing an upcoming cyber executive order. Facebook enforced its indefinite suspension on former President TrumpDonald TrumpThe Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle rages over vaccine passports MORE by removing a video posted by Lara Trump of a sit down interview with the former president. President BidenJoe BidenThe Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic plans MORE proposed billions in funding to boost research and development of emerging technologies, and Republicans pushed back on the idea of so-called vaccine passports.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawfare Lecture: Paul Rosenzweig on Enterprise Cybersecurity Measurement<a href="https://www.lawfareblog.com/lawfare-lecture-paul-rosenzweig-enterprise-cybersecurity-measurement"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Join us for&nbsp;a live presentation on&nbsp;measuring cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CISOs should focus more on people and less on tech, report finds<a href="https://www.scmagazine.com/home/security-news/new-cisos-should-focus-more-people-and-less-on-tech-report-finds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new CISO must take steps to build relationships, while also making sure not to alienate other business units or harm the security team’s brand.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Decided to move on from your NGAV/EDR? A Guide for Small Security Teams to What's Next<a href="https://thehackernews.com/2021/03/decided-to-move-on-from-your-ngavedr.html"> Full Text</a>
 </p>
 <details>
