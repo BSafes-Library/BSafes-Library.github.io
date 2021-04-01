@@ -34,6 +34,511 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti confirms extortion attempt following security breach<a href="https://www.bleepingcomputer.com/news/security/ubiquiti-confirms-extortion-attempt-following-security-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking device maker Ubiquiti has confirmed that it was the target of an extortion attempt following a January security breach, as revealed by a whistleblower earlier this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don’t Share Your COVID-19 Vaccine Card on Social Media – US Govt Warns<a href="https://cybersecuritynews.com/covid-19-vaccination-record-card/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The Department of Health and Human Services, Office of Inspector General (HHS-OIG), and the FBI are advising the public to be aware...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activision Reveals Malware Disguised as 'Call of Duty: Warzone' Cheats<a href="https://www.vice.com/en/article/bvxwva/activision-reveals-malware-disguised-as-call-of-duty-warzone-cheats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activision security researchers found that a Warzone cheat advertised on popular cheating forums was actually malware that let hackers take control of the victims' computers.
+</details>
+<div style="text-align: right" markdown="1">
+Motherboard Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb Admin Pleads Guilty to Money Laundering Charges<a href="https://thehackernews.com/2021/04/deepdotweb-admin-pleads-guilty-to-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Wednesday said that an Israeli national pleaded guilty for his role as an "administrator" of a portal called DeepDotWeb  ( DDW ), a "news" website that "served as a gateway to numerous dark web marketplaces."  According to the unsealed court documents, Tal Prihar , 37, an Israeli citizen residing in Brazil, operated DDW alongside Michael Phan , 34, of Israel, starting October 2013, in return for which they received kickbacks from the operators of the marketplaces in the form of virtual currency amounting to 8,155 bitcoins (worth $8.4 million at the time of the transactions).   In an attempt to conceal the illicit payments, Prihar is said to have transferred the money to other bitcoin accounts and to bank accounts under his control in the name of shell companies.  "Tal Prihar served as a broker for illegal Darknet marketplaces — helping such marketplaces find customers for fentanyl, firearms, and other dangerous
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb Administrator Admits Darknet Conspiracy<a href="https://www.infosecurity-magazine.com:443/news/deepdotweb-admin-admits-conspiracy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Website owner made over $8m advertising illegal online marketplaces
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb admin pleads guilty to money laundering conspiracy<a href="https://securityaffairs.co/wordpress/116217/cyber-crime/deepdotweb-pleads-guilty-moneylaudering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the administrators for the DeepDotWeb dark web portal pleads guilty to receiving kickbacks from the operators of the marketplaces.
+
+
+
+One of the administrators for the DeepDotWeb dark web portal, Tal Prihar (37), pleads guilty to receiving kickbacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building a Fortress: 3 Key Strategies for Optimized IT Security<a href="https://threatpost.com/key-strategies-optimized-it-security/165157/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chris Haas, director of information security and research at Automox, discusses how to shore up cybersecurity defenses and what to prioritize.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti cyberattack may be far worse than originally disclosed<a href="https://www.bleepingcomputer.com/news/security/ubiquiti-cyberattack-may-be-far-worse-than-originally-disclosed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach report from Ubiquiti in January is allegedly a cover-up of a massive incident that put at risk customer data and devices deployed on corporate and home networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Secretary Mayorkas Outlines His Vision for Cybersecurity Resilience<a href="https://www.dhs.gov/news/2021/03/31/secretary-mayorkas-outlines-his-vision-cybersecurity-resilience?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The department will conduct a series of 60-day sprints which will mobilize action by elevating existing efforts, removing roadblocks, and launching new initiatives where necessary.
+</details>
+<div style="text-align: right" markdown="1">
+DHS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22-Year-Old Charged With Hacking Water System and Endangering Lives<a href="https://thehackernews.com/2021/04/22-year-old-charged-with-hacking-water.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old man from the U.S. state of Kansas has been indicted on charges that he unauthorizedly accessed a public water facility's computer system, jeopardizing the residents' safety and health in the local community.  Wyatt A. Travnichek, 22, of Ellsworth County, Kansas, has been charged with one count of tampering with a public water system and one count of reckless damage to a protected computer during unauthorized access, according to the Department of Justice (DoJ).   "By illegally tampering with a public drinking water system, the defendant threatened the safety and health of an entire community,"  said  Lance Ehrig, Special Agent in Charge of the Environmental Protection Agency (EPA) Criminal Investigation Division in Kansas.  "EPA and its law enforcement partners are committed to upholding the laws designed to protect our drinking water systems from harm or threat of harm. Today's indictment sends a clear message that individuals who intentionall
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Secretary Outlines Biden Administration’s Cybersecurity Vision<a href="https://www.infosecurity-magazine.com:443/news/dhs-secretary-biden-admin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DHS secretary Alejandro Mayorkas spoke during RSAC webcast
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed flaws in vROps that can be chained to compromise organizations<a href="https://securityaffairs.co/wordpress/116216/security/vmware-vrops-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed two vulnerabilities in its vRealize Operations (vROps) product that can expose organizations to a significant risk of attacks
+
+
+
+The vROps delivers self-driving IT operations management for private, hybrid, and multi-cloud environments...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USB threats to ICS systems have nearly doubled: Report<a href="https://www.tripwire.com/state-of-security/ics-security/report-usb-threats-to-ics-systems-have-nearly-doubled/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest Honeywell USB Threat Report 2020 indicates that the number of threats specifically targeting Operational Technology systems has nearly doubled from 16% to 28%.
+</details>
+<div style="text-align: right" markdown="1">
+Tripwire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Vaccinate Against the Poor Password Policy Pandemic<a href="https://thehackernews.com/2021/04/how-to-vaccinate-against-poor-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breaches remain a constant threat, and no industry or organization is immune from the risks. From  Fortune 500  companies to startups, password-related breaches continue to spread seemingly unchecked.  As a result of the volume of data breaches and cybersecurity incidents, hackers now have access to a vast swathe of credentials that they can use to power various password-related attacks.  One example of this is credential stuffing attacks, which accounted for  1.5 billion  incidents in the last quarter of 2020—a staggering 90% increase from Q1 2020.  The rapid pivot to digital in response to the pandemic has been a key contributor to the explosive growth in cybersecurity attacks. With organizations shifting more services online and investing in new applications that facilitate virtual interactions with employees and customers, this has changed the security landscape and presented an array of new avenues for hackers to exploit. However, in a rush to move everything online from mee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Booking.com Fined $558,000 for Late Breach Notification<a href="https://www.infosecurity-magazine.com:443/news/bookingcom-fined-558k-for-late/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch regulator brands 2018 incident a “serious violation”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai dealt with an 800Gbps ransom DDoS against a gambling company<a href="https://securityaffairs.co/wordpress/116207/cyber-crime/800gbps-ransom-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai has recently involved in the mitigation of two of the largest known ransom DDoS attacks, one of them peaked at 800Gbps.
+
+
+
+CDN and cybersecurity firm Akamai warns of a worrying escalation in ransom DDoS attacks since the beginning of the year.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Healthcare Providers Report Patient Data Breaches in Wake of Netgain Security Incident<a href="https://www.inforisktoday.com/breach-victims-piling-up-in-wake-cloud-vendor-attack-a-16307?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Months after an apparent ransomware attack against cloud hosting and MSP Netgain Technology, the list of healthcare entities reporting major health data breaches linked to the incident is growing.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using a Windows OS Feature to Evade Firewall and Gain Persistence<a href="https://thehackernews.com/2021/04/hackers-using-windows-os-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel technique adopted by attackers finds ways to use Microsoft's Background Intelligent Transfer Service (BITS) so as to deploy malicious payloads on Windows machines stealthily.  In 2020, hospitals, retirement communities, and medical centers bore the brunt of an  ever-shifting phishing campaign  that distributed custom backdoors such as KEGTAP, which ultimately paved the way for RYUK ransomware attacks.  But new  research  by FireEye's Mandiant cyber forensics arm has now revealed a previously unknown persistence mechanism that shows the adversaries made use of BITS to launch the backdoor.   Introduced in Windows XP,  BITS  is a component of Microsoft Windows, which makes use of idle network bandwidth to facilitate the asynchronous transfer of files between machines. This is achieved by creating a job — a container that includes the files to download or upload.  BITS is commonly used to deliver operating system updates to clients as well as by Windows Defender antivirus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Expand Targeting of Security Community<a href="https://www.infosecurity-magazine.com:443/news/north-korean-hackers-target/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New fake company and social profiles seek to lure researchers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti security breach may be a catastrophe<a href="https://securityaffairs.co/wordpress/116196/data-breach/ubiquiti-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach disclosed by Ubiquiti in January could be just the tip of the iceberg, a deeper incident could have hit the company.
+
+
+
+In January, American technology vendor Ubiquiti Networks suffered a data breach, it sent out notification emails to its customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1,600 Fake Twitter Accounts Being Used to Impersonate Major Indonesian Banks<a href="https://securityaffairs.co/wordpress/116173/cyber-crime/5-star-customer-service-fraudsters-launch-massive-campaign-against-indonesias-major-banks-on-twitter.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam campaign involving over 1600 fake Twitter accounts, targets over 2 million Indonesian bank customers, which corresponds to the number of legitimate bank Twitter pages’ followers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of Global Retailers See Account Takeovers Surge<a href="https://www.infosecurity-magazine.com:443/news/half-global-retailers-account/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ravelin study finds most are increasing fraud budgets this year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA warns of DoS flaws in Citrix Hypervisor<a href="https://securityaffairs.co/wordpress/116190/security/citrix-hypervisor-dos-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix addressed vulnerabilities in Hypervisor that could be exploited by threat actors to execute code in a virtual machine to trigger a denial of service condition on the host.
+
+
+
+US CISA warns that Citrix has released security updates to address flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud And Deloitte Launch Security Analytics Platform<a href="https://www.crn.com/news/cloud/google-cloud-and-deloitte-launch-security-analytics-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud and Deloitte have launched a new platform for enterprises aimed at helping companies thwart cyberthreats as the global workforce has gone remote and cloud usage has exploded.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#LORCALive: Cybersecurity to Play a Key Role in Supporting Growing Space Sector<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-supporting-space/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the commercial use of space grows, the sector will come under increased threat of attacks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Back in a Bit: Attacker Use of the Windows Background Intelligent
+Transfer Service<a href="https://www.fireeye.com/blog/threat-research/2021/03/attacker-use-of-windows-background-intelligent-transfer-service.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When malicious applications create BITS jobs, files are downloaded or uploaded in the context of the service host process. This can be used to bypass firewalls that block unknown processes.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Researchers Earn Another $20,000 for Chrome Sandbox Escape<a href="https://www.securityweek.com/chinese-researchers-earn-another-20000-chrome-sandbox-escape?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-21194, it can be exploited to escape the Chrome sandbox. In combination with a renderer bug, it can allow an attacker to remotely execute arbitrary code outside the Chrome sandbox.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National infrastructure plan could strain CISA despite modernizing systems<a href="https://www.scmagazine.com/home/government/national-infrastructure-plan-could-replace-insecure-old-equipment-but-also-strain-cisa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plans to upgrade the electric grid, revitalize manufacturing and secure U.S. supply chains will have a palpable impact on cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In wake of PHP Git server attack, researcher advises developers to enable encryption<a href="https://www.scmagazine.com/website-web-server-security/in-wake-of-php-git-server-attack-researcher-advises-developers-to-enable-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Had two malicious commits not been caught, they could have infected scores of websites using the programming language.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Set Up a Fake Cybersecurity Firm to Target Security Experts<a href="https://thehackernews.com/2021/03/hackers-set-up-fake-cybersecurity-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean government-backed campaign targeting cybersecurity researchers with malware has re-emerged with new tactics in their arsenal as part of a fresh social engineering attack.  In an update shared on Wednesday, Google's Threat Analysis Group said the attackers behind the operation set up a fake security company called SecuriElite and a slew of social media accounts across Twitter and LinkedIn in an attempt to trick unsuspecting researchers into visiting the company's booby-trapped website "where a browser exploit was waiting to be triggered."  "The new website claims the company is an offensive security company located in Turkey that offers pentests, software security assessments and exploits," TAG's Adam Weidemann  said . The website is said to have gone live on March 17.   A total of eight Twitter profiles and seven LinkedIn profiles, who claimed to be vulnerability researchers and human resources personnel at different security firms (inclu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 31, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
