@@ -332,6 +332,16 @@ On November 29-30, 2017, the U.S. Department of Energy’s (DOE) Office of Polic
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+<p style="font-weight:500; margin:0px" markdown="1">
+August, 2017<br>
+• Securing Cyber Assets - Addressing Urgent Cyber Threats to Critical Infrastructure [HTML](https://papers.bsafes.com/docs/infrastructure/securing-cyber-assets-addressing-urgent-cyber-threats-to-critical-infrastructure/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Our review of hundreds of studies and interviews with 38 cyber and industry experts revealed an echo chamber, loudly reverberating what needs to be done to secure critical U.S. infrastructure against aggressive and targeted cyber attacks. Cyber is the sole arena where private companies are the front line of defense in a nation-state attack on U.S. infrastructure. When a cyber attack can deliver the same damage or consequences as a kinetic attack, it requires national leadership and close coordination of our collective resources, capabilities, and authorities.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 <p style="font-weight:500; margin:0px" markdown="1">
