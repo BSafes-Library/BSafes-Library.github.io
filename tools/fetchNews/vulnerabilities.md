@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese experts earned $20,000 for reporting a Chrome Sandbox Escape<a href="https://securityaffairs.co/wordpress/116165/security/chrome-sandbox-escape.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have reported to Google a sandbox escape vulnerability in the Chrome web browser to Google that awarded them $20,000.
+
+
+
+Experts from the Chinese cybersecurity company Qihoo 360 have reported to Google another sandbox escape vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake jQuery files infect WordPress sites with malware<a href="https://www.bleepingcomputer.com/news/security/fake-jquery-files-infect-wordpress-sites-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted counterfeit versions of the jQuery&nbsp;Migrate plugin injected&nbsp;on dozens of websites which contains obfuscated code to load malware. These files are named jquery-migrate.js &amp; jquery-migrate.min.js&nbsp;and present at the exact locations where JavaScript files are normally&nbsp;present on WordPress sites&nbsp;but are malicious.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Global Chip Companies Show Signs of Compromise<a href="https://www.infosecurity-magazine.com:443/news/most-global-chip-companies-signs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueVoyant report reveals widespread vulnerabilities and open ports
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome for Linux is getting DNS-over-HTTPS, but there's a catch<a href="https://www.bleepingcomputer.com/news/security/google-chrome-for-linux-is-getting-dns-over-https-but-theres-a-catch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome developers have announced plans to roll out DNS-over-HTTPS (DoH) support to Chrome web browser for Linux. DoH has been supported on Google Chrome for other platforms, including Android, since at least 2020. But, there's a catch.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IETF deprecates TLS 1.0 and TLS 1.1, update to latest versions<a href="https://securityaffairs.co/wordpress/116151/security/ietf-deprecates-tls-1-0-tls-1-1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IETF has formally deprecated the TLS 1.0 and TLS 1.1 cryptographic protocols because they lack support for recommended cryptographic algorithms and mechanisms
+
+
+
+The Internet Engineering Task Force (IETF) formally deprecates Transport Layer Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

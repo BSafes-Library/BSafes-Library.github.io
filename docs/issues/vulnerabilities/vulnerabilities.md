@@ -11,6 +11,20 @@ nav_order: 900220
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware Fixes Critical Flaw that Let Attackers Steal Admin Credentials<a href="https://cybersecuritynews.com/vmware-fixes-critical-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ VMware security teams announced the release of security patches to fix a severe flaw in vRealize Operations whose exploit would allow threat...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese experts earned $20,000 for reporting a Chrome Sandbox Escape<a href="https://securityaffairs.co/wordpress/116165/security/chrome-sandbox-escape.html"> Full Text</a>
 </p>
 <details>

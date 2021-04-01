@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Legal Breaches Caused by Insiders<a href="https://www.infosecurity-magazine.com:443/news/threequarters-of-legal-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NetDocuments FOI data shows scale of employee threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

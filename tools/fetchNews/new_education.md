@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MITRE ATT&amp;CK certification course could boost framework’s adoption<a href="https://www.scmagazine.com/security-training-certification-user-awareness/new-mitre-attck-certification-course-could-boost-frameworks-adoption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+But unusual recertification process must avoid becoming burdensome for busy security professionals.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

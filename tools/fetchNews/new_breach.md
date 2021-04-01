@@ -11,6 +11,34 @@ nav_order: 900029
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+In Yet Another Supply Chain Attack, PHP's Git Server Gets Compromised<a href="https://cyware.com/news/in-yet-another-supply-chain-attack-phps-git-server-gets-compromised-b71b900f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To compromise the PHP codebase, two malicious commits were pushed to a Git repository maintained by the PHP development team.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York charity leaves sensitive patients’ data unsecured<a href="https://cybernews.com/security/new-york-charity-leaves-sensitive-patients-data-unsecured/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unsecured database contained over 2,000 CSV and TXT files, each with thousands of entries on medical records, children’s legal guardians, caseworkers, doctors, and other child welfare specialists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Whistleblower claims Ubiquiti Networks data breach was ‘catastrophic’<a href="https://www.zdnet.com/article/whistleblower-claims-ubiquiti-networks-data-breach-was-catastrophic/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

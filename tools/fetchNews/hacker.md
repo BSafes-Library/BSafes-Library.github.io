@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers targeting US, Israeli medical researchers: analysis<a href="https://thehill.com//policy/cybersecurity/545654-iranian-hackers-targeting-us-israeli-medical-researchers-analysis"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group associated with the Iranian government targeted senior medical researchers in the U.S. and Israel over the past few months, new research released Wednesday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are implanting multiple backdoors at industrial targets in Japan<a href="https://thehackernews.com/2021/03/hackers-are-implanting-multiple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed details of a sophisticated campaign that deploys malicious backdoors for the purpose of exfiltrating information from a number of industry sectors located in Japan.  Dubbed "A41APT" by Kaspersky researchers, the findings delve into a new slew of attacks undertaken by&nbsp; APT10 &nbsp;(aka Stone Panda or Cicada) using previously undocumented malware to deliver as many as three payloads such as SodaMaster, P8RAT, and FYAnti.  The long-running intelligence-gathering operation first came into the scene in March 2019, with activities spotted as recently as November 2020, when&nbsp; reports &nbsp;emerged of Japan-linked companies being targeted by the threat actor in over 17 regions worldwide.   The fresh attacks uncovered by Kaspersky are said to have occurred in January 2021. The infection chain leverages a multi-stage attack process, with the initial intrusion happening via abuse of SSL-VPN by exploiting unpatched vulnerabilities or stolen credential
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Cl0p ransomware gang leaks sensitive data from 6 US universites<a href="https://www.hackread.com/cl0p-ransomware-gang-us-universites-leak-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent update, the infamous Cl0p ransomware group claimed to gain access to financial documents and passport information belonging to students and staff from six top universities in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5-star customer service: fraudsters launch massive campaign against Indonesia’s major banks on Twitter<a href="https://securityaffairs.co/wordpress/116173/cyber-crime/5-star-customer-service-fraudsters-launch-massive-campaign-against-indonesias-major-banks-on-twitter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that cybercriminals are targeting Indonesia’s major banks posing as bank representatives or customer support team members on Twitter.
+
+
+
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company, warns of an ongoing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

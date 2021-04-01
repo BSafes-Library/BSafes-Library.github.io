@@ -11,6 +11,66 @@ nav_order: 900080
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked hackers target security experts again<a href="https://securityaffairs.co/wordpress/116183/apt/north-korea-hackers-target-researchers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google's Threat Analysis Group (TAG) reported that North Korea-linked hackers are targeting security researchers via social media.
+
+
+
+The cyberspies used fake Twitter and LinkedIn social media accounts to get in contact with the victims....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: North Korean hackers target security researchers again<a href="https://www.bleepingcomputer.com/news/security/google-north-korean-hackers-target-security-researchers-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) says that North Korean government-sponsored hackers are once again targeting security researchers using fake Twitter and LinkedIn social media accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian credential thieves targeting medical researchers<a href="https://www.scmagazine.com/home/security-news/phishing/iranian-credential-thieves-targeting-medical-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late 2020, a well-known hacker group believed to be sponsored by the Iranian government started a credential harvesting campaign targeting United States and Israeli medical personnel, according to new research from Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversaries are using backdoored video game cheat engines and modding tools<a href="https://blog.talosintelligence.com/2021/03/cheating-cheater-how-adversaries-are.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos detected a new cryptor used in several different malware campaigns hidden in files that users would usually download to install cheat codes into video games or other visual and game mods.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian hackers targeting US, Israeli medical researchers: analysis<a href="https://thehill.com//policy/cybersecurity/545654-iranian-hackers-targeting-us-israeli-medical-researchers-analysis"> Full Text</a>
 </p>
 <details>

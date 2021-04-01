@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 800Gbps DDoS extortion attack hits gambling company<a href="https://www.bleepingcomputer.com/news/security/800gbps-ddos-extortion-attack-hits-gambling-company/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Fixes Critical Flaw that Let Attackers Steal Admin Credentials<a href="https://cybersecuritynews.com/vmware-fixes-critical-flaw/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attack Trends in 2020 - A Boom in Double-Extortion Ransomware<a href="https://cyware.com/news/attack-trends-in-2020-a-boom-in-double-extortion-ransomware-7550c9ed"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: DHS chief lays out actions to boost cybersecurity after major hacks | Facebook removes video of Trump citing suspension from platform | Battle rages over vaccine passports<a href="https://thehill.com//policy/technology/overnights/545871-hillicon-valley-dhs-chief-lays-out-actions-to-boost"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IRS Warns of Higher Education Phishing Scam<a href="https://www.infosecurity-magazine.com:443/news/irs-warns-of-higher-education/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawfare Lecture: Paul Rosenzweig on Enterprise Cybersecurity Measurement<a href="https://www.lawfareblog.com/lawfare-lecture-paul-rosenzweig-enterprise-cybersecurity-measurement"> Full Text</a>
@@ -130,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked hackers target security experts again<a href="https://securityaffairs.co/wordpress/116183/apt/north-korea-hackers-target-researchers.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National infrastructure plan could replace insecure old equipment, but also strain CISA<a href="https://www.scmagazine.com/featured/national-infrastructure-plan-could-replace-insecure-old-equipment-but-also-strain-cisa/"> Full Text</a>
@@ -166,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA gives federal agencies 5 days to find hacked Exchange servers<a href="https://www.bleepingcomputer.com/news/security/cisa-gives-federal-agencies-5-days-to-find-hacked-exchange-servers/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Calypso APT Eyes Microsoft Exchange Vulnerabilities<a href="https://cyware.com/news/calypso-apt-eyes-microsoft-exchange-vulnerabilities-2ab3f520"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS chief lays out actions to strengthen cybersecurity in wake of major hacks<a href="https://thehill.com//policy/cybersecurity/545840-dhs-chief-lays-out-actions-to-strengthen-cybersecurity-wake-of-major"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and RH-ISAC to Run Cybersecurity Drill<a href="https://www.infosecurity-magazine.com:443/news/cisa-and-rhisac-to-run/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 President Biden extended Executive Order 13694 regarding cyberattack sanctions<a href="https://securityaffairs.co/wordpress/116171/cyber-warfare-2/biden-extended-executive-order-13694.html"> Full Text</a>
@@ -250,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CISOs should focus more on people and less on tech, report finds<a href="https://www.scmagazine.com/home/security-news/new-cisos-should-focus-more-people-and-less-on-tech-report-finds/"> Full Text</a>
@@ -266,7 +266,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: North Korean hackers target security researchers again<a href="https://www.bleepingcomputer.com/news/security/google-north-korean-hackers-target-security-researchers-again/"> Full Text</a>
@@ -282,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In Yet Another Supply Chain Attack, PHP's Git Server Gets Compromised<a href="https://cyware.com/news/in-yet-another-supply-chain-attack-phps-git-server-gets-compromised-b71b900f"> Full Text</a>
@@ -298,7 +298,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reality Show Members Charged with Telemarketing Scam<a href="https://www.infosecurity-magazine.com:443/news/reality-show-cast-telemarketing/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5-star customer service: fraudsters launch massive campaign against Indonesia’s major banks on Twitter<a href="https://securityaffairs.co/wordpress/116173/cyber-crime/5-star-customer-service-fraudsters-launch-massive-campaign-against-indonesias-major-banks-on-twitter.html"> Full Text</a>
@@ -334,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In wake of PHP Git server attack, researcher advises developers to enable encryption<a href="https://www.scmagazine.com/featured/in-wake-of-php-git-server-attack-researcher-advises-developers-to-enable-encryption/"> Full Text</a>
@@ -350,7 +350,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarCall malware uses malicious call centers to infect victims<a href="https://www.bleepingcomputer.com/news/security/bazarcall-malware-uses-malicious-call-centers-to-infect-victims/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Fleeceware Apps Earning Millions of Dollars<a href="https://cyware.com/news/hundreds-of-fleeceware-apps-earning-millions-of-dollars-dead669b"> Full Text</a>
@@ -382,7 +382,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New MITRE ATT&CK certification course could boost framework’s adoption<a href="https://www.scmagazine.com/security-training-certification-user-awareness/new-mitre-attck-certification-course-could-boost-frameworks-adoption/"> Full Text</a>
@@ -398,7 +398,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware hidden in game cheats and mods used to target gamers<a href="https://www.bleepingcomputer.com/news/security/malware-hidden-in-game-cheats-and-mods-used-to-target-gamers/"> Full Text</a>
@@ -414,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York charity leaves sensitive patients’ data unsecured<a href="https://cybernews.com/security/new-york-charity-leaves-sensitive-patients-data-unsecured/?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian credential thieves targeting medical researchers<a href="https://www.scmagazine.com/home/security-news/phishing/iranian-credential-thieves-targeting-medical-researchers/"> Full Text</a>
@@ -446,7 +446,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Cl0p ransomware gang leaks sensitive data from 6 US universites<a href="https://www.hackread.com/cl0p-ransomware-gang-us-universites-leak-data/?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2021
+March 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adversaries are using backdoored video game cheat engines and modding tools<a href="https://blog.talosintelligence.com/2021/03/cheating-cheater-how-adversaries-are.html?&web_view=true"> Full Text</a>
