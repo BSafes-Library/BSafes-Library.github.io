@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Website of global parliamentary alliance on China suffers cyber attack<a href="https://ciso.economictimes.indiatimes.com/news/website-of-global-parliamentary-alliance-on-china-suffers-cyber-attack/81831989?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IPAC's website was down on Monday, after suffering a DDoS attack (distributed denial-of-service), causing the site to slow significantly, The Sydney Morning Herald reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forensic Audit of MobiKwik Ordered<a href="https://www.infosecurity-magazine.com:443/news/forensic-audit-of-mobikwik-ordered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reserve Bank of India orders audit of country's largest mobile payment network after alleged data breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
