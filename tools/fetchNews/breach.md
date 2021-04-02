@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti confirms extortion attempt following security breach<a href="https://www.bleepingcomputer.com/news/security/ubiquiti-confirms-extortion-attempt-following-security-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking device maker Ubiquiti has confirmed that it was the target of an extortion attempt following a January security breach, as revealed by a whistleblower earlier this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti cyberattack may be far worse than originally disclosed<a href="https://www.bleepingcomputer.com/news/security/ubiquiti-cyberattack-may-be-far-worse-than-originally-disclosed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach report from Ubiquiti in January is allegedly a cover-up of a massive incident that put at risk customer data and devices deployed on corporate and home networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Healthcare Providers Report Patient Data Breaches in Wake of Netgain Security Incident<a href="https://www.inforisktoday.com/breach-victims-piling-up-in-wake-cloud-vendor-attack-a-16307?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Months after an apparent ransomware attack against cloud hosting and MSP Netgain Technology, the list of healthcare entities reporting major health data breaches linked to the incident is growing.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti security breach may be a catastrophe<a href="https://securityaffairs.co/wordpress/116196/data-breach/ubiquiti-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach disclosed by Ubiquiti in January could be just the tip of the iceberg, a deeper incident could have hit the company.
+
+
+
+In January, American technology vendor Ubiquiti Networks suffered a data breach, it sent out notification emails to its customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

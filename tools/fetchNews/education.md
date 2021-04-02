@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building a Fortress: 3 Key Strategies for Optimized IT Security<a href="https://threatpost.com/key-strategies-optimized-it-security/165157/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chris Haas, director of information security and research at Automox, discusses how to shore up cybersecurity defenses and what to prioritize.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Vaccinate Against the Poor Password Policy Pandemic<a href="https://thehackernews.com/2021/04/how-to-vaccinate-against-poor-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breaches remain a constant threat, and no industry or organization is immune from the risks. From&nbsp; Fortune 500 &nbsp;companies to startups, password-related breaches continue to spread seemingly unchecked.  As a result of the volume of data breaches and cybersecurity incidents, hackers now have access to a vast swathe of credentials that they can use to power various password-related attacks.  One example of this is credential stuffing attacks, which accounted for&nbsp; 1.5 billion &nbsp;incidents in the last quarter of 2020—a staggering 90% increase from Q1 2020.  The rapid pivot to digital in response to the pandemic has been a key contributor to the explosive growth in cybersecurity attacks. With organizations shifting more services online and investing in new applications that facilitate virtual interactions with employees and customers, this has changed the security landscape and presented an array of new avenues for hackers to exploit. However, in a rush to move everything online from mee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

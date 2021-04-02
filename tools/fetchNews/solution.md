@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud And Deloitte Launch Security Analytics Platform<a href="https://www.crn.com/news/cloud/google-cloud-and-deloitte-launch-security-analytics-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud and Deloitte have launched a new platform for enterprises aimed at helping companies thwart cyberthreats as the global workforce has gone remote and cloud usage has exploded.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

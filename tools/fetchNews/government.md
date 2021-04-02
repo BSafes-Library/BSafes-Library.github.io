@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Secretary Mayorkas Outlines His Vision for Cybersecurity Resilience<a href="https://www.dhs.gov/news/2021/03/31/secretary-mayorkas-outlines-his-vision-cybersecurity-resilience?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The department will conduct a series of 60-day sprints which will mobilize action by elevating existing efforts, removing roadblocks, and launching new initiatives where necessary.
+</details>
+<div style="text-align: right" markdown="1">
+DHS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Secretary Outlines Biden Administration’s Cybersecurity Vision<a href="https://www.infosecurity-magazine.com:443/news/dhs-secretary-biden-admin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DHS secretary Alejandro Mayorkas spoke during RSAC webcast
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National infrastructure plan could strain CISA despite modernizing systems<a href="https://www.scmagazine.com/home/government/national-infrastructure-plan-could-replace-insecure-old-equipment-but-also-strain-cisa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plans to upgrade the electric grid, revitalize manufacturing and secure U.S. supply chains will have a palpable impact on cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

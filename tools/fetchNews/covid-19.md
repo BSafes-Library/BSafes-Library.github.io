@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don’t Share Your COVID-19 Vaccine Card on Social Media – US Govt Warns<a href="https://cybersecuritynews.com/covid-19-vaccination-record-card/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The Department of Health and Human Services, Office of Inspector General (HHS-OIG), and the FBI are advising the public to be aware...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

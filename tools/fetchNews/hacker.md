@@ -8,6 +8,49 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Expand Targeting of Security Community<a href="https://www.infosecurity-magazine.com:443/news/north-korean-hackers-target/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New fake company and social profiles seek to lure researchers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Back in a Bit: Attacker Use of the Windows Background Intelligent
+Transfer Service<a href="https://www.fireeye.com/blog/threat-research/2021/03/attacker-use-of-windows-background-intelligent-transfer-service.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When malicious applications create BITS jobs, files are downloaded or uploaded in the context of the service host process. This can be used to bypass firewalls that block unknown processes.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Set Up a Fake Cybersecurity Firm to Target Security Experts<a href="https://thehackernews.com/2021/03/hackers-set-up-fake-cybersecurity-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean government-backed campaign targeting cybersecurity researchers with malware has re-emerged with new tactics in their arsenal as part of a fresh social engineering attack.  In an update shared on Wednesday, Google's Threat Analysis Group said the attackers behind the operation set up a fake security company called SecuriElite and a slew of social media accounts across Twitter and LinkedIn in an attempt to trick unsuspecting researchers into visiting the company's booby-trapped website "where a browser exploit was waiting to be triggered."  "The new website claims the company is an offensive security company located in Turkey that offers pentests, software security assessments and exploits," TAG's Adam Weidemann&nbsp; said . The website is said to have gone live on March 17.   A total of eight Twitter profiles and seven LinkedIn profiles, who claimed to be vulnerability researchers and human resources personnel at different security firms (inclu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
