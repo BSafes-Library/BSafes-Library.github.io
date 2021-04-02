@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Arctic Vault likely has leaked MedData patient records<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-likely-has-leaked-meddata-patient-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Arctic Code Vault has likely inadvertently captured sensitive patient medical records from multiple healthcare facilities. The private data was leaked on GitHub repositories last year that are now part of a collection of open-source contributions bound to last a 1,000 years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
