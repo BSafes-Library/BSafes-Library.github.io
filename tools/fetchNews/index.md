@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Arctic Vault captures leaked patient medical data for 1,000 years<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-captures-leaked-patient-medical-data-for-1-000-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Arctic Code Vault has inadvertently captured sensitive patient medical records from multiple healthcare facilities. The private data was leaked on GitHub repositories last year that are now part of a collection of open-source contributions bound to last a 1,000 years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Firm ReliaQuest Announces New Senior Appointments<a href="https://www.infosecurity-magazine.com:443/news/reliaquest-senior-appointments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kara Wilson and Alex Bender both join the company
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
