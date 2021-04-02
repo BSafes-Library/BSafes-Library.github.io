@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacKenzie Scott Grant scam more widespread than initially thought<a href="https://www.bleepingcomputer.com/news/security/mackenzie-scott-grant-scam-more-widespread-than-initially-thought/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive phishing campaign reaching tens of thousands of inboxes impersonated the MacKenzie Bezos-Scott grant foundation promising financial benefits to recipients in exchange of a processing fee.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Hancitor Infections Use Cobalt Strike and a Network Ping Tool<a href="https://unit42.paloaltonetworks.com/hancitor-infections-cobalt-strike/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As early as October 2020, Hancitor began utilizing Cobalt Strike and some of these infections utilized a network ping tool to enumerate the infected host’s internal network.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molson Coors Cyberattack, Storms Could Cost Company $140 Million<a href="https://www.securityweek.com/molson-coors-cyberattack-storms-could-cost-company-140-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Known brewing giant Molson Coors said that a disruptive cyberattack, combined with winter storms in Texas, could cost the company upwards of $140 million in short-term EBITDA.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
