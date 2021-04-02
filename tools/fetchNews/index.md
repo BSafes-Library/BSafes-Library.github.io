@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DOJ: Phishing attacks use vaccine surveys to steal personal info<a href="https://www.bleepingcomputer.com/news/security/us-doj-phishing-attacks-use-vaccine-surveys-to-steal-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice warns of phishing attacks using fake post-vaccine surveys to steal money from people or tricking them into handing over their personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fileless Malware Growth Beats All Other Odds in 2020<a href="https://cyware.com/news/fileless-malware-growth-beats-all-other-odds-in-2020-c823b83e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Watchguard Technologies, in 2020, the use of fileless malware increased rapidly as cybercriminals tried to find new ways to evade traditional security controls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Supreme Court rules Facebook text alerts not akin to robocalls | Republicans press Google, Apple, Amazon on Parler removals | Texas Senate blocks social media platforms from banning users based on politics<a href="https://thehill.com//policy/technology/overnights/546084-hillicon-valley-supreme-court-rules-facebook-text-alerts-not"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court issued an unanimous ruling Thursday siding with Facebook over the platform’s notification system to alert users of suspicious logins. Meanwhile, Google, Apple and Amazon received letters from two Republicans questioning the companies’ actions taken against the social media platform Parler. Top tech platforms were also the target of a Texas Senate bill that passed Thursday that aims to block social media platforms from banning residents based on political views.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACLU Files AI FOIA Request<a href="https://www.infosecurity-magazine.com:443/news/aclu-files-ai-foia-request/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Civil Liberties Union requests artificial intelligence documents from national security agencies
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes authentication bypass in Carbon Black Cloud Workload appliance<a href="https://securityaffairs.co/wordpress/116233/security/vmware-carbon-black-cloud-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical authentication bypass vulnerability in the VMware Carbon Black Cloud Workload appliance.
+
+
+
+VMware has addressed a critical vulnerability, tracked as CVE-2021-21982, in the VMware Carbon Black Cloud Workload appliance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting employees from job offer scams can lead to awkward but important conversations<a href="https://www.scmagazine.com/home/security-news/phishing/protecting-employees-from-job-offer-scams-can-lead-to-awkward-but-important-conversations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employees who are successfully phished with a job offer likely won’t report the incident to their employer, expert says.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+80% of Global Enterprises Report Firmware Cyberattacks<a href="https://threatpost.com/enterprises-firmware-cyberattacks/165174/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vast majority of companies in a global survey from Microsoft report being a victim of a firmware-focused cyberattack, but defense spending lags, but defense spending lags.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinhive domain repurposed to warn visitors of hacked sites, routers<a href="https://www.bleepingcomputer.com/news/security/coinhive-domain-repurposed-to-warn-visitors-of-hacked-sites-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After taking over the domains for the notorious Coinhive in-browsing Monero mining service, a researcher is now displaying alerts on hacked websites that are still injecting the mining service's JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades Ransomware and Hafnium Hacker Group - Peas from the Same Pod?<a href="https://cyware.com/news/hades-ransomware-and-hafnium-hacker-group-peas-from-the-same-pod-689c76f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers surmise that the Hafnium APT group might be operating under the disguise of Hades due to shared IOCs observed in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forensic Audit of MobiKwik Ordered<a href="https://www.infosecurity-magazine.com:443/news/forensic-audit-of-mobikwik-ordered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reserve Bank of India orders audit of country's largest mobile payment network after alleged data breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021 12:00 am
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Video game cheat mod malware demonstrates risks of unlicensed software<a href="https://www.scmagazine.com/home/security-news/malware/video-game-cheat-mod-malware-demonstrates-the-risks-of-unlicensed-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacking campaign trojanizes cheat mods that PC gamers may be downloading and installing on their work computers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes authentication bypass in data center security software<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-data-center-security-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical vulnerability in the VMware Carbon Black Cloud Workload appliance that could allow attackers to bypass authentication after exploiting vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Barrage of Cyberattacks Hits the Financial Sector<a href="https://cyware.com/news/a-barrage-of-cyberattacks-hits-the-financial-sector-d7da5396"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of these attacks were observed in the U.S.-based financial institutions, while other impacted regions include Western Asia, Central, and Western Europe. Phishing is still a major infection vector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA encourages everyone to follow updated guidance for Microsoft Exchange fixes<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/cisa-encourages-everyone-to-follow-updated-guidance-for-microsoft-exchange-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday issued a supplemental direction to Emergency Directive (ED) 21-02, which lays out hardening, forensic triage and reporting requirements designed to mitigate vulnerabilities found in the wake of the massive Microsoft Exchange vulnerability hacks that have affected tens of thousands of organizations. The update directs federal departments…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brown experiencing IT security threat, temporary system outage<a href="https://www.wpri.com/news/local-news/providence/brown-experiencing-it-security-threat-temporary-system-outage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, the IT department sent a letter to the community saying they “became aware of a cybersecurity threat to the University’s Microsoft Windows-based technology infrastructure.”
+</details>
+<div style="text-align: right" markdown="1">
+WPRI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Just like cyber became a C-suite issue, it’s also now your governor’s concern<a href="https://www.scmagazine.com/featured/just-like-cyber-became-a-c-suite-issue-its-also-now-your-governors-concern/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Governors Association announced five U.S. states have been selected for its 2021 Policy Academy to Advance Whole-of-State Cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Website of global parliamentary alliance on China suffers cyber attack<a href="https://ciso.economictimes.indiatimes.com/news/website-of-global-parliamentary-alliance-on-china-suffers-cyber-attack/81831989?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IPAC's website was down on Monday, after suffering a DDoS attack (distributed denial-of-service), causing the site to slow significantly, The Sydney Morning Herald reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

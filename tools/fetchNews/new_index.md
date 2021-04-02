@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware – Hackers Using Gaming mods and Cheat Engines to Deliver Malware<a href="https://cybersecuritynews.com/malware-via-gaming-mods-and-cheat-engines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cisco Talos recently revealed a new campaign targeting video game players and other PC modders. They detected a new cryptor used in...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
