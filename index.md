@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trustwave Uncovers Vulnerability in Popular Website CMS<a href="https://www.infosecurity-magazine.com:443/news/trustwave-vulnerability-popular/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privilege escalation issue found on website CMS Umbraco
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS CISA requires federal agencies to assess their Microsoft Exchange servers by April 5<a href="https://securityaffairs.co/wordpress/116245/security/cisa-ms-exchange-directive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS CISA has issued a supplemental directive that requires all federal agencies to identify vulnerable Microsoft Exchange servers in their infrastructure within five days.
+
+
+
+The Department of Homeland Security’s Cybersecurity and Infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
