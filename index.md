@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capital One notifies more clients of SSNs exposed in 2019 data breach<a href="https://www.bleepingcomputer.com/news/security/capital-one-notifies-more-clients-of-ssns-exposed-in-2019-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US bank Capital One notified additional customers that their Social Security numbers were exposed in a data breach announced in July 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is a Cybersecurity Legal Practice?<a href="https://www.lawfareblog.com/what-cybersecurity-legal-practice"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some considerations for companies looking to build out a cybersecurity legal practice.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
