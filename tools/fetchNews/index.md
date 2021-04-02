@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Non-Fungible Tokens: Of Course They're Attracting Scammers<a href="https://www.govinfosecurity.com/blogs/non-fungible-tokens-course-theyre-attracting-scammers-p-3011?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since digital ownership of Twitter CEO Jack Dorsey's first tweet sold for $2.9 million, security researchers now expect fraudsters to focus more on non-fungible token aficionados.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers urge Education Department to take action to defend schools from cyber threats<a href="https://thehill.com//policy/cybersecurity/546137-lawmakers-urge-education-department-to-take-action-to-defend-schools"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reps. Doris Matsui (D-Calif.) and Jim LangevinJames (Jim) R. LangevinLawmakers roll out bill to protect critical infrastructure after Florida water hack Hillicon Valley: House approves almost  billion in cyber, tech funds as part of relief package | Officials warn of 'widespread' exploit of Microsoft vulnerabilities | Facebook files to dismiss antitrust lawsuits New research finds 'record-breaking' number of K-12 cyber incidents in 2020 MORE (D-R.I.) on Friday urged the Department of Education to prioritize protecting K-12 institutions from cyberattacks, which have shot up in the past year as classes moved increasingly online during the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood Warns Customers of Tax-Season Phishing Scams<a href="https://threatpost.com/robinhood-warns-customers-of-tax-season-phishing-scams/165180/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are impersonating the stock-trading broker using fake websites to steal credentials as well as sending emails with malicious tax files.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaker Dismisses MobiKwik's Not-So-Nimble Breach Denial<a href="https://www.govinfosecurity.com/blogs/leaker-dismisses-mobikwiks-not-so-nimble-breach-denial-p-3010?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A broker of breached data claims via dedicated .onion leak site to have deleted 8TB of stolen MobiKwik customer data that the company denies was stolen. The listing for 8.2TB of stolen data was withdrawn by a cybercrime forum seller.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Airlift Express Fixes Vulnerabilities in Its E-commerce Store<a href="https://securityaffairs.co/wordpress/116251/hacking/airlift-express-opt-flaw.html"> Full Text</a>
 </p>
 <details>
