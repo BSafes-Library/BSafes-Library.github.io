@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile providers exposing sensitive data to leakage and theft<a href="https://www.helpnetsecurity.com/2021/04/02/mobile-providers-exposing-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data exposure is a significant, unaddressed problem for Europe’s top mobile providers and, by extension, more than 253 million customers who sign up for their services and share sensitive personal data, according to research by Tala Security.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wipro acquires Ampion to deliver combined portfolio of transformation offerings<a href="https://www.helpnetsecurity.com/2021/04/02/wipro-ampion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wipro announced that it has signed an agreement to acquire Ampion, an Australia-based provider of cybersecurity, DevOps, and quality engineering services. Ampion was formed through the merger of IT services providers ‘Revolution IT’ and ‘Shelde’.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
