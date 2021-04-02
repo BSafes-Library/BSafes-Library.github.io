@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Grid security funding not included in Biden's infrastructure plan | Russia fines Twitter | Lawmakers call for increased school cybersecurity<a href="https://thehill.com//policy/technology/overnights/546253-hillicon-valley-grid-security-funding-missing-russia-fines"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts this week were disappointed that President BidenJoe BidenThe Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden infrastructure plan raises eyebrows MORE’s $2.25 trillion infrastructure package did not include specific funding for securing the electric grid against cyberattacks, although the White House is working on a separate initiative to protect the grid. Meanwhile, a Russian court fined Twitter on Friday for failing to remove certain posts, and two Democratic lawmakers pressed the Education Department to protect K-12 institutions from malicious hackers. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
