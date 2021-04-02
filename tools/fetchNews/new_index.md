@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal hacks vaccine marketplace, makes over $752K<a href="https://ciso.economictimes.indiatimes.com/news/cybercriminal-hacks-vaccine-marketplace-makes-over-752k/81867221?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a bizarre incident, a hacker has taken down a vaccine marketplace being run on the Dark Web, created fake orders, canceled them, and took a refund in Bitcoins worth $752,000.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Publishes Guide for Securing Hotel Property Management Systems<a href="https://www.darkreading.com/application-security/nist-publishes-guide-for-securing-hotel-property-management-systems-/d/d-id/1340571?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) has released a cybersecurity guide for the hospitality industry to help reduce security risks related to hotel property-management system software.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch watchdog fines Booking.com $560k after it kept customer data thefts quiet for more than 3 weeks<a href="https://www.theregister.com/2021/04/01/booking_dot_com_fine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Netherlands Data Protection Authority has fined Booking.com $560,000 for notifying it too late that criminals had accessed the data of 4,109 people who booked a hotel room via the website.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti Shares Dive After Reportedly Downplaying 'Catastrophic' Data Breach<a href="https://www.securityweek.com/ubiquiti-shares-dive-following-report-it-downplayed-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shares of New York City-based IoT device maker Ubiquiti (NYSE: UI) fell significantly this week following a report claiming that the recently disclosed data breach was “catastrophic” and that its impact was downplayed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Hack, Officials Draw Attention to Supply Chain Threats<a href="https://www.securityweek.com/after-hack-officials-draw-attention-supply-chain-threats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is working to draw attention to supply chain vulnerabilities, an issue that received particular attention late last year after suspected Russian hackers gained access to federal agencies and private corporations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
