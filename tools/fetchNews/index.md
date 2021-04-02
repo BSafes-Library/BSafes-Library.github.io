@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Suffers Second Outage in Two Weeks<a href="https://www.infosecurity-magazine.com:443/news/microsoft-suffers-second-outage-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+April Fool’s Day cloud outage impacts Azure, Office 365, and Teams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical QNAP Vulnerabilities Let Attackers Access User Data and Complete Takeover<a href="https://cybersecuritynews.com/qnap-vulnerabilities/"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Troll Fined $81 After Victim Kills Herself<a href="https://www.infosecurity-magazine.com:443/news/troll-fined-81-after-victim-kills/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-bully who asked wrestler “when will you die?” fined after victim takes her own life
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada’s Defense Strategy Falls Behind in the Quantum Age<a href="https://www.lawfareblog.com/canadas-defense-strategy-falls-behind-quantum-age"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spurred on by recent quantum computing milestones, a global “quantum race” is underway—but Canada is still without a strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Suffers Second Outage in Two Weeks<a href="https://www.infosecurity-magazine.com:443/news/microsoft-suffers-second-outage-in/"> Full Text</a>
 </p>
 <details>
