@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA are warning of APT actors targeting Fortinet FortiOS servers<a href="https://securityaffairs.co/wordpress/116274/hacking/fortinet-fortios-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI and CISA published a joint alert to warn of advanced persistent threat (APT) groups targeting Fortinet FortiOS to access networks of multiple organizations.
+
+
+
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware gang hits Broward County Schools with $40M demand<a href="https://www.scmagazine.com/home/security-news/conti-ransomware-gang-hits-broward-county-schools-with-40m-demand/"> Full Text</a>
 </p>
 <details>

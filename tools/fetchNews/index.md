@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang hits Broward County Schools with $40M demand<a href="https://www.scmagazine.com/home/security-news/conti-ransomware-gang-hits-broward-county-schools-with-40m-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coral Glades High School, part of Broward County Public Schools. The $40 million ransomware attack on the district was one of a wave of cases targeting educational institutions over the last couple of weeks. (Formulanone, Public domain, via Wikimedia Commons) The Conti ransomware gang encrypted the systems at Broward County Public Schools several weeks ago and threatened to…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Newly announced vehicle SOC will require unique set of skills, policies<a href="https://www.scmagazine.com/featured/newly-announced-vehicle-soc-will-require-unique-set-of-skills-policies/"> Full Text</a>
 </p>
 <details>
