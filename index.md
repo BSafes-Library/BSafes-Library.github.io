@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang wanted $40 million in Florida schools cyberattack<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-wanted-40-million-in-florida-schools-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fueled by large payments from victims, ransomware gangs have started to demand ridiculous ransoms from organizations that can not afford them. An example of this is a recently revealed ransomware attack on the Broward County Public Schools district where threat actors demanded a $40,000,000 payment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Peaked at 800Gbps Targets Gambling and Video Games Industry<a href="https://cybersecuritynews.com/ddos-attacks-peaked-at-800gbps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ According to security services provider Akamai, Distributed Denial of Service (DDoS) attacks are growing bigger in volume, and they have also become...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
