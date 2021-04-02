@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Man indicted for tampering with public water system in Kansas<a href="https://securityaffairs.co/wordpress/116238/cyber-crime/public-water-system-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States Department of Justice (DoJ) charged a Kansas man, for accessing and tampering with a public water system.
+
+
+
+The United States Department of Justice charged Wyatt A. Travnichek (22), of Ellsworth County, Kansas, for accessing and tampering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mobile providers exposing sensitive data to leakage and theft<a href="https://www.helpnetsecurity.com/2021/04/02/mobile-providers-exposing-data/?&web_view=true"> Full Text</a>
 </p>
 <details>
