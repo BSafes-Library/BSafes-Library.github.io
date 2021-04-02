@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Android “System Update” malware steals photos, videos, GPS location<a href="https://blog.malwarebytes.com/cybercrime/mobile/2021/04/android-system-update-malware-steals-photos-videos-gps-location/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered piece of Android malware shares the same capabilities found within many modern stalkerware-type apps—it can swipe images and video, rifle through online searches, record phone calls, and video, and peer into GPS location data.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal hacks vaccine marketplace, makes over $752K<a href="https://ciso.economictimes.indiatimes.com/news/cybercriminal-hacks-vaccine-marketplace-makes-over-752k/81867221?&web_view=true"> Full Text</a>
 </p>
 <details>
