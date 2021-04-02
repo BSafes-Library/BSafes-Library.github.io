@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Bahamut Possibly Responsible for Multi-Stage Infection Chain Campaign<a href="https://www.anomali.com/blog/bahamut-possibly-responsible-for-multi-stage-infection-chain-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat researchers discovered cyberthreat actors distributing malicious documents exploiting a vulnerability (CVE-2017-8570) during a multi-stage infection chain to install a Visual Basic (VB) executable on target machines.
+</details>
+<div style="text-align: right" markdown="1">
+Anomali
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Beware – Hackers Using Gaming mods and Cheat Engines to Deliver Malware<a href="https://cybersecuritynews.com/malware-via-gaming-mods-and-cheat-engines/"> Full Text</a>
 </p>
 <details>
