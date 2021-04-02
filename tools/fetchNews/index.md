@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 12:00 am
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualys: Breach limited to 3rd-party vendor, but attackers trying to make exposure seem worse<a href="https://www.scmagazine.com/home/security-news/data-breach/qualys-breach-limited-to-3rd-party-vendor-but-attackers-trying-to-make-exposure-seem-worse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a detailed update posted on the Qualys website April 2, CISO Ben Carr said that an independent, third-party forensic firm has verified the company’s initial determination that the attack did not jump from Accellion’s file transfer appliance server to Qualys’ larger corporate network.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
