@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers urge Education Department to take action to defend schools from cyber threats<a href="https://thehill.com//policy/cybersecurity/546137-lawmakers-urge-education-department-to-take-action-to-defend-schools"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reps. Doris Matsui (D-Calif.) and Jim LangevinJames (Jim) R. LangevinLawmakers roll out bill to protect critical infrastructure after Florida water hack Hillicon Valley: House approves almost  billion in cyber, tech funds as part of relief package | Officials warn of 'widespread' exploit of Microsoft vulnerabilities | Facebook files to dismiss antitrust lawsuits New research finds 'record-breaking' number of K-12 cyber incidents in 2020 MORE (D-R.I.) on Friday urged the Department of Education to prioritize protecting K-12 institutions from cyberattacks, which have shot up in the past year as classes moved increasingly online during the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Supreme Court rules Facebook text alerts not akin to robocalls | Republicans press Google, Apple, Amazon on Parler removals | Texas Senate blocks social media platforms from banning users based on politics<a href="https://thehill.com//policy/technology/overnights/546084-hillicon-valley-supreme-court-rules-facebook-text-alerts-not"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court issued an unanimous ruling Thursday siding with Facebook over the platform’s notification system to alert users of suspicious logins. Meanwhile, Google, Apple and Amazon received letters from two Republicans questioning the companies’ actions taken against the social media platform Parler. Top tech platforms were also the target of a Texas Senate bill that passed Thursday that aims to block social media platforms from banning residents based on political views.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+80% of Global Enterprises Report Firmware Cyberattacks<a href="https://threatpost.com/enterprises-firmware-cyberattacks/165174/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vast majority of companies in a global survey from Microsoft report being a victim of a firmware-focused cyberattack, but defense spending lags, but defense spending lags.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinhive domain repurposed to warn visitors of hacked sites, routers<a href="https://www.bleepingcomputer.com/news/security/coinhive-domain-repurposed-to-warn-visitors-of-hacked-sites-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After taking over the domains for the notorious Coinhive in-browsing Monero mining service, a researcher is now displaying alerts on hacked websites that are still injecting the mining service's JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Barrage of Cyberattacks Hits the Financial Sector<a href="https://cyware.com/news/a-barrage-of-cyberattacks-hits-the-financial-sector-d7da5396"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of these attacks were observed in the U.S.-based financial institutions, while other impacted regions include Western Asia, Central, and Western Europe. Phishing is still a major infection vector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

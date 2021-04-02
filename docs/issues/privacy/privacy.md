@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACLU Files AI FOIA Request<a href="https://www.infosecurity-magazine.com:443/news/aclu-files-ai-foia-request/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Civil Liberties Union requests artificial intelligence documents from national security agencies
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

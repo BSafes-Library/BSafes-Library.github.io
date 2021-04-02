@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical QNAP Vulnerabilities Let Attackers Access User Data and Complete Takeover<a href="https://cybersecuritynews.com/qnap-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ SAM’s security research team revealed two recent vulnerabilities and their potential impacts that are discovered in a specific kind of NAS device...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Airlift Express Fixes Vulnerabilities in Its E-commerce Store<a href="https://securityaffairs.co/wordpress/116251/hacking/airlift-express-opt-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of security researchers from PrivacySavvy recently discovered an OTP vulnerability in Airlift Express, which could lead to account hacks and exploits by cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Airlift Express Fixes Vulnerabilities in Its E-commerce Store<a href="https://securityaffairs.co/wordpress/116251/hacking/airlift-express-opt-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PrivacySavvy experts discovered an OTP vulnerability in Airlift Express, which could lead to account hacks and exploits by cybercriminals.
+
+
+
+A team of security researchers from PrivacySavvy recently discovered an OTP vulnerability in Airlift Express,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trustwave Uncovers Vulnerability in Popular Website CMS<a href="https://www.infosecurity-magazine.com:443/news/trustwave-vulnerability-popular/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privilege escalation issue found on website CMS Umbraco
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes authentication bypass in Carbon Black Cloud Workload appliance<a href="https://securityaffairs.co/wordpress/116233/security/vmware-carbon-black-cloud-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical authentication bypass vulnerability in the VMware Carbon Black Cloud Workload appliance.
+
+
+
+VMware has addressed a critical vulnerability, tracked as CVE-2021-21982, in the VMware Carbon Black Cloud Workload appliance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes authentication bypass in data center security software<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-data-center-security-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical vulnerability in the VMware Carbon Black Cloud Workload appliance that could allow attackers to bypass authentication&nbsp;after exploiting vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

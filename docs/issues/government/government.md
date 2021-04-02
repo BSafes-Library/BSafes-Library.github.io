@@ -8,6 +8,108 @@ nav_order: 900075
 
 ## Government
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada’s Defense Strategy Falls Behind in the Quantum Age<a href="https://www.lawfareblog.com/canadas-defense-strategy-falls-behind-quantum-age"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spurred on by recent quantum computing milestones, a global “quantum race” is underway—but Canada is still without a strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS CISA requires federal agencies to assess their Microsoft Exchange servers by April 5<a href="https://securityaffairs.co/wordpress/116245/security/cisa-ms-exchange-directive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS CISA has issued a supplemental directive that requires all federal agencies to identify vulnerable Microsoft Exchange servers in their infrastructure within five days.
+
+
+
+The Department of Homeland Security’s Cybersecurity and Infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of cyber funds in Biden infrastructure plan raises eyebrows<a href="https://thehill.com//policy/cybersecurity/546105-lack-of-cyber-funds-in-biden-spending-bill-raises-eyebrows"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden's $2.25 trillion infrastructure plan does not include any funds to protect critical infrastructure against cyberattacks, even as the threat grows against targets like the electric grid.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Publishes Guide for Securing Hotel Property Management Systems<a href="https://www.darkreading.com/application-security/nist-publishes-guide-for-securing-hotel-property-management-systems-/d/d-id/1340571?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) has released a cybersecurity guide for the hospitality industry to help reduce security risks related to hotel property-management system software.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Hack, Officials Draw Attention to Supply Chain Threats<a href="https://www.securityweek.com/after-hack-officials-draw-attention-supply-chain-threats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is working to draw attention to supply chain vulnerabilities, an issue that received particular attention late last year after suspected Russian hackers gained access to federal agencies and private corporations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA encourages everyone to follow updated guidance for Microsoft Exchange fixes<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/cisa-encourages-everyone-to-follow-updated-guidance-for-microsoft-exchange-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday issued a supplemental direction to Emergency Directive (ED) 21-02, which lays out hardening, forensic triage and reporting requirements designed to mitigate vulnerabilities found in the wake of the massive Microsoft Exchange vulnerability hacks that have affected tens of thousands of organizations. The update directs federal departments…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Just like cyber became a C-suite issue, it’s also now your governor’s concern<a href="https://www.scmagazine.com/featured/just-like-cyber-became-a-c-suite-issue-its-also-now-your-governors-concern/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Governors Association announced five U.S. states have been selected for its 2021 Policy Academy to Advance Whole-of-State Cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

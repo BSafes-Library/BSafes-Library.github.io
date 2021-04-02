@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Peaked at 800Gbps Targets Gambling and Video Games Industry<a href="https://cybersecuritynews.com/ddos-attacks-peaked-at-800gbps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ According to security services provider Akamai, Distributed Denial of Service (DDoS) attacks are growing bigger in volume, and they have also become...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

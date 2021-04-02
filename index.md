@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Troll Fined $81 After Victim Kills Herself<a href="https://www.infosecurity-magazine.com:443/news/troll-fined-81-after-victim-kills/"> Full Text</a>
@@ -50,7 +50,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada’s Defense Strategy Falls Behind in the Quantum Age<a href="https://www.lawfareblog.com/canadas-defense-strategy-falls-behind-quantum-age"> Full Text</a>
@@ -66,7 +66,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Suffers Second Outage in Two Weeks<a href="https://www.infosecurity-magazine.com:443/news/microsoft-suffers-second-outage-in/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical QNAP Vulnerabilities Let Attackers Access User Data and Complete Takeover<a href="https://cybersecuritynews.com/qnap-vulnerabilities/"> Full Text</a>
@@ -98,7 +98,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware gang demanded $40 million ransom to Broward County Public Schools<a href="https://securityaffairs.co/wordpress/116254/cyber-crime/broward-county-public-schools-ransomware.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Airlift Express Fixes Vulnerabilities in Its E-commerce Store<a href="https://securityaffairs.co/wordpress/116251/hacking/airlift-express-opt-flaw.html?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Non-Fungible Tokens: Of Course They're Attracting Scammers<a href="https://www.govinfosecurity.com/blogs/non-fungible-tokens-course-theyre-attracting-scammers-p-3011?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers urge Education Department to take action to defend schools from cyber threats<a href="https://thehill.com//policy/cybersecurity/546137-lawmakers-urge-education-department-to-take-action-to-defend-schools"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robinhood Warns Customers of Tax-Season Phishing Scams<a href="https://threatpost.com/robinhood-warns-customers-of-tax-season-phishing-scams/165180/"> Full Text</a>
@@ -182,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaker Dismisses MobiKwik's Not-So-Nimble Breach Denial<a href="https://www.govinfosecurity.com/blogs/leaker-dismisses-mobikwiks-not-so-nimble-breach-denial-p-3010?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Airlift Express Fixes Vulnerabilities in Its E-commerce Store<a href="https://securityaffairs.co/wordpress/116251/hacking/airlift-express-opt-flaw.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Arctic Vault likely has leaked MedData patient records<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-likely-has-leaked-meddata-patient-records/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Declared As a National Security Threat by DHS<a href="https://searchsecurity.techtarget.com/news/252498771/DHS-Ransomware-poses-a-national-security-threat?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang wanted $40 million in Florida schools cyberattack<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-wanted-40-million-in-florida-schools-cyberattack/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks Peaked at 800Gbps Targets Gambling and Video Games Industry<a href="https://cybersecuritynews.com/ddos-attacks-peaked-at-800gbps/"> Full Text</a>
@@ -282,7 +282,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trustwave Uncovers Vulnerability in Popular Website CMS<a href="https://www.infosecurity-magazine.com:443/news/trustwave-vulnerability-popular/"> Full Text</a>
@@ -298,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS CISA requires federal agencies to assess their Microsoft Exchange servers by April 5<a href="https://securityaffairs.co/wordpress/116245/security/cisa-ms-exchange-directive.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lack of cyber funds in Biden infrastructure plan raises eyebrows<a href="https://thehill.com//policy/cybersecurity/546105-lack-of-cyber-funds-in-biden-spending-bill-raises-eyebrows"> Full Text</a>
@@ -334,7 +334,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android “System Update” malware steals photos, videos, GPS location<a href="https://blog.malwarebytes.com/cybercrime/mobile/2021/04/android-system-update-malware-steals-photos-videos-gps-location/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal hacks vaccine marketplace, makes over $752K<a href="https://ciso.economictimes.indiatimes.com/news/cybercriminal-hacks-vaccine-marketplace-makes-over-752k/81867221?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Publishes Guide for Securing Hotel Property Management Systems<a href="https://www.darkreading.com/application-security/nist-publishes-guide-for-securing-hotel-property-management-systems-/d/d-id/1340571?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch watchdog fines Booking.com $560k after it kept customer data thefts quiet for more than 3 weeks<a href="https://www.theregister.com/2021/04/01/booking_dot_com_fine/?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubiquiti Shares Dive After Reportedly Downplaying 'Catastrophic' Data Breach<a href="https://www.securityweek.com/ubiquiti-shares-dive-following-report-it-downplayed-data-breach?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Hack, Officials Draw Attention to Supply Chain Threats<a href="https://www.securityweek.com/after-hack-officials-draw-attention-supply-chain-threats?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Arctic Vault captures leaked patient medical data for 1,000 years<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-captures-leaked-patient-medical-data-for-1-000-years/"> Full Text</a>
@@ -446,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Firm ReliaQuest Announces New Senior Appointments<a href="https://www.infosecurity-magazine.com:443/news/reliaquest-senior-appointments/"> Full Text</a>
@@ -462,7 +462,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Man indicted for tampering with public water system in Kansas<a href="https://securityaffairs.co/wordpress/116238/cyber-crime/public-water-system-hack.html"> Full Text</a>
@@ -482,7 +482,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mobile providers exposing sensitive data to leakage and theft<a href="https://www.helpnetsecurity.com/2021/04/02/mobile-providers-exposing-data/?&web_view=true"> Full Text</a>
@@ -498,7 +498,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wipro acquires Ampion to deliver combined portfolio of transformation offerings<a href="https://www.helpnetsecurity.com/2021/04/02/wipro-ampion/?&web_view=true"> Full Text</a>
@@ -514,7 +514,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacKenzie Scott Grant scam more widespread than initially thought<a href="https://www.bleepingcomputer.com/news/security/mackenzie-scott-grant-scam-more-widespread-than-initially-thought/"> Full Text</a>
@@ -530,7 +530,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recent Hancitor Infections Use Cobalt Strike and a Network Ping Tool<a href="https://unit42.paloaltonetworks.com/hancitor-infections-cobalt-strike/?&web_view=true"> Full Text</a>
@@ -546,7 +546,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Molson Coors Cyberattack, Storms Could Cost Company $140 Million<a href="https://www.securityweek.com/molson-coors-cyberattack-storms-could-cost-company-140-million?&web_view=true"> Full Text</a>
@@ -562,7 +562,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bahamut Possibly Responsible for Multi-Stage Infection Chain Campaign<a href="https://www.anomali.com/blog/bahamut-possibly-responsible-for-multi-stage-infection-chain-campaign?&web_view=true"> Full Text</a>
@@ -578,7 +578,7 @@ Anomali
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware – Hackers Using Gaming mods and Cheat Engines to Deliver Malware<a href="https://cybersecuritynews.com/malware-via-gaming-mods-and-cheat-engines/"> Full Text</a>
@@ -594,7 +594,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DOJ: Phishing attacks use vaccine surveys to steal personal info<a href="https://www.bleepingcomputer.com/news/security/us-doj-phishing-attacks-use-vaccine-surveys-to-steal-personal-info/"> Full Text</a>
@@ -610,7 +610,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fileless Malware Growth Beats All Other Odds in 2020<a href="https://cyware.com/news/fileless-malware-growth-beats-all-other-odds-in-2020-c823b83e"> Full Text</a>
@@ -626,7 +626,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Supreme Court rules Facebook text alerts not akin to robocalls | Republicans press Google, Apple, Amazon on Parler removals | Texas Senate blocks social media platforms from banning users based on politics<a href="https://thehill.com//policy/technology/overnights/546084-hillicon-valley-supreme-court-rules-facebook-text-alerts-not"> Full Text</a>
@@ -642,7 +642,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ACLU Files AI FOIA Request<a href="https://www.infosecurity-magazine.com:443/news/aclu-files-ai-foia-request/"> Full Text</a>
@@ -658,7 +658,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes authentication bypass in Carbon Black Cloud Workload appliance<a href="https://securityaffairs.co/wordpress/116233/security/vmware-carbon-black-cloud-flaw.html"> Full Text</a>
@@ -678,7 +678,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protecting employees from job offer scams can lead to awkward but important conversations<a href="https://www.scmagazine.com/home/security-news/phishing/protecting-employees-from-job-offer-scams-can-lead-to-awkward-but-important-conversations/"> Full Text</a>
@@ -694,7 +694,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 80% of Global Enterprises Report Firmware Cyberattacks<a href="https://threatpost.com/enterprises-firmware-cyberattacks/165174/"> Full Text</a>
@@ -710,7 +710,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coinhive domain repurposed to warn visitors of hacked sites, routers<a href="https://www.bleepingcomputer.com/news/security/coinhive-domain-repurposed-to-warn-visitors-of-hacked-sites-routers/"> Full Text</a>
@@ -726,7 +726,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hades Ransomware and Hafnium Hacker Group - Peas from the Same Pod?<a href="https://cyware.com/news/hades-ransomware-and-hafnium-hacker-group-peas-from-the-same-pod-689c76f0"> Full Text</a>
@@ -742,7 +742,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forensic Audit of MobiKwik Ordered<a href="https://www.infosecurity-magazine.com:443/news/forensic-audit-of-mobikwik-ordered/"> Full Text</a>
@@ -758,7 +758,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021 12:00 am
+April 1, 2021 12 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Video game cheat mod malware demonstrates risks of unlicensed software<a href="https://www.scmagazine.com/home/security-news/malware/video-game-cheat-mod-malware-demonstrates-the-risks-of-unlicensed-software/"> Full Text</a>
@@ -774,7 +774,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2021
+April 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes authentication bypass in data center security software<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-data-center-security-software/"> Full Text</a>
@@ -790,7 +790,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Barrage of Cyberattacks Hits the Financial Sector<a href="https://cyware.com/news/a-barrage-of-cyberattacks-hits-the-financial-sector-d7da5396"> Full Text</a>
@@ -806,7 +806,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA encourages everyone to follow updated guidance for Microsoft Exchange fixes<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/cisa-encourages-everyone-to-follow-updated-guidance-for-microsoft-exchange-fixes/"> Full Text</a>
@@ -822,7 +822,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brown experiencing IT security threat, temporary system outage<a href="https://www.wpri.com/news/local-news/providence/brown-experiencing-it-security-threat-temporary-system-outage/?&web_view=true"> Full Text</a>
@@ -838,7 +838,7 @@ WPRI
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Just like cyber became a C-suite issue, it’s also now your governor’s concern<a href="https://www.scmagazine.com/featured/just-like-cyber-became-a-c-suite-issue-its-also-now-your-governors-concern/"> Full Text</a>
@@ -854,7 +854,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2021
+April 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Website of global parliamentary alliance on China suffers cyber attack<a href="https://ciso.economictimes.indiatimes.com/news/website-of-global-parliamentary-alliance-on-china-suffers-cyber-attack/81831989?&web_view=true"> Full Text</a>

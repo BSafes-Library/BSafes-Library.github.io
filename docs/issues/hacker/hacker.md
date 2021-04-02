@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Hancitor Infections Use Cobalt Strike and a Network Ping Tool<a href="https://unit42.paloaltonetworks.com/hancitor-infections-cobalt-strike/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As early as October 2020, Hancitor began utilizing Cobalt Strike and some of these infections utilized a network ping tool to enumerate the infected host’s internal network.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahamut Possibly Responsible for Multi-Stage Infection Chain Campaign<a href="https://www.anomali.com/blog/bahamut-possibly-responsible-for-multi-stage-infection-chain-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat researchers discovered cyberthreat actors distributing malicious documents exploiting a vulnerability (CVE-2017-8570) during a multi-stage infection chain to install a Visual Basic (VB) executable on target machines.
+</details>
+<div style="text-align: right" markdown="1">
+Anomali
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

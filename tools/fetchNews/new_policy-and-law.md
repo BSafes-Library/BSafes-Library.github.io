@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Troll Fined $81 After Victim Kills Herself<a href="https://www.infosecurity-magazine.com:443/news/troll-fined-81-after-victim-kills/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-bully who asked wrestler “when will you die?” fined after victim takes her own life
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch watchdog fines Booking.com $560k after it kept customer data thefts quiet for more than 3 weeks<a href="https://www.theregister.com/2021/04/01/booking_dot_com_fine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Netherlands Data Protection Authority has fined Booking.com $560,000 for notifying it too late that criminals had accessed the data of 4,109 people who booked a hotel room via the website.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man indicted for tampering with public water system in Kansas<a href="https://securityaffairs.co/wordpress/116238/cyber-crime/public-water-system-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States Department of Justice (DoJ) charged a Kansas man, for accessing and tampering with a public water system.
+
+
+
+The United States Department of Justice charged Wyatt A. Travnichek (22), of Ellsworth County, Kansas, for accessing and tampering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

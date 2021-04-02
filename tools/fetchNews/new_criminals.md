@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal hacks vaccine marketplace, makes over $752K<a href="https://ciso.economictimes.indiatimes.com/news/cybercriminal-hacks-vaccine-marketplace-makes-over-752k/81867221?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a bizarre incident, a hacker has taken down a vaccine marketplace being run on the Dark Web, created fake orders, canceled them, and took a refund in Bitcoins worth $752,000.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

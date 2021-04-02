@@ -8,6 +8,76 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Non-Fungible Tokens: Of Course They're Attracting Scammers<a href="https://www.govinfosecurity.com/blogs/non-fungible-tokens-course-theyre-attracting-scammers-p-3011?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since digital ownership of Twitter CEO Jack Dorsey's first tweet sold for $2.9 million, security researchers now expect fraudsters to focus more on non-fungible token aficionados.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood Warns Customers of Tax-Season Phishing Scams<a href="https://threatpost.com/robinhood-warns-customers-of-tax-season-phishing-scams/165180/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are impersonating the stock-trading broker using fake websites to steal credentials as well as sending emails with malicious tax files.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacKenzie Scott Grant scam more widespread than initially thought<a href="https://www.bleepingcomputer.com/news/security/mackenzie-scott-grant-scam-more-widespread-than-initially-thought/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive phishing campaign reaching tens of thousands of inboxes impersonated the MacKenzie Bezos-Scott grant foundation promising financial benefits to recipients in exchange of a processing fee.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DOJ: Phishing attacks use vaccine surveys to steal personal info<a href="https://www.bleepingcomputer.com/news/security/us-doj-phishing-attacks-use-vaccine-surveys-to-steal-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice warns of phishing attacks using fake post-vaccine surveys to steal money from people or tricking them into handing over their personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting employees from job offer scams can lead to awkward but important conversations<a href="https://www.scmagazine.com/home/security-news/phishing/protecting-employees-from-job-offer-scams-can-lead-to-awkward-but-important-conversations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employees who are successfully phished with a job offer likely won’t report the incident to their employer, expert says.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
