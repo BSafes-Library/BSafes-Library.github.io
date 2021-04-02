@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIM’s Red Team Research (RTR) team found 5 zero-day flaws in the CA eHealth Performance Manager product<a href="https://securityaffairs.co/wordpress/116268/security/ca-ehealth-performance-manager-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from TIM’s Red Team Research discovered five new vulnerabilities affecting the CA eHealth Performance Manager product.
+
+
+
+Researchers from TIM’s Red Team Research led by Massimiliano Brolli, discovered 5 new vulnerabilities affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APTs targeting Fortinet, CISA and FBI warn<a href="https://www.scmagazine.com/home/security-news/network-security/apts-targeting-fortinet-cisa-and-fbi-warn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and FBI issued a joint advisory Friday that advanced persistant threat groups are scanning for vulnerable Fortinet products. “It is likely that the APT actors are scanning for these vulnerabilities to gain access to multiple government, commercial, and technology services networks,” reads the advisory. The APTs, which CISA…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
