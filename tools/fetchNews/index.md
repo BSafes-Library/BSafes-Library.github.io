@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of cyber funds in Biden infrastructure plan raises eyebrows<a href="https://thehill.com//policy/cybersecurity/546105-lack-of-cyber-funds-in-biden-spending-bill-raises-eyebrows"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden's $2.25 trillion infrastructure plan does not include any funds to protect critical infrastructure against cyberattacks, even as the threat grows against targets like the electric grid.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
