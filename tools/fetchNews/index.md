@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Popular Twitch AdBlock shuts down after Twitch breaks extension<a href="https://www.bleepingcomputer.com/news/security/popular-twitch-adblock-shuts-down-after-twitch-breaks-extension/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Twitch AdBlock extension has been removed from both Chrome Web Store and Firefox Addons. Twitch AdBlock was the choice of extension among Twitch users for restricting ads when using Twitch. The extension's author stated before its removal, the ad blocker had over 150,000 users and 6 million daily views.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From PowerShell to Payload: An Analysis of Weaponized Malware<a href="https://threatpost.com/powershell-payload-analysis-malware/165188/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Hammond, security researcher with Huntress, takes a deep-dive into a malware’s technical and coding aspects.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Qualys says Accellion hackers did not breach production systems<a href="https://www.bleepingcomputer.com/news/security/qualys-says-accellion-hackers-did-not-breach-production-systems/"> Full Text</a>
 </p>
 <details>

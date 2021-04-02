@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA warn of state hackers attacking Fortinet FortiOS servers <a href="https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-attacking-fortinet-fortios-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) warn of advanced persistent threat (APT) actors targeting Fortinet FortiOS servers using multiple exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Popular Twitch AdBlock shuts down after Twitch breaks extension<a href="https://www.bleepingcomputer.com/news/security/popular-twitch-adblock-shuts-down-after-twitch-breaks-extension/"> Full Text</a>
 </p>
 <details>
