@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly announced vehicle SOC will require unique set of skills, policies<a href="https://www.scmagazine.com/featured/newly-announced-vehicle-soc-will-require-unique-set-of-skills-policies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Challenges include avoiding false-positive alerts, understanding a complex blend of IT and OT, and establishing policies on attack response.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021 12:00 am
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
