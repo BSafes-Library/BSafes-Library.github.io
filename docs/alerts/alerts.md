@@ -6,6 +6,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Releases Security Updates for Hypervisor <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/03/31/citrix-releases-security-updates-hypervisor"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix has released security updates to address vulnerabilities in Hypervisor (formerly XenServer). An attacker could exploit some of these vulnerabilities to cause a denial-of-service condition.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigate Microsoft Exchange Server Vulnerabilities <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-062a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity and Infrastructure Security (CISA) partners have observed active exploitation of vulnerabilities in Microsoft Exchange Server products. Successful exploitation of these vulnerabilities allows an unauthenticated attacker to execute arbitrary code on vulnerable Exchange Servers, enabling the attacker to gain persistent system access, as well as access to files and mailboxes on the server and to credentials stored on that system. Successful exploitation may additionally enable the attacker to compromise trust and identity in a vulnerable network. Microsoft released out-of-band patches to address vulnerabilities in Microsoft Exchange Server. The vulnerabilities impact on-premises Microsoft Exchange Servers and are not known to impact Exchange Online or Microsoft 365 (formerly O365) cloud email services.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 23, 2021 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -14,6 +38,18 @@ Mamba Ransomware Weaponizing DiskCryptor <a href="https://publications.bsafes.co
 <details>
   <summary>Abstract</summary>
 Mamba ransomware has been deployed against local governments, public transportation agencies, legal services, technology services, industrial, commercial, manufacturing, and construction businesses. Mamba ransomware weaponizes DiskCryptor—an open source full disk encryption software— to restrict victim access by encrypting an entire drive, including the operating system. DiskCryptor is not inherently malicious but has been weaponized. Once encrypted, the system displays a ransom note including the actor’s email address, ransomware file name, the host system name, and a place to enter the decryption key. Victims are instructed to contact the actor’s email address to pay the ransom in exchange for the decryption key.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting Post-Compromise Threat Activity Using the CHIRP IOC Detection Tool <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-077a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This Alert announces the CISA Hunt and Incident Response Program (CHIRP) tool. CHIRP is a forensics collection tool that CISA developed to help network defenders find indicators of compromise (IOCs) associated with activity detailed in the following CISA Alerts:
 </details>
 </div>
 
