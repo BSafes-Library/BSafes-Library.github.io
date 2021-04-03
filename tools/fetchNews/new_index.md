@@ -34,7 +34,71 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP caught napping as disclosure delay expires, critical NAS bugs revealed<a href="https://www.theregister.com/2021/04/02/qnap_bug_nas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some QNAP network-attached storage devices are vulnerable to attack because of two critical vulnerabilities, one that enables unauthenticated remote code execution and another that provides the ability to write to arbitrary files.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNA shares details about ransomware attack, recovery effort<a href="https://www.cyberscoop.com/cna-shares-details-about-ransomware-attack-recovery-effort/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, one of the biggest players in cybersecurity insurance specifically, had previously acknowledged an attack, but stopped short of specifying exactly what kind.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Ransomware Campaigns Targeting Exchange Servers<a href="https://www.darkreading.com/attacks-breaches/inside-the-ransomware-campaigns-targeting-exchange-servers/d/d-id/1340582?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations around the world scrambled to patch critical Microsoft Exchange Server flaws patched last month, criminals upped the ante with multiple ransomware campaigns targeting vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI & CISA Warn of Active Attacks on FortiOS Vulnerabilities<a href="https://www.darkreading.com/risk/fbi-and-cisa-warn-of-active-attacks-on-fortios-vulnerabilities/d/d-id/1340579?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Department of Homeland Security's Cybersecurity and Infrastructure Security Agency (CISA) today issued a joint advisory warning admins of active exploits targeting three vulnerabilities in Fortinet FortiOS.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Grid security funding not included in Biden's infrastructure plan | Russia fines Twitter | Lawmakers call for increased school cybersecurity<a href="https://thehill.com//policy/technology/overnights/546253-hillicon-valley-grid-security-funding-missing-russia-fines"> Full Text</a>
@@ -50,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI and CISA are warning of APT actors targeting Fortinet FortiOS servers<a href="https://securityaffairs.co/wordpress/116274/hacking/fortinet-fortios-attack.html"> Full Text</a>
@@ -70,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware gang hits Broward County Schools with $40M demand<a href="https://www.scmagazine.com/home/security-news/conti-ransomware-gang-hits-broward-county-schools-with-40m-demand/"> Full Text</a>
@@ -86,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly announced vehicle SOC will require unique set of skills, policies<a href="https://www.scmagazine.com/featured/newly-announced-vehicle-soc-will-require-unique-set-of-skills-policies/"> Full Text</a>
@@ -102,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021 12:00 am
+April 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualys: Breach limited to 3rd-party vendor, but attackers trying to make exposure seem worse<a href="https://www.scmagazine.com/home/security-news/data-breach/qualys-breach-limited-to-3rd-party-vendor-but-attackers-trying-to-make-exposure-seem-worse/"> Full Text</a>
@@ -118,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brown University hit by cyberattack, some systems still offline<a href="https://www.bleepingcomputer.com/news/security/brown-university-hit-by-cyberattack-some-systems-still-offline/"> Full Text</a>
@@ -134,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: APTs Actively Exploiting Fortinet VPN Security Holes<a href="https://threatpost.com/fbi-apts-actively-exploiting-fortinet-vpn-security-holes/165213/"> Full Text</a>
@@ -150,7 +214,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Arctic Vault likely contains leaked MedData patient records<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-likely-contains-leaked-meddata-patient-records/"> Full Text</a>
@@ -166,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TIM’s Red Team Research (RTR) team found 5 zero-day flaws in the CA eHealth Performance Manager product<a href="https://securityaffairs.co/wordpress/116268/security/ca-ehealth-performance-manager-flaws.html"> Full Text</a>
@@ -186,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APTs targeting Fortinet, CISA and FBI warn<a href="https://www.scmagazine.com/home/security-news/network-security/apts-targeting-fortinet-cisa-and-fbi-warn/"> Full Text</a>
@@ -202,7 +266,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asteelflash electronics maker hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/asteelflash-electronics-maker-hit-by-revil-ransomware-attack/"> Full Text</a>
@@ -218,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Call of Duty Cheats Expose Gamers to Malware, Takeover<a href="https://threatpost.com/call-of-duty-cheats-gamers-malware/165209/"> Full Text</a>
@@ -234,7 +298,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tens of thousands of QNAP SOHO NAS devices affected by unpatched RCEs<a href="https://securityaffairs.co/wordpress/116260/iot/qnap-soho-nas-rces.html"> Full Text</a>
@@ -254,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI and CISA warn of state hackers attacking Fortinet FortiOS servers <a href="https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-attacking-fortinet-fortios-servers/"> Full Text</a>
@@ -270,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular Twitch AdBlock shuts down after Twitch breaks extension<a href="https://www.bleepingcomputer.com/news/security/popular-twitch-adblock-shuts-down-after-twitch-breaks-extension/"> Full Text</a>
@@ -286,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From PowerShell to Payload: An Analysis of Weaponized Malware<a href="https://threatpost.com/powershell-payload-analysis-malware/165188/"> Full Text</a>
@@ -302,7 +366,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualys says Accellion hackers did not breach production systems<a href="https://www.bleepingcomputer.com/news/security/qualys-says-accellion-hackers-did-not-breach-production-systems/"> Full Text</a>
@@ -318,7 +382,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intelligence Analyst Fed Secrets to Reporter<a href="https://www.infosecurity-magazine.com:443/news/intelligence-analyst-fed-secrets/"> Full Text</a>
@@ -334,7 +398,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 02, 2021
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Capital One notifies more clients of SSNs exposed in 2019 data breach<a href="https://www.bleepingcomputer.com/news/security/capital-one-notifies-more-clients-of-ssns-exposed-in-2019-data-breach/"> Full Text</a>
@@ -350,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2021
+April 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Is a Cybersecurity Legal Practice?<a href="https://www.lawfareblog.com/what-cybersecurity-legal-practice"> Full Text</a>
