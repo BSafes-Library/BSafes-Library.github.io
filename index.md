@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+22-year-old Charged for Hacking into Public Watering Systems<a href="https://cybersecuritynews.com/hacking-into-public-watering-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A 22-year-old man, Wyatt A. Travnichek from the U.S. state of Kansas has been accused on charges that he unauthorizedly accessed a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 As ransomware stalks the manufacturing sector, victims are still keeping quiet<a href="https://www.cyberscoop.com/honeywell-hack-ransomware-manufacturing-norsk-hydro/?&web_view=true"> Full Text</a>
 </p>
 <details>
