@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+As ransomware stalks the manufacturing sector, victims are still keeping quiet<a href="https://www.cyberscoop.com/honeywell-hack-ransomware-manufacturing-norsk-hydro/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two years later, Norsk Hydro’s transparency remains an outlier in a manufacturing sector that is increasingly dogged by ransomware attacks during the coronavirus pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunting the hunters: How Russian hackers targeted US cyber first responders in SolarWinds breach<a href="https://edition.cnn.com/2021/04/02/politics/russian-hackers-target-us-cyber-hunters-solarwinds/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After infiltrating US government computer networks early last year as part of the SolarWinds data breach, Russian hackers then turned their attention to the very people whose job was to track them down.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden's cyber executive order to include new rules for federal agencies, contractors<a href="https://www.cyberscoop.com/cyber-executive-order-supply-chain-solarwinds/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under a forthcoming White House order, companies that do business with the federal government would have to meet software security standards and swiftly report cyber incidents to a new entity within the DHS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP caught napping as disclosure delay expires, critical NAS bugs revealed<a href="https://www.theregister.com/2021/04/02/qnap_bug_nas/?&web_view=true"> Full Text</a>
 </p>
 <details>
