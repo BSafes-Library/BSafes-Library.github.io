@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated attack abuses GitHub Actions to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/automated-attack-abuses-github-actions-to-mine-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Actions has been abused by attackers to mine cryptocurrency using GitHub's servers, automatically.The particular attack adds malicious GitHub Actions code to repositories forked from legitimate ones, and further creates a Pull Request for the original repository maintainers to merge the code back, to alter the original code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
