@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GitHub Actions being actively abused to mine cryptocurrency on GitHub servers<a href="https://www.bleepingcomputer.com/news/security/github-actions-being-actively-abused-to-mine-cryptocurrency-on-github-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Actions has been abused by attackers to mine cryptocurrency using GitHub's servers, automatically.The particular attack adds malicious GitHub Actions code to repositories forked from legitimate ones, and further creates a Pull Request for the original repository maintainers to merge the code back, to alter the original code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang leaks data from Stanford, Maryland universities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-stanford-maryland-universities/"> Full Text</a>
 </p>
 <details>
