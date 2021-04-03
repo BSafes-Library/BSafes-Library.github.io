@@ -37,6 +37,8 @@ Alerts:
 . https://securityaffairs.co/wordpress/116190/security/citrix-hypervisor-dos-flaws.html
 . https://www.scmagazine.com/home/security-news/vulnerabilities/cisa-encourages-everyone-to-follow-updated-guidance-for-microsoft-exchange-fixes/
 . https://www.bleepingcomputer.com/news/security/us-doj-phishing-attacks-use-vaccine-surveys-to-steal-personal-info/
+. a href="https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-attacking-fortinet-fortios-servers/
+
 
 APT
 . APT27

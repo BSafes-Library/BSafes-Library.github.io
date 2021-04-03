@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Suffers Second Outage in Two Weeks<a href="https://www.infosecurity-magazine.com:443/news/microsoft-suffers-second-outage-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+April Fool’s Day cloud outage impacts Azure, Office 365, and Teams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brown experiencing IT security threat, temporary system outage<a href="https://www.wpri.com/news/local-news/providence/brown-experiencing-it-security-threat-temporary-system-outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, the IT department sent a letter to the community saying they “became aware of a cybersecurity threat to the University’s Microsoft Windows-based technology infrastructure.”
+</details>
+<div style="text-align: right" markdown="1">
+WPRI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

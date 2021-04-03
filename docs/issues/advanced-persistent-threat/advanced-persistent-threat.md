@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA are warning of APT actors targeting Fortinet FortiOS servers<a href="https://securityaffairs.co/wordpress/116274/hacking/fortinet-fortios-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI and CISA published a joint alert to warn of advanced persistent threat (APT) groups targeting&nbsp;Fortinet FortiOS to access networks of multiple organizations.
+
+
+
+The&nbsp;Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APTs targeting Fortinet, CISA and FBI warn<a href="https://www.scmagazine.com/home/security-news/network-security/apts-targeting-fortinet-cisa-and-fbi-warn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and FBI issued a joint advisory Friday that advanced persistant threat groups are scanning for vulnerable Fortinet products. “It is likely that the APT actors are scanning for these vulnerabilities to gain access to multiple government, commercial, and technology services networks,” reads the advisory. The APTs, which CISA…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

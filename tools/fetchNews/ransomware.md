@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware gang demanded $40 million ransom to Broward County Public Schools<a href="https://securityaffairs.co/wordpress/116254/cyber-crime/broward-county-public-schools-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gang demanded a $40,000,000 ransom to the Broward County Public Schools district, Florida. It is just the last attack of a long string against the sector.
+
+
+
+Ransomware operators continue to target organizations worldwide and school districts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Declared As a National Security Threat by DHS<a href="https://searchsecurity.techtarget.com/news/252498771/DHS-Ransomware-poses-a-national-security-threat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an RSA conference webcast, Alejandro Mayorkas, the U.S. Secretary of Homeland Security, stated that fighting ransomware attacks is now the Department of Homeland Security's number one priority, and a plan to be more proactive is already in place.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang wanted $40 million in Florida schools cyberattack<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-wanted-40-million-in-florida-schools-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fueled by large payments from victims, ransomware gangs have started to demand ridiculous ransoms from organizations that can not afford them. An example of this is a recently revealed ransomware attack on the Broward County Public Schools district where threat actors demanded a $40,000,000 payment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hades Ransomware and Hafnium Hacker Group - Peas from the Same Pod?<a href="https://cyware.com/news/hades-ransomware-and-hafnium-hacker-group-peas-from-the-same-pod-689c76f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers surmise that the Hafnium APT group might be operating under the disguise of Hades due to shared IOCs observed in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

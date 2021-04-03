@@ -34,6 +34,338 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Grid security funding not included in Biden's infrastructure plan | Russia fines Twitter | Lawmakers call for increased school cybersecurity<a href="https://thehill.com//policy/technology/overnights/546253-hillicon-valley-grid-security-funding-missing-russia-fines"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts this week were disappointed that President BidenJoe BidenThe Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden infrastructure plan raises eyebrows MORE’s $2.25 trillion infrastructure package did not include specific funding for securing the electric grid against cyberattacks, although the White House is working on a separate initiative to protect the grid. Meanwhile, a Russian court fined Twitter on Friday for failing to remove certain posts, and two Democratic lawmakers pressed the Education Department to protect K-12 institutions from malicious hackers. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA are warning of APT actors targeting Fortinet FortiOS servers<a href="https://securityaffairs.co/wordpress/116274/hacking/fortinet-fortios-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI and CISA published a joint alert to warn of advanced persistent threat (APT) groups targeting Fortinet FortiOS to access networks of multiple organizations.
+
+
+
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang hits Broward County Schools with $40M demand<a href="https://www.scmagazine.com/home/security-news/conti-ransomware-gang-hits-broward-county-schools-with-40m-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coral Glades High School, part of Broward County Public Schools. The $40 million ransomware attack on the district was one of a wave of cases targeting educational institutions over the last couple of weeks. (Formulanone, Public domain, via Wikimedia Commons) The Conti ransomware gang encrypted the systems at Broward County Public Schools several weeks ago and threatened to…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly announced vehicle SOC will require unique set of skills, policies<a href="https://www.scmagazine.com/featured/newly-announced-vehicle-soc-will-require-unique-set-of-skills-policies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Challenges include avoiding false-positive alerts, understanding a complex blend of IT and OT, and establishing policies on attack response.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualys: Breach limited to 3rd-party vendor, but attackers trying to make exposure seem worse<a href="https://www.scmagazine.com/home/security-news/data-breach/qualys-breach-limited-to-3rd-party-vendor-but-attackers-trying-to-make-exposure-seem-worse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a detailed update posted on the Qualys website April 2, CISO Ben Carr said that an independent, third-party forensic firm has verified the company’s initial determination that the attack did not jump from Accellion’s file transfer appliance server to Qualys’ larger corporate network.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brown University hit by cyberattack, some systems still offline<a href="https://www.bleepingcomputer.com/news/security/brown-university-hit-by-cyberattack-some-systems-still-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brown University, a private US research university, had to disable systems and cut connections to the data center after suffering a cyberattack on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: APTs Actively Exploiting Fortinet VPN Security Holes<a href="https://threatpost.com/fbi-apts-actively-exploiting-fortinet-vpn-security-holes/165213/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities in the Fortinet SSL VPN are being used to gain a foothold within networks before moving laterally and carrying out recon.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Arctic Vault likely contains leaked MedData patient records<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-likely-contains-leaked-meddata-patient-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Arctic Code Vault has likely inadvertently captured sensitive patient medical records from multiple healthcare facilities. The private data was leaked on GitHub repositories last year that are now part of a collection of open-source contributions bound to last a 1,000 years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIM’s Red Team Research (RTR) team found 5 zero-day flaws in the CA eHealth Performance Manager product<a href="https://securityaffairs.co/wordpress/116268/security/ca-ehealth-performance-manager-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from TIM’s Red Team Research discovered five new vulnerabilities affecting the CA eHealth Performance Manager product.
+
+
+
+Researchers from TIM’s Red Team Research led by Massimiliano Brolli, discovered 5 new vulnerabilities affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APTs targeting Fortinet, CISA and FBI warn<a href="https://www.scmagazine.com/home/security-news/network-security/apts-targeting-fortinet-cisa-and-fbi-warn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and FBI issued a joint advisory Friday that advanced persistant threat groups are scanning for vulnerable Fortinet products. “It is likely that the APT actors are scanning for these vulnerabilities to gain access to multiple government, commercial, and technology services networks,” reads the advisory. The APTs, which CISA…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asteelflash electronics maker hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/asteelflash-electronics-maker-hit-by-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Asteelflash, a leading French electronics manufacturing services company, has suffered a cyberattack by the REvil ransomware gang who is demanding a $24 million ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call of Duty Cheats Expose Gamers to Malware, Takeover<a href="https://threatpost.com/call-of-duty-cheats-gamers-malware/165209/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activision is warning that cyberattackers are disguising malware — a remote-access trojan (RAT) — in cheat programs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of thousands of QNAP SOHO NAS devices affected by unpatched RCEs<a href="https://securityaffairs.co/wordpress/116260/iot/qnap-soho-nas-rces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched vulnerabilities in QNAP small office/home office (SOHO) network-attached storage (NAS) devices could be exploited by remote attackers to remotely execute arbitrary code.
+
+
+
+Security researchers at SAM Seamless Network discovered a couple of critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA warn of state hackers attacking Fortinet FortiOS servers <a href="https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-attacking-fortinet-fortios-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) warn of advanced persistent threat (APT) actors targeting Fortinet FortiOS servers using multiple exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Twitch AdBlock shuts down after Twitch breaks extension<a href="https://www.bleepingcomputer.com/news/security/popular-twitch-adblock-shuts-down-after-twitch-breaks-extension/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Twitch AdBlock extension has been removed from both Chrome Web Store and Firefox Addons. Twitch AdBlock was the choice of extension among Twitch users for restricting ads when using Twitch. The extension's author stated before its removal, the ad blocker had over 150,000 users and 6 million daily views.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From PowerShell to Payload: An Analysis of Weaponized Malware<a href="https://threatpost.com/powershell-payload-analysis-malware/165188/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Hammond, security researcher with Huntress, takes a deep-dive into a malware’s technical and coding aspects.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualys says Accellion hackers did not breach production systems<a href="https://www.bleepingcomputer.com/news/security/qualys-says-accellion-hackers-did-not-breach-production-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Qualys said today that the attackers who breached its Accellion FTA server didn't infiltrate the company's production and corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intelligence Analyst Fed Secrets to Reporter<a href="https://www.infosecurity-magazine.com:443/news/intelligence-analyst-fed-secrets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former intelligence analyst pleads guilty to disclosing classified information to journalist
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capital One notifies more clients of SSNs exposed in 2019 data breach<a href="https://www.bleepingcomputer.com/news/security/capital-one-notifies-more-clients-of-ssns-exposed-in-2019-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US bank Capital One notified additional customers that their Social Security numbers were exposed in a data breach announced in July 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is a Cybersecurity Legal Practice?<a href="https://www.lawfareblog.com/what-cybersecurity-legal-practice"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some considerations for companies looking to build out a cybersecurity legal practice.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

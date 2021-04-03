@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brown University hit by cyberattack, some systems still offline<a href="https://www.bleepingcomputer.com/news/security/brown-university-hit-by-cyberattack-some-systems-still-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brown University, a private US research university,&nbsp;had to disable systems and cut connections to the data center after&nbsp;suffering&nbsp;a cyberattack on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

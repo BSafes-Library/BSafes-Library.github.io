@@ -8,6 +8,90 @@ nav_order: 900029
 
 ## Breach
 ---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaker Dismisses MobiKwik's Not-So-Nimble Breach Denial<a href="https://www.govinfosecurity.com/blogs/leaker-dismisses-mobikwiks-not-so-nimble-breach-denial-p-3010?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A broker of breached data claims via dedicated .onion leak site to have deleted 8TB of stolen MobiKwik customer data that the company denies was stolen. The listing for 8.2TB of stolen data was withdrawn by a cybercrime forum seller.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Arctic Vault likely has leaked MedData patient records<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-likely-has-leaked-meddata-patient-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Arctic Code Vault has likely inadvertently captured sensitive patient&nbsp;medical records&nbsp;from multiple healthcare facilities. The private data was leaked on GitHub repositories last year that are now part of a collection of open-source contributions bound to last a 1,000 years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti Shares Dive After Reportedly Downplaying 'Catastrophic' Data Breach<a href="https://www.securityweek.com/ubiquiti-shares-dive-following-report-it-downplayed-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shares of New York City-based IoT device maker Ubiquiti (NYSE: UI) fell significantly this week following a report claiming that the recently disclosed data breach was “catastrophic” and that its impact was downplayed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Arctic Vault captures leaked patient medical data for 1,000 years<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-captures-leaked-patient-medical-data-for-1-000-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Arctic Code Vault has inadvertently captured sensitive patient&nbsp;medical records&nbsp;from multiple healthcare facilities. The private data was leaked on GitHub repositories last year that are now part of a collection of open-source contributions bound to last a 1,000 years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile providers exposing sensitive data to leakage and theft<a href="https://www.helpnetsecurity.com/2021/04/02/mobile-providers-exposing-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data exposure is a significant, unaddressed problem for Europe’s top mobile providers and, by extension, more than 253 million customers who sign up for their services and share sensitive personal data, according to research by Tala Security.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forensic Audit of MobiKwik Ordered<a href="https://www.infosecurity-magazine.com:443/news/forensic-audit-of-mobikwik-ordered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reserve Bank of India orders audit of country's largest mobile payment network after alleged data breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

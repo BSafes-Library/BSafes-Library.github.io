@@ -11,6 +11,34 @@ nav_order: 900180
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang hits Broward County Schools with $40M demand<a href="https://www.scmagazine.com/home/security-news/conti-ransomware-gang-hits-broward-county-schools-with-40m-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coral Glades High School, part of Broward County Public Schools. The $40 million ransomware attack on the district was one of a wave of cases targeting educational institutions over the last couple of weeks.&nbsp;(Formulanone, Public domain, via Wikimedia Commons) The Conti ransomware gang&nbsp;encrypted&nbsp;the systems at Broward County Public Schools several weeks ago and threatened to…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asteelflash electronics maker hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/asteelflash-electronics-maker-hit-by-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Asteelflash, a leading French electronics manufacturing services company, has suffered a cyberattack by the REvil&nbsp;ransomware gang who is demanding a $24 million ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware gang demanded $40 million ransom to Broward County Public Schools<a href="https://securityaffairs.co/wordpress/116254/cyber-crime/broward-county-public-schools-ransomware.html"> Full Text</a>
 </p>
 <details>

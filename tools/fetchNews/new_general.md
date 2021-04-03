@@ -11,6 +11,62 @@ nav_order: 900072
 April 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Grid security funding not included in Biden's infrastructure plan | Russia fines Twitter | Lawmakers call for increased school cybersecurity<a href="https://thehill.com//policy/technology/overnights/546253-hillicon-valley-grid-security-funding-missing-russia-fines"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts this week were disappointed that President BidenJoe BidenThe Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden infrastructure plan raises eyebrows MORE’s $2.25 trillion infrastructure package did not include specific funding for securing the electric grid against cyberattacks, although the White House is working on a separate initiative to protect the grid. Meanwhile, a Russian court fined Twitter on Friday for failing to remove certain posts, and two Democratic lawmakers pressed the Education Department to protect K-12 institutions from malicious hackers.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly announced vehicle SOC will require unique set of skills, policies<a href="https://www.scmagazine.com/featured/newly-announced-vehicle-soc-will-require-unique-set-of-skills-policies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Challenges include avoiding false-positive alerts, understanding a complex blend of IT and OT, and establishing policies on attack response.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Twitch AdBlock shuts down after Twitch breaks extension<a href="https://www.bleepingcomputer.com/news/security/popular-twitch-adblock-shuts-down-after-twitch-breaks-extension/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Twitch AdBlock extension has been removed from both Chrome Web Store and Firefox Addons. Twitch AdBlock was the choice of extension among Twitch users for restricting ads when using Twitch. The extension's author stated before its removal, the ad blocker had&nbsp;over 150,000 users and 6 million daily views.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is a Cybersecurity Legal Practice?<a href="https://www.lawfareblog.com/what-cybersecurity-legal-practice"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some considerations for companies looking to build out a cybersecurity legal practice.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers urge Education Department to take action to defend schools from cyber threats<a href="https://thehill.com//policy/cybersecurity/546137-lawmakers-urge-education-department-to-take-action-to-defend-schools"> Full Text</a>
 </p>
 <details>
