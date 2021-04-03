@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2021
+April 03, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most loved programming language Rust sparks privacy concerns<a href="https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Found Abusing GitHub Infrastructure to Mine Cryptocurrency<a href="https://securityaffairs.co/wordpress/116294/malware/github-infrastructure-attacks-miner.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2021
+April 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Actions being actively abused to mine cryptocurrency on GitHub servers<a href="https://www.bleepingcomputer.com/news/security/github-actions-being-actively-abused-to-mine-cryptocurrency-on-github-servers/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2021
+April 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang leaks data from Stanford, Maryland universities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-stanford-maryland-universities/"> Full Text</a>
@@ -98,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Activision warns of Call of Duty Cheat tool used to deliver RAT<a href="https://securityaffairs.co/wordpress/116301/malware/activision-call-of-duty-cheat-tool.html"> Full Text</a>
@@ -118,27 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Activision warns of Call of Duty Cheat tool used to deliver RAT<a href="https://securityaffairs.co/wordpress/116301/uncategorized/activision-call-of-duty-cheat-tool.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The popular video game publisher Activision is warning gamers that threat actors are actively disguising a remote-access trojan (RAT) in Duty Cheat cheat tool.
-
-
-
-Activision, the company behind Call of Duty: Warzone and Guitar Hero series, is warning...
-</details>
-<div style="text-align: right" markdown="1">
-Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are abusing GitHub infrastructure to mine cryptocurrency<a href="https://securityaffairs.co/wordpress/116294/malware/github-infrastructure-attacks-miner.html"> Full Text</a>
@@ -158,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2021
+April 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automated attack abuses GitHub Actions to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/automated-attack-abuses-github-actions-to-mine-cryptocurrency/"> Full Text</a>
@@ -174,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evolution and rise of the Avaddon Ransomware-as-a-Service<a href="https://securityaffairs.co/wordpress/116282/cyber-crime/avaddon-ransomware-evolution.html"> Full Text</a>
@@ -194,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 22-year-old Charged for Hacking into Public Watering Systems<a href="https://cybersecuritynews.com/hacking-into-public-watering-systems/"> Full Text</a>
@@ -210,7 +190,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As ransomware stalks the manufacturing sector, victims are still keeping quiet<a href="https://www.cyberscoop.com/honeywell-hack-ransomware-manufacturing-norsk-hydro/?&web_view=true"> Full Text</a>
@@ -226,7 +206,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hunting the hunters: How Russian hackers targeted US cyber first responders in SolarWinds breach<a href="https://edition.cnn.com/2021/04/02/politics/russian-hackers-target-us-cyber-hunters-solarwinds/index.html?&web_view=true"> Full Text</a>
@@ -242,7 +222,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden's cyber executive order to include new rules for federal agencies, contractors<a href="https://www.cyberscoop.com/cyber-executive-order-supply-chain-solarwinds/?&web_view=true"> Full Text</a>
@@ -258,7 +238,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP caught napping as disclosure delay expires, critical NAS bugs revealed<a href="https://www.theregister.com/2021/04/02/qnap_bug_nas/?&web_view=true"> Full Text</a>
@@ -274,7 +254,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CNA shares details about ransomware attack, recovery effort<a href="https://www.cyberscoop.com/cna-shares-details-about-ransomware-attack-recovery-effort/?&web_view=true"> Full Text</a>
@@ -290,7 +270,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the Ransomware Campaigns Targeting Exchange Servers<a href="https://www.darkreading.com/attacks-breaches/inside-the-ransomware-campaigns-targeting-exchange-servers/d/d-id/1340582?&web_view=true"> Full Text</a>
@@ -306,7 +286,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI & CISA Warn of Active Attacks on FortiOS Vulnerabilities<a href="https://www.darkreading.com/risk/fbi-and-cisa-warn-of-active-attacks-on-fortios-vulnerabilities/d/d-id/1340579?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden's cyber executive order to include new rules for federal agencies, contractors<a href="https://www.cyberscoop.com/cyber-executive-order-supply-chain-solarwinds/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under a forthcoming White House order, companies that do business with the federal government would have to meet software security standards and swiftly report cyber incidents to a new entity within the DHS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

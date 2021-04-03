@@ -11,6 +11,62 @@ nav_order: 900029
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Qualys: Breach limited to 3rd-party vendor, but attackers trying to make exposure seem worse<a href="https://www.scmagazine.com/home/security-news/data-breach/qualys-breach-limited-to-3rd-party-vendor-but-attackers-trying-to-make-exposure-seem-worse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a detailed update posted on the Qualys website April 2, CISO Ben Carr said that an independent, third-party forensic firm has verified the company’s initial determination that the attack did not jump from Accellion’s file transfer appliance server to Qualys’ larger corporate network.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Arctic Vault likely contains leaked MedData patient records<a href="https://www.bleepingcomputer.com/news/security/github-arctic-vault-likely-contains-leaked-meddata-patient-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Arctic Code Vault has likely inadvertently captured sensitive patient&nbsp;medical records&nbsp;from multiple healthcare facilities. The private data was leaked on GitHub repositories last year that are now part of a collection of open-source contributions bound to last a 1,000 years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualys says Accellion hackers did not breach production systems<a href="https://www.bleepingcomputer.com/news/security/qualys-says-accellion-hackers-did-not-breach-production-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Qualys said today that the attackers who breached its Accellion FTA server didn't infiltrate the company's production and corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capital One notifies more clients of SSNs exposed in 2019 data breach<a href="https://www.bleepingcomputer.com/news/security/capital-one-notifies-more-clients-of-ssns-exposed-in-2019-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US bank Capital One notified additional customers that their Social Security numbers were exposed in a data breach announced in July 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Leaker Dismisses MobiKwik's Not-So-Nimble Breach Denial<a href="https://www.govinfosecurity.com/blogs/leaker-dismisses-mobikwiks-not-so-nimble-breach-denial-p-3010?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Found Abusing GitHub Infrastructure to Mine Cryptocurrency<a href="https://securityaffairs.co/wordpress/116294/malware/github-infrastructure-attacks-miner.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub launched an investigation in a series of attacks aimed at abusing its infrastructure to illicitly mine cryptocurrency. Such kind of attacks were reported at least since the end of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Actions being actively abused to mine cryptocurrency on GitHub servers<a href="https://www.bleepingcomputer.com/news/security/github-actions-being-actively-abused-to-mine-cryptocurrency-on-github-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Actions has been abused by attackers to mine cryptocurrency using GitHub's servers, automatically.The particular attack adds malicious&nbsp;GitHub Actions&nbsp;code to repositories forked from legitimate ones, and further creates a Pull Request for the original repository maintainers to merge the code back, to alter the original code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are abusing GitHub infrastructure to mine cryptocurrency<a href="https://securityaffairs.co/wordpress/116294/malware/github-infrastructure-attacks-miner.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular code repository hosting service&nbsp;GitHub&nbsp;is investigating a crypto-mining campaign abusing its infrastructure.
+
+
+
+Code repository hosting service&nbsp;GitHub launched an investigation in a series of attacks aimed at abusing its infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated attack abuses GitHub Actions to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/automated-attack-abuses-github-actions-to-mine-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Actions has been abused by attackers to mine cryptocurrency using GitHub's servers, automatically.The particular attack adds malicious&nbsp;GitHub Actions&nbsp;code to repositories forked from legitimate ones, and further creates a Pull Request for the original repository maintainers to merge the code back, to alter the original code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunting the hunters: How Russian hackers targeted US cyber first responders in SolarWinds breach<a href="https://edition.cnn.com/2021/04/02/politics/russian-hackers-target-us-cyber-hunters-solarwinds/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After infiltrating US government computer networks early last year as part of the SolarWinds data breach, Russian hackers then turned their attention to the very people whose job was to track them down.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

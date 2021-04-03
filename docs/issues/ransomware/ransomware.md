@@ -8,6 +8,80 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang leaks data from Stanford, Maryland universities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-stanford-maryland-universities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stolen personal and financial information of students at Stanford Medicine, University of Maryland Baltimore (UMB), and the University of California was leaked online by the Clop ransomware group earlier this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolution and rise of the Avaddon Ransomware-as-a-Service<a href="https://securityaffairs.co/wordpress/116282/cyber-crime/avaddon-ransomware-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avaddon ransomware operators updated their malware after security researchers released a public decryptor in February 2021.
+
+
+
+The Avaddon ransomware family first appeared in the threat landscape in February 2020, and its authors started offering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As ransomware stalks the manufacturing sector, victims are still keeping quiet<a href="https://www.cyberscoop.com/honeywell-hack-ransomware-manufacturing-norsk-hydro/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two years later, Norsk Hydro’s transparency remains an outlier in a manufacturing sector that is increasingly dogged by ransomware attacks during the coronavirus pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNA shares details about ransomware attack, recovery effort<a href="https://www.cyberscoop.com/cna-shares-details-about-ransomware-attack-recovery-effort/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, one of the biggest players in cybersecurity insurance specifically, had previously acknowledged an attack, but stopped short of specifying exactly what kind.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Ransomware Campaigns Targeting Exchange Servers<a href="https://www.darkreading.com/attacks-breaches/inside-the-ransomware-campaigns-targeting-exchange-servers/d/d-id/1340582?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations around the world scrambled to patch critical Microsoft Exchange Server flaws patched last month, criminals upped the ante with multiple ransomware campaigns targeting vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
