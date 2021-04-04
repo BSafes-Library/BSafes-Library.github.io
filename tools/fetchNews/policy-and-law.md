@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22-year-old Charged for Hacking into Public Watering Systems<a href="https://cybersecuritynews.com/hacking-into-public-watering-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A 22-year-old man, Wyatt A. Travnichek from the U.S. state of Kansas has been accused on charges that he unauthorizedly accessed a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

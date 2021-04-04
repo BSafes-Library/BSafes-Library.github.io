@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+April 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 Million Facebook Users' Phone Numbers and Personal Data Leaked Online<a href="https://thehackernews.com/2021/04/533-million-facebook-users-phone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's likely to be a goldmine for bad actors, personal information associated with approximately 533 million Facebook users worldwide has been leaked on a popular cybercrime forum for free—which was harvested by hackers in 2019 using a Facebook vulnerability.  The&nbsp; leaked data &nbsp;includes full names, Facebook IDs, mobile numbers, locations, email addresses, gender, occupation, city, country, marital status broken, account creation date, and other profile details down by country, with over 32 million records belonging to users in the U.S., 11 million users the U.K., and six million users in India, among others.   In total, the data being offered includes user information from 106 countries. Additionally, the data seems to have been obtained by exploiting a vulnerability that enabled automated scripts to scrape Facebook users' public profiles and associated private phone numbers en masse. The flaw has since been fixed by Facebook.    "This is old data that was previously
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 million Facebook users’ phone numbers leaked on hacker forum<a href="https://www.bleepingcomputer.com/news/security/533-million-facebook-users-phone-numbers-leaked-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mobile phone numbers and other personal information for approximately 533 million Facebook users&nbsp;worldwide has been leaked on a popular hacker forum for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 533 million Facebook users leaked in a hacking forum for free<a href="https://securityaffairs.co/wordpress/116316/social-networks/facebook-phone-numbers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 3, a user has leaked the phone numbers and personal data of 533 million Facebook users in a hacking forum for free online.
+
+
+
+Bad news for Facebook, a user in a hacking forum has published the phone numbers and personal data of 533 million Facebook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capital One discovered more customers’ SSNs exposed in 2019 hack<a href="https://securityaffairs.co/wordpress/116309/data-breach/capital-one-ssns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More clients of Capital One have been impacted in the 2019 data breach, the US bank is notifying them of their SSNs exposure.
+
+
+
+US bank Capital One notified a number of additional customers that their Social Security numbers were exposed in the data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
