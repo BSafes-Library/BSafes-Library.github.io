@@ -34,7 +34,203 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless resumes production after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sierra-wireless-resumes-production-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian IoT solutions provider Sierra Wireless announced that it resumed production at its manufacturing sites after it halted it due to a ransomware attack that hit its internal network and corporate website on March 20.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware – Hackers Using Call of Duty Cheats to Deliver Sophisticated Malware<a href="https://cybersecuritynews.com/call-of-duty-cheats-to-deliver-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The video gaming industry is a popular target for various threat actors. Players, as well as studios and publishers themselves, are at...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 Million Facebook Users' Phone Numbers and Personal Data Leaked Online<a href="https://thehackernews.com/2021/04/533-million-facebook-users-phone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's likely to be a goldmine for bad actors, personal information associated with approximately 533 million Facebook users worldwide has been leaked on a popular cybercrime forum for free—which was harvested by hackers in 2019 using a Facebook vulnerability.  The  leaked data  includes full names, Facebook IDs, mobile numbers, locations, email addresses, gender, occupation, city, country, marital status broken, account creation date, and other profile details down by country, with over 32 million records belonging to users in the U.S., 11 million users the U.K., and six million users in India, among others.   In total, the data being offered includes user information from 106 countries. Additionally, the data seems to have been obtained by exploiting a vulnerability that enabled automated scripts to scrape Facebook users' public profiles and associated private phone numbers en masse. The flaw has since been fixed by Facebook.    "This is old data that was previously
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware attack on Applus blocked vehicle inspections in some US states<a href="https://securityaffairs.co/wordpress/116338/malware/malware-attack-on-applus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware attack against vehicle inspection services provider Applus Technologies paralyzed preventing vehicle inspections in eight US states.
+
+
+
+Applus Technologies is a worldwide leader in the testing, inspection and certification sector, the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 308<a href="https://securityaffairs.co/wordpress/116335/breaking-news/security-affairs-newsletter-round-308.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to receive the complete weekly Security Affairs Newsletter for free, including the international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware operators plunder US universities<a href="https://securityaffairs.co/wordpress/116325/uncategorized/clop-ransomware-us-universities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware gang leaked online data stolen from Stanford Medicine, University of Maryland Baltimore, and the University of California.
+
+
+
+Clop ransomware operators have leaked the personal and financial information stolen from Stanford Medicine,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of California victim of ransomware attack<a href="https://thehill.com//policy/cybersecurity/546335-university-of-california-victim-of-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of California (UC) said Wednesday that it was the victim of a ransomware attack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware attack is preventing car inspections in eight US states<a href="https://www.bleepingcomputer.com/news/security/malware-attack-is-preventing-car-inspections-in-eight-us-states/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware cyberattack on emissions testing company Applus Technologies is preventing vehicle inspections in eight states, including Connecticut, Georgia, Idaho, Illinois, Massachusetts, Utah, and Wisconsin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 million Facebook users’ phone numbers leaked on hacker forum<a href="https://www.bleepingcomputer.com/news/security/533-million-facebook-users-phone-numbers-leaked-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mobile phone numbers and other personal information for approximately 533 million Facebook users worldwide has been leaked on a popular hacker forum for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 533 million Facebook users leaked in a hacking forum for free<a href="https://securityaffairs.co/wordpress/116316/social-networks/facebook-phone-numbers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 3, a user has leaked the phone numbers and personal data of 533 million Facebook users in a hacking forum for free online.
+
+
+
+Bad news for Facebook, a user in a hacking forum has published the phone numbers and personal data of 533 million Facebook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capital One discovered more customers’ SSNs exposed in 2019 hack<a href="https://securityaffairs.co/wordpress/116309/data-breach/capital-one-ssns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More clients of Capital One have been impacted in the 2019 data breach, the US bank is notifying them of their SSNs exposure.
+
+
+
+US bank Capital One notified a number of additional customers that their Social Security numbers were exposed in the data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most loved programming language Rust sparks privacy concerns<a href="https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/"> Full Text</a>
@@ -50,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Found Abusing GitHub Infrastructure to Mine Cryptocurrency<a href="https://securityaffairs.co/wordpress/116294/malware/github-infrastructure-attacks-miner.html?&web_view=true"> Full Text</a>
@@ -66,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2021
+April 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Actions being actively abused to mine cryptocurrency on GitHub servers<a href="https://www.bleepingcomputer.com/news/security/github-actions-being-actively-abused-to-mine-cryptocurrency-on-github-servers/"> Full Text</a>
@@ -82,7 +278,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2021
+April 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang leaks data from Stanford, Maryland universities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-stanford-maryland-universities/"> Full Text</a>
@@ -98,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Activision warns of Call of Duty Cheat tool used to deliver RAT<a href="https://securityaffairs.co/wordpress/116301/malware/activision-call-of-duty-cheat-tool.html"> Full Text</a>
@@ -118,27 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Activision warns of Call of Duty Cheat tool used to deliver RAT<a href="https://securityaffairs.co/wordpress/116301/uncategorized/activision-call-of-duty-cheat-tool.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The popular video game publisher Activision is warning gamers that threat actors are actively disguising a remote-access trojan (RAT) in Duty Cheat cheat tool.
-
-
-
-Activision, the company behind Call of Duty: Warzone and Guitar Hero series, is warning...
-</details>
-<div style="text-align: right" markdown="1">
-Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are abusing GitHub infrastructure to mine cryptocurrency<a href="https://securityaffairs.co/wordpress/116294/malware/github-infrastructure-attacks-miner.html"> Full Text</a>
@@ -158,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2021
+April 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automated attack abuses GitHub Actions to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/automated-attack-abuses-github-actions-to-mine-cryptocurrency/"> Full Text</a>
@@ -174,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evolution and rise of the Avaddon Ransomware-as-a-Service<a href="https://securityaffairs.co/wordpress/116282/cyber-crime/avaddon-ransomware-evolution.html"> Full Text</a>
@@ -194,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 22-year-old Charged for Hacking into Public Watering Systems<a href="https://cybersecuritynews.com/hacking-into-public-watering-systems/"> Full Text</a>
@@ -210,7 +386,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As ransomware stalks the manufacturing sector, victims are still keeping quiet<a href="https://www.cyberscoop.com/honeywell-hack-ransomware-manufacturing-norsk-hydro/?&web_view=true"> Full Text</a>
@@ -226,7 +402,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hunting the hunters: How Russian hackers targeted US cyber first responders in SolarWinds breach<a href="https://edition.cnn.com/2021/04/02/politics/russian-hackers-target-us-cyber-hunters-solarwinds/index.html?&web_view=true"> Full Text</a>
@@ -242,7 +418,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden's cyber executive order to include new rules for federal agencies, contractors<a href="https://www.cyberscoop.com/cyber-executive-order-supply-chain-solarwinds/?&web_view=true"> Full Text</a>
@@ -258,7 +434,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP caught napping as disclosure delay expires, critical NAS bugs revealed<a href="https://www.theregister.com/2021/04/02/qnap_bug_nas/?&web_view=true"> Full Text</a>
@@ -274,7 +450,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CNA shares details about ransomware attack, recovery effort<a href="https://www.cyberscoop.com/cna-shares-details-about-ransomware-attack-recovery-effort/?&web_view=true"> Full Text</a>
@@ -290,7 +466,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the Ransomware Campaigns Targeting Exchange Servers<a href="https://www.darkreading.com/attacks-breaches/inside-the-ransomware-campaigns-targeting-exchange-servers/d/d-id/1340582?&web_view=true"> Full Text</a>
@@ -306,7 +482,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2021
+April 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI & CISA Warn of Active Attacks on FortiOS Vulnerabilities<a href="https://www.darkreading.com/risk/fbi-and-cisa-warn-of-active-attacks-on-fortios-vulnerabilities/d/d-id/1340579?&web_view=true"> Full Text</a>
