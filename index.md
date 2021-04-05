@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the Work-From-Home Shift Impacts SaaS Security<a href="https://thehackernews.com/2021/04/how-work-from-home-shift-impacts-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data is in. According to IBM Security's  2020 Cost of a Data Breach Report , there is a 50% increase in cloud usage for enterprises across all industries. The number of threats targeting cloud services, predominantly collaboration services like Office 365, has  increased 630% .  Moreover, 75% of respondents report that discovery and recovery time from data breaches has significantly increased due to remote work during the pandemic. Although organizations can save over $1 million if they discover a breach in the first 30 days, the average reported response time was a whopping 280 days.   In the remote-work world, SaaS apps have become an enticing vector-of-choice for bad actors. Just think of the typical employee, working off-site, untrained in security measures, and how their access or privileges increase the risk of sensitive data being stolen, exposed, or compromised.  However, it doesn't have to be that way — a company's SaaS security posture can be strengthened, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
