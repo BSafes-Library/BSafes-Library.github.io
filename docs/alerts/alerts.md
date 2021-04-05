@@ -6,6 +6,29 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2021 - FBI, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Actors Exploit Vulnerabilities to Gain Initial Access for Future Attacks <a href="https://publications.bsafes.com/docs/fbi/joint-cyber-security-advisory-2021-04-02-apt-actors-exploit-vulnerabilities-to-gain-initial-access-for-future-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March 2021 the Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) observed Advanced Persistent Threat (APT) actors scanning devices on ports 4443, 8443, and 10443 for CVE-2018-13379, and enumerated devices for CVE-2020-12812 and CVE-2019-5591. It is likely that the APT actors are scanning for these vulnerabilities to gain access to multiple government, commercial, and technology services networks. APT actors have historically exploited critical vulnerabilities to conduct distributed denial-of-service (DDoS) attacks, ransomware attacks, structured query language (SQL) injection attacks, spearphishing campaigns, website defacements, and disinformation campaigns.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2021 - DOJ 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Warns About Fake Post-Vaccine Survey Scams <a href="https://www.justice.gov/opa/pr/justice-department-warns-about-fake-post-vaccine-survey-scams"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice has received reports that fraudsters are creating fraudulent COVID-19 vaccine surveys for consumers to fill out with the promise of a prize or cash at the conclusion of the survey. In reality, the surveys are used to steal money from consumers and unlawfully capture consumers’ personal information.
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 31, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

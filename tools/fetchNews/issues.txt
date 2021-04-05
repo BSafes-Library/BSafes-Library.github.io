@@ -34,10 +34,6 @@ Alerts:
 . https://threatpost.com/cisa-federal-agencies-patch-exchange-servers/164499/
 . https://www.scmagazine.com/home/security-news/cybercrime/fbi-cybercrime-skyrocketed-in-2020-with-email-compromise-scams-accounting-for-43-of-losses/
 . https://cyware.com/news/fbi-releases-the-ic3-internet-crime-report-2020-c6670ebe
-. https://securityaffairs.co/wordpress/116190/security/citrix-hypervisor-dos-flaws.html
-. https://www.scmagazine.com/home/security-news/vulnerabilities/cisa-encourages-everyone-to-follow-updated-guidance-for-microsoft-exchange-fixes/
-. https://www.bleepingcomputer.com/news/security/us-doj-phishing-attacks-use-vaccine-surveys-to-steal-personal-info/
-. a href="https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-attacking-fortinet-fortios-servers/
 
 
 APT
