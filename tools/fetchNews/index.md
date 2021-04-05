@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Malware Attack on Applus Impacts Vehicle Inspections in Multiple US States<a href="https://securityaffairs.co/wordpress/116338/malware/malware-attack-on-applus.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company will spend some time to fully restore the operations and continue the vehicle inspections. According to the DMV, inspections will likely be suspended at least for another couple of days.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Encryption is either secure or it’s not – there is no middle ground<a href="https://www.helpnetsecurity.com/2021/04/05/weak-encryption/?&web_view=true"> Full Text</a>
 </p>
 <details>
