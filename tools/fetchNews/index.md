@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Altdos Claims to Steal 300,000 Customers’ Data from Furniture Retailer Vhive<a href="https://www.straitstimes.com/singapore/consumer/police-investigating-furniture-retailer-vhives-data-breach-customer-information?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an e-mail to affected customers on Saturday, Altdos said it managed to hack into Vhive three times in nine days and claimed to have stolen information related to over 300,000 customers.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pastor Charged with Sharing CSAM<a href="https://www.infosecurity-magazine.com:443/news/pastor-charged-with-sharing-csam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Daytona Beach pastor allegedly shared child sexual abuse material in online chat rooms
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten and Medical Researchers - A Cat and Mouse Game<a href="https://cyware.com/news/charming-kitten-and-medical-researchers-a-cat-and-mouse-game-3dd79d42"> Full Text</a>
 </p>
 <details>

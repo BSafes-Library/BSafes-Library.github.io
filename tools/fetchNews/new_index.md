@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Once Again, North Korean Hackers Target Security Researchers<a href="https://cyware.com/news/once-again-north-korean-hackers-target-security-researchers-df676078"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Google's Threat Analysis Group (TAG), the attackers created a website for a fake company offering offensive security services to attract security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Altdos Claims to Steal 300,000 Customers’ Data from Furniture Retailer Vhive<a href="https://www.straitstimes.com/singapore/consumer/police-investigating-furniture-retailer-vhives-data-breach-customer-information?&web_view=true"> Full Text</a>
 </p>
 <details>
