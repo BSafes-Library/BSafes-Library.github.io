@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scholarship program to help aspiring NYC cyber pros hit financially by COVID<a href="https://www.scmagazine.com/home/security-news/news-archive/coronavirus/scholarship-program-to-help-aspiring-nyc-cyber-pros-hit-financially-by-covid/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media presents a Q&A with Fullstack Academy’s NYC campus director and the NYC Economic Development Corporation’s assistant VP of emerging tech initiatives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 533M Facebook Accounts Leaked Online: Check if You Are Exposed<a href="https://threatpost.com/facebook-accounts-leaked-check-exposed/165245/"> Full Text</a>
 </p>
 <details>
