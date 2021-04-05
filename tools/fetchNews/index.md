@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Endpoint now supports Windows 10 Arm devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-now-supports-windows-10-arm-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today announced that Microsoft Defender for Endpoint, the enterprise version of its Defender antivirus, now comes with support for Windows 10 on Arm devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn Spear-Phishing Campaign Targets Job Hunters<a href="https://threatpost.com/linkedin-spear-phishing-job-hunters/165240/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake job offers lure professionals into downloading the more_eggs backdoor trojan.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
