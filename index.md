@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Data of Half a Billion Facebook Users Leaked<a href="https://www.infosecurity-magazine.com:443/news/data-of-half-a-billion-facebook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-intelligence firm finds personal data of 533 million Facebook users posted online
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Behind Hancitor Malware uses Network Ping Tool to Enumerate Active Directory (AD) Environment<a href="https://cybersecuritynews.com/hancitor-malware-network-attacks/"> Full Text</a>
 </p>
 <details>
