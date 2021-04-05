@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Browser lockers: Extortion disguised as a fine<a href="https://securelist.com/browser-lockers-extortion-disguised-as-a-fine/101735/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It includes imitating the “blue screen of death” (BSOD) in the browser, false warnings about system errors or detected viruses, threats to encrypt files, legal liability notices, and many others.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Poulight Trojan: A “txt file” can steal all your secrets<a href="https://blog.360totalsecurity.com/en/a-txt-file-can-steal-all-your-secrets/?&web_view=true"> Full Text</a>
 </p>
 <details>
