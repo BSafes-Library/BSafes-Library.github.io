@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+33.4% of ICS computers hit by a cyber attack in H2 2020<a href="https://securityaffairs.co/wordpress/116360/ics-scada/ics-statistics-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+H2 2020 - Kaspersky observed an increase in ransomware attacks on industrial control system (ICS) systems in developed countries.
+
+
+
+Cybersecurity firm Kaspersky has published the Industrial Control System Threat Landscape report for H2 2020 which is based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How cloud architectures defend against the cyber attack surge<a href="https://venturebeat.com/2021/04/04/how-cloud-architectures-defend-against-the-cyber-attack-surge/?&web_view=true"> Full Text</a>
 </p>
 <details>
