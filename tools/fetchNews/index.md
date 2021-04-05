@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+533M Facebook Accounts Leaked Online: Check if You Are Exposed<a href="https://threatpost.com/facebook-accounts-leaked-check-exposed/165245/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An estimated 32 million, of the half-billion of Facebook account details posted online, were tied to US-based accounts. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Spy Operations Target Vietnam with Sophisticated RAT<a href="https://threatpost.com/spy-operations-vietnam-rat/165243/"> Full Text</a>
 </p>
 <details>
