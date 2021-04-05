@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Supreme Court sides with Google in copyright fight against Oracle | Justices dismiss suit over Trump's blocking of critics on Twitter | Tim Cook hopes Parler will return to Apple Store<a href="https://thehill.com//policy/technology/overnights/546577-hillicon-valley-supreme-court-sides-with-google-in-copyright"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court on Monday sided with Google against Oracle in a copyright fight, while vacating a previous ruling involving former President’s Trump use of Twitter. Meanwhile, Apple CEO Tim Cook said he hoped Parler would eventually return to the App Store, and a national labor board concluded that Amazon had illegally retaliated against two workers by firing them for speaking out against company policies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption debate could have enterprise security implications<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/encryption-debate-could-have-enterprise-security-implications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the United Kingdom reignites the debate over data encryption, concern about trickle down impact to businesses emerge.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
