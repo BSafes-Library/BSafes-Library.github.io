@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+533 Million Facebook Users Personal Data Leaked that Includes Mark Zuckerberg’s Cell Phone Number – How to check that your Data Exposed?<a href="https://cybersecuritynews.com/533-million-facebook-users-personal-data-leaked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Facebook gets hacked to reveal its founder and CEO, Mark Zuckerberg’s cell phone number! However, Mark Zuckerberg’s details aren’t the only ones...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 33.4% of ICS computers hit by a cyber attack in H2 2020<a href="https://securityaffairs.co/wordpress/116360/ics-scada/ics-statistics-data.html"> Full Text</a>
 </p>
 <details>
