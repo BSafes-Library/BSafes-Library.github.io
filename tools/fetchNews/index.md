@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Behind Hancitor Malware uses Network Ping Tool to Enumerate Active Directory (AD) Environment<a href="https://cybersecuritynews.com/hancitor-malware-network-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Hancitor is an information stealer and malware downloader used by a threat actor designated as MAN1, Moskalvzapoe, or TA511.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15 Cybersecurity Pitfalls and Fixes for SMBs<a href="https://threatpost.com/cybersecurity-pitfalls-fixes-smbs/165225/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this roundtable, security experts focus on smaller businesses offer real-world advice for actionable ways to shore up defenses using fewer resources.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GitHub Infrastructure Used to Mine Cryptocurrency<a href="https://heimdalsecurity.com/blog/github-infrastructure-used-to-mine-cryptocurrency/?&web_view=true"> Full Text</a>
 </p>
 <details>
