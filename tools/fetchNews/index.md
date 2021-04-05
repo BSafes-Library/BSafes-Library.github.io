@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A41APT: An APT Campaign, a Multi-Layer Malware, and Japanese Targets<a href="https://cyware.com/news/a41apt-an-apt-campaign-a-multi-layer-malware-and-japanese-targets-b4bd038c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activity related to the campaign was first observed in November 2020 when reports of Japan-linked organizations being targeted in 17 regions across the world emerged.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data of Half a Billion Facebook Users Leaked<a href="https://www.infosecurity-magazine.com:443/news/data-of-half-a-billion-facebook/"> Full Text</a>
 </p>
 <details>

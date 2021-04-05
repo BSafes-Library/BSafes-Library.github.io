@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten and Medical Researchers - A Cat and Mouse Game<a href="https://cyware.com/news/charming-kitten-and-medical-researchers-a-cat-and-mouse-game-3dd79d42"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This late-2020 spearphishing campaign aimed to steal the credentials of 25 senior medical researchers in oncology, neurology, and genetic research in the U.S. and Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Engineering Oversight” Costs ForceDAO $367k<a href="https://www.infosecurity-magazine.com:443/news/engineering-oversight-costs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploitation by hackers of 183 ETH from newly launched DeFi aggregator was preventable
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A41APT: An APT Campaign, a Multi-Layer Malware, and Japanese Targets<a href="https://cyware.com/news/a41apt-an-apt-campaign-a-multi-layer-malware-and-japanese-targets-b4bd038c"> Full Text</a>
 </p>
 <details>
