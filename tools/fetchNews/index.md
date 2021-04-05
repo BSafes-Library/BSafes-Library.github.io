@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The leap of a Cycldek-related threat actor<a href="https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the nebula of Chinese-speaking threat actors, it is quite common to see tools and methodologies being shared. One such example of this is the infamous DLL side-loading triad.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Malware Attack on Applus Impacts Vehicle Inspections in Multiple US States<a href="https://securityaffairs.co/wordpress/116338/malware/malware-attack-on-applus.html?&web_view=true"> Full Text</a>
 </p>
 <details>
