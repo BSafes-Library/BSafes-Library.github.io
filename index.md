@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GitHub Infrastructure Used to Mine Cryptocurrency<a href="https://heimdalsecurity.com/blog/github-infrastructure-used-to-mine-cryptocurrency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors seem to be targeting repositories that have GitHub Actions enabled in order to be able to add malicious Actions and fill Pull Requests aimed at executing malicious attacker code.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 2,5M+ users can check whether their data were exposed in Facebook data leak<a href="https://securityaffairs.co/wordpress/116371/data-breach/facebook-leak-check.html"> Full Text</a>
 </p>
 <details>
