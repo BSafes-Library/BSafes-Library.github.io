@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The “Fair” Upgrade Variant of Phobos Ransomware<a href="https://blog.morphisec.com/the-fair-upgrade-variant-of-phobos-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detected the execution of PowerShell scripts that were delivering the ransomware within memory without any executable on disk. It used paste.ee for delivering the loader and ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Morphisec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

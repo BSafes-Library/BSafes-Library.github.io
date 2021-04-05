@@ -34,6 +34,222 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 Million Facebook Users Personal Data Leaked that Includes Mark Zuckerberg’s Cell Phone Number – How to check that your Data Exposed?<a href="https://cybersecuritynews.com/533-million-facebook-users-personal-data-leaked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Facebook gets hacked to reveal its founder and CEO, Mark Zuckerberg’s cell phone number! However, Mark Zuckerberg’s details aren’t the only ones...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+33.4% of ICS computers hit by a cyber attack in H2 2020<a href="https://securityaffairs.co/wordpress/116360/ics-scada/ics-statistics-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+H2 2020 - Kaspersky observed an increase in ransomware attacks on industrial control system (ICS) systems in developed countries.
+
+
+
+Cybersecurity firm Kaspersky has published the Industrial Control System Threat Landscape report for H2 2020 which is based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How cloud architectures defend against the cyber attack surge<a href="https://venturebeat.com/2021/04/04/how-cloud-architectures-defend-against-the-cyber-attack-surge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If your applications are leveraging a distributed delivery model, for example leveraging cloud-based services such as content delivery networks (CDNs), then you have to worry less about DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The leap of a Cycldek-related threat actor<a href="https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the nebula of Chinese-speaking threat actors, it is quite common to see tools and methodologies being shared. One such example of this is the infamous DLL side-loading triad.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Attack on Applus Impacts Vehicle Inspections in Multiple US States<a href="https://securityaffairs.co/wordpress/116338/malware/malware-attack-on-applus.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company will spend some time to fully restore the operations and continue the vehicle inspections. According to the DMV, inspections will likely be suspended at least for another couple of days.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption is either secure or it’s not – there is no middle ground<a href="https://www.helpnetsecurity.com/2021/04/05/weak-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The principle of end-to-end encryption underpins a system of communication where only the communicating users can read the messages, thereby preventing any eavesdropping.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The “Fair” Upgrade Variant of Phobos Ransomware<a href="https://blog.morphisec.com/the-fair-upgrade-variant-of-phobos-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detected the execution of PowerShell scripts that were delivering the ransomware within memory without any executable on disk. It used paste.ee for delivering the loader and ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Morphisec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser lockers: Extortion disguised as a fine<a href="https://securelist.com/browser-lockers-extortion-disguised-as-a-fine/101735/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It includes imitating the “blue screen of death” (BSOD) in the browser, false warnings about system errors or detected viruses, threats to encrypt files, legal liability notices, and many others.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poulight Trojan: A “txt file” can steal all your secrets<a href="https://blog.360totalsecurity.com/en/a-txt-file-can-steal-all-your-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Poulight Trojan has been put into use since last year and has complete and powerful functions to steal information. This attack proved that it has begun to spread and use overseas.
+</details>
+<div style="text-align: right" markdown="1">
+360 Total Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware attacks, a grey area in cybersecurity of organizations<a href="https://securityaffairs.co/wordpress/116344/hacking/firmware-attacks-microsoft-survey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report published by Microsoft revealed that 80% of global enterprises were victims of a firmware-focused cyberattack.
+
+
+
+Microsoft recently published a report that states, titled "March 2021 Security Signals report," that revealed that more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals send out fake “census form” reminder – don’t fall for it!<a href="https://nakedsecurity.sophos.com/2021/04/02/criminals-send-out-fake-census-form-reminder-dont-fall-for-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The server name used in the scam is obviously fake because it doesn’t end in .gov.uk, which is a controlled domain available only to official national, regional and local government bodies in the UK.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 million Facebook users' phone numbers and personal data have been leaked online<a href="https://www.businessinsider.in/tech/news/533-million-facebook-users-phone-numbers-and-personal-data-have-been-leaked-online/articleshow/81889315.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed data includes personal information of over 533 million Facebook users from 106 countries, including over 32 million users in the US, 11 million in the UK, and 6 million in India.
+</details>
+<div style="text-align: right" markdown="1">
+Business Insider
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to check if your info was exposed in the Facebook data leak<a href="https://www.bleepingcomputer.com/news/security/how-to-check-if-your-info-was-exposed-in-the-facebook-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breach notification service Have I Been Pwned can now be used to check if your personal information was exposed in yesterday's Facebook data leak that contains the phone numbers and information for over 500 million users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 04, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

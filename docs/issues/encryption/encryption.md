@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption is either secure or it’s not – there is no middle ground<a href="https://www.helpnetsecurity.com/2021/04/05/weak-encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The principle of end-to-end encryption underpins a system of communication where only the communicating users can read the messages, thereby preventing any eavesdropping.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

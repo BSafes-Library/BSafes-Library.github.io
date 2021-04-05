@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra Wireless resumes production after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sierra-wireless-resumes-production-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian&nbsp;IoT solutions provider Sierra Wireless announced&nbsp;that it resumed production at its manufacturing sites after it&nbsp;halted it due to a&nbsp;ransomware attack that hit its internal network&nbsp;and corporate website&nbsp;on March 20.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware operators plunder US universities<a href="https://securityaffairs.co/wordpress/116325/uncategorized/clop-ransomware-us-universities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware gang leaked online data stolen from Stanford Medicine, University of Maryland Baltimore, and the University of California.
+
+
+
+Clop ransomware operators have leaked the personal and financial information stolen from Stanford Medicine,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of California victim of ransomware attack<a href="https://thehill.com//policy/cybersecurity/546335-university-of-california-victim-of-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of California (UC) said Wednesday that it was the victim of a ransomware attack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

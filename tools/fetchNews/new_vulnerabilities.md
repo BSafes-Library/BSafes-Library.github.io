@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware attacks, a grey area in cybersecurity of organizations<a href="https://securityaffairs.co/wordpress/116344/hacking/firmware-attacks-microsoft-survey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report published by Microsoft revealed that 80% of global enterprises were victims of a firmware-focused cyberattack.
+
+
+
+Microsoft recently published a report that states, titled "March 2021&nbsp;Security Signals&nbsp;report," that revealed that more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 Million Facebook Users Personal Data Leaked that Includes Mark Zuckerberg’s Cell Phone Number – How to check that your Data Exposed?<a href="https://cybersecuritynews.com/533-million-facebook-users-personal-data-leaked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Facebook gets hacked to reveal its founder and CEO, Mark Zuckerberg’s cell phone number! However, Mark Zuckerberg’s details aren’t the only ones...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 million Facebook users' phone numbers and personal data have been leaked online<a href="https://www.businessinsider.in/tech/news/533-million-facebook-users-phone-numbers-and-personal-data-have-been-leaked-online/articleshow/81889315.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed data includes personal information of over 533 million Facebook users from 106 countries, including over 32 million users in the US, 11 million in the UK, and 6 million in India.
+</details>
+<div style="text-align: right" markdown="1">
+Business Insider
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to check if your info was exposed in the Facebook data leak<a href="https://www.bleepingcomputer.com/news/security/how-to-check-if-your-info-was-exposed-in-the-facebook-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breach notification service Have I Been Pwned can now be used to check if your personal information was exposed in yesterday's Facebook data leak that contains the phone numbers and information for over 500 million users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

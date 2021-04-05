@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533 Million Facebook Users Personal Data Leaked that Includes Mark Zuckerberg’s Cell Phone Number – How to check that your Data Exposed?<a href="https://cybersecuritynews.com/533-million-facebook-users-personal-data-leaked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Facebook gets hacked to reveal its founder and CEO, Mark Zuckerberg’s cell phone number! However, Mark Zuckerberg’s details aren’t the only ones...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 33.4% of ICS computers hit by a cyber attack in H2 2020<a href="https://securityaffairs.co/wordpress/116360/ics-scada/ics-statistics-data.html"> Full Text</a>
@@ -54,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How cloud architectures defend against the cyber attack surge<a href="https://venturebeat.com/2021/04/04/how-cloud-architectures-defend-against-the-cyber-attack-surge/?&web_view=true"> Full Text</a>
@@ -70,7 +86,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The leap of a Cycldek-related threat actor<a href="https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/?&web_view=true"> Full Text</a>
@@ -86,7 +102,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Attack on Applus Impacts Vehicle Inspections in Multiple US States<a href="https://securityaffairs.co/wordpress/116338/malware/malware-attack-on-applus.html?&web_view=true"> Full Text</a>
@@ -102,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encryption is either secure or it’s not – there is no middle ground<a href="https://www.helpnetsecurity.com/2021/04/05/weak-encryption/?&web_view=true"> Full Text</a>
@@ -118,7 +134,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The “Fair” Upgrade Variant of Phobos Ransomware<a href="https://blog.morphisec.com/the-fair-upgrade-variant-of-phobos-ransomware?&web_view=true"> Full Text</a>
@@ -134,7 +150,7 @@ Morphisec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser lockers: Extortion disguised as a fine<a href="https://securelist.com/browser-lockers-extortion-disguised-as-a-fine/101735/?&web_view=true"> Full Text</a>
@@ -150,7 +166,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poulight Trojan: A “txt file” can steal all your secrets<a href="https://blog.360totalsecurity.com/en/a-txt-file-can-steal-all-your-secrets/?&web_view=true"> Full Text</a>
@@ -166,7 +182,7 @@ The Poulight Trojan has been put into use since last year and has complete and p
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firmware attacks, a grey area in cybersecurity of organizations<a href="https://securityaffairs.co/wordpress/116344/hacking/firmware-attacks-microsoft-survey.html"> Full Text</a>
@@ -186,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Criminals send out fake “census form” reminder – don’t fall for it!<a href="https://nakedsecurity.sophos.com/2021/04/02/criminals-send-out-fake-census-form-reminder-dont-fall-for-it/?&web_view=true"> Full Text</a>
@@ -202,7 +218,7 @@ Sophos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 533 million Facebook users' phone numbers and personal data have been leaked online<a href="https://www.businessinsider.in/tech/news/533-million-facebook-users-phone-numbers-and-personal-data-have-been-leaked-online/articleshow/81889315.cms?&web_view=true"> Full Text</a>
@@ -218,7 +234,7 @@ Business Insider
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2021
+April 04, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to check if your info was exposed in the Facebook data leak<a href="https://www.bleepingcomputer.com/news/security/how-to-check-if-your-info-was-exposed-in-the-facebook-data-leak/"> Full Text</a>

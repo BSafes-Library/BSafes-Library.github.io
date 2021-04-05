@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The leap of a Cycldek-related threat actor<a href="https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the nebula of Chinese-speaking threat actors, it is quite common to see tools and methodologies being shared. One such example of this is the infamous DLL side-loading triad.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
