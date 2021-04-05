@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 05, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Adult content from hundreds of OnlyFans creators leaked online<a href="https://www.bleepingcomputer.com/news/security/adult-content-from-hundreds-of-onlyfans-creators-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a shared Google Drive was posted online containing the private videos and images from many OnlyFans accounts, a researcher has created a tool allowing content creators to check if they are part of the leak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Supreme Court sides with Google in copyright fight against Oracle | Justices dismiss suit over Trump's blocking of critics on Twitter | Tim Cook hopes Parler will return to Apple Store<a href="https://thehill.com//policy/technology/overnights/546577-hillicon-valley-supreme-court-sides-with-google-in-copyright"> Full Text</a>
 </p>
 <details>
