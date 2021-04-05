@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Poulight Trojan: A “txt file” can steal all your secrets<a href="https://blog.360totalsecurity.com/en/a-txt-file-can-steal-all-your-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Poulight Trojan has been put into use since last year and has complete and powerful functions to steal information. This attack proved that it has begun to spread and use overseas.
+</details>
+<div style="text-align: right" markdown="1">
+360 Total Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware attacks, a grey area in cybersecurity of organizations<a href="https://securityaffairs.co/wordpress/116344/hacking/firmware-attacks-microsoft-survey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report published by Microsoft revealed that 80% of global enterprises were victims of a firmware-focused cyberattack.
+
+
+
+Microsoft recently published a report that states, titled "March 2021 Security Signals report," that revealed that more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Criminals send out fake “census form” reminder – don’t fall for it!<a href="https://nakedsecurity.sophos.com/2021/04/02/criminals-send-out-fake-census-form-reminder-dont-fall-for-it/?&web_view=true"> Full Text</a>
 </p>
 <details>
