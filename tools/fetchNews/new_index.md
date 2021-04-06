@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Privacy Concerns Sparked by Rust Programming Language<a href="https://heimdalsecurity.com/blog/rust-programming-language-raises-privacy-concerns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Rust has become a very popular language, for the past five years, developers have been concerned by their production builds leaking potentially sensitive debug information, writes Ax Sharma.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This service allows checking if your mobile is included in the Facebook leak<a href="https://securityaffairs.co/wordpress/116405/data-breach/facebook-leak-mobile-check.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher implemented a service to verify if your mobile number is included in the recent Facebook data leak.
+
+
+
+Security researcher Yaser Alosefer developed a new tool to help users to determine if their mobile numbers are included within...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 99% of security pros concerned about their IoT and IIoT security<a href="https://www.helpnetsecurity.com/2021/04/06/iot-iiot-security/?&web_view=true"> Full Text</a>
 </p>
 <details>
