@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cycldek APT targets Vietnamese Military and Government in sophisticated attacks<a href="https://securityaffairs.co/wordpress/116400/apt/cycldek-apt-targets-vietnam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Cycldek is behind an advanced cyberespionage campaign targeting entities in the government and military sector in Vietnam. 
+
+
+
+China-linked APT group LuckyMouse (aka&nbsp;Cycldek,&nbsp;Goblin Panda, Hellsing, APT 27, and Conimes) is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four in ten temporary BYOD policies will become permanent<a href="https://www.scmagazine.com/home/security-news/mobile-security/four-in-ten-temporary-byod-policies-will-become-permanent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from Verizon also noted that 66% of professionals polled said the term “remote work” would die out within five years.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What we know about the SolarWinds ‘Sunburst’ exploit, and why it still matters<a href="https://blog.checkpoint.com/2021/04/05/supply-chain-attacks-what-we-know-about-the-solarwinds-sunburst-exploit-and-why-it-still-matters/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sunburst backdoor gave the APT group access to thousands of SolarWinds customers’ networks, enabling them to explore those networks under the security radars of the organizations’ security teams.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+99% of security pros concerned about their IoT and IIoT security<a href="https://www.helpnetsecurity.com/2021/04/06/iot-iiot-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new survey, 99% of security professionals report challenges with the security of their IoT and IIoT devices, and 95% are concerned about risks associated with these connected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

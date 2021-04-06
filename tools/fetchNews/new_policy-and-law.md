@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Admin of DeepDotWeb (DDW) Pleads Guilty for Connecting Internet users with Darknet Marketplaces<a href="https://cybersecuritynews.com/admin-of-deepdotweb-pleads-guilty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Recently, the administrator of DeepDotWeb, Tal Parihar has pleaded guilty, as he received kickbacks for connecting all the customers like the buyers...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

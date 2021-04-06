@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing attacks are targeting unsecured mission-critical SAP apps<a href="https://www.bleepingcomputer.com/news/security/ongoing-attacks-are-targeting-unsecured-mission-critical-sap-apps/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of New “more_eggs” Attack Targets Linkedln Users With Fake Job Offers<a href="https://cybersecuritynews.com/new-malware-targets-linkedin-users/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare Phishing Incidents Lead to Big Breaches<a href="https://www.govinfosecurity.com/healthcare-phishing-incidents-lead-to-big-breaches-a-16339?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch Out! Mission Critical SAP Applications Are Under Active Attack<a href="https://thehackernews.com/2021/04/watch-out-mission-critical-sap.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AddSecure Acquires Telia Finland’s Alerta Business<a href="https://www.infosecurity-magazine.com:443/news/addsecure-acquires-telia-finland/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cycldek APT targets Vietnamese Military and Government in sophisticated attacks<a href="https://securityaffairs.co/wordpress/116400/apt/cycldek-apt-targets-vietnam.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers actively targeting unsecured SAP installs, DHS, SAP and Onapsis warn<a href="https://www.scmagazine.com/home/patch-management/hackers-actively-targeting-unsecured-sap-installs-dhs-sap-and-onapsis-warn/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Gang Demands $40M Ransom from Florida School District<a href="https://threatpost.com/conti-40m-ransom-florida-school/165258/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EtterSilent maldoc builder used by top cybercriminal gangs<a href="https://www.bleepingcomputer.com/news/security/ettersilent-maldoc-builder-used-by-top-cybercriminal-gangs/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Deliveroo Scared Customers into Believing They Had Been Scammed<a href="https://hotforsecurity.bitdefender.com/blog/how-deliveroo-scared-customers-into-believing-they-had-been-scammed-25598.html?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Bitdefender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE Madness: A Guide to Weathering the Upcoming Vendor Positioning Storm<a href="https://thehackernews.com/2021/04/mitre-madness-guide-to-weathering.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos Links Mount Locker to Astro Locker Ransomware<a href="https://www.infosecurity-magazine.com:443/news/sophos-mount-locker-astro-locker/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four in ten temporary BYOD policies will become permanent<a href="https://www.scmagazine.com/home/security-news/mobile-security/four-in-ten-temporary-byod-policies-will-become-permanent/"> Full Text</a>
@@ -246,7 +246,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Janeleiro Banking Trojan Strikes Companies, Government Agencies in Brazil<a href="https://www.zdnet.com/article/meet-janeleiro-a-new-banking-trojan-striking-corporate-targets/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What we know about the SolarWinds ‘Sunburst’ exploit, and why it still matters<a href="https://blog.checkpoint.com/2021/04/05/supply-chain-attacks-what-we-know-about-the-solarwinds-sunburst-exploit-and-why-it-still-matters/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Check Point Research
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Critical Flaw in Carbon Black Cloud Workload<a href="https://www.securityweek.com/vmware-patches-critical-flaw-carbon-black-cloud-workload?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake LinkedIn job offers scam spreading More_eggs backdoor<a href="https://www.hackread.com/fake-linkedin-job-offers-scam-more-eggs-backdoor/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA: Patch These Three Fortinet Bugs Now to Avoid Compromise<a href="https://www.infosecurity-magazine.com:443/news/patch-fortinet-bugs-now-avoid/"> Full Text</a>
@@ -326,7 +326,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy Concerns Sparked by Rust Programming Language<a href="https://heimdalsecurity.com/blog/rust-programming-language-raises-privacy-concerns/?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This service allows checking if your mobile is included in the Facebook leak<a href="https://securityaffairs.co/wordpress/116405/data-breach/facebook-leak-mobile-check.html"> Full Text</a>
@@ -362,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 99% of security pros concerned about their IoT and IIoT security<a href="https://www.helpnetsecurity.com/2021/04/06/iot-iiot-security/?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Admin of DeepDotWeb (DDW) Pleads Guilty for Connecting Internet users with Darknet Marketplaces<a href="https://cybersecuritynews.com/admin-of-deepdotweb-pleads-guilty/"> Full Text</a>
@@ -394,7 +394,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn Users Targeted by Spear-Phishing Campaign<a href="https://www.infosecurity-magazine.com:443/news/linkedin-users-targeted-by/"> Full Text</a>
@@ -410,7 +410,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Trends With PDF Files in 2020: 5 Approaches Attackers Use<a href="https://unit42.paloaltonetworks.com/phishing-trends-with-pdf-files/?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 33.4% of ICS computers hit by a cyber attack in H2 2020<a href="https://securityaffairs.co/wordpress/116360/ics-scada/ics-statistics-data.html?&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers From China Target Vietnamese Military and Government<a href="https://thehackernews.com/2021/04/hackers-from-china-target-vietnamese.html"> Full Text</a>
@@ -458,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts discovered a privilege escalation issue in popular Umbraco CMS<a href="https://securityaffairs.co/wordpress/116381/security/privilege-escalation-umbraco-cms.html"> Full Text</a>
@@ -478,7 +478,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found critical flaws in Rockwell FactoryTalk AssetCentre<a href="https://securityaffairs.co/wordpress/116391/ics-scada/rockwell-factorytalk-assetcentre-flaws.html"> Full Text</a>
@@ -498,7 +498,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting professionals With 'more_eggs' Malware via LinkedIn Job Offers<a href="https://thehackernews.com/2021/04/hackers-targeting-professionals-with.html"> Full Text</a>
@@ -514,7 +514,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser Locker Ransomware – A Fake Page that Threatens user and demands Ransom<a href="https://cybersecuritynews.com/browser-locker-ransomware-a-fake-page-that-threatens-user-and-demands-ransom/"> Full Text</a>
@@ -530,7 +530,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Probing restrictions may stilt Pentagon’s vulnerability disclosure program for contractors<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/probing-restrictions-may-stilt-pentagons-vulnerability-disclosure-program-for-contractors/"> Full Text</a>

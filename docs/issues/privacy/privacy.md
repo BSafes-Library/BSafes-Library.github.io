@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Concerns Sparked by Rust Programming Language<a href="https://heimdalsecurity.com/blog/rust-programming-language-raises-privacy-concerns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Rust has become a very popular language, for the past five years, developers have been concerned by their production builds leaking potentially sensitive debug information, writes Ax Sharma.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers actively targeting unsecured SAP installs, DHS, SAP and Onapsis warn<a href="https://www.scmagazine.com/home/patch-management/hackers-actively-targeting-unsecured-sap-installs-dhs-sap-and-onapsis-warn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a base of 400,000 clients, SAP chief information security officer said this of the alert: “We want them to be aware of what could be the art of the possible.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers From China Target Vietnamese Military and Government<a href="https://thehackernews.com/2021/04/hackers-from-china-target-vietnamese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group related to a Chinese-speaking threat actor has been linked to an advanced cyberespionage campaign targeting government and military organizations in Vietnam.  The attacks have been attributed with low confidence to the advanced persistent threat (APT) called&nbsp; Cycldek &nbsp;(or Goblin Panda, Hellsing, APT 27, and Conimes), which is known for using spear-phishing techniques to compromise diplomatic targets in Southeast Asia, India, and the U.S. at least since 2013.  According to researchers from Kaspersky, the offensive, which was observed between June 2020 and January 2021, leverages a method called DLL side-loading to execute shellcode that decrypts a final payload dubbed " FoundCore ."   DLL side-loading &nbsp;has been a tried-and-tested technique used by various threat actors as an obfuscation tactic to bypass antivirus defenses. By loading malicious DLLs into legitimate executables, the idea is to mask their malicious activity under a trusted system or software proc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

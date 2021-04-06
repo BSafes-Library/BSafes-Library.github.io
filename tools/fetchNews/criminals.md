@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did Facebook’s business model make the company an easier target for cybercriminals?<a href="https://www.scmagazine.com/home/security-news/data-breach/did-facebooks-business-model-make-the-company-an-easier-target-for-cybercriminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some researchers argue that the situation showcases why Facebook must revisit how it handles and secures personal information.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pastor Charged with Sharing CSAM<a href="https://www.infosecurity-magazine.com:443/news/pastor-charged-with-sharing-csam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Daytona Beach pastor allegedly shared child sexual abuse material in online chat rooms
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

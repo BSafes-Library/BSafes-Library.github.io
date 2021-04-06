@@ -11,6 +11,20 @@ nav_order: 900056
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Encryption debate could have enterprise security implications<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/encryption-debate-could-have-enterprise-security-implications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the United Kingdom reignites the debate over data encryption, concern about trickle down impact to businesses emerge.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Encryption is either secure or it’s not – there is no middle ground<a href="https://www.helpnetsecurity.com/2021/04/05/weak-encryption/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

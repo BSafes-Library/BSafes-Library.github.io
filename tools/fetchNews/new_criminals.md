@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EtterSilent maldoc builder used by top cybercriminal gangs<a href="https://www.bleepingcomputer.com/news/security/ettersilent-maldoc-builder-used-by-top-cybercriminal-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious document builder named EtterSilent is gaining more attention on underground forums, security researchers note. As its popularity increased, the developer kept improving it to avoid detection from security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

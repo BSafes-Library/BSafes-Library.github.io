@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scholarship program to help aspiring NYC cyber pros hit financially by COVID<a href="https://www.scmagazine.com/home/security-news/news-archive/coronavirus/scholarship-program-to-help-aspiring-nyc-cyber-pros-hit-financially-by-covid/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media presents a Q&amp;A with Fullstack Academy’s NYC campus director and the NYC Economic Development Corporation’s assistant VP of emerging tech initiatives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

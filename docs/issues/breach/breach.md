@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AddSecure Acquires Telia Finland’s Alerta Business<a href="https://www.infosecurity-magazine.com:443/news/addsecure-acquires-telia-finland/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will act as a platform for AddSecure to grow its business
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This service allows checking if your mobile is included in the Facebook leak<a href="https://securityaffairs.co/wordpress/116405/data-breach/facebook-leak-mobile-check.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher implemented a service to verify if your mobile number is included in the recent Facebook data leak.
+
+
+
+Security researcher Yaser Alosefer developed a new tool to help users to determine if their mobile numbers are included within...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

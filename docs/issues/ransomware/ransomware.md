@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Gang Demands $40M Ransom from Florida School District<a href="https://threatpost.com/conti-40m-ransom-florida-school/165258/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New details of negotiation between attackers and officials from Broward County Public Schools emerge after a ransomware attack early last month.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Links Mount Locker to Astro Locker Ransomware<a href="https://www.infosecurity-magazine.com:443/news/sophos-mount-locker-astro-locker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts suspect branding move to kick-start affiliate program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Locker Ransomware – A Fake Page that Threatens user and demands Ransom<a href="https://cybersecuritynews.com/browser-locker-ransomware-a-fake-page-that-threatens-user-and-demands-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Browser lockers are also known as browlocks, are a class of online threats that prevent the victim from using the browser and...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

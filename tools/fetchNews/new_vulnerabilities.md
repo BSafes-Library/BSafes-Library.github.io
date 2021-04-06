@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing attacks are targeting unsecured mission-critical SAP apps<a href="https://www.bleepingcomputer.com/news/security/ongoing-attacks-are-targeting-unsecured-mission-critical-sap-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting mission-critical SAP enterprise applications unsecured against already patched vulnerabilities, exposing the networks of&nbsp;commercial and government organizations to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Mission Critical SAP Applications Are Under Active Attack<a href="https://thehackernews.com/2021/04/watch-out-mission-critical-sap.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber attackers are actively setting their sights on unsecured SAP applications in an attempt to steal information and sabotage critical processes, according to new research.  "Observed exploitation could lead in many cases to full control of the unsecured SAP application, bypassing common security and compliance controls, and enabling attackers to steal sensitive information, perform financial fraud or disrupt mission-critical business processes by deploying ransomware or stopping operations," cybersecurity firm Onapsis and SAP&nbsp; said &nbsp;in a joint report published today.  The Boston-based company said it detected over 300 successful exploitations out of a total of 1,500 attempts targeting previously known vulnerabilities and insecure configurations specific to SAP systems between mid-2020 to March 2021, with multiple brute-force attempts made by adversaries aimed at high-privilege SAP accounts as well as chaining together several flaws to strike SAP applications.   Applicatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Critical Flaw in Carbon Black Cloud Workload<a href="https://www.securityweek.com/vmware-patches-critical-flaw-carbon-black-cloud-workload?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-21982 and featuring a CVSS score of 9.1, the vulnerability could allow attackers to bypass authentication through manipulation of a URL on the interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered a privilege escalation issue in popular Umbraco CMS<a href="https://securityaffairs.co/wordpress/116381/security/privilege-escalation-umbraco-cms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a vulnerability in the popular CMS Umbraco that could allow low privileged users to escalate privileges to "admin."
+
+
+
+Security experts from Trustwave&nbsp;have discovered a privilege escalation vulnerability in the popular website CMS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found critical flaws in Rockwell FactoryTalk AssetCentre<a href="https://securityaffairs.co/wordpress/116391/ics-scada/rockwell-factorytalk-assetcentre-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rockwell Automation has recently addressed nine critical vulnerabilities in its FactoryTalk AssetCentre product with the release of version v11.
+
+
+
+The American provider of industrial automation Rockwell Automation on Thursday informed customers that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Probing restrictions may stilt Pentagon’s vulnerability disclosure program for contractors<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/probing-restrictions-may-stilt-pentagons-vulnerability-disclosure-program-for-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The push and pull between the military and security researchers is  indicative of more widespread tensions that needs to be surmounted if the Pentagon wants to secure its contracting base.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

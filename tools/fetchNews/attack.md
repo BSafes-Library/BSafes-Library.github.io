@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Infrastructure Used to Mine Cryptocurrency<a href="https://heimdalsecurity.com/blog/github-infrastructure-used-to-mine-cryptocurrency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors seem to be targeting repositories that have GitHub Actions enabled in order to be able to add malicious Actions and fill Pull Requests aimed at executing malicious attacker code.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
