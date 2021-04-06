@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Locker Ransomware – A Fake Page that Threatens user and demands Ransom<a href="https://cybersecuritynews.com/browser-locker-ransomware-a-fake-page-that-threatens-user-and-demands-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Browser lockers are also known as browlocks, are a class of online threats that prevent the victim from using the browser and...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
