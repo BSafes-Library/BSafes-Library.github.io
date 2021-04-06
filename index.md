@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting professionals With 'more_eggs' Malware via LinkedIn Job Offers<a href="https://thehackernews.com/2021/04/hackers-targeting-professionals-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new spear-phishing campaign is targeting professionals on LinkedIn with weaponized job offers in an attempt to infect targets with a sophisticated backdoor trojan called "more_eggs."  To increase the odds of success, the phishing lures take advantage of malicious ZIP archive files that have the same name as that of the victims' job titles taken from their LinkedIn profiles.  "For example, if the LinkedIn member's job is listed as Senior Account Executive—International Freight the malicious zip file would be titled Senior Account Executive—International Freight position (note the 'position' added to the end)," cybersecurity firm eSentire's Threat Response Unit (TRU)  said  in an analysis. "Upon opening the fake job offer, the victim unwittingly initiates the stealthy installation of the fileless backdoor, more_eggs."   Campaigns delivering more_eggs using the  same modus operandi  have been spotted at least since 2018, with the backdo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
