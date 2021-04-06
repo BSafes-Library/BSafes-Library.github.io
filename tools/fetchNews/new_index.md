@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+99% of security pros concerned about their IoT and IIoT security<a href="https://www.helpnetsecurity.com/2021/04/06/iot-iiot-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new survey, 99% of security professionals report challenges with the security of their IoT and IIoT devices, and 95% are concerned about risks associated with these connected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Admin of DeepDotWeb (DDW) Pleads Guilty for Connecting Internet users with Darknet Marketplaces<a href="https://cybersecuritynews.com/admin-of-deepdotweb-pleads-guilty/"> Full Text</a>
 </p>
 <details>
