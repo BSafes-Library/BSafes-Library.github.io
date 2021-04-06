@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing attacks are targeting unsecured mission-critical SAP apps<a href="https://www.bleepingcomputer.com/news/security/ongoing-attacks-are-targeting-unsecured-mission-critical-sap-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting mission-critical SAP enterprise applications unsecured against already patched vulnerabilities, exposing the networks of commercial and government organizations to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of New “more_eggs” Attack Targets Linkedln Users With Fake Job Offers<a href="https://cybersecuritynews.com/new-malware-targets-linkedin-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Hackers spear-phishing business professionals on LinkedIn with fake job offers and infecting them with malware warns eSentire.  eSentire, a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare Phishing Incidents Lead to Big Breaches<a href="https://www.govinfosecurity.com/healthcare-phishing-incidents-lead-to-big-breaches-a-16339?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As healthcare organizations continue to fall victim to phishing incidents, the number of individuals affected by health data breaches involving compromised email accounts continues to rise.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Mission Critical SAP Applications Are Under Active Attack<a href="https://thehackernews.com/2021/04/watch-out-mission-critical-sap.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber attackers are actively setting their sights on unsecured SAP applications in an attempt to steal information and sabotage critical processes, according to new research.  "Observed exploitation could lead in many cases to full control of the unsecured SAP application, bypassing common security and compliance controls, and enabling attackers to steal sensitive information, perform financial fraud or disrupt mission-critical business processes by deploying ransomware or stopping operations," cybersecurity firm Onapsis and SAP  said  in a joint report published today.  The Boston-based company said it detected over 300 successful exploitations out of a total of 1,500 attempts targeting previously known vulnerabilities and insecure configurations specific to SAP systems between mid-2020 to March 2021, with multiple brute-force attempts made by adversaries aimed at high-privilege SAP accounts as well as chaining together several flaws to strike SAP applications.   Applicatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AddSecure Acquires Telia Finland’s Alerta Business<a href="https://www.infosecurity-magazine.com:443/news/addsecure-acquires-telia-finland/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will act as a platform for AddSecure to grow its business
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cycldek APT targets Vietnamese Military and Government in sophisticated attacks<a href="https://securityaffairs.co/wordpress/116400/apt/cycldek-apt-targets-vietnam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Cycldek is behind an advanced cyberespionage campaign targeting entities in the government and military sector in Vietnam. 
+
+
+
+China-linked APT group LuckyMouse (aka Cycldek, Goblin Panda, Hellsing, APT 27, and Conimes) is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers actively targeting unsecured SAP installs, DHS, SAP and Onapsis warn<a href="https://www.scmagazine.com/home/patch-management/hackers-actively-targeting-unsecured-sap-installs-dhs-sap-and-onapsis-warn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a base of 400,000 clients, SAP chief information security officer said this of the alert: “We want them to be aware of what could be the art of the possible.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Gang Demands $40M Ransom from Florida School District<a href="https://threatpost.com/conti-40m-ransom-florida-school/165258/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New details of negotiation between attackers and officials from Broward County Public Schools emerge after a ransomware attack early last month.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EtterSilent maldoc builder used by top cybercriminal gangs<a href="https://www.bleepingcomputer.com/news/security/ettersilent-maldoc-builder-used-by-top-cybercriminal-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious document builder named EtterSilent is gaining more attention on underground forums, security researchers note. As its popularity increased, the developer kept improving it to avoid detection from security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Deliveroo Scared Customers into Believing They Had Been Scammed<a href="https://hotforsecurity.bitdefender.com/blog/how-deliveroo-scared-customers-into-believing-they-had-been-scammed-25598.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deliveroo’s email has similarities to the scams we see arriving in users’ inboxes every day, purporting to be for expensive orders, that trick unsuspecting recipients to click on links in a panic.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE Madness: A Guide to Weathering the Upcoming Vendor Positioning Storm<a href="https://thehackernews.com/2021/04/mitre-madness-guide-to-weathering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+April is usually a whirlwind month for the cybersecurity industry as it coincides with the release of the highly regarded and influential MITRE ATT&CK test results. The ATT&CK test measures cybersecurity platforms' abilities to detect and react to emulated, multistep attacks that can be used as a barometer of platform effectiveness.   This means that every cybersecurity vendor will be tripping over themselves to push out blog posts, webinars, press releases, and more touting how great their services are and how the results validate their products.  The result is a storm of spin and PR that is hard to navigate. An upcoming webinar offered by Cynet ( register here ) aims to help industry participants differentiate the spin from the real information when it comes to MITRE ATT&CK results.  The Webinar will be led by renowned cybersecurity researcher and Chief Security Strategist for Cynet, Chris Roberts, and Director of Product Marketing for Cynet, George Tubin. The conver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Links Mount Locker to Astro Locker Ransomware<a href="https://www.infosecurity-magazine.com:443/news/sophos-mount-locker-astro-locker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts suspect branding move to kick-start affiliate program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four in ten temporary BYOD policies will become permanent<a href="https://www.scmagazine.com/home/security-news/mobile-security/four-in-ten-temporary-byod-policies-will-become-permanent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from Verizon also noted that 66% of professionals polled said the term “remote work” would die out within five years.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Janeleiro Banking Trojan Strikes Companies, Government Agencies in Brazil<a href="https://www.zdnet.com/article/meet-janeleiro-a-new-banking-trojan-striking-corporate-targets/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A banking Trojan striking corporate targets across Brazil has been unmasked by researchers. On Tuesday, ESET published an advisory on the malware, which has been in development since 2018.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What we know about the SolarWinds ‘Sunburst’ exploit, and why it still matters<a href="https://blog.checkpoint.com/2021/04/05/supply-chain-attacks-what-we-know-about-the-solarwinds-sunburst-exploit-and-why-it-still-matters/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sunburst backdoor gave the APT group access to thousands of SolarWinds customers’ networks, enabling them to explore those networks under the security radars of the organizations’ security teams.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Critical Flaw in Carbon Black Cloud Workload<a href="https://www.securityweek.com/vmware-patches-critical-flaw-carbon-black-cloud-workload?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-21982 and featuring a CVSS score of 9.1, the vulnerability could allow attackers to bypass authentication through manipulation of a URL on the interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake LinkedIn job offers scam spreading More_eggs backdoor<a href="https://www.hackread.com/fake-linkedin-job-offers-scam-more-eggs-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the More_eggs backdoor can also exfiltrate data from a device putting your social media accounts, emails, browsing history, cryptocurrency wallets at risk of being stolen.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
