@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 06, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Intel heads to resume threats hearing scrapped under Trump | New small business coalition to urge action on antitrust policy | Amazon backs corporate tax hike to pay for infrastructure<a href="https://thehill.com//policy/technology/overnights/546799-hillicon-valley-intel-heads-to-resume-threats-hearing-scrapped"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House and Senate Intelligence panels will hold hearings to examine worldwide threats, including those in the cyber and technology spaces, next week after a two-year gap. Meanwhile, a new coalition of independent businesses is targeting Amazon as it pushes for a revamp of federal antitrust policy, and Amazon CEO Jeff BezosJeffrey (Jeff) Preston BezosAmazon union vote count starts this week for Alabama warehouse Amazon tangles with Warren on Twitter Sanders says he isn't 'comfortable' with Twitter's Trump ban MORE is throwing his weight behind raising the corporate tax rate to pay for President BidenJoe BidenJoe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE’s infrastructure package. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Windows XP makes ransomware gangs work harder for their money<a href="https://www.bleepingcomputer.com/news/security/windows-xp-makes-ransomware-gangs-work-harder-for-their-money/"> Full Text</a>
 </p>
 <details>
