@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows XP makes ransomware gangs work harder for their money<a href="https://www.bleepingcomputer.com/news/security/windows-xp-makes-ransomware-gangs-work-harder-for-their-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently created ransomware decryptor illustrates how threat actors have to support Windows XP, even when Microsoft dropped supporting it seven years ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scraped data of 500 million LinkedIn users being sold online, 2 million records leaked as proof<a href="https://cybernews.com/news/stolen-data-of-500-million-linkedin-users-being-sold-online-2-million-leaked-as-proof-2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked files contain information of the LinkedIn users whose data has been allegedly scraped, including their full names, email addresses, phone numbers, workplace information, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook removes over 1,100 accounts spreading deceptive content<a href="https://thehill.com//policy/cybersecurity/546796-facebook-removes-over-1100-accounts-spreading-deceptive-content"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Tuesday announced that during March it removed more than 1,100 accounts tied to spreading deceptive content in a variety of countries as part of its effort to root out domestic and international disinformation efforts. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida School District Held to Impossibly High Ransom<a href="https://www.infosecurity-magazine.com:443/news/florida-school-district-40m-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators demand $40m from Broward County Public Schools system
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP systems are targeted within 72 hours after updates are released<a href="https://securityaffairs.co/wordpress/116431/reports/sap-systems-under-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On-premises SAP systems are targeted by threat actors within 72 hours after security patches are released, security SAP security firm Onapsis warns.
+
+
+
+According to a joint study published by Onapsis and SAP, on-premises SAP systems are targeted by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers rush to new doc builder that uses Macro-exploit, posing as DocuSign<a href="https://www.scmagazine.com/home/security-news/ransomware/hackers-rush-to-new-doc-builder-that-uses-macro-exploit-posing-as-docusign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s use in Trickbot and BazarLoader campaigns puts EtterSilent at the front end of attack chains for two of the most popular ransomware precursors in the world.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cloud Bug in VMWare Carbon Black Allows Takeover<a href="https://threatpost.com/critical-cloud-bug-vmware-carbon-black/165278/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-21982 affects a platform designed to secure private clouds, and the virtual servers and workloads that they contain.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned adds search for leaked Facebook phone numbers<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-search-for-leaked-facebook-phone-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook users can now use the Have I Been Pwned data breach notification site to check if their phone number was exposed in the social site's recent data leak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third-party security breach compromises data of Singapore job-matching service<a href="https://www.zdnet.com/article/third-party-security-breach-compromises-data-of-singapore-job-matching-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal details of 30,000 individuals in Singapore may have been illegally accessed, following a security breach that targeted a third-party vendor of a job-matching organization on March 12.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators call for update on investigations into SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/546776-senators-call-for-update-on-investigations-into-solarwinds-microsoft"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan leaders of a key Senate panel on Tuesday pressed the Biden administration for more information on its investigation into two recent, massive foreign espionage hacking incidents.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parrot Launches Bug Bounty Program<a href="https://www.infosecurity-magazine.com:443/news/parrot-launches-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European drone group partners with YesWeHack to launch a Bug Bounty program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Selling Intimate Stolen Camera Footage<a href="https://threatpost.com/chinese-hackers-intimate-camera-footage/165281/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive operation offers access to hacked camera feeds in bedrooms and at hotels.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Commission, other EU orgs recently hit by cyber-attack<a href="https://www.bleepingcomputer.com/news/security/european-commission-other-eu-orgs-recently-hit-by-cyber-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission and several other European Union organizations were hit by a cyberattack in March according to a European Commission spokesperson.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel heads to resume worldwide threats hearing scrapped under Trump<a href="https://thehill.com//policy/national-security/546747-biden-intel-heads-to-resume-worldwide-threats-hearing-abandoned-by"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House and Senate Intelligence committees will question leaders of five major intelligence and security agencies next week, resuming the annual tradition of a worldwide threats hearing that was abandoned under the Trump administration.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Considers Social Media ID Requirement<a href="https://www.infosecurity-magazine.com:443/news/australia-considers-social-media/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aussies may have to prove who they are to use online dating and social media accounts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sells $38M worth of gift cards from thousands of shops<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-38m-worth-of-gift-cards-from-thousands-of-shops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacker has sold on a top-tier underground forum close to 900,000 gift cards with a total value estimated at $38 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hits TU Dublin and National College of Ireland<a href="https://www.bleepingcomputer.com/news/security/ransomware-hits-tu-dublin-and-national-college-of-ireland/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National College of Ireland is working on restoring IT services after being hit by a ransomware attack over the weekend that forced the college to take IT systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
