@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Probing restrictions may stilt Pentagon’s vulnerability disclosure program for contractors<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/probing-restrictions-may-stilt-pentagons-vulnerability-disclosure-program-for-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The push and pull between the military and security researchers is  indicative of more widespread tensions that needs to be surmounted if the Pentagon wants to secure its contracting base.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 05, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
