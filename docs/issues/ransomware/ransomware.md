@@ -11,6 +11,20 @@ nav_order: 900180
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Hits Broward County Public Schools with $40 Million Ransom<a href="https://heimdalsecurity.com/blog/broward-county-public-schools-hit-with-40-million-ransom/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several weeks ago, the Conti ransomware gang targeted Broward County Public Schools and threatened to leak sensitive personal data of students and staff unless the district paid a $40 million ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The “Fair” Upgrade Variant of Phobos Ransomware<a href="https://blog.morphisec.com/the-fair-upgrade-variant-of-phobos-ransomware?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

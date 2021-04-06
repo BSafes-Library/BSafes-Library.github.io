@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser lockers: Extortion disguised as a fine<a href="https://securelist.com/browser-lockers-extortion-disguised-as-a-fine/101735/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It includes imitating the “blue screen of death” (BSOD) in the browser, false warnings about system errors or detected viruses, threats to encrypt files, legal liability notices, and many others.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals send out fake “census form” reminder – don’t fall for it!<a href="https://nakedsecurity.sophos.com/2021/04/02/criminals-send-out-fake-census-form-reminder-dont-fall-for-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The server name used in the scam is obviously fake because it doesn’t end in .gov.uk, which is a controlled domain available only to official national, regional and local government bodies in the UK.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

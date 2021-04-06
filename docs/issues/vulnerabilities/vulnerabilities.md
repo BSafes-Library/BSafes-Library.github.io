@@ -11,6 +11,20 @@ nav_order: 900220
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple Mail Zero-Click Security Vulnerability Allows Email Snooping<a href="https://threatpost.com/apple-mail-zero-click-security-vulnerability/165238/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researcher is offering details on CVE-2020-9922, which can be triggered just by sending a target an email with two .ZIP files attached.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Firmware attacks, a grey area in cybersecurity of organizations<a href="https://securityaffairs.co/wordpress/116344/hacking/firmware-attacks-microsoft-survey.html"> Full Text</a>
 </p>
 <details>

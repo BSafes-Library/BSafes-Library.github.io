@@ -11,6 +11,34 @@ nav_order: 900160
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn Spear-Phishing Campaign Targets Job Hunters<a href="https://threatpost.com/linkedin-spear-phishing-job-hunters/165240/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake job offers lure professionals into downloading the more_eggs backdoor trojan.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten and Medical Researchers - A Cat and Mouse Game<a href="https://cyware.com/news/charming-kitten-and-medical-researchers-a-cat-and-mouse-game-3dd79d42"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This late-2020 spearphishing campaign aimed to steal the credentials of 25 senior medical researchers in oncology, neurology, and genetic research in the U.S. and Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Browser lockers: Extortion disguised as a fine<a href="https://securelist.com/browser-lockers-extortion-disguised-as-a-fine/101735/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

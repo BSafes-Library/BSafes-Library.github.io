@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+33.4% of ICS computers hit by a cyber attack in H2 2020<a href="https://securityaffairs.co/wordpress/116360/ics-scada/ics-statistics-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+H2 2020 - Kaspersky observed an increase in ransomware attacks on industrial control system (ICS) systems in developed countries.
+
+
+
+Cybersecurity firm Kaspersky has published the Industrial Control System Threat Landscape report for H2 2020 which is based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How cloud architectures defend against the cyber attack surge<a href="https://venturebeat.com/2021/04/04/how-cloud-architectures-defend-against-the-cyber-attack-surge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If your applications are leveraging a distributed delivery model, for example leveraging cloud-based services such as content delivery networks (CDNs), then you have to worry less about DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

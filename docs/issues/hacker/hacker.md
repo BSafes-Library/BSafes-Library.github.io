@@ -11,6 +11,48 @@ nav_order: 900080
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Spy Operations Target Vietnam with Sophisticated RAT<a href="https://threatpost.com/spy-operations-vietnam-rat/165243/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers said the FoundCore malware represents a big step forward when it comes to evasion.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Once Again, North Korean Hackers Target Security Researchers<a href="https://cyware.com/news/once-again-north-korean-hackers-target-security-researchers-df676078"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Google's Threat Analysis Group (TAG), the attackers created a website for a fake company offering offensive security services to attract security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Behind Hancitor Malware uses Network Ping Tool to Enumerate Active Directory (AD) Environment<a href="https://cybersecuritynews.com/hancitor-malware-network-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Hancitor is an information stealer and malware downloader used by a threat actor designated as MAN1, Moskalvzapoe, or TA511.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The leap of a Cycldek-related threat actor<a href="https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,94 @@ nav_order: 900029
 
 ## Breach
 ---
+April 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adult content from hundreds of OnlyFans creators leaked online<a href="https://www.bleepingcomputer.com/news/security/adult-content-from-hundreds-of-onlyfans-creators-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a shared Google Drive was posted online containing the private videos and images from many OnlyFans accounts, a researcher has created a tool allowing content creators to check if they are part of the leak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+533M Facebook Accounts Leaked Online: Check if You Are Exposed<a href="https://threatpost.com/facebook-accounts-leaked-check-exposed/165245/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An estimated 32 million, of the half-billion of Facebook account details posted online, were tied to US-based accounts. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Altdos Claims to Steal 300,000 Customers’ Data from Furniture Retailer Vhive<a href="https://www.straitstimes.com/singapore/consumer/police-investigating-furniture-retailer-vhives-data-breach-customer-information?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an e-mail to affected customers on Saturday, Altdos said it managed to hack into Vhive three times in nine days and claimed to have stolen information related to over 300,000 customers.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Engineering Oversight” Costs ForceDAO $367k<a href="https://www.infosecurity-magazine.com:443/news/engineering-oversight-costs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploitation by hackers of 183 ETH from newly launched DeFi aggregator was preventable
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of Half a Billion Facebook Users Leaked<a href="https://www.infosecurity-magazine.com:443/news/data-of-half-a-billion-facebook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-intelligence firm finds personal data of 533 million Facebook users posted online
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2,5M+ users can check whether their data were exposed in Facebook data leak<a href="https://securityaffairs.co/wordpress/116371/data-breach/facebook-leak-check.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You can check if your personal information is included in the Facebook data leak by querying the data breach notification service Have I Been Pwned.
+
+
+
+The news of the availability on a hacking forum of the personal information for 533,313,128 Facebook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

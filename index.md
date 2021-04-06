@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2021
+April 05, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adult content from hundreds of OnlyFans creators leaked online<a href="https://www.bleepingcomputer.com/news/security/adult-content-from-hundreds-of-onlyfans-creators-leaked-online/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2021
+April 05, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Supreme Court sides with Google in copyright fight against Oracle | Justices dismiss suit over Trump's blocking of critics on Twitter | Tim Cook hopes Parler will return to Apple Store<a href="https://thehill.com//policy/technology/overnights/546577-hillicon-valley-supreme-court-sides-with-google-in-copyright"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encryption debate could have enterprise security implications<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/encryption-debate-could-have-enterprise-security-implications/"> Full Text</a>
@@ -82,7 +82,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scholarship program to help aspiring NYC cyber pros hit financially by COVID<a href="https://www.scmagazine.com/home/security-news/news-archive/coronavirus/scholarship-program-to-help-aspiring-nyc-cyber-pros-hit-financially-by-covid/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 533M Facebook Accounts Leaked Online: Check if You Are Exposed<a href="https://threatpost.com/facebook-accounts-leaked-check-exposed/165245/"> Full Text</a>
@@ -114,7 +114,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spy Operations Target Vietnam with Sophisticated RAT<a href="https://threatpost.com/spy-operations-vietnam-rat/165243/"> Full Text</a>
@@ -130,7 +130,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2021
+April 05, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Endpoint now supports Windows 10 Arm devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-now-supports-windows-10-arm-devices/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn Spear-Phishing Campaign Targets Job Hunters<a href="https://threatpost.com/linkedin-spear-phishing-job-hunters/165240/"> Full Text</a>
@@ -162,7 +162,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Did Facebook’s business model make the company an easier target for cybercriminals?<a href="https://www.scmagazine.com/home/security-news/data-breach/did-facebooks-business-model-make-the-company-an-easier-target-for-cybercriminals/"> Full Text</a>
@@ -178,7 +178,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Mail Zero-Click Security Vulnerability Allows Email Snooping<a href="https://threatpost.com/apple-mail-zero-click-security-vulnerability/165238/"> Full Text</a>
@@ -194,7 +194,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Once Again, North Korean Hackers Target Security Researchers<a href="https://cyware.com/news/once-again-north-korean-hackers-target-security-researchers-df676078"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Altdos Claims to Steal 300,000 Customers’ Data from Furniture Retailer Vhive<a href="https://www.straitstimes.com/singapore/consumer/police-investigating-furniture-retailer-vhives-data-breach-customer-information?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pastor Charged with Sharing CSAM<a href="https://www.infosecurity-magazine.com:443/news/pastor-charged-with-sharing-csam/"> Full Text</a>
@@ -242,7 +242,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten and Medical Researchers - A Cat and Mouse Game<a href="https://cyware.com/news/charming-kitten-and-medical-researchers-a-cat-and-mouse-game-3dd79d42"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Engineering Oversight” Costs ForceDAO $367k<a href="https://www.infosecurity-magazine.com:443/news/engineering-oversight-costs/"> Full Text</a>
@@ -274,7 +274,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A41APT: An APT Campaign, a Multi-Layer Malware, and Japanese Targets<a href="https://cyware.com/news/a41apt-an-apt-campaign-a-multi-layer-malware-and-japanese-targets-b4bd038c"> Full Text</a>
@@ -290,7 +290,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of Half a Billion Facebook Users Leaked<a href="https://www.infosecurity-magazine.com:443/news/data-of-half-a-billion-facebook/"> Full Text</a>
@@ -306,7 +306,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Behind Hancitor Malware uses Network Ping Tool to Enumerate Active Directory (AD) Environment<a href="https://cybersecuritynews.com/hancitor-malware-network-attacks/"> Full Text</a>
@@ -322,7 +322,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 15 Cybersecurity Pitfalls and Fixes for SMBs<a href="https://threatpost.com/cybersecurity-pitfalls-fixes-smbs/165225/"> Full Text</a>
@@ -338,7 +338,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Infrastructure Used to Mine Cryptocurrency<a href="https://heimdalsecurity.com/blog/github-infrastructure-used-to-mine-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2,5M+ users can check whether their data were exposed in Facebook data leak<a href="https://securityaffairs.co/wordpress/116371/data-breach/facebook-leak-check.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2021
+April 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware Hits Broward County Public Schools with $40 Million Ransom<a href="https://heimdalsecurity.com/blog/broward-county-public-schools-hit-with-40-million-ransom/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2021
+April 05, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the Work-From-Home Shift Impacts SaaS Security<a href="https://thehackernews.com/2021/04/how-work-from-home-shift-impacts-saas.html"> Full Text</a>
