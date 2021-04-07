@@ -34,7 +34,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug allows attackers to hijack Windows time sync software used to track security incidents<a href="https://www.scmagazine.com/home/security-news/bug-allows-attackers-to-hijack-windows-time-sync-software-used-to-track-security-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any disruption to Greyware’s Domain Time II could make it virtually impossible to track a security incident – and any sequence of events that are important to the business or regulators.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Array of recent phishing schemes use personalized job  lures, voice manipulation<a href="https://www.scmagazine.com/home/security-news/phishing/array-of-recent-phishing-schemes-use-personalized-job-lures-voice-manipulation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Golden Chickens gang looks to infect targets with backdoor trojan, while MoleRats actors use audio tool to perhaps sound like women in vishing messages.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Intel heads to resume threats hearing scrapped under Trump | New small business coalition to urge action on antitrust policy | Amazon backs corporate tax hike to pay for infrastructure<a href="https://thehill.com//policy/technology/overnights/546799-hillicon-valley-intel-heads-to-resume-threats-hearing-scrapped"> Full Text</a>
@@ -50,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows XP makes ransomware gangs work harder for their money<a href="https://www.bleepingcomputer.com/news/security/windows-xp-makes-ransomware-gangs-work-harder-for-their-money/"> Full Text</a>
@@ -66,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scraped data of 500 million LinkedIn users being sold online, 2 million records leaked as proof<a href="https://cybernews.com/news/stolen-data-of-500-million-linkedin-users-being-sold-online-2-million-leaked-as-proof-2/?&web_view=true"> Full Text</a>
@@ -82,7 +114,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook removes over 1,100 accounts spreading deceptive content<a href="https://thehill.com//policy/cybersecurity/546796-facebook-removes-over-1100-accounts-spreading-deceptive-content"> Full Text</a>
@@ -98,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida School District Held to Impossibly High Ransom<a href="https://www.infosecurity-magazine.com:443/news/florida-school-district-40m-ransom/"> Full Text</a>
@@ -114,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP systems are targeted within 72 hours after updates are released<a href="https://securityaffairs.co/wordpress/116431/reports/sap-systems-under-attacks.html"> Full Text</a>
@@ -134,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers rush to new doc builder that uses Macro-exploit, posing as DocuSign<a href="https://www.scmagazine.com/home/security-news/ransomware/hackers-rush-to-new-doc-builder-that-uses-macro-exploit-posing-as-docusign/"> Full Text</a>
@@ -150,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Cloud Bug in VMWare Carbon Black Allows Takeover<a href="https://threatpost.com/critical-cloud-bug-vmware-carbon-black/165278/"> Full Text</a>
@@ -166,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Have I Been Pwned adds search for leaked Facebook phone numbers<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-search-for-leaked-facebook-phone-numbers/"> Full Text</a>
@@ -182,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third-party security breach compromises data of Singapore job-matching service<a href="https://www.zdnet.com/article/third-party-security-breach-compromises-data-of-singapore-job-matching-service/?&web_view=true"> Full Text</a>
@@ -198,7 +230,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators call for update on investigations into SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/546776-senators-call-for-update-on-investigations-into-solarwinds-microsoft"> Full Text</a>
@@ -214,7 +246,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Parrot Launches Bug Bounty Program<a href="https://www.infosecurity-magazine.com:443/news/parrot-launches-bug-bounty-program/"> Full Text</a>
@@ -230,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Selling Intimate Stolen Camera Footage<a href="https://threatpost.com/chinese-hackers-intimate-camera-footage/165281/"> Full Text</a>
@@ -246,7 +278,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Commission, other EU orgs recently hit by cyber-attack<a href="https://www.bleepingcomputer.com/news/security/european-commission-other-eu-orgs-recently-hit-by-cyber-attack/"> Full Text</a>
@@ -262,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel heads to resume worldwide threats hearing scrapped under Trump<a href="https://thehill.com//policy/national-security/546747-biden-intel-heads-to-resume-worldwide-threats-hearing-abandoned-by"> Full Text</a>
@@ -278,7 +310,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia Considers Social Media ID Requirement<a href="https://www.infosecurity-magazine.com:443/news/australia-considers-social-media/"> Full Text</a>
@@ -294,7 +326,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker sells $38M worth of gift cards from thousands of shops<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-38m-worth-of-gift-cards-from-thousands-of-shops/"> Full Text</a>
@@ -310,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware hits TU Dublin and National College of Ireland<a href="https://www.bleepingcomputer.com/news/security/ransomware-hits-tu-dublin-and-national-college-of-ireland/"> Full Text</a>
@@ -326,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Gangs Emailing Victim Customers for Leverage - KrebsonSecurity<a href="https://krebsonsecurity.com/2021/04/ransom-gangs-emailing-victim-customers-for-leverage/?&web_view=true"> Full Text</a>
@@ -342,7 +374,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2021
+April 06, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook data leak now under EU data regulator investigation<a href="https://www.bleepingcomputer.com/news/security/facebook-data-leak-now-under-eu-data-regulator-investigation/"> Full Text</a>
@@ -358,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2021
+April 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Grew by 485% in 2020<a href="https://www.infosecurity-magazine.com:443/news/ransomware-attacks-grow-2020/"> Full Text</a>
