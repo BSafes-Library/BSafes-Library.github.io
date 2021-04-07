@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cring ransomware deployed targeting unpatched Fortinet VPN devices<a href="https://securityaffairs.co/wordpress/116480/cyber-crime/cring-ransomware-fortinet-vpn-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are actively exploiting the CVE-2018-13379 flaw in Fortinet VPN to deploy the Cring ransomware to organizations in the industrial sector.
+
+
+
+Threat actors are actively exploiting the CVE-2018-13379 vulnerability in Fortinet VPNs to deploy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
