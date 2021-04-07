@@ -34,6 +34,122 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Windows 10, Exchange, and Teams hacked at Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/microsofts-windows-10-exchange-and-teams-hacked-at-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first day of Pwn2Own 2021, contestants won $440,000 after successfully exploiting previously unknown vulnerabilities to hack Microsoft's Windows 10 OS, the Exchange mail server, and the Teams communication platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aurora campaign: Attacking Azerbaijan using multiple RATs<a href="https://blog.malwarebytes.com/threat-analysis/2021/04/aurora-campaign-attacking-azerbaijan-using-multiple-rats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious document targets the government of Azerbaijan using a SOCAR letter template as a phishing lure. SOCAR is the name of Azerbaijan’s Republic Oil and Gas Company.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own 2021 Day 1 – participants earned more than $500k<a href="https://securityaffairs.co/wordpress/116469/hacking/pwn2own-2021-d1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own 2021 hacking competition has begun and white hat hackers participants earned more than $500000 on the first day.
+
+
+
+The Pwn2Own 2021 has begun, this year the formula for the popular hacking competition sees the distribution of the participants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IG: Cybersecurity Weaknesses Persist in US Energy Dept.<a href="https://www.govinfosecurity.com/ig-cybersecurity-weaknesses-persist-in-us-energy-dept-a-16348?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity weaknesses persist throughout the U.S. DOE's unclassified networks, including those of the National Nuclear Security Administration, according to an inspector general audit.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust in the Android platform<a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced that the Android Open Source Project (AOSP) now supports the Rust programming language for developing the OS itself to prevent memory safety vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoD Launches Vuln Disclosure Program for Contractor Networks<a href="https://www.securityweek.com/us-dod-launches-vuln-disclosure-program-contractor-networks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Running as a pilot, the DIB-VDP covers participating DoD contractor partner’s information systems and web properties, as well as other assets within scope, and is separate from the existing DoD VDP.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How do I select an attack detection solution for my business?<a href="https://www.helpnetsecurity.com/2021/04/07/select-attack-detection-solution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anuj Goel, CEO, Cyware, says that businesses should look for a solution that brings together siloed security data to boost collaboration in threat response and increases productivity using automation.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
