@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigaset Android phones infected by malware via hacked update server<a href="https://www.bleepingcomputer.com/news/security/gigaset-android-phones-infected-by-malware-via-hacked-update-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Owners of Gigaset Android phones have been repeatedly infected with malware since the end of March after threat actors compromised the vendor's update server in a supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
