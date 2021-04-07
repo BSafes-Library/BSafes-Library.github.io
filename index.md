@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key House leader to press for inclusion of cybersecurity in infrastructure bill<a href="https://thehill.com//policy/cybersecurity/547045-key-house-leader-to-press-for-inclusion-of-cybersecurity-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rep. Yvette Clarke (D-N.Y.), the chair of a key cyber House panel, said Wednesday that she would push for inclusion of language on securing critical systems as part of negotiations around President’s Biden’s infrastructure proposal.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
