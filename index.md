@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts uncover a new Banking Trojan targeting Latin American users<a href="https://thehackernews.com/2021/04/experts-uncover-new-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers on Tuesday revealed details of a new banking trojan targeting corporate users in Brazil at least since 2019 across various sectors such as engineering, healthcare, retail, manufacturing, finance, transportation, and government.  Dubbed " Janeleiro " by Slovak cybersecurity firm ESET, the malware aims to disguise its true intent via lookalike pop-up windows that are designed to resemble the websites of some of the biggest banks in the country, including Itaú Unibanco, Santander, Banco do Brasil, Caixa Econômica Federal, and Banco Bradesco.  "These pop-ups contain fake forms, aiming to trick the malware's victims into entering their banking credentials and personal information that the malware captures and exfiltrates to its [command-and-control] servers," ESET researchers Facundo Muñoz and Matías Porolli said in a write-up.   This modus operandi is not new to banking trojans. In August 2020, ESET uncovered a Latin American (LATAM) banking trojan call
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
