@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+APT Group Using Voice Changing Software in Spear-Phishing Campaign<a href="https://www.securityweek.com/apt-group-using-voice-changing-software-spear-phishing-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sub-group of the 'Molerats' threat-actor has been using voice-changing software to successfully trick targets into installing malware, according to a warning from Cado Security.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA: Patch Legacy SAP Vulnerabilities Urgently<a href="https://www.infosecurity-magazine.com:443/news/cisa-patch-legacy-sap/"> Full Text</a>
 </p>
 <details>
