@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerging hacking tool 'EtterSilent' mimics DocuSign, researchers find<a href="https://www.cyberscoop.com/docusign-security-hack-ettersilent-intel471/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EtterSilent has been advertised in a Russian cybercrime forum and comes in two versions. One exploits a vulnerability in Microsoft Office, CVE-2017-8570, and one uses a malicious macro.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office Depot Configuration Error Exposes One Million Records<a href="https://www.infosecurity-magazine.com:443/news/office-depot-configuration-error/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say Elasticsearch database may have been open for 10 days
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
