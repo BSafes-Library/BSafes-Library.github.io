@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware now changes password to auto-login in Safe Mode<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-now-changes-password-to-auto-login-in-safe-mode/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent change to the REvil ransomware allows the threat actors to automate file encryption via Safe Mode after changing Windows passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes bug allowing remote code execution with root privileges<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-allowing-remote-code-execution-with-root-privileges/"> Full Text</a>
 </p>
 <details>
