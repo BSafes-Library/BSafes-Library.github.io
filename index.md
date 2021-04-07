@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Crooks use Telegram bots and Google Forms to automate phishing<a href="https://securityaffairs.co/wordpress/116459/cyber-crime/telegram-bots-google-forms-phishing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals often use legitimate services such as Google Forms and Telegram to obtain user data stolen on phishing websites to help keep it safe and start using the information immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Netflix App on Google Play Spreads Malware Via WhatsApp<a href="https://threatpost.com/netflix-app-google-play-malware-whatsapp/165288/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The wormable malware spread from Android to Android by sending messages offering free Netflix Premium for 60 days.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting Mission-critical SAP Applications Exploiting known Security Vulnerabilities<a href="https://cybersecuritynews.com/hackers-exploiting-sap-vulnerabilities/"> Full Text</a>
 </p>
 <details>
