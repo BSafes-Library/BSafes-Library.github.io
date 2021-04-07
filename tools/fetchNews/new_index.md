@@ -34,6 +34,222 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook attributes 533 million users' data leak to "scraping" not hacking<a href="https://www.bleepingcomputer.com/news/security/facebook-attributes-533-million-users-data-leak-to-scraping-not-hacking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has now released a public statement clarifying the cause of and addressing some of the concerns related to the recent data leak. As reported last week, information of about 533 million Facebook profiles surfaced on a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coca-Cola trade secret theft underscores importance of insider threat early detection<a href="https://www.csoonline.com/article/3613953/coca-cola-trade-secret-theft-underscores-importance-of-insider-threat-early-detection.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A research engineer used basic exfiltration techniques to steal trade secrets from Coca-Cola, but wasn't caught until she attempted to steal similar data from another company.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp-based wormable Android malware spotted on the Google Play Store<a href="https://thehackernews.com/2021/04/whatsapp-based-wormable-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered yet another piece of wormable Android malware—but this time downloadable directly from the official Google Play Store—that's capable of propagating via WhatsApp messages.  Disguised as a rogue Netflix app under the name of "FlixOnline," the malware comes with features that allow it to automatically reply to a victim's incoming WhatsApp messages with a payload received from a command-and-control (C&C) server.   "The application is actually designed to monitor the user's WhatsApp notifications, and to send automatic replies to the user's incoming messages using content that it receives from a remote C&C server," Check Point researchers said in an analysis  published today.   Besides masquerading as a Netflix app, the malicious "FlixOnline" app also requests intrusive permissions that allow it to create fake Login screens for other apps, with the goal of stealing credentials and gain access to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Concerns Raised Over Scotland’s New #COVID19 Check-In App<a href="https://www.infosecurity-magazine.com:443/news/privacy-covid19-checkin-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check In Scotland uploads and stores venue check-in data to a centralized database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks use Telegram bots and Google Forms to automate phishing<a href="https://securityaffairs.co/wordpress/116459/cyber-crime/telegram-bots-google-forms-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks increasingly often use legitimate services such as Google Forms and Telegram to obtain user data stolen on phishing websites.
+
+
+
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company, has found that cybercriminals...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook: Stolen Data Scraped from Platform in 2019<a href="https://threatpost.com/facebook-stolen-data-scraped/165285/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw that caused the leak of personal data of more than 533 million users over the weekend no longer exists; however, the social media giant still faces an investigation by EU regulators.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware infects wannabe Netflix thieves via WhatsApp<a href="https://www.bleepingcomputer.com/news/security/android-malware-infects-wannabe-netflix-thieves-via-whatsapp/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered Android malware found on Google's Play Store disguised as a Netflix tool is designed to auto-spread to other devices using WhatsApp auto-replies to incoming messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1 Million People Affected by Newly Revealed Accellion Health Data Breaches<a href="https://www.govinfosecurity.com/more-accellion-health-data-breaches-revealed-a-16350?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Months after the December cyberattack on Accellion's File Transfer Appliance, the identities of more healthcare sector entities that were affected continue to come to light.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+11 Useful Security Tips for Securing Your AWS Environment<a href="https://thehackernews.com/2021/04/11-useful-security-tips-for-securing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Want to take advantage of excellent cloud services? Amazon Web Services may be the perfect solution, but don't forget about AWS security.  Whether you want to use AWS for a few things or everything, you need to protect access to it. Then you can make sure your business can run smoothly.  Read on to learn some important AWS security tips.  Use Multi-Factor authentication  When setting up your AWS security settings or adding new users, you should implement multi-factor authentication (MFA). MFA relies on more than one login factor to grant you access to your account.  For example, when you log in to your account, the program might send a code to your mobile phone. Then you must verify that you have that phone and enter the code to access your account.  MFA is an excellent way to protect your data if someone figures out your username and password. This way, you can still have a layer of protection against the hacker.  Create strong passwords  Even with MFA, you should use strong, uni
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Industry Must Find Solutions for Third Party Data Security<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-industry-solutions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing use of third parties has thrown up major data security challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigaset Android smartphones infected with malware after supply chain attack<a href="https://securityaffairs.co/wordpress/116450/cyber-crime/gigaset-malware-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new supply chain attack made the headlines, threat actors compromised at least one update server of smartphone maker Gigaset to deliver malware.
+
+
+
+The German device maker Gigaset was the victim of supply chain attack, threat actors compromised at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One of WFH's biggest losers: Cybersecurity<a href="https://edition.cnn.com/2021/04/06/tech/cybersecurity-risks-mobile-devices-report/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly half of businesses say work-from-home policies have hurt their cybersecurity practices, according to Verizon's (VZ) 2021 Mobile Security Index, published on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable Netflix Malware Spreads Via WhatsApp Messages<a href="https://www.infosecurity-magazine.com:443/news/wormable-netflix-malware-spreads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point says threat is designed to phish for log-ins and card details
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
