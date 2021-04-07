@@ -11,6 +11,48 @@ nav_order: 900029
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scraped data of 500 million LinkedIn users being sold online, 2 million records leaked as proof<a href="https://cybernews.com/news/stolen-data-of-500-million-linkedin-users-being-sold-online-2-million-leaked-as-proof-2/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked files contain information of the LinkedIn users whose data has been allegedly scraped, including their full names, email addresses, phone numbers, workplace information, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned adds search for leaked Facebook phone numbers<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-search-for-leaked-facebook-phone-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook users can now use the Have I Been Pwned data breach notification site to check if their phone number was exposed in the social site's recent data leak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third-party security breach compromises data of Singapore job-matching service<a href="https://www.zdnet.com/article/third-party-security-breach-compromises-data-of-singapore-job-matching-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal details of 30,000 individuals in Singapore may have been illegally accessed, following a security breach that targeted a third-party vendor of a job-matching organization on March 12.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AddSecure Acquires Telia Finland’s Alerta Business<a href="https://www.infosecurity-magazine.com:443/news/addsecure-acquires-telia-finland/"> Full Text</a>
 </p>
 <details>

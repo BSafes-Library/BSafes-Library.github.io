@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP systems are targeted within 72 hours after updates are released<a href="https://securityaffairs.co/wordpress/116431/reports/sap-systems-under-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On-premises SAP systems are targeted by threat actors within 72 hours after security patches are released, security SAP security firm Onapsis warns.
+
+
+
+According to a joint study published by Onapsis and SAP, on-premises SAP systems are targeted by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cloud Bug in VMWare Carbon Black Allows Takeover<a href="https://threatpost.com/critical-cloud-bug-vmware-carbon-black/165278/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-21982 affects a platform designed to secure private clouds, and the virtual servers and workloads that they contain.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parrot Launches Bug Bounty Program<a href="https://www.infosecurity-magazine.com:443/news/parrot-launches-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European drone group partners with YesWeHack to launch a Bug Bounty program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

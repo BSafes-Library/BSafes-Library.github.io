@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Intel heads to resume threats hearing scrapped under Trump | New small business coalition to urge action on antitrust policy | Amazon backs corporate tax hike to pay for infrastructure<a href="https://thehill.com//policy/technology/overnights/546799-hillicon-valley-intel-heads-to-resume-threats-hearing-scrapped"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House and Senate Intelligence panels will hold hearings to examine worldwide threats, including those in the cyber and technology spaces, next week after a two-year gap. Meanwhile, a new coalition of independent businesses is targeting Amazon as it pushes for a revamp of federal antitrust policy, and Amazon CEO Jeff BezosJeffrey (Jeff) Preston BezosAmazon union vote count starts this week for Alabama warehouse Amazon tangles with Warren on Twitter Sanders says he isn't 'comfortable' with Twitter's Trump ban MORE is throwing his weight behind raising the corporate tax rate to pay for President BidenJoe BidenJoe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE’s infrastructure package.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Considers Social Media ID Requirement<a href="https://www.infosecurity-magazine.com:443/news/australia-considers-social-media/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aussies may have to prove who they are to use online dating and social media accounts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

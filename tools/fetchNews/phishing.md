@@ -8,6 +8,90 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of New “more_eggs” Attack Targets Linkedln Users With Fake Job Offers<a href="https://cybersecuritynews.com/new-malware-targets-linkedin-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Hackers spear-phishing business professionals on LinkedIn with fake job offers and infecting them with malware warns eSentire.  eSentire, a...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare Phishing Incidents Lead to Big Breaches<a href="https://www.govinfosecurity.com/healthcare-phishing-incidents-lead-to-big-breaches-a-16339?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As healthcare organizations continue to fall victim to phishing incidents, the number of individuals affected by health data breaches involving compromised email accounts continues to rise.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Deliveroo Scared Customers into Believing They Had Been Scammed<a href="https://hotforsecurity.bitdefender.com/blog/how-deliveroo-scared-customers-into-believing-they-had-been-scammed-25598.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deliveroo’s email has similarities to the scams we see arriving in users’ inboxes every day, purporting to be for expensive orders, that trick unsuspecting recipients to click on links in a panic.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake LinkedIn job offers scam spreading More_eggs backdoor<a href="https://www.hackread.com/fake-linkedin-job-offers-scam-more-eggs-backdoor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the More_eggs backdoor can also exfiltrate data from a device putting your social media accounts, emails, browsing history, cryptocurrency wallets at risk of being stolen.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn Users Targeted by Spear-Phishing Campaign<a href="https://www.infosecurity-magazine.com:443/news/linkedin-users-targeted-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Golden Chickens group goes gunning for job-seekers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Trends With PDF Files in 2020: 5 Approaches Attackers Use<a href="https://unit42.paloaltonetworks.com/phishing-trends-with-pdf-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To lure users into clicking on embedded links and buttons in phishing PDF files, Unit 42 identified the top five schemes grouped as Fake Captcha, Coupon, Play Button, File Sharing, and E-commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

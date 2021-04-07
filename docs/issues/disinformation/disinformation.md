@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook removes over 1,100 accounts spreading deceptive content<a href="https://thehill.com//policy/cybersecurity/546796-facebook-removes-over-1100-accounts-spreading-deceptive-content"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Tuesday announced that during March it removed&nbsp;more than 1,100 accounts tied to spreading deceptive content in a variety of countries as part of its effort to root out domestic and international disinformation efforts.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

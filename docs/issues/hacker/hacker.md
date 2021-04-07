@@ -11,6 +11,34 @@ nav_order: 900080
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Selling Intimate Stolen Camera Footage<a href="https://threatpost.com/chinese-hackers-intimate-camera-footage/165281/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive operation offers access to hacked camera feeds in bedrooms and at hotels.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sells $38M worth of gift cards from thousands of shops<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-38m-worth-of-gift-cards-from-thousands-of-shops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacker has sold on a top-tier underground forum close to 900,000 gift cards with a total value estimated at $38 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers actively targeting unsecured SAP installs, DHS, SAP and Onapsis warn<a href="https://www.scmagazine.com/home/patch-management/hackers-actively-targeting-unsecured-sap-installs-dhs-sap-and-onapsis-warn/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE Madness: A Guide to Weathering the Upcoming Vendor Positioning Storm<a href="https://thehackernews.com/2021/04/mitre-madness-guide-to-weathering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+April is usually a whirlwind month for the cybersecurity industry as it coincides with the release of the highly regarded and influential MITRE ATT&amp;CK test results. The ATT&amp;CK test measures cybersecurity platforms' abilities to detect and react to emulated, multistep attacks that can be used as a barometer of platform effectiveness.&nbsp;  This means that every cybersecurity vendor will be tripping over themselves to push out blog posts, webinars, press releases, and more touting how great their services are and how the results validate their products.  The result is a storm of spin and PR that is hard to navigate. An upcoming webinar offered by Cynet ( register here ) aims to help industry participants differentiate the spin from the real information when it comes to MITRE ATT&amp;CK results.  The Webinar will be led by renowned cybersecurity researcher and Chief Security Strategist for Cynet, Chris Roberts, and Director of Product Marketing for Cynet, George Tubin. The conver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

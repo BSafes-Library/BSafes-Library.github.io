@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook data leak now under EU data regulator investigation<a href="https://www.bleepingcomputer.com/news/security/facebook-data-leak-now-under-eu-data-regulator-investigation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's Data Protection Commission (DPC) is investigating a massive data leak concerning a database containing personal information belonging to more than 530 million Facebook users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
