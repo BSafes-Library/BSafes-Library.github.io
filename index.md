@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perpetual Disruption: What is Good Cybersecurity Governance in Health Care?<a href="https://securityintelligence.com/articles/perpetual-disruption-part-1-cybersecurity-governance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The appeal of disruptive technologies is that they offer clearly improved ways of doing things. But it also means facing new openings for threat actors, which brings the CISO role into focus.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android to Support Rust Programming Language to Prevent Memory Flaws<a href="https://thehackernews.com/2021/04/android-to-support-rust-programming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced that its open source version of the Android operating system will add support for Rust programming language in a bid to prevent memory safety bugs.  To that end, the company has been building parts of the Android Open Source Project (AOSP) with Rust for the past 18 months, with plans in the pipeline to scale this initiative to cover more aspects of the operating system.  "Managed languages like Java and Kotlin are the best option for Android app development," Google  said . "The Android OS uses Java extensively, effectively protecting large portions of the Android platform from memory bugs. Unfortunately, for the lower layers of the OS, Java and Kotlin are not an option."   Stating that code written in C and C++ languages requires robust isolation when parsing untrustworthy input, Google said the technique of containing such code within a tightly constrained and unprivileged sandbox can be expensive, causing latency issues and additional
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Emails Most Commonly Originate from Eastern Europe<a href="https://www.infosecurity-magazine.com:443/news/phishing-emails-originate-eastern/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The five countries sending the highest proportion of phishing emails are from Eastern Europe
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
