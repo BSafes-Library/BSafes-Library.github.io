@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Jamming Productivity of Manufacturing Sector<a href="https://cyware.com/news/cyberattackers-jamming-productivity-of-manufacturing-sector-126d36df"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturing firms have become a top target of cybercriminals, extortionists, and nation-state groups as a majority of companies continue to experience breaches impacting their factories and taking production offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Extortion Attacks Get Stronger and More Persistent<a href="https://cyware.com/news/ddos-extortion-attacks-get-stronger-and-more-persistent-53e3ff83"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai has recently reported three large-scale DDoS attacks. These attacks count among the six biggest volumetric DDoS attacks the company has ever recorded.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Crossing the Line: When Cyberattacks Become Acts of War<a href="https://threatpost.com/crossing-line-cyberattack-act-war/165290/"> Full Text</a>
 </p>
 <details>
