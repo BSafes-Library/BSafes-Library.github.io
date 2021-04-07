@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Found in VMWare Data Centre Security Product<a href="https://thehackernews.com/2021/04/critical-auth-bypass-bug-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the VMware Carbon Black Cloud Workload appliance could be exploited to bypass authentication and take control of vulnerable systems.  Tracked as CVE-2021-21982, the flaw is rated 9.1 out of a maximum of 10 in the CVSS scoring system and affects all versions of the product prior to 1.0.1.   Carbon Black Cloud Workload is a data center security product from VMware that aims to protect critical servers and workloads hosted on vSphere, the company's cloud-computing virtualization platform.  "A URL on the administrative interface of the VMware Carbon Black Cloud Workload appliance can be manipulated to bypass authentication," VMware  said  in its advisory, thereby allowing an adversary with network access to the interface to gain access to the administration API of the appliance.   Armed with the access, a malicious actor can then view and alter  administrative configuration settings , the company added.  In addition to releasing a fix for CVE-2021
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
