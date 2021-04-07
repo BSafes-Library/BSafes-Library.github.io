@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pre-Installed Malware Dropper Found On German Gigaset Android Phones<a href="https://thehackernews.com/2021/04/pre-installed-malware-dropper-found-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what appears to be a fresh twist in Android malware, users of Gigaset mobile devices are encountering unwanted apps that are being downloaded and installed through a pre-installed system update app.  "The culprit installing these malware apps is the Update app, package name  com.redstone.ota.ui , which is a pre-installed system app," Malwarebytes researcher Nathan Collier  said . "This app is not only the mobile device's system updater, but also an auto installer known as Android/PUP.Riskware.Autoins.Redstone."  The development was  first reported  by German author and blogger Günter Born last week.   While the issue seems to be mainly affecting Gigaset phones, devices from a handful of other manufacturers appear to be impacted as well. The full list of devices that come with the pre-installed auto-installer includes Gigaset GS270, Gigaset GS160, Siemens GS270, Siemens GS160, Alps P40pro, and Alps S20pro+.  According to Malwarebytes, the Update app installs
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Commission and other institutions were hit by a major cyber-attack<a href="https://securityaffairs.co/wordpress/116441/hacking/european-commission-institutions-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only the European Commission, but many other organizations of the European Union have been targeted by a cyberattack in March.
+
+
+
+A European Commission spokesperson confirmed that the European Commission, along with other European Union organizations,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 06, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
