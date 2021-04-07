@@ -18,9 +18,9 @@ The 9/11 terrorist attacks brought on financial losses that caused insurers and 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 February 3, 2021
 {: .fs-4 .fw-700 .lh-0  }  
+<p style="font-weight:500; margin:0px" markdown="1">
 • The District of Columbia Circuit Finds Article III Standing Based on the Risk of Future Identity Theft in In re U.S. Office of Personnel Management Data Security Breach Litigation [HTML](https://papers.bsafes.com/docs/identity/the-district-of-columbia-circuit-finds-article-iii-standing-based-on-the-risk-of-future-identity-theft/)
 </p>
 <details>
@@ -30,9 +30,9 @@ The effects of identity theft can haunt data breach victims for years. Some vict
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 February 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Illicit Activity Detection in Large-Scale Dark and Opaque Web Social Networks [HTML](https://papers.bsafes.com/docs/cybercrime/illicit-activity-detection-in-large-scale-dark-and-opaque-web-social-networks/)
 </p>
 <details>
@@ -42,9 +42,9 @@ Many online chat applications live in a grey area between the legitimate web and
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Protecting Children in the Frontier of Surveillance Capitalism [HTML](https://papers.bsafes.com/docs/privacy/protecting-children-in-the-frontier-of-surveillance-capitalism/)
 </p>
 <details>
@@ -55,9 +55,9 @@ This article examines the ongoing technological revolution and its impact on tod
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 January, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Repeal the Defend Trade Secret Act: Why Congress Can’t Rely on Trade Secret Law to Protect America’s Trade Secrets [HTML](https://papers.bsafes.com/docs/law/repeal-the-defend-trade-secret-act-whey-congress-cant-rely-on-trade-secret-law-to-protect-americas-trade-secrets/)
 </p>
 <details>
@@ -67,9 +67,9 @@ January, 2021<br>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-January, 2021  
+January, 2021
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Israel’s Perspective on Key Legal and Practical Issues Concerning the Application of International Law to Cyber Operations [HTML](https://papers.bsafes.com/docs/law/israels-perspective-on-key-legal-and-practical-issues-concerning-the-application-of-international-law-to-cyber-operations/#contents)
 </p>
 <details>
@@ -79,9 +79,9 @@ I would like to present, here today, Israel’s perspective on key aspects of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-Winter, 2021   
+Winter, 2021
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • A Post for Change: Social Media and the Unethical Dissemination of Nonconsensual Pornography [HTML](https://papers.bsafes.com/docs/privacy/a-post-for-change-social-media-and-the-unethical-dissemination-of-nonconsensual-pornography/)
 </p>
 <details>
@@ -91,9 +91,9 @@ In today’s world, where instant gratification is king and the majority craves 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-December 16, 2020  
+December 16, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus [HTML](https://papers.bsafes.com/docs/cybercrime/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
 </p>
 <details>
@@ -103,9 +103,9 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 December, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cybersecurity Best Practices for the Safety of Modern Vehicles [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-best-practices-for-the-safety-of-modern-vehicles/)
 </p>
 <details>
@@ -115,9 +115,9 @@ This document from the National Highway Traffic Safety Administration (NHTSA) up
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 November 27, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cybersecurity of Smart Electric Vehicle Charging: A Power Grid Perspective [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-of-smart-electric-vehicle-charging-a-power-grid-perspective/)
 </p>
 <details>
@@ -128,9 +128,9 @@ With the roll-out of electric vehicles (EVs), the automobile industry is transit
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-November 23, 2020<br> 
+November 23, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • The Internet Never Forgets: A Federal Solution to the Dissemination of Nonconsensual Pornography [HTML](https://papers.bsafes.com/docs/law/the-internet-never-forgets-a-federal-solution-to-the-dissemination-of-nonconsensual-pornography/)
 </p>
 <details>
@@ -140,9 +140,9 @@ As technology evolves, new outlets for interpersonal conflict and crime evolve w
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-November, 2020  
+November, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Digital Identity: A Human-Centered Risk Awareness Study [HTML](https://papers.bsafes.com/docs/identity/digital-identity-a-human-centered-risk-awareness-study/)
 </p>
 <details>
@@ -152,8 +152,9 @@ Cybersecurity threats and compromises have been at the epicenter of media attent
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 October, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Electric Vehicle Charging Infrastructure Trends from the Alternative Fueling Station Locator: First Quarter 2020 [HTML](https://papers.bsafes.com/docs/electric-vehicle/electric-vehicle-charging-infrastructure-trends-from-the-alternative-fueling-station-locator-first-quarter-2020/)
 </p>
 <details>
@@ -164,9 +165,9 @@ The US. Department of Energy’s (DOE’s) Alternative Fueling Station Locator c
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-Fall , 2020  
+Fall , 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Defending Democracy: Taking Stock of the Global Fight Against Digital Repression, Disinformation, and Election Insecurity [HTML](https://papers.bsafes.com/docs/Politics/defending-democracy-taking-stock-of-the-global-fight-against-digital-repression-disinformation-and-election-insecurity/)
 </p>
 <details>
@@ -176,9 +177,9 @@ Amidst the regular drumbeat of reports about Russian attempts to undermine U.S. 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-August, 2020   
+August, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cryptography, Passwords, Privacy, and the Fifth Amendment [HTML](https://papers.bsafes.com/docs/encryption/cryptography-passwords-privacy-and-the-fifth-amendment/)
 </p>
 <details>
@@ -187,11 +188,22 @@ Military-grade cryptography has been widely available at no cost for personal an
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Aspects of the Cybersecurity Ecosystem in the United States [HTML](https://papers.bsafes.com/docs/internet/aspects-of-the-cybersecurity-ecosystem-in-the-united-states/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The field of cybersecurity with all its complexities has been steadily gaining in importance over the last decade – and now, due to the Coronavirus-induced heightened dependency on digital infrastructure this process is further accelerated. This country report shows that cybersecurity has evolved into a key national security issue and gives an overview of certain aspects of the U.S. cybersecurity landscape, by tracing policy developments from before the Covid-19 pandemic as well as current legislative considerations.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-June, 2020  
+June, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Impact of Social Media on Feminism [HTML](https://papers.bsafes.com/docs/women/impact-of-social-media-on-feminism/)
 </p>
 <details>
@@ -201,9 +213,9 @@ June, 2020
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-June, 2020  
+June, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • A New Compact for Sexual Privacy [HTML](https://papers.bsafes.com/docs/privacy/a-new-compact-for-sexual-privacy/)
 </p>
 <details>
@@ -214,9 +226,9 @@ Intimate life is under constant surveillance. Firms track people’s periods, ho
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-May 9, 2020  
+May 9, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • The Red Swimsuit: Essays [HTML](https://papers.bsafes.com/docs/women/the-red-swimsuit-essays/)
 </p>
 <details>
@@ -226,9 +238,9 @@ JACQUELINE KNIRNSCHILD: This thesis is a collection of creative non-fiction essa
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-May 4, 2020  
+May 4, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cyber Mobs, Disinformation, and Death Videos: The Internet as It Is (and as It Should Be) [HTML](https://papers.bsafes.com/docs/internet/cyber-mobs-disinformation-and-death-videos-the-internet-as-it-is-and-as-it-should-be/)
 </p>
 <details>
@@ -238,9 +250,9 @@ Nick Drnaso’s1 graphic novel Sabrina provides a powerful snapshot of online no
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 May, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Articulating the Cloud: Understanding Data Centers, Renewable Energy, and Public Policy [HTML](https://papers.bsafes.com/docs/internet/articulating-the-cloud-understanding-data-centers-renewable-energy-and-public-policy/)
 </p>
 <details>
@@ -250,9 +262,9 @@ Experts urge that drastic steps must be taken to reduce carbon dioxide emissions
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-May, 2020  
+May, 2020 
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cyber Security’s Influence on Modern Society [HTML](https://papers.bsafes.com/docs/internet/cybersecuritys-influence-on-modern-society/)
 </p>
 <details>
@@ -262,9 +274,9 @@ The world of cyber security is evolving every day, and cyber-criminals are tryin
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 April 17, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • A Copy of a Copy of a Copy: Internet Mimesis and the Copyrightability of Memes [HTML](https://papers.bsafes.com/docs/internet/a-copy-of-a-copy-of-a-copy-internet-mimesis-and-the-copyrightability-of-memes/)
 </p>
 <details>
@@ -275,9 +287,9 @@ Memes have become a staple of Internet culture. They provide a crucial form of c
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-April 5, 2020  
+April 5, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Internet Architecture and Disability [HTML](https://papers.bsafes.com/docs/internet/internet-architecture-and-disability/)
 </p>
 <details>
@@ -287,9 +299,9 @@ The Internet is essential for education, employment, information, and cultural a
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-April 1, 2020  
+April 1, 2020
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • The Networked Question in the Digital Era: How Do Networked, Bounded, and Limited Individuals Connect at Different Stages in the Life Course? [HTML](https://papers.bsafes.com/docs/internet/the-networked-question-in-the-digital-era-how-do-networked-bounded-and-limited-individuals-connect-at-different-stages-in-the-life-course/)
 </p>
 <details>
@@ -300,9 +312,9 @@ We used in-depth interviews with 101 participants in the East York section of To
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-January, 2020  
+January, 2020 
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • The Internet as a Speech Machine and Other Myths Confounding Section 230 Reform [HTML](https://papers.bsafes.com/docs/internet/the-internet-as-as-speech-machine-and-other-myths-confounding-section-230-reform/)
 </p>
 <details>
@@ -313,9 +325,9 @@ A robust public debate is currently underway about the responsibility of online 
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-June, 2019  
+June, 2019
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Revenge Porn and the First Amendment - Should Nonconsensual Distribution of Sexually Explicit Images Receive Constitutional Protection? [HTML](https://papers.bsafes.com/docs/privacy/revenge-porn-and-the-first-amendmen/)
 </p>
 <details>
@@ -325,9 +337,9 @@ Like many issues related to relationships and sexuality, “revenge porn” has 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 October 1, 2018
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Securing Vehicle Charging Infrastructure [HTML](https://papers.bsafes.com/docs/electric-vehicle/securing-vehicle-charging-infrastructure/)
 </p>
 <details>
@@ -337,9 +349,9 @@ As the US electrifies the transportation sector, cyber attacks targeting vehicle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 August 5, 2018
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Web Application Security [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-18321/)
 </p>
 <details>
@@ -349,9 +361,9 @@ This report documents the program and the outcomes of Dagstuhl Seminar 18321 “
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 March, 2018
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • DOE/DHS/DOT Volpe Technical Meeting on Electric Vehicle and Charging Station Cybersecurity Report [HTML](https://papers.bsafes.com/docs/electric-vehicle/doe-dhs-dot-volpe-technical-meeting-on-electric-vehicle-and-charging-stations-cybersecurity-report/)
 </p>
 <details>
@@ -361,9 +373,9 @@ On November 29-30, 2017, the U.S. Department of Energy’s (DOE) Office of Polic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 August, 2017<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Securing Cyber Assets - Addressing Urgent Cyber Threats to Critical Infrastructure [HTML](https://papers.bsafes.com/docs/infrastructure/securing-cyber-assets-addressing-urgent-cyber-threats-to-critical-infrastructure/)
 </p>
 <details>
@@ -373,9 +385,9 @@ Our review of hundreds of studies and interviews with 38 cyber and industry expe
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
 October, 2016<br>
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cybersecurity Best Practices for Modern Vehicles [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-best-practices-for-modern-vehicles/)
 </p>
 <details>
@@ -386,9 +398,9 @@ This document describes the National Highway Traffic Safety Administration’s n
 
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-August 22, 2014  
+August 22, 2014
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Subculture of Hackers in Russia, by Roman Dremliuga [HTML](https://papers.bsafes.com/docs/hacker/subculture-of-hackers-in-russia/)
 </p>
 <details>
@@ -398,9 +410,9 @@ This article observes the situation with hacker subculture in Russia. The author
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-<p style="font-weight:500; margin:0px" markdown="1">
-September 30, 2012  
+September 30, 2012
 {: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Web Application Security [HTML](https://papers.bsafes.com/docs/software-security/web-app-security-report-from-dagstuhl-seminar-12401/)
 </p>
 <details>
