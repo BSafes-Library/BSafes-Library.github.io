@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug allows attackers to hijack Windows time sync software used to track security incidents<a href="https://www.scmagazine.com/home/security-news/bug-allows-attackers-to-hijack-windows-time-sync-software-used-to-track-security-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any disruption to Greyware’s Domain Time II could make it virtually impossible to track a security incident – and any sequence of events that are important to the business or regulators.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Array of recent phishing schemes use personalized job  lures, voice manipulation<a href="https://www.scmagazine.com/home/security-news/phishing/array-of-recent-phishing-schemes-use-personalized-job-lures-voice-manipulation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Golden Chickens gang looks to infect targets with backdoor trojan, while MoleRats actors use audio tool to perhaps sound like women in vishing messages.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 06, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
