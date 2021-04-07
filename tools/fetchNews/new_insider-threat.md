@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coca-Cola trade secret theft underscores importance of insider threat early detection<a href="https://www.csoonline.com/article/3613953/coca-cola-trade-secret-theft-underscores-importance-of-insider-threat-early-detection.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A research engineer used basic exfiltration techniques to steal trade secrets from Coca-Cola, but wasn't caught until she attempted to steal similar data from another company.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

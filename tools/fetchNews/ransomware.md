@@ -8,6 +8,90 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows XP makes ransomware gangs work harder for their money<a href="https://www.bleepingcomputer.com/news/security/windows-xp-makes-ransomware-gangs-work-harder-for-their-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently created ransomware decryptor illustrates how threat actors have to support Windows XP, even when Microsoft dropped supporting it seven years ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida School District Held to Impossibly High Ransom<a href="https://www.infosecurity-magazine.com:443/news/florida-school-district-40m-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators demand $40m from Broward County Public Schools system
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers rush to new doc builder that uses Macro-exploit, posing as DocuSign<a href="https://www.scmagazine.com/home/security-news/ransomware/hackers-rush-to-new-doc-builder-that-uses-macro-exploit-posing-as-docusign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s use in Trickbot and BazarLoader campaigns puts EtterSilent at the front end of attack chains for two of the most popular ransomware precursors in the world.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hits TU Dublin and National College of Ireland<a href="https://www.bleepingcomputer.com/news/security/ransomware-hits-tu-dublin-and-national-college-of-ireland/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;National College of Ireland is working on restoring IT services after being hit by a ransomware attack over the weekend that forced the college to take IT systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Gangs Emailing Victim Customers for Leverage - KrebsonSecurity<a href="https://krebsonsecurity.com/2021/04/ransom-gangs-emailing-victim-customers-for-leverage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are emailing the victim’s customers and partners directly, warning that their data will be leaked to the dark web unless they can convince the victim firm to pay up.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Grew by 485% in 2020<a href="https://www.infosecurity-magazine.com:443/news/ransomware-attacks-grow-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report assesses how cyber-criminals have exploited the COVID-19 crisis
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

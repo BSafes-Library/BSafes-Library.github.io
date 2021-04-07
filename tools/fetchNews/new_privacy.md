@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Concerns Raised Over Scotland’s New #COVID19 Check-In App<a href="https://www.infosecurity-magazine.com:443/news/privacy-covid19-checkin-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check In Scotland uploads and stores venue check-in data to a centralized database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

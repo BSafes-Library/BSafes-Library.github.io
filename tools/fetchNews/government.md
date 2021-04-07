@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators call for update on investigations into SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/546776-senators-call-for-update-on-investigations-into-solarwinds-microsoft"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan leaders of a key Senate panel on Tuesday pressed the Biden administration for more information on its investigation into two recent, massive foreign espionage hacking incidents.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel heads to resume worldwide threats hearing scrapped under Trump<a href="https://thehill.com//policy/national-security/546747-biden-intel-heads-to-resume-worldwide-threats-hearing-abandoned-by"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House and Senate Intelligence committees will question leaders of five major intelligence and security agencies next week, resuming the annual tradition of a worldwide threats hearing that was abandoned under the Trump administration.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

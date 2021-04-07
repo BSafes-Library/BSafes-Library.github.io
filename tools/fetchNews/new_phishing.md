@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks use Telegram bots and Google Forms to automate phishing<a href="https://securityaffairs.co/wordpress/116459/cyber-crime/telegram-bots-google-forms-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks increasingly often use legitimate services such as Google Forms and Telegram to obtain user data stolen on phishing websites.
+
+
+
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company,&nbsp;has found that cybercriminals...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerging hacking tool 'EtterSilent' mimics DocuSign, researchers find<a href="https://www.cyberscoop.com/docusign-security-hack-ettersilent-intel471/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EtterSilent has been advertised in a Russian cybercrime forum and comes in two versions. One exploits a vulnerability in Microsoft Office, CVE-2017-8570, and one uses a malicious macro.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Array of recent phishing schemes use personalized job  lures, voice manipulation<a href="https://www.scmagazine.com/home/security-news/phishing/array-of-recent-phishing-schemes-use-personalized-job-lures-voice-manipulation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Golden Chickens gang looks to infect targets with backdoor trojan, while MoleRats actors use audio tool to perhaps sound like women in vishing messages.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

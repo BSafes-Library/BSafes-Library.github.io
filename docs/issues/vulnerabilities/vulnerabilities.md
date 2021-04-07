@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Found in VMWare Data Centre Security Product<a href="https://thehackernews.com/2021/04/critical-auth-bypass-bug-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the VMware Carbon Black Cloud Workload appliance could be exploited to bypass authentication and take control of vulnerable systems.  Tracked as CVE-2021-21982, the flaw is rated 9.1 out of a maximum of 10 in the CVSS scoring system and affects all versions of the product prior to 1.0.1.&nbsp;  Carbon Black Cloud Workload is a data center security product from VMware that aims to protect critical servers and workloads hosted on vSphere, the company's cloud-computing virtualization platform.  "A URL on the administrative interface of the VMware Carbon Black Cloud Workload appliance can be manipulated to bypass authentication," VMware&nbsp; said &nbsp;in its advisory, thereby allowing an adversary with network access to the interface to gain access to the administration API of the appliance.   Armed with the access, a malicious actor can then view and alter&nbsp; administrative configuration settings , the company added.  In addition to releasing a fix for CVE-2021
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Click Flaw with Apple Mail Can be Triggered by Sending Two Zip Files<a href="https://cybersecuritynews.com/zero-click-flaw-with-apple-mail/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Mikko Kenttala, founder and CEO of SensorFu found a zero-click vulnerability in Apple Mail, which allowed to add or modify any arbitrary...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug allows attackers to hijack Windows time sync software used to track security incidents<a href="https://www.scmagazine.com/home/security-news/bug-allows-attackers-to-hijack-windows-time-sync-software-used-to-track-security-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any disruption to Greyware’s Domain Time II could make it virtually impossible to track a security incident – and any sequence of events that are important to the business or regulators.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

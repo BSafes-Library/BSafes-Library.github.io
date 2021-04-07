@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+11 Useful Security Tips for Securing Your AWS Environment<a href="https://thehackernews.com/2021/04/11-useful-security-tips-for-securing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Want to take advantage of excellent cloud services? Amazon Web Services may be the perfect solution, but don't forget about AWS security.  Whether you want to use AWS for a few things or everything, you need to protect access to it. Then you can make sure your business can run smoothly.  Read on to learn some important AWS security tips.  Use Multi-Factor authentication  When setting up your AWS security settings or adding new users, you should implement multi-factor authentication (MFA). MFA relies on more than one login factor to grant you access to your account.  For example, when you log in to your account, the program might send a code to your mobile phone. Then you must verify that you have that phone and enter the code to access your account.  MFA is an excellent way to protect your data if someone figures out your username and password. This way, you can still have a layer of protection against the hacker.  Create strong passwords  Even with MFA, you should use strong, uni
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

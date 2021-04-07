@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Industry Must Find Solutions for Third Party Data Security<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-industry-solutions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing use of third parties has thrown up major data security challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One of WFH's biggest losers: Cybersecurity<a href="https://edition.cnn.com/2021/04/06/tech/cybersecurity-risks-mobile-devices-report/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly half of businesses say work-from-home policies have hurt their cybersecurity practices, according to Verizon's (VZ) 2021 Mobile Security Index, published on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
