@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Mission-critical SAP Applications Exploiting known Security Vulnerabilities<a href="https://cybersecuritynews.com/hackers-exploiting-sap-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Active cyberattacks on known vulnerabilities in SAP systems could lead to full control of unsecured SAP applications, according to a report issued...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
