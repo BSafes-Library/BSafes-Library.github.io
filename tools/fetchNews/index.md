@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Forms and Telegram abused to collect phished credentials<a href="https://www.bleepingcomputer.com/news/security/google-forms-and-telegram-abused-to-collect-phished-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers note an increase in alternative methods to steal data from phishing attacks, as scammers obtain the stolen info through Google Forms or private Telegram bots.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in ICS-specific backup solution open industrial facilities to attack<a href="https://www.helpnetsecurity.com/2021/04/07/vulnerabilities-ics-specific-backup/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Claroty have found and privately disclosed nine vulnerabilities affecting Rockwell Automation’s FactoryTalk AssetCentre, an ICS-specific backup solution.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
