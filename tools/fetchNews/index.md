@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA: Patch Legacy SAP Vulnerabilities Urgently<a href="https://www.infosecurity-magazine.com:443/news/cisa-patch-legacy-sap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Onapsis report claims some exploited bugs date back to 2010
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Emerging hacking tool 'EtterSilent' mimics DocuSign, researchers find<a href="https://www.cyberscoop.com/docusign-security-hack-ettersilent-intel471/?&web_view=true"> Full Text</a>
 </p>
 <details>
