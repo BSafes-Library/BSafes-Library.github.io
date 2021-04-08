@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Selling 330,000 Stolen Payment Cards and 895,000 Gift Cards from Online Shops<a href="https://cybersecuritynews.com/hackers-selling-stolen-payment-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ What do the likes of AirBnB, Amazon, American Airlines, Chipotle, Dunkin Donuts, Nike, Marriott, Target, Subway and Walmart, have in common? Well,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cring ransomware deployed via unpatched Fortinet VPNs | The Record by Recorded Future<a href="https://therecord.media/new-cring-ransomware-deployed-via-unpatched-fortinet-vpns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All these attacks happened in Q1 2020, and they were carried out with a new strain of ransomware named Cring (other aliases include Vjiszy1lo, Ghost, Phantom) that was first discovered in January.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarCall Trojan: A Malware Backed by Call Centers<a href="https://cyware.com/news/bazarcall-trojan-a-malware-backed-by-call-centers-ccafb98d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts are reporting about the distribution of BazarCall malware via fake call centers. Under the aforementioned campaign, threat actors trick users into installing the Windows malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware-Focused Cyberattacks are Rising<a href="https://cyware.com/news/firmware-focused-cyberattacks-are-rising-08337050"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After taking inputs from1,000 enterprise security decision-makers from China, Germany, Japan, the U.K, and the U.S, Microsoft uncovered that 80% of global enterprises experienced firmware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Italian Arrested After Allegedly Paying Hitman to Murder Ex-Girlfriend<a href="https://www.infosecurity-magazine.com:443/news/italian-arrested-paying-hitman/"> Full Text</a>
 </p>
 <details>
