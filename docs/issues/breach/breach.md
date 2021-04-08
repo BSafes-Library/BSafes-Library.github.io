@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office Depot Europe Exposed Customer Data Online: Report<a href="https://www.websiteplanet.com/blog/office-depot-leak-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The records were labeled “Production” and contained customer PIIs such as names, phone numbers, physical addresses (home and/or office), @members.ebay addresses, and hashed passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Website Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+User database was also hacked in the recent hack of PHP ‘s Git Server<a href="https://securityaffairs.co/wordpress/116500/data-breach/php-sites-user-database-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the PHP programming language confirmed that threat actors may have compromised a user database containing their passwords.
+
+
+
+The maintainers of the PHP programming language have provided an update regarding the security breach that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Site's User Database Was Hacked In Recent Source Code Backdoor Attack<a href="https://thehackernews.com/2021/04/php-sites-user-database-was-hacked-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the PHP programming language have issued an update regarding the security incident that came to light late last month, stating that the actors may have gotten hold of a user database containing their passwords to make unauthorized changes to the repository.  "We no longer believe the git.php.net server has been compromised. However, it is possible that the master.php.net user database leaked," Nikita Popov&nbsp; said &nbsp;in a message posted on its mailing list on April 6.   On March 28, unidentified actors used the names of Rasmus Lerdorf and Popov to&nbsp; push malicious commits &nbsp;to the "php-src" repository hosted on the git.php.net server that involved adding a backdoor to the PHP source code in an instance of a software supply chain attack.  While this was initially treated as a compromise of the git.php.net server, further investigation into the incident has revealed that the commits were a result of pushing them using HTTPS and password-based authenticat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

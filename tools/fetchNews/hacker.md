@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors targeted Slack and Discord as the pandemic raged on<a href="https://www.scmagazine.com/application-security/threat-actors-targeted-slack-and-discord-as-the-pandemic-raged-on/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration tools that have become more central to how organizations operate since the pandemic are poorly understood by infosec teams and are relatively immature in terms of accompanying security protections provided by third parties.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VISA: Hackers increasingly using web shells to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/visa-hackers-increasingly-using-web-shells-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global payments processor VISA warns that threat actors are increasingly deploying web shells on compromised servers to exfiltrate&nbsp;credit card information stolen from online store customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

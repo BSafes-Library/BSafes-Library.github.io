@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 phishing evades detection with HTML Lego pieces<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-phishing-evades-detection-with-html-lego-pieces/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing campaign used a clever trick to deliver the fraudulent web page that collects Microsoft Office 365 credentials by building it from chunks of HTML code stored locally and remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tech support scammers lure victims with fake antivirus billing emails<a href="https://www.bleepingcomputer.com/news/security/tech-support-scammers-lure-victims-with-fake-antivirus-billing-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech support scammers are pretending to be from Microsoft, McAfee, and Norton to target users with fake antivirus billing renewals in a large-scale email campaign.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

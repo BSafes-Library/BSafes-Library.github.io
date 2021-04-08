@@ -11,6 +11,104 @@ nav_order: 900220
 April 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes bug allowing remote code execution with root privileges<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-allowing-remote-code-execution-with-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to address a pre-authentication remote code execution (RCE) vulnerability affecting SD-WAN vManage Software's user management function.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA workflow application Emissary vulnerable to malicious takeover<a href="https://portswigger.net/daily-swig/nsa-workflow-application-emissary-vulnerable-to-malicious-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users have been urged to update their systems after the discovery of five security flaws in the Java web application, which runs in a multi-tiered P2P network of computer resources.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Mission-critical SAP Applications Exploiting known Security Vulnerabilities<a href="https://cybersecuritynews.com/hackers-exploiting-sap-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Active cyberattacks on known vulnerabilities in SAP systems could lead to full control of unsecured SAP applications, according to a report issued...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in ICS-specific backup solution open industrial facilities to attack<a href="https://www.helpnetsecurity.com/2021/04/07/vulnerabilities-ics-specific-backup/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Claroty have found and privately disclosed nine vulnerabilities affecting Rockwell Automation’s FactoryTalk AssetCentre, an ICS-specific backup solution.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android to Support Rust Programming Language to Prevent Memory Flaws<a href="https://thehackernews.com/2021/04/android-to-support-rust-programming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced that its open source version of the Android operating system will add support for Rust programming language in a bid to prevent memory safety bugs.  To that end, the company has been building parts of the Android Open Source Project (AOSP) with Rust for the past 18 months, with plans in the pipeline to scale this initiative to cover more aspects of the operating system.  "Managed languages like Java and Kotlin are the best option for Android app development," Google&nbsp; said . "The Android OS uses Java extensively, effectively protecting large portions of the Android platform from memory bugs. Unfortunately, for the lower layers of the OS, Java and Kotlin are not an option."   Stating that code written in C and C++ languages requires robust isolation when parsing untrustworthy input, Google said the technique of containing such code within a tightly constrained and unprivileged sandbox can be expensive, causing latency issues and additional
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Windows 10, Exchange, and Teams hacked at Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/microsofts-windows-10-exchange-and-teams-hacked-at-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first day of Pwn2Own 2021, contestants won $440,000 after successfully exploiting previously unknown vulnerabilities to&nbsp;hack Microsoft's Windows 10 OS, the Exchange mail server, and the Teams&nbsp;communication platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust in the Android platform<a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced that the Android Open Source Project (AOSP) now supports the Rust programming language for developing the OS itself to prevent memory safety vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Auth Bypass Bug Found in VMWare Data Centre Security Product<a href="https://thehackernews.com/2021/04/critical-auth-bypass-bug-found-in.html"> Full Text</a>
 </p>
 <details>
