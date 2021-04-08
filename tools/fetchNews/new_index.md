@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Twitter will not allow Trump account archive on platform | Commerce Dept. still weighing approach to Huawei, TikTok | Dating apps work to reinvent amid COVID-19 pandemic<a href="https://thehill.com//policy/technology/overnights/547051-hillicon-valley-twitter-will-not-allow-trump-account-archive-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Wednesday said that it will not allow any of former President TrumpDonald TrumpYelp creates tool to help support Asian-owned businesses  Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far MORE’s archived tweets while in office on its platform due to the account’s suspension. Meanwhile, Commerce Secretary Gina RaimondoGina RaimondoThe Hill's Morning Report - Biden may find zero GOP support for jobs plan White House hopes to see infrastructure bill passed by summer Biden taps five agency heads to sell infrastructure plan MORE teased next steps around Huawei and TikTok, and dating apps are scrambling to reinvent themselves in the age of COVID-19. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors targeted Slack and Discord as the pandemic raged on<a href="https://www.scmagazine.com/application-security/threat-actors-targeted-slack-and-discord-as-the-pandemic-raged-on/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration tools that have become more central to how organizations operate since the pandemic are poorly understood by infosec teams and are relatively immature in terms of accompanying security protections provided by third parties.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware cartel model didn’t fulfill potential, yet, but served as cybercrime proving ground<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-cartel-model-didnt-fulfill-potential-yet-but-served-as-cybercrime-proving-ground/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Competing ransomware actors don’t have enough incentive to collaborate and share profits, but that could change as automated attacks evolve.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Key House leader to press for inclusion of cybersecurity in infrastructure bill<a href="https://thehill.com//policy/cybersecurity/547045-key-house-leader-to-press-for-inclusion-of-cybersecurity-in"> Full Text</a>
 </p>
 <details>
