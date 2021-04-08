@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Digital artists meet scam artists, as criminals pounce on NFT craze<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/digital-artists-meet-scam-artists-as-criminals-pounce-on-nft-craze/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals are standing up fraudulent NFT-themed websites that sell nonexistent items or phish users’ credentials.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit nine countries, expose 623,036 payment card records<a href="https://www.scmagazine.com/home/security-news/cybercrime/hackers-hit-nine-countries-expose-623036-payment-card-records/"> Full Text</a>
 </p>
 <details>
