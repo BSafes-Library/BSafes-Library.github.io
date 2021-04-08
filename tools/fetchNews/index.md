@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+IcedID - A New Threat In Office Attachments<a href="https://blog.minerva-labs.com/icedid-maas?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The specific Excel document used in the recent wave of attacks is using XLM macros to download and execute its payload. 
+The latest update also saw a major change in its first stage loading mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+Minerva Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Over 200 Bangladesh Organizations Hit by Hafnium Hacker Group<a href="https://heimdalsecurity.com/blog/over-200-bangladesh-organizations-hit-by-hafnium-hacker-group/?&web_view=true"> Full Text</a>
 </p>
 <details>
