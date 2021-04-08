@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2021
+April 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office 365 phishing evades detection with HTML Lego pieces<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-phishing-evades-detection-with-html-lego-pieces/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive increase in endpoint attacks, rising rate of encrypted malware and new exploits targeting IoT<a href="https://www.helpnetsecurity.com/2021/04/07/encrypted-malware-detections-q4-2020/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2021
+April 08, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Unpatched VPNs to Install Ransomware on Industrial Targets<a href="https://thehackernews.com/2021/04/hackers-exploit-unpatched-vpns-to.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Fraud in the UK Up 179% in the Last Decade<a href="https://www.infosecurity-magazine.com:443/news/online-fraud-uk-increases-last/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed multiple flaws in SD-WAN vManage Software, including a critical RCE<a href="https://securityaffairs.co/wordpress/116516/security/cisco-sd-wan-vmanage-software.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2021
+April 08, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers use new Vyveva malware to attack freighters<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-vyveva-malware-to-attack-freighters/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Trezor App Steals Cryptocurrency Worth Over $1 Million From Users<a href="https://blog.malwarebytes.com/social-engineering/2021/04/fake-trezor-app-steals-more-that-1-million-worth-of-crypto-coins/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2021
+April 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST and HIPAA: Is There a Password Connection?<a href="https://thehackernews.com/2021/04/nist-and-hipaa-is-there-password.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Armed Conflict Draws Closer as State-Backed Cyber-Attacks Intensify<a href="https://www.infosecurity-magazine.com:443/news/armed-conflict-closer-state/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2021
+April 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tech support scammers lure victims with fake antivirus billing emails<a href="https://www.bleepingcomputer.com/news/security/tech-support-scammers-lure-victims-with-fake-antivirus-billing-emails/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Disrupt Production at Two Manufacturing Sites in Italy<a href="https://www.cyberscoop.com/ransomware-industrial-europe-kaspersky-cring/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ACC Launches Data Security Program for Law Firms<a href="https://www.infosecurity-magazine.com:443/news/acc-launches-data-security-program/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office Depot Europe Exposed Customer Data Online: Report<a href="https://www.websiteplanet.com/blog/office-depot-leak-report/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Website Planet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Number of US Breach Victims Jumps 564% in Q1 2021<a href="https://www.infosecurity-magazine.com:443/news/number-of-us-breach-victims-jumps/"> Full Text</a>
@@ -262,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Are Exploiting Discord and Slack Links to Serve Up Malware<a href="https://www.wired.com/story/malware-discord-slack-links/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New APT27 Cyberespionage Campaign Unveiled<a href="https://cyware.com/news/new-apt27-cyberespionage-campaign-unveiled-b4ece9b6"> Full Text</a>
@@ -294,7 +294,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Critical Code Execution Vulnerability in Android<a href="https://www.securityweek.com/google-patches-critical-code-execution-vulnerability-android?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Crack Cheat Codes and Gaming Mods to Serve Trojans<a href="https://cyware.com/news/cybercriminals-crack-cheat-codes-and-gaming-mods-to-serve-trojans-1b97d494"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 User database was also hacked in the recent hack of PHP ‘s Git Server<a href="https://securityaffairs.co/wordpress/116500/data-breach/php-sites-user-database-hacked.html"> Full Text</a>
@@ -346,7 +346,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Selling 330,000 Stolen Payment Cards and 895,000 Gift Cards from Online Shops<a href="https://cybersecuritynews.com/hackers-selling-stolen-payment-cards/"> Full Text</a>
@@ -362,7 +362,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cring ransomware deployed via unpatched Fortinet VPNs | The Record by Recorded Future<a href="https://therecord.media/new-cring-ransomware-deployed-via-unpatched-fortinet-vpns/?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarCall Trojan: A Malware Backed by Call Centers<a href="https://cyware.com/news/bazarcall-trojan-a-malware-backed-by-call-centers-ccafb98d"> Full Text</a>
@@ -394,7 +394,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firmware-Focused Cyberattacks are Rising<a href="https://cyware.com/news/firmware-focused-cyberattacks-are-rising-08337050"> Full Text</a>
@@ -410,7 +410,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian Arrested After Allegedly Paying Hitman to Murder Ex-Girlfriend<a href="https://www.infosecurity-magazine.com:443/news/italian-arrested-paying-hitman/"> Full Text</a>
@@ -426,7 +426,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IcedID - A New Threat In Office Attachments<a href="https://blog.minerva-labs.com/icedid-maas?&web_view=true"> Full Text</a>
@@ -443,7 +443,7 @@ Minerva Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 200 Bangladesh Organizations Hit by Hafnium Hacker Group<a href="https://heimdalsecurity.com/blog/over-200-bangladesh-organizations-hit-by-hafnium-hacker-group/?&web_view=true"> Full Text</a>
@@ -459,7 +459,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2021
+April 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Man arrested after hired a hitman on the dark web<a href="https://securityaffairs.co/wordpress/116493/cyber-crime/man-hired-hitman-dark-web.html"> Full Text</a>
@@ -479,7 +479,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PHP Site's User Database Was Hacked In Recent Source Code Backdoor Attack<a href="https://thehackernews.com/2021/04/php-sites-user-database-was-hacked-in.html"> Full Text</a>
