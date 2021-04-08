@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+98% of Organizations Received Email Threats from Suppliers: What You Should Know<a href="https://www.proofpoint.com/us/blog/email-and-cloud-threats/98-organizations-received-email-threats-suppliers-what-you-should-know?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint’s recent research indicates that 98% of nearly 3,000 monitored organizations across the U.S., UK, and Australia, received a threat from a supplier domain over a 7-day window in February.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 (Are you) afreight of the dark? Watch out for Vyveva, new Lazarus backdoor<a href="https://www.welivesecurity.com/2021/04/08/are-you-afreight-dark-watch-out-vyveva-new-lazarus-backdoor/?&web_view=true"> Full Text</a>
 </p>
 <details>
