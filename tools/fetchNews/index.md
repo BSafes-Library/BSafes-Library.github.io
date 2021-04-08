@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OneTrust raises $210M to expand its enterprise compliance solutions<a href="https://venturebeat.com/2021/04/08/onetrust-raises-210m-to-expand-its-enterprise-compliance-solutions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneTrust, a privacy, marketing, security, and data governance firm based in Atlanta, Georgia, today announced it has raised $210 million in a series C extension led by SoftBank’s Vision Fund 2.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BleedingTooth: Google drops full details of zero-click Linux Bluetooth bug chain leading to RCE<a href="https://portswigger.net/daily-swig/bleedingtooth-google-drops-full-details-of-zero-click-linux-bluetooth-bug-chain-leading-to-rce?&web_view=true"> Full Text</a>
 </p>
 <details>
