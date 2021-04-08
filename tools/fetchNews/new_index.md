@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BleedingTooth: Google drops full details of zero-click Linux Bluetooth bug chain leading to RCE<a href="https://portswigger.net/daily-swig/bleedingtooth-google-drops-full-details-of-zero-click-linux-bluetooth-bug-chain-leading-to-rce?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of zero-click vulnerabilities in the Linux Bluetooth subsystem that allow nearby, unauthenticated attackers “to execute arbitrary code with kernel privileges on vulnerable devices”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Compromised a Popular Carding Site Exposing 300,000 User Account Details<a href="https://www.cpomagazine.com/cyber-security/hackers-compromised-a-popular-carding-site-exposing-300000-user-account-details/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach on Card Mafia, a forum for stealing and trading credit cards, exposed email addresses, hashed passwords, usernames, and IP addresses of 297,744 carding site users.
+</details>
+<div style="text-align: right" markdown="1">
+CPO Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Stimulus Stimulates Unemployment Scams<a href="https://www.infosecurity-magazine.com:443/news/stimulus-stimulates-unemployment/"> Full Text</a>
 </p>
 <details>
