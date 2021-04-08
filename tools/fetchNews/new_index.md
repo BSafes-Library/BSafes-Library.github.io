@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moodle flaw exposed users to account takeover<a href="https://securityaffairs.co/wordpress/116560/hacking/moodle-account-takeover-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wizcase experts discovered a security flaw in the open-source learning platform Moodle that could allow accounts takeover.
+
+
+
+At the beginning of October 2020, the Wizcase cyber research team, led by Ata Hakcil, discovered a security vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
