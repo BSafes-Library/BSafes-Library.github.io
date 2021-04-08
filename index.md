@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Over 600,000 stolen credit cards leaked after Swarmshop hack<a href="https://www.bleepingcomputer.com/news/security/over-600-000-stolen-credit-cards-leaked-after-swarmshop-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking spree targeting underground marketplaces has claimed another victim as a database from card shop Swarmshop emerged on another forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Banking Trojan Surges: The New Emotet?<a href="https://threatpost.com/icedid-banking-trojan-surges-emotet/165314/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread email campaign using malicious Microsoft Excel attachments and Excel 4 macros is delivering IcedID at high volumes, suggesting it’s filling the Emotet void.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Belden says health benefits data stolen in 2020 cyberattack<a href="https://www.bleepingcomputer.com/news/security/belden-says-health-benefits-data-stolen-in-2020-cyberattack/"> Full Text</a>
 </p>
 <details>
