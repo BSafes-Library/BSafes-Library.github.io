@@ -323,6 +323,17 @@ A robust public debate is currently underway about the responsibility of online 
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2019
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cybersecurity in Elections - Models of Interagency Collaboration [HTML](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Information and communication technologies are increasingly prevalent in electoral management and democratic processes. These technologies offer numerous new opportunities, but also new threats. Cybersecurity is currently one of the greatest electoral challenges, even for countries without any form of electronic voting. It involves a broad range of actors, including electoral management bodies, cybersecurity expert bodies and security agencies. Many countries have found that interagency collaboration is essential for defending elections against digital threats. In recent years significant advances have been made in organizing such collaboration at the domestic and international levels.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2019
