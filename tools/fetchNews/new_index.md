@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Twitter will not allow Trump account archive on platform | Commerce Dept. still weighing approach to Huawei, TikTok | Dating apps work to reinvent amid COVID-19 pandemic<a href="https://thehill.com//policy/technology/overnights/547051-hillicon-valley-twitter-will-not-allow-trump-account-archive-on"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors targeted Slack and Discord as the pandemic raged on<a href="https://www.scmagazine.com/application-security/threat-actors-targeted-slack-and-discord-as-the-pandemic-raged-on/"> Full Text</a>
@@ -66,7 +66,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware cartel model didn’t fulfill potential, yet, but served as cybercrime proving ground<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-cartel-model-didnt-fulfill-potential-yet-but-served-as-cybercrime-proving-ground/"> Full Text</a>
@@ -82,7 +82,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Key House leader to press for inclusion of cybersecurity in infrastructure bill<a href="https://thehill.com//policy/cybersecurity/547045-key-house-leader-to-press-for-inclusion-of-cybersecurity-in"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cring ransomware deployed targeting unpatched Fortinet VPN devices<a href="https://securityaffairs.co/wordpress/116480/cyber-crime/cring-ransomware-fortinet-vpn-flaw.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VISA: Hackers increasingly using web shells to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/visa-hackers-increasingly-using-web-shells-to-steal-credit-cards/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 - [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Commerce Dept. still weighing approach to Huawei, TikTok<a href="https://thehill.com//policy/technology/547013-commerce-dept-still-weighing-approach-to-huawei-tiktok"> Full Text</a>
@@ -150,7 +150,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Blowing Up Discord, Slack with Malware  <a href="https://threatpost.com/attackers-discord-slack-malware/165295/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware now changes password to auto-login in Safe Mode<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-now-changes-password-to-auto-login-in-safe-mode/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes bug allowing remote code execution with root privileges<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-allowing-remote-code-execution-with-root-privileges/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Jamming Productivity of Manufacturing Sector<a href="https://cyware.com/news/cyberattackers-jamming-productivity-of-manufacturing-sector-126d36df"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Extortion Attacks Get Stronger and More Persistent<a href="https://cyware.com/news/ddos-extortion-attacks-get-stronger-and-more-persistent-53e3ff83"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crossing the Line: When Cyberattacks Become Acts of War<a href="https://threatpost.com/crossing-line-cyberattack-act-war/165290/"> Full Text</a>
@@ -246,7 +246,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Krebs: It’s time for a law that invests in the digital infrastructure<a href="https://www.scmagazine.com/home/security-news/ransomware/krebs-its-time-for-a-law-that-invests-in-the-digital-infrastructure/"> Full Text</a>
@@ -262,7 +262,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cring ransomware hits unpatched Fortinet VPN devices<a href="https://www.bleepingcomputer.com/news/security/new-cring-ransomware-hits-unpatched-fortinet-vpn-devices/"> Full Text</a>
@@ -278,7 +278,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA workflow application Emissary vulnerable to malicious takeover<a href="https://portswigger.net/daily-swig/nsa-workflow-application-emissary-vulnerable-to-malicious-takeover?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Consulting Firm Data Breach Impacts MSU<a href="https://www.infosecurity-magazine.com:443/news/consulting-firm-data-breach/"> Full Text</a>
@@ -310,7 +310,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT Pros Share Work Devices with Household<a href="https://www.infosecurity-magazine.com:443/news/it-pros-share-work-devices-with/"> Full Text</a>
@@ -326,7 +326,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks use Telegram bots and Google Forms to automate phishing<a href="https://securityaffairs.co/wordpress/116459/cyber-crime/telegram-bots-google-forms-phishing.html?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Netflix App on Google Play Spreads Malware Via WhatsApp<a href="https://threatpost.com/netflix-app-google-play-malware-whatsapp/165288/"> Full Text</a>
@@ -358,7 +358,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting Mission-critical SAP Applications Exploiting known Security Vulnerabilities<a href="https://cybersecuritynews.com/hackers-exploiting-sap-vulnerabilities/"> Full Text</a>
@@ -374,7 +374,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Forms and Telegram abused to collect phished credentials<a href="https://www.bleepingcomputer.com/news/security/google-forms-and-telegram-abused-to-collect-phished-credentials/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in ICS-specific backup solution open industrial facilities to attack<a href="https://www.helpnetsecurity.com/2021/04/07/vulnerabilities-ics-specific-backup/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ryuk's Rampage Has Lessons for the Enterprise<a href="https://www.darkreading.com/vulnerabilities---threats/ryuks-rampage-has-lessons-for-the-enterprise/a/d-id/1340533?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chemical Weapon Shopping Sends Dark Web User to Prison<a href="https://www.infosecurity-magazine.com:443/news/siesser-chemical-weapon-dark-web/"> Full Text</a>
@@ -438,7 +438,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gigaset Android smartphones infected with malware after supply chain attack<a href="https://securityaffairs.co/wordpress/116450/cyber-crime/gigaset-malware-supply-chain-attack.html?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gigaset Android phones infected by malware via hacked update server<a href="https://www.bleepingcomputer.com/news/security/gigaset-android-phones-infected-by-malware-via-hacked-update-server/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Perpetual Disruption: What is Good Cybersecurity Governance in Health Care?<a href="https://securityintelligence.com/articles/perpetual-disruption-part-1-cybersecurity-governance/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android to Support Rust Programming Language to Prevent Memory Flaws<a href="https://thehackernews.com/2021/04/android-to-support-rust-programming.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Emails Most Commonly Originate from Eastern Europe<a href="https://www.infosecurity-magazine.com:443/news/phishing-emails-originate-eastern/"> Full Text</a>
@@ -518,7 +518,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2021
+April 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's Windows 10, Exchange, and Teams hacked at Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/microsofts-windows-10-exchange-and-teams-hacked-at-pwn2own/"> Full Text</a>
@@ -534,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aurora campaign: Attacking Azerbaijan using multiple RATs<a href="https://blog.malwarebytes.com/threat-analysis/2021/04/aurora-campaign-attacking-azerbaijan-using-multiple-rats/?&web_view=true"> Full Text</a>
@@ -550,7 +550,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own 2021 Day 1 – participants earned more than $500k<a href="https://securityaffairs.co/wordpress/116469/hacking/pwn2own-2021-d1.html"> Full Text</a>
@@ -570,7 +570,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IG: Cybersecurity Weaknesses Persist in US Energy Dept.<a href="https://www.govinfosecurity.com/ig-cybersecurity-weaknesses-persist-in-us-energy-dept-a-16348?&web_view=true"> Full Text</a>
@@ -586,7 +586,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rust in the Android platform<a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html?&web_view=true"> Full Text</a>
@@ -602,7 +602,7 @@ Chrome Releases
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoD Launches Vuln Disclosure Program for Contractor Networks<a href="https://www.securityweek.com/us-dod-launches-vuln-disclosure-program-contractor-networks?&web_view=true"> Full Text</a>
@@ -618,7 +618,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2021
+April 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How do I select an attack detection solution for my business?<a href="https://www.helpnetsecurity.com/2021/04/07/select-attack-detection-solution/?&web_view=true"> Full Text</a>
