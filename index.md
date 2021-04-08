@@ -34,6 +34,126 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 hacked again at Pwn2Own, Chrome and Zoom also fall<a href="https://www.bleepingcomputer.com/news/security/windows-10-hacked-again-at-pwn2own-chrome-and-zoom-also-fall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contestants hacked Microsoft's Windows 10 OS twice during the second day of the Pwn2Own 2021 competition, together with the Google Chrome web browser and the Zoom video communication platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco RCE Flaws Let Attackers Let Attackers Escalate Privileges<a href="https://cybersecuritynews.com/cisco-rce-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did 4 Major Ransomware Groups Truly Form a Cartel?<a href="https://www.darkreading.com/threat-intelligence/did-4-major-ransomware-groups-truly-form-a-cartel/d/d-id/1340619?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The four cybercriminal groups — Twisted Spider, Viking Spider, Wizard Spider, and the Lockbit Gang — announced at different times throughout summer 2020 that they would be working together.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncover a new Iranian malware used in recent cyberattacks<a href="https://thehackernews.com/2021/04/researchers-uncover-new-iranian-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian threat actor has unleashed a new cyberespionage campaign against a possible Lebanese target with a backdoor capable of exfiltrating sensitive information from compromised systems.  Cybersecurity firm Check Point attributed the operation to APT34, citing similarities with previous techniques used by the threat actor as well as based on its pattern of victimology.  APT34  (aka OilRig) is known for its reconnaissance campaigns aligned with the strategic interests of Iran, primarily hitting financial, government, energy, chemical, and telecommunications industries in the Middle East.   The group typically resorts to targeting individuals through the use of booby-trapped job offer documents, delivered directly to the victims via LinkedIn messages, and the latest campaign is no exception, although the mode of delivery remains unclear as yet.  The Word document analyzed by Check Point — which was  uploaded  to VirusTotal from Lebanon on January 10 — claims to offer information abo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scraped data of 500 million LinkedIn users being sold online, 2 million records leaked as proof<a href="https://securityaffairs.co/wordpress/116528/security/linkedin-500m-users-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after a massive Facebook data leak made the headlines, 500 million LinkedIn users are being sold online, seller leaked 2 million records as proof.
+
+
+
+Original Post at https://cybernews.com/news/stolen-data-of-500-million-linkedin-users-being-sold-online-2-million-leaked-as-proof-2/
+
+
+
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cofense acquires Cyberfish to eliminate the need for legacy email security solutions<a href="https://www.helpnetsecurity.com/2021/04/08/cofense-cyberfish/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense announced the acquisition of Cyberfish, a provider of next-generation phishing protection powered by Computer Vision and advanced Machine Learning (ML) technology.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanbian Gang Malware Continues with Wide-Scale Distribution and C2<a href="https://www.riskiq.com/blog/external-threat-management/yanbian-gang-malware-distribution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yanbian Gang has targeted South Korean Android mobile banking customers since 2013 with malicious Android apps purporting to be from major banks, namely Shinhan Savings Bank, Saemaul Geumgo, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Risk IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
