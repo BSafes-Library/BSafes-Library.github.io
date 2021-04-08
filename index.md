@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases tool to review Microsoft 365 post-compromise activity<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-tool-to-review-microsoft-365-post-compromise-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has released a companion Splunk-based dashboard that helps review post-compromise activity in Microsoft Azure Active Directory (AD), Office 365 (O365), and Microsoft 365 (M365) environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major DC insurance provider hacked by 'foreign cybercriminals'<a href="https://thehill.com//policy/cybersecurity/547250-major-dc-insurance-provider-hacked-by-foreign-cybercriminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CareFirst BlueCross BlueShield’s Community Health Plan District of Columbia (CHPDC) suffered a data breach carried out by what it described as a “foreign cybercriminal” group in January that potentially impacted sensitive data, the company told customers this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cring ransomware spread through hole in FortiGate VPN<a href="https://www.scmagazine.com/home/security-news/ransomware/cring-ransomware-spread-through-hole-in-fortigate-vpn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the early months of 2021 the ransomware operators struck a series of European industrial networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
