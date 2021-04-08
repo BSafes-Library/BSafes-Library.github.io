@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chemical Weapon Shopping Sends Dark Web User to Prison<a href="https://www.infosecurity-magazine.com:443/news/siesser-chemical-weapon-dark-web/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Broken-hearted American locked up for 12 years for trying to buy chemical weapon on dark web
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

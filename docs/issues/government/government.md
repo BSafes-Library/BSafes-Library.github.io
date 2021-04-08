@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key House leader to press for inclusion of cybersecurity in infrastructure bill<a href="https://thehill.com//policy/cybersecurity/547045-key-house-leader-to-press-for-inclusion-of-cybersecurity-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rep. Yvette Clarke (D-N.Y.), the chair of a key cyber House panel, said Wednesday that she would push for inclusion of language on securing critical systems as part of negotiations around President’s Biden’s infrastructure proposal.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IG: Cybersecurity Weaknesses Persist in US Energy Dept.<a href="https://www.govinfosecurity.com/ig-cybersecurity-weaknesses-persist-in-us-energy-dept-a-16348?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity weaknesses persist throughout the U.S. DOE's unclassified networks, including those of the National Nuclear Security Administration, according to an inspector general audit.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook attributes 533 million users' data leak to "scraping" not hacking<a href="https://www.bleepingcomputer.com/news/security/facebook-attributes-533-million-users-data-leak-to-scraping-not-hacking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has now released a public statement clarifying the cause of and addressing some of the concerns related to the recent data leak. As reported&nbsp;last week, information of about&nbsp;533 million Facebook profiles surfaced&nbsp;on a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook: Stolen Data Scraped from Platform in 2019<a href="https://threatpost.com/facebook-stolen-data-scraped/165285/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw that caused the leak of personal data of more than 533 million users over the weekend no longer exists; however, the social media giant still faces an investigation by EU regulators.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1 Million People Affected by Newly Revealed Accellion Health Data Breaches<a href="https://www.govinfosecurity.com/more-accellion-health-data-breaches-revealed-a-16350?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Months after the December cyberattack on Accellion's File Transfer Appliance, the identities of more healthcare sector entities that were affected continue to come to light.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office Depot Configuration Error Exposes One Million Records<a href="https://www.infosecurity-magazine.com:443/news/office-depot-configuration-error/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say Elasticsearch database may have been open for 10 days
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

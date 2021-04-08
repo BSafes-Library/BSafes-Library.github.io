@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Forms and Telegram abused to collect phished credentials<a href="https://www.bleepingcomputer.com/news/security/google-forms-and-telegram-abused-to-collect-phished-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers note an increase in alternative methods to steal data from phishing attacks, as scammers obtain the stolen info through Google Forms or private Telegram bots.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Emails Most Commonly Originate from Eastern Europe<a href="https://www.infosecurity-magazine.com:443/news/phishing-emails-originate-eastern/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The five countries sending the highest proportion of phishing emails are from Eastern Europe
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

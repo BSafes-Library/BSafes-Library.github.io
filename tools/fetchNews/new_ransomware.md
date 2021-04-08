@@ -8,6 +8,80 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware cartel model didn’t fulfill potential, yet, but served as cybercrime proving ground<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-cartel-model-didnt-fulfill-potential-yet-but-served-as-cybercrime-proving-ground/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Competing ransomware actors don’t have enough incentive to collaborate and share profits, but that could change as automated attacks evolve.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cring ransomware deployed targeting unpatched Fortinet VPN devices<a href="https://securityaffairs.co/wordpress/116480/cyber-crime/cring-ransomware-fortinet-vpn-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are actively exploiting the&nbsp;CVE-2018-13379 flaw in Fortinet VPN to deploy the Cring ransomware to organizations in the industrial sector.
+
+
+
+Threat actors are actively exploiting the CVE-2018-13379 vulnerability in Fortinet VPNs to deploy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware now changes password to auto-login in Safe Mode<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-now-changes-password-to-auto-login-in-safe-mode/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent change to the REvil ransomware allows the threat actors to automate file encryption via Safe Mode after changing Windows passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cring ransomware hits unpatched Fortinet VPN devices<a href="https://www.bleepingcomputer.com/news/security/new-cring-ransomware-hits-unpatched-fortinet-vpn-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability impacting Fortinet VPNs is being exploited by a new human-operated ransomware strain known as Cring to breach and encrypt industrial sector companies' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk's Rampage Has Lessons for the Enterprise<a href="https://www.darkreading.com/vulnerabilities---threats/ryuks-rampage-has-lessons-for-the-enterprise/a/d-id/1340533?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ryuk was among the first high-touch "human-operated" ransomware campaigns that have become prevalent in recent years, affecting both public and private sector organizations with crippling attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

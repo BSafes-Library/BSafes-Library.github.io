@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Patch Legacy SAP Vulnerabilities Urgently<a href="https://www.infosecurity-magazine.com:443/news/cisa-patch-legacy-sap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Onapsis report claims some exploited bugs date back to 2010
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU institutions experienced hack attempt in March: spokesman<a href="https://www.reuters.com/article/us-eu-cyber-attack/eu-institutions-experienced-hack-attempt-in-march-spokesman-idUSKBN2BT20T?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission and other EU institutions were the target of a cyber attack last month, but there has been no evidence so far of any major information breach, a Commission spokesman said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Commission and other institutions were hit by a major cyber-attack<a href="https://securityaffairs.co/wordpress/116441/hacking/european-commission-institutions-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only the European Commission, but many other organizations of the European Union have been targeted by a cyberattack in March.
+
+
+
+A European Commission spokesperson confirmed that the European Commission, along with other European Union organizations,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
