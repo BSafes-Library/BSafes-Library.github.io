@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+User database was also hacked in the recent hack of PHP ‘s Git Server<a href="https://securityaffairs.co/wordpress/116500/data-breach/php-sites-user-database-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the PHP programming language confirmed that threat actors may have compromised a user database containing their passwords.
+
+
+
+The maintainers of the PHP programming language have provided an update regarding the security breach that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Selling 330,000 Stolen Payment Cards and 895,000 Gift Cards from Online Shops<a href="https://cybersecuritynews.com/hackers-selling-stolen-payment-cards/"> Full Text</a>
 </p>
 <details>
