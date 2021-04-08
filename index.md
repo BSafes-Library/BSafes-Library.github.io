@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Americans Avoid Sites After Forgetting Passwords<a href="https://www.infosecurity-magazine.com:443/news/americans-avoid-sites-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password forgetfulness triggers site and account avoidance in 64% of Americans
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own 2021 Day 2 – experts earned $200K for a zero-interaction Zoom exploit<a href="https://securityaffairs.co/wordpress/116542/hacking/pwn2own-2021-2-day-2.html"> Full Text</a>
 </p>
 <details>
