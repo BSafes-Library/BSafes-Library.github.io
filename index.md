@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man arrested after hired a hitman on the dark web<a href="https://securityaffairs.co/wordpress/116493/cyber-crime/man-hired-hitman-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation of Europol and the Italian Postal and Communication Police resulted in the arrest of an Italian national who hired a hitman on the dark web.
+
+
+
+Europol and the Italian Postal and Communication Police (Polizia Postale e delle Comunicazioni)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
