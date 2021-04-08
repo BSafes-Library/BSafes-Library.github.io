@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Site's User Database Was Hacked In Recent Source Code Backdoor Attack<a href="https://thehackernews.com/2021/04/php-sites-user-database-was-hacked-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the PHP programming language have issued an update regarding the security incident that came to light late last month, stating that the actors may have gotten hold of a user database containing their passwords to make unauthorized changes to the repository.  "We no longer believe the git.php.net server has been compromised. However, it is possible that the master.php.net user database leaked," Nikita Popov  said  in a message posted on its mailing list on April 6.   On March 28, unidentified actors used the names of Rasmus Lerdorf and Popov to  push malicious commits  to the "php-src" repository hosted on the git.php.net server that involved adding a backdoor to the PHP source code in an instance of a software supply chain attack.  While this was initially treated as a compromise of the git.php.net server, further investigation into the incident has revealed that the commits were a result of pushing them using HTTPS and password-based authenticat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
