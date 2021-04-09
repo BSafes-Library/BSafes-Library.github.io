@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Will Not Patch Critical RCE Flaw Affecting End-of-Life Business Routers<a href="https://thehackernews.com/2021/04/cisco-will-not-patch-critical-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco Systems has said it does not plan to fix a critical security vulnerability affecting some of its Small Business routers, instead urging users to replace the devices.  The bug, tracked as CVE-2021-1459, is rated with a CVSS score of  9.8 out of 10, and affects RV110W VPN firewall and Small Business RV130, RV130W, and RV215W routers, allowing an unauthenticated, remote attacker to execute arbitrary code on an affected appliance.   The flaw, which stems from improper validation of user-supplied input in the web-based management interface, could be exploited by a malicious actor to send specially-crafted HTTP requests to the targeted device and achieve remote code execution.  " A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system of the affected device," Cisco  said  in its advisory.   Security researcher Treck Zhou has been credited with reporting the vulnerability. Although
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hacked as Underground Carding Site is Breached<a href="https://www.infosecurity-magazine.com:443/news/hackers-hack-hackers-underground/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swarmshop admins, buyers and sellers on the receiving end of cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 9, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
