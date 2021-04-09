@@ -29,13 +29,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.bleepingcomputer.com/news/security/fbi-warns-of-vishing-attacks-stealing-corporate-accounts
-. https://www.bleepingcomputer.com/news/security/fbi-telephony-denial-of-service-attacks-can-lead-to-loss-of-lives/
-. https://threatpost.com/cisa-federal-agencies-patch-exchange-servers/164499/
-. https://www.scmagazine.com/home/security-news/cybercrime/fbi-cybercrime-skyrocketed-in-2020-with-email-compromise-scams-accounting-for-43-of-losses/
-. https://www.scmagazine.com/home/patch-management/hackers-actively-targeting-unsecured-sap-installs-dhs-sap-and-onapsis-warn/
-. https://www.infosecurity-magazine.com:443/news/cisa-patch-legacy-sap/
-. https://www.bleepingcomputer.com/news/security/cisa-releases-tool-to-review-microsoft-365-post-compromise-activity/
 
 APT
 . APT27

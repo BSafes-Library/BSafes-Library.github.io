@@ -6,10 +6,22 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-008a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This Alert is a companion alert to AA20-352A: Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations. AA20-352A primarily focuses on an advanced persistent threat (APT) actor’s compromise of SolarWinds Orion products as an initial access vector into networks of U.S. Government agencies, critical infrastructure entities, and private network organizations. As noted in AA20-352A, the Cybersecurity and Infrastructure Security Agency (CISA) has evidence of initial access vectors in addition to the compromised SolarWinds Orion products.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 6, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Malicious Cyber Activity Targeting Critical SAP Applications <a href=""> Full Texhttps://publications.bsafes.com/docs/fbi/joint-cyber-security-advisory-2021-04-02-apt-actors-exploit-vulnerabilities-to-gain-initial-access-for-future-attacks://us-cert.cisa.gov/ncas/current-activity/2021/04/06/malicious-cyber-activity-targeting-critical-sap-applicationst</a>
+Malicious Cyber Activity Targeting Critical SAP Applications <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/04/06/malicious-cyber-activity-targeting-critical-sap-applications"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
@@ -38,7 +50,9 @@ Justice Department Warns About Fake Post-Vaccine Survey Scams <a href="https://w
 <details>
   <summary>Abstract</summary>
 The Department of Justice has received reports that fraudsters are creating fraudulent COVID-19 vaccine surveys for consumers to fill out with the promise of a prize or cash at the conclusion of the survey. In reality, the surveys are used to steal money from consumers and unlawfully capture consumers’ personal information.
+</details>
 </div>
+
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 31, 2021 - CISA
