@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive increase in endpoint attacks, rising rate of encrypted malware and new exploits targeting IoT<a href="https://www.helpnetsecurity.com/2021/04/07/encrypted-malware-detections-q4-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fileless malware and cryptominer attack rates grew by nearly 900% and 25% respectively, while unique ransomware payloads plummeted by 48% in 2020 compared to 2019, according to WatchGuard.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases tool to review Microsoft 365 post-compromise activity<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-tool-to-review-microsoft-365-post-compromise-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has released a companion Splunk-based dashboard that helps review post-compromise activity in&nbsp;Microsoft Azure Active Directory (AD), Office 365 (O365), and Microsoft 365&nbsp;(M365) environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commerce blacklists seven Chinese supercomputing groups<a href="https://thehill.com//policy/cybersecurity/547141-commerce-dept-blacklists-seven-chinese-supercomputing-groups"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department on Thursday blacklisted seven Chinese supercomputing groups, adding the companies to its "entity list” as potential national security threats.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

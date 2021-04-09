@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST and HIPAA: Is There a Password Connection?<a href="https://thehackernews.com/2021/04/nist-and-hipaa-is-there-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When dealing with user data, it's essential that we design our password policies around compliance. These policies are defined both internally and externally.  While companies uphold their own password standards, outside forces like HIPAA and NIST have a heavy influence. Impacts are defined by industry and one's unique infrastructure. How do IT departments maintain compliance with NIST and HIPAA?  We'll discuss each compliance measure and its importance in this article.  What is NIST compliance?  Defined by the National Institute of Standards and Technology, NIST compliance aims to harden federal systems against cyber-attacks. While the agency is non-regulatory, it&nbsp; is &nbsp;part of the U.S. Department of Commerce, which has plenty of influence over government agencies and their contractors.  For example, NIST guidelines help agencies&nbsp; satisfy the requirements of the Federal Information Security Management Act &nbsp;(FISMA). NIST is instrumental in creating Federal Information Proce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Arrested After Allegedly Paying Hitman to Murder Ex-Girlfriend<a href="https://www.infosecurity-magazine.com:443/news/italian-arrested-paying-hitman/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol officers analyzed crypto-transactions to trace individual
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man arrested after hired a hitman on the dark web<a href="https://securityaffairs.co/wordpress/116493/cyber-crime/man-hired-hitman-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation of Europol and the Italian Postal and Communication Police resulted in the arrest of an Italian national who hired a hitman on the dark web.
+
+
+
+Europol and the Italian Postal and Communication Police (Polizia Postale e delle Comunicazioni)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

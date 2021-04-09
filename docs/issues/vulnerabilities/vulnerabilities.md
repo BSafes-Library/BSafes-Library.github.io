@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome blocks port 10080 to stop NAT Slipstreaming attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-blocks-port-10080-to-stop-nat-slipstreaming-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome is now blocking HTTP, HTTPS, and FTP access to TCP port 10080 to prevent the ports from being abused in NAT Slipstreaming 2.0 attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Bug Impacts Problem-Plagued Cisco SOHO Routers<a href="https://threatpost.com/zero-day-bug-soho-routers/165321/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco says it will not patch three small business router models and one VPN firewall device with critical vulnerabilities. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome blocks a new port to stop NAT Slipstreaming attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-blocks-a-new-port-to-stop-nat-slipstreaming-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome is now blocking HTTP, HTTPS, and FTP access to TCP port 10080 to prevent the ports from being abused in NAT Slipstreaming 2.0 attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BleedingTooth: Google drops full details of zero-click Linux Bluetooth bug chain leading to RCE<a href="https://portswigger.net/daily-swig/bleedingtooth-google-drops-full-details-of-zero-click-linux-bluetooth-bug-chain-leading-to-rce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of zero-click vulnerabilities in the Linux Bluetooth subsystem that allow nearby, unauthenticated attackers “to execute arbitrary code with kernel privileges on vulnerable devices”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own 2021 Day 2 – experts earned $200K for a zero-interaction Zoom exploit<a href="https://securityaffairs.co/wordpress/116542/hacking/pwn2own-2021-2-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own 2021 - Day 2: a security duo earned $200,000 for a zero-interaction Zoom exploit allowing remote code execution.
+
+
+
+One of the most interesting working exploits of the second day of the Pwn2Own 2021 was demonstrated by security researchers Daan...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 hacked again at Pwn2Own, Chrome and Zoom also fall<a href="https://www.bleepingcomputer.com/news/security/windows-10-hacked-again-at-pwn2own-chrome-and-zoom-also-fall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contestants&nbsp;hacked Microsoft's Windows 10 OS twice&nbsp;during the second day of the Pwn2Own 2021 competition, together with the Google Chrome web browser&nbsp;and the Zoom video communication platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco RCE Flaws Let Attackers Let Attackers Escalate Privileges<a href="https://cybersecuritynews.com/cisco-rce-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

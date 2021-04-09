@@ -11,6 +11,48 @@ nav_order: 900072
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+98% of Organizations Received Email Threats from Suppliers: What You Should Know<a href="https://www.proofpoint.com/us/blog/email-and-cloud-threats/98-organizations-received-email-threats-suppliers-what-you-should-know?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint’s recent research indicates that 98% of nearly 3,000 monitored organizations across the U.S., UK, and Australia, received a threat from a supplier domain over a 7-day window in February.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases a cyberattack simulator - Shall we play a game?<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-a-cyberattack-simulator-shall-we-play-a-game/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an open-source cyberattack simulator that allows security researchers and data scientists to create simulated network environments and see how they fare against AI-controlled cyber agents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans Avoid Sites After Forgetting Passwords<a href="https://www.infosecurity-magazine.com:443/news/americans-avoid-sites-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password forgetfulness triggers site and account avoidance in 64% of Americans
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Online Fraud in the UK Up 179% in the Last Decade<a href="https://www.infosecurity-magazine.com:443/news/online-fraud-uk-increases-last/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major DC insurance provider hacked by 'foreign cybercriminals'<a href="https://thehill.com//policy/cybersecurity/547250-major-dc-insurance-provider-hacked-by-foreign-cybercriminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CareFirst BlueCross BlueShield’s Community Health Plan District of Columbia (CHPDC) suffered a data breach carried out by what it described as a “foreign cybercriminal” group in January that potentially impacted sensitive data, the company told customers this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

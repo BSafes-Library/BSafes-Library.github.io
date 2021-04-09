@@ -11,6 +11,34 @@ nav_order: 900027
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OneTrust raises $210M to expand its enterprise compliance solutions<a href="https://venturebeat.com/2021/04/08/onetrust-raises-210m-to-expand-its-enterprise-compliance-solutions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneTrust, a privacy, marketing, security, and data governance firm based in Atlanta, Georgia, today announced it has raised $210 million in a series C extension led by SoftBank’s Vision Fund 2.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cofense acquires Cyberfish to eliminate the need for legacy email security solutions<a href="https://www.helpnetsecurity.com/2021/04/08/cofense-cyberfish/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense announced the acquisition of Cyberfish, a provider of next-generation phishing protection powered by Computer Vision and advanced Machine Learning (ML) technology.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ACC Launches Data Security Program for Law Firms<a href="https://www.infosecurity-magazine.com:443/news/acc-launches-data-security-program/"> Full Text</a>
 </p>
 <details>

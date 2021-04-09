@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 200 Bangladesh Organizations Hit by Hafnium Hacker Group<a href="https://heimdalsecurity.com/blog/over-200-bangladesh-organizations-hit-by-hafnium-hacker-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a Cyber Threat Report released by the Bangladesh Government’s e-GOV CIRT on April 1st, hacker group Hafnium has launched attacks on more than 200 organizations in Bangladesh.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

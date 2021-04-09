@@ -11,6 +11,134 @@ nav_order: 900029
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit nine countries, expose 623,036 payment card records<a href="https://www.scmagazine.com/home/security-news/cybercrime/hackers-hit-nine-countries-expose-623036-payment-card-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers hacking hackers: User data of the Swarmshop card shop – which trades in stolen personal and payment records – was leaked online on March 17 and posted on a different underground forum.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moodle flaw exposed users to account takeover<a href="https://securityaffairs.co/wordpress/116560/hacking/moodle-account-takeover-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wizcase experts discovered a security flaw in the open-source learning platform Moodle that could allow accounts takeover.
+
+
+
+At the beginning of October 2020, the&nbsp;Wizcase&nbsp;cyber research team, led by Ata Hakcil, discovered a security vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 600,000 stolen credit cards leaked after Swarmshop hack<a href="https://www.bleepingcomputer.com/news/security/over-600-000-stolen-credit-cards-leaked-after-swarmshop-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking spree targeting underground marketplaces has claimed another victim as a database from card shop Swarmshop emerged on another forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belden says health benefits data stolen in 2020 cyberattack<a href="https://www.bleepingcomputer.com/news/security/belden-says-health-benefits-data-stolen-in-2020-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belden has disclosed that additional data was accessed and copied during their November 2020 cyberattack related to employees' healthcare benefits and family members covered under their plan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belden finds more personal data stolen in 2020 cyberattack<a href="https://www.bleepingcomputer.com/news/security/belden-finds-more-personal-data-stolen-in-2020-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belden has disclosed that additional data was accessed and copied during their November 2020 cyberattack related to employees' healthcare benefits and family members covered under their plan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Compromised a Popular Carding Site Exposing 300,000 User Account Details<a href="https://www.cpomagazine.com/cyber-security/hackers-compromised-a-popular-carding-site-exposing-300000-user-account-details/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach on Card Mafia, a forum for stealing and trading credit cards, exposed email addresses, hashed passwords, usernames, and IP addresses of 297,744 carding site users.
+</details>
+<div style="text-align: right" markdown="1">
+CPO Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swarmshop – What goes around comes around: hackers leak other hackers’ data online<a href="https://securityaffairs.co/wordpress/116549/cyber-crime/swarmshop-card-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company, discovered that user data of the&nbsp;Swarmshop&nbsp;card shop have been leaked online on March 17, 2021. 
+
+
+
+The database was posted on a different underground forum...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scraped data of 500 million LinkedIn users being sold online, 2 million records leaked as proof<a href="https://securityaffairs.co/wordpress/116528/security/linkedin-500m-users-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after a&nbsp;massive Facebook data leak&nbsp;made the headlines, 500 million LinkedIn users are being sold online, seller leaked 2 million records as proof.
+
+
+
+Original Post at https://cybernews.com/news/stolen-data-of-500-million-linkedin-users-being-sold-online-2-million-leaked-as-proof-2/
+
+
+
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Office Depot Europe Exposed Customer Data Online: Report<a href="https://www.websiteplanet.com/blog/office-depot-leak-report/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

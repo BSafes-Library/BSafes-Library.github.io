@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Google Forms and Telegram bots to Collect Phished Credentials<a href="https://cybersecuritynews.com/hackers-use-google-forms-and-telegram-bots-to-collect-phished-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cybercriminals are increasingly using legitimate services such as Google Forms and Telegram to gather user data stolen on phishing websites. Alternative ways...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital artists meet scam artists, as criminals pounce on NFT craze<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/digital-artists-meet-scam-artists-as-criminals-pounce-on-nft-craze/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals are standing up fraudulent NFT-themed websites that sell nonexistent items or phish users’ credentials.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stimulus Stimulates Unemployment Scams<a href="https://www.infosecurity-magazine.com:443/news/stimulus-stimulates-unemployment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspicious unemployment-related emails up 50% in US since late February
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

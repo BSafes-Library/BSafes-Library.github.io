@@ -34,6 +34,570 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Google Forms and Telegram bots to Collect Phished Credentials<a href="https://cybersecuritynews.com/hackers-use-google-forms-and-telegram-bots-to-collect-phished-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Cybercriminals are increasingly using legitimate services such as Google Forms and Telegram to gather user data stolen on phishing websites. Alternative ways...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome blocks port 10080 to stop NAT Slipstreaming attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-blocks-port-10080-to-stop-nat-slipstreaming-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome is now blocking HTTP, HTTPS, and FTP access to TCP port 10080 to prevent the ports from being abused in NAT Slipstreaming 2.0 attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital artists meet scam artists, as criminals pounce on NFT craze<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/digital-artists-meet-scam-artists-as-criminals-pounce-on-nft-craze/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals are standing up fraudulent NFT-themed websites that sell nonexistent items or phish users’ credentials.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit nine countries, expose 623,036 payment card records<a href="https://www.scmagazine.com/home/security-news/cybercrime/hackers-hit-nine-countries-expose-623036-payment-card-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers hacking hackers: User data of the Swarmshop card shop – which trades in stolen personal and payment records – was leaked online on March 17 and posted on a different underground forum.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases tool to review Microsoft 365 post-compromise activity<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-tool-to-review-microsoft-365-post-compromise-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has released a companion Splunk-based dashboard that helps review post-compromise activity in Microsoft Azure Active Directory (AD), Office 365 (O365), and Microsoft 365 (M365) environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major DC insurance provider hacked by 'foreign cybercriminals'<a href="https://thehill.com//policy/cybersecurity/547250-major-dc-insurance-provider-hacked-by-foreign-cybercriminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CareFirst BlueCross BlueShield’s Community Health Plan District of Columbia (CHPDC) suffered a data breach carried out by what it described as a “foreign cybercriminal” group in January that potentially impacted sensitive data, the company told customers this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cring ransomware spread through hole in FortiGate VPN<a href="https://www.scmagazine.com/home/security-news/ransomware/cring-ransomware-spread-through-hole-in-fortigate-vpn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the early months of 2021 the ransomware operators struck a series of European industrial networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adware Spreads via Fake TikTok App, Laptop Offers<a href="https://threatpost.com/adware-tiktok-laptop-offers/165318/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are encouraging users to send the “offers” via WhatsApp to their friends as well. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Bug Impacts Problem-Plagued Cisco SOHO Routers<a href="https://threatpost.com/zero-day-bug-soho-routers/165321/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco says it will not patch three small business router models and one VPN firewall device with critical vulnerabilities. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome blocks a new port to stop NAT Slipstreaming attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-blocks-a-new-port-to-stop-nat-slipstreaming-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome is now blocking HTTP, HTTPS, and FTP access to TCP port 10080 to prevent the ports from being abused in NAT Slipstreaming 2.0 attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moodle flaw exposed users to account takeover<a href="https://securityaffairs.co/wordpress/116560/hacking/moodle-account-takeover-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wizcase experts discovered a security flaw in the open-source learning platform Moodle that could allow accounts takeover.
+
+
+
+At the beginning of October 2020, the Wizcase cyber research team, led by Ata Hakcil, discovered a security vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 600,000 stolen credit cards leaked after Swarmshop hack<a href="https://www.bleepingcomputer.com/news/security/over-600-000-stolen-credit-cards-leaked-after-swarmshop-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking spree targeting underground marketplaces has claimed another victim as a database from card shop Swarmshop emerged on another forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Banking Trojan Surges: The New Emotet?<a href="https://threatpost.com/icedid-banking-trojan-surges-emotet/165314/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread email campaign using malicious Microsoft Excel attachments and Excel 4 macros is delivering IcedID at high volumes, suggesting it’s filling the Emotet void.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belden says health benefits data stolen in 2020 cyberattack<a href="https://www.bleepingcomputer.com/news/security/belden-says-health-benefits-data-stolen-in-2020-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belden has disclosed that additional data was accessed and copied during their November 2020 cyberattack related to employees' healthcare benefits and family members covered under their plan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+College Track Coach Accused of Cyberstalking<a href="https://www.infosecurity-magazine.com:443/news/college-track-coach-accused-of/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Athletics coach arrested on suspicion of tricking female athletes into sending him nudes
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+98% of Organizations Received Email Threats from Suppliers: What You Should Know<a href="https://www.proofpoint.com/us/blog/email-and-cloud-threats/98-organizations-received-email-threats-suppliers-what-you-should-know?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint’s recent research indicates that 98% of nearly 3,000 monitored organizations across the U.S., UK, and Australia, received a threat from a supplier domain over a 7-day window in February.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+(Are you) afreight of the dark? Watch out for Vyveva, new Lazarus backdoor<a href="https://www.welivesecurity.com/2021/04/08/are-you-afreight-dark-watch-out-vyveva-new-lazarus-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers have discovered a previously undocumented Lazarus malware backdoor used to attack a freight logistics company in South Africa, which they have dubbed Vyveva.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belden finds more personal data stolen in 2020 cyberattack<a href="https://www.bleepingcomputer.com/news/security/belden-finds-more-personal-data-stolen-in-2020-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belden has disclosed that additional data was accessed and copied during their November 2020 cyberattack related to employees' healthcare benefits and family members covered under their plan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OneTrust raises $210M to expand its enterprise compliance solutions<a href="https://venturebeat.com/2021/04/08/onetrust-raises-210m-to-expand-its-enterprise-compliance-solutions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneTrust, a privacy, marketing, security, and data governance firm based in Atlanta, Georgia, today announced it has raised $210 million in a series C extension led by SoftBank’s Vision Fund 2.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BleedingTooth: Google drops full details of zero-click Linux Bluetooth bug chain leading to RCE<a href="https://portswigger.net/daily-swig/bleedingtooth-google-drops-full-details-of-zero-click-linux-bluetooth-bug-chain-leading-to-rce?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of zero-click vulnerabilities in the Linux Bluetooth subsystem that allow nearby, unauthenticated attackers “to execute arbitrary code with kernel privileges on vulnerable devices”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Compromised a Popular Carding Site Exposing 300,000 User Account Details<a href="https://www.cpomagazine.com/cyber-security/hackers-compromised-a-popular-carding-site-exposing-300000-user-account-details/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach on Card Mafia, a forum for stealing and trading credit cards, exposed email addresses, hashed passwords, usernames, and IP addresses of 297,744 carding site users.
+</details>
+<div style="text-align: right" markdown="1">
+CPO Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stimulus Stimulates Unemployment Scams<a href="https://www.infosecurity-magazine.com:443/news/stimulus-stimulates-unemployment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspicious unemployment-related emails up 50% in US since late February
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swarmshop – What goes around comes around: hackers leak other hackers’ data online<a href="https://securityaffairs.co/wordpress/116549/cyber-crime/swarmshop-card-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company, discovered that user data of the Swarmshop card shop have been leaked online on March 17, 2021. 
+
+
+
+The database was posted on a different underground forum...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases a cyberattack simulator - Shall we play a game?<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-a-cyberattack-simulator-shall-we-play-a-game/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an open-source cyberattack simulator that allows security researchers and data scientists to create simulated network environments and see how they fare against AI-controlled cyber agents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commerce blacklists seven Chinese supercomputing groups<a href="https://thehill.com//policy/cybersecurity/547141-commerce-dept-blacklists-seven-chinese-supercomputing-groups"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department on Thursday blacklisted seven Chinese supercomputing groups, adding the companies to its "entity list” as potential national security threats. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans Avoid Sites After Forgetting Passwords<a href="https://www.infosecurity-magazine.com:443/news/americans-avoid-sites-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password forgetfulness triggers site and account avoidance in 64% of Americans
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own 2021 Day 2 – experts earned $200K for a zero-interaction Zoom exploit<a href="https://securityaffairs.co/wordpress/116542/hacking/pwn2own-2021-2-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own 2021 - Day 2: a security duo earned $200,000 for a zero-interaction Zoom exploit allowing remote code execution.
+
+
+
+One of the most interesting working exploits of the second day of the Pwn2Own 2021 was demonstrated by security researchers Daan...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 hacked again at Pwn2Own, Chrome and Zoom also fall<a href="https://www.bleepingcomputer.com/news/security/windows-10-hacked-again-at-pwn2own-chrome-and-zoom-also-fall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contestants hacked Microsoft's Windows 10 OS twice during the second day of the Pwn2Own 2021 competition, together with the Google Chrome web browser and the Zoom video communication platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco RCE Flaws Let Attackers Let Attackers Escalate Privileges<a href="https://cybersecuritynews.com/cisco-rce-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did 4 Major Ransomware Groups Truly Form a Cartel?<a href="https://www.darkreading.com/threat-intelligence/did-4-major-ransomware-groups-truly-form-a-cartel/d/d-id/1340619?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The four cybercriminal groups — Twisted Spider, Viking Spider, Wizard Spider, and the Lockbit Gang — announced at different times throughout summer 2020 that they would be working together.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncover a new Iranian malware used in recent cyberattacks<a href="https://thehackernews.com/2021/04/researchers-uncover-new-iranian-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian threat actor has unleashed a new cyberespionage campaign against a possible Lebanese target with a backdoor capable of exfiltrating sensitive information from compromised systems.  Cybersecurity firm Check Point attributed the operation to APT34, citing similarities with previous techniques used by the threat actor as well as based on its pattern of victimology.  APT34  (aka OilRig) is known for its reconnaissance campaigns aligned with the strategic interests of Iran, primarily hitting financial, government, energy, chemical, and telecommunications industries in the Middle East.   The group typically resorts to targeting individuals through the use of booby-trapped job offer documents, delivered directly to the victims via LinkedIn messages, and the latest campaign is no exception, although the mode of delivery remains unclear as yet.  The Word document analyzed by Check Point — which was  uploaded  to VirusTotal from Lebanon on January 10 — claims to offer information abo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scraped data of 500 million LinkedIn users being sold online, 2 million records leaked as proof<a href="https://securityaffairs.co/wordpress/116528/security/linkedin-500m-users-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after a massive Facebook data leak made the headlines, 500 million LinkedIn users are being sold online, seller leaked 2 million records as proof.
+
+
+
+Original Post at https://cybernews.com/news/stolen-data-of-500-million-linkedin-users-being-sold-online-2-million-leaked-as-proof-2/
+
+
+
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cofense acquires Cyberfish to eliminate the need for legacy email security solutions<a href="https://www.helpnetsecurity.com/2021/04/08/cofense-cyberfish/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense announced the acquisition of Cyberfish, a provider of next-generation phishing protection powered by Computer Vision and advanced Machine Learning (ML) technology.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanbian Gang Malware Continues with Wide-Scale Distribution and C2<a href="https://www.riskiq.com/blog/external-threat-management/yanbian-gang-malware-distribution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yanbian Gang has targeted South Korean Android mobile banking customers since 2013 with malicious Android apps purporting to be from major banks, namely Shinhan Savings Bank, Saemaul Geumgo, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Risk IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
