@@ -384,6 +384,18 @@ On November 29-30, 2017, the U.S. Department of Energy’s (DOE) Office of Polic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September, 2017<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• National Plug-In Electric Vehicle Infrastructure Analysis [HTML](https://papers.bsafes.com/docs/electric-vehicle/national-plug-in-electric-vehicles-infrastructure-analysis/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This report addresses the fundamental question of how much plug-in electric vehicle (PEV) charging infrastructure—also known as electric vehicle supply equipment (EVSE)—is needed in the United States to support both plug-in hybrid electric vehicles (PHEVs) and battery electric vehicles (BEVs). It complements ongoing EVSE initiatives by providing a comprehensive analysis of national PEV charging infrastructure requirements. The result is a quantitative estimate for a U.S. network of non-residential (public and workplace) EVSE that would be needed to support broader PEV adoption. The analysis provides guidance to public and private stakeholders who are seeking to provide nationwide charging coverage, improve the EVSE business case by maximizing station utilization, and promote effective use of private/public infrastructure investments.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August, 2017<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
