@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zerodium triples WordPress remote code execution exploit payout<a href="https://www.bleepingcomputer.com/news/security/zerodium-triples-wordpress-remote-code-execution-exploit-payout/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Washington State Educational Organizations Targeted in Cryptojacking Campaign<a href="https://www.zdnet.com/article/washington-state-educational-organizations-targeted-in-cryptojacking-spree/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert — There's A New Malware Out There Snatching Users' Passwords<a href="https://thehackernews.com/2021/04/alert-theres-new-malware-out-there.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC: Large Number of Brits Are Using Easily Guessable Passwords<a href="https://www.infosecurity-magazine.com:443/news/ncsc-brits-using-easily-guessable/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own 2021: participants earned $1,2M of the $1.5M prize pool<a href="https://securityaffairs.co/wordpress/116593/hacking/pwn2own-2021-day-3.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers earn $1,2 million for exploits demoed at Pwn2Own 2021<a href="https://www.bleepingcomputer.com/news/security/researchers-earn-1-2-million-for-exploits-demoed-at-pwn2own-2021/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A rush to remote working leaving businesses vulnerable to cybercriminals<a href="https://www.helpnetsecurity.com/2021/04/08/remote-working-cybercriminals/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [WHITEPAPER] How to Achieve CMMC Security Compliance for Your Business<a href="https://thehackernews.com/2021/04/whitepaper-how-to-achieve-cmmc-security.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learning from Recent Insider Data Breaches<a href="https://www.infosecurity-magazine.com:443/news/lessons-recent-insider-data/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA releases post-compromise tool Aviary to review Microsoft 365<a href="https://securityaffairs.co/wordpress/116584/security/cisa-aviary-microsoft-365.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud-native watering hole attack: Simple and potentially devastating<a href="https://www.helpnetsecurity.com/2021/04/08/cloud-native-watering-hole-attack/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #COVID19 Fraud Surge Threatens to Overwhelm Banks<a href="https://www.infosecurity-magazine.com:443/news/covid19-fraud-surge-threatens-to/"> Full Text</a>
@@ -234,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 70,000 SSNs, 600,000 Credit Card Records Leaked After Swarmshop Gets Hacked<a href="https://gizmodo.com/70-000-ssns-600-000-credit-card-records-leaked-after-s-1846638234?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Gizmodo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moodle flaw exposed users to account takeover<a href="https://securityaffairs.co/wordpress/116560/hacking/moodle-account-takeover-threats.html?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Belden Says Health-Related Information Exposed in Data Breach<a href="https://www.securityweek.com/belden-says-health-related-information-exposed-data-breach?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Will Not Patch Critical RCE Flaw Affecting End-of-Life Business Routers<a href="https://thehackernews.com/2021/04/cisco-will-not-patch-critical-rce-flaw.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Hacked as Underground Carding Site is Breached<a href="https://www.infosecurity-magazine.com:443/news/hackers-hack-hackers-underground/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP partners with Onapsis to mitigate active threats against unprotected SAP applications<a href="https://www.helpnetsecurity.com/2021/04/08/sap-onapsis/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gigaset Android Update Server Hacked to Install Malware on Users' Devices<a href="https://thehackernews.com/2021/04/gigaset-android-update-server-hacked-to.html"> Full Text</a>
@@ -346,7 +346,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Firms Suffer Record Number of Cyber-Attacks in Q1<a href="https://www.infosecurity-magazine.com:443/news/uk-firms-suffer-record-number/"> Full Text</a>
@@ -362,7 +362,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 330K stolen payment cards and 895K stolen gift cards sold on dark web<a href="https://securityaffairs.co/wordpress/116558/deep-web/gift-cards-sold-dark-web.html"> Full Text</a>
@@ -382,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Supplier Impersonation Attacks a Major Risk<a href="https://www.securityweek.com/report-supplier-impersonation-attacks-major-risk?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wine scams spiked during COVID-19 lockdown<a href="https://www.cyberscoop.com/wine-scams-phishing-bec-domain-registrations-recorded-future/?&web_view=true"> Full Text</a>

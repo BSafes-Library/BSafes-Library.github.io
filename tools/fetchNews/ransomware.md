@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cring ransomware spread through hole in FortiGate VPN<a href="https://www.scmagazine.com/home/security-news/ransomware/cring-ransomware-spread-through-hole-in-fortigate-vpn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the early months of 2021 the ransomware operators struck a series of European industrial networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did 4 Major Ransomware Groups Truly Form a Cartel?<a href="https://www.darkreading.com/threat-intelligence/did-4-major-ransomware-groups-truly-form-a-cartel/d/d-id/1340619?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The four cybercriminal groups — Twisted Spider, Viking Spider, Wizard Spider, and the Lockbit Gang — announced at different times throughout summer 2020 that they would be working together.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

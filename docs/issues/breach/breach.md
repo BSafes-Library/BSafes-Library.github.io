@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+70,000 SSNs, 600,000 Credit Card Records Leaked After Swarmshop Gets Hacked<a href="https://gizmodo.com/70-000-ssns-600-000-credit-card-records-leaked-after-s-1846638234?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On March 17, a huge cache of the site’s user and administrator data was leaked online to a different underground forum, a new report published Thursday by threat research firm Group-IB shows.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Belden Says Health-Related Information Exposed in Data Breach<a href="https://www.securityweek.com/belden-says-health-related-information-exposed-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Specialty networking solutions provider Belden on Wednesday shared an update on the data breach disclosed in November 2020, and said health-related information was also exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hacked as Underground Carding Site is Breached<a href="https://www.infosecurity-magazine.com:443/news/hackers-hack-hackers-underground/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swarmshop admins, buyers and sellers on the receiving end of cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+330K stolen payment cards and 895K stolen gift cards sold on dark web<a href="https://securityaffairs.co/wordpress/116558/deep-web/gift-cards-sold-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has sold almost 900,000 gift cards and over 300,000 payment cards on a cybercrime forum on the dark web. 
+
+
+
+A crook has sold 895,000 gift cards and over 300,000 payment cards, for a total of US$38 million, on a&nbsp;&nbsp;top-tier Russian-language...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

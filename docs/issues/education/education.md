@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[WHITEPAPER] How to Achieve CMMC Security Compliance for Your Business<a href="https://thehackernews.com/2021/04/whitepaper-how-to-achieve-cmmc-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For organizations that deal with the defense infrastructure – cybersecurity is more than just a buzzword.  Recently the US Department of Defense (DoD) created a new certification process – the Cybersecurity Maturity Model Certificate (CMMC) – to ensure that all its vendors and contractors follow established best cybersecurity practices.  For organizations that work along the DoD supply chain, this means adhering to a strict regulatory framework, which can be quite complex. For one, must ensure that cybersecurity processes and practices are aligned with the type and sensitivity of the information that needs to be protected.  Even though the model is tiered (from "basic cybersecurity hygiene" to "advanced"), organizations will expend a significant effort to ensure they align with the compliance level appropriate for their contracts.  This is why one XDR provider has created a new guide to demonstrate how it helps organizations achieve CMMC compliance ( download the whitepaper here ).  T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

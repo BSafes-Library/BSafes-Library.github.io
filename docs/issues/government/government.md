@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases post-compromise tool Aviary to review Microsoft 365<a href="https://securityaffairs.co/wordpress/116584/security/cisa-aviary-microsoft-365.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA released a Splunk-based dashboard for post-compromise activity in&nbsp;Microsoft Azure Active Directory (AD), Office 365, and MS 365&nbsp;environments.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has released a Splunk-based dashboard,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

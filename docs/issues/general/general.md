@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Large Number of Brits Are Using Easily Guessable Passwords<a href="https://www.infosecurity-magazine.com:443/news/ncsc-brits-using-easily-guessable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The survey found 15% of Brits use their pet's name as a password
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A rush to remote working leaving businesses vulnerable to cybercriminals<a href="https://www.helpnetsecurity.com/2021/04/08/remote-working-cybercriminals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon reveals that many businesses may have left themselves vulnerable and open to cybercriminals in the rush to ensure their workforce could operate remotely during the pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#COVID19 Fraud Surge Threatens to Overwhelm Banks<a href="https://www.infosecurity-magazine.com:443/news/covid19-fraud-surge-threatens-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote workers struggle with disjointed systems and outdated technology
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Firms Suffer Record Number of Cyber-Attacks in Q1<a href="https://www.infosecurity-magazine.com:443/news/uk-firms-suffer-record-number/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote working continues to expose organizations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

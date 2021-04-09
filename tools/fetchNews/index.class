@@ -37,6 +37,254 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Zerodium triples WordPress remote code execution exploit payout<a href="https://www.bleepingcomputer.com/news/security/zerodium-triples-wordpress-remote-code-execution-exploit-payout/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zerodium has announced today an increased interest in exploits Zerodium has announced today an increased interest in exploits for the WordPress content management system that achieve remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington State Educational Organizations Targeted in Cryptojacking Campaign<a href="https://www.zdnet.com/article/washington-state-educational-organizations-targeted-in-cryptojacking-spree/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new advisory released by Palo Alto Network's Unit 42 team, cryptojacking incidents have recently taken place against educational institutions in Washington State.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert — There's A New Malware Out There Snatching Users' Passwords<a href="https://thehackernews.com/2021/04/alert-theres-new-malware-out-there.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented malware downloader has been spotted in the wild in phishing attacks to deploy credential stealers and other malicious payloads.  Dubbed " Saint Bot ," the malware is said to have first appeared on the scene in January 2021, with indications that it's under active development.  "Saint Bot is a downloader that appeared quite recently, and slowly is getting momentum. It was seen dropping stealers (i.e.  Taurus  Stealer) or further loaders ( example ), yet its design allows [it] to utilize it for distributing any kind of malware," said Aleksandra "Hasherezade" Doniec, a threat intelligence analyst at Malwarebytes.   "Furthermore, Saint Bot employs a wide variety of techniques which, although not novel, indicate some level of sophistication considering its relatively new appearance."  The infection chain analyzed by the cybersecurity firm begins with a phishing email containing an embedded ZIP file ("bitcoin.zip&quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Large Number of Brits Are Using Easily Guessable Passwords<a href="https://www.infosecurity-magazine.com:443/news/ncsc-brits-using-easily-guessable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The survey found 15% of Brits use their pet's name as a password
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own 2021: participants earned $1,2M of the $1.5M prize pool<a href="https://securityaffairs.co/wordpress/116593/hacking/pwn2own-2021-day-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own 2021 hacking competition was concluded, participants earned more than $1.2 million, the greatest total payout ever. 
+
+
+
+The Pwn2Own 2021 hacking competition reached the end, participants earned more than $1.2 million which is more than ever...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers earn $1,2 million for exploits demoed at Pwn2Own 2021<a href="https://www.bleepingcomputer.com/news/security/researchers-earn-1-2-million-for-exploits-demoed-at-pwn2own-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own 2021 ended with contestants earning a record $1,210,000 for exploits and exploits chains demoed over the course of three days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A rush to remote working leaving businesses vulnerable to cybercriminals<a href="https://www.helpnetsecurity.com/2021/04/08/remote-working-cybercriminals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon reveals that many businesses may have left themselves vulnerable and open to cybercriminals in the rush to ensure their workforce could operate remotely during the pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[WHITEPAPER] How to Achieve CMMC Security Compliance for Your Business<a href="https://thehackernews.com/2021/04/whitepaper-how-to-achieve-cmmc-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For organizations that deal with the defense infrastructure – cybersecurity is more than just a buzzword.  Recently the US Department of Defense (DoD) created a new certification process – the Cybersecurity Maturity Model Certificate (CMMC) – to ensure that all its vendors and contractors follow established best cybersecurity practices.  For organizations that work along the DoD supply chain, this means adhering to a strict regulatory framework, which can be quite complex. For one, must ensure that cybersecurity processes and practices are aligned with the type and sensitivity of the information that needs to be protected.  Even though the model is tiered (from "basic cybersecurity hygiene" to "advanced"), organizations will expend a significant effort to ensure they align with the compliance level appropriate for their contracts.  This is why one XDR provider has created a new guide to demonstrate how it helps organizations achieve CMMC compliance ( download the whitepaper here ).  T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learning from Recent Insider Data Breaches<a href="https://www.infosecurity-magazine.com:443/news/lessons-recent-insider-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations need to ramp up their monitoring and detection capabilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases post-compromise tool Aviary to review Microsoft 365<a href="https://securityaffairs.co/wordpress/116584/security/cisa-aviary-microsoft-365.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA released a Splunk-based dashboard for post-compromise activity in Microsoft Azure Active Directory (AD), Office 365, and MS 365 environments.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has released a Splunk-based dashboard,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-native watering hole attack: Simple and potentially devastating<a href="https://www.helpnetsecurity.com/2021/04/08/cloud-native-watering-hole-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The perpetrators are as diverse as their targets – fraudsters looking to steal identities, cybercriminal gangs in pursuit of quick profits, state-backed attackers seeking access to larger networks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#COVID19 Fraud Surge Threatens to Overwhelm Banks<a href="https://www.infosecurity-magazine.com:443/news/covid19-fraud-surge-threatens-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote workers struggle with disjointed systems and outdated technology
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+70,000 SSNs, 600,000 Credit Card Records Leaked After Swarmshop Gets Hacked<a href="https://gizmodo.com/70-000-ssns-600-000-credit-card-records-leaked-after-s-1846638234?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On March 17, a huge cache of the site’s user and administrator data was leaked online to a different underground forum, a new report published Thursday by threat research firm Group-IB shows.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moodle flaw exposed users to account takeover<a href="https://securityaffairs.co/wordpress/116560/hacking/moodle-account-takeover-threats.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moodle is an open-source educational platform used by 179,000 sites and has 242 million users. It allows universities to easily distribute content to students and teachers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Belden Says Health-Related Information Exposed in Data Breach<a href="https://www.securityweek.com/belden-says-health-related-information-exposed-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Specialty networking solutions provider Belden on Wednesday shared an update on the data breach disclosed in November 2020, and said health-related information was also exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco Will Not Patch Critical RCE Flaw Affecting End-of-Life Business Routers<a href="https://thehackernews.com/2021/04/cisco-will-not-patch-critical-rce-flaw.html"> Full Text</a>
 </p>
 <details>
@@ -134,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Supplier Impersonation Attacks a Major Risk<a href="https://www.securityweek.com/report-supplier-impersonation-attacks-major-risk?&web_view=true"> Full Text</a>
@@ -150,7 +398,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+April 9, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wine scams spiked during COVID-19 lockdown<a href="https://www.cyberscoop.com/wine-scams-phishing-bec-domain-registrations-recorded-future/?&web_view=true"> Full Text</a>

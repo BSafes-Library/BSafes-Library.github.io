@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington State Educational Organizations Targeted in Cryptojacking Campaign<a href="https://www.zdnet.com/article/washington-state-educational-organizations-targeted-in-cryptojacking-spree/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new advisory released by Palo Alto Network's Unit 42 team, cryptojacking incidents have recently taken place against educational institutions in Washington State.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
