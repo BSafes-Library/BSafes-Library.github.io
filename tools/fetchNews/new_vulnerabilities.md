@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed multiple flaws in SD-WAN vManage Software, including a critical RCE<a href="https://securityaffairs.co/wordpress/116516/security/cisco-sd-wan-vmanage-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a critical pre-authentication remote code execution (RCE) vulnerability in the SD-WAN vManage Software.
+
+
+
+Cisco has addressed multiple vulnerabilities in Cisco&nbsp;SD-WAN vManage Software that could be exploited by an unauthenticated,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Critical Code Execution Vulnerability in Android<a href="https://www.securityweek.com/google-patches-critical-code-execution-vulnerability-android?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The April 2021 Android security bulletin by Google describes more than 30 vulnerabilities in the mobile operating system, including a remote code execution flaw in the System component.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

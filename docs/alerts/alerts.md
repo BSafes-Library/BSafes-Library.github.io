@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Cyber Activity Targeting Critical SAP Applications <a href=""> Full Texhttps://publications.bsafes.com/docs/fbi/joint-cyber-security-advisory-2021-04-02-apt-actors-exploit-vulnerabilities-to-gain-initial-access-for-future-attacks://us-cert.cisa.gov/ncas/current-activity/2021/04/06/malicious-cyber-activity-targeting-critical-sap-applicationst</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP systems running outdated or misconfigured software are exposed to increased risks of malicious attacks. SAP applications help organizations manage critical business processes—such as enterprise resource planning, product lifecycle management, customer relationship management, and supply chain management.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 2, 2021 - FBI, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

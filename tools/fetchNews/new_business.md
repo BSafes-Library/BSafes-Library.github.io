@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACC Launches Data Security Program for Law Firms<a href="https://www.infosecurity-magazine.com:443/news/acc-launches-data-security-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Program will enable prospective clients to assess and compare law firms’ data security standards
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,136 @@ nav_order: 900072
 
 ## General
 ---
+April 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Twitter will not allow Trump account archive on platform | Commerce Dept. still weighing approach to Huawei, TikTok | Dating apps work to reinvent amid COVID-19 pandemic<a href="https://thehill.com//policy/technology/overnights/547051-hillicon-valley-twitter-will-not-allow-trump-account-archive-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Wednesday said that it will not allow any of former President TrumpDonald TrumpYelp creates tool to help support Asian-owned businesses  Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far MORE’s archived tweets while in office on its platform due to the account’s suspension. Meanwhile, Commerce Secretary Gina RaimondoGina RaimondoThe Hill's Morning Report - Biden may find zero GOP support for jobs plan White House hopes to see infrastructure bill passed by summer Biden taps five agency heads to sell infrastructure plan MORE teased next steps around Huawei and TikTok, and dating apps are scrambling to reinvent themselves in the age of COVID-19.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Jamming Productivity of Manufacturing Sector<a href="https://cyware.com/news/cyberattackers-jamming-productivity-of-manufacturing-sector-126d36df"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturing firms have become a top target of cybercriminals, extortionists, and nation-state groups as a majority of companies continue to experience breaches impacting their factories and taking production offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crossing the Line: When Cyberattacks Become Acts of War<a href="https://threatpost.com/crossing-line-cyberattack-act-war/165290/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Saryu Nayyar, CEO at Gurucul, discusses the new Cold War and the potential for a cyberattack to prompt military action.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Krebs: It’s time for a law that invests in the digital infrastructure<a href="https://www.scmagazine.com/home/security-news/ransomware/krebs-its-time-for-a-law-that-invests-in-the-digital-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The former head of the CISA advocated for the equivalent of block grants to state and local government to modernize IT infrastructure, which in turn would boost citizen services, business growth, jobs, “and yes, help stop ransomware.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Pros Share Work Devices with Household<a href="https://www.infosecurity-magazine.com:443/news/it-pros-share-work-devices-with/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly a quarter of IT security professionals let household members use their work devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perpetual Disruption: What is Good Cybersecurity Governance in Health Care?<a href="https://securityintelligence.com/articles/perpetual-disruption-part-1-cybersecurity-governance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The appeal of disruptive technologies is that they offer clearly improved ways of doing things. But it also means facing new openings for threat actors, which brings the CISO role into focus.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own 2021 Day 1 – participants earned more than $500k<a href="https://securityaffairs.co/wordpress/116469/hacking/pwn2own-2021-d1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own 2021 hacking competition has begun and white hat hackers participants earned more than $500000 on the first day.
+
+
+
+The Pwn2Own 2021 has begun, this year the formula for the popular hacking competition sees the distribution of the participants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoD Launches Vuln Disclosure Program for Contractor Networks<a href="https://www.securityweek.com/us-dod-launches-vuln-disclosure-program-contractor-networks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Running as a pilot, the DIB-VDP covers participating DoD contractor partner’s information systems and web properties, as well as other assets within scope, and is separate from the existing DoD VDP.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How do I select an attack detection solution for my business?<a href="https://www.helpnetsecurity.com/2021/04/07/select-attack-detection-solution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anuj Goel, CEO, Cyware, says that businesses should look for a solution that brings together siloed security data to boost collaboration in threat response and increases productivity using automation.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

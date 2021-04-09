@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Crack Cheat Codes and Gaming Mods to Serve Trojans<a href="https://cyware.com/news/cybercriminals-crack-cheat-codes-and-gaming-mods-to-serve-trojans-1b97d494"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The methodology of the attack involved adding cryptors to cheat codes, cheat engines, and mods that made it challenging for security teams to analyze the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Are Exploiting Discord and Slack Links to Serve Up Malware<a href="https://www.wired.com/story/malware-discord-slack-links/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research by Talos highlights how, over the course of the Covid-19 pandemic, collaboration tools like Slack and, much more commonly, Discord have become handy mechanisms for cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Selling 330,000 Stolen Payment Cards and 895,000 Gift Cards from Online Shops<a href="https://cybersecuritynews.com/hackers-selling-stolen-payment-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ What do the likes of AirBnB, Amazon, American Airlines, Chipotle, Dunkin Donuts, Nike, Marriott, Target, Subway and Walmart, have in common? Well,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

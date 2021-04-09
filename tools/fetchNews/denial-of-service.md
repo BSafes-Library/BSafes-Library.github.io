@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Extortion Attacks Get Stronger and More Persistent<a href="https://cyware.com/news/ddos-extortion-attacks-get-stronger-and-more-persistent-53e3ff83"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai has recently reported three large-scale DDoS attacks. These attacks count among the six biggest volumetric DDoS attacks the company has ever recorded.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

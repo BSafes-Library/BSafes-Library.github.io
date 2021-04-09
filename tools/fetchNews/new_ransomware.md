@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Unpatched VPNs to Install Ransomware on Industrial Targets<a href="https://thehackernews.com/2021/04/hackers-exploit-unpatched-vpns-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched Fortinet VPN devices are being targeted in a series of attacks against industrial enterprises in Europe to deploy a new strain of ransomware called "Cring" inside corporate networks.  At least one of the hacking incidents led to the temporary shutdown of a production site, said cybersecurity firm Kaspersky in a report published on Wednesday, without publicly naming the victim.  The attacks happened in the first quarter of 2021, between January and March.  "Various details of the attack indicate that the attackers had carefully analyzed the infrastructure of the targeted organization and prepared their own infrastructure and toolset based on the information collected at the reconnaissance stage,"&nbsp; said &nbsp;Vyacheslav Kopeytsev, a security researcher at Kaspersky ICS CERT.   The disclosure comes days after the Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; warned &nbsp;of advanced persistent threat (APT) actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Disrupt Production at Two Manufacturing Sites in Italy<a href="https://www.cyberscoop.com/ransomware-industrial-europe-kaspersky-cring/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware incident earlier this year temporarily shut down production for two days at a pair of manufacturing facilities in Italy, incident responders at security firm Kaspersky said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cring ransomware deployed via unpatched Fortinet VPNs | The Record by Recorded Future<a href="https://therecord.media/new-cring-ransomware-deployed-via-unpatched-fortinet-vpns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All these attacks happened in Q1 2020, and they were carried out with a new strain of ransomware named Cring (other aliases include Vjiszy1lo, Ghost, Phantom) that was first discovered in January.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

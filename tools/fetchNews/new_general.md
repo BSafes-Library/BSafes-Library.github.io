@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Fraud in the UK Up 179% in the Last Decade<a href="https://www.infosecurity-magazine.com:443/news/online-fraud-uk-increases-last/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK has been more heavily impacted by online fraud than any other country in Europe
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Armed Conflict Draws Closer as State-Backed Cyber-Attacks Intensify<a href="https://www.infosecurity-magazine.com:443/news/armed-conflict-closer-state/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP report reveals 100% increase in government-sponsored attacks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Number of US Breach Victims Jumps 564% in Q1 2021<a href="https://www.infosecurity-magazine.com:443/news/number-of-us-breach-victims-jumps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ITRC data reveals an increase of just 12% in incidents
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware-Focused Cyberattacks are Rising<a href="https://cyware.com/news/firmware-focused-cyberattacks-are-rising-08337050"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After taking inputs from1,000 enterprise security decision-makers from China, Germany, Japan, the U.K, and the U.S, Microsoft uncovered that 80% of global enterprises experienced firmware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
