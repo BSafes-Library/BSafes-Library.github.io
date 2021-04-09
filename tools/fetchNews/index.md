@@ -34,6 +34,106 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP partners with Onapsis to mitigate active threats against unprotected SAP applications<a href="https://www.helpnetsecurity.com/2021/04/08/sap-onapsis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP and Onapsis jointly released a cyber threat intelligence report providing actionable information on how malicious threat actors are targeting unprotected mission-critical SAP applications.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigaset Android Update Server Hacked to Install Malware on Users' Devices<a href="https://thehackernews.com/2021/04/gigaset-android-update-server-hacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gigaset has revealed a malware infection discovered in its Android devices was the result of a compromise of a server belonging to an external update service provider.  Impacting older smartphone models — GS100, GS160, GS170, GS180, GS270 (plus), and GS370 (plus) series — the malware took the form of multiple  unwanted apps  that were downloaded and installed through a pre-installed system update app.  The infections are said to have occurred starting  March 27 .   The German manufacturer of telecommunications devices said it took steps to alert the update service provider of the issue, following which further infections were prevented on April 7.  "Measures have been taken to automatically rid infected devices of the malware. In order for this to happen the devices must be connected to the internet (WLAN, WiFi or mobile data). We also recommend connecting the devices to their chargers. Affected devices should automatically be freed from the malware within 8 hours," the comp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Firms Suffer Record Number of Cyber-Attacks in Q1<a href="https://www.infosecurity-magazine.com:443/news/uk-firms-suffer-record-number/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote working continues to expose organizations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+330K stolen payment cards and 895K stolen gift cards sold on dark web<a href="https://securityaffairs.co/wordpress/116558/deep-web/gift-cards-sold-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has sold almost 900,000 gift cards and over 300,000 payment cards on a cybercrime forum on the dark web. 
+
+
+
+A crook has sold 895,000 gift cards and over 300,000 payment cards, for a total of US$38 million, on a  top-tier Russian-language...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Supplier Impersonation Attacks a Major Risk<a href="https://www.securityweek.com/report-supplier-impersonation-attacks-major-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging the supply chain to deliver various types of threats to organizations, and few of them are spared from such attacks, according to a new report from Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wine scams spiked during COVID-19 lockdown<a href="https://www.cyberscoop.com/wine-scams-phishing-bec-domain-registrations-recorded-future/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wine-themed domain registrations rose once COVID-19 lockdowns took hold, some of them malicious and used in phishing campaigns, Recorded Future and Area 1 Security said in a joint report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
