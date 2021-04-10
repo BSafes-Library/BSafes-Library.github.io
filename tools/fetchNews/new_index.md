@@ -34,6 +34,186 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook ads dropped malware posing as Clubhouse app for PC<a href="https://www.hackread.com/facebook-ads-malware-clubhouse-app-pc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are delivering Facebook ads promoting Clubhouse app for PC to deliver the malware. The attackers have used the old tactics again because the PC version of the Clubhouse app is not yet released.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a security advisory published by the company, Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers are affected by Remote Command Execution vulnerability that resides in the Management Interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New REvil Ransomware Version Automatically Logs Windows into Safe Mode<a href="https://heimdalsecurity.com/blog/new-revil-ransomware-version-automatically-logs-windows-into-safe-mode/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once more, the well-known REvil ransomware has elevated its attack vector to change the target victim’s login password in order to reboot the computer into Windows Safe Mode.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collaboration Platforms Increasingly Abused for Malware Distribution, Data Exfiltration<a href="https://www.securityweek.com/collaboration-platforms-increasingly-abused-malware-distribution-data-exfiltration?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing collaboration platforms for nefarious purposes, including malware delivery and data exfiltration, security researchers with Cisco’s Talos division report.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kentucky Unemployment Insurance Site Shuttered After Attack<a href="https://www.govinfosecurity.com/kentucky-unemployment-insurance-site-shuttered-after-attack-a-16376?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All the Office of Unemployment Insurance websites and portals dealing with unemployment accounts were taken offline as state IT workers attempted to bolster systems' cybersecurity capabilities, officials say.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon wins union election — says 'our employees made the choice'<a href="https://thehill.com//policy/technology/overnights/547451-hillicon-valley-amazon-wins-union-election-biden-calls-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+STORY OF THE DAY: Amazon came out victorious at the end of a two day vote counting session in the election to unionize the e-commerce giant’s facility in Bessemer, Ala. The closely watched election ended up breaking fairly heavily in Amazon’s favor: 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Tampered With APKPure Store to Distribute Malware Apps<a href="https://thehackernews.com/2021/04/hackers-tampered-with-apkpure-store-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APKPure, one of the largest alternative app stores outside of the Google Play Store, was infected with malware this week, allowing threat actors to distribute Trojans to Android devices.  In an incident that's similar to that of German telecommunications  equipment manufacturer Gigaset , the APKPure client version 3.17.18 is said to have been tampered with in an attempt to trick unsuspecting users into downloading and installing malicious applications linked to the malicious code built into the APKpure app.  The development was reported by researchers from  Doctor Web  and  Kaspersky .   "This trojan belongs to the dangerous Android.Triada malware family capable of downloading, installing and uninstalling software without users' permission," Doctor Web researchers said.  According to Kaspersky, the APKPure version 3.17.18 was tweaked to incorporate an advertisement SDK that acts as a Trojan dropper designed to deliver other malware to a victim's device. "Thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium will pay $300K for WordPress RCE exploits<a href="https://securityaffairs.co/wordpress/116605/hacking/zerodium-wordpress-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day broker Zerodium announced that will triples payouts for remote code execution exploits for the popular WordPress content management system.
+
+
+
+Zero-day broker Zerodium has tripled the payouts for exploits for the WordPress content management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn confirms leak of 500 million profiles online, maintains incident was not a breach<a href="https://www.scmagazine.com/home/security-news/phishing/linkedin-confirms-leak-of-500-million-profiles-online-maintains-incident-was-not-a-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn has become one of the most impersonated brands when it comes to phishing, and having access to such a treasure trove of information can help facilitate convincing social engineering attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+March to 5G could pile on heavier security burden for IoT device manufacturers<a href="https://www.scmagazine.com/home/security-news/network-security/march-to-5g-could-pile-on-heavier-security-burden-for-iot-device-manufacturers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial burden of compliance with piling security standards could force some device manufacturers to walk away from highly regulated buyers like the Pentagon.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+To avoid penalties for ransomware payouts, incident response pros press for due diligence<a href="https://www.scmagazine.com/home/security-news/ransomware/to-avoid-penalties-for-ransomware-payouts-incident-response-pros-press-for-due-diligence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The onus is also on the threat intelligence community, said one IR expert, to practice responsible ransomware attribution, as it can affect companies’ decisions on whether or not to pay.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

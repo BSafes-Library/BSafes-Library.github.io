@@ -34,6 +34,314 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 9th 2021 - Massive ransom demands<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-9th-2021-massive-ransom-demands/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks continue over the past two weeks with a continuation of the massive initial ransom demands we have seen recently.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh Cyberattack Waves and Latest Statistics on COVID-19<a href="https://cyware.com/news/fresh-cyberattack-waves-and-latest-statistics-on-covid-19-64cdfab7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With multiple adversaries continuing to leverage the pandemic, an interesting technique by cybercriminals has surfaced that uses unique staging and execution mechanisms via a malicious doc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget request calls for major investments in cybersecurity, emerging technologies<a href="https://thehill.com//policy/cybersecurity/547344-biden-budget-request-calls-for-major-investments-in-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden called for over $1.3 billion in cybersecurity funds as part of his proposed budget request sent to Congress on Friday, along with major investments in emerging technologies such as quantum computing and artificial intelligence. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Removes 16k Groups for Trading Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/facebook-groups-trading-fake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Double intervention by UK watchdog prompts Facebook to axe groups trading in fake reviews
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.S. Government Needs to Overhaul Cybersecurity. Here’s How.<a href="https://www.lawfareblog.com/us-government-needs-overhaul-cybersecurity-heres-how"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In advance of the new Biden administration cybersecurity executive order, it’s time for the federal government to get proactive about cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced it will not release security updates to address a critical security vulnerability affecting some of its Small Business routers.
+
+
+
+Cisco is urging customers that are using some of its Small Business routers to replace their devices because...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhythm in the algorithm: digital rights groups call on Spotify to abandon voice recognition invention<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/rhythm-in-the-algorithm-digital-rights-groups-call-on-spotify-to-abandon-voice-recognition-invention/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activists launched a campaign to pressure Spotify to abandon plans for an AI-powered system that listens to your conversations in order to recommend music choices. The controversy spotlights a challenge faced by some of the most tech savvy companies: how to walk the line between innovation that serves the innate desires of consumers, and violation of their rights for information security and privacy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: Creep Coach Finagles Nude Athlete Photos<a href="https://threatpost.com/creep-coach-nude-athlete-photos/165340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allegedly perv college coach charged with cyberstalking and extorting nudes from his female athletes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI arrests man for plan to kill 70% of Internet in AWS bomb attack<a href="https://www.bleepingcomputer.com/news/security/fbi-arrests-man-for-plan-to-kill-70-percent-of-internet-in-aws-bomb-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI arrested a Texas man on Thursday for allegedly planning to "kill of about 70% of the internet" in a bomb attack targeting an Amazon Web Services (AWS) data center on Smith Switch Road in Ashburn, Virginia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are Tearing Apart the Retail Sector<a href="https://cyware.com/news/attackers-are-tearing-apart-the-retail-sector-a70d7106"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disruptive cyberattacks on retailers becoming more common and experts have recently noted the use of double-extortion technique among hackers targeting retail organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Jails Cyber-stalker Who Targeted Attack Survivor<a href="https://www.infosecurity-magazine.com:443/news/us-jails-cyberstalker-of-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida man who cyberstalked survivor of murder attempt is sent to prison
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading cosmetics group Pierre Fabre hit with $25 million ransomware attack<a href="https://www.bleepingcomputer.com/news/security/leading-cosmetics-group-pierre-fabre-hit-with-25-million-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading French pharmaceutical group Pierre Fabre suffered a REvil ransomware attack where the threat actors initially demanded a $25 million ransom, BleepingComputer learned today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APTs Exploiting Fortinet VPN Security Vulnerabilities - Cybersecurity Agencies Warn<a href="https://cyware.com/news/apts-exploiting-fortinet-vpn-security-vulnerabilities-cybersecurity-agencies-warn-9f01b95a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state APTs are actively exploiting known vulnerabilities in the Fortinet FortiOS cybersecurity OS to gain initial access to multiple government, commercial, and technology services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LifeLabs Launches Vulnerability Disclosure Program<a href="https://www.infosecurity-magazine.com:443/news/lifelabs-launches-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian medical laboratory teams up with Bugcrowd to boost cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers deliver legal threats, IcedID malware via contact forms<a href="https://www.bleepingcomputer.com/news/security/attackers-deliver-legal-threats-icedid-malware-via-contact-forms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using legitimate corporate contact forms to send phishing emails that threaten enterprise targets with lawsuits and attempt to infect them with the IcedID info-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zoom vulnerability triggers remote code execution without user input<a href="https://www.zdnet.com/article/critical-zoom-vulnerability-triggers-remote-code-execution-without-user-input/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers from Computest demonstrated a three-bug attack chain against Zoom that caused remote code execution on a target machine, and all without any form of user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World's largest pathologists association discloses credit card incident<a href="https://www.bleepingcomputer.com/news/security/worlds-largest-pathologists-association-discloses-credit-card-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Society for Clinical Pathology (ASCP) disclosed a payment card incident that impacted customers who entered payment info on its e-commerce website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The geography and network characteristics of phishing attacks<a href="https://blog.barracuda.com/2021/04/07/threat-spotlight-geography-network-characteristics-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The country where emails originate and the number of countries they are routed through on the way to their final destination offer important warning signs of phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Barracuda
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maze/Egregor ransomware cartel estimated to have made $75 million<a href="https://therecord.media/maze-egregor-ransomware-cartel-estimated-to-have-made-75-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind the Maze and Egregor ransomware operations are believed to have earned at least $75 million worth of Bitcoin from ransom payments following intrusions at companies all over the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
