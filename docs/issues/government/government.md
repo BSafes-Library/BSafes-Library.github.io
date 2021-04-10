@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget request calls for major investments in cybersecurity, emerging technologies<a href="https://thehill.com//policy/cybersecurity/547344-biden-budget-request-calls-for-major-investments-in-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden called for over $1.3 billion in cybersecurity funds as part of his proposed budget request sent to Congress on Friday, along with major investments in emerging technologies such as quantum computing and artificial intelligence.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.S. Government Needs to Overhaul Cybersecurity. Here’s How.<a href="https://www.lawfareblog.com/us-government-needs-overhaul-cybersecurity-heres-how"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In advance of the new Biden administration cybersecurity executive order, it’s time for the federal government to get proactive about cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

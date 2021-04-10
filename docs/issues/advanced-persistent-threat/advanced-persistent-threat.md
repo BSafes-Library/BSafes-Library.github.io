@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APTs Exploiting Fortinet VPN Security Vulnerabilities - Cybersecurity Agencies Warn<a href="https://cyware.com/news/apts-exploiting-fortinet-vpn-security-vulnerabilities-cybersecurity-agencies-warn-9f01b95a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state APTs are actively exploiting known vulnerabilities in the Fortinet FortiOS cybersecurity OS to gain initial access to multiple government, commercial, and technology services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

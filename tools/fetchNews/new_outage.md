@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kentucky Unemployment Insurance Site Shuttered After Attack<a href="https://www.govinfosecurity.com/kentucky-unemployment-insurance-site-shuttered-after-attack-a-16376?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All the Office of Unemployment Insurance websites and portals dealing with unemployment accounts were taken offline as state IT workers attempted to bolster systems' cybersecurity capabilities, officials say.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

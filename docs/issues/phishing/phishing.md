@@ -11,6 +11,20 @@ nav_order: 900160
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The geography and network characteristics of phishing attacks<a href="https://blog.barracuda.com/2021/04/07/threat-spotlight-geography-network-characteristics-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The country where emails originate and the number of countries they are routed through on the way to their final destination offer important warning signs of phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Barracuda
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Google Forms and Telegram bots to Collect Phished Credentials<a href="https://cybersecuritynews.com/hackers-use-google-forms-and-telegram-bots-to-collect-phished-credentials/"> Full Text</a>
 </p>
 <details>

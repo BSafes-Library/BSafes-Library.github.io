@@ -11,6 +11,20 @@ nav_order: 900027
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn confirms leak of 500 million profiles online, maintains incident was not a breach<a href="https://www.scmagazine.com/home/security-news/phishing/linkedin-confirms-leak-of-500-million-profiles-online-maintains-incident-was-not-a-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn has become one of the most impersonated brands when it comes to phishing, and having access to such a treasure trove of information can help facilitate convincing social engineering attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SAP partners with Onapsis to mitigate active threats against unprotected SAP applications<a href="https://www.helpnetsecurity.com/2021/04/08/sap-onapsis/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

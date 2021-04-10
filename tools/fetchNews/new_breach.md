@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World's largest pathologists association discloses credit card incident<a href="https://www.bleepingcomputer.com/news/security/worlds-largest-pathologists-association-discloses-credit-card-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Society for Clinical Pathology (ASCP) disclosed a payment card incident that impacted customers who entered payment info on its e-commerce website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

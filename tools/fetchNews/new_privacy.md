@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhythm in the algorithm: digital rights groups call on Spotify to abandon voice recognition invention<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/rhythm-in-the-algorithm-digital-rights-groups-call-on-spotify-to-abandon-voice-recognition-invention/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activists launched a campaign to pressure Spotify to abandon plans for an AI-powered system that listens to your conversations in order to recommend music choices. The controversy spotlights a challenge faced by some of the most tech savvy companies: how to walk the line between innovation that serves the innate desires of consumers, and violation of their rights for information security and privacy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

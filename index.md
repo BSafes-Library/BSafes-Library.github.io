@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook ads dropped malware posing as Clubhouse app for PC<a href="https://www.hackread.com/facebook-ads-malware-clubhouse-app-pc/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New REvil Ransomware Version Automatically Logs Windows into Safe Mode<a href="https://heimdalsecurity.com/blog/new-revil-ransomware-version-automatically-logs-windows-into-safe-mode/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Collaboration Platforms Increasingly Abused for Malware Distribution, Data Exfiltration<a href="https://www.securityweek.com/collaboration-platforms-increasingly-abused-malware-distribution-data-exfiltration?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kentucky Unemployment Insurance Site Shuttered After Attack<a href="https://www.govinfosecurity.com/kentucky-unemployment-insurance-site-shuttered-after-attack-a-16376?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Amazon wins union election — says 'our employees made the choice'<a href="https://thehill.com//policy/technology/overnights/547451-hillicon-valley-amazon-wins-union-election-biden-calls-for"> Full Text</a>
@@ -130,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Tampered With APKPure Store to Distribute Malware Apps<a href="https://thehackernews.com/2021/04/hackers-tampered-with-apkpure-store-to.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zerodium will pay $300K for WordPress RCE exploits<a href="https://securityaffairs.co/wordpress/116605/hacking/zerodium-wordpress-exploits.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn confirms leak of 500 million profiles online, maintains incident was not a breach<a href="https://www.scmagazine.com/home/security-news/phishing/linkedin-confirms-leak-of-500-million-profiles-online-maintains-incident-was-not-a-breach/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [5G](/docs/issues/5g/5g/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 March to 5G could pile on heavier security burden for IoT device manufacturers<a href="https://www.scmagazine.com/home/security-news/network-security/march-to-5g-could-pile-on-heavier-security-burden-for-iot-device-manufacturers/"> Full Text</a>
@@ -198,7 +198,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 To avoid penalties for ransomware payouts, incident response pros press for due diligence<a href="https://www.scmagazine.com/home/security-news/ransomware/to-avoid-penalties-for-ransomware-payouts-incident-response-pros-press-for-due-diligence/"> Full Text</a>
@@ -214,7 +214,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - April 9th 2021 - Massive ransom demands<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-9th-2021-massive-ransom-demands/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fresh Cyberattack Waves and Latest Statistics on COVID-19<a href="https://cyware.com/news/fresh-cyberattack-waves-and-latest-statistics-on-covid-19-64cdfab7"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden budget request calls for major investments in cybersecurity, emerging technologies<a href="https://thehill.com//policy/cybersecurity/547344-biden-budget-request-calls-for-major-investments-in-cybersecurity"> Full Text</a>
@@ -262,7 +262,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Removes 16k Groups for Trading Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/facebook-groups-trading-fake/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The U.S. Government Needs to Overhaul Cybersecurity. Here’s How.<a href="https://www.lawfareblog.com/us-government-needs-overhaul-cybersecurity-heres-how"> Full Text</a>
@@ -294,7 +294,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html"> Full Text</a>
@@ -314,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhythm in the algorithm: digital rights groups call on Spotify to abandon voice recognition invention<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/rhythm-in-the-algorithm-digital-rights-groups-call-on-spotify-to-abandon-voice-recognition-invention/"> Full Text</a>
@@ -330,7 +330,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ: Creep Coach Finagles Nude Athlete Photos<a href="https://threatpost.com/creep-coach-nude-athlete-photos/165340/"> Full Text</a>
@@ -346,7 +346,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI arrests man for plan to kill 70% of Internet in AWS bomb attack<a href="https://www.bleepingcomputer.com/news/security/fbi-arrests-man-for-plan-to-kill-70-percent-of-internet-in-aws-bomb-attack/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are Tearing Apart the Retail Sector<a href="https://cyware.com/news/attackers-are-tearing-apart-the-retail-sector-a70d7106"> Full Text</a>
@@ -378,7 +378,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Jails Cyber-stalker Who Targeted Attack Survivor<a href="https://www.infosecurity-magazine.com:443/news/us-jails-cyberstalker-of-attack/"> Full Text</a>
@@ -394,7 +394,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leading cosmetics group Pierre Fabre hit with $25 million ransomware attack<a href="https://www.bleepingcomputer.com/news/security/leading-cosmetics-group-pierre-fabre-hit-with-25-million-ransomware-attack/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APTs Exploiting Fortinet VPN Security Vulnerabilities - Cybersecurity Agencies Warn<a href="https://cyware.com/news/apts-exploiting-fortinet-vpn-security-vulnerabilities-cybersecurity-agencies-warn-9f01b95a"> Full Text</a>
@@ -426,7 +426,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LifeLabs Launches Vulnerability Disclosure Program<a href="https://www.infosecurity-magazine.com:443/news/lifelabs-launches-vulnerability/"> Full Text</a>
@@ -442,7 +442,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers deliver legal threats, IcedID malware via contact forms<a href="https://www.bleepingcomputer.com/news/security/attackers-deliver-legal-threats-icedid-malware-via-contact-forms/"> Full Text</a>
@@ -458,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Zoom vulnerability triggers remote code execution without user input<a href="https://www.zdnet.com/article/critical-zoom-vulnerability-triggers-remote-code-execution-without-user-input/?&web_view=true"> Full Text</a>
@@ -474,7 +474,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 09, 2021
+April 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 World's largest pathologists association discloses credit card incident<a href="https://www.bleepingcomputer.com/news/security/worlds-largest-pathologists-association-discloses-credit-card-incident/"> Full Text</a>
@@ -490,7 +490,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The geography and network characteristics of phishing attacks<a href="https://blog.barracuda.com/2021/04/07/threat-spotlight-geography-network-characteristics-phishing/?&web_view=true"> Full Text</a>
@@ -506,7 +506,7 @@ Barracuda
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2021
+April 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maze/Egregor ransomware cartel estimated to have made $75 million<a href="https://therecord.media/maze-egregor-ransomware-cartel-estimated-to-have-made-75-million/?&web_view=true"> Full Text</a>

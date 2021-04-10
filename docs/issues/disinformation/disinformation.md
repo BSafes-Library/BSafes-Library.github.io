@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Removes 16k Groups for Trading Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/facebook-groups-trading-fake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Double intervention by UK watchdog prompts Facebook to axe groups trading in fake reviews
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

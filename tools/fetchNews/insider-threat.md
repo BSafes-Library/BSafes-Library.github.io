@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learning from Recent Insider Data Breaches<a href="https://www.infosecurity-magazine.com:443/news/lessons-recent-insider-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations need to ramp up their monitoring and detection capabilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

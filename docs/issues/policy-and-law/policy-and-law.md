@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: Creep Coach Finagles Nude Athlete Photos<a href="https://threatpost.com/creep-coach-nude-athlete-photos/165340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allegedly perv college coach charged with cyberstalking and extorting nudes from his female athletes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI arrests man for plan to kill 70% of Internet in AWS bomb attack<a href="https://www.bleepingcomputer.com/news/security/fbi-arrests-man-for-plan-to-kill-70-percent-of-internet-in-aws-bomb-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI arrested a Texas man on Thursday for allegedly planning to "kill of about 70% of the internet"&nbsp;in a bomb attack targeting an Amazon Web Services (AWS) data center on Smith Switch Road in Ashburn, Virginia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Jails Cyber-stalker Who Targeted Attack Survivor<a href="https://www.infosecurity-magazine.com:443/news/us-jails-cyberstalker-of-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida man who cyberstalked survivor of murder attempt is sent to prison
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

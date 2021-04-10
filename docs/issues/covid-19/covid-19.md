@@ -11,6 +11,20 @@ nav_order: 900030
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fresh Cyberattack Waves and Latest Statistics on COVID-19<a href="https://cyware.com/news/fresh-cyberattack-waves-and-latest-statistics-on-covid-19-64cdfab7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With multiple adversaries continuing to leverage the pandemic, an interesting technique by cybercriminals has surfaced that uses unique staging and execution mechanisms via a malicious doc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Wine scams spiked during COVID-19 lockdown<a href="https://www.cyberscoop.com/wine-scams-phishing-bec-domain-registrations-recorded-future/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

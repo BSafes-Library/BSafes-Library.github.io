@@ -8,6 +8,20 @@ nav_order: 800050
 
 ## 5G
 ---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+March to 5G could pile on heavier security burden for IoT device manufacturers<a href="https://www.scmagazine.com/home/security-news/network-security/march-to-5g-could-pile-on-heavier-security-burden-for-iot-device-manufacturers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial burden of compliance with piling security standards could force some device manufacturers to walk away from highly regulated buyers like the Pentagon.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2020 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

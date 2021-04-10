@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon wins union election — says 'our employees made the choice'<a href="https://thehill.com//policy/technology/overnights/547451-hillicon-valley-amazon-wins-union-election-biden-calls-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+STORY OF THE DAY: Amazon came out victorious at the end of a two day vote counting session in the election to unionize the e-commerce giant’s facility in Bessemer, Ala. The closely watched election ended up breaking fairly heavily in Amazon’s favor: 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are Tearing Apart the Retail Sector<a href="https://cyware.com/news/attackers-are-tearing-apart-the-retail-sector-a70d7106"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disruptive cyberattacks on retailers becoming more common and experts have recently noted the use of double-extortion technique among hackers targeting retail organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

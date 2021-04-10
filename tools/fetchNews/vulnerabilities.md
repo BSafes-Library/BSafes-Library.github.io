@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium triples WordPress remote code execution exploit payout<a href="https://www.bleepingcomputer.com/news/security/zerodium-triples-wordpress-remote-code-execution-exploit-payout/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zerodium has announced today an increased interest in exploits Zerodium has announced today an increased interest in exploits for the WordPress content management system that achieve remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own 2021: participants earned $1,2M of the $1.5M prize pool<a href="https://securityaffairs.co/wordpress/116593/hacking/pwn2own-2021-day-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own 2021 hacking competition was concluded, participants earned more than $1.2 million, the greatest total payout ever. 
+
+
+
+The Pwn2Own 2021 hacking competition reached the end, participants earned more than $1.2 million which is more than ever...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers earn $1,2 million for exploits demoed at Pwn2Own 2021<a href="https://www.bleepingcomputer.com/news/security/researchers-earn-1-2-million-for-exploits-demoed-at-pwn2own-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own 2021 ended with contestants earning a record $1,210,000 for exploits and exploits chains demoed over the course of three days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moodle flaw exposed users to account takeover<a href="https://securityaffairs.co/wordpress/116560/hacking/moodle-account-takeover-threats.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moodle is an open-source educational platform used by 179,000 sites and has 242 million users. It allows universities to easily distribute content to students and teachers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Will Not Patch Critical RCE Flaw Affecting End-of-Life Business Routers<a href="https://thehackernews.com/2021/04/cisco-will-not-patch-critical-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco Systems has said it does not plan to fix a critical security vulnerability affecting some of its Small Business routers, instead urging users to replace the devices.  The bug, tracked as CVE-2021-1459, is rated with a CVSS score of  9.8 out of 10, and affects RV110W VPN firewall and Small Business RV130, RV130W, and RV215W routers, allowing an unauthenticated, remote attacker to execute arbitrary code on an affected appliance.   The flaw, which stems from improper validation of user-supplied input in the web-based management interface, could be exploited by a malicious actor to send specially-crafted HTTP requests to the targeted device and achieve remote code execution.  " A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system of the affected device," Cisco&nbsp; said &nbsp;in its advisory.   Security researcher Treck Zhou has been credited with reporting the vulnerability. Although
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Supplier Impersonation Attacks a Major Risk<a href="https://www.securityweek.com/report-supplier-impersonation-attacks-major-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging the supply chain to deliver various types of threats to organizations, and few of them are spared from such attacks, according to a new report from Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

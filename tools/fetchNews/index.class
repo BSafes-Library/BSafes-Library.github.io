@@ -34,6 +34,494 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook ads dropped malware posing as Clubhouse app for PC<a href="https://www.hackread.com/facebook-ads-malware-clubhouse-app-pc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are delivering Facebook ads promoting Clubhouse app for PC to deliver the malware. The attackers have used the old tactics again because the PC version of the Clubhouse app is not yet released.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a security advisory published by the company, Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers are affected by Remote Command Execution vulnerability that resides in the Management Interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New REvil Ransomware Version Automatically Logs Windows into Safe Mode<a href="https://heimdalsecurity.com/blog/new-revil-ransomware-version-automatically-logs-windows-into-safe-mode/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once more, the well-known REvil ransomware has elevated its attack vector to change the target victim’s login password in order to reboot the computer into Windows Safe Mode.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collaboration Platforms Increasingly Abused for Malware Distribution, Data Exfiltration<a href="https://www.securityweek.com/collaboration-platforms-increasingly-abused-malware-distribution-data-exfiltration?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing collaboration platforms for nefarious purposes, including malware delivery and data exfiltration, security researchers with Cisco’s Talos division report.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kentucky Unemployment Insurance Site Shuttered After Attack<a href="https://www.govinfosecurity.com/kentucky-unemployment-insurance-site-shuttered-after-attack-a-16376?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All the Office of Unemployment Insurance websites and portals dealing with unemployment accounts were taken offline as state IT workers attempted to bolster systems' cybersecurity capabilities, officials say.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon wins union election — says 'our employees made the choice'<a href="https://thehill.com//policy/technology/overnights/547451-hillicon-valley-amazon-wins-union-election-biden-calls-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+STORY OF THE DAY: Amazon came out victorious at the end of a two day vote counting session in the election to unionize the e-commerce giant’s facility in Bessemer, Ala. The closely watched election ended up breaking fairly heavily in Amazon’s favor: 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Tampered With APKPure Store to Distribute Malware Apps<a href="https://thehackernews.com/2021/04/hackers-tampered-with-apkpure-store-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APKPure, one of the largest alternative app stores outside of the Google Play Store, was infected with malware this week, allowing threat actors to distribute Trojans to Android devices.  In an incident that's similar to that of German telecommunications  equipment manufacturer Gigaset , the APKPure client version 3.17.18 is said to have been tampered with in an attempt to trick unsuspecting users into downloading and installing malicious applications linked to the malicious code built into the APKpure app.  The development was reported by researchers from  Doctor Web  and  Kaspersky .   "This trojan belongs to the dangerous Android.Triada malware family capable of downloading, installing and uninstalling software without users' permission," Doctor Web researchers said.  According to Kaspersky, the APKPure version 3.17.18 was tweaked to incorporate an advertisement SDK that acts as a Trojan dropper designed to deliver other malware to a victim's device. "Thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium will pay $300K for WordPress RCE exploits<a href="https://securityaffairs.co/wordpress/116605/hacking/zerodium-wordpress-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day broker Zerodium announced that will triples payouts for remote code execution exploits for the popular WordPress content management system.
+
+
+
+Zero-day broker Zerodium has tripled the payouts for exploits for the WordPress content management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn confirms leak of 500 million profiles online, maintains incident was not a breach<a href="https://www.scmagazine.com/home/security-news/phishing/linkedin-confirms-leak-of-500-million-profiles-online-maintains-incident-was-not-a-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn has become one of the most impersonated brands when it comes to phishing, and having access to such a treasure trove of information can help facilitate convincing social engineering attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [5G](/docs/issues/5g/5g/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+March to 5G could pile on heavier security burden for IoT device manufacturers<a href="https://www.scmagazine.com/home/security-news/network-security/march-to-5g-could-pile-on-heavier-security-burden-for-iot-device-manufacturers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial burden of compliance with piling security standards could force some device manufacturers to walk away from highly regulated buyers like the Pentagon.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+To avoid penalties for ransomware payouts, incident response pros press for due diligence<a href="https://www.scmagazine.com/home/security-news/ransomware/to-avoid-penalties-for-ransomware-payouts-incident-response-pros-press-for-due-diligence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The onus is also on the threat intelligence community, said one IR expert, to practice responsible ransomware attribution, as it can affect companies’ decisions on whether or not to pay.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 9th 2021 - Massive ransom demands<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-9th-2021-massive-ransom-demands/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks continue over the past two weeks with a continuation of the massive initial ransom demands we have seen recently.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh Cyberattack Waves and Latest Statistics on COVID-19<a href="https://cyware.com/news/fresh-cyberattack-waves-and-latest-statistics-on-covid-19-64cdfab7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With multiple adversaries continuing to leverage the pandemic, an interesting technique by cybercriminals has surfaced that uses unique staging and execution mechanisms via a malicious doc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget request calls for major investments in cybersecurity, emerging technologies<a href="https://thehill.com//policy/cybersecurity/547344-biden-budget-request-calls-for-major-investments-in-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden called for over $1.3 billion in cybersecurity funds as part of his proposed budget request sent to Congress on Friday, along with major investments in emerging technologies such as quantum computing and artificial intelligence. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Removes 16k Groups for Trading Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/facebook-groups-trading-fake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Double intervention by UK watchdog prompts Facebook to axe groups trading in fake reviews
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.S. Government Needs to Overhaul Cybersecurity. Here’s How.<a href="https://www.lawfareblog.com/us-government-needs-overhaul-cybersecurity-heres-how"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In advance of the new Biden administration cybersecurity executive order, it’s time for the federal government to get proactive about cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced it will not release security updates to address a critical security vulnerability affecting some of its Small Business routers.
+
+
+
+Cisco is urging customers that are using some of its Small Business routers to replace their devices because...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhythm in the algorithm: digital rights groups call on Spotify to abandon voice recognition invention<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/rhythm-in-the-algorithm-digital-rights-groups-call-on-spotify-to-abandon-voice-recognition-invention/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activists launched a campaign to pressure Spotify to abandon plans for an AI-powered system that listens to your conversations in order to recommend music choices. The controversy spotlights a challenge faced by some of the most tech savvy companies: how to walk the line between innovation that serves the innate desires of consumers, and violation of their rights for information security and privacy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: Creep Coach Finagles Nude Athlete Photos<a href="https://threatpost.com/creep-coach-nude-athlete-photos/165340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allegedly perv college coach charged with cyberstalking and extorting nudes from his female athletes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI arrests man for plan to kill 70% of Internet in AWS bomb attack<a href="https://www.bleepingcomputer.com/news/security/fbi-arrests-man-for-plan-to-kill-70-percent-of-internet-in-aws-bomb-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI arrested a Texas man on Thursday for allegedly planning to "kill of about 70% of the internet" in a bomb attack targeting an Amazon Web Services (AWS) data center on Smith Switch Road in Ashburn, Virginia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are Tearing Apart the Retail Sector<a href="https://cyware.com/news/attackers-are-tearing-apart-the-retail-sector-a70d7106"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disruptive cyberattacks on retailers becoming more common and experts have recently noted the use of double-extortion technique among hackers targeting retail organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Jails Cyber-stalker Who Targeted Attack Survivor<a href="https://www.infosecurity-magazine.com:443/news/us-jails-cyberstalker-of-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida man who cyberstalked survivor of murder attempt is sent to prison
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading cosmetics group Pierre Fabre hit with $25 million ransomware attack<a href="https://www.bleepingcomputer.com/news/security/leading-cosmetics-group-pierre-fabre-hit-with-25-million-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading French pharmaceutical group Pierre Fabre suffered a REvil ransomware attack where the threat actors initially demanded a $25 million ransom, BleepingComputer learned today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APTs Exploiting Fortinet VPN Security Vulnerabilities - Cybersecurity Agencies Warn<a href="https://cyware.com/news/apts-exploiting-fortinet-vpn-security-vulnerabilities-cybersecurity-agencies-warn-9f01b95a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state APTs are actively exploiting known vulnerabilities in the Fortinet FortiOS cybersecurity OS to gain initial access to multiple government, commercial, and technology services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LifeLabs Launches Vulnerability Disclosure Program<a href="https://www.infosecurity-magazine.com:443/news/lifelabs-launches-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian medical laboratory teams up with Bugcrowd to boost cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers deliver legal threats, IcedID malware via contact forms<a href="https://www.bleepingcomputer.com/news/security/attackers-deliver-legal-threats-icedid-malware-via-contact-forms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using legitimate corporate contact forms to send phishing emails that threaten enterprise targets with lawsuits and attempt to infect them with the IcedID info-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zoom vulnerability triggers remote code execution without user input<a href="https://www.zdnet.com/article/critical-zoom-vulnerability-triggers-remote-code-execution-without-user-input/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers from Computest demonstrated a three-bug attack chain against Zoom that caused remote code execution on a target machine, and all without any form of user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World's largest pathologists association discloses credit card incident<a href="https://www.bleepingcomputer.com/news/security/worlds-largest-pathologists-association-discloses-credit-card-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Society for Clinical Pathology (ASCP) disclosed a payment card incident that impacted customers who entered payment info on its e-commerce website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The geography and network characteristics of phishing attacks<a href="https://blog.barracuda.com/2021/04/07/threat-spotlight-geography-network-characteristics-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The country where emails originate and the number of countries they are routed through on the way to their final destination offer important warning signs of phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Barracuda
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maze/Egregor ransomware cartel estimated to have made $75 million<a href="https://therecord.media/maze-egregor-ransomware-cartel-estimated-to-have-made-75-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind the Maze and Egregor ransomware operations are believed to have earned at least $75 million worth of Bitcoin from ransom payments following intrusions at companies all over the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

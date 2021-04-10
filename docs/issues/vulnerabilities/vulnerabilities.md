@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a security advisory published by the company, Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers are affected by Remote Command Execution vulnerability that resides in the Management Interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium will pay $300K for WordPress RCE exploits<a href="https://securityaffairs.co/wordpress/116605/hacking/zerodium-wordpress-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day broker Zerodium announced that will triples payouts for remote code execution exploits for the popular WordPress content management system.
+
+
+
+Zero-day broker Zerodium has tripled the payouts for exploits for the WordPress content management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not release updates to fix critical RCE flaw in EoF Business Routers<a href="https://securityaffairs.co/wordpress/116598/security/rce-eof-cisco-business-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced it will not release security updates to address a critical security vulnerability affecting some of its Small Business routers.
+
+
+
+Cisco is urging customers that are using some of its Small Business routers to replace their devices because...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LifeLabs Launches Vulnerability Disclosure Program<a href="https://www.infosecurity-magazine.com:443/news/lifelabs-launches-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian medical laboratory teams up with Bugcrowd to boost cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zoom vulnerability triggers remote code execution without user input<a href="https://www.zdnet.com/article/critical-zoom-vulnerability-triggers-remote-code-execution-without-user-input/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers from Computest demonstrated a three-bug attack chain against Zoom that caused remote code execution on a target machine, and all without any form of user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
