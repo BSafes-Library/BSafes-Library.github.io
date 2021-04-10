@@ -8,6 +8,76 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New REvil Ransomware Version Automatically Logs Windows into Safe Mode<a href="https://heimdalsecurity.com/blog/new-revil-ransomware-version-automatically-logs-windows-into-safe-mode/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once more, the well-known REvil ransomware has elevated its attack vector to change the target victim’s login password in order to reboot the computer into Windows Safe Mode.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+To avoid penalties for ransomware payouts, incident response pros press for due diligence<a href="https://www.scmagazine.com/home/security-news/ransomware/to-avoid-penalties-for-ransomware-payouts-incident-response-pros-press-for-due-diligence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The onus is also on the threat intelligence community, said one IR expert, to practice responsible ransomware attribution, as it can affect companies’ decisions on whether or not to pay.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 9th 2021 - Massive ransom demands<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-9th-2021-massive-ransom-demands/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks continue over the past two weeks with a continuation of the massive initial ransom demands we have seen recently.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading cosmetics group Pierre Fabre hit with $25 million ransomware attack<a href="https://www.bleepingcomputer.com/news/security/leading-cosmetics-group-pierre-fabre-hit-with-25-million-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading French pharmaceutical group Pierre Fabre suffered a REvil ransomware attack where the threat actors initially demanded a $25 million ransom, BleepingComputer learned today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maze/Egregor ransomware cartel estimated to have made $75 million<a href="https://therecord.media/maze-egregor-ransomware-cartel-estimated-to-have-made-75-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind the Maze and Egregor ransomware operations are believed to have earned at least $75 million worth of Bitcoin from ransom payments following intrusions at companies all over the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

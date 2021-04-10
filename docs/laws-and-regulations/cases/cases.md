@@ -7,6 +7,18 @@ nav_order: 1200500
 
 ## Cases
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former College Track and Field Coach Charged in Cyberstalking, Extortion and Fraud Investigation<a href="https://www.justice.gov/usao-ma/pr/former-college-track-and-field-coach-charged-cyberstalking-extortion-and-fraud"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BOSTON – A former track and field coach at various universities was arrested and charged today in connection with a scheme to trick female student-athletes, through sham social media accounts, into sending him nude or semi-nude photos. The defendant also allegedly cyberstalked at least one female student-athlete.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

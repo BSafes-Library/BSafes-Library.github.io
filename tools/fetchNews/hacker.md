@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Tampered With APKPure Store to Distribute Malware Apps<a href="https://thehackernews.com/2021/04/hackers-tampered-with-apkpure-store-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APKPure, one of the largest alternative app stores outside of the Google Play Store, was infected with malware this week, allowing threat actors to distribute Trojans to Android devices.  In an incident that's similar to that of German telecommunications&nbsp; equipment manufacturer Gigaset , the APKPure client version 3.17.18 is said to have been tampered with in an attempt to trick unsuspecting users into downloading and installing malicious applications linked to the malicious code built into the APKpure app.  The development was reported by researchers from&nbsp; Doctor Web &nbsp;and&nbsp; Kaspersky .   "This trojan belongs to the dangerous Android.Triada malware family capable of downloading, installing and uninstalling software without users' permission," Doctor Web researchers said.  According to Kaspersky, the APKPure version 3.17.18 was tweaked to incorporate an advertisement SDK that acts as a Trojan dropper designed to deliver other malware to a victim's device. "Thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This man was planning to kill 70% of Internet in a bomb attack against AWS<a href="https://securityaffairs.co/wordpress/116612/cyber-crime/plot-bomb-attack-aws.html"> Full Text</a>
