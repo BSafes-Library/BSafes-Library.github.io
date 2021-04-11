@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla flooded with requests after Apple privacy changes hit Facebook<a href="https://www.bleepingcomputer.com/news/security/mozilla-flooded-with-requests-after-apple-privacy-changes-hit-facebook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla volunteers have recently been flooded with requests by online merchants and marketers for their domains to be added to what's called a Public Suffix List (PSL)  due to recent privacy changes brought forth by Apple's iOS 14.5.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
