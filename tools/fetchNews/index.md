@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Is the recent accident at Iran Natanz nuclear plant a cyber attack?<a href="https://securityaffairs.co/wordpress/116668/cyber-warfare-2/iran-accident-natanz-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Sunday, an "accident" occurred in the electricity distribution network at Iran's Natanz nuclear facility, experts speculate it was caused by a cyberattack.
+
+
+
+A mysterious incident occurred on Sunday at the Natanz nuclear enrichment site and the media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mozilla flooded with requests after Apple privacy changes hit Facebook<a href="https://www.bleepingcomputer.com/news/security/mozilla-flooded-with-requests-after-apple-privacy-changes-hit-facebook/"> Full Text</a>
 </p>
 <details>
