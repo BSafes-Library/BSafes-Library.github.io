@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+April 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal data of 1.3 million Clubhouse users leaked online<a href="https://securityaffairs.co/wordpress/116655/data-breach/clubhouse-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An SQL database containing the personal data of 1.3 million Clubhouse users was leaked online for free, a few days after LinkedIn and Facebook suffered similar leaks.
+
+
+
+Researchers from Cyber News have discovered that the personal data of 1.3 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised APKPure client to distribute infected Apps<a href="https://securityaffairs.co/wordpress/116635/cyber-crime/apkpure-client-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APKPure, one of the largest alternative app stores, was the victim of a supply chain attack, threat actors compromised client version 3.17.18 to deliver malware.
+
+
+
+Multiple security experts discovered threat actors tampered with the APKPure client version...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

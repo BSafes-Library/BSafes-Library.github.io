@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Best Free Penetration Testing Tools 2021<a href="https://cybersecuritynews.com/penetration-testing-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ When we talk about the penetration Testing tools, we all know very well that the first thing that comes up to our...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

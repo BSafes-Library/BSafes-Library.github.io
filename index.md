@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 10 Best Free Penetration Testing Tools 2021<a href="https://cybersecuritynews.com/penetration-testing-tools/"> Full Text</a>
@@ -50,7 +50,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal data of 1.3 million Clubhouse users leaked online<a href="https://securityaffairs.co/wordpress/116655/data-breach/clubhouse-data-leak.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 309<a href="https://securityaffairs.co/wordpress/116652/breaking-news/security-affairs-newsletter-round-309.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joker malware infected 538,000 Huawei Android devices<a href="https://securityaffairs.co/wordpress/116643/malware/huawei-store-joker-malware.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joker malware infects over 500,000 Huawei Android devices<a href="https://www.bleepingcomputer.com/news/security/joker-malware-infects-over-500-000-huawei-android-devices/"> Full Text</a>
@@ -126,7 +126,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware found on Huawei's official app store<a href="https://therecord.media/android-malware-found-on-huaweis-official-app-store/?&web_view=true"> Full Text</a>
@@ -142,7 +142,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware found embedded in APKPure store application<a href="https://www.bleepingcomputer.com/news/security/android-malware-found-embedded-in-apkpure-store-application/"> Full Text</a>
@@ -158,7 +158,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers compromised APKPure client to distribute infected Apps<a href="https://securityaffairs.co/wordpress/116635/cyber-crime/apkpure-client-malware.html"> Full Text</a>
@@ -178,7 +178,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2021
+April 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks abuse website contact forms to deliver IcedID malware<a href="https://securityaffairs.co/wordpress/116620/cyber-crime/contact-forms-icedid-malware.html"> Full Text</a>
