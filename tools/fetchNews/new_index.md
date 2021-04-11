@@ -34,6 +34,170 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Best Free Penetration Testing Tools 2021<a href="https://cybersecuritynews.com/penetration-testing-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ When we talk about the penetration Testing tools, we all know very well that the first thing that comes up to our...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal data of 1.3 million Clubhouse users leaked online<a href="https://securityaffairs.co/wordpress/116655/data-breach/clubhouse-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An SQL database containing the personal data of 1.3 million Clubhouse users was leaked online for free, a few days after LinkedIn and Facebook suffered similar leaks.
+
+
+
+Researchers from Cyber News have discovered that the personal data of 1.3 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 309<a href="https://securityaffairs.co/wordpress/116652/breaking-news/security-affairs-newsletter-round-309.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+Clop Ransomware operators plunder US universitiesMalware attack on Applus blocked vehicle inspections...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joker malware infected 538,000 Huawei Android devices<a href="https://securityaffairs.co/wordpress/116643/malware/huawei-store-joker-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 500,000 Huawei users have been infected with the Joker malware after downloading apps from the company’s official Android store.
+
+
+
+More than 500,000 Huawei users were infected with the Joker malware after they have downloaded tainted apps...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joker malware infects over 500,000 Huawei Android devices<a href="https://www.bleepingcomputer.com/news/security/joker-malware-infects-over-500-000-huawei-android-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 500,000 Huawei users have downloaded from the company's official Android store applications infected with Joker malware that subscribes to premium mobile services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware found on Huawei's official app store<a href="https://therecord.media/android-malware-found-on-huaweis-official-app-store/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say the ten apps posed as legitimate applications, such as virtual keyboards, camera apps, app launchers, instant messengers, sticker collections, coloring programs, and games.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware found embedded in APKPure store application<a href="https://www.bleepingcomputer.com/news/security/android-malware-found-embedded-in-apkpure-store-application/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found malware embedded within the official application of APKPure, a popular third-party Android app store and an alternative to Google's official Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised APKPure client to distribute infected Apps<a href="https://securityaffairs.co/wordpress/116635/cyber-crime/apkpure-client-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APKPure, one of the largest alternative app stores, was the victim of a supply chain attack, threat actors compromised client version 3.17.18 to deliver malware.
+
+
+
+Multiple security experts discovered threat actors tampered with the APKPure client version...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks abuse website contact forms to deliver IcedID malware<a href="https://securityaffairs.co/wordpress/116620/cyber-crime/contact-forms-icedid-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers spotted a malware campaign abusing contact forms on legitimate websites to deliver the IcedID malware.
+
+
+
+Security experts from Microsoft have uncovered a malware campaign abusing contact forms on legitimate websites to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
