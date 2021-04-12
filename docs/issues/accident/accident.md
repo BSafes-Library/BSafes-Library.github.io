@@ -8,6 +8,24 @@ nav_order: 900005
 
 ## Accident
 ---
+April 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is the recent accident at Iran Natanz nuclear plant a cyber attack?<a href="https://securityaffairs.co/wordpress/116668/cyber-warfare-2/iran-accident-natanz-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Sunday, an "accident" occurred in the electricity distribution network at Iran's Natanz nuclear facility, experts speculate it was caused by a cyberattack.
+
+
+
+A mysterious incident occurred on Sunday at the Natanz nuclear enrichment site and the media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

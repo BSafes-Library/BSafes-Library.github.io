@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla flooded with requests after Apple privacy changes hit Facebook<a href="https://www.bleepingcomputer.com/news/security/mozilla-flooded-with-requests-after-apple-privacy-changes-hit-facebook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla volunteers have recently been flooded with requests by online merchants and marketers for their domains to be added to what's called a Public Suffix List (PSL)&nbsp; due to recent privacy changes brought forth by Apple's iOS 14.5.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

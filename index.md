@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 11, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is the recent accident at Iran Natanz nuclear plant a cyber attack?<a href="https://securityaffairs.co/wordpress/116668/cyber-warfare-2/iran-accident-natanz-cyberattack.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla flooded with requests after Apple privacy changes hit Facebook<a href="https://www.bleepingcomputer.com/news/security/mozilla-flooded-with-requests-after-apple-privacy-changes-hit-facebook/"> Full Text</a>
