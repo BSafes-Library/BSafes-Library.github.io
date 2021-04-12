@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPN users can't login due to expired certificate<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-users-cant-login-due-to-expired-certificate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users worldwide cannot connect to Pulse Secure VPN devices after a code signing certificate used to digitally sign and verify software components has expired.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Compromised APKPure Android App Store to Deliver Malware<a href="https://cybersecuritynews.com/hackers-compromised-apkpure-android-app-store/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK's NCSC Issues Critical Alert Against Fortinet VPN Vulnerability<a href="https://www.zdnet.com/article/critical-security-alert-if-you-havent-patched-this-two-year-old-vpn-vulnerability-assume-your-network-is-compromised/?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden to nominate former NSA deputy director to serve as cyber czar<a href="https://thehill.com//policy/cybersecurity/547664-biden-to-nominate-former-nsa-deputy-director-to-serve-as-cyber-czar"> Full Text</a>
@@ -82,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Does It Take To Be a Cybersecurity Researcher?<a href="https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol: “Virtually All” Crime Now Has a Digital Element<a href="https://www.infosecurity-magazine.com:443/news/europol-crime-has-digital-element/"> Full Text</a>
@@ -114,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn confirmed that it was not a victim of a data breach<a href="https://securityaffairs.co/wordpress/116689/data-breach/linkedin-not-data-breach.html"> Full Text</a>
@@ -134,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Criminals spread malware using website contact forms with Google URLs<a href="https://www.zdnet.com/article/criminals-spread-malware-using-website-contact-forms-with-google-urls/?&web_view=true"> Full Text</a>
@@ -150,7 +166,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows, Ubuntu, Zoom, Safari, MS Exchange Hacked at Pwn2Own 2021<a href="https://thehackernews.com/2021/04/windows-ubuntu-zoom-safari-ms-exchange.html"> Full Text</a>
@@ -166,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brits Still Confused by Multi-Factor Authentication<a href="https://www.infosecurity-magazine.com:443/news/brits-still-confused-by/"> Full Text</a>
@@ -182,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fitch Ratings: Cyberattacks could pose a material risk to water and sewer utilities<a href="https://securityaffairs.co/wordpress/116680/security/fitch-ratings-risk-water-utilities.html"> Full Text</a>
@@ -202,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fitch Ratings: Cyberattacks could pose a material risk to water and sewer utilities<a href="https://securityaffairs.co/wordpress/116680/security/fitch-ratings-risk-water-utilities.html?&web_view=true"> Full Text</a>
@@ -218,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 90% of Organizations Hit by a Mobile Malware Attack in 2020<a href="https://www.infosecurity-magazine.com:443/news/over-90-of-organizations-mobile/"> Full Text</a>
@@ -234,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers compromised APKPure client to distribute infected Apps<a href="https://securityaffairs.co/wordpress/116635/cyber-crime/apkpure-client-malware.html?&web_view=true"> Full Text</a>
@@ -250,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Man Arrested After Failed AWS Bomb Plot<a href="https://www.infosecurity-magazine.com:443/news/man-arrested-after-failed-aws-bomb/"> Full Text</a>
@@ -266,7 +282,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India seeks US help as China-backed hacks threaten military<a href="https://ciso.economictimes.indiatimes.com/news/india-seeks-us-help-as-china-backed-hacks-threaten-military/81984653?&web_view=true"> Full Text</a>
