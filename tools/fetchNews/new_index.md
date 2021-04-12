@@ -34,7 +34,255 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Compromised APKPure Android App Store to Deliver Malware<a href="https://cybersecuritynews.com/hackers-compromised-apkpure-android-app-store/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ APKPure is a popular third-party Android app store and an alternative to Google's official Play Store was infected with malware this week,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's NCSC Issues Critical Alert Against Fortinet VPN Vulnerability<a href="https://www.zdnet.com/article/critical-security-alert-if-you-havent-patched-this-two-year-old-vpn-vulnerability-assume-your-network-is-compromised/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alert from the NCSC follows a report by Kaspersky detailing how cybercriminals are exploiting a Fortinet VPN vulnerability (CVE-2018-13379) to distribute ransomware by exploiting unpatched systems and remotely accessing usernames and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden to nominate former NSA deputy director to serve as cyber czar<a href="https://thehill.com//policy/cybersecurity/547664-biden-to-nominate-former-nsa-deputy-director-to-serve-as-cyber-czar"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Monday will roll out a slate of key leaders to head his administration’s approach to cybersecurity, including nominating Chris Inglis, the former deputy director of the National Security Agency (NSA), as the national cyber director at the White House.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Does It Take To Be a Cybersecurity Researcher?<a href="https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Behind the strategies and solutions needed to counter today's cyber threats are—dedicated cybersecurity researchers. They spend their lives dissecting code and analyzing incident reports to discover how to stop the bad guys.   But what drives these specialists? To understand the motivations for why these cybersecurity pros do what they do, we decided to talk with cybersecurity analysts from around the world.  To get viewpoints from across Europe, Asia, and the Americas, we recently spoke with a team of researchers from Acronis' global network of Cyber Protection Operations Centers (CPOCs):  Candid Wüest , VP of Cyber Protection Research who is based in Switzerland;  Alexander Ivanyuk , Senior Director, Product, and Technology Positioning, who is based in Singapore; and two Cybersecurity Analysts,  Topher Tebow  and  Blake Collins , who are both based in the U.S.  The conversation yielded some interesting insights into their views of the world, how they approach cyber threat an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol: “Virtually All” Crime Now Has a Digital Element<a href="https://www.infosecurity-magazine.com:443/news/europol-crime-has-digital-element/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals are increasingly leveraging digital tech in areas such as communication and finances
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn confirmed that it was not a victim of a data breach<a href="https://securityaffairs.co/wordpress/116689/data-breach/linkedin-not-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn has formally denied that the recently disclosed data leak was caused by a security breach, data were obtained via web scraping.
+
+
+
+LinkedIn has issued a formal statement to deny that the recent leak that exposed the account details of more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals spread malware using website contact forms with Google URLs<a href="https://www.zdnet.com/article/criminals-spread-malware-using-website-contact-forms-with-google-urls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning businesses to beware of cybercriminals using company website contact forms to deliver the IcedID info-stealing banking trojan in email with Google URLs to employees.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows, Ubuntu, Zoom, Safari, MS Exchange Hacked at Pwn2Own 2021<a href="https://thehackernews.com/2021/04/windows-ubuntu-zoom-safari-ms-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2021 spring edition of  Pwn2Own  hacking contest concluded last week on April 8 with a three-way tie between Team Devcore, OV, and Computest researchers Daan Keuper and Thijs Alkemade.  A total of $1.2 million was awarded for 16 high-profile exploits over the course of the three-day virtual event organized by the Zero Day Initiative (ZDI).  Targets with successful attempts included Zoom, Apple Safari, Microsoft Exchange, Microsoft Teams, Parallels Desktop, Windows 10, and Ubuntu Desktop operating systems.   Some of the major highlights are as follows —   Using an authentication bypass and a local privilege escalation to completely take over a Microsoft Exchange server, for which the Devcore team netted $200,000  Chaining a pair of bugs to achieve code execution in Microsoft Teams, earning researcher OV $200,000  A zero-click exploit targeting Zoom that employed a three-bug chain to exploit the messenger app and gain code execution on the target system. ($200,000)  The exploitation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brits Still Confused by Multi-Factor Authentication<a href="https://www.infosecurity-magazine.com:443/news/brits-still-confused-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIDO Alliance warns that social media accounts are at risk
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fitch Ratings: Cyberattacks could pose a material risk to water and sewer utilities<a href="https://securityaffairs.co/wordpress/116680/security/fitch-ratings-risk-water-utilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fitch Ratings is warning that cyberattacks could pose a risk to water and sewer utilities potentially impacting their ability to repay debt.
+
+
+
+Fitch Ratings Inc. is an American credit rating agency and is one of the "Big Three credit rating agencies",...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fitch Ratings: Cyberattacks could pose a material risk to water and sewer utilities<a href="https://securityaffairs.co/wordpress/116680/security/fitch-ratings-risk-water-utilities.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fitch Ratings published an alert last week to warn of the “material risk” to water and sewer utilities caused by cyber-attacks that could also impact their ability to repay debt.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 90% of Organizations Hit by a Mobile Malware Attack in 2020<a href="https://www.infosecurity-magazine.com:443/news/over-90-of-organizations-mobile/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point warns of MDM threats and chip-based bugs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised APKPure client to distribute infected Apps<a href="https://securityaffairs.co/wordpress/116635/cyber-crime/apkpure-client-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security experts discovered threat actors tampered with the APKPure client version 3.17.18 of the popular alternative third-party Android app store. APKPure is available only on devices that use Google Mobile Services (GMS).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Arrested After Failed AWS Bomb Plot<a href="https://www.infosecurity-magazine.com:443/news/man-arrested-after-failed-aws-bomb/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individual allegedly wanted to “kill off 70% of the internet”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India seeks US help as China-backed hacks threaten military<a href="https://ciso.economictimes.indiatimes.com/news/india-seeks-us-help-as-china-backed-hacks-threaten-military/81984653?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India’s top military official says the country plans to seek help from the US and other countries to shore up its defense infrastructure that is vulnerable to China-backed cyber-attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is the recent accident at Iran Natanz nuclear plant a cyber attack?<a href="https://securityaffairs.co/wordpress/116668/cyber-warfare-2/iran-accident-natanz-cyberattack.html"> Full Text</a>
@@ -54,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2021
+April 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla flooded with requests after Apple privacy changes hit Facebook<a href="https://www.bleepingcomputer.com/news/security/mozilla-flooded-with-requests-after-apple-privacy-changes-hit-facebook/"> Full Text</a>
