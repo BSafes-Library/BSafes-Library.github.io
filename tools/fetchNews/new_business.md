@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn confirmed that it was not a victim of a data breach<a href="https://securityaffairs.co/wordpress/116689/data-breach/linkedin-not-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn has formally denied that the recently disclosed data leak was caused by a security breach, data were obtained via web scraping.
+
+
+
+LinkedIn has issued a formal statement to deny that the recent leak that exposed the account details of more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

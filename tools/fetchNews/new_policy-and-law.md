@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Arrested After Failed AWS Bomb Plot<a href="https://www.infosecurity-magazine.com:443/news/man-arrested-after-failed-aws-bomb/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individual allegedly wanted to “kill off 70% of the internet”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Compromised APKPure Android App Store to Deliver Malware<a href="https://cybersecuritynews.com/hackers-compromised-apkpure-android-app-store/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ APKPure is a popular third-party Android app store and an alternative to Google's official Play Store was infected with malware this week,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Does It Take To Be a Cybersecurity Researcher?<a href="https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Behind the strategies and solutions needed to counter today's cyber threats are—dedicated cybersecurity researchers. They spend their lives dissecting code and analyzing incident reports to discover how to stop the bad guys.&nbsp;  But what drives these specialists? To understand the motivations for why these cybersecurity pros do what they do, we decided to talk with cybersecurity analysts from around the world.  To get viewpoints from across Europe, Asia, and the Americas, we recently spoke with a team of researchers from Acronis' global network of Cyber Protection Operations Centers (CPOCs):&nbsp; Candid Wüest , VP of Cyber Protection Research who is based in Switzerland;&nbsp; Alexander Ivanyuk , Senior Director, Product, and Technology Positioning, who is based in Singapore; and two Cybersecurity Analysts,&nbsp; Topher Tebow &nbsp;and&nbsp; Blake Collins , who are both based in the U.S.  The conversation yielded some interesting insights into their views of the world, how they approach cyber threat an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brits Still Confused by Multi-Factor Authentication<a href="https://www.infosecurity-magazine.com:443/news/brits-still-confused-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIDO Alliance warns that social media accounts are at risk
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fitch Ratings: Cyberattacks could pose a material risk to water and sewer utilities<a href="https://securityaffairs.co/wordpress/116680/security/fitch-ratings-risk-water-utilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fitch Ratings is warning that cyberattacks could pose a risk to water and sewer utilities potentially impacting their ability to repay debt.
+
+
+
+Fitch Ratings Inc. is an American credit rating agency and is one of the "Big Three credit rating agencies",...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fitch Ratings: Cyberattacks could pose a material risk to water and sewer utilities<a href="https://securityaffairs.co/wordpress/116680/security/fitch-ratings-risk-water-utilities.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fitch Ratings published an alert last week to warn of the “material risk” to water and sewer utilities caused by cyber-attacks that could also impact their ability to repay debt.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 90% of Organizations Hit by a Mobile Malware Attack in 2020<a href="https://www.infosecurity-magazine.com:443/news/over-90-of-organizations-mobile/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point warns of MDM threats and chip-based bugs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

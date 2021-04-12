@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's NCSC Issues Critical Alert Against Fortinet VPN Vulnerability<a href="https://www.zdnet.com/article/critical-security-alert-if-you-havent-patched-this-two-year-old-vpn-vulnerability-assume-your-network-is-compromised/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alert from the NCSC follows a report by Kaspersky detailing how cybercriminals are exploiting a Fortinet VPN vulnerability (CVE-2018-13379) to distribute ransomware by exploiting unpatched systems and remotely accessing usernames and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows, Ubuntu, Zoom, Safari, MS Exchange Hacked at Pwn2Own 2021<a href="https://thehackernews.com/2021/04/windows-ubuntu-zoom-safari-ms-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2021 spring edition of&nbsp; Pwn2Own &nbsp;hacking contest concluded last week on April 8 with a three-way tie between Team Devcore, OV, and Computest researchers Daan Keuper and Thijs Alkemade.  A total of $1.2 million was awarded for 16 high-profile exploits over the course of the three-day virtual event organized by the Zero Day Initiative (ZDI).  Targets with successful attempts included Zoom, Apple Safari, Microsoft Exchange, Microsoft Teams, Parallels Desktop, Windows 10, and Ubuntu Desktop operating systems.   Some of the major highlights are as follows —   Using an authentication bypass and a local privilege escalation to completely take over a Microsoft Exchange server, for which the Devcore team netted $200,000  Chaining a pair of bugs to achieve code execution in Microsoft Teams, earning researcher OV $200,000  A zero-click exploit targeting Zoom that employed a three-bug chain to exploit the messenger app and gain code execution on the target system. ($200,000)  The exploitation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
