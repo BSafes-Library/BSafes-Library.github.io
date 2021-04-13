@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Services Market to be Worth $192.7bn<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-services-market-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research suggests global cybersecurity market will be worth $192.7bn by 2028
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Attack Shutters Half of Tasmania’s Casinos<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-shutters-half/"> Full Text</a>
 </p>
 <details>
