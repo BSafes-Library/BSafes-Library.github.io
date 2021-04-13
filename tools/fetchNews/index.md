@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Tax Phish Swims Past Google Workspace Email Security<a href="https://threatpost.com/tax-phish-google-workspace-email-security/165376/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks are looking to harvest email credentials with a savvy campaign that uses the Typeform service to host the phishing page.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Linux, macOS malware hidden in fake Browserify NPM package<a href="https://www.bleepingcomputer.com/news/security/new-linux-macos-malware-hidden-in-fake-browserify-npm-package/"> Full Text</a>
 </p>
 <details>
