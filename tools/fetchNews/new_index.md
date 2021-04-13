@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brave browser disables Google's FLoC tracking system<a href="https://www.zdnet.com/article/brave-browser-disables-googles-floc-tracking-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brave, a Chromium-based browser, has removed Federated Learning of Cohorts (FLoC), Google's controversial alternative identifier to third-party cookies for tracking users across websites.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Victims are spotting cyber attacks much more quickly - but there's a catch<a href="https://www.zdnet.com/article/cybersecurity-organisations-are-getting-quicker-at-discovering-cyber-attacks-in-their-networks-but-theres-a-catch/?&web_view=true"> Full Text</a>
 </p>
 <details>
