@@ -37,6 +37,322 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Watch out for this W-2 phishing scam targeting the 2021 tax season<a href="https://www.bleepingcomputer.com/news/security/watch-out-for-this-w-2-phishing-scam-targeting-the-2021-tax-season/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the United State tax season in high gear, threat actors have sprung into action with a recent tax document phishing scam that abuses TypeForm forms to steal your login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 500 Million LinkedIn Users Scraped and Being Sold Online<a href="https://cybersecuritynews.com/linkedin-users-data-scraped/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ LinkedIn is the most recent victim of a massive data breach and data of over 500 million of its users has been...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Reserve Chairman Jerome Powell Says Cyberattacks are the Number One Threat to the Global Financial System<a href="https://edition.cnn.com/2021/04/12/business/jerome-powell-cyberattacks-global-threat/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks are now the foremost risk to the global financial system, even more so than the lending and liquidity risks that led to the 2008 financial crisis, according to Federal Reserve Chairman Jerome Powell.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NAME:WRECK Vulnerabilities Impact Nearly 100 Million IoT Devices<a href="https://thehackernews.com/2021/04/new-namewreck-vulnerabilities-impact.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered nine vulnerabilities affecting four TCP/IP stacks impacting more than 100 million consumer and enterprise devices that could be exploited by an attacker to take control of a vulnerable system.  Dubbed " NAME:WRECK " by Forescout and JSOF, the flaws are the latest in series of studies undertaken as part of an initiative called Project Memoria to study the security of widely-used TCP/IP stacks that are incorporated by various vendors in their firmware to offer internet and network connectivity features.  "These vulnerabilities relate to Domain Name System (DNS) implementations, causing either Denial of Service (DoS) or Remote Code Execution (RCE), allowing attackers to take target devices offline or to take control over them," the researchers said.  The name comes from the fact that parsing of domain names can break (i.e., "wreck") DNS implementations in TCP/IP stacks, adding to a recent uptick in vulnerabilities such as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee: COVID-19 Themed Attacks Continue to Surge<a href="https://www.infosecurity-magazine.com:443/news/mcafee-covid-themed-attacks-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Overall malware detections reached 648 threats per minute in Q4 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of devices impacted by NAME:WRECK flaws<a href="https://securityaffairs.co/wordpress/116734/reports/namewreck-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts disclosed nine flaws, collectively tracked as NAME:WRECK, affecting implementations of the DNS protocol in popular TCP/IP network communication stacks.
+
+
+
+Security researchers disclosed nine vulnerabilities, collectively tracked as NAME:WRECK,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brokerage Firm Upstox Exposes 2.5 Million Customers Sensitive Information<a href="https://cybersecuritynews.com/brokerage-firm-upstox/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Upstox suffers a security breach, resulting in the exposure of 2.5 million users' sensitive information online from unsecured AWS S3 Bucket.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Talon Cyber Security raises $26M to further develop its technology and expand the development team<a href="https://www.helpnetsecurity.com/2021/04/13/talon-cyber-security-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talon Cyber Security announced that it has secured $26 million in seed funding from Lightspeed Venture Partners, Team8, serial entrepreneur Zohar Zisapel, and leading cyber angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Website's Contact Forms to Deliver IcedID Malware<a href="https://thehackernews.com/2021/04/hackers-using-websites-contact-forms-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned organizations of a "unique" attack campaign that abuses contact forms published on websites to deliver malicious links to businesses via emails containing fake legal threats, in what's yet another instance of adversaries abusing legitimate infrastructure to mount evasive campaigns that bypass security protections.  "The emails instruct recipients to click a link to review supposed evidence behind their allegations, but are instead led to the download of IcedID, an info-stealing malware," the company's threat intelligence team  said  in a write-up published last Friday.   IceID  is a Windows-based banking trojan that's used for reconnaissance and exfiltration of banking credentials, alongside features that allow it to connect to a remote command-and-control (C2) server to deploy additional payloads such as ransomware and malware capable of performing hands-on-keyboard attacks, stealing credentials, and moving laterally across affecte
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Destructive Attacks Surged in 2020 for Financial Institutions<a href="https://www.infosecurity-magazine.com:443/news/destructive-attacks-2020-financial/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warns of sophisticated counter incident response efforts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert publicly released Chromium-based browsers exploit demonstrated at Pwn2Own 2021<a href="https://securityaffairs.co/wordpress/116727/hacking/chromium-based-browsers-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Indian security researcher has published a proof-of-concept (PoC) exploit code for a vulnerability impacting Google Chrome and other Chromium-based browsers.
+
+
+
+The Indian security researcher Rajvardhan Agarwal has publicly released a proof-of-concept...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Attack Trends for Winter 2020<a href="https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers analyzed network attack trends over Winter 2020 and discovered many interesting exploits in the wild. During the period of Nov. 2020 to Jan. 2021, the majority of the attacks we observed were classified as critical (75%).
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting the "Next" SolarWinds-Style Cyber Attack<a href="https://thehackernews.com/2021/04/detecting-next-solarwinds-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds attack , which succeeded by utilizing the sunburst malware , shocked the cyber-security industry. This attack achieved persistence and was able to evade internal systems long enough to gain access to the source code of the victim.  Because of the far-reaching SolarWinds deployments, the perpetrators were also able to infiltrate many other organizations, looking for intellectual property and other assets.  Among the co-victims: US government, government contractors, Information Technology companies, and NGOs. Terabytes of data of 18,000 customers was stolen after a trojan-ized version of the SolarWinds application was installed in the internal structures of the clients.  Looking at the technical capabilities of the malware, as you will see, this particular attack was quite impressive. A particular file, named  SolarWinds.Orion.Core.BusinessLayer.dll  is a SolarWinds digitally signed component of the Orion software framework.  The threat actors installed a backdoor that c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Name:Wreck Bugs Could Impact 100M IoT Devices<a href="https://www.infosecurity-magazine.com:443/news/namewreck-bugs-could-impact-100m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploitation could deny service or enable remote code execution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expired certificate caused a Pulse Secure VPN global scale outage<a href="https://securityaffairs.co/wordpress/116719/security/pulse-secure-vpn-outage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure VPN users were not able to login due to the expiration of a code signing certificate used to digitally sign and verify software components.
+
+
+
+Pulse Secure VPN users were not able to login after a code signing certificate used to digitally...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity training startup Hack The Box raises $10.6M Series A led by Paladin Capital<a href="https://techcrunch.com/2021/04/12/cybersecurity-training-startup-hack-the-box-raises-10-6m-series-a-led-by-paladin-capital/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity training startup Hack The Box has raised a Series A investment round of $10.6 million, led by Paladin Capital Group and joined by Osage University Partners, Brighteye Ventures, and existing investors Marathon Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Food Shortages at Dutch Supermarkets After Ransomware Outage<a href="https://www.infosecurity-magazine.com:443/news/food-shortages-dutch-supermarkets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Logistics provider Bakker Logistiek suffered attack over Easter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FormBook Variant Delivered in Phishing Campaign<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-new-formbook-variant-delivered-phishing-campaign-part-I?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs captured a phishing campaign that was sending a Microsoft PowerPoint document as an email attachment to spread the new variant of the infamous FormBook malware.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DNS vulnerabilities have the potential to impact millions of devices<a href="https://www.helpnetsecurity.com/2021/04/13/dns-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities affect four popular TCP/IP stacks – namely FreeBSD, IPnet, Nucleus NET, and NetX – which are commonly present in well-known IT software and popular IoT/OT firmware and have the potential to impact millions of IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NAME:WRECK DNS vulnerabilities affect over 100 million devices<a href="https://www.bleepingcomputer.com/news/security/name-wreck-dns-vulnerabilities-affect-over-100-million-devices/"> Full Text</a>
 </p>
 <details>
