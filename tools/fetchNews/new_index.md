@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fitch Partners with SecurityScorecard to Help Investors Assess Businesses’ Cyber-Risk<a href="https://www.infosecurity-magazine.com:443/news/fitch-partners-securityscorecard/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing threat landscape has made investors more concerned about companies' cybersecurity postures
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit code for a critical RCE in QNAP NAS devices<a href="https://securityaffairs.co/wordpress/116750/hacking/qnap-rce-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit code for a remote code execution vulnerability affecting QNAP network-attached storage (NAS) devices that run the Surveillance Station video management system is available online.
+
+
+
+An exploit for a remote code execution vulnerability affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Joe Biden Appointed two Former Senior NSA Officials for Senior Cyber Security Roles<a href="https://cybersecuritynews.com/former-senior-nsa-officials/"> Full Text</a>
 </p>
 <details>
