@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes 2 critical Exchange Server flaws reported by the NSA<a href="https://securityaffairs.co/wordpress/116767/uncategorized/exchange-server-flaws-nsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft patch Tuesday security updates address four high and critical vulnerabilities in Microsoft Exchange Server that were reported by the NSA.
+
+
+
+Microsoft patch Tuesday security updates released today have addressed four critical and high severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the NAME:WRECK Bugs Impact Consumers, Businesses<a href="https://threatpost.com/namewreck-bugs-businesses/165385/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How this class of vulnerabilities will impact millions connected devices and potentially wreck the day of IT security professionals. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Federal agencies urge groups to patch systems over new Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/548032-federal-government-urges-groups-to-patch-systems-after-discovery-of-new"> Full Text</a>
 </p>
 <details>
