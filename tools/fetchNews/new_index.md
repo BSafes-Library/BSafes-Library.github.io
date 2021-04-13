@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experts see 'unprecedented' increase in hackers targeting electric grid<a href="https://thehill.com//policy/cybersecurity/548051-experts-see-unprecedented-increase-in-hackers-targeting-electric-grid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leader of a key information sharing group said Tuesday that organizations involved in the electricity sector had seen an "unprecedented" increase in cyber threats during the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes 2 critical Exchange Server flaws reported by the NSA<a href="https://securityaffairs.co/wordpress/116767/uncategorized/exchange-server-flaws-nsa.html"> Full Text</a>
 </p>
 <details>
