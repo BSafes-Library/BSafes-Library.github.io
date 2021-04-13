@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Linux, macOS malware hidden in fake Browserify NPM package<a href="https://www.bleepingcomputer.com/news/security/new-linux-macos-malware-hidden-in-fake-browserify-npm-package/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malicious package been spotted this week on the npm registry, which targets NodeJS developers using Linux and Apple macOS operating systems for its recon activities. The malicious package is called "web-browserify." It imitates the popular Browserify npm component, downloaded over 160 million times over its lifetime.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel assessment warns of increasing national security threats from China, Russia<a href="https://thehill.com//policy/cybersecurity/547980-intel-assessment-warns-of-increasing-national-security-threats-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An annual worldwide threats assessment made public by the Office of the Director of National Intelligence (ODNI) on Tuesday warned of increasing cyber, technological, and military threats from China and Russia, particularly as the COVID-19 pandemic continues. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft closes new critical Exchange vulnerability, suggests patch ‘as soon as possible’<a href="https://www.scmagazine.com/home/patch-management/microsoft-closes-new-critical-exchange-vulnerability-suggests-patch-as-soon-as-possible/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alert about new exchange bugs come soon after on-premises Exchange customers were told to patch against a campaign actively exploiting a zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/116760/security/adobe-critical-flaws-photoshop.html"> Full Text</a>
 </p>
 <details>
