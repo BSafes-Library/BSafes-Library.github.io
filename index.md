@@ -37,6 +37,418 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome, Microsoft Edge zero-day vulnerability shared on Twitter<a href="https://www.bleepingcomputer.com/news/security/google-chrome-microsoft-edge-zero-day-vulnerability-shared-on-twitter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has dropped a zero-day remote code execution vulnerability on Twitter that works on the current version of Google Chrome and Microsoft Edge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas Man Charged With Intent of Planning to Kill 70% of the Internet<a href="https://cybersecuritynews.com/texas-man-charged/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A Texas man is charged with intent to attack Data Centers on April 8 2021. This man has planned to blow up...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Breaks Safe Mode Again with Auto-login Feature<a href="https://cyware.com/news/revil-breaks-safe-mode-again-with-auto-login-feature-ae7fdbe4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent research found that REvil ransomware has repurposed its attack technique that involves modifying the user’s system login password and force a system reboot to allow the malware to encrypt the files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden nominates former NSA deputy director to serve as cyber czar | Apple to send witness to Senate hearing after all | Biden pressed on semiconductor production amid shortage<a href="https://thehill.com//policy/technology/overnights/547800-hillicon-valley-biden-nominates-former-nsa-deputy-director-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenFederal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill Biden gives shout out to Champ, Major on National Pet Day MORE rolled out a list of nominees to fill key cybersecurity positions, which drew support from lawmakers on both sides of the aisle. Meanwhile, top senators on the antitrust subcommittee said Apple will send a witness to hearing later this month on app store competition after they pushed back on what they called the tech giant’s refusal to participate. And as more people in the U.S. get their COVID-19 vaccines, Uber said it recorded its highest monthly gross bookings in company history in March.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Brokerage Firm Upstox Suffers Data Breach Leaking 2.5 Millions Users' Data<a href="https://thehackernews.com/2021/04/indian-brokerage-firm-upstox-suffers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online trading and discount brokerage platform Upstox has become the latest Indian company to suffer a security breach of its systems, resulting in the exposure of sensitive information of approximately 2.5 million users on the dark web.  The leaked information includes names, email addresses, dates of birth, bank account information, and about 56 million know your customer (KYC) documents pulled from the company's server.  The breach was first disclosed by independent researcher  Rajshekhar Rajaharia  on April 11. It's not immediately clear when the incident occurred.   Reacting to the development, the company, however,  said  it had recently upgraded its security systems following reports of "unauthorized access into our database" while stressing that users' funds and securities remained protected.   As a precaution, besides initiating a secure password reset of users' accounts, Upstox said it restricted access to the impacted database, implying it was a ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Sports Teams Boycott Social Media<a href="https://www.infosecurity-magazine.com:443/news/uk-sports-teams-boycott-social/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sporting stars step back from social media to raise awareness of online abuse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two former NSA Officials appointed by Joe Biden for prominent cyber roles<a href="https://securityaffairs.co/wordpress/116714/intelligence/joe-biden-nsa-officials-nominations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden has appointed two former senior NSA officials for two prominent cyber roles in his administration.
+
+
+
+President Joe Biden has assigned to two former senior National Security Agency (NSA) officials key cyber roles in his administration.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+61 percent of employees fail basic cybersecurity quiz<a href="https://www.scmagazine.com/home/security-news/61-percent-of-employees-fail-basic-cybersecurity-quiz/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 70% of employees polled in a new survey said they recently received cybersecurity training from their employers, yet 61% nevertheless failed when asked to take a basic quiz on the topic. This was one of the leading findings of a research study – conducted by TalentLMS on behalf of Kenna Security – that sought…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CS:GO, Valve Source games vulnerable to hacking using Steam invites<a href="https://www.bleepingcomputer.com/news/security/cs-go-valve-source-games-vulnerable-to-hacking-using-steam-invites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of security researchers known as the Secret Club took it to Twitter to report a remote code execution bug in the Source 3D game engine developed by Valve and used for building games with tens of millions of unique players.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golden Chickens and New Spear-Phishing Campaign<a href="https://cyware.com/news/golden-chickens-and-new-spear-phishing-campaign-4cf21356"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new spear-phishing campaign has been targeting LinkedIn users with fake job offers in an attempt to attain control over victims’ computers using a sophisticated backdoor trojan called more_eggs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers, industry call on Biden to fund semiconductor production amid shortage<a href="https://thehill.com//policy/cybersecurity/547791-lawmakers-industry-call-on-biden-to-fund-semiconductor-production-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of more than 70 House and Senate lawmakers on Monday called on President Biden to support funds for semiconductor research and manufacturing as Biden hosted a meeting with technology leaders to discuss a critical shortage in chips. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Nominates More Ex-NSA Officials to Top Cybersecurity Roles<a href="https://www.infosecurity-magazine.com:443/news/inglis-easterly-biden-nominees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two former National Security Agency workers selected by Biden for senior cyber jobs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is open sourcing CyberBattleSim Enterprise Environment Simulator<a href="https://securityaffairs.co/wordpress/116702/security/cyberbattlesim-enterprise-environment-simulator.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released as open-source the 'CyberBattleSim Python-based toolkit which is an Enterprise Environment Simulator.
+
+
+
+Microsoft has recently announced the open-source availability of the Python-based enterprise environment simulator. named 'CyberBattleSim.'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware’s evolving tools and technical tactics confuse forensic analysis<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomwares-evolving-tools-and-technical-tactics-confuse-forensic-analysis/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries attempt to gain an upper hand by compromising the Active Directory, encrypting VM environments, and abusing Rclone.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch supermarkets run out of cheese after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/dutch-supermarkets-run-out-of-cheese-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack against conditioned warehousing and transportation provider Bakker Logistiek has caused a cheese shortage in Dutch supermarkets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Close Ties Surface Between Mount Locker and Astro Locker Team Ransomware Groups<a href="https://cyware.com/news/close-ties-surface-between-mount-locker-and-astro-locker-team-ransomware-groups-f60ed371"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are looking at an uncanny resemblance between ransomware groups Mount Locker and Astro Locker Team. Experts imply a possible tie-up to expedite Mount Locker's onboarding as a RaaS operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan lawmakers signal support for Biden cybersecurity picks<a href="https://thehill.com//policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key lawmakers on Monday expressed support for President Biden’s picks to lead federal efforts on securing the nation against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran Nuclear Facility Suffers Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/iran-nuclear-facility-suffers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli public media claims Israel was behind a cyber-attack on Iran’s Natanz nuclear complex
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden scores praise for nominations of White House, DHS cyber leaders<a href="https://www.scmagazine.com/home/security-news/government-and-defense/biden-scores-praise-for-nominations-of-white-house-dhs-cyber-leaders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The announcement ends months of speculation over the key positions, during which time the government has had to face fallout from both the Solarwinds and Hafnium Exchange Server campaigns without leadership in place.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Downloader Spotted in Targeted Campaigns<a href="https://www.darkreading.com/vulnerabilities---threats/new-malware-downloader-spotted-in-targeted-campaigns/d/d-id/1340640?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively sophisticated new malware downloader, dubbed as Saint Bot, has surfaced in recent weeks that, though not widespread yet, appears to be gaining momentum. The downloader is being used to drop stealers on compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-criminals Increasingly Leveraging Debates About Travel During #COVID19 to Launch Attacks<a href="https://www.infosecurity-magazine.com:443/news/cyber-criminals-travel-covid-launch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 93% rise in malicious COVID-related domains created using the word 'travel' has been detected
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How ransomware gangs are connected, sharing resources and tactics<a href="https://blog.malwarebytes.com/ransomware/2021/04/how-ransomware-gangs-are-connected-and-sharing-resources-and-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a whitepaper entitled “Ransom Mafia – Analysis of the World’s First Ransomware Cartel”,  DiMaggio and his team aimed to provide an analytical assessment on whether there is indeed a ransomware cartel.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British cyber security firm Darktrace targets $4 billion London listing<a href="https://www.reuters.com/article/us-darktrace-ipo/british-cyber-security-firm-darktrace-targets-4-billion-london-listing-idUSKBN2BZ0H0?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darktrace, the British cybersecurity firm fired the gun on its $4 billion London listing on Monday, aiming to raise new funds to accelerate product development and strengthen its balance sheet.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium Will Triple Payouts for RCE Exploits for WordPress CMS<a href="https://heimdalsecurity.com/blog/zerodium-will-triple-payouts-for-rce-exploits-for-wordpress/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit purchase platform is currently tempting exploit developers and vendors with a $300,000 payout, three times more than the normal cost. The announcement was made via Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden makes nominations for top cyber posts<a href="https://www.reuters.com/article/us-usa-biden-cyber-nominations/biden-makes-nominations-for-top-cyber-posts-idUSKBN2BZ1NH?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden is nominating Chris Inglis to be the National Cyber Director and Jen Easterly to be director of the Cybersecurity and Infrastructure Security Agency, the White House said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure VPN users can't login due to expired certificate<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-users-cant-login-due-to-expired-certificate/"> Full Text</a>
 </p>
 <details>
