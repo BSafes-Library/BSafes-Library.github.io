@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NSA discovers critical Exchange Server vulnerabilities, patch now<a href="https://www.bleepingcomputer.com/news/security/nsa-discovers-critical-exchange-server-vulnerabilities-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today has released security updates for Exchange Server that address a set of four vulnerabilities with severity scores ranging from high to critical.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-bullied Teen Takes Own Life<a href="https://www.infosecurity-magazine.com:443/news/cyberbullied-teen-takes-own-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York teen kills himself after being bullied and blackmailed online
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Services Market to be Worth $192.7bn<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-services-market-to/"> Full Text</a>
 </p>
 <details>
