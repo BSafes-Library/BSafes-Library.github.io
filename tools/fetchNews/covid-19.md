@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-criminals Increasingly Leveraging Debates About Travel During #COVID19 to Launch Attacks<a href="https://www.infosecurity-magazine.com:443/news/cyber-criminals-travel-covid-launch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 93% rise in malicious COVID-related domains created using the word 'travel' has been detected
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

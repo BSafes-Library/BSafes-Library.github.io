@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Reserve Chairman Jerome Powell Says Cyberattacks are the Number One Threat to the Global Financial System<a href="https://edition.cnn.com/2021/04/12/business/jerome-powell-cyberattacks-global-threat/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks are now the foremost risk to the global financial system, even more so than the lending and liquidity risks that led to the 2008 financial crisis, according to Federal Reserve Chairman Jerome Powell.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for this W-2 phishing scam targeting the 2021 tax season<a href="https://www.bleepingcomputer.com/news/security/watch-out-for-this-w-2-phishing-scam-targeting-the-2021-tax-season/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 500 Million LinkedIn Users Scraped and Being Sold Online<a href="https://cybersecuritynews.com/linkedin-users-data-scraped/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Federal Reserve Chairman Jerome Powell Says Cyberattacks are the Number One Threat to the Global Financial System<a href="https://edition.cnn.com/2021/04/12/business/jerome-powell-cyberattacks-global-threat/index.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NAME:WRECK Vulnerabilities Impact Nearly 100 Million IoT Devices<a href="https://thehackernews.com/2021/04/new-namewreck-vulnerabilities-impact.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McAfee: COVID-19 Themed Attacks Continue to Surge<a href="https://www.infosecurity-magazine.com:443/news/mcafee-covid-themed-attacks-surge/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of devices impacted by NAME:WRECK flaws<a href="https://securityaffairs.co/wordpress/116734/reports/namewreck-flaws.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brokerage Firm Upstox Exposes 2.5 Million Customers Sensitive Information<a href="https://cybersecuritynews.com/brokerage-firm-upstox/"> Full Text</a>
@@ -150,7 +150,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Talon Cyber Security raises $26M to further develop its technology and expand the development team<a href="https://www.helpnetsecurity.com/2021/04/13/talon-cyber-security-funding/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Website's Contact Forms to Deliver IcedID Malware<a href="https://thehackernews.com/2021/04/hackers-using-websites-contact-forms-to.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Destructive Attacks Surged in 2020 for Financial Institutions<a href="https://www.infosecurity-magazine.com:443/news/destructive-attacks-2020-financial/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert publicly released Chromium-based browsers exploit demonstrated at Pwn2Own 2021<a href="https://securityaffairs.co/wordpress/116727/hacking/chromium-based-browsers-exploit.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Network Attack Trends for Winter 2020<a href="https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Detecting the "Next" SolarWinds-Style Cyber Attack<a href="https://thehackernews.com/2021/04/detecting-next-solarwinds-attack.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Name:Wreck Bugs Could Impact 100M IoT Devices<a href="https://www.infosecurity-magazine.com:443/news/namewreck-bugs-could-impact-100m/"> Full Text</a>
@@ -266,7 +266,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expired certificate caused a Pulse Secure VPN global scale outage<a href="https://securityaffairs.co/wordpress/116719/security/pulse-secure-vpn-outage.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity training startup Hack The Box raises $10.6M Series A led by Paladin Capital<a href="https://techcrunch.com/2021/04/12/cybersecurity-training-startup-hack-the-box-raises-10-6m-series-a-led-by-paladin-capital/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Food Shortages at Dutch Supermarkets After Ransomware Outage<a href="https://www.infosecurity-magazine.com:443/news/food-shortages-dutch-supermarkets/"> Full Text</a>
@@ -318,7 +318,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FormBook Variant Delivered in Phishing Campaign<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-new-formbook-variant-delivered-phishing-campaign-part-I?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DNS vulnerabilities have the potential to impact millions of devices<a href="https://www.helpnetsecurity.com/2021/04/13/dns-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NAME:WRECK DNS vulnerabilities affect over 100 million devices<a href="https://www.bleepingcomputer.com/news/security/name-wreck-dns-vulnerabilities-affect-over-100-million-devices/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NAME:WRECK DNS bugs affect over 100 million devices<a href="https://www.bleepingcomputer.com/news/security/name-wreck-dns-bugs-affect-over-100-million-devices/"> Full Text</a>
@@ -382,7 +382,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Name:Wreck’ is the latest collision between TCP/IP and the standards process<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/namewreck-is-the-latest-collision-between-tcp-ip-and-the-standards-process/"> Full Text</a>

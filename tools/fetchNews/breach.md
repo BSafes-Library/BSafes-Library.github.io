@@ -11,6 +11,20 @@ nav_order: 900029
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Indian Brokerage Firm Upstox Suffers Data Breach Leaking 2.5 Millions Users' Data<a href="https://thehackernews.com/2021/04/indian-brokerage-firm-upstox-suffers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online trading and discount brokerage platform Upstox has become the latest Indian company to suffer a security breach of its systems, resulting in the exposure of sensitive information of approximately 2.5 million users on the dark web.  The leaked information includes names, email addresses, dates of birth, bank account information, and about 56 million know your customer (KYC) documents pulled from the company's server.  The breach was first disclosed by independent researcher&nbsp; Rajshekhar Rajaharia &nbsp;on April 11. It's not immediately clear when the incident occurred.   Reacting to the development, the company, however,&nbsp; said &nbsp;it had recently upgraded its security systems following reports of "unauthorized access into our database" while stressing that users' funds and securities remained protected.   As a precaution, besides initiating a secure password reset of users' accounts, Upstox said it restricted access to the impacted database, implying it was a ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Compromised APKPure Android App Store to Deliver Malware<a href="https://cybersecuritynews.com/hackers-compromised-apkpure-android-app-store/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for this W-2 phishing scam targeting the 2021 tax season<a href="https://www.bleepingcomputer.com/news/security/watch-out-for-this-w-2-phishing-scam-targeting-the-2021-tax-season/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the United State tax season in high gear, threat actors have sprung into action with a recent tax document phishing scam that abuses TypeForm forms to steal your login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FormBook Variant Delivered in Phishing Campaign<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-new-formbook-variant-delivered-phishing-campaign-part-I?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs captured a phishing campaign that was sending a Microsoft PowerPoint document as an email attachment to spread the new variant of the infamous FormBook malware.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

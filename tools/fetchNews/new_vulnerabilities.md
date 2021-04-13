@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NAME:WRECK Vulnerabilities Impact Nearly 100 Million IoT Devices<a href="https://thehackernews.com/2021/04/new-namewreck-vulnerabilities-impact.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered nine vulnerabilities affecting four TCP/IP stacks impacting more than 100 million consumer and enterprise devices that could be exploited by an attacker to take control of a vulnerable system.  Dubbed " NAME:WRECK " by Forescout and JSOF, the flaws are the latest in series of studies undertaken as part of an initiative called Project Memoria to study the security of widely-used TCP/IP stacks that are incorporated by various vendors in their firmware to offer internet and network connectivity features.  "These vulnerabilities relate to Domain Name System (DNS) implementations, causing either Denial of Service (DoS) or Remote Code Execution (RCE), allowing attackers to take target devices offline or to take control over them," the researchers said.  The name comes from the fact that parsing of domain names can break (i.e., "wreck") DNS implementations in TCP/IP stacks, adding to a recent uptick in vulnerabilities such as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of devices impacted by NAME:WRECK flaws<a href="https://securityaffairs.co/wordpress/116734/reports/namewreck-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts disclosed nine flaws, collectively tracked as NAME:WRECK, affecting implementations of the DNS protocol in popular TCP/IP network communication stacks.
+
+
+
+Security researchers disclosed nine vulnerabilities, collectively tracked as NAME:WRECK,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert publicly released Chromium-based browsers exploit demonstrated at Pwn2Own 2021<a href="https://securityaffairs.co/wordpress/116727/hacking/chromium-based-browsers-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Indian security researcher has published a proof-of-concept (PoC) exploit code for a vulnerability impacting Google Chrome and other Chromium-based browsers.
+
+
+
+The Indian security researcher Rajvardhan Agarwal has publicly released a&nbsp;proof-of-concept...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Name:Wreck Bugs Could Impact 100M IoT Devices<a href="https://www.infosecurity-magazine.com:443/news/namewreck-bugs-could-impact-100m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploitation could deny service or enable remote code execution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DNS vulnerabilities have the potential to impact millions of devices<a href="https://www.helpnetsecurity.com/2021/04/13/dns-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities affect four popular TCP/IP stacks – namely FreeBSD, IPnet, Nucleus NET, and NetX – which are commonly present in well-known IT software and popular IoT/OT firmware and have the potential to impact millions of IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NAME:WRECK DNS vulnerabilities affect over 100 million devices<a href="https://www.bleepingcomputer.com/news/security/name-wreck-dns-vulnerabilities-affect-over-100-million-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers today disclosed nine vulnerabilities affecting implementations of the Domain Name System protocol in popular TCP/IP network communication stacks running on at least 100 million devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NAME:WRECK DNS bugs affect over 100 million devices<a href="https://www.bleepingcomputer.com/news/security/name-wreck-dns-bugs-affect-over-100-million-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers today disclosed nine vulnerabilities affecting implementations of the Domain Name System protocol in popular TCP/IP network communication stacks running on at least 100 million devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Name:Wreck’ is the latest collision between TCP/IP and the standards process<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/namewreck-is-the-latest-collision-between-tcp-ip-and-the-standards-process/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The set of nine vulnerabilities in four popular TCP/IP stacks, including FreeBSD, show once again how complexities in the TCP/IP standards can ultimately leads to vulnerable products.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

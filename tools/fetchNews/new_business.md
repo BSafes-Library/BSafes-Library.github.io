@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 500 Million LinkedIn Users Scraped and Being Sold Online<a href="https://cybersecuritynews.com/linkedin-users-data-scraped/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ LinkedIn is the most recent victim of a massive data breach and data of over 500 million of its users has been...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Talon Cyber Security raises $26M to further develop its technology and expand the development team<a href="https://www.helpnetsecurity.com/2021/04/13/talon-cyber-security-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talon Cyber Security announced that it has secured $26 million in seed funding from Lightspeed Venture Partners, Team8, serial entrepreneur Zohar Zisapel, and leading cyber angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity training startup Hack The Box raises $10.6M Series A led by Paladin Capital<a href="https://techcrunch.com/2021/04/12/cybersecurity-training-startup-hack-the-box-raises-10-6m-series-a-led-by-paladin-capital/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity training startup Hack The Box has raised a Series A investment round of $10.6 million, led by Paladin Capital Group and joined by Osage University Partners, Brighteye Ventures, and existing investors Marathon Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

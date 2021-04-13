@@ -11,6 +11,48 @@ nav_order: 900072
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden nominates former NSA deputy director to serve as cyber czar | Apple to send witness to Senate hearing after all | Biden pressed on semiconductor production amid shortage<a href="https://thehill.com//policy/technology/overnights/547800-hillicon-valley-biden-nominates-former-nsa-deputy-director-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenFederal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill Biden gives shout out to Champ, Major on National Pet Day MORE rolled out a list of nominees to fill key cybersecurity positions, which drew support from lawmakers on both sides of the aisle. Meanwhile, top senators on the antitrust subcommittee said Apple will send a witness to hearing later this month on app store competition after they pushed back on what they called the tech giant’s refusal to participate. And as more people in the U.S. get their COVID-19 vaccines, Uber said it recorded its highest monthly gross bookings in company history in March.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Sports Teams Boycott Social Media<a href="https://www.infosecurity-magazine.com:443/news/uk-sports-teams-boycott-social/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sporting stars step back from social media to raise awareness of online abuse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+61 percent of employees fail basic cybersecurity quiz<a href="https://www.scmagazine.com/home/security-news/61-percent-of-employees-fail-basic-cybersecurity-quiz/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 70% of employees polled in a new survey said they recently received cybersecurity training from their employers, yet 61% nevertheless failed when asked to take a basic quiz on the topic. This was one of the leading findings of a research study – conducted by TalentLMS on behalf of Kenna Security – that sought…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 What Does It Take To Be a Cybersecurity Researcher?<a href="https://thehackernews.com/2021/04/what-does-it-take-to-be-cybersecurity.html"> Full Text</a>
 </p>
 <details>

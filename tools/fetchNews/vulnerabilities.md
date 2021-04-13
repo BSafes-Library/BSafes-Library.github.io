@@ -11,6 +11,48 @@ nav_order: 900220
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome, Microsoft Edge zero-day vulnerability shared on Twitter<a href="https://www.bleepingcomputer.com/news/security/google-chrome-microsoft-edge-zero-day-vulnerability-shared-on-twitter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has dropped a zero-day remote code execution vulnerability on Twitter that works on the current version of Google Chrome and Microsoft Edge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CS:GO, Valve Source games vulnerable to hacking using Steam invites<a href="https://www.bleepingcomputer.com/news/security/cs-go-valve-source-games-vulnerable-to-hacking-using-steam-invites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of security researchers known as the Secret Club took it to Twitter to report a remote code execution bug in the Source 3D game engine developed by Valve and used for building games with tens of millions of unique players.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium Will Triple Payouts for RCE Exploits for WordPress CMS<a href="https://heimdalsecurity.com/blog/zerodium-will-triple-payouts-for-rce-exploits-for-wordpress/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit purchase platform is currently tempting exploit developers and vendors with a $300,000 payout, three times more than the normal cost. The announcement was made via Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK's NCSC Issues Critical Alert Against Fortinet VPN Vulnerability<a href="https://www.zdnet.com/article/critical-security-alert-if-you-havent-patched-this-two-year-old-vpn-vulnerability-assume-your-network-is-compromised/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
