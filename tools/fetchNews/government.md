@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden to nominate former NSA deputy director to serve as cyber czar<a href="https://thehill.com//policy/cybersecurity/547664-biden-to-nominate-former-nsa-deputy-director-to-serve-as-cyber-czar"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Monday will roll out a slate of key leaders to head his administration’s approach to cybersecurity, including nominating Chris Inglis, the former deputy director of the National Security Agency (NSA), as the national cyber director at the White House.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India seeks US help as China-backed hacks threaten military<a href="https://ciso.economictimes.indiatimes.com/news/india-seeks-us-help-as-china-backed-hacks-threaten-military/81984653?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India’s top military official says the country plans to seek help from the US and other countries to shore up its defense infrastructure that is vulnerable to China-backed cyber-attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

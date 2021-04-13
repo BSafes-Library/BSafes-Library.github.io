@@ -11,6 +11,38 @@ nav_order: 900027
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is open sourcing CyberBattleSim Enterprise Environment Simulator<a href="https://securityaffairs.co/wordpress/116702/security/cyberbattlesim-enterprise-environment-simulator.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released as open-source the 'CyberBattleSim Python-based toolkit which is an Enterprise Environment Simulator.
+
+
+
+Microsoft has recently announced the open-source availability of the Python-based enterprise environment simulator. named 'CyberBattleSim.'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British cyber security firm Darktrace targets $4 billion London listing<a href="https://www.reuters.com/article/us-darktrace-ipo/british-cyber-security-firm-darktrace-targets-4-billion-london-listing-idUSKBN2BZ0H0?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darktrace, the British cybersecurity firm fired the gun on its $4 billion London listing on Monday, aiming to raise new funds to accelerate product development and strengthen its balance sheet.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn confirmed that it was not a victim of a data breach<a href="https://securityaffairs.co/wordpress/116689/data-breach/linkedin-not-data-breach.html"> Full Text</a>
 </p>
 <details>

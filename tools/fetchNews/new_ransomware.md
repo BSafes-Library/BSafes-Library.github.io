@@ -8,6 +8,76 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Breaks Safe Mode Again with Auto-login Feature<a href="https://cyware.com/news/revil-breaks-safe-mode-again-with-auto-login-feature-ae7fdbe4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent research found that REvil ransomware has repurposed its attack technique that involves modifying the user’s system login password and force a system reboot to allow the malware to encrypt the files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware’s evolving tools and technical tactics confuse forensic analysis<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomwares-evolving-tools-and-technical-tactics-confuse-forensic-analysis/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries attempt to gain an upper hand by compromising the Active Directory, encrypting VM environments, and abusing Rclone.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch supermarkets run out of cheese after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/dutch-supermarkets-run-out-of-cheese-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack against&nbsp;conditioned warehousing and transportation provider Bakker Logistiek has caused a cheese shortage in Dutch supermarkets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Close Ties Surface Between Mount Locker and Astro Locker Team Ransomware Groups<a href="https://cyware.com/news/close-ties-surface-between-mount-locker-and-astro-locker-team-ransomware-groups-f60ed371"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are looking at an uncanny resemblance between ransomware groups Mount Locker and Astro Locker Team. Experts imply a possible tie-up to expedite Mount Locker's onboarding as a RaaS operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How ransomware gangs are connected, sharing resources and tactics<a href="https://blog.malwarebytes.com/ransomware/2021/04/how-ransomware-gangs-are-connected-and-sharing-resources-and-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a whitepaper entitled “Ransom Mafia – Analysis of the World’s First Ransomware Cartel”,  DiMaggio and his team aimed to provide an analytical assessment on whether there is indeed a ransomware cartel.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

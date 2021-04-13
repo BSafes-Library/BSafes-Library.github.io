@@ -11,6 +11,98 @@ nav_order: 900075
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Two former NSA Officials appointed by Joe Biden for prominent cyber roles<a href="https://securityaffairs.co/wordpress/116714/intelligence/joe-biden-nsa-officials-nominations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden has appointed two former senior NSA officials for two prominent cyber roles in his administration.
+
+
+
+President Joe Biden has&nbsp;assigned to two former senior National Security Agency (NSA) officials key cyber roles in his administration.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers, industry call on Biden to fund semiconductor production amid shortage<a href="https://thehill.com//policy/cybersecurity/547791-lawmakers-industry-call-on-biden-to-fund-semiconductor-production-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of more than 70 House and Senate lawmakers on Monday called on President Biden to support funds for semiconductor research and manufacturing as Biden hosted a meeting with technology leaders to discuss a critical shortage in chips.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Nominates More Ex-NSA Officials to Top Cybersecurity Roles<a href="https://www.infosecurity-magazine.com:443/news/inglis-easterly-biden-nominees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two former National Security Agency workers selected by Biden for senior cyber jobs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan lawmakers signal support for Biden cybersecurity picks<a href="https://thehill.com//policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key lawmakers on Monday expressed support for President Biden’s picks to lead federal efforts on securing the nation against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden scores praise for nominations of White House, DHS cyber leaders<a href="https://www.scmagazine.com/home/security-news/government-and-defense/biden-scores-praise-for-nominations-of-white-house-dhs-cyber-leaders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The announcement ends months of speculation over the key positions, during which time the government has had to face fallout from both the Solarwinds and Hafnium Exchange Server campaigns without leadership in place.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden makes nominations for top cyber posts<a href="https://www.reuters.com/article/us-usa-biden-cyber-nominations/biden-makes-nominations-for-top-cyber-posts-idUSKBN2BZ1NH?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden is nominating Chris Inglis to be the National Cyber Director and Jen Easterly to be director of the Cybersecurity and Infrastructure Security Agency, the White House said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden to nominate former NSA deputy director to serve as cyber czar<a href="https://thehill.com//policy/cybersecurity/547664-biden-to-nominate-former-nsa-deputy-director-to-serve-as-cyber-czar"> Full Text</a>
 </p>
 <details>

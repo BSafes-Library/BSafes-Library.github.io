@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golden Chickens and New Spear-Phishing Campaign<a href="https://cyware.com/news/golden-chickens-and-new-spear-phishing-campaign-4cf21356"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new spear-phishing campaign has been targeting LinkedIn users with fake job offers in an attempt to attain control over victims’ computers using a sophisticated backdoor trojan called more_eggs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

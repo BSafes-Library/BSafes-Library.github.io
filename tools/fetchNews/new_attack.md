@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran Nuclear Facility Suffers Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/iran-nuclear-facility-suffers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli public media claims Israel was behind a cyber-attack on Iran’s Natanz nuclear complex
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

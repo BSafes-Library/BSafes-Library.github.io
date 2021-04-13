@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome, Microsoft Edge zero-day vulnerability shared on Twitter<a href="https://www.bleepingcomputer.com/news/security/google-chrome-microsoft-edge-zero-day-vulnerability-shared-on-twitter/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Texas Man Charged With Intent of Planning to Kill 70% of the Internet<a href="https://cybersecuritynews.com/texas-man-charged/"> Full Text</a>
@@ -66,7 +66,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Breaks Safe Mode Again with Auto-login Feature<a href="https://cyware.com/news/revil-breaks-safe-mode-again-with-auto-login-feature-ae7fdbe4"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Biden nominates former NSA deputy director to serve as cyber czar | Apple to send witness to Senate hearing after all | Biden pressed on semiconductor production amid shortage<a href="https://thehill.com//policy/technology/overnights/547800-hillicon-valley-biden-nominates-former-nsa-deputy-director-to"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian Brokerage Firm Upstox Suffers Data Breach Leaking 2.5 Millions Users' Data<a href="https://thehackernews.com/2021/04/indian-brokerage-firm-upstox-suffers.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Sports Teams Boycott Social Media<a href="https://www.infosecurity-magazine.com:443/news/uk-sports-teams-boycott-social/"> Full Text</a>
@@ -130,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two former NSA Officials appointed by Joe Biden for prominent cyber roles<a href="https://securityaffairs.co/wordpress/116714/intelligence/joe-biden-nsa-officials-nominations.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 61 percent of employees fail basic cybersecurity quiz<a href="https://www.scmagazine.com/home/security-news/61-percent-of-employees-fail-basic-cybersecurity-quiz/"> Full Text</a>
@@ -170,7 +170,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CS:GO, Valve Source games vulnerable to hacking using Steam invites<a href="https://www.bleepingcomputer.com/news/security/cs-go-valve-source-games-vulnerable-to-hacking-using-steam-invites/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Golden Chickens and New Spear-Phishing Campaign<a href="https://cyware.com/news/golden-chickens-and-new-spear-phishing-campaign-4cf21356"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers, industry call on Biden to fund semiconductor production amid shortage<a href="https://thehill.com//policy/cybersecurity/547791-lawmakers-industry-call-on-biden-to-fund-semiconductor-production-amid"> Full Text</a>
@@ -218,7 +218,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Nominates More Ex-NSA Officials to Top Cybersecurity Roles<a href="https://www.infosecurity-magazine.com:443/news/inglis-easterly-biden-nominees/"> Full Text</a>
@@ -234,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft is open sourcing CyberBattleSim Enterprise Environment Simulator<a href="https://securityaffairs.co/wordpress/116702/security/cyberbattlesim-enterprise-environment-simulator.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware’s evolving tools and technical tactics confuse forensic analysis<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomwares-evolving-tools-and-technical-tactics-confuse-forensic-analysis/"> Full Text</a>
@@ -270,7 +270,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch supermarkets run out of cheese after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/dutch-supermarkets-run-out-of-cheese-after-ransomware-attack/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Close Ties Surface Between Mount Locker and Astro Locker Team Ransomware Groups<a href="https://cyware.com/news/close-ties-surface-between-mount-locker-and-astro-locker-team-ransomware-groups-f60ed371"> Full Text</a>
@@ -302,7 +302,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bipartisan lawmakers signal support for Biden cybersecurity picks<a href="https://thehill.com//policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks"> Full Text</a>
@@ -318,7 +318,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran Nuclear Facility Suffers Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/iran-nuclear-facility-suffers/"> Full Text</a>
@@ -334,7 +334,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden scores praise for nominations of White House, DHS cyber leaders<a href="https://www.scmagazine.com/home/security-news/government-and-defense/biden-scores-praise-for-nominations-of-white-house-dhs-cyber-leaders/"> Full Text</a>
@@ -350,7 +350,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Downloader Spotted in Targeted Campaigns<a href="https://www.darkreading.com/vulnerabilities---threats/new-malware-downloader-spotted-in-targeted-campaigns/d/d-id/1340640?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-criminals Increasingly Leveraging Debates About Travel During #COVID19 to Launch Attacks<a href="https://www.infosecurity-magazine.com:443/news/cyber-criminals-travel-covid-launch/"> Full Text</a>
@@ -382,7 +382,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How ransomware gangs are connected, sharing resources and tactics<a href="https://blog.malwarebytes.com/ransomware/2021/04/how-ransomware-gangs-are-connected-and-sharing-resources-and-tactics/?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British cyber security firm Darktrace targets $4 billion London listing<a href="https://www.reuters.com/article/us-darktrace-ipo/british-cyber-security-firm-darktrace-targets-4-billion-london-listing-idUSKBN2BZ0H0?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zerodium Will Triple Payouts for RCE Exploits for WordPress CMS<a href="https://heimdalsecurity.com/blog/zerodium-will-triple-payouts-for-rce-exploits-for-wordpress/?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden makes nominations for top cyber posts<a href="https://www.reuters.com/article/us-usa-biden-cyber-nominations/biden-makes-nominations-for-top-cyber-posts-idUSKBN2BZ1NH?&web_view=true"> Full Text</a>
@@ -446,7 +446,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2021
+April 12, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure VPN users can't login due to expired certificate<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-users-cant-login-due-to-expired-certificate/"> Full Text</a>

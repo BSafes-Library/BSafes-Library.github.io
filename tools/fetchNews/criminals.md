@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol: “Virtually All” Crime Now Has a Digital Element<a href="https://www.infosecurity-magazine.com:443/news/europol-crime-has-digital-element/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals are increasingly leveraging digital tech in areas such as communication and finances
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals spread malware using website contact forms with Google URLs<a href="https://www.zdnet.com/article/criminals-spread-malware-using-website-contact-forms-with-google-urls/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning businesses to beware of cybercriminals using company website contact forms to deliver the IcedID info-stealing banking trojan in email with Google URLs to employees.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

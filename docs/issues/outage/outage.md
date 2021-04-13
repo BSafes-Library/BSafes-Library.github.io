@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPN users can't login due to expired certificate<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-users-cant-login-due-to-expired-certificate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users worldwide cannot connect to Pulse Secure VPN devices after a code signing certificate used to digitally sign and verify software components has expired.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

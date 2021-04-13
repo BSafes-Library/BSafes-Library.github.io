@@ -11,6 +11,20 @@ nav_order: 900163
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Texas Man Charged With Intent of Planning to Kill 70% of the Internet<a href="https://cybersecuritynews.com/texas-man-charged/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ A Texas man is charged with intent to attack Data Centers on April 8 2021. This man has planned to blow up...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Man Arrested After Failed AWS Bomb Plot<a href="https://www.infosecurity-magazine.com:443/news/man-arrested-after-failed-aws-bomb/"> Full Text</a>
 </p>
 <details>
