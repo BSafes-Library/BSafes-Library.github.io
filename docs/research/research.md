@@ -224,6 +224,17 @@ Intimate life is under constant surveillance. Firms track people’s periods, ho
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Construction Cybersecurity and Critical Infrastructure Protection: Significance, Overlaps, and Proposed Action Plan [HTML](https://papers.bsafes.com/docs/infrastructure/construction-cybersecurity-and-critical-infrastructure-protection-significance-overlaps-and-proposed-action-plan/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The umbrella concept for the current efforts to digitize construction is known as Construction 4.0. One of its key concepts is cyber-physical systems. The construction industry is not only creating increasingly valuable digital assets (in addition to physical ones) but also the buildings and built infrastructures are increasingly monitored and controlled using digital technology. Both make construction a vulnerable target of cyber-attacks.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 9, 2020
