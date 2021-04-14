@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brokerage Firm Upstox Exposes 2.5 Million Customers Sensitive Information<a href="https://cybersecuritynews.com/brokerage-firm-upstox/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Upstox suffers a security breach, resulting in the exposure of 2.5 million users' sensitive information online from unsecured AWS S3 Bucket.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

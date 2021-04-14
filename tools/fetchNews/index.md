@@ -34,7 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI nuked web shells from hacked Exchange Servers without telling owners<a href="https://www.bleepingcomputer.com/news/security/fbi-nuked-web-shells-from-hacked-exchange-servers-without-telling-owners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court-approved FBI operation was conducted to remove web shells from compromised US-based Microsoft Exchange servers without first notifying the servers' owners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI launches operation to remove malware from computers in US<a href="https://thehill.com//policy/cybersecurity/548082-doj-authorizes-fbi-to-remove-malware-on-computers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court in Texas has authorized the FBI to fix malware in hundreds of hacked servers in the U.S. running certain versions of Microsoft Exchange Server software.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ used court order to thwart ‘hundreds’ of Exchange Server web shells<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/doj-used-court-orders-to-thwart-hundreds-of-exchange-server-web-shells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move is unprecedented, and implies an understanding that cyber risks should be addressed with the same urgency of other threats to national security and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capcom: Ransomware gang used old VPN device to breach the network<a href="https://www.bleepingcomputer.com/news/security/capcom-ransomware-gang-used-old-vpn-device-to-breach-the-network/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Capcom has released a new update about the ransomware attack it suffered last year, detailing how the hackers gained access to the network, compromised devices, and stole personal information belonging to thousands of individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker hacked one Microsoft Exchange server to gain access to others<a href="https://www.scmagazine.com/home/patch-management/attacker-hacked-one-microsoft-exchange-server-to-gain-access-to-others/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tactic is sophisticated, with firewalls unlikely to block traffic between Exchange servers and potentially giving such traffic a pass in terms of content inspection.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Microsoft (re)patch requested | International cyber threats growing | New York Times tech workers unionize<a href="https://thehill.com//policy/technology/overnights/548058-hillicon-valley-microsoft-repatch-requested-international-cyber"> Full Text</a>
@@ -50,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA gives federal agencies until Friday to patch Exchange servers<a href="https://www.bleepingcomputer.com/news/security/cisa-gives-federal-agencies-until-friday-to-patch-exchange-servers/"> Full Text</a>
@@ -66,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts see 'unprecedented' increase in hackers targeting electric grid<a href="https://thehill.com//policy/cybersecurity/548051-experts-see-unprecedented-increase-in-hackers-targeting-electric-grid"> Full Text</a>
@@ -82,7 +162,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes 2 critical Exchange Server flaws reported by the NSA<a href="https://securityaffairs.co/wordpress/116767/uncategorized/exchange-server-flaws-nsa.html"> Full Text</a>
@@ -102,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the NAME:WRECK Bugs Impact Consumers, Businesses<a href="https://threatpost.com/namewreck-bugs-businesses/165385/"> Full Text</a>
@@ -118,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal agencies urge groups to patch systems over new Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/548032-federal-government-urges-groups-to-patch-systems-after-discovery-of-new"> Full Text</a>
@@ -134,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-Related Threats, PowerShell Attacks Lead Malware Surge<a href="https://threatpost.com/mcafee-covid-rpowershell-malware-surge/165382/"> Full Text</a>
@@ -150,7 +230,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA discovers critical Exchange Server vulnerabilities, patch now<a href="https://www.bleepingcomputer.com/news/security/nsa-discovers-critical-exchange-server-vulnerabilities-patch-now/"> Full Text</a>
@@ -166,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-bullied Teen Takes Own Life<a href="https://www.infosecurity-magazine.com:443/news/cyberbullied-teen-takes-own-life/"> Full Text</a>
@@ -182,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Services Market to be Worth $192.7bn<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-services-market-to/"> Full Text</a>
@@ -198,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Attack Shutters Half of Tasmania’s Casinos<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-shutters-half/"> Full Text</a>
@@ -214,7 +294,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax Phish Swims Past Google Workspace Email Security<a href="https://threatpost.com/tax-phish-google-workspace-email-security/165376/"> Full Text</a>
@@ -230,7 +310,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux, macOS malware hidden in fake Browserify NPM package<a href="https://www.bleepingcomputer.com/news/security/new-linux-macos-malware-hidden-in-fake-browserify-npm-package/"> Full Text</a>
@@ -246,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel assessment warns of increasing national security threats from China, Russia<a href="https://thehill.com//policy/cybersecurity/547980-intel-assessment-warns-of-increasing-national-security-threats-from"> Full Text</a>
@@ -262,7 +342,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft closes new critical Exchange vulnerability, suggests patch ‘as soon as possible’<a href="https://www.scmagazine.com/home/patch-management/microsoft-closes-new-critical-exchange-vulnerability-suggests-patch-as-soon-as-possible/"> Full Text</a>
@@ -278,7 +358,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/116760/security/adobe-critical-flaws-photoshop.html"> Full Text</a>
@@ -302,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft April 2021 Patch Tuesday fixes 108 flaws, 5 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2021-patch-tuesday-fixes-108-flaws-5-zero-days/"> Full Text</a>
@@ -318,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Patches Slew of Critical Security Bugs in Bridge, Photoshop<a href="https://threatpost.com/adobe-patches-critical-security-holes-bridge-photoshop/165371/"> Full Text</a>
@@ -334,7 +414,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fitch Partners with SecurityScorecard to Help Investors Assess Businesses’ Cyber-Risk<a href="https://www.infosecurity-magazine.com:443/news/fitch-partners-securityscorecard/"> Full Text</a>
@@ -350,7 +430,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts released PoC exploit code for a critical RCE in QNAP NAS devices<a href="https://securityaffairs.co/wordpress/116750/hacking/qnap-rce-exploit.html"> Full Text</a>
@@ -370,7 +450,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joe Biden Appointed two Former Senior NSA Officials for Senior Cyber Security Roles<a href="https://cybersecuritynews.com/former-senior-nsa-officials/"> Full Text</a>
@@ -386,7 +466,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot malware is back replacing IcedID in malspam campaigns<a href="https://www.bleepingcomputer.com/news/security/qbot-malware-is-back-replacing-icedid-in-malspam-campaigns/"> Full Text</a>
@@ -402,7 +482,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe fixes critical vulnerabilities in Photoshop and Digital Editions<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-vulnerabilities-in-photoshop-and-digital-editions/"> Full Text</a>
@@ -418,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brave browser disables Google's FLoC tracking system<a href="https://www.zdnet.com/article/brave-browser-disables-googles-floc-tracking-system/?&web_view=true"> Full Text</a>
@@ -434,7 +514,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Victims are spotting cyber attacks much more quickly - but there's a catch<a href="https://www.zdnet.com/article/cybersecurity-organisations-are-getting-quicker-at-discovering-cyber-attacks-in-their-networks-but-theres-a-catch/?&web_view=true"> Full Text</a>

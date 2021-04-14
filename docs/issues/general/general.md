@@ -11,6 +11,76 @@ nav_order: 900072
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Microsoft (re)patch requested | International cyber threats growing | New York Times tech workers unionize<a href="https://thehill.com//policy/technology/overnights/548058-hillicon-valley-microsoft-repatch-requested-international-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today: Federal agencies urged organizations running a Microsoft email application to immediately patch their systems to prevent hackers from exploiting newly discovered vulnerabilities. Meanwhile, the Office of the Director of National Intelligence released the annual worldwide threats report which highlighted cyber incidents as a key national security threat, and tech workers at the New York Times launched a union.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts see 'unprecedented' increase in hackers targeting electric grid<a href="https://thehill.com//policy/cybersecurity/548051-experts-see-unprecedented-increase-in-hackers-targeting-electric-grid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leader of a key information sharing group said Tuesday that organizations involved in the electricity sector had seen an "unprecedented" increase in cyber threats during the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-bullied Teen Takes Own Life<a href="https://www.infosecurity-magazine.com:443/news/cyberbullied-teen-takes-own-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York teen kills himself after being bullied and blackmailed online
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel assessment warns of increasing national security threats from China, Russia<a href="https://thehill.com//policy/cybersecurity/547980-intel-assessment-warns-of-increasing-national-security-threats-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An annual worldwide threats assessment made public by the Office of the Director of National Intelligence (ODNI) on Tuesday warned of increasing cyber, technological, and military threats from China and Russia, particularly as the COVID-19 pandemic continues.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victims are spotting cyber attacks much more quickly - but there's a catch<a href="https://www.zdnet.com/article/cybersecurity-organisations-are-getting-quicker-at-discovering-cyber-attacks-in-their-networks-but-theres-a-catch/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The amount of time cybercriminals are spending inside compromised networks is dropping. But while that might sound like a positive development, one reason hackers are spending less time inside networks is because of the surge in ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Destructive Attacks Surged in 2020 for Financial Institutions<a href="https://www.infosecurity-magazine.com:443/news/destructive-attacks-2020-financial/"> Full Text</a>
 </p>
 <details>

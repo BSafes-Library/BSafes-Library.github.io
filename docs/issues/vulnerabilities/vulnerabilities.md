@@ -11,6 +11,148 @@ nav_order: 900220
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes 2 critical Exchange Server flaws reported by the NSA<a href="https://securityaffairs.co/wordpress/116767/uncategorized/exchange-server-flaws-nsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft patch Tuesday security updates address four high and critical vulnerabilities in Microsoft Exchange Server that were reported by the NSA.
+
+
+
+Microsoft patch Tuesday security updates released today have addressed four critical and high severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the NAME:WRECK Bugs Impact Consumers, Businesses<a href="https://threatpost.com/namewreck-bugs-businesses/165385/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How this class of vulnerabilities will impact millions connected devices and potentially wreck the day of IT security professionals. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA discovers critical Exchange Server vulnerabilities, patch now<a href="https://www.bleepingcomputer.com/news/security/nsa-discovers-critical-exchange-server-vulnerabilities-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today has released security updates for Exchange Server that address a set of four vulnerabilities with severity scores ranging from high to critical.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft closes new critical Exchange vulnerability, suggests patch ‘as soon as possible’<a href="https://www.scmagazine.com/home/patch-management/microsoft-closes-new-critical-exchange-vulnerability-suggests-patch-as-soon-as-possible/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alert about new exchange bugs come soon after on-premises Exchange customers were told to patch against a campaign actively exploiting a zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/116760/security/adobe-critical-flaws-photoshop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has addressed security vulnerabilities in Adobe Photoshop, Adobe Digital Editions, Adobe Bridge, and RoboHelp.
+
+
+
+Adobe has fixed ten security vulnerabilities in Adobe Photoshop, Adobe Digital Editions, Adobe Bridge, and RoboHelp.
+
+
+
+Seven vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft April 2021 Patch Tuesday fixes 108 flaws, 5 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2021-patch-tuesday-fixes-108-flaws-5-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's April 2021 Patch Tuesday, and with it comes five zero-day vulnerabilities and more Critical Microsoft Exchange vulnerabilities. It has been a tough couple of months for Windows and Microsoft Exchange admins, and it looks like April won't be any easier, so please be nice to your IT staff today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches Slew of Critical Security Bugs in Bridge, Photoshop<a href="https://threatpost.com/adobe-patches-critical-security-holes-bridge-photoshop/165371/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security bugs could open the door for arbitrary code-execution and full takeover of targeted machines.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit code for a critical RCE in QNAP NAS devices<a href="https://securityaffairs.co/wordpress/116750/hacking/qnap-rce-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit code for a remote code execution vulnerability affecting QNAP network-attached storage (NAS) devices that run the Surveillance Station video management system is available online.
+
+
+
+An exploit for a remote code execution vulnerability affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical vulnerabilities in Photoshop and Digital Editions<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-vulnerabilities-in-photoshop-and-digital-editions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released security updates that address security vulnerabilities in Adobe Photoshop, Adobe Digital Editions, Adobe Bridge, and RoboHelp.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New NAME:WRECK Vulnerabilities Impact Nearly 100 Million IoT Devices<a href="https://thehackernews.com/2021/04/new-namewreck-vulnerabilities-impact.html"> Full Text</a>
 </p>
 <details>

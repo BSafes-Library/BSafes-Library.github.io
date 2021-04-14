@@ -11,6 +11,20 @@ nav_order: 900140
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Attack Shutters Half of Tasmania’s Casinos<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-shutters-half/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Casino operator Federal Group forced to close venues after ransomware attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Expired certificate caused a Pulse Secure VPN global scale outage<a href="https://securityaffairs.co/wordpress/116719/security/pulse-secure-vpn-outage.html"> Full Text</a>
 </p>
 <details>

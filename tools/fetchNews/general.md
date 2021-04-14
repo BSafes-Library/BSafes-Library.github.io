@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Destructive Attacks Surged in 2020 for Financial Institutions<a href="https://www.infosecurity-magazine.com:443/news/destructive-attacks-2020-financial/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warns of sophisticated counter incident response efforts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Attack Trends for Winter 2020<a href="https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers analyzed network attack trends over Winter 2020 and discovered many interesting exploits in the wild. During the period of Nov. 2020 to Jan. 2021, the majority of the attacks we observed were classified as critical (75%).
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting the "Next" SolarWinds-Style Cyber Attack<a href="https://thehackernews.com/2021/04/detecting-next-solarwinds-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds attack , which succeeded by utilizing the sunburst malware , shocked the cyber-security industry. This attack achieved persistence and was able to evade internal systems long enough to gain access to the source code of the victim.  Because of the far-reaching SolarWinds deployments, the perpetrators were also able to infiltrate many other organizations, looking for intellectual property and other assets.  Among the co-victims: US government, government contractors, Information Technology companies, and NGOs. Terabytes of data of 18,000 customers was stolen after a trojan-ized version of the SolarWinds application was installed in the internal structures of the clients.  Looking at the technical capabilities of the malware, as you will see, this particular attack was quite impressive. A particular file, named&nbsp; SolarWinds.Orion.Core.BusinessLayer.dll &nbsp;is a SolarWinds digitally signed component of the Orion software framework.  The threat actors installed a backdoor that c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

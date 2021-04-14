@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker hacked one Microsoft Exchange server to gain access to others<a href="https://www.scmagazine.com/home/patch-management/attacker-hacked-one-microsoft-exchange-server-to-gain-access-to-others/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tactic is sophisticated, with firewalls unlikely to block traffic between Exchange servers and potentially giving such traffic a pass in terms of content inspection.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
