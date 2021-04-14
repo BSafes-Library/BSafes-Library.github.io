@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Reddit takes bug bounty program public<a href="https://www.scmagazine.com/home/security-news/reddit-takes-bug-bounty-program-public/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reddit announced Wednesday that it is taking its bug bounty program public. The popular social news site and community forum platform has run a private program with HackerOne for the past three years, but hopes that by going public, it can more quickly address vulnerabilities, improve its defenses and keep the platform secure. “We’ve seen…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Wray: FBI opens investigation into China every 10 hours<a href="https://thehill.com//policy/national-security/548177-wray-fbi-opens-investigation-into-china-every-10-hour"> Full Text</a>
 </p>
 <details>
