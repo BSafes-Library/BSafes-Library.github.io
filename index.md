@@ -34,6 +34,234 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Released CyberBattleSim – A Python-based Enterprise Environment Simulator<a href="https://cybersecuritynews.com/microsoft-released-cyberbattlesim/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has recently announced the open-source availability of the Python-based enterprise environment simulator named ‘CyberBattleSim’.  It is an experimental...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cracked copies of Microsoft Office and Adobe Photoshop steal your session cookies, browser history, crypto-coins<a href="https://www.theregister.com/2021/04/13/cracked_copies_of_microsoft_office/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cracked copies of Microsoft Office and Adobe Photoshop are stealing browser session cookies and Monero cryptocurrency wallets from tightwads who install the pirated software, Bitdefender has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Simplify, then Add Lightness – Consolidating the Technology to Better Defend Ourselves<a href="https://thehackernews.com/2021/04/simplify-then-add-lightness.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the biggest consequences of the rapidly evolving cybersecurity threat landscape is that defenses must constantly build bigger systems to defend themselves.   This leads to both more complex systems and often less communication between them. More importantly, it can lead companies to invest in disparate "best in class" components instead of finding the best fit for their needs.  The constant arms race means that companies often get bigger, more powerful tools that can't handle the nuanced threats they face. For instance, in a car race, it's not often the fastest, most powerful car that wins, but the one that is more balanced, lighter, and more able to turn and react when needed.  In a new live webinar, Cynet Chief Strategist Chris Roberts breaks down why the philosophy of "simpler is better" is just what cybersecurity needs ( register here ).  The webinar will focus on how quickly cybersecurity stacks are growing and how this is not always a good thing. Companies are too focused
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Four More Critical Exchange Server Bugs<a href="https://www.infosecurity-magazine.com:443/news/microsoft-patch-four-critical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSA reported the vulnerabilities as Patch Tuesday CVEs top 100
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sweden blames Russia for Swedish Sports Confederation hack<a href="https://securityaffairs.co/wordpress/116775/cyber-warfare-2/swedish-sports-confederation-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish Sports Confederation organization was compromised in 2017-18 by hackers working for Russian military intelligence, officials said.
+
+
+
+The Swedish Sports Confederation is the umbrella organisation of the Swedish sports movement, it was hacked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden Administration’s Cybersecurity Roadmap<a href="https://www.nextgov.com/ideas/2021/04/biden-administrations-cybersecurity-roadmap/173313/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pandemic has forced state and local governments to shift so much of their operations and provision of services online, but their technology has often struggled to keep up, and even worse it has exposed their cybersecurity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Removes Web Shells from Infected Exchange Servers<a href="https://www.infosecurity-magazine.com:443/news/fbi-removes-web-shells-infected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aggressive action designed to head-off persistent security threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password targets developers with Secrets Automation, acquisition of SecretHub<a href="https://www.theregister.com/2021/04/13/1password_secrethub_automation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password specialist 1Password has acquired SecretHub, a secrets management platform aimed at IT engineers, and made a new service called Secrets Automation, previously in beta, generally available.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Small Kansas Water Utility System Hacking Highlights Risks<a href="https://www.securityweek.com/small-kansas-water-utility-system-hacking-highlights-risks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Kansas utility worker has been charged with remotely tampering with a public water system’s cleaning procedures, highlighting the difficulty smaller utilities face in protecting against hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches Critical Code Execution Vulnerabilities in Photoshop, Bridge<a href="https://www.securityweek.com/adobe-patches-critical-code-execution-vulnerabilities-photoshop-bridge?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Tuesday announced patches for several vulnerabilities in four of its products, including critical code execution and buffer flow flaws affecting Photoshop and Bridge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds says dealing with hack fallout cost at least $18 million<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds/solarwinds-says-dealing-with-hack-fallout-cost-at-least-18-million-idUSKBN2C02X2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas-based SolarWinds Corp said the sprawling breach stemming from the compromise of its flagship software product has cost the company at least $18 million in the first three months of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Unpatched Flaw Affecting Chromium-Based Browsers<a href="https://www.securityweek.com/poc-exploit-released-unpatched-flaw-affecting-chromium-based-browsers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has made public a proof-of-concept (PoC) exploit for a recently discovered vulnerability affecting Chrome, Edge, and other Chromium-based web browsers. The researchers demonstrated the exploit against both Chrome and Microsoft Edge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Chrome Browser to Patch 2 New In-the-Wild 0-Day Exploits<a href="https://thehackernews.com/2021/04/2-new-chrome-0-days-under-attack-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday released a new version of Chrome web-browsing software for Windows, Mac, and Linux with patches for two newly discovered security vulnerabilities for both of which it says exploits exist in the wild, allowing attackers to engage in active exploitation.  One of the two flaws concerns an insufficient validation of untrusted input in its V8 JavaScript rendering engine (CVE-2021-21220), which was demonstrated by Dataflow Security's Bruno Keith and Niklas Baumstark at the  Pwn2Own 2021  hacking contest last week.   While Google moved to fix the flaw quickly, security researcher Rajvardhan Agarwal published a  working exploit  over the weekend by reverse-engineering the patch that the Chromium team pushed to the open-source component, a factor that may have played a crucial role in the release.  UPDATE:   Agarwal, in an email to The Hacker News, confirmed that there's one more vulnerability  affecting Chromium-based browsers that has been patched in the latest vers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Discovers New Vulnerabilities Affecting Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/nsa-discovers-new-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its April slate of patches, Microsoft rolled out fixes for a total of  114 security flaws , including an actively exploited zero-day and four remote code execution bugs in Exchange Server.  Of the  114 flaws , 19 are rated as Critical, 88 are rated Important, and one is rated Moderate in severity.  Chief among them is  CVE-2021-28310 , a privilege escalation vulnerability in Win32k that's said to be under active exploitation, allowing attackers to elevate privileges by running malicious code on a target system.   Cybersecurity firm Kaspersky, which discovered and reported the flaw to Microsoft in February, linked the zero-day exploit to a threat actor named Bitter APT, which was found exploiting a similar flaw ( CVE-2021-1732 ) in attacks late last year.   "It is an escalation of privilege (EoP) exploit that is likely used together with other browser exploits to escape sandboxes or get system privileges for further access," Kaspersky researcher Boris Larin  said .  NS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

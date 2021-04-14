@@ -34,7 +34,235 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Released CyberBattleSim – A Python-based Enterprise Environment Simulator<a href="https://cybersecuritynews.com/microsoft-released-cyberbattlesim/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has recently announced the open-source availability of the Python-based enterprise environment simulator named ‘CyberBattleSim’.  It is an experimental...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cracked copies of Microsoft Office and Adobe Photoshop steal your session cookies, browser history, crypto-coins<a href="https://www.theregister.com/2021/04/13/cracked_copies_of_microsoft_office/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cracked copies of Microsoft Office and Adobe Photoshop are stealing browser session cookies and Monero cryptocurrency wallets from tightwads who install the pirated software, Bitdefender has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Simplify, then Add Lightness – Consolidating the Technology to Better Defend Ourselves<a href="https://thehackernews.com/2021/04/simplify-then-add-lightness.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the biggest consequences of the rapidly evolving cybersecurity threat landscape is that defenses must constantly build bigger systems to defend themselves.   This leads to both more complex systems and often less communication between them. More importantly, it can lead companies to invest in disparate "best in class" components instead of finding the best fit for their needs.  The constant arms race means that companies often get bigger, more powerful tools that can't handle the nuanced threats they face. For instance, in a car race, it's not often the fastest, most powerful car that wins, but the one that is more balanced, lighter, and more able to turn and react when needed.  In a new live webinar, Cynet Chief Strategist Chris Roberts breaks down why the philosophy of "simpler is better" is just what cybersecurity needs ( register here ).  The webinar will focus on how quickly cybersecurity stacks are growing and how this is not always a good thing. Companies are too focused
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Four More Critical Exchange Server Bugs<a href="https://www.infosecurity-magazine.com:443/news/microsoft-patch-four-critical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSA reported the vulnerabilities as Patch Tuesday CVEs top 100
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sweden blames Russia for Swedish Sports Confederation hack<a href="https://securityaffairs.co/wordpress/116775/cyber-warfare-2/swedish-sports-confederation-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish Sports Confederation organization was compromised in 2017-18 by hackers working for Russian military intelligence, officials said.
+
+
+
+The Swedish Sports Confederation is the umbrella organisation of the Swedish sports movement, it was hacked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden Administration’s Cybersecurity Roadmap<a href="https://www.nextgov.com/ideas/2021/04/biden-administrations-cybersecurity-roadmap/173313/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pandemic has forced state and local governments to shift so much of their operations and provision of services online, but their technology has often struggled to keep up, and even worse it has exposed their cybersecurity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Removes Web Shells from Infected Exchange Servers<a href="https://www.infosecurity-magazine.com:443/news/fbi-removes-web-shells-infected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aggressive action designed to head-off persistent security threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password targets developers with Secrets Automation, acquisition of SecretHub<a href="https://www.theregister.com/2021/04/13/1password_secrethub_automation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password specialist 1Password has acquired SecretHub, a secrets management platform aimed at IT engineers, and made a new service called Secrets Automation, previously in beta, generally available.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Small Kansas Water Utility System Hacking Highlights Risks<a href="https://www.securityweek.com/small-kansas-water-utility-system-hacking-highlights-risks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Kansas utility worker has been charged with remotely tampering with a public water system’s cleaning procedures, highlighting the difficulty smaller utilities face in protecting against hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches Critical Code Execution Vulnerabilities in Photoshop, Bridge<a href="https://www.securityweek.com/adobe-patches-critical-code-execution-vulnerabilities-photoshop-bridge?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Tuesday announced patches for several vulnerabilities in four of its products, including critical code execution and buffer flow flaws affecting Photoshop and Bridge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds says dealing with hack fallout cost at least $18 million<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds/solarwinds-says-dealing-with-hack-fallout-cost-at-least-18-million-idUSKBN2C02X2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas-based SolarWinds Corp said the sprawling breach stemming from the compromise of its flagship software product has cost the company at least $18 million in the first three months of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Unpatched Flaw Affecting Chromium-Based Browsers<a href="https://www.securityweek.com/poc-exploit-released-unpatched-flaw-affecting-chromium-based-browsers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has made public a proof-of-concept (PoC) exploit for a recently discovered vulnerability affecting Chrome, Edge, and other Chromium-based web browsers. The researchers demonstrated the exploit against both Chrome and Microsoft Edge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Chrome Browser to Patch 2 New In-the-Wild 0-Day Exploits<a href="https://thehackernews.com/2021/04/2-new-chrome-0-days-under-attack-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday released a new version of Chrome web-browsing software for Windows, Mac, and Linux with patches for two newly discovered security vulnerabilities for both of which it says exploits exist in the wild, allowing attackers to engage in active exploitation.  One of the two flaws concerns an insufficient validation of untrusted input in its V8 JavaScript rendering engine (CVE-2021-21220), which was demonstrated by Dataflow Security's Bruno Keith and Niklas Baumstark at the  Pwn2Own 2021  hacking contest last week.   While Google moved to fix the flaw quickly, security researcher Rajvardhan Agarwal published a  working exploit  over the weekend by reverse-engineering the patch that the Chromium team pushed to the open-source component, a factor that may have played a crucial role in the release.  UPDATE:   Agarwal, in an email to The Hacker News, confirmed that there's one more vulnerability  affecting Chromium-based browsers that has been patched in the latest vers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Discovers New Vulnerabilities Affecting Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/nsa-discovers-new-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its April slate of patches, Microsoft rolled out fixes for a total of  114 security flaws , including an actively exploited zero-day and four remote code execution bugs in Exchange Server.  Of the  114 flaws , 19 are rated as Critical, 88 are rated Important, and one is rated Moderate in severity.  Chief among them is  CVE-2021-28310 , a privilege escalation vulnerability in Win32k that's said to be under active exploitation, allowing attackers to elevate privileges by running malicious code on a target system.   Cybersecurity firm Kaspersky, which discovered and reported the flaw to Microsoft in February, linked the zero-day exploit to a threat actor named Bitter APT, which was found exploiting a similar flaw ( CVE-2021-1732 ) in attacks late last year.   "It is an escalation of privilege (EoP) exploit that is likely used together with other browser exploits to escape sandboxes or get system privileges for further access," Kaspersky researcher Boris Larin  said .  NS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI nuked web shells from hacked Exchange Servers without telling owners<a href="https://www.bleepingcomputer.com/news/security/fbi-nuked-web-shells-from-hacked-exchange-servers-without-telling-owners/"> Full Text</a>
@@ -50,7 +278,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI launches operation to remove malware from computers in US<a href="https://thehill.com//policy/cybersecurity/548082-doj-authorizes-fbi-to-remove-malware-on-computers"> Full Text</a>
@@ -66,7 +294,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ used court order to thwart ‘hundreds’ of Exchange Server web shells<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/doj-used-court-orders-to-thwart-hundreds-of-exchange-server-web-shells/"> Full Text</a>
@@ -82,7 +310,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Capcom: Ransomware gang used old VPN device to breach the network<a href="https://www.bleepingcomputer.com/news/security/capcom-ransomware-gang-used-old-vpn-device-to-breach-the-network/"> Full Text</a>
@@ -98,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacker hacked one Microsoft Exchange server to gain access to others<a href="https://www.scmagazine.com/home/patch-management/attacker-hacked-one-microsoft-exchange-server-to-gain-access-to-others/"> Full Text</a>
@@ -114,7 +342,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Microsoft (re)patch requested | International cyber threats growing | New York Times tech workers unionize<a href="https://thehill.com//policy/technology/overnights/548058-hillicon-valley-microsoft-repatch-requested-international-cyber"> Full Text</a>
@@ -130,7 +358,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA gives federal agencies until Friday to patch Exchange servers<a href="https://www.bleepingcomputer.com/news/security/cisa-gives-federal-agencies-until-friday-to-patch-exchange-servers/"> Full Text</a>
@@ -146,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts see 'unprecedented' increase in hackers targeting electric grid<a href="https://thehill.com//policy/cybersecurity/548051-experts-see-unprecedented-increase-in-hackers-targeting-electric-grid"> Full Text</a>
@@ -162,7 +390,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes 2 critical Exchange Server flaws reported by the NSA<a href="https://securityaffairs.co/wordpress/116767/uncategorized/exchange-server-flaws-nsa.html"> Full Text</a>
@@ -182,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the NAME:WRECK Bugs Impact Consumers, Businesses<a href="https://threatpost.com/namewreck-bugs-businesses/165385/"> Full Text</a>
@@ -198,7 +426,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal agencies urge groups to patch systems over new Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/548032-federal-government-urges-groups-to-patch-systems-after-discovery-of-new"> Full Text</a>
@@ -214,7 +442,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-Related Threats, PowerShell Attacks Lead Malware Surge<a href="https://threatpost.com/mcafee-covid-rpowershell-malware-surge/165382/"> Full Text</a>
@@ -230,7 +458,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA discovers critical Exchange Server vulnerabilities, patch now<a href="https://www.bleepingcomputer.com/news/security/nsa-discovers-critical-exchange-server-vulnerabilities-patch-now/"> Full Text</a>
@@ -246,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-bullied Teen Takes Own Life<a href="https://www.infosecurity-magazine.com:443/news/cyberbullied-teen-takes-own-life/"> Full Text</a>
@@ -262,7 +490,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Services Market to be Worth $192.7bn<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-services-market-to/"> Full Text</a>
@@ -278,7 +506,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Attack Shutters Half of Tasmania’s Casinos<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-shutters-half/"> Full Text</a>
@@ -294,7 +522,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax Phish Swims Past Google Workspace Email Security<a href="https://threatpost.com/tax-phish-google-workspace-email-security/165376/"> Full Text</a>
@@ -310,7 +538,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux, macOS malware hidden in fake Browserify NPM package<a href="https://www.bleepingcomputer.com/news/security/new-linux-macos-malware-hidden-in-fake-browserify-npm-package/"> Full Text</a>
@@ -326,7 +554,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel assessment warns of increasing national security threats from China, Russia<a href="https://thehill.com//policy/cybersecurity/547980-intel-assessment-warns-of-increasing-national-security-threats-from"> Full Text</a>
@@ -342,7 +570,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft closes new critical Exchange vulnerability, suggests patch ‘as soon as possible’<a href="https://www.scmagazine.com/home/patch-management/microsoft-closes-new-critical-exchange-vulnerability-suggests-patch-as-soon-as-possible/"> Full Text</a>
@@ -358,7 +586,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/116760/security/adobe-critical-flaws-photoshop.html"> Full Text</a>
@@ -382,7 +610,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft April 2021 Patch Tuesday fixes 108 flaws, 5 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2021-patch-tuesday-fixes-108-flaws-5-zero-days/"> Full Text</a>
@@ -398,7 +626,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Patches Slew of Critical Security Bugs in Bridge, Photoshop<a href="https://threatpost.com/adobe-patches-critical-security-holes-bridge-photoshop/165371/"> Full Text</a>
@@ -414,7 +642,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fitch Partners with SecurityScorecard to Help Investors Assess Businesses’ Cyber-Risk<a href="https://www.infosecurity-magazine.com:443/news/fitch-partners-securityscorecard/"> Full Text</a>
@@ -430,7 +658,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts released PoC exploit code for a critical RCE in QNAP NAS devices<a href="https://securityaffairs.co/wordpress/116750/hacking/qnap-rce-exploit.html"> Full Text</a>
@@ -450,7 +678,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joe Biden Appointed two Former Senior NSA Officials for Senior Cyber Security Roles<a href="https://cybersecuritynews.com/former-senior-nsa-officials/"> Full Text</a>
@@ -466,7 +694,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot malware is back replacing IcedID in malspam campaigns<a href="https://www.bleepingcomputer.com/news/security/qbot-malware-is-back-replacing-icedid-in-malspam-campaigns/"> Full Text</a>
@@ -482,7 +710,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe fixes critical vulnerabilities in Photoshop and Digital Editions<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-vulnerabilities-in-photoshop-and-digital-editions/"> Full Text</a>
@@ -498,7 +726,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brave browser disables Google's FLoC tracking system<a href="https://www.zdnet.com/article/brave-browser-disables-googles-floc-tracking-system/?&web_view=true"> Full Text</a>
@@ -514,7 +742,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Victims are spotting cyber attacks much more quickly - but there's a catch<a href="https://www.zdnet.com/article/cybersecurity-organisations-are-getting-quicker-at-discovering-cyber-attacks-in-their-networks-but-theres-a-catch/?&web_view=true"> Full Text</a>
