@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical Exchange Server Vulnerabilities let Attackers Execute Remote Code<a href="https://cybersecuritynews.com/exchange-server-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has released security updates for vulnerabilities found in the below versions of Exchange servers on the 13th April 2021 which is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ‘Digital exhaust’ may be the solution for tracking consumer IoT devices on networks<a href="https://www.scmagazine.com/home/security-news/digital-exhaust-may-be-the-solution-for-tracking-consumer-iot-devices-on-networks/"> Full Text</a>
 </p>
 <details>
