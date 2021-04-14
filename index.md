@@ -37,6 +37,238 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+100 Million+ Devices Affected With Critical WRECK DNS Implementation Flaws<a href="https://cybersecuritynews.com/100-million-devices-affected-with-critical-wreck-dns-implementation-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ JSOF team together with Forescout Research Labs, have revealed a set of nine vulnerabilities related to Domain Name System (DNS) implementations, causing...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bolstering Our Nation's Defenses Against Cybersecurity Attacks<a href="https://www.darkreading.com/risk/bolstering-our-nations-defenses-against-cybersecurity-attacks/a/d-id/1340587?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shawn Henry, former Executive Assistant Director of the FBI and current CrowdStrike president of services and CSO, shares the top three cybersecurity priorities that the Biden administration needs to address.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WhatsApp Bugs Could've Let Attackers Hack Your Phone Remotely<a href="https://thehackernews.com/2021/04/new-whatsapp-bug-couldve-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook-owned WhatsApp recently addressed two security vulnerabilities in its messaging app for Android that could have been exploited to execute malicious code remotely on the device and even compromise encrypted communications.  The flaws take aim at devices running Android versions up to and including Android 9 by carrying out what's known as a "man-in-the-disk" attack that makes it possible for adversaries to compromise an app by manipulating certain data being exchanged between it and the external storage.  "The two aforementioned WhatsApp vulnerabilities would have made it possible for attackers to remotely collect TLS cryptographic material for TLS 1.3 and TLS 1.2 sessions," researchers from Census Labs  said  today.   "With the TLS secrets at hand, we will demonstrate how a man-in-the-middle (MitM) attack can lead to the compromise of WhatsApp communications, to remote code execution on the victim device and to the extraction of Noise protocol key
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thycotic and Centrify Complete Merger to Expand PAM Offerings<a href="https://www.infosecurity-magazine.com:443/news/thycotic-centrify-merger-pam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly merged company will operate under the temporary name of ThycoticCentrify
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FireEye: 650 new threat groups were tracked in 2020<a href="https://securityaffairs.co/wordpress/116813/cyber-crime/fireeye-report-650-new-threat-groups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye published its M-Trend 2021 report based on the data collected during the investigation, 650 new threat groups were tracked in 2020
+
+
+
+FireEye published its annual report, titled M-Trend 2021, which is based on the data collected during the investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On first-ever Identity Management Day, experts detail steps to a better IAM program<a href="https://www.scmagazine.com/home/security-news/network-security/on-first-ever-identity-management-day-experts-detail-steps-to-a-better-iam-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Establishing a governance structure and communicating with stakeholders are key strategies, said experts.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp flaw lets anyone lock you out of your account<a href="https://www.welivesecurity.com/2021/04/13/whatsapp-flaw-lets-anyone-lock-you-out-account/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underlying loophole abuses a lapse in security of two independent WhatsApp processes, according to Forbes, which quoted research by Luis Márquez Carpintero and Ernesto Canales Pereña.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks<a href="https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academics from Vrije University in Amsterdam and ETH Zurich have published a new research paper describing yet another variation of the Rowhammer attack.  Dubbed  SMASH  (Synchronized MAny-Sided Hammering), the technique can be used to successfully trigger the attack from JavaScript on modern DDR4 RAM cards, notwithstanding extensive mitigations that have been put in place by manufacturers over the last seven years.  "Despite their in-DRAM Target Row Refresh (TRR) mitigations, some of the most recent DDR4 modules are still vulnerable to many-sided Rowhammer bit flips," the researchers said.   "SMASH exploits high-level knowledge of cache replacement policies to generate optimal access patterns for eviction-based many-sided Rowhammer. To bypass the in-DRAM TRR mitigations, SMASH carefully schedules cache hits and misses to successfully trigger synchronized many-sided Rowhammer bit flips."   By synchronizing memory requests with DRAM refresh commands, the researchers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad Bots Could Disrupt #COVID19 Vaccine Rollout<a href="https://www.infosecurity-magazine.com:443/news/bad-bots-could-disrupt-covid19/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scalper bots have already been cashing-in on the pandemic
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI silently removed web shells planted on Microsoft Exchange servers in the US<a href="https://securityaffairs.co/wordpress/116793/malware/fbi-sanitized-us-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI log into web shells that hackers installed on Microsoft Exchange email servers across the US and removed the malicious code used by threat actors.
+
+
+
+A US judge granted the FBI the power to log into web shells that were injected by nation-state hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Malware Is Making a Comeback by Replacing IcedID in Malspam Campaigns<a href="https://heimdalsecurity.com/blog/qbot-malware-replaces-icedid/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first months of the year, researchers noticed a malicious email campaign spreading weaponized Office documents that was delivering QBot trojan, and changing the payload after a short while.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerability Affecting Container Engines CRI-O and Podman (CVE-2021-20291)<a href="https://unit42.paloaltonetworks.com/cve-2021-20291/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks researchers have found CVE-2021-20291 in containers/storage that leads to a Denial of Service (DoS) of the container engines CRI-O and Podman when pulling a malicious image from a registry.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Risk startup LogicGate confirms data breach<a href="https://techcrunch.com/2021/04/13/logicgate-risk-cloud-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An email sent by LogicGate to customers earlier this month said on February 23 an unauthorized third party obtained credentials to its AWS-hosted cloud storage servers storing customer backup files for its flagship platform Risk Cloud.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI blasts away web shells on US servers in wake of Exchange vulnerabilities<a href="https://www.zdnet.com/article/fbi-blasts-away-web-shells-on-us-servers-in-wake-of-exchange-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice revealed on Tuesday that the FBI gained authorization to remove web shells installed on compromised servers related to the Exchange vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Released CyberBattleSim – A Python-based Enterprise Environment Simulator<a href="https://cybersecuritynews.com/microsoft-released-cyberbattlesim/"> Full Text</a>
 </p>
 <details>
