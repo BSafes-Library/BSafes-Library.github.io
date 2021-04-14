@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SAP fixes critical bugs in Business Client, Commerce, and NetWeaver<a href="https://www.bleepingcomputer.com/news/security/sap-fixes-critical-bugs-in-business-client-commerce-and-netweaver/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP's security updates for this month address multiple critical vulnerabilities. The most serious of them, rated with the highest severity score, affects the company's Business Client product.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aviation Industry Lacks Cohesive Cybersecurity Approach<a href="https://www.infosecurity-magazine.com:443/news/aviation-industry-wef-study/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+World Economic Forum study calls for unified cybersecurity strategy in aviation sector
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Second Google Chrome zero-day exploit dropped on twitter this week<a href="https://www.bleepingcomputer.com/news/security/second-google-chrome-zero-day-exploit-dropped-on-twitter-this-week/"> Full Text</a>
 </p>
 <details>
