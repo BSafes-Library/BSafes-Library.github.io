@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Intelligence leaders warn of threats from China, domestic terrorism<a href="https://thehill.com//policy/national-security/548230-intelligence-leaders-warn-of-threats-from-china-domestic-terrorism"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence leaders warned Wednesday of growing threats from China and domestic terrorism fueled by misinformation on social media at a hearing on worldwide threats to the nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Exchange Server Vulnerabilities let Attackers Execute Remote Code<a href="https://cybersecuritynews.com/exchange-server-vulnerabilities/"> Full Text</a>
 </p>
 <details>
