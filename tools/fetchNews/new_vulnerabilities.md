@@ -8,6 +8,146 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100 Million+ Devices Affected With Critical WRECK DNS Implementation Flaws<a href="https://cybersecuritynews.com/100-million-devices-affected-with-critical-wreck-dns-implementation-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ JSOF team together with Forescout Research Labs, have revealed a set of nine vulnerabilities related to Domain Name System (DNS) implementations, causing...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WhatsApp Bugs Could've Let Attackers Hack Your Phone Remotely<a href="https://thehackernews.com/2021/04/new-whatsapp-bug-couldve-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook-owned WhatsApp recently addressed two security vulnerabilities in its messaging app for Android that could have been exploited to execute malicious code remotely on the device and even compromise encrypted communications.  The flaws take aim at devices running Android versions up to and including Android 9 by carrying out what's known as a "man-in-the-disk" attack that makes it possible for adversaries to compromise an app by manipulating certain data being exchanged between it and the external storage.  "The two aforementioned WhatsApp vulnerabilities would have made it possible for attackers to remotely collect TLS cryptographic material for TLS 1.3 and TLS 1.2 sessions," researchers from Census Labs&nbsp; said &nbsp;today.&nbsp;  "With the TLS secrets at hand, we will demonstrate how a man-in-the-middle (MitM) attack can lead to the compromise of WhatsApp communications, to remote code execution on the victim device and to the extraction of Noise protocol key
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp flaw lets anyone lock you out of your account<a href="https://www.welivesecurity.com/2021/04/13/whatsapp-flaw-lets-anyone-lock-you-out-account/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underlying loophole abuses a lapse in security of two independent WhatsApp processes, according to Forbes, which quoted research by Luis Márquez Carpintero and Ernesto Canales Pereña.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks<a href="https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academics from Vrije University in Amsterdam and ETH Zurich have published a new research paper describing yet another variation of the Rowhammer attack.  Dubbed&nbsp; SMASH &nbsp;(Synchronized MAny-Sided Hammering), the technique can be used to successfully trigger the attack from JavaScript on modern DDR4 RAM cards, notwithstanding extensive mitigations that have been put in place by manufacturers over the last seven years.  "Despite their in-DRAM Target Row Refresh (TRR) mitigations, some of the most recent DDR4 modules are still vulnerable to many-sided Rowhammer bit flips," the researchers said.&nbsp;  "SMASH exploits high-level knowledge of cache replacement policies to generate optimal access patterns for eviction-based many-sided Rowhammer. To bypass the in-DRAM TRR mitigations, SMASH carefully schedules cache hits and misses to successfully trigger synchronized many-sided Rowhammer bit flips."   By synchronizing memory requests with DRAM refresh commands, the researchers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerability Affecting Container Engines CRI-O and Podman (CVE-2021-20291)<a href="https://unit42.paloaltonetworks.com/cve-2021-20291/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks researchers have found CVE-2021-20291 in containers/storage that leads to a Denial of Service (DoS) of the container engines CRI-O and Podman when pulling a malicious image from a registry.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Four More Critical Exchange Server Bugs<a href="https://www.infosecurity-magazine.com:443/news/microsoft-patch-four-critical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSA reported the vulnerabilities as Patch Tuesday CVEs top 100
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches Critical Code Execution Vulnerabilities in Photoshop, Bridge<a href="https://www.securityweek.com/adobe-patches-critical-code-execution-vulnerabilities-photoshop-bridge?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Tuesday announced patches for several vulnerabilities in four of its products, including critical code execution and buffer flow flaws affecting Photoshop and Bridge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Unpatched Flaw Affecting Chromium-Based Browsers<a href="https://www.securityweek.com/poc-exploit-released-unpatched-flaw-affecting-chromium-based-browsers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has made public a proof-of-concept (PoC) exploit for a recently discovered vulnerability affecting Chrome, Edge, and other Chromium-based web browsers. The researchers demonstrated the exploit against both Chrome and Microsoft Edge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Chrome Browser to Patch 2 New In-the-Wild 0-Day Exploits<a href="https://thehackernews.com/2021/04/2-new-chrome-0-days-under-attack-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday released a new version of Chrome web-browsing software for Windows, Mac, and Linux with patches for two newly discovered security vulnerabilities for both of which it says exploits exist in the wild, allowing attackers to engage in active exploitation.  One of the two flaws concerns an insufficient validation of untrusted input in its V8 JavaScript rendering engine (CVE-2021-21220), which was demonstrated by Dataflow Security's Bruno Keith and Niklas Baumstark at the&nbsp; Pwn2Own 2021 &nbsp;hacking contest last week.   While Google moved to fix the flaw quickly, security researcher Rajvardhan Agarwal published a&nbsp; working exploit &nbsp;over the weekend by reverse-engineering the patch that the Chromium team pushed to the open-source component, a factor that may have played a crucial role in the release.  UPDATE: &nbsp; Agarwal, in an email to The Hacker News, confirmed that there's one more vulnerability  affecting Chromium-based browsers that has been patched in the latest vers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Discovers New Vulnerabilities Affecting Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/nsa-discovers-new-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its April slate of patches, Microsoft rolled out fixes for a total of&nbsp; 114 security flaws , including an actively exploited zero-day and four remote code execution bugs in Exchange Server.  Of the&nbsp; 114 flaws , 19 are rated as Critical, 88 are rated Important, and one is rated Moderate in severity.  Chief among them is&nbsp; CVE-2021-28310 , a privilege escalation vulnerability in Win32k that's said to be under active exploitation, allowing attackers to elevate privileges by running malicious code on a target system.&nbsp;  Cybersecurity firm Kaspersky, which discovered and reported the flaw to Microsoft in February, linked the zero-day exploit to a threat actor named Bitter APT, which was found exploiting a similar flaw ( CVE-2021-1732 ) in attacks late last year.   "It is an escalation of privilege (EoP) exploit that is likely used together with other browser exploits to escape sandboxes or get system privileges for further access," Kaspersky researcher Boris Larin&nbsp; said .  NS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

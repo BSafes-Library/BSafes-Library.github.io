@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thycotic and Centrify Complete Merger to Expand PAM Offerings<a href="https://www.infosecurity-magazine.com:443/news/thycotic-centrify-merger-pam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly merged company will operate under the temporary name of ThycoticCentrify
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password targets developers with Secrets Automation, acquisition of SecretHub<a href="https://www.theregister.com/2021/04/13/1password_secrethub_automation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password specialist 1Password has acquired SecretHub, a secrets management platform aimed at IT engineers, and made a new service called Secrets Automation, previously in beta, generally available.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds says dealing with hack fallout cost at least $18 million<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds/solarwinds-says-dealing-with-hack-fallout-cost-at-least-18-million-idUSKBN2C02X2?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas-based SolarWinds Corp said the sprawling breach stemming from the compromise of its flagship software product has cost the company at least $18 million in the first three months of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

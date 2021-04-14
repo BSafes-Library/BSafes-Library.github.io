@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On first-ever Identity Management Day, experts detail steps to a better IAM program<a href="https://www.scmagazine.com/home/security-news/network-security/on-first-ever-identity-management-day-experts-detail-steps-to-a-better-iam-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Establishing a governance structure and communicating with stakeholders are key strategies, said experts.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Simplify, then Add Lightness – Consolidating the Technology to Better Defend Ourselves<a href="https://thehackernews.com/2021/04/simplify-then-add-lightness.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the biggest consequences of the rapidly evolving cybersecurity threat landscape is that defenses must constantly build bigger systems to defend themselves.&nbsp;  This leads to both more complex systems and often less communication between them. More importantly, it can lead companies to invest in disparate "best in class" components instead of finding the best fit for their needs.  The constant arms race means that companies often get bigger, more powerful tools that can't handle the nuanced threats they face. For instance, in a car race, it's not often the fastest, most powerful car that wins, but the one that is more balanced, lighter, and more able to turn and react when needed.  In a new live webinar, Cynet Chief Strategist Chris Roberts breaks down why the philosophy of "simpler is better" is just what cybersecurity needs ( register here ).  The webinar will focus on how quickly cybersecurity stacks are growing and how this is not always a good thing. Companies are too focused
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Small Kansas Water Utility System Hacking Highlights Risks<a href="https://www.securityweek.com/small-kansas-water-utility-system-hacking-highlights-risks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Kansas utility worker has been charged with remotely tampering with a public water system’s cleaning procedures, highlighting the difficulty smaller utilities face in protecting against hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

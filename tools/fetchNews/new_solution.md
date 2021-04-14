@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Released CyberBattleSim – A Python-based Enterprise Environment Simulator<a href="https://cybersecuritynews.com/microsoft-released-cyberbattlesim/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has recently announced the open-source availability of the Python-based enterprise environment simulator named ‘CyberBattleSim’.  It is an experimental...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

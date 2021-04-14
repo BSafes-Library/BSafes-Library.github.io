@@ -11,6 +11,90 @@ nav_order: 900075
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI nuked web shells from hacked Exchange Servers without telling owners<a href="https://www.bleepingcomputer.com/news/security/fbi-nuked-web-shells-from-hacked-exchange-servers-without-telling-owners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court-approved FBI operation was conducted to remove web shells from compromised US-based Microsoft Exchange servers without first notifying the servers' owners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI launches operation to remove malware from computers in US<a href="https://thehill.com//policy/cybersecurity/548082-doj-authorizes-fbi-to-remove-malware-on-computers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court in Texas has authorized the FBI to fix malware&nbsp;in hundreds of hacked servers in the U.S. running certain versions of Microsoft Exchange Server software.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ used court order to thwart ‘hundreds’ of Exchange Server web shells<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/doj-used-court-orders-to-thwart-hundreds-of-exchange-server-web-shells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move is unprecedented, and implies an understanding that cyber risks should be addressed with the same urgency of other threats to national security and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA gives federal agencies until Friday to patch Exchange servers<a href="https://www.bleepingcomputer.com/news/security/cisa-gives-federal-agencies-until-friday-to-patch-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to install newly released Microsoft Exchange security updates by Friday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies urge groups to patch systems over new Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/548032-federal-government-urges-groups-to-patch-systems-after-discovery-of-new"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies urged organizations using a Microsoft email application to immediately patch their systems to stop malicious hackers from exploiting newly discovered vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joe Biden Appointed two Former Senior NSA Officials for Senior Cyber Security Roles<a href="https://cybersecuritynews.com/former-senior-nsa-officials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Joe Biden, the President of the United States of America, has appointed two senior ex-National Security Agency (NSA) executives for key cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Federal Reserve Chairman Jerome Powell Says Cyberattacks are the Number One Threat to the Global Financial System<a href="https://edition.cnn.com/2021/04/12/business/jerome-powell-cyberattacks-global-threat/index.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

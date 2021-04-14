@@ -11,6 +11,20 @@ nav_order: 900180
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Capcom: Ransomware gang used old VPN device to breach the network<a href="https://www.bleepingcomputer.com/news/security/capcom-ransomware-gang-used-old-vpn-device-to-breach-the-network/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Capcom has released a new update about the ransomware attack it suffered last year, detailing how the hackers gained access to the network, compromised devices, and stole personal information belonging to thousands of individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Food Shortages at Dutch Supermarkets After Ransomware Outage<a href="https://www.infosecurity-magazine.com:443/news/food-shortages-dutch-supermarkets/"> Full Text</a>
 </p>
 <details>

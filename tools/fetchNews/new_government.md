@@ -8,6 +8,98 @@ nav_order: 900075
 
 ## Government
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bolstering Our Nation's Defenses Against Cybersecurity Attacks<a href="https://www.darkreading.com/risk/bolstering-our-nations-defenses-against-cybersecurity-attacks/a/d-id/1340587?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shawn Henry, former Executive Assistant Director of the FBI and current CrowdStrike president of services and CSO, shares the top three cybersecurity priorities that the Biden administration needs to address.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI silently removed web shells planted on Microsoft Exchange servers in the US<a href="https://securityaffairs.co/wordpress/116793/malware/fbi-sanitized-us-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI log into web shells that hackers installed on Microsoft Exchange email servers across the US and removed the malicious code used by threat actors.
+
+
+
+A US judge granted the FBI the power to log into web shells that were injected by nation-state hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI blasts away web shells on US servers in wake of Exchange vulnerabilities<a href="https://www.zdnet.com/article/fbi-blasts-away-web-shells-on-us-servers-in-wake-of-exchange-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice revealed on Tuesday that the FBI gained authorization to remove web shells installed on compromised servers related to the Exchange vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sweden blames Russia for Swedish Sports Confederation hack<a href="https://securityaffairs.co/wordpress/116775/cyber-warfare-2/swedish-sports-confederation-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish Sports Confederation organization was compromised in 2017-18 by hackers working for Russian military intelligence, officials said.
+
+
+
+The Swedish Sports Confederation is the umbrella organisation of the Swedish sports movement, it was hacked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden Administration’s Cybersecurity Roadmap<a href="https://www.nextgov.com/ideas/2021/04/biden-administrations-cybersecurity-roadmap/173313/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pandemic has forced state and local governments to shift so much of their operations and provision of services online, but their technology has often struggled to keep up, and even worse it has exposed their cybersecurity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Removes Web Shells from Infected Exchange Servers<a href="https://www.infosecurity-magazine.com:443/news/fbi-removes-web-shells-infected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aggressive action designed to head-off persistent security threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FireEye: 650 new threat groups were tracked in 2020<a href="https://securityaffairs.co/wordpress/116813/cyber-crime/fireeye-report-650-new-threat-groups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye published its M-Trend 2021 report based on the data collected during the investigation, 650 new threat groups were tracked in 2020
+
+
+
+FireEye published its annual report, titled M-Trend 2021, which is based on the data collected during the investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

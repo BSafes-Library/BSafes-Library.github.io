@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Risk startup LogicGate confirms data breach<a href="https://techcrunch.com/2021/04/13/logicgate-risk-cloud-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An email sent by LogicGate to customers earlier this month said on February 23 an unauthorized third party obtained credentials to its AWS-hosted cloud storage servers storing customer backup files for its flagship platform Risk Cloud.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

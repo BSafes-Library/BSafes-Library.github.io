@@ -11,6 +11,34 @@ nav_order: 900027
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Services Market to be Worth $192.7bn<a href="https://www.infosecurity-magazine.com:443/news/cybersecurity-services-market-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research suggests global cybersecurity market will be worth $192.7bn by 2028
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fitch Partners with SecurityScorecard to Help Investors Assess Businesses’ Cyber-Risk<a href="https://www.infosecurity-magazine.com:443/news/fitch-partners-securityscorecard/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing threat landscape has made investors more concerned about companies' cybersecurity postures
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data of 500 Million LinkedIn Users Scraped and Being Sold Online<a href="https://cybersecuritynews.com/linkedin-users-data-scraped/"> Full Text</a>
 </p>
 <details>

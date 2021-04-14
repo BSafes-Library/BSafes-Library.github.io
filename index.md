@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 100 Million+ Devices Affected With Critical WRECK DNS Implementation Flaws<a href="https://cybersecuritynews.com/100-million-devices-affected-with-critical-wreck-dns-implementation-flaws/"> Full Text</a>
@@ -50,7 +50,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bolstering Our Nation's Defenses Against Cybersecurity Attacks<a href="https://www.darkreading.com/risk/bolstering-our-nations-defenses-against-cybersecurity-attacks/a/d-id/1340587?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New WhatsApp Bugs Could've Let Attackers Hack Your Phone Remotely<a href="https://thehackernews.com/2021/04/new-whatsapp-bug-couldve-let-attackers.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thycotic and Centrify Complete Merger to Expand PAM Offerings<a href="https://www.infosecurity-magazine.com:443/news/thycotic-centrify-merger-pam/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FireEye: 650 new threat groups were tracked in 2020<a href="https://securityaffairs.co/wordpress/116813/cyber-crime/fireeye-report-650-new-threat-groups.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 On first-ever Identity Management Day, experts detail steps to a better IAM program<a href="https://www.scmagazine.com/home/security-news/network-security/on-first-ever-identity-management-day-experts-detail-steps-to-a-better-iam-program/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp flaw lets anyone lock you out of your account<a href="https://www.welivesecurity.com/2021/04/13/whatsapp-flaw-lets-anyone-lock-you-out-account/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks<a href="https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bad Bots Could Disrupt #COVID19 Vaccine Rollout<a href="https://www.infosecurity-magazine.com:443/news/bad-bots-could-disrupt-covid19/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI silently removed web shells planted on Microsoft Exchange servers in the US<a href="https://securityaffairs.co/wordpress/116793/malware/fbi-sanitized-us-microsoft-exchange.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot Malware Is Making a Comeback by Replacing IcedID in Malspam Campaigns<a href="https://heimdalsecurity.com/blog/qbot-malware-replaces-icedid/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vulnerability Affecting Container Engines CRI-O and Podman (CVE-2021-20291)<a href="https://unit42.paloaltonetworks.com/cve-2021-20291/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Risk startup LogicGate confirms data breach<a href="https://techcrunch.com/2021/04/13/logicgate-risk-cloud-data-breach/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI blasts away web shells on US servers in wake of Exchange vulnerabilities<a href="https://www.zdnet.com/article/fbi-blasts-away-web-shells-on-us-servers-in-wake-of-exchange-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Released CyberBattleSim – A Python-based Enterprise Environment Simulator<a href="https://cybersecuritynews.com/microsoft-released-cyberbattlesim/"> Full Text</a>
@@ -282,7 +282,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cracked copies of Microsoft Office and Adobe Photoshop steal your session cookies, browser history, crypto-coins<a href="https://www.theregister.com/2021/04/13/cracked_copies_of_microsoft_office/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Simplify, then Add Lightness – Consolidating the Technology to Better Defend Ourselves<a href="https://thehackernews.com/2021/04/simplify-then-add-lightness.html"> Full Text</a>
@@ -314,7 +314,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patches Four More Critical Exchange Server Bugs<a href="https://www.infosecurity-magazine.com:443/news/microsoft-patch-four-critical/"> Full Text</a>
@@ -330,7 +330,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sweden blames Russia for Swedish Sports Confederation hack<a href="https://securityaffairs.co/wordpress/116775/cyber-warfare-2/swedish-sports-confederation-hack.html"> Full Text</a>
@@ -350,7 +350,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Biden Administration’s Cybersecurity Roadmap<a href="https://www.nextgov.com/ideas/2021/04/biden-administrations-cybersecurity-roadmap/173313/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Removes Web Shells from Infected Exchange Servers<a href="https://www.infosecurity-magazine.com:443/news/fbi-removes-web-shells-infected/"> Full Text</a>
@@ -382,7 +382,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1Password targets developers with Secrets Automation, acquisition of SecretHub<a href="https://www.theregister.com/2021/04/13/1password_secrethub_automation/?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Small Kansas Water Utility System Hacking Highlights Risks<a href="https://www.securityweek.com/small-kansas-water-utility-system-hacking-highlights-risks?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Patches Critical Code Execution Vulnerabilities in Photoshop, Bridge<a href="https://www.securityweek.com/adobe-patches-critical-code-execution-vulnerabilities-photoshop-bridge?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds says dealing with hack fallout cost at least $18 million<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds/solarwinds-says-dealing-with-hack-fallout-cost-at-least-18-million-idUSKBN2C02X2?&web_view=true"> Full Text</a>
@@ -446,7 +446,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Released for Unpatched Flaw Affecting Chromium-Based Browsers<a href="https://www.securityweek.com/poc-exploit-released-unpatched-flaw-affecting-chromium-based-browsers?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Your Chrome Browser to Patch 2 New In-the-Wild 0-Day Exploits<a href="https://thehackernews.com/2021/04/2-new-chrome-0-days-under-attack-update.html"> Full Text</a>
@@ -478,7 +478,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2021
+April 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Discovers New Vulnerabilities Affecting Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/nsa-discovers-new-vulnerabilities.html"> Full Text</a>

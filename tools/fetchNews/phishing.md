@@ -11,6 +11,20 @@ nav_order: 900160
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Tax Phish Swims Past Google Workspace Email Security<a href="https://threatpost.com/tax-phish-google-workspace-email-security/165376/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks are looking to harvest email credentials with a savvy campaign that uses the Typeform service to host the phishing page.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Watch out for this W-2 phishing scam targeting the 2021 tax season<a href="https://www.bleepingcomputer.com/news/security/watch-out-for-this-w-2-phishing-scam-targeting-the-2021-tax-season/"> Full Text</a>
 </p>
 <details>

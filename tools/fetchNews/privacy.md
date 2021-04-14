@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave browser disables Google's FLoC tracking system<a href="https://www.zdnet.com/article/brave-browser-disables-googles-floc-tracking-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brave, a Chromium-based browser, has removed Federated Learning of Cohorts (FLoC), Google's controversial alternative identifier to third-party cookies for tracking users across websites.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
