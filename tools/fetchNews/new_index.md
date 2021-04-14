@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Second Google Chrome zero-day exploit dropped on twitter this week<a href="https://www.bleepingcomputer.com/news/security/second-google-chrome-zero-day-exploit-dropped-on-twitter-this-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A second Chromium zero-day remote code execution exploit has been released on Twitter this week that affects current versions of Google Chrome, Microsoft Edge, and likely other Chromium-based browsers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-facial-recognition-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American sues Detroit officials over wrongful arrest linked to facial recognition technology
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Intelligence leaders warn of threats from China, domestic terrorism<a href="https://thehill.com//policy/national-security/548230-intelligence-leaders-warn-of-threats-from-china-domestic-terrorism"> Full Text</a>
 </p>
 <details>
