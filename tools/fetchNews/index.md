@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Creates Cheese Shortages in Netherlands<a href="https://threatpost.com/ransomware-cheese-shortages-netherlands/165407/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not a Gouda situation: An attack on a logistics firm is suspected to be related to Microsoft Exchange server flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Jersey School Districts Investigate Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/new-jersey-schools-cyber-attack/"> Full Text</a>
 </p>
 <details>
