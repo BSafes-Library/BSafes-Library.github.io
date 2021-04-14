@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+‘Digital exhaust’ may be the solution for tracking consumer IoT devices on networks<a href="https://www.scmagazine.com/home/security-news/digital-exhaust-may-be-the-solution-for-tracking-consumer-iot-devices-on-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A technique known as radio frequency (RF) fingerprinting could be leveraged to give unique ID to the billions of rogue IoT devices lurking within home and business networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Vivaldi, Brave, DuckDuckGo reject Google's FLoC ad tracking tech<a href="https://www.bleepingcomputer.com/news/security/vivaldi-brave-duckduckgo-reject-googles-floc-ad-tracking-tech/"> Full Text</a>
 </p>
 <details>
