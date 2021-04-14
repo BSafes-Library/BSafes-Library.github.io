@@ -37,6 +37,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI nuked web shells from hacked Exchange Servers without telling owners<a href="https://www.bleepingcomputer.com/news/security/fbi-nuked-web-shells-from-hacked-exchange-servers-without-telling-owners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court-approved FBI operation was conducted to remove web shells from compromised US-based Microsoft Exchange servers without first notifying the servers' owners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI launches operation to remove malware from computers in US<a href="https://thehill.com//policy/cybersecurity/548082-doj-authorizes-fbi-to-remove-malware-on-computers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court in Texas has authorized the FBI to fix malware in hundreds of hacked servers in the U.S. running certain versions of Microsoft Exchange Server software.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ used court order to thwart ‘hundreds’ of Exchange Server web shells<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/doj-used-court-orders-to-thwart-hundreds-of-exchange-server-web-shells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move is unprecedented, and implies an understanding that cyber risks should be addressed with the same urgency of other threats to national security and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capcom: Ransomware gang used old VPN device to breach the network<a href="https://www.bleepingcomputer.com/news/security/capcom-ransomware-gang-used-old-vpn-device-to-breach-the-network/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Capcom has released a new update about the ransomware attack it suffered last year, detailing how the hackers gained access to the network, compromised devices, and stole personal information belonging to thousands of individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker hacked one Microsoft Exchange server to gain access to others<a href="https://www.scmagazine.com/home/patch-management/attacker-hacked-one-microsoft-exchange-server-to-gain-access-to-others/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tactic is sophisticated, with firewalls unlikely to block traffic between Exchange servers and potentially giving such traffic a pass in terms of content inspection.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Microsoft (re)patch requested | International cyber threats growing | New York Times tech workers unionize<a href="https://thehill.com//policy/technology/overnights/548058-hillicon-valley-microsoft-repatch-requested-international-cyber"> Full Text</a>
 </p>
 <details>

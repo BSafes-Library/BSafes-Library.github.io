@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Microsoft (re)patch requested | International cyber threats growing | New York Times tech workers unionize<a href="https://thehill.com//policy/technology/overnights/548058-hillicon-valley-microsoft-repatch-requested-international-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today: Federal agencies urged organizations running a Microsoft email application to immediately patch their systems to prevent hackers from exploiting newly discovered vulnerabilities. Meanwhile, the Office of the Director of National Intelligence released the annual worldwide threats report which highlighted cyber incidents as a key national security threat, and tech workers at the New York Times launched a union.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA gives federal agencies until Friday to patch Exchange servers<a href="https://www.bleepingcomputer.com/news/security/cisa-gives-federal-agencies-until-friday-to-patch-exchange-servers/"> Full Text</a>
 </p>
 <details>
