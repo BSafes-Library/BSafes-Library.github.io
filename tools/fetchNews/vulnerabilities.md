@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WhatsApp Flaw Let Attackers Hack the Victim Device Remotely<a href="https://cybersecuritynews.com/critical-whatsapp-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ CENSUS identified two vulnerabilities in the popular WhatsApp messenger app for Android.&nbsp;The first of these was independently reported to Facebook and was...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the second time in a week, a Google Chromium zero-day released online<a href="https://securityaffairs.co/wordpress/116844/hacking/google-chromium-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the second time in a week, a Chromium&nbsp;zero-day remote code execution exploit code has been released on Twitter, multiple browsers impacted.
+
+
+
+A new Chromium&nbsp;zero-day remote code execution exploit has been released on Twitter this week, kile the previous...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Bug Allows Attackers to Brick Kubernetes Clusters<a href="https://threatpost.com/security-bug-brick-kubernetes-clusters/165413/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is triggered when a cloud container pulls a malicious image from a registry.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp flaws could have allowed hackers to remotely hack mobile devices<a href="https://securityaffairs.co/wordpress/116833/hacking/whatsapp-flaws-remote-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp addressed two security vulnerabilities in its app for Android that could have been exploited to remotely hack the victim's device.
+
+
+
+WhatsApp recently addressed two security vulnerabilities in its app for Android that could have been exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP fixes critical bugs in Business Client, Commerce, and NetWeaver<a href="https://www.bleepingcomputer.com/news/security/sap-fixes-critical-bugs-in-business-client-commerce-and-netweaver/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP's security updates for this month address multiple critical vulnerabilities. The most serious of them, rated with the highest severity score, affects the company's Business Client product.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second Google Chrome zero-day exploit dropped on twitter this week<a href="https://www.bleepingcomputer.com/news/security/second-google-chrome-zero-day-exploit-dropped-on-twitter-this-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A second Chromium&nbsp;zero-day remote code execution exploit has been released on Twitter this week that affects current versions of Google Chrome, Microsoft Edge, and likely other Chromium-based browsers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Exchange Server Vulnerabilities let Attackers Execute Remote Code<a href="https://cybersecuritynews.com/exchange-server-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has released security updates for vulnerabilities found in the below versions of Exchange servers on the 13th April 2021 which is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit takes bug bounty program public<a href="https://www.scmagazine.com/home/security-news/reddit-takes-bug-bounty-program-public/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reddit announced Wednesday that it is taking its bug bounty program public. The popular social news site and community forum platform has run a private program with HackerOne for the past three years, but hopes that by going public, it can more quickly address vulnerabilities, improve its defenses and keep the platform secure. “We’ve seen…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

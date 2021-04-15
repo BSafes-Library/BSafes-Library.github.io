@@ -29,7 +29,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.darkreading.com/perimeter/cisa-urges-caution-for-security-researchers-targeted-in-attack-campaign/d/d-id/1340680?&web_view=true
 
 Law:
 

@@ -11,6 +11,34 @@ nav_order: 900075
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//homenews/administration/548367-biden-administration-unveils-sweeping-sanctions-on-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Thursday announced sanctions against Russia for its involvement in a recent major cyber espionage operation against the U.S., foreign influence operations around U.S. elections, and other concerns.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Months after hack, US poised to announce sanctions on Russia<a href="https://apnews.com/article/donald-trump-us-news-elections-campaigns-vladimir-putin-6a8a54c7932ee8cbe51b0ce505121995?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is preparing to announce sanctions and the expulsion of diplomats from the U.S. in response to a massive Russian hacking campaign that breached vital federal agencies, as well as for election interference.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Victorian government earmarks AU$30m to lift hospital cyber capabilities<a href="https://www.zdnet.com/article/victorian-government-earmarks-au30m-to-lift-hospital-cyber-capabilities/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

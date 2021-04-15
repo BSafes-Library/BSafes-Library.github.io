@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cado Security locks in $10M for its cloud-native digital forensics platform<a href="https://techcrunch.com/2021/04/15/cado-security-locks-in-10m-for-its-cloud-native-digital-forensics-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding for London-based Cado is being led by Blossom Capital, with existing investors Ten Eleven Ventures also participating, among others. As another signal of demand, this Series A is coming only six months after Cado raised its seed round.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

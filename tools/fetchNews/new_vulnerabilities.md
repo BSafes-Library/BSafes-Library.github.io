@@ -11,6 +11,66 @@ nav_order: 900220
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Siemens Releases Several Advisories for 'NAME:WRECK' Vulnerabilities<a href="https://www.securityweek.com/siemens-releases-several-advisories-namewreck-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens released a total of 14 new advisories on Tuesday, including five describing the impact and remediations for the NAME:WRECK vulnerabilities disclosed on the same day.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical Vulnerability Patched in SAP Commerce<a href="https://www.securityweek.com/another-critical-vulnerability-patched-sap-commerce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP announced the release of 14 new security notes and 5 updates to previously released notes. The only new Hot News note released with this round of patches addresses a critical vulnerability in SAP Commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1-Click Hack Found in Popular Desktop Apps — Check If You're Using Them<a href="https://thehackernews.com/2021/04/1-click-hack-found-in-popular-desktop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple one-click vulnerabilities have been discovered across a variety of popular software applications, allowing an attacker to potentially execute arbitrary code on target systems.  The issues were discovered by Positive Security researchers Fabian Bräunlein and Lukas Euler and affect apps like Telegram, Nextcloud, VLC, LibreOffice, OpenOffice, Bitcoin/Dogecoin Wallets, Wireshark, and Mumble.  "Desktop applications which pass user supplied URLs to be opened by the operating system are frequently vulnerable to code execution with user interaction," the researchers&nbsp; said . "Code execution can be achieved either when a URL pointing to a malicious executable (.desktop, .jar, .exe, …) hosted on an internet accessible file share (nfs, webdav, smb, …) is opened, or an additional vulnerability in the opened application's URI handler is exploited."   Put differently; the flaws stem from an insufficient validation of URL input that, when opened with the help of the u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+April 2021 Security Patch Day fixes a critical flaw in SAP Commerce<a href="https://securityaffairs.co/wordpress/116854/security/sap-commerce-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+April 2021 Security Patch Day includes 14 new security notes and 5 updates to previously released notes, one of them fixes a critical issue in SAP Commerce.
+
+
+
+April 2021 Security Patch Day includes 14 new security notes and 5 updates to previously released...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical WhatsApp Flaw Let Attackers Hack the Victim Device Remotely<a href="https://cybersecuritynews.com/critical-whatsapp-flaw/"> Full Text</a>
 </p>
 <details>

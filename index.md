@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Casino Gets Hacked Through a Fish-Tank Thermometer<a href="https://www.entrepreneur.com/article/368943?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Entrepreneur
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//homenews/administration/548367-biden-administration-unveils-sweeping-sanctions-on-russia"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Target ProxyLogon Exploit to Install Cryptojacker<a href="https://threatpost.com/attackers-target-proxylogon-cryptojacker/165418/"> Full Text</a>
@@ -82,7 +82,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Releases Several Advisories for 'NAME:WRECK' Vulnerabilities<a href="https://www.securityweek.com/siemens-releases-several-advisories-namewreck-vulnerabilities?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University of Hertfordshire hit by cyberattack<a href="https://www.itsecurityguru.org/2021/04/15/university-of-hertfordshire-hit-by-cyberattack/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ IT Security Guru
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cado Security locks in $10M for its cloud-native digital forensics platform<a href="https://techcrunch.com/2021/04/15/cado-security-locks-in-10m-for-its-cloud-native-digital-forensics-platform/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Critical Vulnerability Patched in SAP Commerce<a href="https://www.securityweek.com/another-critical-vulnerability-patched-sap-commerce?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Thousands of Spam Emails Flood LinkedIn Users’ Inboxes<a href="https://hotforsecurity.bitdefender.com/blog/linkedin-data-leak-hundreds-of-thousands-of-spam-emails-flood-users-inboxes-25655.html?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Bitdefender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For the second time in a week, a Google Chromium zero-day released online<a href="https://securityaffairs.co/wordpress/116844/hacking/google-chromium-zero.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Republican lawmakers reintroduce bill to ban TikTok on federal devices<a href="https://thehill.com//policy/cybersecurity/548347-republican-lawmakers-reintroduce-bill-to-ban-tiktok-on-federal-devices"> Full Text</a>
@@ -194,7 +194,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1-Click Hack Found in Popular Desktop Apps — Check If You're Using Them<a href="https://thehackernews.com/2021/04/1-click-hack-found-in-popular-desktop.html"> Full Text</a>
@@ -210,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 April 2021 Security Patch Day fixes a critical flaw in SAP Commerce<a href="https://securityaffairs.co/wordpress/116854/security/sap-commerce-critical-flaw.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Months after hack, US poised to announce sanctions on Russia<a href="https://apnews.com/article/donald-trump-us-news-elections-campaigns-vladimir-putin-6a8a54c7932ee8cbe51b0ce505121995?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ AP News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Variants: More Sophisticated, Prevalent and Evolving in 2021<a href="https://thehackernews.com/2021/04/malware-variants-more-sophisticated.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian Supply-Chain Giant Bizongo Exposed 643GB of Sensitive Data<a href="https://www.hackread.com/india-bizongo-supply-chain-exposed-data/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ParkMobile Breach Leaves 21M User Data Exposed<a href="https://heimdalsecurity.com/blog/parkmobile-breach-data-exposed/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europe's Data Protection Guardians Green Light EU-UK Data Flows<a href="https://www.infosecurity-magazine.com:443/news/european-data-protection-approve/"> Full Text</a>
@@ -310,7 +310,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YIKES! Cybercriminals flood the Internet with 100,00 malicious PDF documents<a href="https://thehackernews.com/2021/04/yikes-cybercriminals-flood-intrenet.html"> Full Text</a>
@@ -326,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Man Gets 10 Years for Multimillion-Dollar Medicare Fraud Scheme<a href="https://www.infosecurity-magazine.com:443/news/man-10-years-multimilliondollar/"> Full Text</a>
@@ -342,7 +342,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Attacker Dwell Time Drops to Just 24 Days<a href="https://www.infosecurity-magazine.com:443/news/global-attacker-dwell-time-drops/"> Full Text</a>

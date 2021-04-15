@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No more snack attacks? Mondelez hopes new security training will prevent the next ‘NotPetya’<a href="https://www.scmagazine.com/security-training-certification-user-awareness/no-more-snack-attacks-mondelez-hopes-new-security-training-program-can-help-prevent-the-next-notpetya/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sure, APT attacks can be destructive and even deadly, but denying the world their Oreo cookies is just plain cruel. Indeed, Nikolay Betov, information security officer at Mondelez, told SC media that the event   “changed everything.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

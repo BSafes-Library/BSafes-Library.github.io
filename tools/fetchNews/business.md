@@ -11,6 +11,20 @@ nav_order: 900027
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Led by cloud, cyber funding dollars flowed like water in 2020<a href="https://www.scmagazine.com/home/security-news/cloud-security/led-by-cloud-cyber-funding-dollars-flowed-like-water-in-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2020 brought with it record levels of investment, with a combined $7.8 billion poured into cybersecurity startups. 2021 is shaping up even better, with some predicting $15 billion in investments by year end.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Thycotic and Centrify Complete Merger to Expand PAM Offerings<a href="https://www.infosecurity-magazine.com:443/news/thycotic-centrify-merger-pam/"> Full Text</a>
 </p>
 <details>

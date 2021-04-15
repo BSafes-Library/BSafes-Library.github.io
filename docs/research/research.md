@@ -6,6 +6,18 @@ nav_order: 800
 
 ## Research 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+•  Jack Voltaic 3.0 Cyber Research Report [HTML](https://papers.bsafes.com/docs/internet/jack-voltaic-3-0-cyber-research-report/)
+</p>
+<details>
+  <summary>Abstract</summary>
+During this period of strategic competition, nation-state competitors are attempting to gain strategic advantage by exploiting our Nation’s critical infrastructure sectors. Secure and resilient critical infrastructure is essential for economic and national security. Every day we depend on and take the basic services provided by these sectors for granted. Given the interdependencies of these services, a risk to one can be a risk to all, and our networks are only as strong as their weakest links.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 3, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Well-funded, organized attacks require strategic counter-defense strategies<a href="https://www.cyberscoop.com/radio/well-funded-organized-cyber-attacks-need-strategic-counter-defense/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary is well funded, persistent, and highly technical; therefore, it is important for security leaders to accept that there’s no one vendor or technology that can defend against supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Must Focus on People and Technologies Amid Rising Attacks<a href="https://www.infosecurity-magazine.com:443/news/cisos-people-technologies-rising/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How should CISOs respond to increased attacks in the past year?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Intel leaders push for breach notification law | Coinbase goes public<a href="https://thehill.com//policy/technology/overnights/548313-hillicon-valley-intel-leaders-push-for-breach-notification-law"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key U.S. intelligence leaders on Wednesday called on Congress to pass breach notification laws in the wake of major cybersecurity incidents. Meanwhile, Ireland’s privacy agency launched an investigation into a Facebook data leak, and two leading House Republicans raised concerns about new Chinese tech companies posing a threat to national security.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The DoJ’s Microsoft mitigation: Real results, with a few hypothetical concerns<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/the-dojs-microsoft-mitigation-real-results-with-a-few-hypothetical-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move is being hailed as a landmark use of a new authority. But some in the cybersecurity community point to a lack of any clear standard for when and how government may hack private systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aviation Industry Lacks Cohesive Cybersecurity Approach<a href="https://www.infosecurity-magazine.com:443/news/aviation-industry-wef-study/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+World Economic Forum study calls for unified cybersecurity strategy in aviation sector
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intelligence leaders warn of threats from China, domestic terrorism<a href="https://thehill.com//policy/national-security/548230-intelligence-leaders-warn-of-threats-from-china-domestic-terrorism"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence leaders warned Wednesday of growing threats from China and domestic terrorism fueled by misinformation on social media at a hearing on worldwide threats to the nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

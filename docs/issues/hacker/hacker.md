@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target ProxyLogon Exploit to Install Cryptojacker<a href="https://threatpost.com/attackers-target-proxylogon-cryptojacker/165418/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted compromised Exchange servers to host malicious Monero cryptominer in an “unusual attack,” Sophos researchers discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Attacker Dwell Time Drops to Just 24 Days<a href="https://www.infosecurity-magazine.com:443/news/global-attacker-dwell-time-drops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware spike and better threat detection play a part
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

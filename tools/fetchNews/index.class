@@ -34,6 +34,330 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Casino Gets Hacked Through a Fish-Tank Thermometer<a href="https://www.entrepreneur.com/article/368943?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That was the lesson learned a few years ago from the operators of a North American casino. According to a 2018 Business Insider report, cybersecurity executive Nicole Eagan of security firm Darktrace told the story while addressing a conference.
+</details>
+<div style="text-align: right" markdown="1">
+Entrepreneur
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//homenews/administration/548367-biden-administration-unveils-sweeping-sanctions-on-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Thursday announced sanctions against Russia for its involvement in a recent major cyber espionage operation against the U.S., foreign influence operations around U.S. elections, and other concerns.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target ProxyLogon Exploit to Install Cryptojacker<a href="https://threatpost.com/attackers-target-proxylogon-cryptojacker/165418/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted compromised Exchange servers to host malicious Monero cryptominer in an “unusual attack,” Sophos researchers discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Releases Several Advisories for 'NAME:WRECK' Vulnerabilities<a href="https://www.securityweek.com/siemens-releases-several-advisories-namewreck-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens released a total of 14 new advisories on Tuesday, including five describing the impact and remediations for the NAME:WRECK vulnerabilities disclosed on the same day.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Hertfordshire hit by cyberattack<a href="https://www.itsecurityguru.org/2021/04/15/university-of-hertfordshire-hit-by-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Hertfordshire was targetted by a cyberattack which resulted in the universities entire IT network being taken down, as well as all access to cloud-based services being blocked.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cado Security locks in $10M for its cloud-native digital forensics platform<a href="https://techcrunch.com/2021/04/15/cado-security-locks-in-10m-for-its-cloud-native-digital-forensics-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding for London-based Cado is being led by Blossom Capital, with existing investors Ten Eleven Ventures also participating, among others. As another signal of demand, this Series A is coming only six months after Cado raised its seed round.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical Vulnerability Patched in SAP Commerce<a href="https://www.securityweek.com/another-critical-vulnerability-patched-sap-commerce?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP announced the release of 14 new security notes and 5 updates to previously released notes. The only new Hot News note released with this round of patches addresses a critical vulnerability in SAP Commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Thousands of Spam Emails Flood LinkedIn Users’ Inboxes<a href="https://hotforsecurity.bitdefender.com/blog/linkedin-data-leak-hundreds-of-thousands-of-spam-emails-flood-users-inboxes-25655.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of the employment-oriented online service are being targeted with an assortment of phishing emails and scams in an attempt to hijack their LinkedIn accounts or promote fake LinkedIn email leads.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the second time in a week, a Google Chromium zero-day released online<a href="https://securityaffairs.co/wordpress/116844/hacking/google-chromium-zero.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Chromium zero-day remote code execution exploit has been released on Twitter this week, kile the previous one that affects current versions of Google Chrome, Microsoft Edge, and likely other Chromium-based browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Republican lawmakers reintroduce bill to ban TikTok on federal devices<a href="https://thehill.com//policy/cybersecurity/548347-republican-lawmakers-reintroduce-bill-to-ban-tiktok-on-federal-devices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Josh Hawley (R-Mo.) led a group of Senate Republicans on Thursday in reintroducing legislation to ban the use of social media app TikTok on federal government devices, citing potential national security concerns. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1-Click Hack Found in Popular Desktop Apps — Check If You're Using Them<a href="https://thehackernews.com/2021/04/1-click-hack-found-in-popular-desktop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple one-click vulnerabilities have been discovered across a variety of popular software applications, allowing an attacker to potentially execute arbitrary code on target systems.  The issues were discovered by Positive Security researchers Fabian Bräunlein and Lukas Euler and affect apps like Telegram, Nextcloud, VLC, LibreOffice, OpenOffice, Bitcoin/Dogecoin Wallets, Wireshark, and Mumble.  "Desktop applications which pass user supplied URLs to be opened by the operating system are frequently vulnerable to code execution with user interaction," the researchers  said . "Code execution can be achieved either when a URL pointing to a malicious executable (.desktop, .jar, .exe, …) hosted on an internet accessible file share (nfs, webdav, smb, …) is opened, or an additional vulnerability in the opened application's URI handler is exploited."   Put differently; the flaws stem from an insufficient validation of URL input that, when opened with the help of the u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+April 2021 Security Patch Day fixes a critical flaw in SAP Commerce<a href="https://securityaffairs.co/wordpress/116854/security/sap-commerce-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+April 2021 Security Patch Day includes 14 new security notes and 5 updates to previously released notes, one of them fixes a critical issue in SAP Commerce.
+
+
+
+April 2021 Security Patch Day includes 14 new security notes and 5 updates to previously released...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Months after hack, US poised to announce sanctions on Russia<a href="https://apnews.com/article/donald-trump-us-news-elections-campaigns-vladimir-putin-6a8a54c7932ee8cbe51b0ce505121995?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is preparing to announce sanctions and the expulsion of diplomats from the U.S. in response to a massive Russian hacking campaign that breached vital federal agencies, as well as for election interference.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Variants: More Sophisticated, Prevalent and Evolving in 2021<a href="https://thehackernews.com/2021/04/malware-variants-more-sophisticated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious program intended to cause havoc with IT systems—malware—is becoming more and more sophisticated every year. The year 2021 is no exception, as recent trends indicate that several  new variants of malware  are making their way into the world of cybersecurity.  While smarter security solutions are popping up, modern malware still eludes and challenges cybersecurity experts.   The evolution of malware has infected everything from personal computers to industrial units since the 70s. Cybersecurity firm  FireEye's network was attacked  in 2020 by hackers with the most sophisticated form of hacking i.e., supply chain.  This hacking team demonstrated world-class capabilities to disregard security tools and forensic examination, proving that anybody can be hacked. Also, the year 2021 is already witnessing a bump in  COVID-19 vaccine-related phishing attacks .   Let's take a look at the trends that forecast an increase in malware attacks:  COVID-19 and Work-from-Home (WFH)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Supply-Chain Giant Bizongo Exposed 643GB of Sensitive Data<a href="https://www.hackread.com/india-bizongo-supply-chain-exposed-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bizongo, an online packaging marketplace has suffered a data leak in which the company left highly sensitive customer information unsecured and potentially exposed to hackers and other malicious individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ParkMobile Breach Leaves 21M User Data Exposed<a href="https://heimdalsecurity.com/blog/parkmobile-breach-data-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The account information of 21 million customers of ParkMobile, a very popular mobile parking app from North America, is now being sold online due to a data breach. The information includes a whole range of sensitive details including phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe's Data Protection Guardians Green Light EU-UK Data Flows<a href="https://www.infosecurity-magazine.com:443/news/european-data-protection-approve/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EDPB recommends accepting Commission’s adequacy decisions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YIKES! Cybercriminals flood the Internet with 100,00 malicious PDF documents<a href="https://thehackernews.com/2021/04/yikes-cybercriminals-flood-intrenet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are resorting to search engine poisoning techniques to lure business professionals into seemingly legitimate Google sites that install a Remote Access Trojan (RAT) capable of carrying out a wide range of attacks.  The attack works by leveraging searches for business forms such as invoices, templates, questionnaires, and receipts as a stepping stone toward infiltrating the systems. Users attempting to download the alleged document templates are  redirected , without their knowledge, to a malicious website that hosts the malware.   "Once the RAT is on the victim's computer and activated, the threat actors can send commands and upload additional malware to the infected system, such as ransomware, a credential stealer, a banking trojan, or simply use the RAT as a foothold into the victim's network," researchers from eSentire  said  in a write-up published on Tuesday.   The cybersecurity firm said it discovered over 100,000 unique web pages that contain pop
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Gets 10 Years for Multimillion-Dollar Medicare Fraud Scheme<a href="https://www.infosecurity-magazine.com:443/news/man-10-years-multimilliondollar/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Complex conspiracy involved doctors, labs and telemarketing firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Attacker Dwell Time Drops to Just 24 Days<a href="https://www.infosecurity-magazine.com:443/news/global-attacker-dwell-time-drops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware spike and better threat detection play a part
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

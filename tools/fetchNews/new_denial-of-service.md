@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Thousands of Spam Emails Flood LinkedIn Users’ Inboxes<a href="https://hotforsecurity.bitdefender.com/blog/linkedin-data-leak-hundreds-of-thousands-of-spam-emails-flood-users-inboxes-25655.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of the employment-oriented online service are being targeted with an assortment of phishing emails and scams in an attempt to hijack their LinkedIn accounts or promote fake LinkedIn email leads.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
