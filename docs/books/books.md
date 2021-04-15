@@ -6,8 +6,10 @@ nav_order: 400
 
 ## Books 
 
-* [Cybersecurity in Elections - Models of Interagency Collaboration, by Sam van der Staak and Peter Wolf](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
 * [1984, By George Orwell](https://book-1984.bsafes.com)
-* [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
 * [Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus](https://papers.bsafes.com/docs/cybercrime/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
+* [Cybersecurity in Elections - Models of Interagency Collaboration, by Sam van der Staak and Peter Wolf](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
+* [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
+* [Jack Voltaic 3.0 Cyber Research Report, by United States Military Academy](https://papers.bsafes.com/docs/internet/jack-voltaic-3-0-cyber-research-report/)
 * [RIGHTS OF MAN, By Thomas Paine](https://book-rights-of-man.bsafes.com)
+* [The Red Swimsuit: Essays](https://papers.bsafes.com/docs/women/the-red-swimsuit-essays/)
