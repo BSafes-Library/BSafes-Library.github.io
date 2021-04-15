@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Man Gets 10 Years for Multimillion-Dollar Medicare Fraud Scheme<a href="https://www.infosecurity-magazine.com:443/news/man-10-years-multimilliondollar/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Complex conspiracy involved doctors, labs and telemarketing firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Global Attacker Dwell Time Drops to Just 24 Days<a href="https://www.infosecurity-magazine.com:443/news/global-attacker-dwell-time-drops/"> Full Text</a>
 </p>
 <details>
