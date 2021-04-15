@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Targeting Cybersecurity Researchers <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/04/14/threat-actors-targeting-cybersecurity-researchers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google and Microsoft recently published reports on advanced persistent threat (APT) actors targeting cybersecurity researchers. The APT actors are using fake social media profiles and legitimate-looking websites to lure security researchers into visiting malicious websites to steal information, including exploits and zero-day vulnerabilities. APT groups often use elaborate social engineering and spear phishing schemes to trick victims into running malicious code through malicious links and websites.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 13, 2021 - Department of Justice 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

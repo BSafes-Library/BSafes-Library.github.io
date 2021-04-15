@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intelligence leaders push for mandatory breach notification law<a href="https://thehill.com//policy/cybersecurity/548289-officials-push-for-breach-notification-deterrence-measures-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the nation’s intelligence agencies on Wednesday joined bipartisan members of the Senate Intelligence Committee in pushing for measures to encourage the private sector to report breaches and to deter malicious hackers from attacking critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vivaldi, Brave, DuckDuckGo reject Google's FLoC ad tracking tech<a href="https://www.bleepingcomputer.com/news/security/vivaldi-brave-duckduckgo-reject-googles-floc-ad-tracking-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Makers of Vivaldi and Brave web browsers have rejected Google's new privacy-preserving proposal called FLoC, which is meant to replace third-party tracking cookies across websites on browsers, including Chrome.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

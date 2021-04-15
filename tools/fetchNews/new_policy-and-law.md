@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-facial-recognition-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American sues Detroit officials over wrongful arrest linked to facial recognition technology
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical WhatsApp Flaw Let Attackers Hack the Victim Device Remotely<a href="https://cybersecuritynews.com/critical-whatsapp-flaw/"> Full Text</a>
@@ -50,7 +50,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Well-funded, organized attacks require strategic counter-defense strategies<a href="https://www.cyberscoop.com/radio/well-funded-organized-cyber-attacks-need-strategic-counter-defense/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs Must Focus on People and Technologies Amid Rising Attacks<a href="https://www.infosecurity-magazine.com:443/news/cisos-people-technologies-rising/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For the second time in a week, a Google Chromium zero-day released online<a href="https://securityaffairs.co/wordpress/116844/hacking/google-chromium-zero.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Victorian government earmarks AU$30m to lift hospital cyber capabilities<a href="https://www.zdnet.com/article/victorian-government-earmarks-au30m-to-lift-hospital-cyber-capabilities/?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NBA's Houston Rockets probing cyber attack, working closely with FBI<a href="https://www.reuters.com/article/us-basketball-nba-houston-rockets-cyber/nbas-houston-rockets-probing-cyber-attack-working-closely-with-fbi-idUSKBN2C201Q?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Urges Caution for Security Researchers Targeted in Attack Campaign<a href="https://www.darkreading.com/perimeter/cisa-urges-caution-for-security-researchers-targeted-in-attack-campaign/d/d-id/1340680?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Intel leaders push for breach notification law | Coinbase goes public<a href="https://thehill.com//policy/technology/overnights/548313-hillicon-valley-intel-leaders-push-for-breach-notification-law"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The DoJ’s Microsoft mitigation: Real results, with a few hypothetical concerns<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/the-dojs-microsoft-mitigation-real-results-with-a-few-hypothetical-concerns/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Bug Allows Attackers to Brick Kubernetes Clusters<a href="https://threatpost.com/security-bug-brick-kubernetes-clusters/165413/"> Full Text</a>
@@ -198,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House Republicans raise concerns about new Chinese tech companies<a href="https://thehill.com//policy/cybersecurity/548307-house-republicans-raise-concerns-about-new-chinese-tech-companies"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp flaws could have allowed hackers to remotely hack mobile devices<a href="https://securityaffairs.co/wordpress/116833/hacking/whatsapp-flaws-remote-hack.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Led by cloud, cyber funding dollars flowed like water in 2020<a href="https://www.scmagazine.com/home/security-news/cloud-security/led-by-cloud-cyber-funding-dollars-flowed-like-water-in-2020/"> Full Text</a>
@@ -250,7 +250,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intelligence leaders push for mandatory breach notification law<a href="https://thehill.com//policy/cybersecurity/548289-officials-push-for-breach-notification-deterrence-measures-following"> Full Text</a>
@@ -266,7 +266,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No more snack attacks? Mondelez hopes new security training will prevent the next ‘NotPetya’<a href="https://www.scmagazine.com/security-training-certification-user-awareness/no-more-snack-attacks-mondelez-hopes-new-security-training-program-can-help-prevent-the-next-notpetya/"> Full Text</a>
@@ -282,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Creates Cheese Shortages in Netherlands<a href="https://threatpost.com/ransomware-cheese-shortages-netherlands/165407/"> Full Text</a>
@@ -298,7 +298,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Jersey School Districts Investigate Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/new-jersey-schools-cyber-attack/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP fixes critical bugs in Business Client, Commerce, and NetWeaver<a href="https://www.bleepingcomputer.com/news/security/sap-fixes-critical-bugs-in-business-client-commerce-and-netweaver/"> Full Text</a>
@@ -330,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aviation Industry Lacks Cohesive Cybersecurity Approach<a href="https://www.infosecurity-magazine.com:443/news/aviation-industry-wef-study/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Second Google Chrome zero-day exploit dropped on twitter this week<a href="https://www.bleepingcomputer.com/news/security/second-google-chrome-zero-day-exploit-dropped-on-twitter-this-week/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-facial-recognition-tech/"> Full Text</a>
@@ -378,7 +378,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intelligence leaders warn of threats from China, domestic terrorism<a href="https://thehill.com//policy/national-security/548230-intelligence-leaders-warn-of-threats-from-china-domestic-terrorism"> Full Text</a>
@@ -394,7 +394,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Exchange Server Vulnerabilities let Attackers Execute Remote Code<a href="https://cybersecuritynews.com/exchange-server-vulnerabilities/"> Full Text</a>
@@ -410,7 +410,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Digital exhaust’ may be the solution for tracking consumer IoT devices on networks<a href="https://www.scmagazine.com/home/security-news/digital-exhaust-may-be-the-solution-for-tracking-consumer-iot-devices-on-networks/"> Full Text</a>
@@ -426,7 +426,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vivaldi, Brave, DuckDuckGo reject Google's FLoC ad tracking tech<a href="https://www.bleepingcomputer.com/news/security/vivaldi-brave-duckduckgo-reject-googles-floc-ad-tracking-tech/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reddit takes bug bounty program public<a href="https://www.scmagazine.com/home/security-news/reddit-takes-bug-bounty-program-public/"> Full Text</a>
@@ -458,7 +458,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2021
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wray: FBI opens investigation into China every 10 hours<a href="https://thehill.com//policy/national-security/548177-wray-fbi-opens-investigation-into-china-every-10-hour"> Full Text</a>

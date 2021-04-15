@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Creates Cheese Shortages in Netherlands<a href="https://threatpost.com/ransomware-cheese-shortages-netherlands/165407/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not a Gouda situation: An attack on a logistics firm is suspected to be related to Microsoft Exchange server flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

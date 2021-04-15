@@ -34,6 +34,446 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WhatsApp Flaw Let Attackers Hack the Victim Device Remotely<a href="https://cybersecuritynews.com/critical-whatsapp-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ CENSUS identified two vulnerabilities in the popular WhatsApp messenger app for Android. The first of these was independently reported to Facebook and was...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Well-funded, organized attacks require strategic counter-defense strategies<a href="https://www.cyberscoop.com/radio/well-funded-organized-cyber-attacks-need-strategic-counter-defense/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary is well funded, persistent, and highly technical; therefore, it is important for security leaders to accept that there’s no one vendor or technology that can defend against supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Must Focus on People and Technologies Amid Rising Attacks<a href="https://www.infosecurity-magazine.com:443/news/cisos-people-technologies-rising/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How should CISOs respond to increased attacks in the past year?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the second time in a week, a Google Chromium zero-day released online<a href="https://securityaffairs.co/wordpress/116844/hacking/google-chromium-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the second time in a week, a Chromium zero-day remote code execution exploit code has been released on Twitter, multiple browsers impacted.
+
+
+
+A new Chromium zero-day remote code execution exploit has been released on Twitter this week, kile the previous...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victorian government earmarks AU$30m to lift hospital cyber capabilities<a href="https://www.zdnet.com/article/victorian-government-earmarks-au30m-to-lift-hospital-cyber-capabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Victorian government plans to invest a total of AU$30 million to upgrade and modernize the IT infrastructure of 28 of the state's hospitals and health services in a bid to guard against further cyber-attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NBA's Houston Rockets probing cyber attack, working closely with FBI<a href="https://www.reuters.com/article/us-basketball-nba-houston-rockets-cyber/nbas-houston-rockets-probing-cyber-attack-working-closely-with-fbi-idUSKBN2C201Q?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Houston Rockets are investigating a cyber attack that attempted to install ransomware on the basketball team’s internal systems, and the organization is working closely with the FBI, team officials said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Caution for Security Researchers Targeted in Attack Campaign<a href="https://www.darkreading.com/perimeter/cisa-urges-caution-for-security-researchers-targeted-in-attack-campaign/d/d-id/1340680?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is cautioning cybersecurity researchers to keep their guard up amid a wave of attacks targeting this particular group.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Intel leaders push for breach notification law | Coinbase goes public<a href="https://thehill.com//policy/technology/overnights/548313-hillicon-valley-intel-leaders-push-for-breach-notification-law"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key U.S. intelligence leaders on Wednesday called on Congress to pass breach notification laws in the wake of major cybersecurity incidents. Meanwhile, Ireland’s privacy agency launched an investigation into a Facebook data leak, and two leading House Republicans raised concerns about new Chinese tech companies posing a threat to national security. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The DoJ’s Microsoft mitigation: Real results, with a few hypothetical concerns<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/the-dojs-microsoft-mitigation-real-results-with-a-few-hypothetical-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move is being hailed as a landmark use of a new authority. But some in the cybersecurity community point to a lack of any clear standard for when and how government may hack private systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Bug Allows Attackers to Brick Kubernetes Clusters<a href="https://threatpost.com/security-bug-brick-kubernetes-clusters/165413/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is triggered when a cloud container pulls a malicious image from a registry.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Republicans raise concerns about new Chinese tech companies<a href="https://thehill.com//policy/cybersecurity/548307-house-republicans-raise-concerns-about-new-chinese-tech-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two leading Republicans on the House Homeland Security Committee on Wednesday raised concerns about security and privacy threats posed by emerging Chinese tech companies, specifically zeroing in on electronics group Xiaomi.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp flaws could have allowed hackers to remotely hack mobile devices<a href="https://securityaffairs.co/wordpress/116833/hacking/whatsapp-flaws-remote-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp addressed two security vulnerabilities in its app for Android that could have been exploited to remotely hack the victim's device.
+
+
+
+WhatsApp recently addressed two security vulnerabilities in its app for Android that could have been exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Led by cloud, cyber funding dollars flowed like water in 2020<a href="https://www.scmagazine.com/home/security-news/cloud-security/led-by-cloud-cyber-funding-dollars-flowed-like-water-in-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2020 brought with it record levels of investment, with a combined $7.8 billion poured into cybersecurity startups. 2021 is shaping up even better, with some predicting $15 billion in investments by year end.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intelligence leaders push for mandatory breach notification law<a href="https://thehill.com//policy/cybersecurity/548289-officials-push-for-breach-notification-deterrence-measures-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the nation’s intelligence agencies on Wednesday joined bipartisan members of the Senate Intelligence Committee in pushing for measures to encourage the private sector to report breaches and to deter malicious hackers from attacking critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No more snack attacks? Mondelez hopes new security training will prevent the next ‘NotPetya’<a href="https://www.scmagazine.com/security-training-certification-user-awareness/no-more-snack-attacks-mondelez-hopes-new-security-training-program-can-help-prevent-the-next-notpetya/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sure, APT attacks can be destructive and even deadly, but denying the world their Oreo cookies is just plain cruel. Indeed, Nikolay Betov, information security officer at Mondelez, told SC media that the event   “changed everything.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Creates Cheese Shortages in Netherlands<a href="https://threatpost.com/ransomware-cheese-shortages-netherlands/165407/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not a Gouda situation: An attack on a logistics firm is suspected to be related to Microsoft Exchange server flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey School Districts Investigate Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/new-jersey-schools-cyber-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Somerset County school districts suspect they were targeted by cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP fixes critical bugs in Business Client, Commerce, and NetWeaver<a href="https://www.bleepingcomputer.com/news/security/sap-fixes-critical-bugs-in-business-client-commerce-and-netweaver/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP's security updates for this month address multiple critical vulnerabilities. The most serious of them, rated with the highest severity score, affects the company's Business Client product.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aviation Industry Lacks Cohesive Cybersecurity Approach<a href="https://www.infosecurity-magazine.com:443/news/aviation-industry-wef-study/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+World Economic Forum study calls for unified cybersecurity strategy in aviation sector
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second Google Chrome zero-day exploit dropped on twitter this week<a href="https://www.bleepingcomputer.com/news/security/second-google-chrome-zero-day-exploit-dropped-on-twitter-this-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A second Chromium zero-day remote code execution exploit has been released on Twitter this week that affects current versions of Google Chrome, Microsoft Edge, and likely other Chromium-based browsers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-facial-recognition-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American sues Detroit officials over wrongful arrest linked to facial recognition technology
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intelligence leaders warn of threats from China, domestic terrorism<a href="https://thehill.com//policy/national-security/548230-intelligence-leaders-warn-of-threats-from-china-domestic-terrorism"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence leaders warned Wednesday of growing threats from China and domestic terrorism fueled by misinformation on social media at a hearing on worldwide threats to the nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Exchange Server Vulnerabilities let Attackers Execute Remote Code<a href="https://cybersecuritynews.com/exchange-server-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Microsoft has released security updates for vulnerabilities found in the below versions of Exchange servers on the 13th April 2021 which is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Digital exhaust’ may be the solution for tracking consumer IoT devices on networks<a href="https://www.scmagazine.com/home/security-news/digital-exhaust-may-be-the-solution-for-tracking-consumer-iot-devices-on-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A technique known as radio frequency (RF) fingerprinting could be leveraged to give unique ID to the billions of rogue IoT devices lurking within home and business networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vivaldi, Brave, DuckDuckGo reject Google's FLoC ad tracking tech<a href="https://www.bleepingcomputer.com/news/security/vivaldi-brave-duckduckgo-reject-googles-floc-ad-tracking-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Makers of Vivaldi and Brave web browsers have rejected Google's new privacy-preserving proposal called FLoC, which is meant to replace third-party tracking cookies across websites on browsers, including Chrome.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit takes bug bounty program public<a href="https://www.scmagazine.com/home/security-news/reddit-takes-bug-bounty-program-public/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reddit announced Wednesday that it is taking its bug bounty program public. The popular social news site and community forum platform has run a private program with HackerOne for the past three years, but hopes that by going public, it can more quickly address vulnerabilities, improve its defenses and keep the platform secure. “We’ve seen…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wray: FBI opens investigation into China every 10 hours<a href="https://thehill.com//policy/national-security/548177-wray-fbi-opens-investigation-into-china-every-10-hour"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray told Senate Intelligence Committee members on Wednesday that the agency is opening an investigation into various Chinese government actions every 10 hours.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

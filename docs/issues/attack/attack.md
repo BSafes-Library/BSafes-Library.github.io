@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NBA's Houston Rockets probing cyber attack, working closely with FBI<a href="https://www.reuters.com/article/us-basketball-nba-houston-rockets-cyber/nbas-houston-rockets-probing-cyber-attack-working-closely-with-fbi-idUSKBN2C201Q?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Houston Rockets are investigating a cyber attack that attempted to install ransomware on the basketball team’s internal systems, and the organization is working closely with the FBI, team officials said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey School Districts Investigate Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/new-jersey-schools-cyber-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Somerset County school districts suspect they were targeted by cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victorian government earmarks AU$30m to lift hospital cyber capabilities<a href="https://www.zdnet.com/article/victorian-government-earmarks-au30m-to-lift-hospital-cyber-capabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Victorian government plans to invest a total of AU$30 million to upgrade and modernize the IT infrastructure of 28 of the state's hospitals and health services in a bid to guard against further cyber-attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Caution for Security Researchers Targeted in Attack Campaign<a href="https://www.darkreading.com/perimeter/cisa-urges-caution-for-security-researchers-targeted-in-attack-campaign/d/d-id/1340680?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is cautioning cybersecurity researchers to keep their guard up amid a wave of attacks targeting this particular group.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Republicans raise concerns about new Chinese tech companies<a href="https://thehill.com//policy/cybersecurity/548307-house-republicans-raise-concerns-about-new-chinese-tech-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two leading Republicans on the House Homeland Security Committee on Wednesday raised concerns about security and privacy threats posed by emerging Chinese tech companies, specifically zeroing in on electronics group Xiaomi.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wray: FBI opens investigation into China every 10 hours<a href="https://thehill.com//policy/national-security/548177-wray-fbi-opens-investigation-into-china-every-10-hour"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray told Senate Intelligence Committee members on Wednesday that the agency is opening an investigation into various Chinese government actions every 10 hours.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

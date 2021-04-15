@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+April 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Digital exhaust’ may be the solution for tracking consumer IoT devices on networks<a href="https://www.scmagazine.com/home/security-news/digital-exhaust-may-be-the-solution-for-tracking-consumer-iot-devices-on-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A technique known as radio frequency (RF) fingerprinting could be leveraged to give unique ID to the billions of rogue IoT devices lurking within home and business networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
