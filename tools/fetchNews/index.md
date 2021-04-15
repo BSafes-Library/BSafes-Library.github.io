@@ -37,6 +37,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Casino Gets Hacked Through a Fish-Tank Thermometer<a href="https://www.entrepreneur.com/article/368943?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That was the lesson learned a few years ago from the operators of a North American casino. According to a 2018 Business Insider report, cybersecurity executive Nicole Eagan of security firm Darktrace told the story while addressing a conference.
+</details>
+<div style="text-align: right" markdown="1">
+Entrepreneur
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//homenews/administration/548367-biden-administration-unveils-sweeping-sanctions-on-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Thursday announced sanctions against Russia for its involvement in a recent major cyber espionage operation against the U.S., foreign influence operations around U.S. elections, and other concerns.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target ProxyLogon Exploit to Install Cryptojacker<a href="https://threatpost.com/attackers-target-proxylogon-cryptojacker/165418/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted compromised Exchange servers to host malicious Monero cryptominer in an “unusual attack,” Sophos researchers discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Releases Several Advisories for 'NAME:WRECK' Vulnerabilities<a href="https://www.securityweek.com/siemens-releases-several-advisories-namewreck-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens released a total of 14 new advisories on Tuesday, including five describing the impact and remediations for the NAME:WRECK vulnerabilities disclosed on the same day.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Hertfordshire hit by cyberattack<a href="https://www.itsecurityguru.org/2021/04/15/university-of-hertfordshire-hit-by-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Hertfordshire was targetted by a cyberattack which resulted in the universities entire IT network being taken down, as well as all access to cloud-based services being blocked.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cado Security locks in $10M for its cloud-native digital forensics platform<a href="https://techcrunch.com/2021/04/15/cado-security-locks-in-10m-for-its-cloud-native-digital-forensics-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding for London-based Cado is being led by Blossom Capital, with existing investors Ten Eleven Ventures also participating, among others. As another signal of demand, this Series A is coming only six months after Cado raised its seed round.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical Vulnerability Patched in SAP Commerce<a href="https://www.securityweek.com/another-critical-vulnerability-patched-sap-commerce?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP announced the release of 14 new security notes and 5 updates to previously released notes. The only new Hot News note released with this round of patches addresses a critical vulnerability in SAP Commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Thousands of Spam Emails Flood LinkedIn Users’ Inboxes<a href="https://hotforsecurity.bitdefender.com/blog/linkedin-data-leak-hundreds-of-thousands-of-spam-emails-flood-users-inboxes-25655.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of the employment-oriented online service are being targeted with an assortment of phishing emails and scams in an attempt to hijack their LinkedIn accounts or promote fake LinkedIn email leads.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 For the second time in a week, a Google Chromium zero-day released online<a href="https://securityaffairs.co/wordpress/116844/hacking/google-chromium-zero.html?&web_view=true"> Full Text</a>
 </p>
 <details>
