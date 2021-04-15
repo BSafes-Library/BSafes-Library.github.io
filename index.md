@@ -37,6 +37,138 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+For the second time in a week, a Google Chromium zero-day released online<a href="https://securityaffairs.co/wordpress/116844/hacking/google-chromium-zero.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Chromium zero-day remote code execution exploit has been released on Twitter this week, kile the previous one that affects current versions of Google Chrome, Microsoft Edge, and likely other Chromium-based browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Republican lawmakers reintroduce bill to ban TikTok on federal devices<a href="https://thehill.com//policy/cybersecurity/548347-republican-lawmakers-reintroduce-bill-to-ban-tiktok-on-federal-devices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Josh Hawley (R-Mo.) led a group of Senate Republicans on Thursday in reintroducing legislation to ban the use of social media app TikTok on federal government devices, citing potential national security concerns. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1-Click Hack Found in Popular Desktop Apps — Check If You're Using Them<a href="https://thehackernews.com/2021/04/1-click-hack-found-in-popular-desktop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple one-click vulnerabilities have been discovered across a variety of popular software applications, allowing an attacker to potentially execute arbitrary code on target systems.  The issues were discovered by Positive Security researchers Fabian Bräunlein and Lukas Euler and affect apps like Telegram, Nextcloud, VLC, LibreOffice, OpenOffice, Bitcoin/Dogecoin Wallets, Wireshark, and Mumble.  "Desktop applications which pass user supplied URLs to be opened by the operating system are frequently vulnerable to code execution with user interaction," the researchers  said . "Code execution can be achieved either when a URL pointing to a malicious executable (.desktop, .jar, .exe, …) hosted on an internet accessible file share (nfs, webdav, smb, …) is opened, or an additional vulnerability in the opened application's URI handler is exploited."   Put differently; the flaws stem from an insufficient validation of URL input that, when opened with the help of the u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+April 2021 Security Patch Day fixes a critical flaw in SAP Commerce<a href="https://securityaffairs.co/wordpress/116854/security/sap-commerce-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+April 2021 Security Patch Day includes 14 new security notes and 5 updates to previously released notes, one of them fixes a critical issue in SAP Commerce.
+
+
+
+April 2021 Security Patch Day includes 14 new security notes and 5 updates to previously released...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Months after hack, US poised to announce sanctions on Russia<a href="https://apnews.com/article/donald-trump-us-news-elections-campaigns-vladimir-putin-6a8a54c7932ee8cbe51b0ce505121995?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is preparing to announce sanctions and the expulsion of diplomats from the U.S. in response to a massive Russian hacking campaign that breached vital federal agencies, as well as for election interference.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Variants: More Sophisticated, Prevalent and Evolving in 2021<a href="https://thehackernews.com/2021/04/malware-variants-more-sophisticated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious program intended to cause havoc with IT systems—malware—is becoming more and more sophisticated every year. The year 2021 is no exception, as recent trends indicate that several  new variants of malware  are making their way into the world of cybersecurity.  While smarter security solutions are popping up, modern malware still eludes and challenges cybersecurity experts.   The evolution of malware has infected everything from personal computers to industrial units since the 70s. Cybersecurity firm  FireEye's network was attacked  in 2020 by hackers with the most sophisticated form of hacking i.e., supply chain.  This hacking team demonstrated world-class capabilities to disregard security tools and forensic examination, proving that anybody can be hacked. Also, the year 2021 is already witnessing a bump in  COVID-19 vaccine-related phishing attacks .   Let's take a look at the trends that forecast an increase in malware attacks:  COVID-19 and Work-from-Home (WFH)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Supply-Chain Giant Bizongo Exposed 643GB of Sensitive Data<a href="https://www.hackread.com/india-bizongo-supply-chain-exposed-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bizongo, an online packaging marketplace has suffered a data leak in which the company left highly sensitive customer information unsecured and potentially exposed to hackers and other malicious individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ParkMobile Breach Leaves 21M User Data Exposed<a href="https://heimdalsecurity.com/blog/parkmobile-breach-data-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The account information of 21 million customers of ParkMobile, a very popular mobile parking app from North America, is now being sold online due to a data breach. The information includes a whole range of sensitive details including phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Europe's Data Protection Guardians Green Light EU-UK Data Flows<a href="https://www.infosecurity-magazine.com:443/news/european-data-protection-approve/"> Full Text</a>
 </p>
 <details>

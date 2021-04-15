@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Europe's Data Protection Guardians Green Light EU-UK Data Flows<a href="https://www.infosecurity-magazine.com:443/news/european-data-protection-approve/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EDPB recommends accepting Commission’s adequacy decisions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 YIKES! Cybercriminals flood the Internet with 100,00 malicious PDF documents<a href="https://thehackernews.com/2021/04/yikes-cybercriminals-flood-intrenet.html"> Full Text</a>
 </p>
 <details>
