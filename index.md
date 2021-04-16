@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mirai code re-use in Gafgyt<a href="https://securityaffairs.co/wordpress/116882/cyber-crime/gafgyt-re-uses-mirai-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs' threat research team recently detected several variants of the Linux-based botnet malware family, “Gafgyt,”some of them re-used Mirai code. 
+
+
+
+Uptycs' threat research team recently detected several variants of the Linux-based botnet malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Severe Bugs Reported in EtherNet/IP Stack for Industrial Systems<a href="https://thehackernews.com/2021/04/severe-bugs-reported-in-ethernetip.html"> Full Text</a>
 </p>
 <details>
