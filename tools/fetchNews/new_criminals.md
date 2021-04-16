@@ -11,6 +11,52 @@ nav_order: 900031
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+EtterSilent Maldoc Builder - The Hot Selling Cake in Underground Forums<a href="https://cyware.com/news/ettersilent-maldoc-builder-the-hot-selling-cake-in-underground-forums-e8aaf1fd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Intel 471, some cybercriminal groups are leveraging Ettersilent maldoc builder to bypass Windows Defender, Windows AMSI, and top email services including Gmail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber thieves move $760 million stolen in the 2016 Bitfinex heist<a href="https://securityaffairs.co/wordpress/116858/digital-id/bitfinex-funds-moved.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over $760 million worth of Bitcoin that were stolen from cryptocurrency exchange Bitfinex in 2016 were moved to new accounts.
+
+
+
+More than $760 million worth of Bitcoin, stolen from Asian cryptocurrency exchange Bitfinex in 2016, were moved on Wednesday...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber thieves move $760 million stolen in the 2016 Bitfinex heist<a href="https://securityaffairs.co/wordpress/116858/digital-id/bitfinex-funds-moved.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 2016, the Asian Bitfinex suffered a security breach that resulted in the theft of 120,000 Bitcoin, the incident had serious repercussions on the Bitcoin value that significantly dropped after the security breach (-20% decrease).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 YIKES! Cybercriminals flood the Internet with 100,00 malicious PDF documents<a href="https://thehackernews.com/2021/04/yikes-cybercriminals-flood-intrenet.html"> Full Text</a>
 </p>
 <details>

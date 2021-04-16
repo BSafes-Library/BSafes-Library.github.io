@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uni of Hertfordshire Suffers Cyber-Attack That Takes Down its Entire IT Network<a href="https://www.infosecurity-magazine.com:443/news/uni-hertfordshire-cyber-attack-it/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack has led to online classes being cancelled
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YIKES! Cybercriminals flood the Internet with 100,00 malicious PDF documents<a href="https://thehackernews.com/2021/04/yikes-cybercriminals-flood-intrenet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are resorting to search engine poisoning techniques to lure business professionals into seemingly legitimate Google sites that install a Remote Access Trojan (RAT) capable of carrying out a wide range of attacks.  The attack works by leveraging searches for business forms such as invoices, templates, questionnaires, and receipts as a stepping stone toward infiltrating the systems. Users attempting to download the alleged document templates are&nbsp; redirected , without their knowledge, to a malicious website that hosts the malware.   "Once the RAT is on the victim's computer and activated, the threat actors can send commands and upload additional malware to the infected system, such as ransomware, a credential stealer, a banking trojan, or simply use the RAT as a foothold into the victim's network," researchers from eSentire&nbsp; said &nbsp;in a write-up published on Tuesday.   The cybersecurity firm said it discovered over 100,000 unique web pages that contain pop
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

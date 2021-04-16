@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Celsius email system breach leads to phishing attack on customers<a href="https://www.bleepingcomputer.com/news/security/celsius-email-system-breach-leads-to-phishing-attack-on-customers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EtterSilent Maldoc Builder - The Hot Selling Cake in Underground Forums<a href="https://cyware.com/news/ettersilent-maldoc-builder-the-hot-selling-cake-in-underground-forums-e8aaf1fd"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//policy/technology/overnights/548548-hillicon-valley-biden-administration-sanctions-russia-for"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sanctions Russia and Expels 10 Diplomats Over SolarWinds Cyberattack<a href="https://thehackernews.com/2021/04/us-sanctions-russia-and-expels-10.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Imprisons “Sadistic” Sextortionist<a href="https://www.infosecurity-magazine.com:443/news/us-imprisons-sadistic/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sanctioning Russia for SolarWinds: What Normative Line Did Russia Cross?<a href="https://www.lawfareblog.com/sanctioning-russia-solarwinds-what-normative-line-did-russia-cross"> Full Text</a>
@@ -130,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Gov sanctions Russia and expels 10 diplomats over SolarWinds hack<a href="https://securityaffairs.co/wordpress/116866/cyber-warfare-2/us-sanctions-russia-solarwinds.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hack The Box looks to expand in America, add new functions to ‘hacking experiences’ suite<a href="https://www.scmagazine.com/home/security-news/hack-the-box-looks-to-expand-in-america-add-new-functions-to-hacking-experiences-suite/"> Full Text</a>
@@ -166,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Races to Shore Up Power Grid Against Hacks<a href="https://threatpost.com/biden-power-grid-hacks/165428/"> Full Text</a>
@@ -182,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla drops Firefox support on Amazon Fire TV<a href="https://www.bleepingcomputer.com/news/security/mozilla-drops-firefox-support-on-amazon-fire-tv/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Key Characteristics and Geographic Associations of Phishing Emails<a href="https://cyware.com/news/key-characteristics-and-geographic-associations-of-phishing-emails-79835b1b"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intelligence leaders face sharp questions during House worldwide threats hearing<a href="https://thehill.com//policy/national-security/548496-intelligence-leaders-face-sharp-questions-during-house-worldwide"> Full Text</a>
@@ -230,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sanctions Escalate US–Russia Tensions<a href="https://www.infosecurity-magazine.com:443/news/sanctions-escalate-usrussia/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber thieves move $760 million stolen in the 2016 Bitfinex heist<a href="https://securityaffairs.co/wordpress/116858/digital-id/bitfinex-funds-moved.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What to do when a bug bounty request sounds more like extortion<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/what-to-do-when-a-bug-bounty-request-sounds-more-like-extortion/"> Full Text</a>
@@ -282,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government confirms Russian SVR behind the SolarWinds hack<a href="https://www.bleepingcomputer.com/news/security/us-government-confirms-russian-svr-behind-the-solarwinds-hack/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Tale of a New Ransomware Cartel<a href="https://cyware.com/news/the-tale-of-a-new-ransomware-cartel-36cdb658"> Full Text</a>
@@ -314,7 +314,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New US sanctions further chill Biden-Putin relations<a href="https://thehill.com//policy/international/548477-biden-sanctions-further-chill-us-russia-relationship"> Full Text</a>
@@ -330,7 +330,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arrest Made Over California City Data Breach<a href="https://www.infosecurity-magazine.com:443/news/arrest-made-over-californian-city/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Should NSA monitor your networks? Director Nakasone says no, ‘I’m not seeking legal authorities’<a href="https://www.scmagazine.com/home/security-news/network-security/should-nsa-monitor-your-networks-director-nakasone-says-no-im-not-seeking-legal-authorities/"> Full Text</a>
@@ -362,7 +362,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA: Top 5 vulnerabilities actively abused by Russian govt hackers<a href="https://www.bleepingcomputer.com/news/security/nsa-top-5-vulnerabilities-actively-abused-by-russian-govt-hackers/"> Full Text</a>
@@ -378,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber thieves move $760 million stolen in the 2016 Bitfinex heist<a href="https://securityaffairs.co/wordpress/116858/digital-id/bitfinex-funds-moved.html?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uni of Hertfordshire Suffers Cyber-Attack That Takes Down its Entire IT Network<a href="https://www.infosecurity-magazine.com:443/news/uni-hertfordshire-cyber-attack-it/"> Full Text</a>
@@ -410,7 +410,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As US takes sweeping action against Russia for years of hacking, industry skeptical of impact<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/us-takes-sweeping-action-against-russia-for-years-of-hacking-and-election-interference/"> Full Text</a>
@@ -426,7 +426,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity VC Funding Hit Record in 2020 With $7.8 Billion Invested<a href="https://www.securityweek.com/cybersecurity-vc-funding-hit-record-2020-78-billion-invested?&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Actor Exploits Microsoft Exchange Server Vulnerabilities, Cortex XDR Blocks Credential Harvesting<a href="https://unit42.paloaltonetworks.com/exchange-server-credential-harvesting/?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Foreign Intelligence Service Exploiting Five Publicly Known Vulnerabilities to Compromise U.S. and Allied Networks<a href="https://www.fbi.gov/news/pressrel/press-releases/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabilities-to-compromise-us-and-allied-networks?&web_view=true"> Full Text</a>
@@ -474,7 +474,7 @@ FBI
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2021
+April 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus E-Commerce Attackers Also Targeted Cryptocurrency<a href="https://www.govinfosecurity.com/lazarus-e-commerce-attackers-also-targeted-cryptocurrency-a-16410?&web_view=true"> Full Text</a>

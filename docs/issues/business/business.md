@@ -11,6 +11,48 @@ nav_order: 900027
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hack The Box looks to expand in America, add new functions to ‘hacking experiences’ suite<a href="https://www.scmagazine.com/home/security-news/hack-the-box-looks-to-expand-in-america-add-new-functions-to-hacking-experiences-suite/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Hack The Box has 90 employees across the globe and the U.S. team makes up 10% of the global workforce – a number the company intends to double in the U.S. by end-of-year. While the location for the U.S. office has not been confirmed, the company aims for the office to create a strong base for its U.S. business operations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla drops Firefox support on Amazon Fire TV<a href="https://www.bleepingcomputer.com/news/security/mozilla-drops-firefox-support-on-amazon-fire-tv/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month, Amazon has announced plans to phase out support for the Mozilla Firefox web browser app on its Fire TV product line. The company has decided to no longer support the Mozilla Firefox browser in a bid to promote its Amazon Silk web browser app to customers, effective at the end of this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity VC Funding Hit Record in 2020 With $7.8 Billion Invested<a href="https://www.securityweek.com/cybersecurity-vc-funding-hit-record-2020-78-billion-invested?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the coronavirus pandemic, 2020 was a record year in terms of venture capital funding for cybersecurity companies, with more than $7.8 billion invested, according to a new report from business information platform Crunchbase.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cado Security locks in $10M for its cloud-native digital forensics platform<a href="https://techcrunch.com/2021/04/15/cado-security-locks-in-10m-for-its-cloud-native-digital-forensics-platform/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

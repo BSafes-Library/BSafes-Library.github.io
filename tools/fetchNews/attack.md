@@ -11,6 +11,34 @@ nav_order: 900015
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Casino Gets Hacked Through a Fish-Tank Thermometer<a href="https://www.entrepreneur.com/article/368943?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That was the lesson learned a few years ago from the operators of a North American casino. According to a 2018 Business Insider report, cybersecurity executive Nicole Eagan of security firm Darktrace told the story while addressing a conference.
+</details>
+<div style="text-align: right" markdown="1">
+Entrepreneur
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Hertfordshire hit by cyberattack<a href="https://www.itsecurityguru.org/2021/04/15/university-of-hertfordshire-hit-by-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Hertfordshire was targetted by a cyberattack which resulted in the universities entire IT network being taken down, as well as all access to cloud-based services being blocked.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NBA's Houston Rockets probing cyber attack, working closely with FBI<a href="https://www.reuters.com/article/us-basketball-nba-houston-rockets-cyber/nbas-houston-rockets-probing-cyber-attack-working-closely-with-fbi-idUSKBN2C201Q?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

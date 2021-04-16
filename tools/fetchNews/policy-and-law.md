@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Republican lawmakers reintroduce bill to ban TikTok on federal devices<a href="https://thehill.com//policy/cybersecurity/548347-republican-lawmakers-reintroduce-bill-to-ban-tiktok-on-federal-devices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Josh Hawley (R-Mo.) led a group of Senate Republicans on Thursday in reintroducing legislation to ban the use of social media app TikTok on federal government devices, citing potential national security concerns.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe's Data Protection Guardians Green Light EU-UK Data Flows<a href="https://www.infosecurity-magazine.com:443/news/european-data-protection-approve/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EDPB recommends accepting Commission’s adequacy decisions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Gets 10 Years for Multimillion-Dollar Medicare Fraud Scheme<a href="https://www.infosecurity-magazine.com:443/news/man-10-years-multimilliondollar/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Complex conspiracy involved doctors, labs and telemarketing firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

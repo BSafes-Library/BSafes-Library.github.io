@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Supply-Chain Giant Bizongo Exposed 643GB of Sensitive Data<a href="https://www.hackread.com/india-bizongo-supply-chain-exposed-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bizongo, an online packaging marketplace has suffered a data leak in which the company left highly sensitive customer information unsecured and potentially exposed to hackers and other malicious individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ParkMobile Breach Leaves 21M User Data Exposed<a href="https://heimdalsecurity.com/blog/parkmobile-breach-data-exposed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The account information of 21 million customers of ParkMobile, a very popular mobile parking app from North America, is now being sold online due to a data breach. The information includes a whole range of sensitive details including phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Should NSA monitor your networks? Director Nakasone says no, ‘I’m not seeking legal authorities’<a href="https://www.scmagazine.com/home/security-news/network-security/should-nsa-monitor-your-networks-director-nakasone-says-no-im-not-seeking-legal-authorities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a pair of hearings on Wednesday and Thursday, the National Security Agency and U.S. Cyber Command director again pushed back against a brewing Senate plan for the NSA to monitor domestic networks for foreign hackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

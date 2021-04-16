@@ -11,6 +11,20 @@ nav_order: 900080
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lazarus E-Commerce Attackers Also Targeted Cryptocurrency<a href="https://www.govinfosecurity.com/lazarus-e-commerce-attackers-also-targeted-cryptocurrency-a-16410?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with apparent ties to North Korea that hit e-commerce shops in 2019 and 2020 to steal payment card data also tested functionality for stealing cryptocurrency, according to the cybersecurity firm Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Attackers Target ProxyLogon Exploit to Install Cryptojacker<a href="https://threatpost.com/attackers-target-proxylogon-cryptojacker/165418/"> Full Text</a>
 </p>
 <details>

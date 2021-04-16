@@ -11,6 +11,34 @@ nav_order: 900163
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Imprisons “Sadistic” Sextortionist<a href="https://www.infosecurity-magazine.com:443/news/us-imprisons-sadistic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberstalker who threatened to kill teenage victim if they didn’t have sex with him gets custodial sentence
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arrest Made Over California City Data Breach<a href="https://www.infosecurity-magazine.com:443/news/arrest-made-over-californian-city/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One Huntington Park financial official arrested and others placed on leave following data breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Republican lawmakers reintroduce bill to ban TikTok on federal devices<a href="https://thehill.com//policy/cybersecurity/548347-republican-lawmakers-reintroduce-bill-to-ban-tiktok-on-federal-devices"> Full Text</a>
 </p>
 <details>
