@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+2021 and Emerging Cybersecurity Threats<a href="https://www.hackread.com/2021-emerging-cyber-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of coming to a standstill, if anything, 2020 saw an increase in cybersecurity threats as criminals found new ways to take advantage of vulnerabilities and infiltrate business systems.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Bank Groups Object to Proposed Breach Notification Regulation<a href="https://www.govinfosecurity.com/bank-groups-object-to-proposed-breach-notification-regulation-a-16412?&web_view=true"> Full Text</a>
 </p>
 <details>
