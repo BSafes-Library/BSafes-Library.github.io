@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Consumers worry about the cybersecurity of connected vehicles<a href="https://www.helpnetsecurity.com/2021/04/16/cybersecurity-connected-vehicles/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HSB poll by Zogby Analytics found that 37 percent of consumers who responded were somewhat or very concerned about the cyber security and safety of connected and automated vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mirai code re-use in Gafgyt<a href="https://securityaffairs.co/wordpress/116882/cyber-crime/gafgyt-re-uses-mirai-code.html"> Full Text</a>
 </p>
 <details>
