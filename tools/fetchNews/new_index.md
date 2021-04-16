@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Bank Groups Object to Proposed Breach Notification Regulation<a href="https://www.govinfosecurity.com/bank-groups-object-to-proposed-breach-notification-regulation-a-16412?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Bankers Association and three other groups have voiced objections to provisions in a cyber incident notification regulation for banks proposed by three federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Delay Publishing Bug Details for 30 Days<a href="https://www.infosecurity-magazine.com:443/news/google-to-delay-publishing-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New strategy designed to mitigate opportunistic attacks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Used 100,000 Google Sites to Install SolarMarket RAT on Victims Device<a href="https://cybersecuritynews.com/google-sites-to-install-solarmarket-rat/"> Full Text</a>
 </p>
 <details>
