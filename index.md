@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus BTC Changer. Back in action with JS sniffers redesigned to steal crypto<a href="https://securityaffairs.co/wordpress/116874/apt/lazarus-btc-changer-js-sniffers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB observed the North Korea-linked Lazarus APT group stealing cryptocurrency using a never-before-seen tool.
+
+
+
+In the last five years, JavaScript sniffers have grown into one of the most dangerous threats for e-commerce businesses. The simple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
