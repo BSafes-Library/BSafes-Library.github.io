@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Update: The COVID-19 Vaccine's Global Cold Chain Continues to Be a Target<a href="https://securityintelligence.com/posts/covid-19-vaccine-global-cold-chain-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The expanded scope of precision targeting includes key organizations likely underpinning the transport, warehousing, storage, and ultimate distribution of vaccines, according to IBM Security X-Force.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Actors Target Slack and BaseCamp Users<a href="https://www.infosecurity-magazine.com:443/news/suspected-trickbot-target-slack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customized scam messages designed to deploy malware loader
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 HackBoss malware poses as hacker tools on Telegram to steal digital coins<a href="https://www.bleepingcomputer.com/news/security/hackboss-malware-poses-as-hacker-tools-on-telegram-to-steal-digital-coins/"> Full Text</a>
 </p>
 <details>

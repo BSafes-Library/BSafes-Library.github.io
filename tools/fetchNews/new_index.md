@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Severe Bugs Reported in EtherNet/IP Stack for Industrial Systems<a href="https://thehackernews.com/2021/04/severe-bugs-reported-in-ethernetip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Thursday issued an  advisory  warning of multiple vulnerabilities in the OpENer  EtherNet/IP  stack that could expose industrial systems to denial-of-service (DoS) attacks, data leaks, and remote code execution.  All OpENer commits and versions prior to February 10, 2021, are affected, although there are no known public exploits that specifically target these vulnerabilities.  The four security flaws were discovered and reported to CISA by researchers Tal Keren and Sharon Brizinov from operational technology security company Claroty. Additionally, a fifth security issue identified by Claroty was previously disclosed by Cisco Talos ( CVE-2020-13556 ) on December 2, 2020.   "An attacker would only need to send crafted ENIP/CIP packets to the device in order to exploit these vulnerabilities," the researchers  said .  CVE-2020-13556 concerns an out-of-bounds write vulnerability in the Ethernet/IP server that could
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Update: The COVID-19 Vaccine's Global Cold Chain Continues to Be a Target<a href="https://securityintelligence.com/posts/covid-19-vaccine-global-cold-chain-security/?&web_view=true"> Full Text</a>
 </p>
 <details>
