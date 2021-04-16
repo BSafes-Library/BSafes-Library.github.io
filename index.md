@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+HackBoss malware poses as hacker tools on Telegram to steal digital coins<a href="https://www.bleepingcomputer.com/news/security/hackboss-malware-poses-as-hacker-tools-on-telegram-to-steal-digital-coins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The authors of a cryptocurrency-stealing malware are distributing it over Telegram to aspiring cybercriminals under the guise of free malicious applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lazarus BTC Changer. Back in action with JS sniffers redesigned to steal crypto<a href="https://securityaffairs.co/wordpress/116874/apt/lazarus-btc-changer-js-sniffers.html"> Full Text</a>
 </p>
 <details>
