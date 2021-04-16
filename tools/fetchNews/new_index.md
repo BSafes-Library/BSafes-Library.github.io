@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Used 100,000 Google Sites to Install SolarMarket RAT on Victims Device<a href="https://cybersecuritynews.com/google-sites-to-install-solarmarket-rat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Several professionals who had searched the internet for professional forms such as invoices, questionnaires, and receipts were lured into downloading a RAT...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus E-Commerce Attackers Also Targeted Cryptocurrency<a href="https://www.careersinfosecurity.com/lazarus-e-commerce-attackers-also-targeted-cryptocurrency-a-16410?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with apparent ties to North Korea that hit e-commerce shops in 2019 and 2020 to steal payment card data also tested functionality for stealing cryptocurrency, according to Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Careers Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Consumers worry about the cybersecurity of connected vehicles<a href="https://www.helpnetsecurity.com/2021/04/16/cybersecurity-connected-vehicles/?&web_view=true"> Full Text</a>
 </p>
 <details>
