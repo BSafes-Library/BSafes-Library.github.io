@@ -34,6 +34,462 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Celsius email system breach leads to phishing attack on customers<a href="https://www.bleepingcomputer.com/news/security/celsius-email-system-breach-leads-to-phishing-attack-on-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency rewards platform Celsius Network has disclosed a security breach exposing customer information that led to a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EtterSilent Maldoc Builder - The Hot Selling Cake in Underground Forums<a href="https://cyware.com/news/ettersilent-maldoc-builder-the-hot-selling-cake-in-underground-forums-e8aaf1fd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Intel 471, some cybercriminal groups are leveraging Ettersilent maldoc builder to bypass Windows Defender, Windows AMSI, and top email services including Gmail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//policy/technology/overnights/548548-hillicon-valley-biden-administration-sanctions-russia-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Thursday levied sweeping sanctions against Russia in retaliation for its involvement in the SolarWinds hack and interfering in U.S. elections, which lawmakers hailed as a positive step, but will likely serve to increase tensions between the two nations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Russia and Expels 10 Diplomats Over SolarWinds Cyberattack<a href="https://thehackernews.com/2021/04/us-sanctions-russia-and-expels-10.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and U.K. on Thursday formally attributed the supply chain attack of IT infrastructure management company SolarWinds with "high confidence" to government operatives working for Russia's Foreign Intelligence Service (SVR).  "Russia's pattern of malign behaviour around the world – whether in cyberspace, in election interference or in the aggressive operations of their intelligence services – demonstrates that Russia remains the most acute threat to the U.K.'s national and collective security," the U.K. government  said  in a statement.   To that effect, the U.S. Department of the Treasury has imposed sweeping sanctions against Russia for "undermining the conduct of free and fair elections and democratic institutions" in the U.S. and for its role in facilitating the sprawling SolarWinds hack, while also barring six technology companies in the country that provide support to the cyber program run by Russian Intelligence Services.   The com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Imprisons “Sadistic” Sextortionist<a href="https://www.infosecurity-magazine.com:443/news/us-imprisons-sadistic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberstalker who threatened to kill teenage victim if they didn’t have sex with him gets custodial sentence
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sanctioning Russia for SolarWinds: What Normative Line Did Russia Cross?<a href="https://www.lawfareblog.com/sanctioning-russia-solarwinds-what-normative-line-did-russia-cross"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States has just sanctioned various Russian entities in express response to the SolarWinds Orion exploit campaign. But what normative line, if any, is the U.S. saying that Russia crossed?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov sanctions Russia and expels 10 diplomats over SolarWinds hack<a href="https://securityaffairs.co/wordpress/116866/cyber-warfare-2/us-sanctions-russia-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and UK attributed with "high confidence" the recently disclosed supply chain attack on SolarWinds to Russia's Foreign Intelligence Service (SVR).
+
+
+
+The U.S. and U.K. attributed with "high confidence" the supply chain attack on SolarWinds to operatives...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack The Box looks to expand in America, add new functions to ‘hacking experiences’ suite<a href="https://www.scmagazine.com/home/security-news/hack-the-box-looks-to-expand-in-america-add-new-functions-to-hacking-experiences-suite/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Hack The Box has 90 employees across the globe and the U.S. team makes up 10% of the global workforce – a number the company intends to double in the U.S. by end-of-year. While the location for the U.S. office has not been confirmed, the company aims for the office to create a strong base for its U.S. business operations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Races to Shore Up Power Grid Against Hacks<a href="https://threatpost.com/biden-power-grid-hacks/165428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 100-day race to boost cybersecurity will rely on incentives rather than regulation, the White House said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla drops Firefox support on Amazon Fire TV<a href="https://www.bleepingcomputer.com/news/security/mozilla-drops-firefox-support-on-amazon-fire-tv/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month, Amazon has announced plans to phase out support for the Mozilla Firefox web browser app on its Fire TV product line. The company has decided to no longer support the Mozilla Firefox browser in a bid to promote its Amazon Silk web browser app to customers, effective at the end of this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Characteristics and Geographic Associations of Phishing Emails<a href="https://cyware.com/news/key-characteristics-and-geographic-associations-of-phishing-emails-79835b1b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Barracuda and Columbia University revealed that the majority of phishing emails originate from countries in Eastern Europe, Central America, the Middle East, and Africa.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intelligence leaders face sharp questions during House worldwide threats hearing<a href="https://thehill.com//policy/national-security/548496-intelligence-leaders-face-sharp-questions-during-house-worldwide"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation's top intelligence leaders faced sharper political questions during a House hearing on global security threats, with lawmakers as focused on rehashing issues from the Trump era as future threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sanctions Escalate US–Russia Tensions<a href="https://www.infosecurity-magazine.com:443/news/sanctions-escalate-usrussia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia hints at confrontation after being sanctioned by US for hacking and election interference
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber thieves move $760 million stolen in the 2016 Bitfinex heist<a href="https://securityaffairs.co/wordpress/116858/digital-id/bitfinex-funds-moved.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over $760 million worth of Bitcoin that were stolen from cryptocurrency exchange Bitfinex in 2016 were moved to new accounts.
+
+
+
+More than $760 million worth of Bitcoin, stolen from Asian cryptocurrency exchange Bitfinex in 2016, were moved on Wednesday...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What to do when a bug bounty request sounds more like extortion<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/what-to-do-when-a-bug-bounty-request-sounds-more-like-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts advise? Try to force the gray hat researcher into a prisoner’s dilemma.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government confirms Russian SVR behind the SolarWinds hack<a href="https://www.bleepingcomputer.com/news/security/us-government-confirms-russian-svr-behind-the-solarwinds-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government is formally accusing the Russian government of the SolarWinds supply-chain attack that gave hackers access to the network of multiple U.S. agencies and private tech sector companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Tale of a New Ransomware Cartel<a href="https://cyware.com/news/the-tale-of-a-new-ransomware-cartel-36cdb658"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though it's normal for victims to remain unaware of how their stolen data is being put to use by cybercriminals, there's are gangs in ransomware cartels who have made millions of dollars exploiting stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New US sanctions further chill Biden-Putin relations<a href="https://thehill.com//policy/international/548477-biden-sanctions-further-chill-us-russia-relationship"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and Russia entered a new phase of heightened tensions Thursday after President Biden announced punishing sanctions over cyberattacks, election interference and threats against U.S. soldiers in Afghanistan.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arrest Made Over California City Data Breach<a href="https://www.infosecurity-magazine.com:443/news/arrest-made-over-californian-city/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One Huntington Park financial official arrested and others placed on leave following data breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Should NSA monitor your networks? Director Nakasone says no, ‘I’m not seeking legal authorities’<a href="https://www.scmagazine.com/home/security-news/network-security/should-nsa-monitor-your-networks-director-nakasone-says-no-im-not-seeking-legal-authorities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a pair of hearings on Wednesday and Thursday, the National Security Agency and U.S. Cyber Command director again pushed back against a brewing Senate plan for the NSA to monitor domestic networks for foreign hackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA: Top 5 vulnerabilities actively abused by Russian govt hackers<a href="https://www.bleepingcomputer.com/news/security/nsa-top-5-vulnerabilities-actively-abused-by-russian-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint advisory from the U.S. National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal Bureau of Investigation (FBI) warn that the Russian Foreign Intelligence Service (SVR) is exploiting five vulnerabilities in attacks against U.S. organizations and interests.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber thieves move $760 million stolen in the 2016 Bitfinex heist<a href="https://securityaffairs.co/wordpress/116858/digital-id/bitfinex-funds-moved.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 2016, the Asian Bitfinex suffered a security breach that resulted in the theft of 120,000 Bitcoin, the incident had serious repercussions on the Bitcoin value that significantly dropped after the security breach (-20% decrease).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uni of Hertfordshire Suffers Cyber-Attack That Takes Down its Entire IT Network<a href="https://www.infosecurity-magazine.com:443/news/uni-hertfordshire-cyber-attack-it/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack has led to online classes being cancelled
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As US takes sweeping action against Russia for years of hacking, industry skeptical of impact<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/us-takes-sweeping-action-against-russia-for-years-of-hacking-and-election-interference/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anticipated for months, the Biden administration unveiled a sweeping set of sanctions and other actions against the Russian government, as well as private individuals and a number of Russian tech and defense companies. While applauded in cyber circles, some remain skeptical that the efforts will deter Moscow’s cyberespionage efforts.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity VC Funding Hit Record in 2020 With $7.8 Billion Invested<a href="https://www.securityweek.com/cybersecurity-vc-funding-hit-record-2020-78-billion-invested?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the coronavirus pandemic, 2020 was a record year in terms of venture capital funding for cybersecurity companies, with more than $7.8 billion invested, according to a new report from business information platform Crunchbase.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actor Exploits Microsoft Exchange Server Vulnerabilities, Cortex XDR Blocks Credential Harvesting<a href="https://unit42.paloaltonetworks.com/exchange-server-credential-harvesting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six days after installing the webshell, the actor used the installed webshell to run PowerShell commands to gather information from the local server and the Active Directory and stole credentials from the compromised Exchange server.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Foreign Intelligence Service Exploiting Five Publicly Known Vulnerabilities to Compromise U.S. and Allied Networks<a href="https://www.fbi.gov/news/pressrel/press-releases/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabilities-to-compromise-us-and-allied-networks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA, the CISA, and the FBI jointly released a Cybersecurity Advisory, “Russian SVR Targets U.S. and Allied Networks,” today to expose ongoing Russian Foreign Intelligence Service (SVR) exploitation of five publicly known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus E-Commerce Attackers Also Targeted Cryptocurrency<a href="https://www.govinfosecurity.com/lazarus-e-commerce-attackers-also-targeted-cryptocurrency-a-16410?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with apparent ties to North Korea that hit e-commerce shops in 2019 and 2020 to steal payment card data also tested functionality for stealing cryptocurrency, according to the cybersecurity firm Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
