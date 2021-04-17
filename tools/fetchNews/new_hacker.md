@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus E-Commerce Attackers Also Targeted Cryptocurrency<a href="https://www.careersinfosecurity.com/lazarus-e-commerce-attackers-also-targeted-cryptocurrency-a-16410?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with apparent ties to North Korea that hit e-commerce shops in 2019 and 2020 to steal payment card data also tested functionality for stealing cryptocurrency, according to Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Careers Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Actors Target Slack and BaseCamp Users<a href="https://www.infosecurity-magazine.com:443/news/suspected-trickbot-target-slack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customized scam messages designed to deploy malware loader
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,136 @@ nav_order: 900075
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Russia and Expels 10 Diplomats Over SolarWinds Cyberattack<a href="https://thehackernews.com/2021/04/us-sanctions-russia-and-expels-10.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and U.K. on Thursday formally attributed the supply chain attack of IT infrastructure management company SolarWinds with "high confidence" to government operatives working for Russia's Foreign Intelligence Service (SVR).  "Russia's pattern of malign behaviour around the world – whether in cyberspace, in election interference or in the aggressive operations of their intelligence services – demonstrates that Russia remains the most acute threat to the U.K.'s national and collective security," the U.K. government&nbsp; said &nbsp;in a statement.   To that effect, the U.S. Department of the Treasury has imposed sweeping sanctions against Russia for "undermining the conduct of free and fair elections and democratic institutions" in the U.S. and for its role in facilitating the sprawling SolarWinds hack, while also barring six technology companies in the country that provide support to the cyber program run by Russian Intelligence Services.   The com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sanctioning Russia for SolarWinds: What Normative Line Did Russia Cross?<a href="https://www.lawfareblog.com/sanctioning-russia-solarwinds-what-normative-line-did-russia-cross"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States has just sanctioned various Russian entities in express response to the SolarWinds Orion exploit campaign. But what normative line, if any, is the U.S. saying that Russia crossed?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov sanctions Russia and expels 10 diplomats over SolarWinds hack<a href="https://securityaffairs.co/wordpress/116866/cyber-warfare-2/us-sanctions-russia-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and UK attributed with "high confidence" the recently disclosed supply chain attack on SolarWinds to Russia's Foreign Intelligence Service (SVR).
+
+
+
+The U.S. and U.K. attributed with "high confidence" the supply chain attack on SolarWinds to operatives...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Races to Shore Up Power Grid Against Hacks<a href="https://threatpost.com/biden-power-grid-hacks/165428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 100-day race to boost cybersecurity will rely on incentives rather than regulation, the White House said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intelligence leaders face sharp questions during House worldwide threats hearing<a href="https://thehill.com//policy/national-security/548496-intelligence-leaders-face-sharp-questions-during-house-worldwide"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation's top intelligence leaders faced sharper political questions during a House hearing on global security threats, with lawmakers as focused on rehashing issues from the Trump era as future threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sanctions Escalate US–Russia Tensions<a href="https://www.infosecurity-magazine.com:443/news/sanctions-escalate-usrussia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia hints at confrontation after being sanctioned by US for hacking and election interference
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government confirms Russian SVR behind the SolarWinds hack<a href="https://www.bleepingcomputer.com/news/security/us-government-confirms-russian-svr-behind-the-solarwinds-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government is formally accusing the Russian government of the SolarWinds supply-chain attack that gave hackers access to the network of multiple U.S. agencies and private tech sector companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New US sanctions further chill Biden-Putin relations<a href="https://thehill.com//policy/international/548477-biden-sanctions-further-chill-us-russia-relationship"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and Russia entered a new phase of heightened tensions Thursday&nbsp;after President Biden announced punishing sanctions over cyberattacks, election interference and threats against U.S. soldiers in Afghanistan.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As US takes sweeping action against Russia for years of hacking, industry skeptical of impact<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/us-takes-sweeping-action-against-russia-for-years-of-hacking-and-election-interference/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anticipated for months, the Biden administration unveiled a sweeping set of sanctions and other actions against the Russian government, as well as private individuals and a number of Russian tech and defense companies. While applauded in cyber circles, some remain skeptical that the efforts will deter Moscow’s cyberespionage efforts.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//homenews/administration/548367-biden-administration-unveils-sweeping-sanctions-on-russia"> Full Text</a>
 </p>
 <details>

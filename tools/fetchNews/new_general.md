@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 and Emerging Cybersecurity Threats<a href="https://www.hackread.com/2021-emerging-cyber-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of coming to a standstill, if anything, 2020 saw an increase in cybersecurity threats as criminals found new ways to take advantage of vulnerabilities and infiltrate business systems.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers worry about the cybersecurity of connected vehicles<a href="https://www.helpnetsecurity.com/2021/04/16/cybersecurity-connected-vehicles/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HSB poll by Zogby Analytics found that 37 percent of consumers who responded were somewhat or very concerned about the cyber security and safety of connected and automated vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

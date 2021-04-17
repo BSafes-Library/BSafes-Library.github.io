@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2021 and Emerging Cybersecurity Threats<a href="https://www.hackread.com/2021-emerging-cyber-threats/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bank Groups Object to Proposed Breach Notification Regulation<a href="https://www.govinfosecurity.com/bank-groups-object-to-proposed-breach-notification-regulation-a-16412?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Delay Publishing Bug Details for 30 Days<a href="https://www.infosecurity-magazine.com:443/news/google-to-delay-publishing-bug/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Used 100,000 Google Sites to Install SolarMarket RAT on Victims Device<a href="https://cybersecuritynews.com/google-sites-to-install-solarmarket-rat/"> Full Text</a>
@@ -98,7 +98,7 @@ Cyber Security News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus E-Commerce Attackers Also Targeted Cryptocurrency<a href="https://www.careersinfosecurity.com/lazarus-e-commerce-attackers-also-targeted-cryptocurrency-a-16410?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Careers Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Consumers worry about the cybersecurity of connected vehicles<a href="https://www.helpnetsecurity.com/2021/04/16/cybersecurity-connected-vehicles/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai code re-use in Gafgyt<a href="https://securityaffairs.co/wordpress/116882/cyber-crime/gafgyt-re-uses-mirai-code.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe Bugs Reported in EtherNet/IP Stack for Industrial Systems<a href="https://thehackernews.com/2021/04/severe-bugs-reported-in-ethernetip.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: The COVID-19 Vaccine's Global Cold Chain Continues to Be a Target<a href="https://securityintelligence.com/posts/covid-19-vaccine-global-cold-chain-security/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot Actors Target Slack and BaseCamp Users<a href="https://www.infosecurity-magazine.com:443/news/suspected-trickbot-target-slack/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HackBoss malware poses as hacker tools on Telegram to steal digital coins<a href="https://www.bleepingcomputer.com/news/security/hackboss-malware-poses-as-hacker-tools-on-telegram-to-steal-digital-coins/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus BTC Changer. Back in action with JS sniffers redesigned to steal crypto<a href="https://securityaffairs.co/wordpress/116874/apt/lazarus-btc-changer-js-sniffers.html"> Full Text</a>

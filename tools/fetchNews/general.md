@@ -11,6 +11,20 @@ nav_order: 900072
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden administration sanctions Russia for SolarWinds hack, election interference<a href="https://thehill.com//policy/technology/overnights/548548-hillicon-valley-biden-administration-sanctions-russia-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Thursday levied sweeping sanctions against Russia in retaliation for its involvement in the SolarWinds hack and interfering in U.S. elections, which lawmakers hailed as a positive step, but will likely serve to increase tensions between the two nations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Well-funded, organized attacks require strategic counter-defense strategies<a href="https://www.cyberscoop.com/radio/well-funded-organized-cyber-attacks-need-strategic-counter-defense/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

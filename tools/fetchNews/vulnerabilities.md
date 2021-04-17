@@ -11,6 +11,62 @@ nav_order: 900220
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+What to do when a bug bounty request sounds more like extortion<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/what-to-do-when-a-bug-bounty-request-sounds-more-like-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts advise? Try to force the gray hat researcher into a prisoner’s dilemma.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA: Top 5 vulnerabilities actively abused by Russian govt hackers<a href="https://www.bleepingcomputer.com/news/security/nsa-top-5-vulnerabilities-actively-abused-by-russian-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint advisory from the U.S. National Security Agency (NSA),&nbsp;the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal Bureau of Investigation (FBI) warn&nbsp;that the Russian Foreign Intelligence Service (SVR) is exploiting five vulnerabilities in attacks against U.S. organizations and interests.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actor Exploits Microsoft Exchange Server Vulnerabilities, Cortex XDR Blocks Credential Harvesting<a href="https://unit42.paloaltonetworks.com/exchange-server-credential-harvesting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six days after installing the webshell, the actor used the installed webshell to run PowerShell commands to gather information from the local server and the Active Directory and stole credentials from the compromised Exchange server.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Foreign Intelligence Service Exploiting Five Publicly Known Vulnerabilities to Compromise U.S. and Allied Networks<a href="https://www.fbi.gov/news/pressrel/press-releases/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabilities-to-compromise-us-and-allied-networks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA, the CISA, and the FBI jointly released a Cybersecurity Advisory, “Russian SVR Targets U.S. and Allied Networks,” today to expose ongoing Russian Foreign Intelligence Service (SVR) exploitation of five publicly known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Siemens Releases Several Advisories for 'NAME:WRECK' Vulnerabilities<a href="https://www.securityweek.com/siemens-releases-several-advisories-namewreck-vulnerabilities?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

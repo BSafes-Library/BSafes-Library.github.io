@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Tale of a New Ransomware Cartel<a href="https://cyware.com/news/the-tale-of-a-new-ransomware-cartel-36cdb658"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though it's normal for victims to remain unaware of how their stolen data is being put to use by cybercriminals, there's are gangs in ransomware cartels who have made millions of dollars exploiting stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

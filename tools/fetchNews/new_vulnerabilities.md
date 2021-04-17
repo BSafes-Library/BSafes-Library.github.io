@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Delay Publishing Bug Details for 30 Days<a href="https://www.infosecurity-magazine.com:443/news/google-to-delay-publishing-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New strategy designed to mitigate opportunistic attacks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Bugs Reported in EtherNet/IP Stack for Industrial Systems<a href="https://thehackernews.com/2021/04/severe-bugs-reported-in-ethernetip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Thursday issued an&nbsp; advisory &nbsp;warning of multiple vulnerabilities in the OpENer&nbsp; EtherNet/IP &nbsp;stack that could expose industrial systems to denial-of-service (DoS) attacks, data leaks, and remote code execution.  All OpENer commits and versions prior to February 10, 2021, are affected, although there are no known public exploits that specifically target these vulnerabilities.  The four security flaws were discovered and reported to CISA by researchers Tal Keren and Sharon Brizinov from operational technology security company Claroty. Additionally, a fifth security issue identified by Claroty was previously disclosed by Cisco Talos ( CVE-2020-13556 ) on December 2, 2020.   "An attacker would only need to send crafted ENIP/CIP packets to the device in order to exploit these vulnerabilities," the researchers&nbsp; said .  CVE-2020-13556 concerns an out-of-bounds write vulnerability in the Ethernet/IP server that could
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
