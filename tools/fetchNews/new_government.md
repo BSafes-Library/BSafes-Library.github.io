@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 out of 11 EU Agencies Running SolarWinds Orion Software Were Hacked<a href="https://securityaffairs.co/wordpress/116914/hacking/solarwinds-eu-agencies-hacked.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European Commissioner for Budget and Administration Johannes Hahn confirmed the hack of some EU agencies as result of the SolarWinds supply chain attack in a response to a question filed by an EU Parliament member.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 out of 11 EU agencies running Solarwinds Orion software were hacked<a href="https://securityaffairs.co/wordpress/116914/hacking/solarwinds-eu-agencies-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds supply chain attack also impacted six European Union institutions, European Commissioner for Budget and Administration confirmed.
+
+
+
+European Commissioner for Budget and Administration Johannes Hahn confirmed the hack of some EU agencies as result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Simple Photoshop': how a Pakistani counterfeiter may have aided Russian trolls<a href="https://www.reuters.com/article/us-usa-russia-sanctions-cyber/simple-photoshop-how-a-pakistani-counterfeiter-may-have-aided-russian-trolls-idUSKBN2C32A4?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid the cascade of U.S. sanctions imposed on Russian cybersecurity companies and officials alleged to be operating on behalf of the Kremlin’s intelligence services, one company stood out: the Fresh Air Farm House in Karachi, Pakistan.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

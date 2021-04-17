@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major BGP leak disrupts thousands of networks globally<a href="https://www.bleepingcomputer.com/news/security/major-bgp-leak-disrupts-thousands-of-networks-globally/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large BGP routing leak&nbsp;that occurred last night disrupted the connectivity for thousands of major networks and websites around the world. Although the BGP routing leak occurred in Vodafone's autonomous network (AS55410) based in&nbsp;India, it has&nbsp;impacted U.S. companies, including Google, according to sources.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keyfactor to Merge with PrimeKey<a href="https://www.infosecurity-magazine.com:443/news/keyfactor-to-merge-with-primekey/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deal marks first ever merger between certificate automation and certificate authority providers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber nonprofits ask billionaire philanthropists to show them some love<a href="https://www.scmagazine.com/home/security-news/cyber-nonprofits-ask-billionaire-philanthropists-to-show-them-some-love/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber organizations are seeking funding from what they describe as the “entrepreneurs who made vast fortunes creating the very technologies that give rise to threats.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biggest Cybersecurity Funding Rounds in 2020<a href="https://thansyn.com/new-funding-rounds-for-cybersecurity-companies-in-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lifeblood of the cybersecurity industry is new investments, both in startups and established companies. 272 vendors received additional funding in 2020 based on data published by Crunchbase. The total new investment for 2020 was $10.7 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Thansyn
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

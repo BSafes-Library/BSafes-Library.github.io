@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 16th 2021 - The Houston Rockets<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-16th-2021-the-houston-rockets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been a pretty quiet week with only a few large attacks disclosed and only a few new ransomware variants released. The highest-profile attack this week is the NBA's Houston Rockets who were transparent about their ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise and Fall of Maze Cartel<a href="https://cyware.com/news/the-rise-and-fall-of-maze-cartel-53bc9108"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From being a lone warrior to becoming an influencer, the Maze group has carved its way to becoming one of the most infamous ransomware groups by establishing the first-ever cartel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the Kremlin provides a safe harbor for ransomware<a href="https://www.nbcnews.com/tech/security/kremlin-provides-safe-harbor-ransomware-rcna699?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global epidemic of digital extortion known as ransomware is crippling local governments, hospitals, school districts, and businesses by scrambling their data files until they pay up. Law enforcement has been largely powerless to stop it.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
