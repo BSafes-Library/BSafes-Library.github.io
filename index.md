@@ -34,6 +34,154 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk ransomware operation updates hacking techniques<a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-operation-updates-hacking-techniques/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent attacks from Ryuk ransomware operators show that the actors have a new preference when it comes to gaining initial access to the victim network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 out of 11 EU Agencies Running SolarWinds Orion Software Were Hacked<a href="https://securityaffairs.co/wordpress/116914/hacking/solarwinds-eu-agencies-hacked.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European Commissioner for Budget and Administration Johannes Hahn confirmed the hack of some EU agencies as result of the SolarWinds supply chain attack in a response to a question filed by an EU Parliament member.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SysAdmin of Billion-Dollar Hacking Group Gets 10-Year Sentence<a href="https://thehackernews.com/2021/04/sysadmin-of-billion-dollar-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-level manager and systems administrator associated with the FIN7 threat actor  has been sentenced to 10 years in prison, the U.S. Department of Justice announced Friday.  Fedir Hladyr , a 35-year-old Ukrainian national, is said to have played a crucial role in a criminal scheme that compromised tens of millions of debit and credit cards, in addition to aggregating the stolen information, supervising other members of the group, and maintaining the server infrastructure that FIN7 used to attack and control victims' machines.  The development comes after Hladyr pleaded guilty to conspiracy to commit wire fraud and one count of conspiracy to commit computer hacking in September 2019. He was arrested in Dresden, Germany, in 2018 and extradited to the U.S. city of Seattle. Hladyr has also been ordered to pay $2.5 million in restitution.   "This criminal organization had more than 70 people organized into business units and teams. Some were hackers, others developed the malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 out of 11 EU agencies running Solarwinds Orion software were hacked<a href="https://securityaffairs.co/wordpress/116914/hacking/solarwinds-eu-agencies-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds supply chain attack also impacted six European Union institutions, European Commissioner for Budget and Administration confirmed.
+
+
+
+European Commissioner for Budget and Administration Johannes Hahn confirmed the hack of some EU agencies as result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major BGP leak disrupts thousands of networks globally<a href="https://www.bleepingcomputer.com/news/security/major-bgp-leak-disrupts-thousands-of-networks-globally/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large BGP routing leak that occurred last night disrupted the connectivity for thousands of major networks and websites around the world. Although the BGP routing leak occurred in Vodafone's autonomous network (AS55410) based in India, it has impacted U.S. companies, including Google, according to sources.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Simple Photoshop': how a Pakistani counterfeiter may have aided Russian trolls<a href="https://www.reuters.com/article/us-usa-russia-sanctions-cyber/simple-photoshop-how-a-pakistani-counterfeiter-may-have-aided-russian-trolls-idUSKBN2C32A4?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid the cascade of U.S. sanctions imposed on Russian cybersecurity companies and officials alleged to be operating on behalf of the Kremlin’s intelligence services, one company stood out: the Fresh Air Farm House in Karachi, Pakistan.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What are the different roles within cybersecurity?<a href="https://thehackernews.com/2021/04/what-are-different-roles-within.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+People talk about the cybersecurity job market like it's a monolith, but there are a number of different roles within cybersecurity, depending not only on your skill level and experience but on what you like to do.  In fact, Cybercrime Magazine came up with a list of  50 cybersecurity job titles , while CyberSN, a recruiting organization, came up with its own list of  45 cybersecurity job categories .  Similarly, OnGig.com, a company that helps firms write their job ads, analyzed 150 cybersecurity job titles and came up with its  own top 30 list . This article is based on research I did with Springboard, one of the  first cybersecurity bootcamps with a job guarantee  and 1:1 mentorship.  In particular, CyberSeek.org, a joint industry initiative looking at the cybersecurity job market, offers an  interactive list  of not only the various positions within cybersecurity but offers you a career path showing how you can get promoted.  The complicated part is that these titles and roles
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Level Admin of FIN7 Cybercrime Group Sentenced to 10 Years in Prison<a href="https://www.darkreading.com/attacks-breaches/high-level-admin-of-fin7-cybercrime-group-sentenced-to-10-years-in-prison/d/d-id/1340717?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-level manager of cybercrime group FIN7, also known as the Carbanak Group and the Navigator Group, has been sentenced to ten years in prison, the Department of Justice reports.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE can allow attackers to compromise Juniper Networks devices<a href="https://securityaffairs.co/wordpress/116907/security/juniper-networks-rce.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks addressed a critical vulnerability in Junos OS, tracked as CVE-2021-0254, that could allow an attacker to remotely hijack or disrupt affected devices. This flaw stems from the improper buffer size validation, which c
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
