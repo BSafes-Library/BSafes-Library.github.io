@@ -34,6 +34,366 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 16th 2021 - The Houston Rockets<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-16th-2021-the-houston-rockets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been a pretty quiet week with only a few large attacks disclosed and only a few new ransomware variants released. The highest-profile attack this week is the NBA's Houston Rockets who were transparent about their ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is IcedID Banking Trojan on the Way to Becoming the Next Emotet?<a href="https://cyware.com/news/is-icedid-banking-trojan-on-the-way-to-becoming-the-next-emotet-078b2db5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts observe a similarity between IcedID and Emotet campaigns while outlining the fact that when there was an ongoing effort to take down the latter the former was witnessing an upsurge.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook Oversight board to rule on Trump ban in 'coming weeks' | Russia blocks Biden Cabinet officials in retaliation for sanctions<a href="https://thehill.com//policy/technology/overnights/548768-hillicon-valley-facebook-oversight-board-to-rule-on-trump-ban-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Indicts SecondEye Operators<a href="https://www.infosecurity-magazine.com:443/news/us-indicts-secondeye-operators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two charged over sale of thousands of false identity documents on dark net
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE can allow attackers to compromise Juniper Networks devices<a href="https://securityaffairs.co/wordpress/116907/security/juniper-networks-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity provider Juniper Networks addressed a critical vulnerability that could be exploited by attackers to remotely hijack or disrupt vulnerable devices.
+
+
+
+Cybersecurity vendor Juniper Networks addressed a critical vulnerability in Junos OS, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Will the CodeCov breach become the next big software supply chain hack?<a href="https://www.scmagazine.com/home/security-news/data-breach/will-the-codecov-breach-become-the-next-big-software-supply-chain-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Knowing the identity of the group behind the attack would help shed light on their possible goals, but several observers said the length of time the attackers spent in Codecov’s network and the focus on credentials indicate that they were more interested in getting access to customers’ code than the company itself.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarLoader Malware Abuses Slack, BaseCamp Clouds<a href="https://threatpost.com/bazarloader-malware-slack-basecamp/165455/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two cyberattack campaigns are making the rounds using unique social-engineering techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Codecov code coverage tool hacked to steal dev credentials<a href="https://www.bleepingcomputer.com/news/security/popular-codecov-code-coverage-tool-hacked-to-steal-dev-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov online platform for hosted code testing reports and statistics announced on Thursday that a threat actor had modified its Bash Uploader script, exposing sensitive information in customers' continuous integration (CI) environment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise and Fall of Maze Cartel<a href="https://cyware.com/news/the-rise-and-fall-of-maze-cartel-53bc9108"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From being a lone warrior to becoming an influencer, the Maze group has carved its way to becoming one of the most infamous ransomware groups by establishing the first-ever cartel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Issues Russian SVR Warning<a href="https://www.infosecurity-magazine.com:443/news/us-issues-russian-svr-warning/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America urges organizations to patch five vulnerabilities being exploited by Russia’s Foreign Intelligence Service
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT SVR actively targets these 5 flaws<a href="https://securityaffairs.co/wordpress/116891/cyber-warfare-2/russia-svr-actively-targets-5-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government warned that Russian cyber espionage group SVR is exploiting five known vulnerabilities in enterprise infrastructure products.
+
+
+
+The U.S. National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google won’t reveal technical details on patches for 30 days if vendors hit deadlines<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/google-wont-reveal-technical-details-on-patches-for-30-days-if-vendors-hit-deadlines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers applauded the move, which Google’s Project Zero hopes will drive user patch adoption.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the Kremlin provides a safe harbor for ransomware<a href="https://www.nbcnews.com/tech/security/kremlin-provides-safe-harbor-ransomware-rcna699?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global epidemic of digital extortion known as ransomware is crippling local governments, hospitals, school districts, and businesses by scrambling their data files until they pay up. Law enforcement has been largely powerless to stop it.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keyfactor to Merge with PrimeKey<a href="https://www.infosecurity-magazine.com:443/news/keyfactor-to-merge-with-primekey/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deal marks first ever merger between certificate automation and certificate authority providers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber nonprofits ask billionaire philanthropists to show them some love<a href="https://www.scmagazine.com/home/security-news/cyber-nonprofits-ask-billionaire-philanthropists-to-show-them-some-love/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber organizations are seeking funding from what they describe as the “entrepreneurs who made vast fortunes creating the very technologies that give rise to threats.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+44 Organizations Targeted in Attacks Aimed at COVID-19 Vaccine Cold Chain<a href="https://www.securityweek.com/ibm-44-organizations-targeted-attacks-aimed-covid-19-vaccine-cold-chain?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 40 organizations have been targeted in a global campaign focused on the COVID-19 vaccine cold chain infrastructure, which handles the distribution of vaccines and their storage.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mass Monitoring of Remote Workers Drives Shadow IT Risk<a href="https://www.infosecurity-magazine.com:443/news/mass-monitoring-remote-workers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky study finds employees switching to less secure personal devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biggest Cybersecurity Funding Rounds in 2020<a href="https://thansyn.com/new-funding-rounds-for-cybersecurity-companies-in-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lifeblood of the cybersecurity industry is new investments, both in startups and established companies. 272 vendors received additional funding in 2020 based on data published by Crunchbase. The total new investment for 2020 was $10.7 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Thansyn
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Can Allow Attackers to Hijack or Disrupt Juniper Devices<a href="https://www.securityweek.com/critical-vulnerability-can-allow-attackers-hijack-or-disrupt-juniper-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability patched recently by networking and cybersecurity solutions provider Juniper Networks could allow an attacker to remotely hijack or disrupt affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Hacked into Codecov’s Bash Uploader Tool and Stole Customer Credentials for 2.5 Months<a href="https://therecord.media/codecov-discloses-2-5-month-long-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov said the breach occurred “because of an error in Codecov’s Docker image creation process that allowed the actor to extract the credential required to modify our Bash Uploader script.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cockpit CMS flaws exposed web servers to NoSQL injection exploits<a href="https://portswigger.net/daily-swig/cockpit-cms-flaws-exposed-web-servers-to-nosql-injection-exploits?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities could allow a remote, unauthenticated attacker to execute code on a server running Cockpit in some configurations, specifically limited to those running MongoLite.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 5,000 Individuals Affected in Security Breach at Melbourne-based Swinburne University<a href="https://www.zdnet.com/article/swinburne-university-confirms-over-5000-individuals-affected-in-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swinburne University said that the leaked data, including personal information on staff, students, and external parties, was event registration information from multiple events from 2013 onwards.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

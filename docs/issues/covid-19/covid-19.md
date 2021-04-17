@@ -11,6 +11,20 @@ nav_order: 900030
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+44 Organizations Targeted in Attacks Aimed at COVID-19 Vaccine Cold Chain<a href="https://www.securityweek.com/ibm-44-organizations-targeted-attacks-aimed-covid-19-vaccine-cold-chain?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 40 organizations have been targeted in a global campaign focused on the COVID-19 vaccine cold chain infrastructure, which handles the distribution of vaccines and their storage.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Update: The COVID-19 Vaccine's Global Cold Chain Continues to Be a Target<a href="https://securityintelligence.com/posts/covid-19-vaccine-global-cold-chain-security/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

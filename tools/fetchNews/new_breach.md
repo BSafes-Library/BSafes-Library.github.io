@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Will the CodeCov breach become the next big software supply chain hack?<a href="https://www.scmagazine.com/home/security-news/data-breach/will-the-codecov-breach-become-the-next-big-software-supply-chain-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Knowing the identity of the group behind the attack would help shed light on their possible goals, but several observers said the length of time the attackers spent in Codecov’s network and the focus on credentials indicate that they were more interested in getting access to customers’ code than the company itself.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 5,000 Individuals Affected in Security Breach at Melbourne-based Swinburne University<a href="https://www.zdnet.com/article/swinburne-university-confirms-over-5000-individuals-affected-in-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swinburne University said that the leaked data, including personal information on staff, students, and external parties, was event registration information from multiple events from 2013 onwards.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

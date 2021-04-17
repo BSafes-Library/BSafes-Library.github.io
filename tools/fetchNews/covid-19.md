@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: The COVID-19 Vaccine's Global Cold Chain Continues to Be a Target<a href="https://securityintelligence.com/posts/covid-19-vaccine-global-cold-chain-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The expanded scope of precision targeting includes key organizations likely underpinning the transport, warehousing, storage, and ultimate distribution of vaccines, according to IBM Security X-Force.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

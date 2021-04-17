@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Hacked into Codecov’s Bash Uploader Tool and Stole Customer Credentials for 2.5 Months<a href="https://therecord.media/codecov-discloses-2-5-month-long-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov said the breach occurred “because of an error in Codecov’s Docker image creation process that allowed the actor to extract the credential required to modify our Bash Uploader script.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,94 @@ nav_order: 900220
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE can allow attackers to compromise Juniper Networks devices<a href="https://securityaffairs.co/wordpress/116907/security/juniper-networks-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity provider Juniper Networks addressed a critical vulnerability that could be exploited by attackers to remotely hijack or disrupt vulnerable devices.
+
+
+
+Cybersecurity vendor Juniper Networks addressed a critical vulnerability in Junos OS, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Codecov code coverage tool hacked to steal dev credentials<a href="https://www.bleepingcomputer.com/news/security/popular-codecov-code-coverage-tool-hacked-to-steal-dev-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov online platform for hosted code testing reports and statistics announced on Thursday that a threat actor had modified its Bash Uploader script, exposing sensitive information in customers' continuous integration (CI) environment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google won’t reveal technical details on patches for 30 days if vendors hit deadlines<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/google-wont-reveal-technical-details-on-patches-for-30-days-if-vendors-hit-deadlines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers applauded the move, which Google’s Project Zero hopes will drive user patch adoption.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mass Monitoring of Remote Workers Drives Shadow IT Risk<a href="https://www.infosecurity-magazine.com:443/news/mass-monitoring-remote-workers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky study finds employees switching to less secure personal devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Can Allow Attackers to Hijack or Disrupt Juniper Devices<a href="https://www.securityweek.com/critical-vulnerability-can-allow-attackers-hijack-or-disrupt-juniper-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability patched recently by networking and cybersecurity solutions provider Juniper Networks could allow an attacker to remotely hijack or disrupt affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cockpit CMS flaws exposed web servers to NoSQL injection exploits<a href="https://portswigger.net/daily-swig/cockpit-cms-flaws-exposed-web-servers-to-nosql-injection-exploits?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities could allow a remote, unauthenticated attacker to execute code on a server running Cockpit in some configurations, specifically limited to those running MongoLite.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google to Delay Publishing Bug Details for 30 Days<a href="https://www.infosecurity-magazine.com:443/news/google-to-delay-publishing-bug/"> Full Text</a>
 </p>
 <details>

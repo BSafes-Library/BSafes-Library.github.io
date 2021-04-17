@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - April 16th 2021 - The Houston Rockets<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-16th-2021-the-houston-rockets/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is IcedID Banking Trojan on the Way to Becoming the Next Emotet?<a href="https://cyware.com/news/is-icedid-banking-trojan-on-the-way-to-becoming-the-next-emotet-078b2db5"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook Oversight board to rule on Trump ban in 'coming weeks' | Russia blocks Biden Cabinet officials in retaliation for sanctions<a href="https://thehill.com//policy/technology/overnights/548768-hillicon-valley-facebook-oversight-board-to-rule-on-trump-ban-in"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Indicts SecondEye Operators<a href="https://www.infosecurity-magazine.com:443/news/us-indicts-secondeye-operators/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE can allow attackers to compromise Juniper Networks devices<a href="https://securityaffairs.co/wordpress/116907/security/juniper-networks-rce.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Will the CodeCov breach become the next big software supply chain hack?<a href="https://www.scmagazine.com/home/security-news/data-breach/will-the-codecov-breach-become-the-next-big-software-supply-chain-hack/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarLoader Malware Abuses Slack, BaseCamp Clouds<a href="https://threatpost.com/bazarloader-malware-slack-basecamp/165455/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular Codecov code coverage tool hacked to steal dev credentials<a href="https://www.bleepingcomputer.com/news/security/popular-codecov-code-coverage-tool-hacked-to-steal-dev-credentials/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rise and Fall of Maze Cartel<a href="https://cyware.com/news/the-rise-and-fall-of-maze-cartel-53bc9108"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Issues Russian SVR Warning<a href="https://www.infosecurity-magazine.com:443/news/us-issues-russian-svr-warning/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT SVR actively targets these 5 flaws<a href="https://securityaffairs.co/wordpress/116891/cyber-warfare-2/russia-svr-actively-targets-5-flaws.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google won’t reveal technical details on patches for 30 days if vendors hit deadlines<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/google-wont-reveal-technical-details-on-patches-for-30-days-if-vendors-hit-deadlines/"> Full Text</a>
@@ -234,7 +234,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the Kremlin provides a safe harbor for ransomware<a href="https://www.nbcnews.com/tech/security/kremlin-provides-safe-harbor-ransomware-rcna699?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keyfactor to Merge with PrimeKey<a href="https://www.infosecurity-magazine.com:443/news/keyfactor-to-merge-with-primekey/"> Full Text</a>
@@ -266,7 +266,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber nonprofits ask billionaire philanthropists to show them some love<a href="https://www.scmagazine.com/home/security-news/cyber-nonprofits-ask-billionaire-philanthropists-to-show-them-some-love/"> Full Text</a>
@@ -282,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 44 Organizations Targeted in Attacks Aimed at COVID-19 Vaccine Cold Chain<a href="https://www.securityweek.com/ibm-44-organizations-targeted-attacks-aimed-covid-19-vaccine-cold-chain?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mass Monitoring of Remote Workers Drives Shadow IT Risk<a href="https://www.infosecurity-magazine.com:443/news/mass-monitoring-remote-workers/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Biggest Cybersecurity Funding Rounds in 2020<a href="https://thansyn.com/new-funding-rounds-for-cybersecurity-companies-in-2020/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Thansyn
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Can Allow Attackers to Hijack or Disrupt Juniper Devices<a href="https://www.securityweek.com/critical-vulnerability-can-allow-attackers-hijack-or-disrupt-juniper-devices?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Hacked into Codecov’s Bash Uploader Tool and Stole Customer Credentials for 2.5 Months<a href="https://therecord.media/codecov-discloses-2-5-month-long-supply-chain-attack/?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cockpit CMS flaws exposed web servers to NoSQL injection exploits<a href="https://portswigger.net/daily-swig/cockpit-cms-flaws-exposed-web-servers-to-nosql-injection-exploits?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2021
+April 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 5,000 Individuals Affected in Security Breach at Melbourne-based Swinburne University<a href="https://www.zdnet.com/article/swinburne-university-confirms-over-5000-individuals-affected-in-data-breach/?&web_view=true"> Full Text</a>
