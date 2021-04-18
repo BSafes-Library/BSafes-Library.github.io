@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Releases List of Top 5 vulnerabilities Exploited by Russian Hackers<a href="https://cybersecuritynews.com/nsa-releases-list-of-top-5-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal Bureau of Investigation (FBI) jointly released a Cybersecurity Advisory,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Common Cybersecurity Challenges Organizations Struggle With<a href="https://cybersecuritynews.com/7-common-cybersecurity-challenges-organizations-struggle-with/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ You don’t have to look far to find news about a data breach in these pandemic-driven days. It’s unfortunate but true that cybersecurity is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Desktop Apps Including Telegram, VLC, Wireshark, & others Affected With 1-click Code Execution...<a href="https://cybersecuritynews.com/popular-desktop-app-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Popular Desktop Apps Including Telegram, VLC, Libre-/OpenOffice, Wireshark, and others are affected with 1-click code execution vulnerabilities. These desktop applications are often vulnerable to code...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A member of the FIN7 group was sentenced to 10 years in prison<a href="https://securityaffairs.co/wordpress/116945/cyber-crime/fin7-member-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fedir Hladyr (35), a Ukrainian national was sentenced today to 10 years in prison for his role in the financially motivated group FIN7, aka Carbanak.
+
+
+
+The Ukrainian national Fedir Hladyr (35), aka “das” or “AronaXus,” was sentenced to 10 years...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 310<a href="https://securityaffairs.co/wordpress/116943/breaking-news/security-affairs-newsletter-round-310.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+Is the recent accident at Iran Natanz nuclear plant a cyber attack?Joker malware infected 538,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is BazarLoader malware linked to Trickbot operators?<a href="https://securityaffairs.co/wordpress/116933/cyber-crime/bazarloader-malware-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of malware campaigns delivering the BazarLoader malware abusing popular collaboration tools like Slack and BaseCamp.
+
+
+
+Since January, researchers observed malware campaigns delivering the BazarLoader malware abusing popular collaboration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows 10 bug that can corrupt NTFS drives<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-10-bug-that-can-corrupt-ntfs-drives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a bug that could allow a threat actor to create specially crafted downloads that crash Windows 10 simply by opening the folder where they are downloaded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero updates vulnerability disclosure policy moving to a “90+30” model<a href="https://securityaffairs.co/wordpress/116921/security/project-zero-updates-vulnerability-disclosure-policy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero security team has updated its vulnerability disclosure policy, it gives users 30 days to patch flaws before disclosing associated technical details.
+
+
+
+The Google Project Zero security team announced an update to its vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
