@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NitroRansomware Asks for $9.99 Discord Gift Codes, Steals Access Tokens<a href="https://threatpost.com/nitroransomware-discord-gift-codes/165488/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware seems like a silly coding lark at first, but further exploration shows it can wreak serious damage in follow-on attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iron Tiger APT Group Roars Louder With New Toolkit<a href="https://cyware.com/news/iron-tiger-apt-group-roars-louder-with-new-toolkit-2a246766"> Full Text</a>
 </p>
 <details>
