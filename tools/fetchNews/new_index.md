@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Alerts continues to be a hotbed of scams and malware<a href="https://www.bleepingcomputer.com/news/security/google-alerts-continues-to-be-a-hotbed-of-scams-and-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Alerts continues to be a hotbed of scams and malware that threat actors are increasingly abusing to promote malicious websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese threat actors extract big data and sell it on the dark web<a href="https://www.scmagazine.com/home/security-news/database-security/chinese-threat-actors-extract-big-data-and-sell-it-on-the-dark-web/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data ranges from lottery and stock data to commercial databases of Canadian and U.S. businesses.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 No Server Left Behind: The Justice Department’s Novel Law Enforcement Operation to Protect Victims<a href="https://www.lawfareblog.com/no-server-left-behind-justice-departments-novel-law-enforcement-operation-protect-victims"> Full Text</a>
 </p>
 <details>
