@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Announces First Canadian Office<a href="https://www.infosecurity-magazine.com:443/news/cloudflare-announces-first/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American tech company’s plan to open new office in Toronto is welcomed by city’s mayor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Beverage Giant C&C Group Subsidiary Suffers IT Systems Outage Due to Security Incident<a href="https://portswigger.net/daily-swig/drinks-giant-c-amp-c-group-subsidiary-shuts-down-it-systems-following-security-incident?&web_view=true"> Full Text</a>
 </p>
 <details>

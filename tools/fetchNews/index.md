@@ -34,6 +34,170 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beverage Giant C&C Group Subsidiary Suffers IT Systems Outage Due to Security Incident<a href="https://portswigger.net/daily-swig/drinks-giant-c-amp-c-group-subsidiary-shuts-down-it-systems-following-security-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matthew Clark Bibendum (MCB), a distributor of alcoholic beverages and soft drinks in the UK and Ireland, says it’s working to restore IT systems following a cybersecurity incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard to Acquire Ekata<a href="https://www.infosecurity-magazine.com:443/news/mastercard-to-acquire-ekata/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital ID verification company to be acquired for $850m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XCSSET malware now targets macOS 11 and M1-based Macs<a href="https://securityaffairs.co/wordpress/116983/malware/xcsset-malware-apple-m1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XCSSET, a Mac malware targeting Xcode developers, was now re-engineered and employed in a campaign aimed at Apple's new M1 chips.
+
+
+
+Experts from Trend Micro have uncovered a Mac malware campaign targeting Xcode developers that employed a re-engineered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad bot traffic reaching an all-time high over the past year<a href="https://www.helpnetsecurity.com/2021/04/19/bad-bot-traffic-high/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There was a 372% increase in bad bot traffic on healthcare websites since September 2020. As vaccines became more widely available, bot activity was recorded at rates of 12,000 requests per hour.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Charges Nigerian with Elder Fraud<a href="https://www.infosecurity-magazine.com:443/news/us-charges-nigerian-with-elder/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland resident accused of conning seniors out of nearly half a million dollars over social media
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk Ransomware Anatomy of an Attack in 2021<a href="https://www.advanced-intel.com/post/adversary-dossier-ryuk-ransomware-anatomy-of-an-attack-in-2021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advintel observed actors conducting OSINT research related to the compromised host domain to identify the infected victim company and evaluate their revenue to assess what the ransom amount will be.
+</details>
+<div style="text-align: right" markdown="1">
+Advanced Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment transaction volume using 3-D Secure protocol grows globally<a href="https://www.helpnetsecurity.com/2021/04/19/payment-transaction-volume/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA has published its latest quarterly fraud report, reinforcing the migration to more precise payment authentication methods and showing a notable spike in brand abuse attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress could treat Google FloC as a security issue<a href="https://www.zdnet.com/article/wordpress-could-treat-google-floc-as-a-security-issue/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backlash against Google's Federated Learning of Cohorts (FLoC) has continued, with a proposal raised in WordPress Core to block the alternative identifier to third-party cookies by default.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack on 24 schools near Bristol impacts more than 1,000 devices<a href="https://www.bristolpost.co.uk/news/bristol-news/latest-ransomware-attack-24-schools-5308911?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 1,000 devices are having to be rebuilt and many teachers could start the new term on Monday (April 19) without laptops, whiteboards, and other vital equipment and resources.
+</details>
+<div style="text-align: right" markdown="1">
+Bristol Live
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ioXt Alliance expands its Compliance Program to bring transparency to mobile apps and VPNs<a href="https://www.helpnetsecurity.com/2021/04/19/ioxt-alliance-compliance-program/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ioXt Alliance announced that it is expanding its ioXt Compliance Program with a new mobile application profile with added requirements for VPN applications to mitigate potential security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
