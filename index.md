@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experts demonstrated how to hack a utility and take over a smart meter<a href="https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the FireEye’s Mandiant team have breached the network of a North American utility and turn off one of its smart meters.
+
+
+
+Over the years, the number of attacks against ICS/SCADA systems used by industrial organizations worldwide has rapidly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Alerts continues to be a hotbed of scams and malware<a href="https://www.bleepingcomputer.com/news/security/google-alerts-continues-to-be-a-hotbed-of-scams-and-malware/"> Full Text</a>
 </p>
 <details>
