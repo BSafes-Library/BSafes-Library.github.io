@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero testing 30-day grace period on bug details to boost user patching<a href="https://www.zdnet.com/article/google-project-zero-testing-30-day-grace-period-on-bug-details-to-boost-user-patching/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero will be shifting from a 90-day deadline to a new model that incorporates a new 30-day grace period to gives users time to install patches before technical details are revealed.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

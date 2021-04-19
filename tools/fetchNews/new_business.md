@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Trumpets New Mobile App Security Standard<a href="https://www.infosecurity-magazine.com:443/news/google-trumpets-new-mobile-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant encourages developers to get on board
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OneTrust acquires Convercent to bring ethics and compliance technology into a single platform<a href="https://www.helpnetsecurity.com/2021/04/19/onetrust-convercent-acquisition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition of the ethics and compliance platform brings together privacy, data governance, GRC, third-party risk, ESG and ethics and compliance together into a single operational workflow.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlexTrac Raises $10 Million for Its Purple Teaming Platform<a href="https://www.securityweek.com/plextrac-raises-10-million-its-purple-teaming-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PlexTrac last week announced closing a $10 million Series A funding round led by Noro-Moseley Partners and Madrona Venture Group, with participation from StageDotO Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

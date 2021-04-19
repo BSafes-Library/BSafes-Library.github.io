@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware micro-criminals are still out here (and growing)<a href="https://yoroi.company/research/ransomware-micro-criminals-are-still-out-here-and-growing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The conventional ransomware operation model is still very active: victims keep receiving e-mails with malicious attachments that automatically execute the ransomware payload on the unlucky machine.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not just ransomware: Schools and universities are increasingly targeted by impersonation scams<a href="https://therecord.media/not-just-ransomware-schools-and-universities-are-increasingly-targeted-by-impersonation-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+School districts and universities, which were once seen as poor targets for financially motivated cybercrime attacks, are now awash in impersonation scams and other attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

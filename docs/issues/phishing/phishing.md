@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shady scam bots trick Omegle users into nonconsensual video sex recordings<a href="https://blog.malwarebytes.com/awareness/2021/04/shady-scam-bots-trick-omegle-users-into-nonconsensual-video-sex-recordings/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One way for scammers to make their bots more believable is by recording unknowing Omegle users doing things the scammer wants them to do and then using those recordings to target more users.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Investigators Are Reportedly Looking Into Codecov Breach<a href="https://gizmodo.com/u-s-federal-investigators-are-reportedly-looking-into-1846707144?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal investigators are purportedly looking into a security breach at Codecov, a platform used to test software code with more 29,000 customers worldwide, Reuters reported on Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

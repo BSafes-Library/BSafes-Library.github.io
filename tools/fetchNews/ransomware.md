@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord Nitro gift codes now demanded as ransomware payments<a href="https://www.bleepingcomputer.com/news/security/discord-nitro-gift-codes-now-demanded-as-ransomware-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a novel approach to ransom demands, a new ransomware calling itself 'NitroRansomware' encrypts victim's files and then demands a Discord Nitro gift code to decrypt files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The parallels of pandemic response and IoT security<a href="https://www.helpnetsecurity.com/2021/04/16/parallels-of-pandemic-response-and-iot-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Because complete isolation is not practical for most networks, network segments, and devices, perimeter controls are needed to limit who and what can get inside the network.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

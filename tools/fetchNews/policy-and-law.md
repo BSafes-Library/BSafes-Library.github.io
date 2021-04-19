@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A member of the FIN7 group was sentenced to 10 years in prison<a href="https://securityaffairs.co/wordpress/116945/cyber-crime/fin7-member-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fedir Hladyr (35), a Ukrainian national was sentenced today to 10 years in prison for his role in the financially motivated group FIN7, aka Carbanak.
+
+
+
+The Ukrainian national Fedir Hladyr (35), aka “das” or “AronaXus,” was sentenced to 10 years...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions cryptocurrency addresses linked to Russian cyberactivities<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-cryptocurrency-addresses-linked-to-russian-cyberactivities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government sanctioned this week twenty-eight cryptocurrency addresses allegedly associated with entities or individuals linked to Russian cyberattacks or election interference.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

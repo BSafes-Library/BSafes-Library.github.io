@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Takes Aim at Russia’s Cyber Ops Ecosystem<a href="https://securityboulevard.com/2021/04/u-s-takes-aim-at-russias-cyber-ops-ecosystem/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian tech companies identified and sanctioned by the US Treasury Department include ERA Technopolis, Pasit AO, SVA, Neobit OOO, Advanced System Technology, and Pozitiv Teknolodzhiz.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
