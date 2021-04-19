@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Iron Tiger APT Group Roars Louder With New Toolkit<a href="https://cyware.com/news/iron-tiger-apt-group-roars-louder-with-new-toolkit-2a246766"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iron Tiger threat actor group was spotted using an upgraded toolkit in an 18-month old cyberespionage campaign against a gambling firm in the Philippines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Computers Face Increased Ransomware Attacks - Kaspersky Report<a href="https://cyware.com/news/ics-computers-face-increased-ransomware-attacks-kaspersky-report-a50e9ab5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new report, Kaspersky noted that developed countries faced a large number of ransomware attacks on ICS systems during the pandemic owing to their consistency in keeping businesses up and running.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware: A Deep Dive into 2021 Emerging Cyber-Risks<a href="https://threatpost.com/ebook-2021-ransomware-emerging-risks/165477/"> Full Text</a>
 </p>
 <details>
