@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+No Server Left Behind: The Justice Department’s Novel Law Enforcement Operation to Protect Victims<a href="https://www.lawfareblog.com/no-server-left-behind-justice-departments-novel-law-enforcement-operation-protect-victims"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice recently announced that it undertook a law enforcement operation to remove malware from hundreds of victim systems in the United States. What’s the significance of the move?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NitroRansomware Asks for $9.99 Discord Gift Codes, Steals Access Tokens<a href="https://threatpost.com/nitroransomware-discord-gift-codes/165488/"> Full Text</a>
 </p>
 <details>
