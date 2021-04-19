@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Apple approves Parler's return to App Store | White House scales back response to SolarWinds, Microsoft incidents | Pressure mounts on DHS over relationship with Clearview AI<a href="https://thehill.com//policy/technology/overnights/549094-hillicon-valley-apple-approves-parlers-return-to-app-store-white"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple told Republicans it will welcome an updated version of Parler back into its App Store with approved content moderation changes. Meanwhile, the Biden administration announced it is scaling back its initial response to both the SolarWinds and Microsoft Exchange Server hacking incidents, and the Department of Homeland Security is coming under pressure to discontinue its relationship with Clearview AI. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Geico data breach exposed customers' driver's license numbers<a href="https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/"> Full Text</a>
 </p>
 <details>
