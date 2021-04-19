@@ -32,6 +32,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 {: .fs-6 .fw-300 }
 
 ## News
+{: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
