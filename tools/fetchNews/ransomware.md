@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk ransomware operation updates hacking techniques<a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-operation-updates-hacking-techniques/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent attacks from Ryuk ransomware operators show that the actors have a new preference when it comes to gaining initial access to the victim network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SysAdmin of Billion-Dollar Hacking Group Gets 10-Year Sentence<a href="https://thehackernews.com/2021/04/sysadmin-of-billion-dollar-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-level manager and systems administrator associated with the FIN7 threat actor  has been sentenced to 10 years in prison, the U.S. Department of Justice announced Friday.  Fedir Hladyr , a 35-year-old Ukrainian national, is said to have played a crucial role in a criminal scheme that compromised tens of millions of debit and credit cards, in addition to aggregating the stolen information, supervising other members of the group, and maintaining the server infrastructure that FIN7 used to attack and control victims' machines.  The development comes after Hladyr pleaded guilty to conspiracy to commit wire fraud and one count of conspiracy to commit computer hacking in September 2019. He was arrested in Dresden, Germany, in 2018 and extradited to the U.S. city of Seattle. Hladyr has also been ordered to pay $2.5 million in restitution.   "This criminal organization had more than 70 people organized into business units and teams. Some were hackers, others developed the malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Level Admin of FIN7 Cybercrime Group Sentenced to 10 Years in Prison<a href="https://www.darkreading.com/attacks-breaches/high-level-admin-of-fin7-cybercrime-group-sentenced-to-10-years-in-prison/d/d-id/1340717?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-level manager of cybercrime group FIN7, also known as the Carbanak Group and the Navigator Group, has been sentenced to ten years in prison, the Department of Justice reports.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

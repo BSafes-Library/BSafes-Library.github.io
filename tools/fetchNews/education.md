@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What are the different roles within cybersecurity?<a href="https://thehackernews.com/2021/04/what-are-different-roles-within.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+People talk about the cybersecurity job market like it's a monolith, but there are a number of different roles within cybersecurity, depending not only on your skill level and experience but on what you like to do.  In fact, Cybercrime Magazine came up with a list of&nbsp; 50 cybersecurity job titles , while CyberSN, a recruiting organization, came up with its own list of&nbsp; 45 cybersecurity job categories .  Similarly, OnGig.com, a company that helps firms write their job ads, analyzed 150 cybersecurity job titles and came up with its&nbsp; own top 30 list . This article is based on research I did with Springboard, one of the&nbsp; first cybersecurity bootcamps with a job guarantee &nbsp;and 1:1 mentorship.  In particular, CyberSeek.org, a joint industry initiative looking at the cybersecurity job market, offers an&nbsp; interactive list &nbsp;of not only the various positions within cybersecurity but offers you a career path showing how you can get promoted.  The complicated part is that these titles and roles
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

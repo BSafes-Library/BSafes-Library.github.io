@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-State Attackers Taking Over Global Cyber Realm<a href="https://cyware.com/news/nation-state-attackers-taking-over-global-cyber-realm-6fa1c3c0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research sheds light on cyberattack incidents by the nation-backed cybercriminal groups, revealing a 100% rise in nation-state incidents between 2017 and 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

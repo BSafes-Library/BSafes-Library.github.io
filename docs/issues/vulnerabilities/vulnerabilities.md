@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress to automatically disable Google FLoC on websites<a href="https://www.bleepingcomputer.com/news/security/wordpress-to-automatically-disable-google-floc-on-websites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress announced today that they plan on treating Google's new FLoC&nbsp;tracking technology as a security concern and plans to block it by default on WordPress sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monero Cryptocurrency campaign exploits ProxyLogon flaws<a href="https://securityaffairs.co/wordpress/116955/cyber-crime/proxylogon-flaws-cryptocurrencyminer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted are exploiting the ProxyLogon vulnerabilities in Microsoft Exchange servers to deploy Monero cryptocurrency miners.
+
+
+
+Sophos researchers reported that threat actors targeted Microsoft Exchange by exploiting ProxyLogon vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows 10 bug that can corrupt NTFS drives<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-10-bug-that-can-corrupt-ntfs-drives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a bug that could allow a threat actor to create specially crafted downloads that crash Windows 10 simply by opening the folder where they are downloaded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero updates vulnerability disclosure policy moving to a “90+30” model<a href="https://securityaffairs.co/wordpress/116921/security/project-zero-updates-vulnerability-disclosure-policy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero security team has updated its vulnerability disclosure policy, it gives users 30 days to patch flaws before disclosing associated technical details.
+
+
+
+The Google Project Zero security team announced an update to its vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
