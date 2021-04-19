@@ -124,7 +124,7 @@ var sources = {
 	}
 }
 
-var sourceIds = ['BC', 'CN', 'CY', 'HL', 'HN', 'IF', 'LB', 'LC', 'LD', 'SA', 'SC', 'TP'];
+var sourceIds = ['BC', 'CY', 'HL', 'HN', 'IF', 'LB', 'LC', 'LD', 'SA', 'SC', 'TP'];
 //var sourceIds = ['HL'];
 
 var allDomains = [];
