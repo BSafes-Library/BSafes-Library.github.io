@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Geico data breach exposed customers' driver's license numbers<a href="https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Car insurance provider Geico has suffered a data breach where threat actors stole the driver's licenses for policyholders for over a month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 White House closes SolarWinds, Microsoft Exchange focus groups, signaling return to normalcy<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-closes-solarwinds-microsoft-exchange-focus-groups-signaling-return-to-normalcy/"> Full Text</a>
 </p>
 <details>
