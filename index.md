@@ -37,6 +37,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Credit Card Data of Nearly 1 Million Domino's Pizza India Customers Allegedly Sold Online<a href="https://ciso.economictimes.indiatimes.com/news/dominos-india-hacked-credit-data-of-10l-users-on-sale-for-rs-4-cr/82137529?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity researcher claimed that credit card details of nearly 1 million people who purchased online on Domino's Pizza India, is allegedly being sold for around $550,000 on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordless: More Mirage Than Reality<a href="https://thehackernews.com/2021/04/passwordless-more-mirage-than-reality.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of "passwordless" authentication has been gaining significant industry and media attention. And for a good reason. Our digital lives are demanding an ever-increasing number of online accounts and services, with security best practices dictating that each requires a strong, unique password in order to ensure data stays safe. Who wouldn't want an easier way?  That's the premise behind one-time passwords (OTP), biometrics, pin codes, and other authentication methods presented as passwordless security. Rather than remembering cumbersome passwords, users can authenticate themselves using something they own, know, or are. Some examples include a smartphone, OTP, hardware token, or biometric marker like a fingerprint. While this sounds appealing on the surface, the problem is that, when you dig deeper, these passwordless solutions are still reliant on passwords.  This happens in two primary ways:  Passwordless Solutions Rely on Passwords as a Fallback  If you ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Trumpets New Mobile App Security Standard<a href="https://www.infosecurity-magazine.com:443/news/google-trumpets-new-mobile-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant encourages developers to get on board
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OneTrust acquires Convercent to bring ethics and compliance technology into a single platform<a href="https://www.helpnetsecurity.com/2021/04/19/onetrust-convercent-acquisition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition of the ethics and compliance platform brings together privacy, data governance, GRC, third-party risk, ESG and ethics and compliance together into a single operational workflow.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware That Spreads Via Xcode Projects Now Targeting Apple's M1-based Macs<a href="https://thehackernews.com/2021/04/malware-spreads-via-xcode-projects-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mac malware campaign targeting Xcode developers has been retooled to add support for Apple's new M1 chips and expand its features to steal confidential information from cryptocurrency apps.  XCSSET came into the spotlight in  August 2020  after it was found to spread via modified Xcode IDE projects, which, upon the building, were configured to execute the payload. The malware repackages payload modules to imitate legitimate Mac apps, which are ultimately responsible for infecting local Xcode projects and injecting the main payload to execute when the compromised project builds.   XCSSET modules come with the capabilities to steal credentials, capture screenshots, inject malicious JavaScript into websites, plunder user data from different apps, and even encrypt files for a ransom.   Then in March 2021, Kaspersky researchers  uncovered  XCSSET samples compiled for the new Apple M1 chips, suggesting that the malware campaign was not only ongoing but also that adversaries are  activ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Sysadmin Gets 10 Years Behind Bars<a href="https://www.infosecurity-magazine.com:443/news/fin7-sysadmin-gets-10-years-behind/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carbanak manager was recruited via Combi Security front company
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Takes Aim at Russia’s Cyber Ops Ecosystem<a href="https://securityboulevard.com/2021/04/u-s-takes-aim-at-russias-cyber-ops-ecosystem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian tech companies identified and sanctioned by the US Treasury Department include ERA Technopolis, Pasit AO, SVA, Neobit OOO, Advanced System Technology, and Pozitiv Teknolodzhiz.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Growing reliance on third-party suppliers signals increasing security risks<a href="https://www.zdnet.com/article/growing-reliance-on-third-party-suppliers-signals-increasing-security-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries are turning their focus on cheaper, easier targets within an organization's supply chain, especially as businesses increasingly acquire software from external suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Claim to Sell 50GB of Data Exfiltrated from OTP-Generating Company<a href="https://www.hackread.com/hacker-selling-data-from-otp-generating-firm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from OTP codes, other data included in the sale involved personally identifiable information (PII) such as SMS logs, mobile numbers, email addresses, SMPP details, customer documents, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware micro-criminals are still out here (and growing)<a href="https://yoroi.company/research/ransomware-micro-criminals-are-still-out-here-and-growing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The conventional ransomware operation model is still very active: victims keep receiving e-mails with malicious attachments that automatically execute the ransomware payload on the unlucky machine.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major data breach at cleaning and catering company Spotless<a href="https://www.stuff.co.nz/business/124859495/major-data-breach-at-cleaning-and-catering-company-spotless?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potentially exposed data could have included the names, email addresses, phone numbers, and residential addresses as well as passport details and tax numbers of current and former employees.
+</details>
+<div style="text-align: right" markdown="1">
+Stuff NZ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlexTrac Raises $10 Million for Its Purple Teaming Platform<a href="https://www.securityweek.com/plextrac-raises-10-million-its-purple-teaming-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PlexTrac last week announced closing a $10 million Series A funding round led by Noro-Moseley Partners and Madrona Venture Group, with participation from StageDotO Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Shady scam bots trick Omegle users into nonconsensual video sex recordings<a href="https://blog.malwarebytes.com/awareness/2021/04/shady-scam-bots-trick-omegle-users-into-nonconsensual-video-sex-recordings/?&web_view=true"> Full Text</a>
 </p>
 <details>
