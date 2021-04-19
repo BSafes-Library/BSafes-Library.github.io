@@ -37,6 +37,170 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Beverage Giant C&C Group Subsidiary Suffers IT Systems Outage Due to Security Incident<a href="https://portswigger.net/daily-swig/drinks-giant-c-amp-c-group-subsidiary-shuts-down-it-systems-following-security-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matthew Clark Bibendum (MCB), a distributor of alcoholic beverages and soft drinks in the UK and Ireland, says it’s working to restore IT systems following a cybersecurity incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard to Acquire Ekata<a href="https://www.infosecurity-magazine.com:443/news/mastercard-to-acquire-ekata/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital ID verification company to be acquired for $850m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XCSSET malware now targets macOS 11 and M1-based Macs<a href="https://securityaffairs.co/wordpress/116983/malware/xcsset-malware-apple-m1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XCSSET, a Mac malware targeting Xcode developers, was now re-engineered and employed in a campaign aimed at Apple's new M1 chips.
+
+
+
+Experts from Trend Micro have uncovered a Mac malware campaign targeting Xcode developers that employed a re-engineered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad bot traffic reaching an all-time high over the past year<a href="https://www.helpnetsecurity.com/2021/04/19/bad-bot-traffic-high/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There was a 372% increase in bad bot traffic on healthcare websites since September 2020. As vaccines became more widely available, bot activity was recorded at rates of 12,000 requests per hour.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Charges Nigerian with Elder Fraud<a href="https://www.infosecurity-magazine.com:443/news/us-charges-nigerian-with-elder/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland resident accused of conning seniors out of nearly half a million dollars over social media
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk Ransomware Anatomy of an Attack in 2021<a href="https://www.advanced-intel.com/post/adversary-dossier-ryuk-ransomware-anatomy-of-an-attack-in-2021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advintel observed actors conducting OSINT research related to the compromised host domain to identify the infected victim company and evaluate their revenue to assess what the ransom amount will be.
+</details>
+<div style="text-align: right" markdown="1">
+Advanced Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment transaction volume using 3-D Secure protocol grows globally<a href="https://www.helpnetsecurity.com/2021/04/19/payment-transaction-volume/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA has published its latest quarterly fraud report, reinforcing the migration to more precise payment authentication methods and showing a notable spike in brand abuse attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress could treat Google FloC as a security issue<a href="https://www.zdnet.com/article/wordpress-could-treat-google-floc-as-a-security-issue/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backlash against Google's Federated Learning of Cohorts (FLoC) has continued, with a proposal raised in WordPress Core to block the alternative identifier to third-party cookies by default.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack on 24 schools near Bristol impacts more than 1,000 devices<a href="https://www.bristolpost.co.uk/news/bristol-news/latest-ransomware-attack-24-schools-5308911?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 1,000 devices are having to be rebuilt and many teachers could start the new term on Monday (April 19) without laptops, whiteboards, and other vital equipment and resources.
+</details>
+<div style="text-align: right" markdown="1">
+Bristol Live
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ioXt Alliance expands its Compliance Program to bring transparency to mobile apps and VPNs<a href="https://www.helpnetsecurity.com/2021/04/19/ioxt-alliance-compliance-program/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ioXt Alliance announced that it is expanding its ioXt Compliance Program with a new mobile application profile with added requirements for VPN applications to mitigate potential security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Credit Card Data of Nearly 1 Million Domino's Pizza India Customers Allegedly Sold Online<a href="https://ciso.economictimes.indiatimes.com/news/dominos-india-hacked-credit-data-of-10l-users-on-sale-for-rs-4-cr/82137529?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +214,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordless: More Mirage Than Reality<a href="https://thehackernews.com/2021/04/passwordless-more-mirage-than-reality.html"> Full Text</a>
@@ -66,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Trumpets New Mobile App Security Standard<a href="https://www.infosecurity-magazine.com:443/news/google-trumpets-new-mobile-app/"> Full Text</a>
@@ -82,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OneTrust acquires Convercent to bring ethics and compliance technology into a single platform<a href="https://www.helpnetsecurity.com/2021/04/19/onetrust-convercent-acquisition/?&web_view=true"> Full Text</a>
@@ -98,7 +262,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware That Spreads Via Xcode Projects Now Targeting Apple's M1-based Macs<a href="https://thehackernews.com/2021/04/malware-spreads-via-xcode-projects-now.html"> Full Text</a>
@@ -114,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Sysadmin Gets 10 Years Behind Bars<a href="https://www.infosecurity-magazine.com:443/news/fin7-sysadmin-gets-10-years-behind/"> Full Text</a>
@@ -130,7 +294,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Takes Aim at Russia’s Cyber Ops Ecosystem<a href="https://securityboulevard.com/2021/04/u-s-takes-aim-at-russias-cyber-ops-ecosystem/?&web_view=true"> Full Text</a>
@@ -146,7 +310,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Growing reliance on third-party suppliers signals increasing security risks<a href="https://www.zdnet.com/article/growing-reliance-on-third-party-suppliers-signals-increasing-security-risks/?&web_view=true"> Full Text</a>
@@ -162,7 +326,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Claim to Sell 50GB of Data Exfiltrated from OTP-Generating Company<a href="https://www.hackread.com/hacker-selling-data-from-otp-generating-firm/?&web_view=true"> Full Text</a>
@@ -178,7 +342,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware micro-criminals are still out here (and growing)<a href="https://yoroi.company/research/ransomware-micro-criminals-are-still-out-here-and-growing/?&web_view=true"> Full Text</a>
@@ -194,7 +358,7 @@ Yoroi
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major data breach at cleaning and catering company Spotless<a href="https://www.stuff.co.nz/business/124859495/major-data-breach-at-cleaning-and-catering-company-spotless?&web_view=true"> Full Text</a>
@@ -210,7 +374,7 @@ Stuff NZ
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PlexTrac Raises $10 Million for Its Purple Teaming Platform<a href="https://www.securityweek.com/plextrac-raises-10-million-its-purple-teaming-platform?&web_view=true"> Full Text</a>
@@ -226,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shady scam bots trick Omegle users into nonconsensual video sex recordings<a href="https://blog.malwarebytes.com/awareness/2021/04/shady-scam-bots-trick-omegle-users-into-nonconsensual-video-sex-recordings/?&web_view=true"> Full Text</a>
@@ -242,7 +406,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ICO Issued Over £42 Million in Fines Last Year<a href="https://www.infosecurity-magazine.com:443/news/ico-issued-over-42-million-in/"> Full Text</a>
@@ -258,7 +422,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nitroransomware demands gift codes as ransom payments<a href="https://securityaffairs.co/wordpress/116975/malware/nitroransomware-discord-gift-code.html"> Full Text</a>
@@ -278,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Pink is malware spreading through group chats<a href="https://www.hackread.com/whatsapp-pink-malware-spreads-group-chats/?&web_view=true"> Full Text</a>
@@ -294,7 +458,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Codecov was a victim of a supply chain attack<a href="https://securityaffairs.co/wordpress/116967/hacking/codecov-supply-chain-attack.html"> Full Text</a>
@@ -314,7 +478,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Not just ransomware: Schools and universities are increasingly targeted by impersonation scams<a href="https://therecord.media/not-just-ransomware-schools-and-universities-are-increasingly-targeted-by-impersonation-scams/?&web_view=true"> Full Text</a>
@@ -330,7 +494,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infection Monkey: Open source tool allows zero trust assessment of AWS environments<a href="https://www.helpnetsecurity.com/2021/04/16/infection-monkey-zero-trust-aws/?&web_view=true"> Full Text</a>
@@ -346,7 +510,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The parallels of pandemic response and IoT security<a href="https://www.helpnetsecurity.com/2021/04/16/parallels-of-pandemic-response-and-iot-security/?&web_view=true"> Full Text</a>
@@ -362,7 +526,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
+April 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Project Zero testing 30-day grace period on bug details to boost user patching<a href="https://www.zdnet.com/article/google-project-zero-testing-30-day-grace-period-on-bug-details-to-boost-user-patching/?&web_view=true"> Full Text</a>
