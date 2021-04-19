@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Releases List of Top 5 vulnerabilities Exploited by Russian Hackers<a href="https://cybersecuritynews.com/nsa-releases-list-of-top-5-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ The National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal Bureau of Investigation (FBI) jointly released a Cybersecurity Advisory,...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Common Cybersecurity Challenges Organizations Struggle With<a href="https://cybersecuritynews.com/7-common-cybersecurity-challenges-organizations-struggle-with/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ You don’t have to look far to find news about a data breach in these pandemic-driven days. It’s unfortunate but true that cybersecurity is...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Desktop Apps Including Telegram, VLC, Wireshark, & others Affected With 1-click Code Execution...<a href="https://cybersecuritynews.com/popular-desktop-app-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ Popular Desktop Apps Including Telegram, VLC, Libre-/OpenOffice, Wireshark, and others are affected with 1-click code execution vulnerabilities. These desktop applications are often vulnerable to code...
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,218 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress to automatically disable Google FLoC on websites<a href="https://www.bleepingcomputer.com/news/security/wordpress-to-automatically-disable-google-floc-on-websites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress announced today that they plan on treating Google's new FLoC tracking technology as a security concern and plans to block it by default on WordPress sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saint Bot Downloader - A New Cyberthreat in Making<a href="https://cyware.com/news/saint-bot-downloader-a-new-cyberthreat-in-making-48430034"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented malware downloader has been spotted in the wild leveraging phishing attacks to deploy credential stealers and other malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monero Cryptocurrency campaign exploits ProxyLogon flaws<a href="https://securityaffairs.co/wordpress/116955/cyber-crime/proxylogon-flaws-cryptocurrencyminer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted are exploiting the ProxyLogon vulnerabilities in Microsoft Exchange servers to deploy Monero cryptocurrency miners.
+
+
+
+Sophos researchers reported that threat actors targeted Microsoft Exchange by exploiting ProxyLogon vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord Nitro gift codes now demanded as ransomware payments<a href="https://www.bleepingcomputer.com/news/security/discord-nitro-gift-codes-now-demanded-as-ransomware-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a novel approach to ransom demands, a new ransomware calling itself 'NitroRansomware' encrypts victim's files and then demands a Discord Nitro gift code to decrypt files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-State Attackers Taking Over Global Cyber Realm<a href="https://cyware.com/news/nation-state-attackers-taking-over-global-cyber-realm-6fa1c3c0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research sheds light on cyberattack incidents by the nation-backed cybercriminal groups, revealing a 100% rise in nation-state incidents between 2017 and 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A member of the FIN7 group was sentenced to 10 years in prison<a href="https://securityaffairs.co/wordpress/116945/cyber-crime/fin7-member-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fedir Hladyr (35), a Ukrainian national was sentenced today to 10 years in prison for his role in the financially motivated group FIN7, aka Carbanak.
+
+
+
+The Ukrainian national Fedir Hladyr (35), aka “das” or “AronaXus,” was sentenced to 10 years...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions cryptocurrency addresses linked to Russian cyberactivities<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-cryptocurrency-addresses-linked-to-russian-cyberactivities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government sanctioned this week twenty-eight cryptocurrency addresses allegedly associated with entities or individuals linked to Russian cyberattacks or election interference.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Investigators Are Reportedly Looking Into Codecov Breach<a href="https://gizmodo.com/u-s-federal-investigators-are-reportedly-looking-into-1846707144?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal investigators are purportedly looking into a security breach at Codecov, a platform used to test software code with more 29,000 customers worldwide, Reuters reported on Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 310<a href="https://securityaffairs.co/wordpress/116943/breaking-news/security-affairs-newsletter-round-310.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+Is the recent accident at Iran Natanz nuclear plant a cyber attack?Joker malware infected 538,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is BazarLoader malware linked to Trickbot operators?<a href="https://securityaffairs.co/wordpress/116933/cyber-crime/bazarloader-malware-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of malware campaigns delivering the BazarLoader malware abusing popular collaboration tools like Slack and BaseCamp.
+
+
+
+Since January, researchers observed malware campaigns delivering the BazarLoader malware abusing popular collaboration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows 10 bug that can corrupt NTFS drives<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-10-bug-that-can-corrupt-ntfs-drives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a bug that could allow a threat actor to create specially crafted downloads that crash Windows 10 simply by opening the folder where they are downloaded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero updates vulnerability disclosure policy moving to a “90+30” model<a href="https://securityaffairs.co/wordpress/116921/security/project-zero-updates-vulnerability-disclosure-policy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero security team has updated its vulnerability disclosure policy, it gives users 30 days to patch flaws before disclosing associated technical details.
+
+
+
+The Google Project Zero security team announced an update to its vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
