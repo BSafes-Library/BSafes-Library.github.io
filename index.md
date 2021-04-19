@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+White House closes SolarWinds, Microsoft Exchange focus groups, signaling return to normalcy<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-closes-solarwinds-microsoft-exchange-focus-groups-signaling-return-to-normalcy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration’s handling of the two cyber incidents in coordination with industry leaves some in the community hopeful that a functioning interagency system will reemerge after years of atrophy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Experts demonstrated how to hack a utility and take over a smart meter<a href="https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html"> Full Text</a>
 </p>
 <details>
