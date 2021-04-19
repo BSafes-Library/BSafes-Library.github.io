@@ -34,7 +34,159 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shady scam bots trick Omegle users into nonconsensual video sex recordings<a href="https://blog.malwarebytes.com/awareness/2021/04/shady-scam-bots-trick-omegle-users-into-nonconsensual-video-sex-recordings/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One way for scammers to make their bots more believable is by recording unknowing Omegle users doing things the scammer wants them to do and then using those recordings to target more users.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICO Issued Over £42 Million in Fines Last Year<a href="https://www.infosecurity-magazine.com:443/news/ico-issued-over-42-million-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Question marks remain over regulator’s ability to collect
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nitroransomware demands gift codes as ransom payments<a href="https://securityaffairs.co/wordpress/116975/malware/nitroransomware-discord-gift-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware dubbed 'NitroRansomware' has appeared in the threat landscape, it demands a Discord Nitro gift code to decrypt files.
+
+
+
+Researchers from BleepingComputer reported infections of a new singular ransomware dubbed NitroRansomware which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Pink is malware spreading through group chats<a href="https://www.hackread.com/whatsapp-pink-malware-spreads-group-chats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unusual baiting technique has appeared with the WhatsApp users receiving links, masked as an official update, that claim to turn the application’s theme from its trademark green to pink.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov was a victim of a supply chain attack<a href="https://securityaffairs.co/wordpress/116967/hacking/codecov-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The software company Codecov suffered a security breach, threat actors compromised the supply chain of one of its tools.
+
+
+
+A new supply chain attack made the headlines, the software company Codecov recently disclosed a major security breach after a threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not just ransomware: Schools and universities are increasingly targeted by impersonation scams<a href="https://therecord.media/not-just-ransomware-schools-and-universities-are-increasingly-targeted-by-impersonation-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+School districts and universities, which were once seen as poor targets for financially motivated cybercrime attacks, are now awash in impersonation scams and other attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infection Monkey: Open source tool allows zero trust assessment of AWS environments<a href="https://www.helpnetsecurity.com/2021/04/16/infection-monkey-zero-trust-aws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using this tool, security professionals can conduct zero trust assessments of AWS environments to help identify the potential gaps in an organization’s AWS security posture that can put data at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The parallels of pandemic response and IoT security<a href="https://www.helpnetsecurity.com/2021/04/16/parallels-of-pandemic-response-and-iot-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Because complete isolation is not practical for most networks, network segments, and devices, perimeter controls are needed to limit who and what can get inside the network.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero testing 30-day grace period on bug details to boost user patching<a href="https://www.zdnet.com/article/google-project-zero-testing-30-day-grace-period-on-bug-details-to-boost-user-patching/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero will be shifting from a 90-day deadline to a new model that incorporates a new 30-day grace period to gives users time to install patches before technical details are revealed.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress to automatically disable Google FLoC on websites<a href="https://www.bleepingcomputer.com/news/security/wordpress-to-automatically-disable-google-floc-on-websites/"> Full Text</a>
@@ -50,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saint Bot Downloader - A New Cyberthreat in Making<a href="https://cyware.com/news/saint-bot-downloader-a-new-cyberthreat-in-making-48430034"> Full Text</a>
@@ -66,7 +218,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monero Cryptocurrency campaign exploits ProxyLogon flaws<a href="https://securityaffairs.co/wordpress/116955/cyber-crime/proxylogon-flaws-cryptocurrencyminer.html"> Full Text</a>
@@ -86,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discord Nitro gift codes now demanded as ransomware payments<a href="https://www.bleepingcomputer.com/news/security/discord-nitro-gift-codes-now-demanded-as-ransomware-payments/"> Full Text</a>
@@ -102,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-State Attackers Taking Over Global Cyber Realm<a href="https://cyware.com/news/nation-state-attackers-taking-over-global-cyber-realm-6fa1c3c0"> Full Text</a>
@@ -118,7 +270,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A member of the FIN7 group was sentenced to 10 years in prison<a href="https://securityaffairs.co/wordpress/116945/cyber-crime/fin7-member-sentenced.html"> Full Text</a>
@@ -138,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US sanctions cryptocurrency addresses linked to Russian cyberactivities<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-cryptocurrency-addresses-linked-to-russian-cyberactivities/"> Full Text</a>
@@ -154,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Investigators Are Reportedly Looking Into Codecov Breach<a href="https://gizmodo.com/u-s-federal-investigators-are-reportedly-looking-into-1846707144?&web_view=true"> Full Text</a>
@@ -170,7 +322,7 @@ Gizmodo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 310<a href="https://securityaffairs.co/wordpress/116943/breaking-news/security-affairs-newsletter-round-310.html"> Full Text</a>
@@ -190,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2021
+April 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is BazarLoader malware linked to Trickbot operators?<a href="https://securityaffairs.co/wordpress/116933/cyber-crime/bazarloader-malware-campaigns.html"> Full Text</a>
@@ -210,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2021
+April 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows 10 bug that can corrupt NTFS drives<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-10-bug-that-can-corrupt-ntfs-drives/"> Full Text</a>
@@ -226,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2021
+April 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Project Zero updates vulnerability disclosure policy moving to a “90+30” model<a href="https://securityaffairs.co/wordpress/116921/security/project-zero-updates-vulnerability-disclosure-policy.html"> Full Text</a>
