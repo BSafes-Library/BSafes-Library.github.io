@@ -34,6 +34,286 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Microsoft Store, Spotify sites spread info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-microsoft-store-spotify-sites-spread-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are promoting sites impersonating the Microsoft Store, Spotify, and an online document converter that distribute malware to steal credit cards and passwords saved in web browsers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Report Highlights Pandemic's Effect on Cybercrime<a href="https://www.securityweek.com/europol-report-highlights-pandemics-effect-cybercrime?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol’s Serious Organized Crime Threat Assessment report 2021 summarizes the criminal threat of the last four years and provides insights into what to expect over the next four years.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Why Autonomous XDR Is Going to Replace NGAV/EDR<a href="https://thehackernews.com/2021/04/ebook-why-autonomous-xdr-is-going-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For most organizations today, endpoint protection is the primary security concern. This is not unreasonable – endpoints tend to be the weakest points in an environment – but it also misses the forest for the trees. As threat surfaces expand, security professionals are harder pressed to detect threats that target other parts of an environment and can easily miss a real vulnerability by focusing too hard on endpoints.  This is why pairing tools such as next-generation antivirus (NGAV) and endpoint detection and response (EDR) has become a popular, if flawed, choice. Fortunately, newer technologies and security methods offer much greater prevention and detection capabilities. This is the key argument of a new eBook ( download here ) offered by XDR provider Cynet.  The eBook, titled  Why Autonomous XDR is Going to Replace NGAV/EDR,  starts with a look at how NGAV and EDR tools can defend an organization with the "assume breach" mentality – expecting a breach to occur and protecting endpoi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code Malware Threat as Lockdown Ends<a href="https://www.infosecurity-magazine.com:443/news/qr-code-malware-threat-as-lockdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses urged to protect BYOD and corporate devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out, hackers can take over your Cosori Smart Air Fryer<a href="https://securityaffairs.co/wordpress/117024/hacking/cosori-smart-air-fryer-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Watch out, hackers could breach into your house by exploiting two remote code execution (RCE) vulnerabilities in the Cosori Smart Air Fryer.
+
+
+
+Security experts from Cisco Talos have found two remote code execution (RCE) vulnerabilities in the Cosori...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Every day is game day:’ Sports psychology expert applies his skills to cybersecurity<a href="https://www.scmagazine.com/home/security-news/every-day-is-game-day-sports-psychology-expert-applies-his-skills-to-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Derin McMains, a former professional ballplayer and peak performance coordinator for the MLB,  provides guidance to ReliaQuest employees and executives on performing under pressure and staying resilient. As he told SC Media in an interview, “Pressure is a privilege… If you don’t feel pressure in what you do,  it’s too easy or it doesn’t really matter to you. Who wants to do that?”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of networks reportedly hacked in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-networks-reportedly-hacked-in-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged on the recent Codecov system breach which is being likened to the SolarWinds hack. In new reporting, investigators have stated that hundreds of customer networks have been breached in the incident, expanding the scope of this system breach beyond just Codecov's systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Are the Reasons Behind Health Data Breach Surge?<a href="https://www.govinfosecurity.com/what-are-reasons-behind-health-data-breach-surge-a-16427?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 70 major health data breaches have been added to the federal tally in the last four weeks as ransomware attacks have persisted and breaches at vendors have affected clients.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+120 Compromised Ad Servers Target Millions of Internet Users<a href="https://thehackernews.com/2021/04/120-compromised-ad-servers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malvertising campaign tracked as "Tag Barnakle" has been behind the breach of more than 120 ad servers over the past year to sneakily inject code in an attempt to serve malicious advertisements that redirect users to rogue websites, thus exposing victims to scamware or malware.  Unlike other operators who set about their task by infiltrating the ad-tech ecosystem using "convincing personas" to buy space on legitimate websites for running the malicious ads, Tag Barnakle is "able to bypass this initial hurdle completely by going straight for the jugular — mass compromise of ad serving infrastructure,"  said  Confiant security researcher Eliya Stein in a Monday write-up.   The development follows a year after the Tag Barnakle actor was found to have  compromised nearly 60 ad servers  in April 2020, with the infections primarily targeting an open-source advertising server called Revive.  The latest slew of attacks is no different, although the adve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campus Still Closed as Portsmouth University Reels from Suspected Ransomware<a href="https://www.infosecurity-magazine.com:443/news/campus-closed-portsmouth/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Planned start to the new term is delayed after cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WeChat users targeted by hackers using recently disclosed Chromium exploit<a href="https://securityaffairs.co/wordpress/117017/hacking/wechat-chromium-bug-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used the Chrome exploit publicly disclosed last week in attacks aimed at WeChat users in China, researchers warn.
+
+
+
+China-based firm Qingteng Cloud Security, reported that threat actors weaponized the recently disclosed Chrome exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spearphishing Campaign by Russian Espionage Group Gamaredon Infects Ukrainian Officials<a href="https://www.cyberscoop.com/gamaredon-russia-ukraine-border-primitive-bear/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers have a long history of going after organizations in Ukraine, but the Gamaredon group especially has tunnel vision for the former Soviet republic and its government officials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Reviews Nvidia-Arm Deal on National Security Fears<a href="https://www.infosecurity-magazine.com:443/news/uk-government-cites-national/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Competition regulator will begin phase one investigation
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Druva raises $147M to continue expansion of Druva Cloud Platform<a href="https://www.helpnetsecurity.com/2021/04/20/druva-147m-investment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fundraise was led by Caisse de dépôt et placement du Québec (CDPQ), a global investment group, with a significant investment by Neuberger Berman, each of which manage over $300 billion in assets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 5.7.1 Patches XXE Flaw in PHP 8<a href="https://www.securityweek.com/wordpress-571-patches-xxe-flaw-php-8?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress has released version 5.7.1 of its popular content management system (CMS), which brings more than 25 bug fixes, including patches for two security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geico Security Bug Lets Fraudsters Steal Customers’ Driver License Numbers for Months<a href="https://techcrunch.com/2021/04/19/geico-driver-license-numbers-scraped/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insurance giant did not say how many customers were affected by the breach but said the fraudsters accessed customer driver’s license numbers between January 21 and March 1.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Test Weak Passwords in Purple Fox Malware Attacks<a href="https://www.darkreading.com/perimeter/attackers-test-weak-passwords-in-purple-fox-malware-attacks/d/d-id/1340732?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weak passwords used over the Windows Server Message Block (SMB) protocol are often part of attacks that result in the spread of Purple Fox malware, Specops researchers report.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
