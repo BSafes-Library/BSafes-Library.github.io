@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers adapt web skimming for stealing Bitcoin<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-adapt-web-skimming-for-stealing-bitcoin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers linked with the North Korean government applied the web skimming technique to steal cryptocurrency in a previously undocumented campaign that started early last year, researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks stole driver’s license numbers from Geico auto insurer<a href="https://securityaffairs.co/wordpress/117009/data-breach/geico-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Car insurance provider Geico has suffered a data breach, attackers have stolen the driver's licenses for policyholders for several weeks.
+
+
+
+Geico, the second-largest auto insurer in the U.S., has suffered a data breach, threat actors exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
