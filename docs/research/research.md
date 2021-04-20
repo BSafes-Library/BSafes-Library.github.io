@@ -192,6 +192,18 @@ Amidst the regular drumbeat of reports about Russian attempts to undermine U.S. 
 August, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Crypto and Blockchain Fundamentals [HTML](https://papers.bsafes.com/docs/cryptocurrency/crypto-and-blockchain-fundamentals/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the 1990s, we have had an “Internet of Information” that allows us to seamlessly share information such as documents, images, emails, and videos over the Internet. While most Internet users do not need to understand the details of the technical protocols2 operating underneath user-friendly software interfaces, it is helpful to understand how they work at a high-level. With the “Internet of Information,” copies of information are routed.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cryptography, Passwords, Privacy, and the Fifth Amendment [HTML](https://papers.bsafes.com/docs/encryption/cryptography-passwords-privacy-and-the-fifth-amendment/)
 </p>
 <details>
