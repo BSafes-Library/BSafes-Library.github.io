@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of customer networks hacked in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-customer-networks-hacked-in-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged on the recent Codecov system breach which is being likened to the SolarWinds hack. Sources state hundreds of customer networks have been breached in the incident, expanding the scope of this system breach to beyond just Codecov's systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers adapt web skimming for stealing Bitcoin<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-adapt-web-skimming-for-stealing-bitcoin/"> Full Text</a>
 </p>
 <details>
