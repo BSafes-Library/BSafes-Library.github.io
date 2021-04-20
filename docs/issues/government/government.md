@@ -11,6 +11,62 @@ nav_order: 900075
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Apple approves Parler's return to App Store | White House scales back response to SolarWinds, Microsoft incidents | Pressure mounts on DHS over relationship with Clearview AI<a href="https://thehill.com//policy/technology/overnights/549094-hillicon-valley-apple-approves-parlers-return-to-app-store-white"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple told Republicans it will welcome an updated version of Parler back into its App Store with approved content moderation changes. Meanwhile, the Biden administration announced it is scaling back its initial response to both the SolarWinds and Microsoft Exchange Server hacking incidents, and the Department of Homeland Security is coming under pressure to discontinue its relationship with Clearview AI.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No Server Left Behind: The Justice Department’s Novel Law Enforcement Operation to Protect Victims<a href="https://www.lawfareblog.com/no-server-left-behind-justice-departments-novel-law-enforcement-operation-protect-victims"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice recently announced that it undertook a law enforcement operation to remove malware from hundreds of victim systems in the United States. What’s the significance of the move?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House closes SolarWinds, Microsoft Exchange focus groups, signaling return to normalcy<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-closes-solarwinds-microsoft-exchange-focus-groups-signaling-return-to-normalcy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration’s handling of the two cyber incidents in coordination with industry leaves some in the community hopeful that a functioning interagency system will reemerge after years of atrophy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House 'standing down' emergency response groups to SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/549012-white-house-standing-down-emergency-response-groups-to-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is “standing down” coordinated efforts by several key agencies to respond to recent major cybersecurity incidents including the SolarWinds hack, a senior administration official announced Monday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S. Takes Aim at Russia’s Cyber Ops Ecosystem<a href="https://securityboulevard.com/2021/04/u-s-takes-aim-at-russias-cyber-ops-ecosystem/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

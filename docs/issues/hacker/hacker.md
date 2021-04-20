@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov hackers breached hundreds of restricted customer sites: sources<a href="https://www.reuters.com/article/us-usa-cyber-codecov/codecov-hackers-breached-hundreds-of-restricted-customer-sites-sources-idUSKBN2C62XI?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers used automation to rapidly copy customer credentials and raid additional resources, the investigators said, expanding the breach beyond the initial disclosure by Codecov on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers adapt web skimming for stealing Bitcoin<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-adapt-web-skimming-for-stealing-bitcoin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers linked with the North Korean government applied the web skimming technique to steal cryptocurrency in a previously undocumented campaign that started early last year, researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts demonstrated how to hack a utility and take over a smart meter<a href="https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the FireEye’s Mandiant team have breached the network of a North American utility and turn off one of its smart meters.
+
+
+
+Over the years, the number of attacks against ICS/SCADA systems used by industrial organizations worldwide has rapidly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese threat actors extract big data and sell it on the dark web<a href="https://www.scmagazine.com/home/security-news/database-security/chinese-threat-actors-extract-big-data-and-sell-it-on-the-dark-web/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data ranges from lottery and stock data to commercial databases of Canadian and U.S. businesses.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

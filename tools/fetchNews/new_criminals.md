@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks stole driver’s license numbers from Geico auto insurer<a href="https://securityaffairs.co/wordpress/117009/data-breach/geico-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Car insurance provider Geico&nbsp;has suffered a data breach, attackers have stolen the driver's licenses for policyholders for several weeks.
+
+
+
+Geico, the second-largest auto insurer in the U.S., has suffered a data breach, threat actors exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks made more than $560K with a simple clipboard hijacker<a href="https://securityaffairs.co/wordpress/116995/cyber-crime/hackboss-clipboard-hijacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast researchers analyzed the activity of a simple cryptocurrency malware dubbed HackBoss that allowed its operators to earn over $560K. 
+
+
+
+While the value of major cryptocurrencies continues to increase, cybercriminals and malware authors focus their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

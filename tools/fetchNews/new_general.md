@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1 in 2 Indian adults fell prey to hacking in last 12 months<a href="https://ciso.economictimes.indiatimes.com/news/1-in-2-indian-adults-fell-prey-to-hacking-in-last-12-months/82140392?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seven in 10 Indian adults (among those surveyed) believed that remote work has made it much easier for hackers and cybercriminals to take advantage of them, a new report revealed on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment transaction volume using 3-D Secure protocol grows globally<a href="https://www.helpnetsecurity.com/2021/04/19/payment-transaction-volume/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA has published its latest quarterly fraud report, reinforcing the migration to more precise payment authentication methods and showing a notable spike in brand abuse attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

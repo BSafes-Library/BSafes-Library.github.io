@@ -11,6 +11,34 @@ nav_order: 900027
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Announces First Canadian Office<a href="https://www.infosecurity-magazine.com:443/news/cloudflare-announces-first/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American tech company’s plan to open new office in Toronto is welcomed by city’s mayor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard to Acquire Ekata<a href="https://www.infosecurity-magazine.com:443/news/mastercard-to-acquire-ekata/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital ID verification company to be acquired for $850m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Trumpets New Mobile App Security Standard<a href="https://www.infosecurity-magazine.com:443/news/google-trumpets-new-mobile-app/"> Full Text</a>
 </p>
 <details>

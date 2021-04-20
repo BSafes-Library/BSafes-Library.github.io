@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Hackers are now using BMP images to hide RAT malware<a href="https://thehackernews.com/2021/04/lazarus-apt-hackers-are-now-using-bmp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing attack operated by a North Korean threat actor targeting its southern counterpart has been found to conceal its malicious code within a bitmap (.BMP) image file to drop a remote access trojan (RAT) capable of stealing sensitive information.  Attributing the attack to the&nbsp; Lazarus Group &nbsp;based on similarities to prior tactics adopted by the adversary, researchers from Malwarebytes said the phishing campaign started by distributing emails laced with a malicious document that it identified on April 13.   "The actor has used a clever method to bypass security mechanisms in which it has embedded its malicious&nbsp; HTA &nbsp;file as a compressed&nbsp; zlib &nbsp;file within a PNG file that then has been decompressed during run time by converting itself to the BMP format," Malwarebytes researchers&nbsp; said .&nbsp;  "The dropped payload was a loader that decoded and decrypted the second stage payload into memory. The second stage payload has the capability to receive and execute commands
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iron Tiger APT Group Roars Louder With New Toolkit<a href="https://cyware.com/news/iron-tiger-apt-group-roars-louder-with-new-toolkit-2a246766"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iron Tiger threat actor group was spotted using an upgraded toolkit in an 18-month old cyberespionage campaign against a gambling firm in the Philippines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
