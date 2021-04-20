@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UK Government Unveils Plans to Speed Up Rollout of 5G Technology<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-rollout-5g-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under the proposals, it will be easier to introduced 5G-connected technology, particularly in countryside areas.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of customer networks hacked in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-customer-networks-hacked-in-codecov-supply-chain-attack/"> Full Text</a>
 </p>
 <details>
