@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Druva raises $147M to continue expansion of Druva Cloud Platform<a href="https://www.helpnetsecurity.com/2021/04/20/druva-147m-investment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fundraise was led by Caisse de dépôt et placement du Québec (CDPQ), a global investment group, with a significant investment by Neuberger Berman, each of which manage over $300 billion in assets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,52 @@ nav_order: 900220
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WeChat users targeted by hackers using recently disclosed Chromium exploit<a href="https://securityaffairs.co/wordpress/117017/hacking/wechat-chromium-bug-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used the Chrome exploit publicly disclosed last week in attacks aimed at WeChat users in China, researchers warn.
+
+
+
+China-based firm Qingteng Cloud Security, reported that threat actors weaponized the recently disclosed Chrome exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 5.7.1 Patches XXE Flaw in PHP 8<a href="https://www.securityweek.com/wordpress-571-patches-xxe-flaw-php-8?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress has released version 5.7.1 of its popular content management system (CMS), which brings more than 25 bug fixes, including patches for two security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geico Security Bug Lets Fraudsters Steal Customers’ Driver License Numbers for Months<a href="https://techcrunch.com/2021/04/19/geico-driver-license-numbers-scraped/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insurance giant did not say how many customers were affected by the breach but said the fraudsters accessed customer driver’s license numbers between January 21 and March 1.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Coding error allowed attackers to delete Facebook live video<a href="https://www.zdnet.com/article/coding-error-allowed-attackers-to-delete-facebook-live-video/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

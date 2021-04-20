@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campus Still Closed as Portsmouth University Reels from Suspected Ransomware<a href="https://www.infosecurity-magazine.com:443/news/campus-closed-portsmouth/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Planned start to the new term is delayed after cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

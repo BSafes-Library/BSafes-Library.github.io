@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Microsoft Store, Spotify sites spread info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-microsoft-store-spotify-sites-spread-info-stealing-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol Report Highlights Pandemic's Effect on Cybercrime<a href="https://www.securityweek.com/europol-report-highlights-pandemics-effect-cybercrime?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] Why Autonomous XDR Is Going to Replace NGAV/EDR<a href="https://thehackernews.com/2021/04/ebook-why-autonomous-xdr-is-going-to.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QR Code Malware Threat as Lockdown Ends<a href="https://www.infosecurity-magazine.com:443/news/qr-code-malware-threat-as-lockdown/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out, hackers can take over your Cosori Smart Air Fryer<a href="https://securityaffairs.co/wordpress/117024/hacking/cosori-smart-air-fryer-flaws.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Every day is game day:’ Sports psychology expert applies his skills to cybersecurity<a href="https://www.scmagazine.com/home/security-news/every-day-is-game-day-sports-psychology-expert-applies-his-skills-to-cybersecurity/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of networks reportedly hacked in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-networks-reportedly-hacked-in-codecov-supply-chain-attack/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Are the Reasons Behind Health Data Breach Surge?<a href="https://www.govinfosecurity.com/what-are-reasons-behind-health-data-breach-surge-a-16427?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 120 Compromised Ad Servers Target Millions of Internet Users<a href="https://thehackernews.com/2021/04/120-compromised-ad-servers-target.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Campus Still Closed as Portsmouth University Reels from Suspected Ransomware<a href="https://www.infosecurity-magazine.com:443/news/campus-closed-portsmouth/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WeChat users targeted by hackers using recently disclosed Chromium exploit<a href="https://securityaffairs.co/wordpress/117017/hacking/wechat-chromium-bug-attack.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spearphishing Campaign by Russian Espionage Group Gamaredon Infects Ukrainian Officials<a href="https://www.cyberscoop.com/gamaredon-russia-ukraine-border-primitive-bear/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Government Reviews Nvidia-Arm Deal on National Security Fears<a href="https://www.infosecurity-magazine.com:443/news/uk-government-cites-national/"> Full Text</a>
@@ -250,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Druva raises $147M to continue expansion of Druva Cloud Platform<a href="https://www.helpnetsecurity.com/2021/04/20/druva-147m-investment/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress 5.7.1 Patches XXE Flaw in PHP 8<a href="https://www.securityweek.com/wordpress-571-patches-xxe-flaw-php-8?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Geico Security Bug Lets Fraudsters Steal Customers’ Driver License Numbers for Months<a href="https://techcrunch.com/2021/04/19/geico-driver-license-numbers-scraped/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Test Weak Passwords in Purple Fox Malware Attacks<a href="https://www.darkreading.com/perimeter/attackers-test-weak-passwords-in-purple-fox-malware-attacks/d/d-id/1340732?&web_view=true"> Full Text</a>

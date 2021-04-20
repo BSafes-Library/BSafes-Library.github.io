@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beverage Giant C&amp;C Group Subsidiary Suffers IT Systems Outage Due to Security Incident<a href="https://portswigger.net/daily-swig/drinks-giant-c-amp-c-group-subsidiary-shuts-down-it-systems-following-security-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matthew Clark Bibendum (MCB), a distributor of alcoholic beverages and soft drinks in the UK and Ireland, says it’s working to restore IT systems following a cybersecurity incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

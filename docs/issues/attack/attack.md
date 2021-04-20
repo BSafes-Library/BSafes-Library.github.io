@@ -11,6 +11,34 @@ nav_order: 900015
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of networks reportedly hacked in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-networks-reportedly-hacked-in-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged on the recent Codecov system breach which is being likened to the SolarWinds hack. In new reporting, investigators have stated that hundreds of customer networks&nbsp;have been breached in the incident, expanding the scope of this system breach beyond just Codecov's systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Test Weak Passwords in Purple Fox Malware Attacks<a href="https://www.darkreading.com/perimeter/attackers-test-weak-passwords-in-purple-fox-malware-attacks/d/d-id/1340732?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weak passwords used over the Windows Server Message Block (SMB) protocol are often part of attacks that result in the spread of Purple Fox malware, Specops researchers report.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of customer networks hacked in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-customer-networks-hacked-in-codecov-supply-chain-attack/"> Full Text</a>
 </p>
 <details>

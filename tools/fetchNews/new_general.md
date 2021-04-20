@@ -11,6 +11,48 @@ nav_order: 900072
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Why Autonomous XDR Is Going to Replace NGAV/EDR<a href="https://thehackernews.com/2021/04/ebook-why-autonomous-xdr-is-going-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For most organizations today, endpoint protection is the primary security concern. This is not unreasonable – endpoints tend to be the weakest points in an environment – but it also misses the forest for the trees. As threat surfaces expand, security professionals are harder pressed to detect threats that target other parts of an environment and can easily miss a real vulnerability by focusing too hard on endpoints.  This is why pairing tools such as next-generation antivirus (NGAV) and endpoint detection and response (EDR) has become a popular, if flawed, choice. Fortunately, newer technologies and security methods offer much greater prevention and detection capabilities. This is the key argument of a new eBook ( download here ) offered by XDR provider Cynet.  The eBook, titled&nbsp; Why Autonomous XDR is Going to Replace NGAV/EDR,&nbsp; starts with a look at how NGAV and EDR tools can defend an organization with the "assume breach" mentality – expecting a breach to occur and protecting endpoi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Every day is game day:’ Sports psychology expert applies his skills to cybersecurity<a href="https://www.scmagazine.com/home/security-news/every-day-is-game-day-sports-psychology-expert-applies-his-skills-to-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Derin McMains, a former professional ballplayer and peak performance coordinator for the MLB,  provides guidance to ReliaQuest employees and executives on performing under pressure and staying resilient. As he told SC Media in an interview, “Pressure is a privilege… If you don’t feel pressure in what you do,  it’s too easy or it doesn’t really matter to you. Who wants to do that?”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Are the Reasons Behind Health Data Breach Surge?<a href="https://www.govinfosecurity.com/what-are-reasons-behind-health-data-breach-surge-a-16427?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 70 major health data breaches have been added to the federal tally in the last four weeks as ransomware attacks have persisted and breaches at vendors have affected clients.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 1 in 2 Indian adults fell prey to hacking in last 12 months<a href="https://ciso.economictimes.indiatimes.com/news/1-in-2-indian-adults-fell-prey-to-hacking-in-last-12-months/82140392?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

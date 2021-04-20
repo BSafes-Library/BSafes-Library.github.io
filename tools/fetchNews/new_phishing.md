@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spearphishing Campaign by Russian Espionage Group Gamaredon Infects Ukrainian Officials<a href="https://www.cyberscoop.com/gamaredon-russia-ukraine-border-primitive-bear/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers have a long history of going after organizations in Ukraine, but the Gamaredon group especially has tunnel vision for the former Soviet republic and its government officials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

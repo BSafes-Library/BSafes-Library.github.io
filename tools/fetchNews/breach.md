@@ -11,6 +11,20 @@ nav_order: 900029
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Geico data breach exposed customers' driver's license numbers<a href="https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Car insurance provider Geico&nbsp;has suffered a data breach where threat actors stole the driver's licenses for policyholders for over a month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Credit Card Data of Nearly 1 Million Domino's Pizza India Customers Allegedly Sold Online<a href="https://ciso.economictimes.indiatimes.com/news/dominos-india-hacked-credit-data-of-10l-users-on-sale-for-rs-4-cr/82137529?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

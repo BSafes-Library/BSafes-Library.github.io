@@ -11,6 +11,20 @@ nav_order: 900031
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Europol Report Highlights Pandemic's Effect on Cybercrime<a href="https://www.securityweek.com/europol-report-highlights-pandemics-effect-cybercrime?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol’s Serious Organized Crime Threat Assessment report 2021 summarizes the criminal threat of the last four years and provides insights into what to expect over the next four years.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Crooks stole driver’s license numbers from Geico auto insurer<a href="https://securityaffairs.co/wordpress/117009/data-breach/geico-data-breach.html"> Full Text</a>
 </p>
 <details>

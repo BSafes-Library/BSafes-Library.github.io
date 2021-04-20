@@ -11,6 +11,48 @@ nav_order: 900180
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NitroRansomware Asks for $9.99 Discord Gift Codes, Steals Access Tokens<a href="https://threatpost.com/nitroransomware-discord-gift-codes/165488/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware seems like a silly coding lark at first, but further exploration shows it can wreak serious damage in follow-on attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Computers Face Increased Ransomware Attacks - Kaspersky Report<a href="https://cyware.com/news/ics-computers-face-increased-ransomware-attacks-kaspersky-report-a50e9ab5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new report, Kaspersky noted that developed countries faced a large number of ransomware attacks on ICS systems during the pandemic owing to their consistency in keeping businesses up and running.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk Ransomware Anatomy of an Attack in 2021<a href="https://www.advanced-intel.com/post/adversary-dossier-ryuk-ransomware-anatomy-of-an-attack-in-2021?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advintel observed actors conducting OSINT research related to the compromised host domain to identify the infected victim company and evaluate their revenue to assess what the ransom amount will be.
+</details>
+<div style="text-align: right" markdown="1">
+Advanced Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware micro-criminals are still out here (and growing)<a href="https://yoroi.company/research/ransomware-micro-criminals-are-still-out-here-and-growing/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

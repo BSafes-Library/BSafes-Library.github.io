@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad bot traffic reaching an all-time high over the past year<a href="https://www.helpnetsecurity.com/2021/04/19/bad-bot-traffic-high/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There was a 372% increase in bad bot traffic on healthcare websites since September 2020. As vaccines became more widely available, bot activity was recorded at rates of 12,000 requests per hour.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coding error allowed attackers to delete Facebook live video<a href="https://www.zdnet.com/article/coding-error-allowed-attackers-to-delete-facebook-live-video/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 17, security researcher Ahmad Talahmeh published an advisory explaining how the vulnerability worked, together with Proof-of-Concept (PoC) code able to trigger an attack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress could treat Google FloC as a security issue<a href="https://www.zdnet.com/article/wordpress-could-treat-google-floc-as-a-security-issue/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backlash against Google's Federated Learning of Cohorts (FLoC) has continued, with a proposal raised in WordPress Core to block the alternative identifier to third-party cookies by default.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
