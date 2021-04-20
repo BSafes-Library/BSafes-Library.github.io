@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPN zero-day used to hack defense firms, govt orgs<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-zero-day-used-to-hack-defense-firms-govt-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has shared mitigation measures for a zero-day authentication bypass vulnerability in the Pulse Connect Secure (PCS) SSL VPN appliance actively exploited against US Defense Industrial base (DIB) networks and worldwide organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Chromium bug used to attack Chinese WeChat users<a href="https://therecord.media/recent-chromium-bug-used-to-attack-chinese-wechat-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chrome vulnerability exploit published online last week has been weaponized and abused to attack WeChat users in China, a local security firm Qingteng Cloud Security reported on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration kicks off 100-day plan to shore up cybersecurity of electric grid<a href="https://thehill.com//policy/cybersecurity/549188-biden-administration-kicks-off-100-day-plan-to-shore-up-cybersecurity-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Tuesday announced it was kicking off a 100-day plan aimed at protecting the electric grid against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts demonstrated how to hack a utility and take over a smart meter<a href="https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant launched a spear-phishing attack to gain a foothold in the target enterprise network using a malicious Microsoft Office email attachment and an embedded malicious link.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geico customers' driver's license numbers exposed in breach<a href="https://thehill.com//policy/cybersecurity/549187-geico-customers-drivers-license-numbers-exposed-in-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Geico data breach that lasted over a month earlier this year exposed customers’ driver’s license numbers to hackers, according to a notice filed with California’s attorney general earlier this month. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

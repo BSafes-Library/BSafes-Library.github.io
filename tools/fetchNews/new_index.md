@@ -37,6 +37,386 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil gang tries to extort Apple, threatens to sell stolen blueprints<a href="https://www.bleepingcomputer.com/news/security/revil-gang-tries-to-extort-apple-threatens-to-sell-stolen-blueprints/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang asked Apple to "buy back" stolen product blueprints to avoid having them leaked on REvil's leak site before today's Apple Spring Loaded event where the new iMac was introduced. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Replaces IcedID in Malspam Campaigns<a href="https://cyware.com/news/qbot-replaces-icedid-in-malspam-campaigns-78b2a562"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals were found shuffling payloads once again. Security analysts reported two banking trojans being used alternatively to deliver various ransomware strains as the final payload in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple agencies breached by hackers using Pulse Secure vulnerabilities<a href="https://thehill.com//policy/cybersecurity/549326-multiple-agencies-breached-by-hackers-using-pulse-secure-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities announced Tuesday that hackers breached multiple government agencies and other critical organizations by exploiting vulnerabilities in products from a Utah-based software company.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 750,000 Users Downloaded New Billing Fraud Apps From Google Play Store<a href="https://thehackernews.com/2021/04/over-750000-users-download-new-billing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a new set of fraudulent Android apps in the Google Play store that were found to hijack SMS message notifications for carrying out billing fraud.  The apps in question primarily targeted users in Southwest Asia and the Arabian Peninsula, attracting a total of 700,000 downloads before they were discovered and removed from the platform.  The findings were reported independently by cybersecurity firms  Trend Micro  and  McAfee .   "Posing as photo editors, wallpapers, puzzles, keyboard skins, and other camera-related apps, the malware embedded in these fraudulent apps hijack SMS message notifications and then make unauthorized purchases," researchers from McAfee said in a Monday write-up.  The fraudulent apps belong to the so-called " Joker " (aka Bread) malware, which has been found to repeatedly sneak past Google Play defenses over the past four years, resulting in Google removing no fewer than 1,700 infected apps from the Play Store as of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School District’s Files Leaked in $40m Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/broward-files-leaked-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers leak Florida school district’s files online when their ransom demand isn’t met
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: Cybersecurity Issues on the Congressional Agenda<a href="https://www.lawfareblog.com/cyberlaw-podcast-cybersecurity-issues-congressional-agenda"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Our interview is with Mark Montgomery and John Costello, both staff to the Cyberspace Solarium Commission. The commission, which issued its main report more than a year ago, is swinging through the pitch, following up with new white papers, draft legislative language and enthusiastic advocacy f
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking a X-RAY Machine with WHIDelite & EvilCrowRF<a href="https://securityaffairs.co/wordpress/117053/hacking/hacking-x-ray-machine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular cyber security expert Luca Bongiorni demonstrated how to hack an X-Ray Machine using his WHIDelite tool.
+
+
+
+Recently I bought a X-RAY machine from China to have some ghetto-style desktop setup in order to inspect/reverse engineer some PCBs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit unpatched vulnerabilities, zero day to attack governments and contractors<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/hackers-exploit-unpatched-vulnerabilities-zero-day-to-attack-governments-and-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye’s Mandiant team revealed ongoing exploitation of vulnerabilities in Pulse Secure VPN devices by at least two hacking groups, one of which they linked to China, to attack governments, defense contractors and other businesses in the U.S. and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Fixes Firefox Flaw That Allowed Spoofing of HTTPS Browser Padlock<a href="https://threatpost.com/mozilla-fixes-firefox-flaw/165501/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mozilla Foundation releases Firefox 88, fixing 13 bugs ranging from high to low severity. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns customers to patch 3 zero-days exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-patch-3-zero-days-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security hardware manufacturer SonicWall is urging customers to patch a set of three zero-day vulnerabilities affecting both its on-premises and hosted Email Security products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joker Malware Pinches 500,000 Huawei Android Users<a href="https://cyware.com/news/joker-malware-pinches-500000-huawei-android-users-97a34741"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly half a million Huawei users reportedly downloaded applications hosting the Joker malware that subscribes the victims to unwanted premium mobile services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Claims to Have Hacked Domino’s<a href="https://www.infosecurity-magazine.com:443/news/threat-actor-claims-to-have-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacker claims to have stolen 13TBs of data from multinational pizza chain’s Indian wing
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical update: Facebook Messenger users hit by scammers in over 80 states<a href="https://securityaffairs.co/wordpress/117044/cyber-crime/facebook-messenger-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from security firm Group-IB have detected a large-scale scam campaign targeting Facebook Messenger users all over the world.
+
+
+
+Group-IB has detected a large-scale scam campaign targeting Facebook Messenger users all over the world. Group-IB Digital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign threat actors used fake LinkedIn profiles to lure 10,000 UK nationals<a href="https://www.scmagazine.com/home/security-news/foreign-threat-actors-used-fake-linkedin-profiles-to-lure-10000-uk-nationals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeting shows that humans remain the weak link in any cyber and data security strategy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GEICO Alerts Customers Hackers Stole Driver License Data for Two Months<a href="https://threatpost.com/geico-alerts-hackers-stole-driver-license-data/165493/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second-largest auto insurance provider in the U.S. has since fixed the vulnerability that exposed information from its website.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eversource Energy data breach caused by unsecured cloud storage<a href="https://www.bleepingcomputer.com/news/security/eversource-energy-data-breach-caused-by-unsecured-cloud-storage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eversource, the largest power supplier in New England, has suffered a data breach after customers' personal information was exposed on an unsecured cloud server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tactics Provide Invisibility Cloak to Ransomware Attacks<a href="https://cyware.com/news/new-tactics-provide-invisibility-cloak-to-ransomware-attacks-ddefb7ab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts recently discovered that ransomware groups have now upgraded to newer tools and strategies to hinder and complicate forensic investigations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT hides malicious code within BMP image to avoid detection<a href="https://securityaffairs.co/wordpress/117035/apt/lazarus-apt-bmp-image.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is abusing bitmap (.BMP) image files in a recent spear-phishing campaign targeting entities in South Korea. 
+
+
+
+Experts from Malwarebytes have uncovered a spear-phishing attack conducted by a North Korea-linked Lazarus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grip Security grabs more cash to lead ‘gold rush’ to cloud security development<a href="https://www.scmagazine.com/home/security-news/cloud-security/grip-security-grabs-more-cash-to-lead-gold-rush-to-cloud-security-development/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli-based startup, which focuses on mapping out how cloud-based software interacts with other third party applications and other vendors, raised $6 million to help tackle the increasingly urgent security problem of software supply chain compromise.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft partially fixes Windows 7, Server 2008 vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-partially-fixes-windows-7-server-2008-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has silently issued a partial fix for a local privilege escalation (LPE) vulnerability impacting all Windows 7 and Server 2008 R2 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution vulnerabilities discovered in Cosori smart air fryer<a href="https://blog.talosintelligence.com/2021/04/vuln-spotlight-co.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2020-28592 and CVE-2020-28593 are remote code execution vulnerabilities that could allow an attacker to remotely inject code into the device to change temperatures, cooking times, and settings.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Messenger Users Targeted by Scammers Across 84 Countries<a href="https://www.group-ib.com/media/facebook-massenger-scammers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To facilitate the moderation process in Facebook and bypass its scam filters, scammers used shortened links created with the help of such services as linktr.ee, bit.ly, cutt.us, cutt.ly, and rb.gy.
+</details>
+<div style="text-align: right" markdown="1">
+Group-IB
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Spotlight: Multiple vulnerabilities in Synology DiskStation Manager<a href="https://blog.talosintelligence.com/2021/04/vuln-spotlight-synology-dsm.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit CVE-2021-26560, CVE-2021-26561, and CVE-2021-26562 with a man-in-the-middle technique to gain the ability to remotely execute code on the targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure VPN zero-day used to hack defense firms, govt orgs<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-zero-day-used-to-hack-defense-firms-govt-orgs/"> Full Text</a>
 </p>
 <details>
