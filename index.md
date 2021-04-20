@@ -34,6 +34,338 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geico data breach exposed customers' driver's license numbers<a href="https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Car insurance provider Geico has suffered a data breach where threat actors stole the driver's licenses for policyholders for over a month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iron Tiger APT Group Roars Louder With New Toolkit<a href="https://cyware.com/news/iron-tiger-apt-group-roars-louder-with-new-toolkit-2a246766"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iron Tiger threat actor group was spotted using an upgraded toolkit in an 18-month old cyberespionage campaign against a gambling firm in the Philippines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Apple approves Parler's return to App Store | White House scales back response to SolarWinds, Microsoft incidents | Pressure mounts on DHS over relationship with Clearview AI<a href="https://thehill.com//policy/technology/overnights/549094-hillicon-valley-apple-approves-parlers-return-to-app-store-white"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple told Republicans it will welcome an updated version of Parler back into its App Store with approved content moderation changes. Meanwhile, the Biden administration announced it is scaling back its initial response to both the SolarWinds and Microsoft Exchange Server hacking incidents, and the Department of Homeland Security is coming under pressure to discontinue its relationship with Clearview AI. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Announces First Canadian Office<a href="https://www.infosecurity-magazine.com:443/news/cloudflare-announces-first/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American tech company’s plan to open new office in Toronto is welcomed by city’s mayor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No Server Left Behind: The Justice Department’s Novel Law Enforcement Operation to Protect Victims<a href="https://www.lawfareblog.com/no-server-left-behind-justice-departments-novel-law-enforcement-operation-protect-victims"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice recently announced that it undertook a law enforcement operation to remove malware from hundreds of victim systems in the United States. What’s the significance of the move?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts demonstrated how to hack a utility and take over a smart meter<a href="https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the FireEye’s Mandiant team have breached the network of a North American utility and turn off one of its smart meters.
+
+
+
+Over the years, the number of attacks against ICS/SCADA systems used by industrial organizations worldwide has rapidly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House closes SolarWinds, Microsoft Exchange focus groups, signaling return to normalcy<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-closes-solarwinds-microsoft-exchange-focus-groups-signaling-return-to-normalcy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration’s handling of the two cyber incidents in coordination with industry leaves some in the community hopeful that a functioning interagency system will reemerge after years of atrophy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Alerts continues to be a hotbed of scams and malware<a href="https://www.bleepingcomputer.com/news/security/google-alerts-continues-to-be-a-hotbed-of-scams-and-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Alerts continues to be a hotbed of scams and malware that threat actors are increasingly abusing to promote malicious websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Computers Face Increased Ransomware Attacks - Kaspersky Report<a href="https://cyware.com/news/ics-computers-face-increased-ransomware-attacks-kaspersky-report-a50e9ab5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new report, Kaspersky noted that developed countries faced a large number of ransomware attacks on ICS systems during the pandemic owing to their consistency in keeping businesses up and running.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House 'standing down' emergency response groups to SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/549012-white-house-standing-down-emergency-response-groups-to-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is “standing down” coordinated efforts by several key agencies to respond to recent major cybersecurity incidents including the SolarWinds hack, a senior administration official announced Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard to Acquire Ekata<a href="https://www.infosecurity-magazine.com:443/news/mastercard-to-acquire-ekata/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital ID verification company to be acquired for $850m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks made more than $560K with a simple clipboard hijacker<a href="https://securityaffairs.co/wordpress/116995/cyber-crime/hackboss-clipboard-hijacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast researchers analyzed the activity of a simple cryptocurrency malware dubbed HackBoss that allowed its operators to earn over $560K. 
+
+
+
+While the value of major cryptocurrencies continues to increase, cybercriminals and malware authors focus their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese threat actors extract big data and sell it on the dark web<a href="https://www.scmagazine.com/home/security-news/database-security/chinese-threat-actors-extract-big-data-and-sell-it-on-the-dark-web/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data ranges from lottery and stock data to commercial databases of Canadian and U.S. businesses.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beverage Giant C&C Group Subsidiary Suffers IT Systems Outage Due to Security Incident<a href="https://portswigger.net/daily-swig/drinks-giant-c-amp-c-group-subsidiary-shuts-down-it-systems-following-security-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matthew Clark Bibendum (MCB), a distributor of alcoholic beverages and soft drinks in the UK and Ireland, says it’s working to restore IT systems following a cybersecurity incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Charges Nigerian with Elder Fraud<a href="https://www.infosecurity-magazine.com:443/news/us-charges-nigerian-with-elder/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland resident accused of conning seniors out of nearly half a million dollars over social media
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XCSSET malware now targets macOS 11 and M1-based Macs<a href="https://securityaffairs.co/wordpress/116983/malware/xcsset-malware-apple-m1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XCSSET, a Mac malware targeting Xcode developers, was now re-engineered and employed in a campaign aimed at Apple's new M1 chips.
+
+
+
+Experts from Trend Micro have uncovered a Mac malware campaign targeting Xcode developers that employed a re-engineered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad bot traffic reaching an all-time high over the past year<a href="https://www.helpnetsecurity.com/2021/04/19/bad-bot-traffic-high/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There was a 372% increase in bad bot traffic on healthcare websites since September 2020. As vaccines became more widely available, bot activity was recorded at rates of 12,000 requests per hour.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk Ransomware Anatomy of an Attack in 2021<a href="https://www.advanced-intel.com/post/adversary-dossier-ryuk-ransomware-anatomy-of-an-attack-in-2021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advintel observed actors conducting OSINT research related to the compromised host domain to identify the infected victim company and evaluate their revenue to assess what the ransom amount will be.
+</details>
+<div style="text-align: right" markdown="1">
+Advanced Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment transaction volume using 3-D Secure protocol grows globally<a href="https://www.helpnetsecurity.com/2021/04/19/payment-transaction-volume/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA has published its latest quarterly fraud report, reinforcing the migration to more precise payment authentication methods and showing a notable spike in brand abuse attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress could treat Google FloC as a security issue<a href="https://www.zdnet.com/article/wordpress-could-treat-google-floc-as-a-security-issue/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backlash against Google's Federated Learning of Cohorts (FLoC) has continued, with a proposal raised in WordPress Core to block the alternative identifier to third-party cookies by default.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

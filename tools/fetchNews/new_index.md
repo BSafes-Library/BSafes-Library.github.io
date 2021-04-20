@@ -37,22 +37,6 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Hillicon Valley: Apple approves Parler's return to App Store | White House scales back response to SolarWinds, Microsoft incidents | Pressure mounts on DHS over relationship with Clearview AI<a href="https://thehill.com//policy/technology/overnights/549094-hillicon-valley-apple-approves-parlers-return-to-app-store-white"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Apple told Republicans it will welcome an updated version of Parler back into its App Store with approved content moderation changes. Meanwhile, the Biden administration announced it is scaling back its initial response to both the SolarWinds and Microsoft Exchange Server hacking incidents, and the Department of Homeland Security is coming under pressure to discontinue its relationship with Clearview AI. 
-</details>
-<div style="text-align: right" markdown="1">
-The Hill
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
 Geico data breach exposed customers' driver's license numbers<a href="https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/"> Full Text</a>
 </p>
 <details>
@@ -69,14 +53,62 @@ BleepingComputer
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-White House closes SolarWinds, Microsoft Exchange focus groups, signaling return to normalcy<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-closes-solarwinds-microsoft-exchange-focus-groups-signaling-return-to-normalcy/"> Full Text</a>
+Iron Tiger APT Group Roars Louder With New Toolkit<a href="https://cyware.com/news/iron-tiger-apt-group-roars-louder-with-new-toolkit-2a246766"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The Biden administration’s handling of the two cyber incidents in coordination with industry leaves some in the community hopeful that a functioning interagency system will reemerge after years of atrophy.
+Iron Tiger threat actor group was spotted using an upgraded toolkit in an 18-month old cyberespionage campaign against a gambling firm in the Philippines.
 </details>
 <div style="text-align: right" markdown="1">
-SCMagazine
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Apple approves Parler's return to App Store | White House scales back response to SolarWinds, Microsoft incidents | Pressure mounts on DHS over relationship with Clearview AI<a href="https://thehill.com//policy/technology/overnights/549094-hillicon-valley-apple-approves-parlers-return-to-app-store-white"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple told Republicans it will welcome an updated version of Parler back into its App Store with approved content moderation changes. Meanwhile, the Biden administration announced it is scaling back its initial response to both the SolarWinds and Microsoft Exchange Server hacking incidents, and the Department of Homeland Security is coming under pressure to discontinue its relationship with Clearview AI. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Announces First Canadian Office<a href="https://www.infosecurity-magazine.com:443/news/cloudflare-announces-first/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American tech company’s plan to open new office in Toronto is welcomed by city’s mayor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No Server Left Behind: The Justice Department’s Novel Law Enforcement Operation to Protect Victims<a href="https://www.lawfareblog.com/no-server-left-behind-justice-departments-novel-law-enforcement-operation-protect-victims"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice recently announced that it undertook a law enforcement operation to remove malware from hundreds of victim systems in the United States. What’s the significance of the move?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -105,27 +137,11 @@ Security Affairs
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Google Alerts continues to be a hotbed of scams and malware<a href="https://www.bleepingcomputer.com/news/security/google-alerts-continues-to-be-a-hotbed-of-scams-and-malware/"> Full Text</a>
+White House closes SolarWinds, Microsoft Exchange focus groups, signaling return to normalcy<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/white-house-closes-solarwinds-microsoft-exchange-focus-groups-signaling-return-to-normalcy/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Google Alerts continues to be a hotbed of scams and malware that threat actors are increasingly abusing to promote malicious websites.
-</details>
-<div style="text-align: right" markdown="1">
-BleepingComputer
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Chinese threat actors extract big data and sell it on the dark web<a href="https://www.scmagazine.com/home/security-news/database-security/chinese-threat-actors-extract-big-data-and-sell-it-on-the-dark-web/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The stolen data ranges from lottery and stock data to commercial databases of Canadian and U.S. businesses.
+The Biden administration’s handling of the two cyber incidents in coordination with industry leaves some in the community hopeful that a functioning interagency system will reemerge after years of atrophy.
 </details>
 <div style="text-align: right" markdown="1">
 SCMagazine
@@ -137,46 +153,14 @@ SCMagazine
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-No Server Left Behind: The Justice Department’s Novel Law Enforcement Operation to Protect Victims<a href="https://www.lawfareblog.com/no-server-left-behind-justice-departments-novel-law-enforcement-operation-protect-victims"> Full Text</a>
+Google Alerts continues to be a hotbed of scams and malware<a href="https://www.bleepingcomputer.com/news/security/google-alerts-continues-to-be-a-hotbed-of-scams-and-malware/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The U.S. Department of Justice recently announced that it undertook a law enforcement operation to remove malware from hundreds of victim systems in the United States. What’s the significance of the move?
+Google Alerts continues to be a hotbed of scams and malware that threat actors are increasingly abusing to promote malicious websites.
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-NitroRansomware Asks for $9.99 Discord Gift Codes, Steals Access Tokens<a href="https://threatpost.com/nitroransomware-discord-gift-codes/165488/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The malware seems like a silly coding lark at first, but further exploration shows it can wreak serious damage in follow-on attacks. 
-</details>
-<div style="text-align: right" markdown="1">
-Threatpost
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Iron Tiger APT Group Roars Louder With New Toolkit<a href="https://cyware.com/news/iron-tiger-apt-group-roars-louder-with-new-toolkit-2a246766"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Iron Tiger threat actor group was spotted using an upgraded toolkit in an 18-month old cyberespionage campaign against a gambling firm in the Philippines.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware Alerts - Hacker News
+BleepingComputer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -201,14 +185,30 @@ Cyware Alerts - Hacker News
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Ransomware: A Deep Dive into 2021 Emerging Cyber-Risks<a href="https://threatpost.com/ebook-2021-ransomware-emerging-risks/165477/"> Full Text</a>
+White House 'standing down' emergency response groups to SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/549012-white-house-standing-down-emergency-response-groups-to-solarwinds"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Our new eBook goes beyond the status quo to take a look at the evolution of ransomware and what to prepare for next.
+The Biden administration is “standing down” coordinated efforts by several key agencies to respond to recent major cybersecurity incidents including the SolarWinds hack, a senior administration official announced Monday. 
 </details>
 <div style="text-align: right" markdown="1">
-Threatpost
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard to Acquire Ekata<a href="https://www.infosecurity-magazine.com:443/news/mastercard-to-acquire-ekata/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital ID verification company to be acquired for $850m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -237,30 +237,14 @@ Security Affairs
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-White House 'standing down' emergency response groups to SolarWinds, Microsoft hacks<a href="https://thehill.com//policy/cybersecurity/549012-white-house-standing-down-emergency-response-groups-to-solarwinds"> Full Text</a>
+Chinese threat actors extract big data and sell it on the dark web<a href="https://www.scmagazine.com/home/security-news/database-security/chinese-threat-actors-extract-big-data-and-sell-it-on-the-dark-web/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The Biden administration is “standing down” coordinated efforts by several key agencies to respond to recent major cybersecurity incidents including the SolarWinds hack, a senior administration official announced Monday. 
+The stolen data ranges from lottery and stock data to commercial databases of Canadian and U.S. businesses.
 </details>
 <div style="text-align: right" markdown="1">
-The Hill
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cloudflare Announces First Canadian Office<a href="https://www.infosecurity-magazine.com:443/news/cloudflare-announces-first/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-American tech company’s plan to open new office in Toronto is welcomed by city’s mayor
-</details>
-<div style="text-align: right" markdown="1">
-Infosecurity Magazine
+SCMagazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -285,11 +269,11 @@ The Daily Swig
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Mastercard to Acquire Ekata<a href="https://www.infosecurity-magazine.com:443/news/mastercard-to-acquire-ekata/"> Full Text</a>
+US Charges Nigerian with Elder Fraud<a href="https://www.infosecurity-magazine.com:443/news/us-charges-nigerian-with-elder/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Digital ID verification company to be acquired for $850m
+Maryland resident accused of conning seniors out of nearly half a million dollars over social media
 </details>
 <div style="text-align: right" markdown="1">
 Infosecurity Magazine
@@ -329,22 +313,6 @@ There was a 372% increase in bad bot traffic on healthcare websites since Septem
 </details>
 <div style="text-align: right" markdown="1">
 Help Net Security
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-US Charges Nigerian with Elder Fraud<a href="https://www.infosecurity-magazine.com:443/news/us-charges-nigerian-with-elder/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Maryland resident accused of conning seniors out of nearly half a million dollars over social media
-</details>
-<div style="text-align: right" markdown="1">
-Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -393,38 +361,6 @@ The backlash against Google's Federated Learning of Cohorts (FLoC) has continued
 </details>
 <div style="text-align: right" markdown="1">
 ZDNet
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Ransomware attack on 24 schools near Bristol impacts more than 1,000 devices<a href="https://www.bristolpost.co.uk/news/bristol-news/latest-ransomware-attack-24-schools-5308911?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-More than 1,000 devices are having to be rebuilt and many teachers could start the new term on Monday (April 19) without laptops, whiteboards, and other vital equipment and resources.
-</details>
-<div style="text-align: right" markdown="1">
-Bristol Live
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-ioXt Alliance expands its Compliance Program to bring transparency to mobile apps and VPNs<a href="https://www.helpnetsecurity.com/2021/04/19/ioxt-alliance-compliance-program/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The ioXt Alliance announced that it is expanding its ioXt Compliance Program with a new mobile application profile with added requirements for VPN applications to mitigate potential security risks.
-</details>
-<div style="text-align: right" markdown="1">
-Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
