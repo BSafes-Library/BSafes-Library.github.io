@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit Card Data of Nearly 1 Million Domino's Pizza India Customers Allegedly Sold Online<a href="https://ciso.economictimes.indiatimes.com/news/dominos-india-hacked-credit-data-of-10l-users-on-sale-for-rs-4-cr/82137529?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity researcher claimed that credit card details of nearly 1 million people who purchased online on Domino's Pizza India, is allegedly being sold for around $550,000 on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major data breach at cleaning and catering company Spotless<a href="https://www.stuff.co.nz/business/124859495/major-data-breach-at-cleaning-and-catering-company-spotless?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potentially exposed data could have included the names, email addresses, phone numbers, and residential addresses as well as passport details and tax numbers of current and former employees.
+</details>
+<div style="text-align: right" markdown="1">
+Stuff NZ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov was a victim of a supply chain attack<a href="https://securityaffairs.co/wordpress/116967/hacking/codecov-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The software company Codecov suffered a security breach, threat actors compromised the supply chain of one of its tools.
+
+
+
+A new supply chain attack made the headlines, the software company Codecov recently disclosed a major security breach after a threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

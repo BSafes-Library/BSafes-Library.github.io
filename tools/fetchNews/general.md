@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordless: More Mirage Than Reality<a href="https://thehackernews.com/2021/04/passwordless-more-mirage-than-reality.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of "passwordless" authentication has been gaining significant industry and media attention. And for a good reason. Our digital lives are demanding an ever-increasing number of online accounts and services, with security best practices dictating that each requires a strong, unique password in order to ensure data stays safe. Who wouldn't want an easier way?  That's the premise behind one-time passwords (OTP), biometrics, pin codes, and other authentication methods presented as passwordless security. Rather than remembering cumbersome passwords, users can authenticate themselves using something they own, know, or are. Some examples include a smartphone, OTP, hardware token, or biometric marker like a fingerprint. While this sounds appealing on the surface, the problem is that, when you dig deeper, these passwordless solutions are still reliant on passwords.  This happens in two primary ways:  Passwordless Solutions Rely on Passwords as a Fallback  If you ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Growing reliance on third-party suppliers signals increasing security risks<a href="https://www.zdnet.com/article/growing-reliance-on-third-party-suppliers-signals-increasing-security-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries are turning their focus on cheaper, easier targets within an organization's supply chain, especially as businesses increasingly acquire software from external suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

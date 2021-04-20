@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Claim to Sell 50GB of Data Exfiltrated from OTP-Generating Company<a href="https://www.hackread.com/hacker-selling-data-from-otp-generating-firm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from OTP codes, other data included in the sale involved personally identifiable information (PII) such as SMS logs, mobile numbers, email addresses, SMPP details, customer documents, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
