@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Codecov hackers breached hundreds of restricted customer sites: sources<a href="https://www.reuters.com/article/us-usa-cyber-codecov/codecov-hackers-breached-hundreds-of-restricted-customer-sites-sources-idUSKBN2C62XI?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers used automation to rapidly copy customer credentials and raid additional resources, the investigators said, expanding the breach beyond the initial disclosure by Codecov on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Coding error allowed attackers to delete Facebook live video<a href="https://www.zdnet.com/article/coding-error-allowed-attackers-to-delete-facebook-live-video/?&web_view=true"> Full Text</a>
 </p>
 <details>
