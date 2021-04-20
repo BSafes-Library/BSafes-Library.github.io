@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Hackers are now using BMP images to hide RAT malware<a href="https://thehackernews.com/2021/04/lazarus-apt-hackers-are-now-using-bmp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing attack operated by a North Korean threat actor targeting its southern counterpart has been found to conceal its malicious code within a bitmap (.BMP) image file to drop a remote access trojan (RAT) capable of stealing sensitive information.  Attributing the attack to the  Lazarus Group  based on similarities to prior tactics adopted by the adversary, researchers from Malwarebytes said the phishing campaign started by distributing emails laced with a malicious document that it identified on April 13.   "The actor has used a clever method to bypass security mechanisms in which it has embedded its malicious  HTA  file as a compressed  zlib  file within a PNG file that then has been decompressed during run time by converting itself to the BMP format," Malwarebytes researchers  said .   "The dropped payload was a loader that decoded and decrypted the second stage payload into memory. The second stage payload has the capability to receive and execute commands
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NitroRansomware Asks for $9.99 Discord Gift Codes, Steals Access Tokens<a href="https://threatpost.com/nitroransomware-discord-gift-codes/165488/"> Full Text</a>
 </p>
 <details>
