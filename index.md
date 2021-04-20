@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+1 in 2 Indian adults fell prey to hacking in last 12 months<a href="https://ciso.economictimes.indiatimes.com/news/1-in-2-indian-adults-fell-prey-to-hacking-in-last-12-months/82140392?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seven in 10 Indian adults (among those surveyed) believed that remote work has made it much easier for hackers and cybercriminals to take advantage of them, a new report revealed on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Codecov hackers breached hundreds of restricted customer sites: sources<a href="https://www.reuters.com/article/us-usa-cyber-codecov/codecov-hackers-breached-hundreds-of-restricted-customer-sites-sources-idUSKBN2C62XI?&web_view=true"> Full Text</a>
 </p>
 <details>
