@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil seeks to extort Apple and hits supplier with $50 million ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/revil-seeks-to-extort-apple-and-hits-supplier-with-50-million-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil – which has been on a tear the past several weeks – wants Apple to pay an undisclosed ransom by May 1 to “buy back” 15 stolen schematics of unreleased MacBooks and gigabytes of personal data on several major Apple brands they obtained from Quanta.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Someone is using SonicWall’s email security tool to hack customers<a href="https://www.scmagazine.com/home/email-security/someone-is-using-sonicwalls-email-security-tool-to-hack-customers/"> Full Text</a>
 </p>
 <details>
