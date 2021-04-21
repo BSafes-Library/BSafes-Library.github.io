@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+120 Compromised Ad Servers Target Millions of Internet Users<a href="https://thehackernews.com/2021/04/120-compromised-ad-servers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malvertising campaign tracked as "Tag Barnakle" has been behind the breach of more than 120 ad servers over the past year to sneakily inject code in an attempt to serve malicious advertisements that redirect users to rogue websites, thus exposing victims to scamware or malware.  Unlike other operators who set about their task by infiltrating the ad-tech ecosystem using "convincing personas" to buy space on legitimate websites for running the malicious ads, Tag Barnakle is "able to bypass this initial hurdle completely by going straight for the jugular — mass compromise of ad serving infrastructure,"&nbsp; said &nbsp;Confiant security researcher Eliya Stein in a Monday write-up.   The development follows a year after the Tag Barnakle actor was found to have&nbsp; compromised nearly 60 ad servers &nbsp;in April 2020, with the infections primarily targeting an open-source advertising server called Revive.  The latest slew of attacks is no different, although the adve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,34 @@ nav_order: 900075
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: Cybersecurity Issues on the Congressional Agenda<a href="https://www.lawfareblog.com/cyberlaw-podcast-cybersecurity-issues-congressional-agenda"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Our interview is with Mark Montgomery and John Costello, both staff to the Cyberspace Solarium Commission.&nbsp;The commission, which issued its main report more than a year ago, is swinging through the pitch, following up with new white papers, draft legislative language and enthusiastic advocacy f
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration kicks off 100-day plan to shore up cybersecurity of electric grid<a href="https://thehill.com//policy/cybersecurity/549188-biden-administration-kicks-off-100-day-plan-to-shore-up-cybersecurity-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Tuesday announced it was kicking off a 100-day plan aimed at protecting the electric grid against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK Government Reviews Nvidia-Arm Deal on National Security Fears<a href="https://www.infosecurity-magazine.com:443/news/uk-government-cites-national/"> Full Text</a>
 </p>
 <details>

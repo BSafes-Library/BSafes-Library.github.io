@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT hides malicious code within BMP image to avoid detection<a href="https://securityaffairs.co/wordpress/117035/apt/lazarus-apt-bmp-image.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is abusing bitmap (.BMP) image files in a recent spear-phishing campaign targeting entities in South Korea.&nbsp;
+
+
+
+Experts from Malwarebytes have uncovered a spear-phishing attack conducted by a North Korea-linked Lazarus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

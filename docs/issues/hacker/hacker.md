@@ -11,6 +11,80 @@ nav_order: 900080
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil gang tries to extort Apple, threatens to sell stolen blueprints<a href="https://www.bleepingcomputer.com/news/security/revil-gang-tries-to-extort-apple-threatens-to-sell-stolen-blueprints/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang asked Apple to "buy back" stolen product blueprints to avoid having them leaked on REvil's leak site before today's Apple&nbsp;Spring Loaded event where the new iMac was introduced.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking a X-RAY Machine with WHIDelite &amp; EvilCrowRF<a href="https://securityaffairs.co/wordpress/117053/hacking/hacking-x-ray-machine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular cyber security expert Luca Bongiorni demonstrated how to hack an X-Ray Machine using his WHIDelite tool.
+
+
+
+Recently I bought a X-RAY machine from China to have some ghetto-style desktop setup in order to inspect/reverse engineer some PCBs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit unpatched vulnerabilities, zero day to attack governments and contractors<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/hackers-exploit-unpatched-vulnerabilities-zero-day-to-attack-governments-and-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye’s Mandiant team revealed ongoing exploitation of vulnerabilities in Pulse Secure VPN devices by at least two hacking groups, one of which they linked to China, to attack governments, defense contractors and other businesses in the U.S. and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Claims to Have Hacked Domino’s<a href="https://www.infosecurity-magazine.com:443/news/threat-actor-claims-to-have-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacker claims to have stolen 13TBs of data from multinational pizza chain’s Indian wing
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign threat actors used fake LinkedIn profiles to lure 10,000 UK nationals<a href="https://www.scmagazine.com/home/security-news/foreign-threat-actors-used-fake-linkedin-profiles-to-lure-10000-uk-nationals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeting shows that humans remain the weak link in any cyber and data security strategy.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Watch out, hackers can take over your Cosori Smart Air Fryer<a href="https://securityaffairs.co/wordpress/117024/hacking/cosori-smart-air-fryer-flaws.html"> Full Text</a>
 </p>
 <details>

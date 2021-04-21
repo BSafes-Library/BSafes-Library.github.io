@@ -11,6 +11,104 @@ nav_order: 900220
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Fixes Firefox Flaw That Allowed Spoofing of HTTPS Browser Padlock<a href="https://threatpost.com/mozilla-fixes-firefox-flaw/165501/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mozilla Foundation releases Firefox 88, fixing 13 bugs ranging from high to low severity. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns customers to patch 3 zero-days exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-patch-3-zero-days-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security hardware manufacturer SonicWall is urging customers to patch a set of three zero-day vulnerabilities affecting both its on-premises and hosted&nbsp;Email Security&nbsp;products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft partially fixes Windows 7, Server 2008 vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-partially-fixes-windows-7-server-2008-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has silently issued a partial fix for a local privilege escalation (LPE) vulnerability impacting all Windows 7 and Server 2008 R2 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution vulnerabilities discovered in Cosori smart air fryer<a href="https://blog.talosintelligence.com/2021/04/vuln-spotlight-co.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2020-28592 and CVE-2020-28593 are remote code execution vulnerabilities that could allow an attacker to remotely inject code into the device to change temperatures, cooking times, and settings.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Spotlight: Multiple vulnerabilities in Synology DiskStation Manager<a href="https://blog.talosintelligence.com/2021/04/vuln-spotlight-synology-dsm.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit CVE-2021-26560, CVE-2021-26561, and CVE-2021-26562 with a man-in-the-middle technique to gain the ability to remotely execute code on the targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPN zero-day used to hack defense firms, govt orgs<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-zero-day-used-to-hack-defense-firms-govt-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has shared mitigation measures&nbsp;for a&nbsp;zero-day authentication bypass vulnerability&nbsp;in the Pulse Connect Secure (PCS) SSL VPN&nbsp;appliance actively exploited against US&nbsp;Defense Industrial base (DIB) networks and worldwide organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Chromium bug used to attack Chinese WeChat users<a href="https://therecord.media/recent-chromium-bug-used-to-attack-chinese-wechat-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chrome vulnerability exploit published online last week has been weaponized and abused to attack WeChat users in China, a local security firm Qingteng Cloud Security reported on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 WeChat users targeted by hackers using recently disclosed Chromium exploit<a href="https://securityaffairs.co/wordpress/117017/hacking/wechat-chromium-bug-attack.html"> Full Text</a>
 </p>
 <details>

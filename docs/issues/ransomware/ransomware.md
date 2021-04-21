@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School District’s Files Leaked in $40m Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/broward-files-leaked-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers leak Florida school district’s files online when their ransom demand isn’t met
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tactics Provide Invisibility Cloak to Ransomware Attacks<a href="https://cyware.com/news/new-tactics-provide-invisibility-cloak-to-ransomware-attacks-ddefb7ab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts recently discovered that ransomware groups have now upgraded to newer tools and strategies to hinder and complicate forensic investigations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

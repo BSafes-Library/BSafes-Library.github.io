@@ -34,7 +34,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden administration kicks off 100-day plan to secure the grid | Daily Mail owner files antitrust suit against Google<a href="https://thehill.com//policy/technology/overnights/549339-hillicon-valley-biden-administration-kicks-off-100-day-plan-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Tuesday kicked off a 100-day plan to secure the electric grid amid mounting threats. Meanwhile, the parent company of the Daily Mail is suing Google over allegations that it maintained a monopoly in the ads space, and Apple unveiled a new tracking product that is raising concerns. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dating Service Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/dating-service-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attackers gain access to Manhunt’s accounts database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil gang tries to extort Apple, threatens to sell stolen blueprints<a href="https://www.bleepingcomputer.com/news/security/revil-gang-tries-to-extort-apple-threatens-to-sell-stolen-blueprints/"> Full Text</a>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot Replaces IcedID in Malspam Campaigns<a href="https://cyware.com/news/qbot-replaces-icedid-in-malspam-campaigns-78b2a562"> Full Text</a>
@@ -66,7 +98,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple agencies breached by hackers using Pulse Secure vulnerabilities<a href="https://thehill.com//policy/cybersecurity/549326-multiple-agencies-breached-by-hackers-using-pulse-secure-vulnerabilities"> Full Text</a>
@@ -82,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 750,000 Users Downloaded New Billing Fraud Apps From Google Play Store<a href="https://thehackernews.com/2021/04/over-750000-users-download-new-billing.html"> Full Text</a>
@@ -98,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 School District’s Files Leaked in $40m Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/broward-files-leaked-ransomware/"> Full Text</a>
@@ -114,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Cyberlaw Podcast: Cybersecurity Issues on the Congressional Agenda<a href="https://www.lawfareblog.com/cyberlaw-podcast-cybersecurity-issues-congressional-agenda"> Full Text</a>
@@ -130,7 +162,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking a X-RAY Machine with WHIDelite & EvilCrowRF<a href="https://securityaffairs.co/wordpress/117053/hacking/hacking-x-ray-machine.html"> Full Text</a>
@@ -150,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit unpatched vulnerabilities, zero day to attack governments and contractors<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/hackers-exploit-unpatched-vulnerabilities-zero-day-to-attack-governments-and-contractors/"> Full Text</a>
@@ -166,7 +198,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Fixes Firefox Flaw That Allowed Spoofing of HTTPS Browser Padlock<a href="https://threatpost.com/mozilla-fixes-firefox-flaw/165501/"> Full Text</a>
@@ -182,7 +214,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall warns customers to patch 3 zero-days exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-patch-3-zero-days-exploited-in-the-wild/"> Full Text</a>
@@ -198,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joker Malware Pinches 500,000 Huawei Android Users<a href="https://cyware.com/news/joker-malware-pinches-500000-huawei-android-users-97a34741"> Full Text</a>
@@ -214,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Claims to Have Hacked Domino’s<a href="https://www.infosecurity-magazine.com:443/news/threat-actor-claims-to-have-hacked/"> Full Text</a>
@@ -230,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical update: Facebook Messenger users hit by scammers in over 80 states<a href="https://securityaffairs.co/wordpress/117044/cyber-crime/facebook-messenger-scammers.html"> Full Text</a>
@@ -250,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Foreign threat actors used fake LinkedIn profiles to lure 10,000 UK nationals<a href="https://www.scmagazine.com/home/security-news/foreign-threat-actors-used-fake-linkedin-profiles-to-lure-10000-uk-nationals/"> Full Text</a>
@@ -266,7 +298,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GEICO Alerts Customers Hackers Stole Driver License Data for Two Months<a href="https://threatpost.com/geico-alerts-hackers-stole-driver-license-data/165493/"> Full Text</a>
@@ -282,7 +314,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eversource Energy data breach caused by unsecured cloud storage<a href="https://www.bleepingcomputer.com/news/security/eversource-energy-data-breach-caused-by-unsecured-cloud-storage/"> Full Text</a>
@@ -298,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Tactics Provide Invisibility Cloak to Ransomware Attacks<a href="https://cyware.com/news/new-tactics-provide-invisibility-cloak-to-ransomware-attacks-ddefb7ab"> Full Text</a>
@@ -314,7 +346,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT hides malicious code within BMP image to avoid detection<a href="https://securityaffairs.co/wordpress/117035/apt/lazarus-apt-bmp-image.html"> Full Text</a>
@@ -334,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grip Security grabs more cash to lead ‘gold rush’ to cloud security development<a href="https://www.scmagazine.com/home/security-news/cloud-security/grip-security-grabs-more-cash-to-lead-gold-rush-to-cloud-security-development/"> Full Text</a>
@@ -350,7 +382,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft partially fixes Windows 7, Server 2008 vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-partially-fixes-windows-7-server-2008-vulnerability/"> Full Text</a>
@@ -366,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote code execution vulnerabilities discovered in Cosori smart air fryer<a href="https://blog.talosintelligence.com/2021/04/vuln-spotlight-co.html?&web_view=true"> Full Text</a>
@@ -382,7 +414,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Messenger Users Targeted by Scammers Across 84 Countries<a href="https://www.group-ib.com/media/facebook-massenger-scammers/?&web_view=true"> Full Text</a>
@@ -398,7 +430,7 @@ Group-IB
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Spotlight: Multiple vulnerabilities in Synology DiskStation Manager<a href="https://blog.talosintelligence.com/2021/04/vuln-spotlight-synology-dsm.html?&web_view=true"> Full Text</a>
@@ -414,7 +446,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure VPN zero-day used to hack defense firms, govt orgs<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-vpn-zero-day-used-to-hack-defense-firms-govt-orgs/"> Full Text</a>
@@ -430,7 +462,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recent Chromium bug used to attack Chinese WeChat users<a href="https://therecord.media/recent-chromium-bug-used-to-attack-chinese-wechat-users/?&web_view=true"> Full Text</a>
@@ -446,7 +478,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration kicks off 100-day plan to shore up cybersecurity of electric grid<a href="https://thehill.com//policy/cybersecurity/549188-biden-administration-kicks-off-100-day-plan-to-shore-up-cybersecurity-of"> Full Text</a>
@@ -462,7 +494,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts demonstrated how to hack a utility and take over a smart meter<a href="https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html?&web_view=true"> Full Text</a>
@@ -478,7 +510,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Geico customers' driver's license numbers exposed in breach<a href="https://thehill.com//policy/cybersecurity/549187-geico-customers-drivers-license-numbers-exposed-in-breach"> Full Text</a>

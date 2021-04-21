@@ -11,6 +11,20 @@ nav_order: 900027
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Grip Security grabs more cash to lead ‘gold rush’ to cloud security development<a href="https://www.scmagazine.com/home/security-news/cloud-security/grip-security-grabs-more-cash-to-lead-gold-rush-to-cloud-security-development/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli-based startup, which focuses on mapping out how cloud-based software interacts with other third party applications and other vendors, raised $6 million to help tackle the increasingly urgent security problem of software supply chain compromise.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Druva raises $147M to continue expansion of Druva Cloud Platform<a href="https://www.helpnetsecurity.com/2021/04/20/druva-147m-investment/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

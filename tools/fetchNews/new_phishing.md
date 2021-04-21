@@ -11,6 +11,38 @@ nav_order: 900160
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical update: Facebook Messenger users hit by scammers in over 80 states<a href="https://securityaffairs.co/wordpress/117044/cyber-crime/facebook-messenger-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from security firm Group-IB have detected a large-scale scam campaign targeting Facebook Messenger users all over the world.
+
+
+
+Group-IB has detected a large-scale scam campaign targeting Facebook Messenger users all over the world. Group-IB&nbsp;Digital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Messenger Users Targeted by Scammers Across 84 Countries<a href="https://www.group-ib.com/media/facebook-massenger-scammers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To facilitate the moderation process in Facebook and bypass its scam filters, scammers used shortened links created with the help of such services as linktr.ee, bit.ly, cutt.us, cutt.ly, and rb.gy.
+</details>
+<div style="text-align: right" markdown="1">
+Group-IB
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Spearphishing Campaign by Russian Espionage Group Gamaredon Infects Ukrainian Officials<a href="https://www.cyberscoop.com/gamaredon-russia-ukraine-border-primitive-bear/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

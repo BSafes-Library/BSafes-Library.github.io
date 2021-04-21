@@ -11,6 +11,76 @@ nav_order: 900029
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dating Service Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/dating-service-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attackers gain access to Manhunt’s accounts database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple agencies breached by hackers using Pulse Secure vulnerabilities<a href="https://thehill.com//policy/cybersecurity/549326-multiple-agencies-breached-by-hackers-using-pulse-secure-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities announced Tuesday that hackers breached multiple government agencies and other critical organizations&nbsp;by&nbsp;exploiting&nbsp;vulnerabilities in&nbsp;products from a Utah-based software company.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GEICO Alerts Customers Hackers Stole Driver License Data for Two Months<a href="https://threatpost.com/geico-alerts-hackers-stole-driver-license-data/165493/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second-largest auto insurance provider in the U.S. has since fixed the vulnerability that exposed information from its website.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eversource Energy data breach caused by unsecured cloud storage<a href="https://www.bleepingcomputer.com/news/security/eversource-energy-data-breach-caused-by-unsecured-cloud-storage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eversource, the largest power supplier in New England, has suffered a data breach after customers' personal information was exposed on an unsecured cloud server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geico customers' driver's license numbers exposed in breach<a href="https://thehill.com//policy/cybersecurity/549187-geico-customers-drivers-license-numbers-exposed-in-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Geico data breach that lasted over a month earlier this year exposed customers’ driver’s license numbers to hackers, according to a notice filed with California’s attorney general earlier this month.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 120 Compromised Ad Servers Target Millions of Internet Users<a href="https://thehackernews.com/2021/04/120-compromised-ad-servers-target.html"> Full Text</a>
 </p>
 <details>

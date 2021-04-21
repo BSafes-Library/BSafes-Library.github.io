@@ -11,6 +11,24 @@ nav_order: 900080
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Watch out, hackers can take over your Cosori Smart Air Fryer<a href="https://securityaffairs.co/wordpress/117024/hacking/cosori-smart-air-fryer-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Watch out, hackers could breach into your house by exploiting two remote code execution (RCE) vulnerabilities in the Cosori Smart Air Fryer.
+
+
+
+Security experts from Cisco Talos have found two remote code execution (RCE) vulnerabilities in the Cosori...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Codecov hackers breached hundreds of restricted customer sites: sources<a href="https://www.reuters.com/article/us-usa-cyber-codecov/codecov-hackers-breached-hundreds-of-restricted-customer-sites-sources-idUSKBN2C62XI?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
