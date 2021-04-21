@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Replaces IcedID in Malspam Campaigns<a href="https://cyware.com/news/qbot-replaces-icedid-in-malspam-campaigns-78b2a562"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals were found shuffling payloads once again. Security analysts reported two banking trojans being used alternatively to deliver various ransomware strains as the final payload in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

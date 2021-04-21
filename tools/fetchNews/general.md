@@ -11,6 +11,20 @@ nav_order: 900072
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden administration kicks off 100-day plan to secure the grid | Daily Mail owner files antitrust suit against Google<a href="https://thehill.com//policy/technology/overnights/549339-hillicon-valley-biden-administration-kicks-off-100-day-plan-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Tuesday kicked off a 100-day plan to secure the electric grid amid mounting threats. Meanwhile, the parent company of the Daily Mail is suing Google over allegations that it maintained a monopoly in the ads space, and Apple unveiled a new tracking product that is raising concerns.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 [eBook] Why Autonomous XDR Is Going to Replace NGAV/EDR<a href="https://thehackernews.com/2021/04/ebook-why-autonomous-xdr-is-going-to.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900095
 
 ## IOT
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Pressing Ahead with New IoT Law Amid Pandemic Smart Device Surge<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-iot-law-pandemic-smart/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law will impose new obligations on the manufacturers of smart devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIDO Announces New Security Standard for IoT Devices<a href="https://www.infosecurity-magazine.com:443/news/fido-security-standard-iot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The protocol is designed to better enable the deployment of IoT devices at scale
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

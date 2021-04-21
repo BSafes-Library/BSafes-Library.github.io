@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes legislation to elevate cybersecurity at the State Department<a href="https://thehill.com//policy/cybersecurity/549385-house-passes-legislation-to-elevate-cybersecurity-at-the-state"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Tuesday approved bipartisan legislation aimed at elevating cybersecurity at the State Department through prioritizing and reorganizing a key department on the heels of multiple major foreign cyberattacks against the United States.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

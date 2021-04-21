@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers threaten to leak stolen Apple blueprints if $50 million ransom isn't paid<a href="https://thehackernews.com/2021/04/hackers-threaten-to-leak-stolen-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prominent Apple supplier Quanta  on Wednesday said it suffered a ransomware attack from the REvil ransomware group, which is now demanding the iPhone maker pay a ransom of $50 million to prevent leaking sensitive files on the dark web.  In a post shared on its deep web "Happy Blog" portal, the threat actor said it came into possession of schematics of the U.S. company's products such as MacBooks and Apple Watch by infiltrating the network of the Taiwanese manufacturer, claiming it's making a ransom demand to Apple after Quanta expressed no interest in paying to recover the stolen blueprints.  "Our team is negotiating the sale of large quantities of confidential drawings and gigabytes of personal data with several major brands," the REvil operators said. "We recommend that Apple buy back the available data by May 1."   Since first detected in June 2019,&nbsp; REvil &nbsp;(aka Sodinokibi or Sodin) has emerged as one of the most prolific ransomware-as-a-servic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang recommends that Apple buy back its data stolen in Quanta hack<a href="https://securityaffairs.co/wordpress/117083/cyber-crime/revil-ransomware-apple-quanta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators are attempting to blackmail Apple after they has allegedly stolen product blueprints of the IT giant from its business partner.
+
+
+
+REvil ransomware gang is attempting to extort Apple ahead of the Apple&nbsp;Spring Loaded...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang Claims to Steal Confidential Designs of Apple Devices from Quanta Computer<a href="https://www.theregister.com/2021/04/21/ransomware_gang_extorts_apple/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil said it is "negotiating the sale" of the trove "with several major brands" and is sitting on data describing Apple's Watch, MacBook Air, and MacBook Pro, plus the Lenovo ThinkPad Z60m.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

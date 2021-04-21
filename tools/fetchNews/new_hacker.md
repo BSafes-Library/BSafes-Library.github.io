@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logins for 1.3 million Windows RDP servers collected from hacker market<a href="https://www.bleepingcomputer.com/news/security/logins-for-13-million-windows-rdp-servers-collected-from-hacker-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The login names and passwords for 1.3 million current and historically compromised Windows Remote Desktop servers have been leaked by UAS, the largest hacker marketplace for stolen RDP credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: Hackers Exploit Unpatched Pulse Secure 0-Day to Breach Organizations<a href="https://thehackernews.com/2021/04/warning-hackers-exploit-unpatched-pulse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If the Pulse Connect Secure gateway is part of your organization network, you need to be aware of a newly discovered critical zero-day authentication bypass vulnerability (CVE-2021-22893) that is currently being exploited in the wild and for which there is no patch yet.  At least two threat actors have been behind a series of intrusions targeting defense, government, and financial organizations in the U.S. and elsewhere by leveraging critical vulnerabilities in Pulse Secure VPN devices to circumvent multi-factor authentication protections and breach enterprise networks.  "A combination of prior vulnerabilities and a previously unknown vulnerability discovered in April 2021,&nbsp; CVE-2021-22893 , are responsible for the initial infection vector," cybersecurity firm FireEye&nbsp; said &nbsp;on Tuesday, identifying 12 malware families associated with the exploitation of Pulse Secure VPN appliances.   The company is also tracking the activity under two threat clusters UNC2630 and UNC2717 (&amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

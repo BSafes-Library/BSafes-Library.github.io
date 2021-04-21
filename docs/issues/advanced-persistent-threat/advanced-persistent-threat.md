@@ -8,6 +8,52 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Law Enforcement Names Chinese Military Linked Tick APT to Hundreds of Breaches<a href="https://therecord.media/japanese-police-say-tick-apt-is-linked-to-chinese-military/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese law enforcement believes a group of hackers linked to the Chinese military are behind a broad cyber-espionage campaign that has breached more than 200 Japanese companies since at least 2016.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT used Pulse Secure VPN zero-day to hack US defense contractors<a href="https://securityaffairs.co/wordpress/117060/apt/pulse-secure-vpn-zeroday-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least one China-linked APT group exploited a new zero-day flaw in Pulse Secure VPN equipment to break into the networks of US defense contractors.
+
+
+
+According to coordinated reports published by&nbsp;FireEye&nbsp;and&nbsp;Pulse Secure, two hacking groups have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple APT Groups Exploit Critical Pulse Secure Zero-Day<a href="https://www.infosecurity-magazine.com:443/news/multiple-apt-groups-exploit-pulse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers urged to take immediate action against nation state threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

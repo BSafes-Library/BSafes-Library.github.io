@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google issues Chrome update patching seven security vulnerabilities<a href="https://www.zdnet.com/article/google-issues-chrome-update-to-patch-seven-security-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released version 90.0.4430.85 of the Chrome browser for Windows, Mac, and Linux. The zero-day, which was assigned the identifier CVE-2021-21224, was described as a "type confusion in V8".
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes critical RCE vulnerabilities in NAS devices<a href="https://portswigger.net/daily-swig/qnap-fixes-critical-rce-vulnerabilities-in-nas-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP Systems has patched a pair of critical security vulnerabilities that could allow unauthenticated attackers to take control of its network-attached storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Chrome Browser ASAP to Patch a Week Old Public Exploit<a href="https://thehackernews.com/2021/04/update-your-chrome-browser-immediately.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday released an update for Chrome web browser for Windows, Mac, and Linux, with a total of seven security fixes, including one flaw for which it says an exploit exists in the wild.  Tracked as CVE-2021-21224 , the flaw concerns a type confusion vulnerability in V8 open-source JavaScript engine that was reported to the company by security researcher Jose Martinez on April 5  According to security researcher&nbsp; Lei Cao , the bug [ 1195777 ] is triggered when performing integer data type conversion, resulting in an out-of-bounds condition that could be used to achieve arbitrary memory read/write primitive.   "Google is aware of reports that exploits for CVE-2021-21224 exist in the wild," Chrome's Technical Program Manager Srinivas Sista&nbsp; said &nbsp;in a blog post.   The update comes after proof-of-concept (PoC) code  exploiting the flaw published by a researcher named " frust " emerged on April 14 by taking advantage of the fact that the issue was addressed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Zero-Day in SonicWall Enterprise Email Security Appliances actively exploited<a href="https://securityaffairs.co/wordpress/117075/hacking/sonicwall-es-zerodays.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vendor SonicWall has addressed three zero-day vulnerabilities affecting both its on-premises and hosted&nbsp;Email Security&nbsp;products.
+
+
+
+SonicWall is warning its customers to update their hosted and on-premises email security products to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Django Debug Toolbar tripped up by SQL injection flaw<a href="https://portswigger.net/daily-swig/django-debug-toolbar-tripped-up-by-sql-injection-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users who use the Django Debug Toolbar – particularly in production environments where the potential for attack is higher are advised to update to 1.11.1, 2.2.1, or 3.2.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GraphQL APIs rev up innovation – but also introduce a potential security nightmare<a href="https://www.lastwatchdog.com/my-take-graphql-apis-rev-up-innovation-but-also-introduce-a-potential-security-nightmare/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It should come as no surprise that businesses have glommed onto the data sharing and monetizing benefits of APIs while overlooking the security ramifications of APIs left unprotected.
+</details>
+<div style="text-align: right" markdown="1">
+Last Watchdog
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Zero-Day Exploits Hit SonicWall Enterprise Email Security Appliances<a href="https://thehackernews.com/2021/04/3-zero-day-exploits-hit-sonicwall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has addressed three critical security vulnerabilities in its hosted and on-premises email security (ES) product that are being actively exploited in the wild.  Tracked as CVE-2021-20021 and CVE-2021-20022, the&nbsp; flaws &nbsp;were discovered and reported to the company by FireEye's Mandiant subsidiary on March 26, 2021, after the cybersecurity firm detected post-exploitation web shell activity on an internet-accessible system within a customer's environment that had SonicWall's Email Security (ES) application running on a Windows Server 2012 installation. A third flaw (CVE-2021-20023) identified by FireEye was disclosed to SonicWall on April 6, 2021.  FireEye is tracking the malicious activity under the moniker UNC2682.   "These vulnerabilities were executed in conjunction to obtain administrative access and code execution on a SonicWall ES device," researchers Josh Fleischer, Chris DiGiamo, and Alex Pennino&nbsp; said .  The adversary leveraged these vulnerabilitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

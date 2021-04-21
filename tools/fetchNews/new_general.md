@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss Army Knife for Information Security: What Is Comprehensive Protection?<a href="https://threatpost.com/what-is-comprehensive-protection/165461/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vendor develops the series logically so that the tools do not just cover individual needs, but complement each other. For example, the concept of SearchInform is to ensure control of threats at all levels of the information network: from hardware and software to file systems and databases, from user actions on a PC to their activity on the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improve Your Cyber Security Posture by Combining State of the Art Security Tools<a href="https://thehackernews.com/2021/04/improve-your-cyber-security-posture-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today there are plenty of cybersecurity tools on the market. It is now more important than ever that the tools you decide to use work well together. If they don't, you will not get the complete picture, and you won't be able to analyze the entire system from a holistic perspective.&nbsp;  This means that you won't be able to do the right mitigations to improve your security posture. Here are examples of two tools that work very well together and how they will help you to get a holistic view of your cybersecurity posture.&nbsp;  Debricked - Use Open Source Securely  How is Open Source a Security Risk?&nbsp;  Open source is not a security risk per se; it's more secure than proprietary software in many ways! With the code being publicly available, it's a lot easier for the surrounding community to identify vulnerabilities, and fixes can be done quickly.  What you do need to keep in mind, though, is that any vulnerabilities in open source are publicly disclosed and the public to anyo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MI5: 10,000+ Brits Approached by Spies on Social Site<a href="https://www.infosecurity-magazine.com:443/news/mi5-10000-brits-approached-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence agency urges caution over malicious profiles
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
