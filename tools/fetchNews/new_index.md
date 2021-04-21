@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linux bans University of Minnesota for committing malicious code<a href="https://www.bleepingcomputer.com/news/security/linux-bans-university-of-minnesota-for-committing-malicious-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux kernel project maintainers have imposed a ban on the University of Minnesota (UMN) from contributing to the open-source Linux project after a group of UMN researchers were caught submitting a series of malicious code commits, or patches that deliberately introduced security vulnerabilities in the official Linux project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes exploited Chrome zero-day dropped on Twitter last week<a href="https://www.bleepingcomputer.com/news/security/google-fixes-exploited-chrome-zero-day-dropped-on-twitter-last-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 90.0.4430.85 to address an actively exploited zero-day and four other high severity security vulnerabilities impacting today's most popular web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TikTok Sued Over Use of Minors’ Data<a href="https://www.infosecurity-magazine.com:443/news/tiktok-sued-over-use-of-minors-data/"> Full Text</a>
 </p>
 <details>
