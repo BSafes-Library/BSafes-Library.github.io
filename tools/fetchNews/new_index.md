@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TikTok Sued Over Use of Minors’ Data<a href="https://www.infosecurity-magazine.com:443/news/tiktok-sued-over-use-of-minors-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claim filed against TikTok on behalf of millions of children in Europe and the UK
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal orgs to mitigate Pulse Secure VPN bug by Friday<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-orgs-to-mitigate-pulse-secure-vpn-bug-by-friday/"> Full Text</a>
 </p>
 <details>
