@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden administration kicks off 100-day plan to secure the grid | Daily Mail owner files antitrust suit against Google<a href="https://thehill.com//policy/technology/overnights/549339-hillicon-valley-biden-administration-kicks-off-100-day-plan-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Tuesday kicked off a 100-day plan to secure the electric grid amid mounting threats. Meanwhile, the parent company of the Daily Mail is suing Google over allegations that it maintained a monopoly in the ads space, and Apple unveiled a new tracking product that is raising concerns. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dating Service Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/dating-service-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attackers gain access to Manhunt’s accounts database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 REvil gang tries to extort Apple, threatens to sell stolen blueprints<a href="https://www.bleepingcomputer.com/news/security/revil-gang-tries-to-extort-apple-threatens-to-sell-stolen-blueprints/"> Full Text</a>
 </p>
 <details>
