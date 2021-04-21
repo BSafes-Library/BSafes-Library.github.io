@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Someone is using SonicWall’s email security tool to hack customers<a href="https://www.scmagazine.com/home/email-security/someone-is-using-sonicwalls-email-security-tool-to-hack-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s the second time SonicWall has been hit with an attack leveraging previously unknown weaknesses in their security products this year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Justice Department convenes task force to tackle wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/549549-justice-department-convenes-task-force-to-tackle-wave-of-ransomware"> Full Text</a>
 </p>
 <details>
