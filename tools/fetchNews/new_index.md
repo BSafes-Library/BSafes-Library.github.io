@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Pink malware spreads via group chat messages<a href="https://securityaffairs.co/wordpress/117094/malware/whatsapp-pink-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A WhatsApp malware dubbed WhatsApp Pink is able to automatically reply to victims' Signal, Telegram, Viber, and Skype messages.
+
+
+
+A WhatsApp malware dubbed WhatsApp Pink has now been updated, authors have implemented the ability to automatically respond...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 REvil seeks to extort Apple and hits supplier with $50 million ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/revil-seeks-to-extort-apple-and-hits-supplier-with-50-million-ransom/"> Full Text</a>
 </p>
 <details>
