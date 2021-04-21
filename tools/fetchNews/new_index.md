@@ -37,6 +37,234 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Logins for 1.3 million Windows RDP servers collected from hacker market<a href="https://www.bleepingcomputer.com/news/security/logins-for-13-million-windows-rdp-servers-collected-from-hacker-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The login names and passwords for 1.3 million current and historically compromised Windows Remote Desktop servers have been leaked by UAS, the largest hacker marketplace for stolen RDP credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google issues Chrome update patching seven security vulnerabilities<a href="https://www.zdnet.com/article/google-issues-chrome-update-to-patch-seven-security-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released version 90.0.4430.85 of the Chrome browser for Windows, Mac, and Linux. The zero-day, which was assigned the identifier CVE-2021-21224, was described as a "type confusion in V8".
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers threaten to leak stolen Apple blueprints if $50 million ransom isn't paid<a href="https://thehackernews.com/2021/04/hackers-threaten-to-leak-stolen-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prominent Apple supplier Quanta  on Wednesday said it suffered a ransomware attack from the REvil ransomware group, which is now demanding the iPhone maker pay a ransom of $50 million to prevent leaking sensitive files on the dark web.  In a post shared on its deep web "Happy Blog" portal, the threat actor said it came into possession of schematics of the U.S. company's products such as MacBooks and Apple Watch by infiltrating the network of the Taiwanese manufacturer, claiming it's making a ransom demand to Apple after Quanta expressed no interest in paying to recover the stolen blueprints.  "Our team is negotiating the sale of large quantities of confidential drawings and gigabytes of personal data with several major brands," the REvil operators said. "We recommend that Apple buy back the available data by May 1."   Since first detected in June 2019,  REvil  (aka Sodinokibi or Sodin) has emerged as one of the most prolific ransomware-as-a-servic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 Acquires Open Source Monitoring Platform Velociraptor<a href="https://www.infosecurity-magazine.com:443/news/rapid7-acquires-open-source/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will allow Rapid7 to enhance its incident response capabilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang recommends that Apple buy back its data stolen in Quanta hack<a href="https://securityaffairs.co/wordpress/117083/cyber-crime/revil-ransomware-apple-quanta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators are attempting to blackmail Apple after they has allegedly stolen product blueprints of the IT giant from its business partner.
+
+
+
+REvil ransomware gang is attempting to extort Apple ahead of the Apple Spring Loaded...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss Army Knife for Information Security: What Is Comprehensive Protection?<a href="https://threatpost.com/what-is-comprehensive-protection/165461/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vendor develops the series logically so that the tools do not just cover individual needs, but complement each other. For example, the concept of SearchInform is to ensure control of threats at all levels of the information network: from hardware and software to file systems and databases, from user actions on a PC to their activity on the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Pink malware can now auto-reply to your Signal, Telegram texts<a href="https://www.bleepingcomputer.com/news/security/whatsapp-pink-malware-can-now-auto-reply-to-your-signal-telegram-texts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp malware dubbed WhatsApp Pink has now been updated with advanced capabilities that let this counterfeit Android app automatically respond to your Signal, Telegram, Viber, and Skype messages. WhatsApp Pink refers to a counterfeit app that appeared this week, primarily targeting WhatsApp users in the Indian subcontinent. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom and Microsoft Exchange Attacks<a href="https://cyware.com/news/black-kingdom-and-microsoft-exchange-attacks-08ea2a47"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patch for ProxyLogon vulnerabilities was released more than a month ago. However, one more ransomware actor succeeded in joining the list of growing numbers of new adversaries exploiting it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improve Your Cyber Security Posture by Combining State of the Art Security Tools<a href="https://thehackernews.com/2021/04/improve-your-cyber-security-posture-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today there are plenty of cybersecurity tools on the market. It is now more important than ever that the tools you decide to use work well together. If they don't, you will not get the complete picture, and you won't be able to analyze the entire system from a holistic perspective.   This means that you won't be able to do the right mitigations to improve your security posture. Here are examples of two tools that work very well together and how they will help you to get a holistic view of your cybersecurity posture.   Debricked - Use Open Source Securely  How is Open Source a Security Risk?   Open source is not a security risk per se; it's more secure than proprietary software in many ways! With the code being publicly available, it's a lot easier for the surrounding community to identify vulnerabilities, and fixes can be done quickly.  What you do need to keep in mind, though, is that any vulnerabilities in open source are publicly disclosed and the public to anyo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook leaks strategy to numb reaction to data scraping incidents<a href="https://www.bleepingcomputer.com/news/security/facebook-leaks-strategy-to-numb-reaction-to-data-scraping-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's long-term strategy is to desensitize users about leaked data dumps that were collected through scraping the public portion of the social network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang Claims to Steal Confidential Designs of Apple Devices from Quanta Computer<a href="https://www.theregister.com/2021/04/21/ransomware_gang_extorts_apple/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil said it is "negotiating the sale" of the trove "with several major brands" and is sitting on data describing Apple's Watch, MacBook Air, and MacBook Pro, plus the Lenovo ThinkPad Z60m.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FormBook: A Well-known Commercial Malware Learns New Tricks<a href="https://cyware.com/news/formbook-a-well-known-commercial-malware-learns-new-tricks-bc58c8c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is luring victims into viewing a video with details of brochures and prices for an old purchase order. The malware involved has made a comeback with a new obfuscation technique.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising Operation Tag Barnakle Takes Over Unpatched Revive Servers to Show Malicious Ads<a href="https://therecord.media/malvertisers-hacked-120-ad-servers-to-load-malicious-ads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malvertising operation known under the codename of Tag Barnakle has breached more than 120 ad servers over the past year and inserted malicious code into legitimate ads to redirect website visitors.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Law Enforcement Names Chinese Military Linked Tick APT to Hundreds of Breaches<a href="https://therecord.media/japanese-police-say-tick-apt-is-linked-to-chinese-military/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese law enforcement believes a group of hackers linked to the Chinese military are behind a broad cyber-espionage campaign that has breached more than 200 Japanese companies since at least 2016.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes critical RCE vulnerabilities in NAS devices<a href="https://portswigger.net/daily-swig/qnap-fixes-critical-rce-vulnerabilities-in-nas-devices?&web_view=true"> Full Text</a>
 </p>
 <details>

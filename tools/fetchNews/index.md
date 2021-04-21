@@ -34,6 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes critical RCE vulnerabilities in NAS devices<a href="https://portswigger.net/daily-swig/qnap-fixes-critical-rce-vulnerabilities-in-nas-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP Systems has patched a pair of critical security vulnerabilities that could allow unauthenticated attackers to take control of its network-attached storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Chrome Browser ASAP to Patch a Week Old Public Exploit<a href="https://thehackernews.com/2021/04/update-your-chrome-browser-immediately.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday released an update for Chrome web browser for Windows, Mac, and Linux, with a total of seven security fixes, including one flaw for which it says an exploit exists in the wild.  Tracked as CVE-2021-21224 , the flaw concerns a type confusion vulnerability in V8 open-source JavaScript engine that was reported to the company by security researcher Jose Martinez on April 5  According to security researcher  Lei Cao , the bug [ 1195777 ] is triggered when performing integer data type conversion, resulting in an out-of-bounds condition that could be used to achieve arbitrary memory read/write primitive.   "Google is aware of reports that exploits for CVE-2021-21224 exist in the wild," Chrome's Technical Program Manager Srinivas Sista  said  in a blog post.   The update comes after proof-of-concept (PoC) code  exploiting the flaw published by a researcher named " frust " emerged on April 14 by taking advantage of the fact that the issue was addressed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Pressing Ahead with New IoT Law Amid Pandemic Smart Device Surge<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-iot-law-pandemic-smart/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law will impose new obligations on the manufacturers of smart devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Zero-Day in SonicWall Enterprise Email Security Appliances actively exploited<a href="https://securityaffairs.co/wordpress/117075/hacking/sonicwall-es-zerodays.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vendor SonicWall has addressed three zero-day vulnerabilities affecting both its on-premises and hosted Email Security products.
+
+
+
+SonicWall is warning its customers to update their hosted and on-premises email security products to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cape Privacy raises $20M to enable data science operations on encrypted data<a href="https://venturebeat.com/2021/04/20/cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cape Privacy, which is developing a privacy-preserving platform for collaborative data science, today announced that it closed a $20 million Series A led by Evolution Equity Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov Supply Chain Attack May Hit Thousands: Report<a href="https://www.infosecurity-magazine.com:443/news/codecov-supply-chain-attack-may/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigators have reportedly already found hundreds of victim customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT used Pulse Secure VPN zero-day to hack US defense contractors<a href="https://securityaffairs.co/wordpress/117060/apt/pulse-secure-vpn-zeroday-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least one China-linked APT group exploited a new zero-day flaw in Pulse Secure VPN equipment to break into the networks of US defense contractors.
+
+
+
+According to coordinated reports published by FireEye and Pulse Secure, two hacking groups have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Django Debug Toolbar tripped up by SQL injection flaw<a href="https://portswigger.net/daily-swig/django-debug-toolbar-tripped-up-by-sql-injection-flaw?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users who use the Django Debug Toolbar – particularly in production environments where the potential for attack is higher are advised to update to 1.11.1, 2.2.1, or 3.2.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple APT Groups Exploit Critical Pulse Secure Zero-Day<a href="https://www.infosecurity-magazine.com:443/news/multiple-apt-groups-exploit-pulse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers urged to take immediate action against nation state threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard Acquires Digital Identity Verification Firm Ekata for $850 Million<a href="https://www.securityweek.com/mastercard-acquires-digital-identity-verification-firm-ekata-850-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mastercard says the plan is to combine the identity verification technology and experience of Seattle-based Ekata with its own fraud prevention and digital identity programs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MI5: 10,000+ Brits Approached by Spies on Social Site<a href="https://www.infosecurity-magazine.com:443/news/mi5-10000-brits-approached-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence agency urges caution over malicious profiles
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GraphQL APIs rev up innovation – but also introduce a potential security nightmare<a href="https://www.lastwatchdog.com/my-take-graphql-apis-rev-up-innovation-but-also-introduce-a-potential-security-nightmare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It should come as no surprise that businesses have glommed onto the data sharing and monetizing benefits of APIs while overlooking the security ramifications of APIs left unprotected.
+</details>
+<div style="text-align: right" markdown="1">
+Last Watchdog
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIDO Announces New Security Standard for IoT Devices<a href="https://www.infosecurity-magazine.com:443/news/fido-security-standard-iot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The protocol is designed to better enable the deployment of IoT devices at scale
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated Hancitor Malware Slings Cobalt Strike<a href="https://blog.minerva-labs.com/hancitor-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA511 achieves initial access through a malicious Word document that drops an Hancitor sample as a DLL file and executes it using rundll32, a common Living Off the Land technique.
+</details>
+<div style="text-align: right" markdown="1">
+Minerva Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hypr raises $35M to grow its passwordless authentication platform<a href="https://venturebeat.com/2021/04/20/hypr-raises-35m-to-grow-its-passwordless-authentication-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hypr, a cloud multifactor authentication platform, today announced it has raised $35 million in a series C round led by Advent International, doubling the company’s total funding to over $72 million.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes legislation to elevate cybersecurity at the State Department<a href="https://thehill.com//policy/cybersecurity/549385-house-passes-legislation-to-elevate-cybersecurity-at-the-state"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Tuesday approved bipartisan legislation aimed at elevating cybersecurity at the State Department through prioritizing and reorganizing a key department on the heels of multiple major foreign cyberattacks against the United States. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With details sparse, vendors scramble to make sense of Biden 100-day grid security plan<a href="https://www.scmagazine.com/home/government/with-details-sparse-vendors-scramble-to-make-sense-of-biden-100-day-grid-security-plan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plan, which encourages owners and operators of industrial control systems to “implement measures or technology that enhance their detection, mitigation, and forensic capabilities,”  was not released in full to the public —  or to many vendors who might be instrumental in actualizing key objectives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Zero-Day Exploits Hit SonicWall Enterprise Email Security Appliances<a href="https://thehackernews.com/2021/04/3-zero-day-exploits-hit-sonicwall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has addressed three critical security vulnerabilities in its hosted and on-premises email security (ES) product that are being actively exploited in the wild.  Tracked as CVE-2021-20021 and CVE-2021-20022, the  flaws  were discovered and reported to the company by FireEye's Mandiant subsidiary on March 26, 2021, after the cybersecurity firm detected post-exploitation web shell activity on an internet-accessible system within a customer's environment that had SonicWall's Email Security (ES) application running on a Windows Server 2012 installation. A third flaw (CVE-2021-20023) identified by FireEye was disclosed to SonicWall on April 6, 2021.  FireEye is tracking the malicious activity under the moniker UNC2682.   "These vulnerabilities were executed in conjunction to obtain administrative access and code execution on a SonicWall ES device," researchers Josh Fleischer, Chris DiGiamo, and Alex Pennino  said .  The adversary leveraged these vulnerabilitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: Hackers Exploit Unpatched Pulse Secure 0-Day to Breach Organizations<a href="https://thehackernews.com/2021/04/warning-hackers-exploit-unpatched-pulse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If the Pulse Connect Secure gateway is part of your organization network, you need to be aware of a newly discovered critical zero-day authentication bypass vulnerability (CVE-2021-22893) that is currently being exploited in the wild and for which there is no patch yet.  At least two threat actors have been behind a series of intrusions targeting defense, government, and financial organizations in the U.S. and elsewhere by leveraging critical vulnerabilities in Pulse Secure VPN devices to circumvent multi-factor authentication protections and breach enterprise networks.  "A combination of prior vulnerabilities and a previously unknown vulnerability discovered in April 2021,  CVE-2021-22893 , are responsible for the initial infection vector," cybersecurity firm FireEye  said  on Tuesday, identifying 12 malware families associated with the exploitation of Pulse Secure VPN appliances.   The company is also tracking the activity under two threat clusters UNC2630 and UNC2717 (&qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
