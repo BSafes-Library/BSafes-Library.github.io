@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Stallone Classic a Password Favorite<a href="https://www.infosecurity-magazine.com:443/news/stallone-classic-a-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boxing drama "Rocky" tops list of movie titles most often used in leaked passwords
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We Could Use a Private-Sector-Oriented Cyber Leader<a href="https://www.lawfareblog.com/we-could-use-private-sector-oriented-cyber-leader"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All three of President Biden’s picks for the top cyber positions in his administration are excellent choices. It would have been better, however, if one of them had experience more rooted in the private sector.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Codes Offer Easy Cyberattack Avenues as Usage Spikes<a href="https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Usage is way up, but so are cyberattacks: Mobile phishing, malware, banking heists and more can come from just one wrong scan.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at New England’s Largest Energy Provider<a href="https://www.infosecurity-magazine.com:443/news/eversource-data-breach/"> Full Text</a>
 </p>
 <details>
