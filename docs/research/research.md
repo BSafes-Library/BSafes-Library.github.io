@@ -57,6 +57,18 @@ Many online chat applications live in a grey area between the legitimate web and
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• PREVALENCE OF CYBERBULLYING AMONG TRADITIONAL UNDERGRADUATE STUDENTS ATTENDING FAITH-BASED UNIVERSITIES: A CAUSAL-COMPARATIVE STUDY [HTML](https://papers.bsafes.com/docs/internet/prevalence-of-cyberbullying-among-traditional-undergraduate-students-attending-faith-based-universities-a-causal-comparative-study/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberbullying among traditional undergraduate students is a relatively new issue that involves the safety of postsecondary students. The purpose of this study was to provide statistical data to faith-based universities that relate the prevalence of cyberbullying victimization experiences and the prevalence of cyberbullying offending experiences of traditional undergraduate students to biological gender (female/male) and level of religiosity (higher/lower), and to add to the small body of research conducted among this demographic.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Protecting Children in the Frontier of Surveillance Capitalism [HTML](https://papers.bsafes.com/docs/privacy/protecting-children-in-the-frontier-of-surveillance-capitalism/)
 </p>
 <details>
