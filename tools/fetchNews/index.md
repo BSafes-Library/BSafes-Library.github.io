@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign Spies Target British Nationals With Fake Social Media Profiles<a href="https://www.darkreading.com/attacks-breaches/foreign-spies-target-british-nationals-with-fake-social-media-profiles/d/d-id/1340767?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 10,000 UK nationals have been approached by malicious individuals using fraudulent profiles on the professional networking site, the BBC reports, citing security agency MI5.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure Critical Zero-Day Security Bug Under Active Exploit<a href="https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-22893 allows remote code-execution (RCE) and is being used in the wild by nation-state cyberattackers to compromise VPN appliances in defense, finance and government orgs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

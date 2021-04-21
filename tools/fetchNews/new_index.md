@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal orgs to mitigate Pulse Secure VPN bug by Friday<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-orgs-to-mitigate-pulse-secure-vpn-bug-by-friday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has issued a new emergency directive ordering federal agencies to mitigate an actively exploited vulnerability in Pulse Connect Secure (PCS) VPN appliances on their networks by Friday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Foreign Spies Target British Nationals With Fake Social Media Profiles<a href="https://www.darkreading.com/attacks-breaches/foreign-spies-target-british-nationals-with-fake-social-media-profiles/d/d-id/1340767?&web_view=true"> Full Text</a>
 </p>
 <details>
