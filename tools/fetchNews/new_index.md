@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Justice Department convenes task force to tackle wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/549549-justice-department-convenes-task-force-to-tackle-wave-of-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department this week convened a new task force to address the mounting ransomware cyberattacks on critical U.S. organizations, which have spiked during the COVID-19 pandemic. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Stallone Classic a Password Favorite<a href="https://www.infosecurity-magazine.com:443/news/stallone-classic-a-password/"> Full Text</a>
 </p>
 <details>
