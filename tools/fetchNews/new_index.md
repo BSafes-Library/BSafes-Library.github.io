@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New certification program trains cyber pros in cloud, IoT and other emerging tech<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certification-program-trains-cyber-pros-in-cloud-iot-and-other-emerging-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Training covers the cloud, IoT, AI and blockchain technology, and the cybersecurity implications of each.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Pink malware spreads via group chat messages<a href="https://securityaffairs.co/wordpress/117094/malware/whatsapp-pink-malware.html"> Full Text</a>
 </p>
 <details>
