@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Foreign Spies Target British Nationals With Fake Social Media Profiles<a href="https://www.darkreading.com/attacks-breaches/foreign-spies-target-british-nationals-with-fake-social-media-profiles/d/d-id/1340767?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 10,000 UK nationals have been approached by malicious individuals using fraudulent profiles on the professional networking site, the BBC reports, citing security agency MI5.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure Critical Zero-Day Security Bug Under Active Exploit<a href="https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-22893 allows remote code-execution (RCE) and is being used in the wild by nation-state cyberattackers to compromise VPN appliances in defense, finance and government orgs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Logins for 1.3 million Windows RDP servers collected from hacker market<a href="https://www.bleepingcomputer.com/news/security/logins-for-13-million-windows-rdp-servers-collected-from-hacker-market/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google issues Chrome update patching seven security vulnerabilities<a href="https://www.zdnet.com/article/google-issues-chrome-update-to-patch-seven-security-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -66,7 +98,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers threaten to leak stolen Apple blueprints if $50 million ransom isn't paid<a href="https://thehackernews.com/2021/04/hackers-threaten-to-leak-stolen-apple.html"> Full Text</a>
@@ -82,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7 Acquires Open Source Monitoring Platform Velociraptor<a href="https://www.infosecurity-magazine.com:443/news/rapid7-acquires-open-source/"> Full Text</a>
@@ -98,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware gang recommends that Apple buy back its data stolen in Quanta hack<a href="https://securityaffairs.co/wordpress/117083/cyber-crime/revil-ransomware-apple-quanta.html"> Full Text</a>
@@ -118,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss Army Knife for Information Security: What Is Comprehensive Protection?<a href="https://threatpost.com/what-is-comprehensive-protection/165461/"> Full Text</a>
@@ -134,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Pink malware can now auto-reply to your Signal, Telegram texts<a href="https://www.bleepingcomputer.com/news/security/whatsapp-pink-malware-can-now-auto-reply-to-your-signal-telegram-texts/"> Full Text</a>
@@ -150,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Kingdom and Microsoft Exchange Attacks<a href="https://cyware.com/news/black-kingdom-and-microsoft-exchange-attacks-08ea2a47"> Full Text</a>
@@ -166,7 +198,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Improve Your Cyber Security Posture by Combining State of the Art Security Tools<a href="https://thehackernews.com/2021/04/improve-your-cyber-security-posture-by.html"> Full Text</a>
@@ -182,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook leaks strategy to numb reaction to data scraping incidents<a href="https://www.bleepingcomputer.com/news/security/facebook-leaks-strategy-to-numb-reaction-to-data-scraping-incidents/"> Full Text</a>
@@ -198,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Gang Claims to Steal Confidential Designs of Apple Devices from Quanta Computer<a href="https://www.theregister.com/2021/04/21/ransomware_gang_extorts_apple/?&web_view=true"> Full Text</a>
@@ -214,7 +246,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FormBook: A Well-known Commercial Malware Learns New Tricks<a href="https://cyware.com/news/formbook-a-well-known-commercial-malware-learns-new-tricks-bc58c8c3"> Full Text</a>
@@ -230,7 +262,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertising Operation Tag Barnakle Takes Over Unpatched Revive Servers to Show Malicious Ads<a href="https://therecord.media/malvertisers-hacked-120-ad-servers-to-load-malicious-ads/?&web_view=true"> Full Text</a>
@@ -246,7 +278,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese Law Enforcement Names Chinese Military Linked Tick APT to Hundreds of Breaches<a href="https://therecord.media/japanese-police-say-tick-apt-is-linked-to-chinese-military/?&web_view=true"> Full Text</a>
@@ -262,7 +294,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes critical RCE vulnerabilities in NAS devices<a href="https://portswigger.net/daily-swig/qnap-fixes-critical-rce-vulnerabilities-in-nas-devices?&web_view=true"> Full Text</a>
@@ -278,7 +310,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Your Chrome Browser ASAP to Patch a Week Old Public Exploit<a href="https://thehackernews.com/2021/04/update-your-chrome-browser-immediately.html"> Full Text</a>
@@ -294,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Government Pressing Ahead with New IoT Law Amid Pandemic Smart Device Surge<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-iot-law-pandemic-smart/"> Full Text</a>
@@ -310,7 +342,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Zero-Day in SonicWall Enterprise Email Security Appliances actively exploited<a href="https://securityaffairs.co/wordpress/117075/hacking/sonicwall-es-zerodays.html"> Full Text</a>
@@ -330,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cape Privacy raises $20M to enable data science operations on encrypted data<a href="https://venturebeat.com/2021/04/20/cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data/?&web_view=true"> Full Text</a>
@@ -346,7 +378,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Codecov Supply Chain Attack May Hit Thousands: Report<a href="https://www.infosecurity-magazine.com:443/news/codecov-supply-chain-attack-may/"> Full Text</a>
@@ -362,7 +394,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT used Pulse Secure VPN zero-day to hack US defense contractors<a href="https://securityaffairs.co/wordpress/117060/apt/pulse-secure-vpn-zeroday-attacks.html"> Full Text</a>
@@ -382,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Django Debug Toolbar tripped up by SQL injection flaw<a href="https://portswigger.net/daily-swig/django-debug-toolbar-tripped-up-by-sql-injection-flaw?&web_view=true"> Full Text</a>
@@ -398,7 +430,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple APT Groups Exploit Critical Pulse Secure Zero-Day<a href="https://www.infosecurity-magazine.com:443/news/multiple-apt-groups-exploit-pulse/"> Full Text</a>
@@ -414,7 +446,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mastercard Acquires Digital Identity Verification Firm Ekata for $850 Million<a href="https://www.securityweek.com/mastercard-acquires-digital-identity-verification-firm-ekata-850-million?&web_view=true"> Full Text</a>
@@ -430,7 +462,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MI5: 10,000+ Brits Approached by Spies on Social Site<a href="https://www.infosecurity-magazine.com:443/news/mi5-10000-brits-approached-by/"> Full Text</a>
@@ -446,7 +478,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GraphQL APIs rev up innovation – but also introduce a potential security nightmare<a href="https://www.lastwatchdog.com/my-take-graphql-apis-rev-up-innovation-but-also-introduce-a-potential-security-nightmare/?&web_view=true"> Full Text</a>
@@ -462,7 +494,7 @@ Last Watchdog
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIDO Announces New Security Standard for IoT Devices<a href="https://www.infosecurity-magazine.com:443/news/fido-security-standard-iot/"> Full Text</a>
@@ -478,7 +510,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Updated Hancitor Malware Slings Cobalt Strike<a href="https://blog.minerva-labs.com/hancitor-malware?&web_view=true"> Full Text</a>
@@ -494,7 +526,7 @@ Minerva Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hypr raises $35M to grow its passwordless authentication platform<a href="https://venturebeat.com/2021/04/20/hypr-raises-35m-to-grow-its-passwordless-authentication-platform/?&web_view=true"> Full Text</a>
@@ -510,7 +542,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House passes legislation to elevate cybersecurity at the State Department<a href="https://thehill.com//policy/cybersecurity/549385-house-passes-legislation-to-elevate-cybersecurity-at-the-state"> Full Text</a>
@@ -526,7 +558,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With details sparse, vendors scramble to make sense of Biden 100-day grid security plan<a href="https://www.scmagazine.com/home/government/with-details-sparse-vendors-scramble-to-make-sense-of-biden-100-day-grid-security-plan/"> Full Text</a>
@@ -542,7 +574,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Zero-Day Exploits Hit SonicWall Enterprise Email Security Appliances<a href="https://thehackernews.com/2021/04/3-zero-day-exploits-hit-sonicwall.html"> Full Text</a>
@@ -558,7 +590,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2021
+April 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WARNING: Hackers Exploit Unpatched Pulse Secure 0-Day to Breach Organizations<a href="https://thehackernews.com/2021/04/warning-hackers-exploit-unpatched-pulse.html"> Full Text</a>
