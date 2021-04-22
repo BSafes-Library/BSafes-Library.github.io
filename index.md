@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Rockwell Industrial Switches Affected by More Vulnerabilities in Cisco Software<a href="https://www.securityweek.com/rockwell-industrial-switches-affected-more-vulnerabilities-cisco-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rockwell Automation has started releasing firmware updates for some of its Stratix switches to address another round of vulnerabilities introduced by the use of Cisco’s IOS XE software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Ordered to Provide Info on Alleged Cyber-bullies<a href="https://www.infosecurity-magazine.com:443/news/google-ordered-to-provide-info-on/"> Full Text</a>
 </p>
 <details>
