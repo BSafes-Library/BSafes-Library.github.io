@@ -357,6 +357,18 @@ We used in-depth interviews with 101 participants in the East York section of To
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February , 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• TOKEN TAXONOMY [HTML](https://papers.bsafes.com/docs/cryptocurrency/token-taxonomy-the-need-for-open-source-standards-around-digital-assets/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Few concepts are more widely discussed and poorly understood in today’s blockchain world than the token. The world seems to know that tokens are important, but little else; the word token is used in myriad ways today, many of which conflict.
+</details>
+</div>
+
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January, 2020 
