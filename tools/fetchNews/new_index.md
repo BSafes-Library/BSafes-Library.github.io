@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FlixOnline Poses as Netflix to Steal WhatsApp Conversations Data<a href="https://cyware.com/news/flixonline-poses-as-netflix-to-steal-whatsapp-conversations-data-a0ef3286"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research unveiled an Android malware, disguised as an app called FlixOnline, that entices users by promising free Netflix subscriptions and spread further by creating auto-replies to messages in WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals use Telegram Bots and Google Forms for Automated Phishing<a href="https://cyware.com/news/cybercriminals-use-telegram-bots-and-google-forms-for-automated-phishing-6bdaba1e"> Full Text</a>
 </p>
 <details>
