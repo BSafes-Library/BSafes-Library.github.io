@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals use Telegram Bots and Google Forms for Automated Phishing<a href="https://cyware.com/news/cybercriminals-use-telegram-bots-and-google-forms-for-automated-phishing-6bdaba1e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB found that cybercriminals are frequently using legitimate services including Google Forms and Telegram bots to collect stolen data from exploit kits during phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/117105/hacking/trend-micro-flaw-cve-2020-24557.html?&web_view=true"> Full Text</a>
 </p>
 <details>
