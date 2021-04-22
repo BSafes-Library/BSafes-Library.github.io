@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/117105/hacking/trend-micro-flaw-cve-2020-24557.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue resides in the logic that controls access to the Misc folder, it could be exploited by an attacker to escalate privileges and execute code in the context of SYSTEM.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Way Too Many Cybercriminal Groups Active Presently<a href="https://cyware.com/news/way-too-many-cybercriminal-groups-active-presently-1e0893a3"> Full Text</a>
 </p>
 <details>
