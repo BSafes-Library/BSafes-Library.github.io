@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cellebrite ‘s forensics tool affected by arbitrary code execution issue<a href="https://securityaffairs.co/wordpress/117116/mobile-2/cellebrite-forensics-tool-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cellebrite mobile forensics tool Ufed contains multiple flaws that allow arbitrary code execution on the device, SIGNAL creator warns.
+
+
+
+Moxie Marlinspike, the creator of the popular encrypted messaging app Signal, announced that Cellebrite mobile forensics...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Exchange Online down: Microsoft 365 outage affects email delivery<a href="https://www.bleepingcomputer.com/news/security/exchange-online-down-microsoft-365-outage-affects-email-delivery/"> Full Text</a>
 </p>
 <details>

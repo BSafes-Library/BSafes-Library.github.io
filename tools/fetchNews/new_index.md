@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Telegram Platform Abused in ‘ToxicEye’ Malware Campaigns<a href="https://threatpost.com/telegram-toxiceye-malware/165543/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even if the app is not installed or in use, threat actors can use it to spread malware through email campaigns and take over victims’ machines, new research has found.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cellebrite ‘s forensics tool affected by arbitrary code execution issue<a href="https://securityaffairs.co/wordpress/117116/mobile-2/cellebrite-forensics-tool-flaw.html"> Full Text</a>
 </p>
 <details>
