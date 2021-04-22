@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Way Too Many Cybercriminal Groups Active Presently<a href="https://cyware.com/news/way-too-many-cybercriminal-groups-active-presently-1e0893a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report disclosed that, with more than 1,900 hacker groups active, including APTs, the current cybercrime landscape is witnessing a rise in new malware variants that are being deployed in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costco Issues Scam Warning<a href="https://www.infosecurity-magazine.com:443/news/costco-issues-scam-warning/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Membership-only big-box wholesaler tells Americans to be wary of 14 digital scams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Rockwell Industrial Switches Affected by More Vulnerabilities in Cisco Software<a href="https://www.securityweek.com/rockwell-industrial-switches-affected-more-vulnerabilities-cisco-software?&web_view=true"> Full Text</a>
 </p>
 <details>
