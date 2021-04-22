@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal CEO gives mobile-hacking firm a taste of being hacked<a href="https://www.bleepingcomputer.com/news/security/signal-ceo-gives-mobile-hacking-firm-a-taste-of-being-hacked/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tech companies duke it out at Senate hearing | Seven House Republicans vow to reject donations from Big Tech<a href="https://thehill.com//policy/technology/overnights/549611-hillicon-valley-lawmakers-reintroduce-bill-to-invest-billions-to"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When unicorns trot too fast: Lessons from one startup’s bug bounty missteps<a href="https://www.scmagazine.com/application-security/when-unicorns-trot-too-fast-lessons-from-one-startups-bug-bounty-missteps/"> Full Text</a>
@@ -82,7 +82,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New certification program trains cyber pros in cloud, IoT and other emerging tech<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certification-program-trains-cyber-pros-in-cloud-iot-and-other-emerging-tech/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Pink malware spreads via group chat messages<a href="https://securityaffairs.co/wordpress/117094/malware/whatsapp-pink-malware.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil seeks to extort Apple and hits supplier with $50 million ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/revil-seeks-to-extort-apple-and-hits-supplier-with-50-million-ransom/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Someone is using SonicWall’s email security tool to hack customers<a href="https://www.scmagazine.com/home/email-security/someone-is-using-sonicwalls-email-security-tool-to-hack-customers/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department convenes task force to tackle wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/549549-justice-department-convenes-task-force-to-tackle-wave-of-ransomware"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stallone Classic a Password Favorite<a href="https://www.infosecurity-magazine.com:443/news/stallone-classic-a-password/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 We Could Use a Private-Sector-Oriented Cyber Leader<a href="https://www.lawfareblog.com/we-could-use-private-sector-oriented-cyber-leader"> Full Text</a>
@@ -198,7 +198,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QR Codes Offer Easy Cyberattack Avenues as Usage Spikes<a href="https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/"> Full Text</a>
@@ -214,7 +214,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at New England’s Largest Energy Provider<a href="https://www.infosecurity-magazine.com:443/news/eversource-data-breach/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive QLocker ransomware attack uses 7zip to encrypt QNAP devices<a href="https://www.bleepingcomputer.com/news/security/massive-qlocker-ransomware-attack-uses-7zip-to-encrypt-qnap-devices/"> Full Text</a>
@@ -246,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers reintroduce bill to invest billions in emerging technologies to compete with China<a href="https://thehill.com//policy/cybersecurity/549510-lawmakers-reintroduce-bill-to-invest-billions-in-emerging-technologies"> Full Text</a>
@@ -262,7 +262,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux bans University of Minnesota for committing malicious code<a href="https://www.bleepingcomputer.com/news/security/linux-bans-university-of-minnesota-for-committing-malicious-code/"> Full Text</a>
@@ -278,7 +278,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes exploited Chrome zero-day dropped on Twitter last week<a href="https://www.bleepingcomputer.com/news/security/google-fixes-exploited-chrome-zero-day-dropped-on-twitter-last-week/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Sued Over Use of Minors’ Data<a href="https://www.infosecurity-magazine.com:443/news/tiktok-sued-over-use-of-minors-data/"> Full Text</a>
@@ -310,7 +310,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal orgs to mitigate Pulse Secure VPN bug by Friday<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-orgs-to-mitigate-pulse-secure-vpn-bug-by-friday/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Foreign Spies Target British Nationals With Fake Social Media Profiles<a href="https://www.darkreading.com/attacks-breaches/foreign-spies-target-british-nationals-with-fake-social-media-profiles/d/d-id/1340767?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure Critical Zero-Day Security Bug Under Active Exploit<a href="https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/"> Full Text</a>
