@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Kingdom and Microsoft Exchange Attacks<a href="https://cyware.com/news/black-kingdom-and-microsoft-exchange-attacks-08ea2a47"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patch for ProxyLogon vulnerabilities was released more than a month ago. However, one more ransomware actor succeeded in joining the list of growing numbers of new adversaries exploiting it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov Supply Chain Attack May Hit Thousands: Report<a href="https://www.infosecurity-magazine.com:443/news/codecov-supply-chain-attack-may/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigators have reportedly already found hundreds of victim customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

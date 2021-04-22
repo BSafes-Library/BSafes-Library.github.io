@@ -11,6 +11,62 @@ nav_order: 900220
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Signal CEO gives mobile-hacking firm a taste of being hacked<a href="https://www.bleepingcomputer.com/news/security/signal-ceo-gives-mobile-hacking-firm-a-taste-of-being-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software developed by data extraction company Cellebrite contains vulnerabilities that allow arbitrary code execution on the device, claims Moxie Marlinspike, the creator of the encrypted messaging app Signal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When unicorns trot too fast: Lessons from one startup’s bug bounty missteps<a href="https://www.scmagazine.com/application-security/when-unicorns-trot-too-fast-lessons-from-one-startups-bug-bounty-missteps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luta Security’s Katie Moussoris details Clubhouse vulnerabilities she disclosed, and how fast growing startups with good intentions sometimes drop the ball.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes exploited Chrome zero-day dropped on Twitter last week<a href="https://www.bleepingcomputer.com/news/security/google-fixes-exploited-chrome-zero-day-dropped-on-twitter-last-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 90.0.4430.85 to address an actively exploited zero-day and four other high severity security vulnerabilities impacting today's most popular web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure Critical Zero-Day Security Bug Under Active Exploit<a href="https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-22893 allows remote code-execution (RCE) and is being used in the wild by nation-state cyberattackers to compromise VPN appliances in defense, finance and government orgs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google issues Chrome update patching seven security vulnerabilities<a href="https://www.zdnet.com/article/google-issues-chrome-update-to-patch-seven-security-vulnerabilities/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

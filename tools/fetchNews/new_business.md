@@ -11,6 +11,20 @@ nav_order: 900027
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TikTok Sued Over Use of Minors’ Data<a href="https://www.infosecurity-magazine.com:443/news/tiktok-sued-over-use-of-minors-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claim filed against TikTok on behalf of millions of children in Europe and the UK
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Rapid7 Acquires Open Source Monitoring Platform Velociraptor<a href="https://www.infosecurity-magazine.com:443/news/rapid7-acquires-open-source/"> Full Text</a>
 </p>
 <details>

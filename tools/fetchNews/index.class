@@ -34,6 +34,330 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal CEO gives mobile-hacking firm a taste of being hacked<a href="https://www.bleepingcomputer.com/news/security/signal-ceo-gives-mobile-hacking-firm-a-taste-of-being-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software developed by data extraction company Cellebrite contains vulnerabilities that allow arbitrary code execution on the device, claims Moxie Marlinspike, the creator of the encrypted messaging app Signal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech companies duke it out at Senate hearing | Seven House Republicans vow to reject donations from Big Tech<a href="https://thehill.com//policy/technology/overnights/549611-hillicon-valley-lawmakers-reintroduce-bill-to-invest-billions-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was a big day for Big Tech at the Capitol, with the Senate Judiciary antitrust subcommittee holding a hearing featuring Google and Apple executives to look at their app store market power. And a group of seven House Republicans pledged to reject donations from some of the top tech companies. Meanwhile, Senate Majority Leader Chuck SchumerChuck SchumerLawmakers react to guilty verdict in Chauvin murder trial: 'Our work is far from done' Overnight Health Care: Johnson & Johnson pause seen as 'responsible' in poll | Women turning out more than men for COVID-19 vaccines 'Real Housewives of the GOP' — Wannabe reality show narcissists commandeer the party MORE led a bipartisan group of lawmakers in rolling out legislation to invest more than $100 billion in emerging technologies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When unicorns trot too fast: Lessons from one startup’s bug bounty missteps<a href="https://www.scmagazine.com/application-security/when-unicorns-trot-too-fast-lessons-from-one-startups-bug-bounty-missteps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luta Security’s Katie Moussoris details Clubhouse vulnerabilities she disclosed, and how fast growing startups with good intentions sometimes drop the ball.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New certification program trains cyber pros in cloud, IoT and other emerging tech<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certification-program-trains-cyber-pros-in-cloud-iot-and-other-emerging-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Training covers the cloud, IoT, AI and blockchain technology, and the cybersecurity implications of each.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Pink malware spreads via group chat messages<a href="https://securityaffairs.co/wordpress/117094/malware/whatsapp-pink-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A WhatsApp malware dubbed WhatsApp Pink is able to automatically reply to victims' Signal, Telegram, Viber, and Skype messages.
+
+
+
+A WhatsApp malware dubbed WhatsApp Pink has now been updated, authors have implemented the ability to automatically respond...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil seeks to extort Apple and hits supplier with $50 million ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/revil-seeks-to-extort-apple-and-hits-supplier-with-50-million-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil – which has been on a tear the past several weeks – wants Apple to pay an undisclosed ransom by May 1 to “buy back” 15 stolen schematics of unreleased MacBooks and gigabytes of personal data on several major Apple brands they obtained from Quanta.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Someone is using SonicWall’s email security tool to hack customers<a href="https://www.scmagazine.com/home/email-security/someone-is-using-sonicwalls-email-security-tool-to-hack-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s the second time SonicWall has been hit with an attack leveraging previously unknown weaknesses in their security products this year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department convenes task force to tackle wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/549549-justice-department-convenes-task-force-to-tackle-wave-of-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department this week convened a new task force to address the mounting ransomware cyberattacks on critical U.S. organizations, which have spiked during the COVID-19 pandemic. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stallone Classic a Password Favorite<a href="https://www.infosecurity-magazine.com:443/news/stallone-classic-a-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boxing drama "Rocky" tops list of movie titles most often used in leaked passwords
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We Could Use a Private-Sector-Oriented Cyber Leader<a href="https://www.lawfareblog.com/we-could-use-private-sector-oriented-cyber-leader"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All three of President Biden’s picks for the top cyber positions in his administration are excellent choices. It would have been better, however, if one of them had experience more rooted in the private sector.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Codes Offer Easy Cyberattack Avenues as Usage Spikes<a href="https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Usage is way up, but so are cyberattacks: Mobile phishing, malware, banking heists and more can come from just one wrong scan.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at New England’s Largest Energy Provider<a href="https://www.infosecurity-magazine.com:443/news/eversource-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured data storage folders expose data of Eversource
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive QLocker ransomware attack uses 7zip to encrypt QNAP devices<a href="https://www.bleepingcomputer.com/news/security/massive-qlocker-ransomware-attack-uses-7zip-to-encrypt-qnap-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive ransomware campaign targeting QNAP devices worldwide is underway, and users are finding their files now stored in password-protected 7zip archives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers reintroduce bill to invest billions in emerging technologies to compete with China<a href="https://thehill.com//policy/cybersecurity/549510-lawmakers-reintroduce-bill-to-invest-billions-in-emerging-technologies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Majority Leader Chuck Schumer (D-N.Y.) led dozens of bipartisan House and Senate members on Wednesday in rolling out legislation that would invest over $100 billion in emerging technologies in an effort to put the U.S. on a level playing field with China. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux bans University of Minnesota for committing malicious code<a href="https://www.bleepingcomputer.com/news/security/linux-bans-university-of-minnesota-for-committing-malicious-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux kernel project maintainers have imposed a ban on the University of Minnesota (UMN) from contributing to the open-source Linux project after a group of UMN researchers were caught submitting a series of malicious code commits, or patches that deliberately introduced security vulnerabilities in the official Linux project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes exploited Chrome zero-day dropped on Twitter last week<a href="https://www.bleepingcomputer.com/news/security/google-fixes-exploited-chrome-zero-day-dropped-on-twitter-last-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 90.0.4430.85 to address an actively exploited zero-day and four other high severity security vulnerabilities impacting today's most popular web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Sued Over Use of Minors’ Data<a href="https://www.infosecurity-magazine.com:443/news/tiktok-sued-over-use-of-minors-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claim filed against TikTok on behalf of millions of children in Europe and the UK
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal orgs to mitigate Pulse Secure VPN bug by Friday<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-orgs-to-mitigate-pulse-secure-vpn-bug-by-friday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has issued a new emergency directive ordering federal agencies to mitigate an actively exploited vulnerability in Pulse Connect Secure (PCS) VPN appliances on their networks by Friday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign Spies Target British Nationals With Fake Social Media Profiles<a href="https://www.darkreading.com/attacks-breaches/foreign-spies-target-british-nationals-with-fake-social-media-profiles/d/d-id/1340767?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 10,000 UK nationals have been approached by malicious individuals using fraudulent profiles on the professional networking site, the BBC reports, citing security agency MI5.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure Critical Zero-Day Security Bug Under Active Exploit<a href="https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-22893 allows remote code-execution (RCE) and is being used in the wild by nation-state cyberattackers to compromise VPN appliances in defense, finance and government orgs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

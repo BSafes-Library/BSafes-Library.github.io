@@ -11,6 +11,62 @@ nav_order: 900072
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech companies duke it out at Senate hearing | Seven House Republicans vow to reject donations from Big Tech<a href="https://thehill.com//policy/technology/overnights/549611-hillicon-valley-lawmakers-reintroduce-bill-to-invest-billions-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was a big day for Big Tech at the Capitol, with the Senate Judiciary antitrust subcommittee holding a hearing featuring Google and Apple executives to look at their app store market power. And a group of seven House Republicans pledged to reject donations from some of the top tech companies. Meanwhile, Senate Majority Leader Chuck SchumerChuck SchumerLawmakers react to guilty verdict in Chauvin murder trial: 'Our work is far from done' Overnight Health Care: Johnson &amp; Johnson pause seen as 'responsible' in poll | Women turning out more than men for COVID-19 vaccines 'Real Housewives of the GOP' — Wannabe reality show narcissists commandeer the party MORE led a bipartisan group of lawmakers in rolling out legislation to invest more than $100 billion in emerging technologies.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stallone Classic a Password Favorite<a href="https://www.infosecurity-magazine.com:443/news/stallone-classic-a-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boxing drama "Rocky" tops list of movie titles most often used in leaked passwords
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We Could Use a Private-Sector-Oriented Cyber Leader<a href="https://www.lawfareblog.com/we-could-use-private-sector-oriented-cyber-leader"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All three of President Biden’s picks for the top cyber positions in his administration are excellent choices. It would have been better, however, if one of them had experience more rooted in the private sector.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Codes Offer Easy Cyberattack Avenues as Usage Spikes<a href="https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Usage is way up, but so are cyberattacks: Mobile phishing, malware, banking heists and more can come from just one wrong scan.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Swiss Army Knife for Information Security: What Is Comprehensive Protection?<a href="https://threatpost.com/what-is-comprehensive-protection/165461/"> Full Text</a>
 </p>
 <details>

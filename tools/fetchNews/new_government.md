@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department convenes task force to tackle wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/549549-justice-department-convenes-task-force-to-tackle-wave-of-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department this week convened a new task force to address the mounting ransomware cyberattacks on critical U.S. organizations, which have spiked during the COVID-19 pandemic.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers reintroduce bill to invest billions in emerging technologies to compete with China<a href="https://thehill.com//policy/cybersecurity/549510-lawmakers-reintroduce-bill-to-invest-billions-in-emerging-technologies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Majority Leader Chuck Schumer (D-N.Y.) led dozens of bipartisan House and Senate members on Wednesday in rolling out legislation that would invest over $100 billion in emerging technologies in an effort to put the U.S. on a level playing field with China.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal orgs to mitigate Pulse Secure VPN bug by Friday<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-orgs-to-mitigate-pulse-secure-vpn-bug-by-friday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has issued a new emergency directive ordering federal agencies to mitigate&nbsp;an actively exploited vulnerability in Pulse Connect Secure (PCS) VPN appliances on their networks by Friday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign Spies Target British Nationals With Fake Social Media Profiles<a href="https://www.darkreading.com/attacks-breaches/foreign-spies-target-british-nationals-with-fake-social-media-profiles/d/d-id/1340767?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 10,000 UK nationals have been approached by malicious individuals using fraudulent profiles on the professional networking site, the BBC reports, citing security agency MI5.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

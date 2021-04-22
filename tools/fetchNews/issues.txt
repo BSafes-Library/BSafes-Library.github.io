@@ -30,6 +30,7 @@
 
 Alerts:
 . https://www.bleepingcomputer.com/news/security/nsa-top-5-vulnerabilities-actively-abused-by-russian-govt-hackers/
+. https://www.bleepingcomputer.com/news/security/cisa-orders-federal-orgs-to-mitigate-pulse-secure-vpn-bug-by-friday/
 
 Law:
 

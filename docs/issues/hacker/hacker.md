@@ -11,6 +11,34 @@ nav_order: 900080
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil seeks to extort Apple and hits supplier with $50 million ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/revil-seeks-to-extort-apple-and-hits-supplier-with-50-million-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil – which has been on a tear the past several weeks – wants Apple to pay an undisclosed ransom by May 1 to “buy back” 15 stolen schematics of unreleased MacBooks and gigabytes of personal data on several major Apple brands they obtained from Quanta.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Someone is using SonicWall’s email security tool to hack customers<a href="https://www.scmagazine.com/home/email-security/someone-is-using-sonicwalls-email-security-tool-to-hack-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s the second time SonicWall has been hit with an attack leveraging previously unknown weaknesses in their security products this year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Logins for 1.3 million Windows RDP servers collected from hacker market<a href="https://www.bleepingcomputer.com/news/security/logins-for-13-million-windows-rdp-servers-collected-from-hacker-market/"> Full Text</a>
 </p>
 <details>

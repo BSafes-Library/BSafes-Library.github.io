@@ -8,6 +8,76 @@ nav_order: 900027
 
 ## Business
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 Acquires Open Source Monitoring Platform Velociraptor<a href="https://www.infosecurity-magazine.com:443/news/rapid7-acquires-open-source/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will allow Rapid7 to enhance its incident response capabilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook leaks strategy to numb reaction to data scraping incidents<a href="https://www.bleepingcomputer.com/news/security/facebook-leaks-strategy-to-numb-reaction-to-data-scraping-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's long-term strategy is to desensitize users about leaked data dumps that were collected through scraping the public portion of the social network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cape Privacy raises $20M to enable data science operations on encrypted data<a href="https://venturebeat.com/2021/04/20/cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cape Privacy, which is developing a privacy-preserving platform for collaborative data science, today announced that it closed a $20 million Series A led by Evolution Equity Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard Acquires Digital Identity Verification Firm Ekata for $850 Million<a href="https://www.securityweek.com/mastercard-acquires-digital-identity-verification-firm-ekata-850-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mastercard says the plan is to combine the identity verification technology and experience of Seattle-based Ekata with its own fraud prevention and digital identity programs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hypr raises $35M to grow its passwordless authentication platform<a href="https://venturebeat.com/2021/04/20/hypr-raises-35m-to-grow-its-passwordless-authentication-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hypr, a cloud multifactor authentication platform, today announced it has raised $35 million in a series C round led by Advent International, doubling the company’s total funding to over $72 million.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
