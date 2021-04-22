@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Exchange Online down: Microsoft 365 outage affects email delivery<a href="https://www.bleepingcomputer.com/news/security/exchange-online-down-microsoft-365-outage-affects-email-delivery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Microsoft 365 outage is preventing Exchange Online users from sending and receiving emails, with messages being stuck in transit and not reaching the recipients' inboxes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Ways to Leak Contact Information by Exploiting Privacy Weaknesses in Apple AirDrop<a href="https://www.theregister.com/2021/04/22/airdrop_contact_leaks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug-hunting team at Technische Universität Darmstadt in Germany reverse engineered AirDrop and found that senders and receivers may leak their contact details in the process.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL to Work with The Coalition Against Stalkerware to Tackle Surge in Domestic Violence<a href="https://www.infosecurity-magazine.com:443/news/interpol-coaltion-stalkerware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL will work with the coalition to improve the abilities of police forces to tackle this growing issue
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP removes backdoor account in NAS backup, disaster recovery app<a href="https://www.bleepingcomputer.com/news/security/qnap-removes-backdoor-account-in-nas-backup-disaster-recovery-app/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Android Botnet Uses Spoofed Apps to Serve Hundreds of Millions of Fraud Ad Requests on Smart TVs<a href="https://www.securityweek.com/massive-android-botnet-hits-smart-tv-ad-ecosystem?&web_view=true"> Full Text</a>
@@ -66,7 +114,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Additional Infrastructure Used By SolarWinds Hackers<a href="https://thehackernews.com/2021/04/researchers-find-additional.html"> Full Text</a>
@@ -82,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ Launches Ransomware Taskforce as Apple Hit by Extortion Attempt<a href="https://www.infosecurity-magazine.com:443/news/doj-launches-ransomware-taskforce/"> Full Text</a>
@@ -98,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pareto Botnet, million infected Android devices conduct fraud in the CTV ad ecosystem<a href="https://securityaffairs.co/wordpress/117110/malware/pareto-botnet.html"> Full Text</a>
@@ -118,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It’s Easy to Become a Cyberattack Target, but a VPN Can Help<a href="https://threatpost.com/cyberattack-target-vpn-help/165504/"> Full Text</a>
@@ -134,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers can hide 'external sender' email warnings with HTML and CSS<a href="https://www.bleepingcomputer.com/news/security/attackers-can-hide-external-sender-email-warnings-with-html-and-css/"> Full Text</a>
@@ -150,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIDO launches protocol to secure IoT onboarding to cloud and on-premise management platforms<a href="https://www.helpnetsecurity.com/2021/04/21/fido-device-onboard-protocol/?&web_view=true"> Full Text</a>
@@ -166,7 +214,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cost of Account Unlocks, and Password Resets Add Up<a href="https://thehackernews.com/2021/04/cost-of-account-unlocks-and-password.html"> Full Text</a>
@@ -182,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Biz Launches RDP Breach Notification Site<a href="https://www.infosecurity-magazine.com:443/news/security-biz-rdp-breach/"> Full Text</a>
@@ -198,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/117105/hacking/trend-micro-flaw-cve-2020-24557.html"> Full Text</a>
@@ -218,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Valve belatedly fixes Steam gaming platform RCE vulnerability<a href="https://portswigger.net/daily-swig/valve-belatedly-fixes-steam-gaming-platform-rce-vulnerability?&web_view=true"> Full Text</a>
@@ -234,7 +282,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using Telegram Messenger to Control ToxicEye Malware<a href="https://thehackernews.com/2021/04/cybercriminals-using-telegram-messenger.html"> Full Text</a>
@@ -250,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometei Botnet Exploits Exchange Server Bugs to Grow<a href="https://www.infosecurity-magazine.com:443/news/prometei-botnet-exploits-exchange/"> Full Text</a>
@@ -266,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Million-dollar deposits and friends in high places: how we applied for a job with a ransomware gang<a href="https://securityaffairs.co/wordpress/117100/cyber-crime/experts-applied-job-ransomware-gang.html"> Full Text</a>
@@ -286,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Malware Made its Way in Google Play Store<a href="https://cyware.com/news/another-malware-made-its-way-in-google-play-store-ed6f6895"> Full Text</a>
@@ -302,7 +350,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New US Justice Department Task Force Formed to Disrupt Ransomware Operations<a href="https://www.zdnet.com/article/new-us-justice-department-team-aims-to-disrupt-ransomware-operations/?&web_view=true"> Full Text</a>
@@ -318,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel Email-Based Campaign Targets Bloomberg Clients with RATs<a href="https://threatpost.com/email-campaign-targets-bloomberg-clients/165514/"> Full Text</a>
@@ -334,7 +382,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2021
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Busts Palestinian Hackers' Operation Spreading Mobile Spyware<a href="https://thehackernews.com/2021/04/facebook-busts-palestinian-hackers.html"> Full Text</a>
