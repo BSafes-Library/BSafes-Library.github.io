@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIDO launches protocol to secure IoT onboarding to cloud and on-premise management platforms<a href="https://www.helpnetsecurity.com/2021/04/21/fido-device-onboard-protocol/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FIDO Alliance announced the launch of FIDO Device Onboard protocol, a new, open IoT standard that will enable devices to simply and securely onboard to cloud and on-premise management platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

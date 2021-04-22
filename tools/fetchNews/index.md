@@ -34,6 +34,322 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP removes backdoor account in NAS backup, disaster recovery app<a href="https://www.bleepingcomputer.com/news/security/qnap-removes-backdoor-account-in-nas-backup-disaster-recovery-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has addressed a critical vulnerability allowing attackers to log into QNAP NAS (network-attached storage) devices using hardcoded credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Android Botnet Uses Spoofed Apps to Serve Hundreds of Millions of Fraud Ad Requests on Smart TVs<a href="https://www.securityweek.com/massive-android-botnet-hits-smart-tv-ad-ecosystem?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sophisticated mobile botnet, dubbed Pareto, is made up of nearly a million infected mobile Android devices pretending to be millions of people watching ads on smart TVs and other devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Additional Infrastructure Used By SolarWinds Hackers<a href="https://thehackernews.com/2021/04/researchers-find-additional.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sprawling  SolarWinds cyberattack  which came to light last December was known for its sophistication in the breadth of tactics used to infiltrate and persist in the target infrastructure, so much so that Microsoft went on to call the threat actor behind the campaign "skillful and methodic operators who follow operations security (OpSec) best practices to minimize traces, stay under the radar, and avoid detection."  But  new research  published today shows that the threat actor carefully planned each stage of the operation to "avoid creating the type of patterns that make tracking them simple," thus deliberately making forensic analysis difficult.  By analyzing telemetry data associated with previously published indicators of compromise, RiskIQ said it identified an additional set of 18 servers with high confidence that likely communicated with the targeted, secondary Cobalt Strike payloads delivered via the TEARDROP and RAINDROP malware, representing a 56% jum
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ Launches Ransomware Taskforce as Apple Hit by Extortion Attempt<a href="https://www.infosecurity-magazine.com:443/news/doj-launches-ransomware-taskforce/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil group claims to have secret Macbook plans stolen from supplier
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pareto Botnet, million infected Android devices conduct fraud in the CTV ad ecosystem<a href="https://securityaffairs.co/wordpress/117110/malware/pareto-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Human Security have uncovered a huge botnet of Android devices being used to conduct fraud in the connected TV advertising ecosystem.
+
+
+
+Security researchers at Human Security (formerly White Ops) discovered a massive Android botnet,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Easy to Become a Cyberattack Target, but a VPN Can Help<a href="https://threatpost.com/cyberattack-target-vpn-help/165504/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You might think that cybercrime is more prevalent in less digitally literate countries. However, NordVPN’s Cyber Risk Index puts North American and Northern European countries at the top of the target list.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers can hide 'external sender' email warnings with HTML and CSS<a href="https://www.bleepingcomputer.com/news/security/attackers-can-hide-external-sender-email-warnings-with-html-and-css/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "external sender" warnings shown to email recipients by clients like Microsoft Outlook can be hidden by the sender, as demonstrated by a researcher. Turns out, all it takes for attackers to alter the "external sender" warning, or remove it altogether from emails is just a few lines of HTML and CSS code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIDO launches protocol to secure IoT onboarding to cloud and on-premise management platforms<a href="https://www.helpnetsecurity.com/2021/04/21/fido-device-onboard-protocol/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FIDO Alliance announced the launch of FIDO Device Onboard protocol, a new, open IoT standard that will enable devices to simply and securely onboard to cloud and on-premise management platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cost of Account Unlocks, and Password Resets Add Up<a href="https://thehackernews.com/2021/04/cost-of-account-unlocks-and-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are many labor-intensive tasks that the IT service desk carries out on a daily basis. None as tedious and costly as resetting passwords.  Modern IT service desks spend a significant amount of time both unlocking and resetting passwords for end-users. This issue has been exacerbated by the COVID-19 pandemic.  Causes of account lockouts and password resets  End-user password policies, such as those found in Microsoft Active Directory Domain Services (ADDS), typically define a  password age . The password age is the length of time an end-user can keep their current password.  While  new guidance from NIST  recommends against the long-held notion of forced password changes, it is still a common and required security mechanism across other compliance standards and industry certifications such as PCI and HITRUST.  When the password age is reached for the user account, the user must change their account password. It is generally prompted at the next login on their workstation. This sce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Biz Launches RDP Breach Notification Site<a href="https://www.infosecurity-magazine.com:443/news/security-biz-rdp-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced Intelligence will check to see if your assets are on dark web site
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/117105/hacking/trend-micro-flaw-cve-2020-24557.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Trend Micro revealed that a threat actor is actively exploiting a flaw, tracked as CVE-2020-24557, in its antivirus solutions to gain admin rights on Windows systems.
+
+
+
+Security solutions one again are used as attack vectors by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Valve belatedly fixes Steam gaming platform RCE vulnerability<a href="https://portswigger.net/daily-swig/valve-belatedly-fixes-steam-gaming-platform-rce-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Steam source engine vulnerability discovered by ‘Florian’, a member of reverse engineering group Secret Club, was finally resolved last weekend, after it was first reported in May 2019.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Telegram Messenger to Control ToxicEye Malware<a href="https://thehackernews.com/2021/04/cybercriminals-using-telegram-messenger.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries are increasingly abusing Telegram as a "command-and-control" system to distribute malware into organizations that could then be used to capture sensitive information from targeted systems.  "Even when Telegram is not installed or being used, the system allows hackers to send malicious commands and operations remotely via the instant messaging app," said researchers from cybersecurity firm Check Point , who have identified no fewer than 130 attacks over the past three months that make use of a new multi-functional remote access trojan (RAT) called "ToxicEye."   The use of Telegram for facilitating malicious activities is not new. In September 2019, an information stealer dubbed  Masad Stealer  was found to plunder information and cryptocurrency wallet data from infected computers using Telegram as an exfiltration channel. Then last year,  Magecart groups  embraced the same tactic to send stolen payment details from compromised websites back to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei Botnet Exploits Exchange Server Bugs to Grow<a href="https://www.infosecurity-magazine.com:443/news/prometei-botnet-exploits-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto-mining botnet has been around since 2016
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Million-dollar deposits and friends in high places: how we applied for a job with a ransomware gang<a href="https://securityaffairs.co/wordpress/117100/cyber-crime/experts-applied-job-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During an undercover interview, a CyberNews researcher tricked ransomware operators affiliated with Ragnar Locker into revealing their ransom payout structure, cash out schemes, and target acquisition strategies.
+
+
+
+From a relatively rare threat just...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Malware Made its Way in Google Play Store<a href="https://cyware.com/news/another-malware-made-its-way-in-google-play-store-ed6f6895"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of malicious Android apps out there are impersonating security scanner apps on the official Play Store to steal sensitive information or even&nbsp;take full control of users' devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New US Justice Department Task Force Formed to Disrupt Ransomware Operations<a href="https://www.zdnet.com/article/new-us-justice-department-team-aims-to-disrupt-ransomware-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an internal memo, the DoJ outlines the creation of a new initiative that will bring together current efforts in the federal government to "pursue and disrupt" ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Email-Based Campaign Targets Bloomberg Clients with RATs<a href="https://threatpost.com/email-campaign-targets-bloomberg-clients/165514/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks dubbed ‘Fajan’ by researchers are specifically targeted and appear to be testing various threat techniques to find ones with the greatest impact.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Busts Palestinian Hackers' Operation Spreading Mobile Spyware<a href="https://thehackernews.com/2021/04/facebook-busts-palestinian-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Wednesday said it took steps to dismantle malicious activities perpetrated by two state-sponsored hacking groups operating out of Palestine that abused its platform to distribute malware.  The social media giant attributed the attacks to a network connected to the Preventive Security Service ( PSS ), the security apparatus of the State of Palestine, and another threat actor known as Arid Viper (aka Desert Falcon and APT-C-23), the latter of which is alleged to be connected to the cyber arm of Hamas.  The two digital espionage campaigns, active in 2019 and 2020, exploited a range of devices and platforms, such as Android, iOS, and Windows, with the PSS cluster primarily targeting domestic audiences in Palestine. The other set of attacks went after users in the Palestinian territories and Syria and, to a lesser extent Turkey, Iraq, Lebanon, and Libya.   Both the groups appear to have leveraged the platform as a springboard to launch a variety of social engineering attacks in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

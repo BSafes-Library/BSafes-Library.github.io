@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Easy to Become a Cyberattack Target, but a VPN Can Help<a href="https://threatpost.com/cyberattack-target-vpn-help/165504/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You might think that cybercrime is more prevalent in less digitally literate countries. However, NordVPN’s Cyber Risk Index puts North American and Northern European countries at the top of the target list.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cost of Account Unlocks, and Password Resets Add Up<a href="https://thehackernews.com/2021/04/cost-of-account-unlocks-and-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are many labor-intensive tasks that the IT service desk carries out on a daily basis. None as tedious and costly as resetting passwords.  Modern IT service desks spend a significant amount of time both unlocking and resetting passwords for end-users. This issue has been exacerbated by the COVID-19 pandemic.  Causes of account lockouts and password resets  End-user password policies, such as those found in Microsoft Active Directory Domain Services (ADDS), typically define a&nbsp; password age . The password age is the length of time an end-user can keep their current password.  While&nbsp; new guidance from NIST &nbsp;recommends against the long-held notion of forced password changes, it is still a common and required security mechanism across other compliance standards and industry certifications such as PCI and HITRUST.  When the password age is reached for the user account, the user must change their account password. It is generally prompted at the next login on their workstation. This sce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

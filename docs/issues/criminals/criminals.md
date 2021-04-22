@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Telegram Messenger to Control ToxicEye Malware<a href="https://thehackernews.com/2021/04/cybercriminals-using-telegram-messenger.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries are increasingly abusing Telegram as a "command-and-control" system to distribute malware into organizations that could then be used to capture sensitive information from targeted systems.  "Even when Telegram is not installed or being used, the system allows hackers to send malicious commands and operations remotely via the instant messaging app," said researchers from cybersecurity firm Check Point , who have identified no fewer than 130 attacks over the past three months that make use of a new multi-functional remote access trojan (RAT) called "ToxicEye."   The use of Telegram for facilitating malicious activities is not new. In September 2019, an information stealer dubbed&nbsp; Masad Stealer &nbsp;was found to plunder information and cryptocurrency wallet data from infected computers using Telegram as an exfiltration channel. Then last year,&nbsp; Magecart groups &nbsp;embraced the same tactic to send stolen payment details from compromised websites back to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

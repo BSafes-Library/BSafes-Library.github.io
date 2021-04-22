@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ Launches Ransomware Taskforce as Apple Hit by Extortion Attempt<a href="https://www.infosecurity-magazine.com:443/news/doj-launches-ransomware-taskforce/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil group claims to have secret Macbook plans stolen from supplier
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Million-dollar deposits and friends in high places: how we applied for a job with a ransomware gang<a href="https://securityaffairs.co/wordpress/117100/cyber-crime/experts-applied-job-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During an undercover interview, a CyberNews researcher tricked ransomware operators affiliated with Ragnar Locker into revealing their ransom payout structure, cash out schemes, and target acquisition strategies.
+
+
+
+From a relatively rare threat just...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New US Justice Department Task Force Formed to Disrupt Ransomware Operations<a href="https://www.zdnet.com/article/new-us-justice-department-team-aims-to-disrupt-ransomware-operations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an internal memo, the DoJ outlines the creation of a new initiative that will bring together current efforts in the federal government to "pursue and disrupt" ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

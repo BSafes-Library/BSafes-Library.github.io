@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New certification program trains cyber pros in cloud, IoT and other emerging tech<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certification-program-trains-cyber-pros-in-cloud-iot-and-other-emerging-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Training covers the cloud, IoT, AI and blockchain technology, and the cybersecurity implications of each.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

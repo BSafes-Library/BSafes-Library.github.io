@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Biz Launches RDP Breach Notification Site<a href="https://www.infosecurity-magazine.com:443/news/security-biz-rdp-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced Intelligence will check to see if your assets are on dark web site
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

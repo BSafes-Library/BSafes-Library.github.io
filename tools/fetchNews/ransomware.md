@@ -11,6 +11,20 @@ nav_order: 900180
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Massive QLocker ransomware attack uses 7zip to encrypt QNAP devices<a href="https://www.bleepingcomputer.com/news/security/massive-qlocker-ransomware-attack-uses-7zip-to-encrypt-qnap-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive ransomware campaign targeting QNAP devices worldwide is underway, and users are finding their files now stored in password-protected 7zip archives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers threaten to leak stolen Apple blueprints if $50 million ransom isn't paid<a href="https://thehackernews.com/2021/04/hackers-threaten-to-leak-stolen-apple.html"> Full Text</a>
 </p>
 <details>
