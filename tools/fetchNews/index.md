@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Online down: Microsoft 365 outage affects email delivery<a href="https://www.bleepingcomputer.com/news/security/exchange-online-down-microsoft-365-outage-affects-email-delivery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Microsoft 365 outage is preventing Exchange Online users from sending and receiving emails, with messages being stuck in transit and not reaching the recipients' inboxes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Ways to Leak Contact Information by Exploiting Privacy Weaknesses in Apple AirDrop<a href="https://www.theregister.com/2021/04/22/airdrop_contact_leaks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug-hunting team at Technische Universität Darmstadt in Germany reverse engineered AirDrop and found that senders and receivers may leak their contact details in the process.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL to Work with The Coalition Against Stalkerware to Tackle Surge in Domestic Violence<a href="https://www.infosecurity-magazine.com:443/news/interpol-coaltion-stalkerware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL will work with the coalition to improve the abilities of police forces to tackle this growing issue
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
