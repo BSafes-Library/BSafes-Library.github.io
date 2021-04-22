@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Signal CEO gives mobile-hacking firm a taste of being hacked<a href="https://www.bleepingcomputer.com/news/security/signal-ceo-gives-mobile-hacking-firm-a-taste-of-being-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software developed by data extraction company Cellebrite contains vulnerabilities that allow arbitrary code execution on the device, claims Moxie Marlinspike, the creator of the encrypted messaging app Signal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech companies duke it out at Senate hearing | Seven House Republicans vow to reject donations from Big Tech<a href="https://thehill.com//policy/technology/overnights/549611-hillicon-valley-lawmakers-reintroduce-bill-to-invest-billions-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was a big day for Big Tech at the Capitol, with the Senate Judiciary antitrust subcommittee holding a hearing featuring Google and Apple executives to look at their app store market power. And a group of seven House Republicans pledged to reject donations from some of the top tech companies. Meanwhile, Senate Majority Leader Chuck SchumerChuck SchumerLawmakers react to guilty verdict in Chauvin murder trial: 'Our work is far from done' Overnight Health Care: Johnson & Johnson pause seen as 'responsible' in poll | Women turning out more than men for COVID-19 vaccines 'Real Housewives of the GOP' — Wannabe reality show narcissists commandeer the party MORE led a bipartisan group of lawmakers in rolling out legislation to invest more than $100 billion in emerging technologies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When unicorns trot too fast: Lessons from one startup’s bug bounty missteps<a href="https://www.scmagazine.com/application-security/when-unicorns-trot-too-fast-lessons-from-one-startups-bug-bounty-missteps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luta Security’s Katie Moussoris details Clubhouse vulnerabilities she disclosed, and how fast growing startups with good intentions sometimes drop the ball.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New certification program trains cyber pros in cloud, IoT and other emerging tech<a href="https://www.scmagazine.com/home/security-news/cloud-security/new-certification-program-trains-cyber-pros-in-cloud-iot-and-other-emerging-tech/"> Full Text</a>
 </p>
 <details>
