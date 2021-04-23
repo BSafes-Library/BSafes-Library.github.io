@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TLS-Encrypted Malware Volumes Double in Just Months<a href="https://www.infosecurity-magazine.com:443/news/tlsencrypted-malware-volumes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos warns of increasing use of legitimate web services to hide malware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hack analysis reveals 56% boost in command server footprint<a href="https://www.zdnet.com/article/solarwinds-hack-analysis-reveals-56-boost-in-command-server-footprint/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
 </p>
 <details>
