@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Acting FTC chair blasts Supreme Court decision limiting agency consumer power | Police tech under scrutiny following Chicago shooting<a href="https://thehill.com//policy/technology/overnights/549853-hillicon-valley-acting-ftc-chair-blasts-supreme-court-decision"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chair of the Federal Trade Commission criticized a Supreme Court decision handed down Thursday that limits how the agency can punish companies engaging in deceptive practices. Meanwhile, certain kinds of technologies used by law enforcement have come under scrutiny following the shooting of 13-year-old Adam Toledo in Chicago, and two Senate Democrats are raising concerns around the safety and security of Tesla vehicles. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendors are getting better at spotting malicious execution techniques<a href="https://www.scmagazine.com/home/security-news/malware/vendors-are-getting-better-at-spotting-malicious-execution-techniques/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity enterprise solutions are getting better at recognizing malicious activity conducted via APIs and Windows Management Instrumentation tools.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware operators leverage TLS in 46% of detected communications<a href="https://www.scmagazine.com/home/security-news/malware/malware-operators-leverage-tls-in-46-of-detected-communications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware operators have also been adopting TLS for essentially the same reasons as legitimate companies: To prevent defenders from detecting and stopping the deployment of malware and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New chief of Carnegie Mellon’s CERT: Feds needs to do better with info sharing<a href="https://www.scmagazine.com/home/security-news/government-and-defense/new-chief-of-carnegie-mellons-cert-feds-needs-to-do-better-with-info-sharing/"> Full Text</a>
 </p>
 <details>
