@@ -11,6 +11,20 @@ nav_order: 900027
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+KnowBe4 CEO Stu Sjouwerman talks IPO, and ‘strengthening that human firewall’<a href="https://www.scmagazine.com/home/security-news/knowbe4-ceo-stu-sjouwerman-talks-ipo-and-strengthening-that-human-firewall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media caught up with CEO and founder Stu Sjouwerman on the company’s plans to expand international sales and leverage automation and machine learning to further explore the human layer of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Security Biz Launches RDP Breach Notification Site<a href="https://www.infosecurity-magazine.com:443/news/security-biz-rdp-breach/"> Full Text</a>
 </p>
 <details>

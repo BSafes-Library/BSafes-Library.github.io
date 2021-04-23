@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware Gang Plans to Extort NASDAQ-listed Victims by Shorting Their Stock Prices<a href="https://therecord.media/ransomware-gang-wants-to-short-the-stock-price-of-their-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Darkside ransomware are expanding their extortion tactics with a new technique aimed at companies that are listed on NASDAQ or other stock markets globally.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stanford student finds glitch in ransomware payment system to save victims $27,000<a href="https://www.cyberscoop.com/jack-cable-qlocker-ransomware-recovery/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers behind a nascent strain of ransomware hit a snag this week when a security researcher found a flaw in the payment system and, he says, helped victims save $27,000 in potential losses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware gang aims at influencing the stock price of their victims<a href="https://securityaffairs.co/wordpress/117130/malware/darkside-ransomware-stock-price.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darkside ransomware gang is enhancing its extortion tactics to interfere with the valuation of stocks of companies that are listed on NASDAQ or other stock markets.
+
+
+
+The Darkside ransomware operators are stepping up their extortion tactics targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

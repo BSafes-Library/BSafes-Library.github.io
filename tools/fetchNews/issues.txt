@@ -29,6 +29,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.darkreading.com/vulnerabilities---threats/new-cisa-advisories-warn-of-ics-vulnerabilities/d/d-id/1340803?&web_view=true
 
 Law:
 

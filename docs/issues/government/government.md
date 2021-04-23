@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of ICS Vulnerabilities in Horner Automation Cscape and Mitsubishi Electric GOT<a href="https://www.darkreading.com/vulnerabilities---threats/new-cisa-advisories-warn-of-ics-vulnerabilities/d/d-id/1340803?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS's Cybersecurity and Infrastructure Security Agency (CISA) today issued ICS advisories for vulnerabilities in the Horner Automation Cscape software and the Mitsubishi Electric GOT.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

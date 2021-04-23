@@ -34,6 +34,350 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Supply Chain Exploit in CocoaPods Impacts Three Million Mobile Apps<a href="https://portswigger.net/daily-swig/cocoapods-rce-exploit-exposed-keys-to-repo-used-by-three-million-mobile-apps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution (RCE) vulnerability in the central CocoaPods server could have potentially impacted up to three million mobile apps that relied on the open source package manager.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New QNAP NAS Flaws Exploited In Recent Ransomware Attacks - Patch It!<a href="https://thehackernews.com/2021/04/new-qnap-nas-flaws-exploited-in-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain called " Qlocker " is targeting QNAP network attached storage (NAS) devices as part of an ongoing campaign and encrypting files in password-protected 7zip archives.  First reports of the  infections  emerged on April 20, with the adversaries behind the operations demanding a bitcoin payment (0.01 bitcoins or about $500.57) to receive the decryption key.  In response to the ongoing attacks, the Taiwanese company has released an advisory prompting users to apply updates to QNAP NAS running Multimedia Console, Media Streaming Add-on, and HBS 3 Hybrid Backup Sync to secure the devices from any attacks.   "QNAP strongly urges that all users immediately install the latest Malware Remover version and run a malware scan on QNAP NAS," the company  said . "The Multimedia Console, Media Streaming Add-on, and Hybrid Backup Sync apps need to be updated to the latest available version as well to further secure QNAP NAS from ransomware attacks."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Last Chance for Forensics Teams Ahead of Emotet Sunday Deadline<a href="https://www.infosecurity-magazine.com:443/news/last-chance-forensics-teams-emotet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notorious botnet will be removed from global machines at the weekend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Multilateral Surveillance Accord: Setting the Table<a href="https://www.lawfareblog.com/multilateral-surveillance-accord-setting-table"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stakeholders are increasingly advocating for a multilateral accord on government surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Million-dollar deposits and friends in high places: how we applied for a job with a ransomware gang<a href="https://securityaffairs.co/wordpress/117100/cyber-crime/experts-applied-job-ransomware-gang.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In June 2020, a user called ‘Unknown’ submitted a rather peculiar post on a popular Russian hacker forum, looking for people to join their ‘affiliate program’ which was believed to be from REvil.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor-Based Botnet Malware Targets Linux Systems, Abuses Cloud Management Tools<a href="https://www.trendmicro.com/en_us/research/21/d/tor-based-botnet-malware-targets-linux-systems-abuses-cloud-management-tools.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Linux attracts more attention from malicious actors, researchers have seen threats evolving — abusing services like Ngrok and using functions to hunt and kill other competing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware Gang Plans to Extort NASDAQ-listed Victims by Shorting Their Stock Prices<a href="https://therecord.media/ransomware-gang-wants-to-short-the-stock-price-of-their-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Darkside ransomware are expanding their extortion tactics with a new technique aimed at companies that are listed on NASDAQ or other stock markets globally.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of ICS Vulnerabilities in Horner Automation Cscape and Mitsubishi Electric GOT<a href="https://www.darkreading.com/vulnerabilities---threats/new-cisa-advisories-warn-of-ics-vulnerabilities/d/d-id/1340803?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS's Cybersecurity and Infrastructure Security Agency (CISA) today issued ICS advisories for vulnerabilities in the Horner Automation Cscape software and the Mitsubishi Electric GOT.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another BitCoin Exchange Scam—This Time “Live” on YouTube<a href="https://www.fortinet.com/blog/threat-research/another-bitcoin-exchange-scam-this-time-live-on-youtube?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Essentially, this is a typical scam, much like the recent Bitcoin exchange scams seen on Twitter. But this is a first for the YouTube platform. And it also made the claim that it was LIVE.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stanford student finds glitch in ransomware payment system to save victims $27,000<a href="https://www.cyberscoop.com/jack-cable-qlocker-ransomware-recovery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers behind a nascent strain of ransomware hit a snag this week when a security researcher found a flaw in the payment system and, he says, helped victims save $27,000 in potential losses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockdown Hotel Bookings at Risk Due to DMARC Fail<a href="https://www.infosecurity-magazine.com:443/news/lockdown-hotel-bookings-risk-due/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint claims half of UK hotels not using anti-phishing protocol
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TLS-Encrypted Malware Volumes Double in Just Months<a href="https://www.infosecurity-magazine.com:443/news/tlsencrypted-malware-volumes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos warns of increasing use of legitimate web services to hide malware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hack analysis reveals 56% boost in command server footprint<a href="https://www.zdnet.com/article/solarwinds-hack-analysis-reveals-56-boost-in-command-server-footprint/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, RiskIQ researchers published a report on the network infrastructure footprint of SolarWinds-linked cyberattackers, labeling it as "significantly larger than previously identified."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal Says Cellebrite Mobile Device Analysis Products Can Be Hacked<a href="https://www.securityweek.com/signal-says-cellebrite-mobile-device-analysis-products-can-be-hacked?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cellebrite’s forensic applications do not include the type of security protections one would expect from a parsing software, which renders them susceptible to attacks, according to Signal.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of New FormBook Variant Delivered in Phishing Campaign<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-formbook-new-variant-delivered-phishing-campaign-part-ii?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FormBook is a malware designed to steal sensitive information from a victim’s device as well as to receive control commands to perform additional malicious tasks on that device.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Maid Attack – Vacuum Hack<a href="https://securityaffairs.co/wordpress/117139/hacking/evil-maid-attack-vacuum-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil Maid Attack - Weaponizing an harmless vacuum cleaner hiding within it a small Rogue Device such as a Raspberry Pi.
+
+
+
+It is a typical day at the office. You are sitting at your desk, working hard at whatever it is that you do. The cleaning lady...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei Botnet Exploiting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/prometei-botnet-exploiting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting the ProxyLogon Microsoft Exchange Server flaws to co-opt vulnerable machines to a cryptocurrency botnet named Prometei, according to new research.  "Prometei exploits the recently disclosed Microsoft Exchange vulnerabilities associated with the HAFNIUM attacks to penetrate the network for malware deployment, credential harvesting and more," Boston-based cybersecurity firm Cybereason  said  in an analysis summarizing its findings.  First documented by Cisco Talos in July 2020,  Prometei  is a multi-modular botnet, with the actor behind the operation employing a wide range of specially-crafted tools and known exploits such as EternalBlue and BlueKeep to harvest credentials, laterally propagate across the network and "increase the amount of systems participating in its Monero-mining pool."   "Prometei has both Windows-based and Linux-Unix based versions, and it adjusts its payload based on the detected operating system, on the targeted in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware gang aims at influencing the stock price of their victims<a href="https://securityaffairs.co/wordpress/117130/malware/darkside-ransomware-stock-price.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darkside ransomware gang is enhancing its extortion tactics to interfere with the valuation of stocks of companies that are listed on NASDAQ or other stock markets.
+
+
+
+The Darkside ransomware operators are stepping up their extortion tactics targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter accidentally sends suspicious emails asking to confirm accounts<a href="https://www.bleepingcomputer.com/news/security/twitter-accidentally-sends-suspicious-emails-asking-to-confirm-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter caused quite the panic Thursday night when they accidentally sent emails asking users to confirm their accounts, which looked suspiciously like a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter accidentally sends suspicious emails asking to confirm accounts<a href="https://www.bleepingcomputer.com/news/technology/twitter-accidentally-sends-suspicious-emails-asking-to-confirm-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter caused quite the panic Thursday night when they accidentally sent emails asking users to confirm their accounts, which looked suspiciously like a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KnowBe4 CEO Stu Sjouwerman talks IPO, and ‘strengthening that human firewall’<a href="https://www.scmagazine.com/home/security-news/knowbe4-ceo-stu-sjouwerman-talks-ipo-and-strengthening-that-human-firewall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media caught up with CEO and founder Stu Sjouwerman on the company’s plans to expand international sales and leverage automation and machine learning to further explore the human layer of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

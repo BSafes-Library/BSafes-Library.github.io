@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New chief of Carnegie Mellon’s CERT: Feds needs to do better with info sharing<a href="https://www.scmagazine.com/home/security-news/government-and-defense/new-chief-of-carnegie-mellons-cert-feds-needs-to-do-better-with-info-sharing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rather than limit focus to indicators of compromise, CERT’s new director, Greg Touhill said government needs “to do a better job of making sure that what information we share has contextual elements, and is timely.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

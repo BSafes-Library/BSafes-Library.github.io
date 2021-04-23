@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Supply Chain Exploit in CocoaPods Impacts Three Million Mobile Apps<a href="https://portswigger.net/daily-swig/cocoapods-rce-exploit-exposed-keys-to-repo-used-by-three-million-mobile-apps?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New QNAP NAS Flaws Exploited In Recent Ransomware Attacks - Patch It!<a href="https://thehackernews.com/2021/04/new-qnap-nas-flaws-exploited-in-recent.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Last Chance for Forensics Teams Ahead of Emotet Sunday Deadline<a href="https://www.infosecurity-magazine.com:443/news/last-chance-forensics-teams-emotet/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Multilateral Surveillance Accord: Setting the Table<a href="https://www.lawfareblog.com/multilateral-surveillance-accord-setting-table"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Million-dollar deposits and friends in high places: how we applied for a job with a ransomware gang<a href="https://securityaffairs.co/wordpress/117100/cyber-crime/experts-applied-job-ransomware-gang.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor-Based Botnet Malware Targets Linux Systems, Abuses Cloud Management Tools<a href="https://www.trendmicro.com/en_us/research/21/d/tor-based-botnet-malware-targets-linux-systems-abuses-cloud-management-tools.html?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darkside Ransomware Gang Plans to Extort NASDAQ-listed Victims by Shorting Their Stock Prices<a href="https://therecord.media/ransomware-gang-wants-to-short-the-stock-price-of-their-victims/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of ICS Vulnerabilities in Horner Automation Cscape and Mitsubishi Electric GOT<a href="https://www.darkreading.com/vulnerabilities---threats/new-cisa-advisories-warn-of-ics-vulnerabilities/d/d-id/1340803?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another BitCoin Exchange Scam—This Time “Live” on YouTube<a href="https://www.fortinet.com/blog/threat-research/another-bitcoin-exchange-scam-this-time-live-on-youtube?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stanford student finds glitch in ransomware payment system to save victims $27,000<a href="https://www.cyberscoop.com/jack-cable-qlocker-ransomware-recovery/?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockdown Hotel Bookings at Risk Due to DMARC Fail<a href="https://www.infosecurity-magazine.com:443/news/lockdown-hotel-bookings-risk-due/"> Full Text</a>
@@ -210,7 +210,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TLS-Encrypted Malware Volumes Double in Just Months<a href="https://www.infosecurity-magazine.com:443/news/tlsencrypted-malware-volumes/"> Full Text</a>
@@ -226,7 +226,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hack analysis reveals 56% boost in command server footprint<a href="https://www.zdnet.com/article/solarwinds-hack-analysis-reveals-56-boost-in-command-server-footprint/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal Says Cellebrite Mobile Device Analysis Products Can Be Hacked<a href="https://www.securityweek.com/signal-says-cellebrite-mobile-device-analysis-products-can-be-hacked?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of New FormBook Variant Delivered in Phishing Campaign<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-formbook-new-variant-delivered-phishing-campaign-part-ii?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Maid Attack – Vacuum Hack<a href="https://securityaffairs.co/wordpress/117139/hacking/evil-maid-attack-vacuum-hack.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometei Botnet Exploiting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/prometei-botnet-exploiting-unpatched.html"> Full Text</a>
@@ -310,7 +310,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darkside Ransomware gang aims at influencing the stock price of their victims<a href="https://securityaffairs.co/wordpress/117130/malware/darkside-ransomware-stock-price.html"> Full Text</a>
@@ -330,7 +330,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter accidentally sends suspicious emails asking to confirm accounts<a href="https://www.bleepingcomputer.com/news/security/twitter-accidentally-sends-suspicious-emails-asking-to-confirm-accounts/"> Full Text</a>
@@ -346,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter accidentally sends suspicious emails asking to confirm accounts<a href="https://www.bleepingcomputer.com/news/technology/twitter-accidentally-sends-suspicious-emails-asking-to-confirm-accounts/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KnowBe4 CEO Stu Sjouwerman talks IPO, and ‘strengthening that human firewall’<a href="https://www.scmagazine.com/home/security-news/knowbe4-ceo-stu-sjouwerman-talks-ipo-and-strengthening-that-human-firewall/"> Full Text</a>

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Supply Chain Exploit in CocoaPods Impacts Three Million Mobile Apps<a href="https://portswigger.net/daily-swig/cocoapods-rce-exploit-exposed-keys-to-repo-used-by-three-million-mobile-apps?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution (RCE) vulnerability in the central CocoaPods server could have potentially impacted up to three million mobile apps that relied on the open source package manager.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New QNAP NAS Flaws Exploited In Recent Ransomware Attacks - Patch It!<a href="https://thehackernews.com/2021/04/new-qnap-nas-flaws-exploited-in-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain called " Qlocker " is targeting QNAP network attached storage (NAS) devices as part of an ongoing campaign and encrypting files in password-protected 7zip archives.  First reports of the&nbsp; infections &nbsp;emerged on April 20, with the adversaries behind the operations demanding a bitcoin payment (0.01 bitcoins or about $500.57) to receive the decryption key.  In response to the ongoing attacks, the Taiwanese company has released an advisory prompting users to apply updates to QNAP NAS running Multimedia Console, Media Streaming Add-on, and HBS 3 Hybrid Backup Sync to secure the devices from any attacks.   "QNAP strongly urges that all users immediately install the latest Malware Remover version and run a malware scan on QNAP NAS," the company&nbsp; said . "The Multimedia Console, Media Streaming Add-on, and Hybrid Backup Sync apps need to be updated to the latest available version as well to further secure QNAP NAS from ransomware attacks."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal Says Cellebrite Mobile Device Analysis Products Can Be Hacked<a href="https://www.securityweek.com/signal-says-cellebrite-mobile-device-analysis-products-can-be-hacked?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cellebrite’s forensic applications do not include the type of security protections one would expect from a parsing software, which renders them susceptible to attacks, according to Signal.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

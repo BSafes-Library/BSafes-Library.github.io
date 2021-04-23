@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another BitCoin Exchange Scam—This Time “Live” on YouTube<a href="https://www.fortinet.com/blog/threat-research/another-bitcoin-exchange-scam-this-time-live-on-youtube?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Essentially, this is a typical scam, much like the recent Bitcoin exchange scams seen on Twitter. But this is a first for the YouTube platform. And it also made the claim that it was LIVE.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of New FormBook Variant Delivered in Phishing Campaign<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-formbook-new-variant-delivered-phishing-campaign-part-ii?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FormBook is a malware designed to steal sensitive information from a victim’s device as well as to receive control commands to perform additional malicious tasks on that device.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Maid Attack – Vacuum Hack<a href="https://securityaffairs.co/wordpress/117139/hacking/evil-maid-attack-vacuum-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil Maid Attack - Weaponizing an harmless vacuum cleaner hiding within it a small Rogue Device such as a Raspberry Pi.
+
+
+
+It is a typical day at the office. You are sitting at your desk, working hard at whatever it is that you do. The cleaning lady...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

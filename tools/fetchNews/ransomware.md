@@ -11,6 +11,20 @@ nav_order: 900180
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mount Locker Ransomware Aggressively Changes Up Tactics<a href="https://threatpost.com/mount-locker-ransomware-changes-tactics/165559/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware is upping its danger quotient with new features while signaling a rebranding to “AstroLocker.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DoJ Launches Ransomware Taskforce as Apple Hit by Extortion Attempt<a href="https://www.infosecurity-magazine.com:443/news/doj-launches-ransomware-taskforce/"> Full Text</a>
 </p>
 <details>

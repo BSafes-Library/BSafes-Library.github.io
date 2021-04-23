@@ -8,6 +8,48 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Last Chance for Forensics Teams Ahead of Emotet Sunday Deadline<a href="https://www.infosecurity-magazine.com:443/news/last-chance-forensics-teams-emotet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notorious botnet will be removed from global machines at the weekend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor-Based Botnet Malware Targets Linux Systems, Abuses Cloud Management Tools<a href="https://www.trendmicro.com/en_us/research/21/d/tor-based-botnet-malware-targets-linux-systems-abuses-cloud-management-tools.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Linux attracts more attention from malicious actors, researchers have seen threats evolving — abusing services like Ngrok and using functions to hunt and kill other competing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei Botnet Exploiting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/prometei-botnet-exploiting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting the ProxyLogon Microsoft Exchange Server flaws to co-opt vulnerable machines to a cryptocurrency botnet named Prometei, according to new research.  "Prometei exploits the recently disclosed Microsoft Exchange vulnerabilities associated with the HAFNIUM attacks to penetrate the network for malware deployment, credential harvesting and more," Boston-based cybersecurity firm Cybereason&nbsp; said &nbsp;in an analysis summarizing its findings.  First documented by Cisco Talos in July 2020,&nbsp; Prometei &nbsp;is a multi-modular botnet, with the actor behind the operation employing a wide range of specially-crafted tools and known exploits such as EternalBlue and BlueKeep to harvest credentials, laterally propagate across the network and "increase the amount of systems participating in its Monero-mining pool."   "Prometei has both Windows-based and Linux-Unix based versions, and it adjusts its payload based on the detected operating system, on the targeted in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
