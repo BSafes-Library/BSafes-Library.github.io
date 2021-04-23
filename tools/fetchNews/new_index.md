@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware gang aims at influencing the stock price of their victims<a href="https://securityaffairs.co/wordpress/117130/malware/darkside-ransomware-stock-price.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darkside ransomware gang is enhancing its extortion tactics to interfere with the valuation of stocks of companies that are listed on NASDAQ or other stock markets.
+
+
+
+The Darkside ransomware operators are stepping up their extortion tactics targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Twitter accidentally sends suspicious emails asking to confirm accounts<a href="https://www.bleepingcomputer.com/news/security/twitter-accidentally-sends-suspicious-emails-asking-to-confirm-accounts/"> Full Text</a>
 </p>
 <details>
