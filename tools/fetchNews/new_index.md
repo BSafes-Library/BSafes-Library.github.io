@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hack analysis reveals 56% boost in command server footprint<a href="https://www.zdnet.com/article/solarwinds-hack-analysis-reveals-56-boost-in-command-server-footprint/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, RiskIQ researchers published a report on the network infrastructure footprint of SolarWinds-linked cyberattackers, labeling it as "significantly larger than previously identified."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Signal Says Cellebrite Mobile Device Analysis Products Can Be Hacked<a href="https://www.securityweek.com/signal-says-cellebrite-mobile-device-analysis-products-can-be-hacked?&web_view=true"> Full Text</a>
 </p>
 <details>
