@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter accidentally sends suspicious emails asking to confirm accounts<a href="https://www.bleepingcomputer.com/news/security/twitter-accidentally-sends-suspicious-emails-asking-to-confirm-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter caused quite the panic Thursday night when they accidentally sent emails asking users to confirm their accounts, which looked suspiciously like a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter accidentally sends suspicious emails asking to confirm accounts<a href="https://www.bleepingcomputer.com/news/technology/twitter-accidentally-sends-suspicious-emails-asking-to-confirm-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter caused quite the panic Thursday night when they accidentally sent emails asking users to confirm their accounts, which looked suspiciously like a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
