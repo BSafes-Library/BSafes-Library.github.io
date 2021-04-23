@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Stanford student finds glitch in ransomware payment system to save victims $27,000<a href="https://www.cyberscoop.com/jack-cable-qlocker-ransomware-recovery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers behind a nascent strain of ransomware hit a snag this week when a security researcher found a flaw in the payment system and, he says, helped victims save $27,000 in potential losses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockdown Hotel Bookings at Risk Due to DMARC Fail<a href="https://www.infosecurity-magazine.com:443/news/lockdown-hotel-bookings-risk-due/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint claims half of UK hotels not using anti-phishing protocol
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TLS-Encrypted Malware Volumes Double in Just Months<a href="https://www.infosecurity-magazine.com:443/news/tlsencrypted-malware-volumes/"> Full Text</a>
 </p>
 <details>
