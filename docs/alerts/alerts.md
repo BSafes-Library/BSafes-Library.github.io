@@ -6,6 +6,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA ISSUES EMERGENCY DIRECTIVE REQUIRING FEDERAL AGENCIES TO CHECK PULSE CONNECT SECURE PRODUCTS <a href="https://www.cisa.gov/news/2021/04/20/cisa-issues-emergency-directive-requiring-federal-agencies-check-pulse-connect"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON — The Cybersecurity and Infrastructure Security Agency (CISA) issued Emergency Directive (ED) 21-03 today requiring federal civilian departments and agencies running Pulse Connect Secure products to assess and mitigate any anomalous activity or active exploitation detected on their networks. All affected agencies are required to use the Pulse Connect Secure Integrity Tool to check the integrity of their file systems, and if mismatches or new files are found, they must take mitigation actions and contact CISA for potential incident response activities.   
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021 - NSA, CISA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian SVR Targets U.S. and Allied Networks <a href="https://publications.bsafes.com/docs/nsa/russian-svr-targets-us-and-allied-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian Foreign Intelligence Service (SVR) actors (also known as APT29, Cozy Bear, and The Dukes) frequently use publicly known vulnerabilities to conduct widespread scanning and exploitation against vulnerable systems in an effort to obtain authentication credentials to allow further access. This targeting and exploitation encompasses U.S. and allied networks, including national security and government-related systems.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 14, 2021 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
