@@ -37,6 +37,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Supply Chain Exploit in CocoaPods Impacts Three Million Mobile Apps<a href="https://portswigger.net/daily-swig/cocoapods-rce-exploit-exposed-keys-to-repo-used-by-three-million-mobile-apps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution (RCE) vulnerability in the central CocoaPods server could have potentially impacted up to three million mobile apps that relied on the open source package manager.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New QNAP NAS Flaws Exploited In Recent Ransomware Attacks - Patch It!<a href="https://thehackernews.com/2021/04/new-qnap-nas-flaws-exploited-in-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain called " Qlocker " is targeting QNAP network attached storage (NAS) devices as part of an ongoing campaign and encrypting files in password-protected 7zip archives.  First reports of the  infections  emerged on April 20, with the adversaries behind the operations demanding a bitcoin payment (0.01 bitcoins or about $500.57) to receive the decryption key.  In response to the ongoing attacks, the Taiwanese company has released an advisory prompting users to apply updates to QNAP NAS running Multimedia Console, Media Streaming Add-on, and HBS 3 Hybrid Backup Sync to secure the devices from any attacks.   "QNAP strongly urges that all users immediately install the latest Malware Remover version and run a malware scan on QNAP NAS," the company  said . "The Multimedia Console, Media Streaming Add-on, and Hybrid Backup Sync apps need to be updated to the latest available version as well to further secure QNAP NAS from ransomware attacks."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Last Chance for Forensics Teams Ahead of Emotet Sunday Deadline<a href="https://www.infosecurity-magazine.com:443/news/last-chance-forensics-teams-emotet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notorious botnet will be removed from global machines at the weekend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Multilateral Surveillance Accord: Setting the Table<a href="https://www.lawfareblog.com/multilateral-surveillance-accord-setting-table"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stakeholders are increasingly advocating for a multilateral accord on government surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Million-dollar deposits and friends in high places: how we applied for a job with a ransomware gang<a href="https://securityaffairs.co/wordpress/117100/cyber-crime/experts-applied-job-ransomware-gang.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In June 2020, a user called ‘Unknown’ submitted a rather peculiar post on a popular Russian hacker forum, looking for people to join their ‘affiliate program’ which was believed to be from REvil.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor-Based Botnet Malware Targets Linux Systems, Abuses Cloud Management Tools<a href="https://www.trendmicro.com/en_us/research/21/d/tor-based-botnet-malware-targets-linux-systems-abuses-cloud-management-tools.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Linux attracts more attention from malicious actors, researchers have seen threats evolving — abusing services like Ngrok and using functions to hunt and kill other competing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware Gang Plans to Extort NASDAQ-listed Victims by Shorting Their Stock Prices<a href="https://therecord.media/ransomware-gang-wants-to-short-the-stock-price-of-their-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Darkside ransomware are expanding their extortion tactics with a new technique aimed at companies that are listed on NASDAQ or other stock markets globally.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of ICS Vulnerabilities in Horner Automation Cscape and Mitsubishi Electric GOT<a href="https://www.darkreading.com/vulnerabilities---threats/new-cisa-advisories-warn-of-ics-vulnerabilities/d/d-id/1340803?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS's Cybersecurity and Infrastructure Security Agency (CISA) today issued ICS advisories for vulnerabilities in the Horner Automation Cscape software and the Mitsubishi Electric GOT.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another BitCoin Exchange Scam—This Time “Live” on YouTube<a href="https://www.fortinet.com/blog/threat-research/another-bitcoin-exchange-scam-this-time-live-on-youtube?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Essentially, this is a typical scam, much like the recent Bitcoin exchange scams seen on Twitter. But this is a first for the YouTube platform. And it also made the claim that it was LIVE.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Stanford student finds glitch in ransomware payment system to save victims $27,000<a href="https://www.cyberscoop.com/jack-cable-qlocker-ransomware-recovery/?&web_view=true"> Full Text</a>
 </p>
 <details>
