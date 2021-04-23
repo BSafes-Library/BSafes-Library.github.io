@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Prometei Botnet Exploiting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/04/prometei-botnet-exploiting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting the ProxyLogon Microsoft Exchange Server flaws to co-opt vulnerable machines to a cryptocurrency botnet named Prometei, according to new research.  "Prometei exploits the recently disclosed Microsoft Exchange vulnerabilities associated with the HAFNIUM attacks to penetrate the network for malware deployment, credential harvesting and more," Boston-based cybersecurity firm Cybereason  said  in an analysis summarizing its findings.  First documented by Cisco Talos in July 2020,  Prometei  is a multi-modular botnet, with the actor behind the operation employing a wide range of specially-crafted tools and known exploits such as EternalBlue and BlueKeep to harvest credentials, laterally propagate across the network and "increase the amount of systems participating in its Monero-mining pool."   "Prometei has both Windows-based and Linux-Unix based versions, and it adjusts its payload based on the detected operating system, on the targeted in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Darkside Ransomware gang aims at influencing the stock price of their victims<a href="https://securityaffairs.co/wordpress/117130/malware/darkside-ransomware-stock-price.html"> Full Text</a>
 </p>
 <details>
