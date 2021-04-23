@@ -6,6 +6,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric GOT <a href="https://us-cert.cisa.gov/ics/advisories/icsa-21-112-02"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A password authentication bypass vulnerability exists in the VNC function of the GOT2000 series and the GOT SIMPLE series due to improper authentication. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horner Automation Cscape <a href="https://us-cert.cisa.gov/ics/advisories/icsa-21-112-01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected application lacks proper validation of user-supplied data when parsing project files. This could lead to memory corruption. An attacker could leverage this vulnerability to execute code in the context of the current process.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 20, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
