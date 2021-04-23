@@ -431,6 +431,18 @@ This report documents the program and the outcomes of Dagstuhl Seminar 18321 “
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2018
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• U.S. Regulation of Blockchain Currencies: A Policy Overview [HTML](https://papers.bsafes.com/docs/cryptocurrency/us-regulation-of-blockchain-currencies-a-policy-overview/)
+</p>
+<details>
+  <summary>Abstract</summary>
+With its increasing significance in real-world financial transactions, blockchain currency has risen to a level of significance that regulators and policymakers can no longer ignore. Cryptocurrency has developed so fast. It is outpacing the regulatory and legislative developments necessary to address the issues that it has stirred up. Although cryptocurrency regulations have been in place for the past several years, already, lawmakers have struggled to keep up with the increasing popularity and technical complexity of cryptocurrency market activity.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2018
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
