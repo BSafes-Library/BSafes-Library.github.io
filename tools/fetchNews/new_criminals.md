@@ -11,6 +11,34 @@ nav_order: 900031
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Spotlight on the Cybercriminal Supply Chains<a href="https://threatpost.com/spotlight-on-the-cybercriminal-supply-chains/165552/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this Threatpost podcast Fortinet’s top researcher outlines what a cybercriminal supply chain is and how much the illicit market is worth. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Way Too Many Cybercriminal Groups Active Presently<a href="https://cyware.com/news/way-too-many-cybercriminal-groups-active-presently-1e0893a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report disclosed that, with more than 1,900 hacker groups active, including APTs, the current cybercrime landscape is witnessing a rise in new malware variants that are being deployed in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using Telegram Messenger to Control ToxicEye Malware<a href="https://thehackernews.com/2021/04/cybercriminals-using-telegram-messenger.html"> Full Text</a>
 </p>
 <details>

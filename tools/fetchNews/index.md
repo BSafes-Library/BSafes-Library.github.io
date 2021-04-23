@@ -34,7 +34,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Acting FTC chair blasts Supreme Court decision limiting agency consumer power | Police tech under scrutiny following Chicago shooting<a href="https://thehill.com//policy/technology/overnights/549853-hillicon-valley-acting-ftc-chair-blasts-supreme-court-decision"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chair of the Federal Trade Commission criticized a Supreme Court decision handed down Thursday that limits how the agency can punish companies engaging in deceptive practices. Meanwhile, certain kinds of technologies used by law enforcement have come under scrutiny following the shooting of 13-year-old Adam Toledo in Chicago, and two Senate Democrats are raising concerns around the safety and security of Tesla vehicles. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendors are getting better at spotting malicious execution techniques<a href="https://www.scmagazine.com/home/security-news/malware/vendors-are-getting-better-at-spotting-malicious-execution-techniques/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity enterprise solutions are getting better at recognizing malicious activity conducted via APIs and Windows Management Instrumentation tools.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware operators leverage TLS in 46% of detected communications<a href="https://www.scmagazine.com/home/security-news/malware/malware-operators-leverage-tls-in-46-of-detected-communications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware operators have also been adopting TLS for essentially the same reasons as legitimate companies: To prevent defenders from detecting and stopping the deployment of malware and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New chief of Carnegie Mellon’s CERT: Feds needs to do better with info sharing<a href="https://www.scmagazine.com/home/security-news/government-and-defense/new-chief-of-carnegie-mellons-cert-feds-needs-to-do-better-with-info-sharing/"> Full Text</a>
@@ -50,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Botnet backdoors Microsoft Exchange servers, mines cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/botnet-backdoors-microsoft-exchange-servers-mines-cryptocurrency/"> Full Text</a>
@@ -66,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mount Locker Ransomware Aggressively Changes Up Tactics<a href="https://threatpost.com/mount-locker-ransomware-changes-tactics/165559/"> Full Text</a>
@@ -82,7 +130,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spotlight on the Cybercriminal Supply Chains<a href="https://threatpost.com/spotlight-on-the-cybercriminal-supply-chains/165552/"> Full Text</a>
@@ -98,7 +146,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FlixOnline Poses as Netflix to Steal WhatsApp Conversations Data<a href="https://cyware.com/news/flixonline-poses-as-netflix-to-steal-whatsapp-conversations-data-a0ef3286"> Full Text</a>
@@ -114,7 +162,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals use Telegram Bots and Google Forms for Automated Phishing<a href="https://cyware.com/news/cybercriminals-use-telegram-bots-and-google-forms-for-automated-phishing-6bdaba1e"> Full Text</a>
@@ -130,7 +178,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/117105/hacking/trend-micro-flaw-cve-2020-24557.html?&web_view=true"> Full Text</a>
@@ -146,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Way Too Many Cybercriminal Groups Active Presently<a href="https://cyware.com/news/way-too-many-cybercriminal-groups-active-presently-1e0893a3"> Full Text</a>
@@ -162,7 +210,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Costco Issues Scam Warning<a href="https://www.infosecurity-magazine.com:443/news/costco-issues-scam-warning/"> Full Text</a>
@@ -178,7 +226,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rockwell Industrial Switches Affected by More Vulnerabilities in Cisco Software<a href="https://www.securityweek.com/rockwell-industrial-switches-affected-more-vulnerabilities-cisco-software?&web_view=true"> Full Text</a>
@@ -194,7 +242,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ordered to Provide Info on Alleged Cyber-bullies<a href="https://www.infosecurity-magazine.com:443/news/google-ordered-to-provide-info-on/"> Full Text</a>
@@ -210,7 +258,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy and security in the software designing<a href="https://securityaffairs.co/wordpress/117127/security/privacy-security-software-designing.html"> Full Text</a>
@@ -230,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram Platform Abused in ‘ToxicEye’ Malware Campaigns<a href="https://threatpost.com/telegram-toxiceye-malware/165543/"> Full Text</a>
@@ -246,7 +294,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cellebrite ‘s forensics tool affected by arbitrary code execution issue<a href="https://securityaffairs.co/wordpress/117116/mobile-2/cellebrite-forensics-tool-flaw.html"> Full Text</a>
@@ -266,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exchange Online down: Microsoft 365 outage affects email delivery<a href="https://www.bleepingcomputer.com/news/security/exchange-online-down-microsoft-365-outage-affects-email-delivery/"> Full Text</a>
@@ -282,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Ways to Leak Contact Information by Exploiting Privacy Weaknesses in Apple AirDrop<a href="https://www.theregister.com/2021/04/22/airdrop_contact_leaks/?&web_view=true"> Full Text</a>
@@ -298,7 +346,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2021
+April 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INTERPOL to Work with The Coalition Against Stalkerware to Tackle Surge in Domestic Violence<a href="https://www.infosecurity-magazine.com:443/news/interpol-coaltion-stalkerware/"> Full Text</a>

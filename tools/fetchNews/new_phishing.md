@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FlixOnline Poses as Netflix to Steal WhatsApp Conversations Data<a href="https://cyware.com/news/flixonline-poses-as-netflix-to-steal-whatsapp-conversations-data-a0ef3286"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research unveiled an Android malware, disguised as an app called FlixOnline, that entices users by promising free Netflix subscriptions and spread further by creating auto-replies to messages in WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals use Telegram Bots and Google Forms for Automated Phishing<a href="https://cyware.com/news/cybercriminals-use-telegram-bots-and-google-forms-for-automated-phishing-6bdaba1e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB found that cybercriminals are frequently using legitimate services including Google Forms and Telegram bots to collect stolen data from exploit kits during phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costco Issues Scam Warning<a href="https://www.infosecurity-magazine.com:443/news/costco-issues-scam-warning/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Membership-only big-box wholesaler tells Americans to be wary of 14 digital scams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

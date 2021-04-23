@@ -8,6 +8,52 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Android Botnet Uses Spoofed Apps to Serve Hundreds of Millions of Fraud Ad Requests on Smart TVs<a href="https://www.securityweek.com/massive-android-botnet-hits-smart-tv-ad-ecosystem?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sophisticated mobile botnet, dubbed Pareto, is made up of nearly a million infected mobile Android devices pretending to be millions of people watching ads on smart TVs and other devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pareto Botnet, million infected Android devices conduct fraud in the CTV ad ecosystem<a href="https://securityaffairs.co/wordpress/117110/malware/pareto-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Human Security have uncovered a huge botnet of Android devices being used to conduct fraud in the connected TV advertising ecosystem.
+
+
+
+Security researchers at Human Security (formerly White Ops) discovered a massive Android botnet,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei Botnet Exploits Exchange Server Bugs to Grow<a href="https://www.infosecurity-magazine.com:443/news/prometei-botnet-exploits-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto-mining botnet has been around since 2016
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

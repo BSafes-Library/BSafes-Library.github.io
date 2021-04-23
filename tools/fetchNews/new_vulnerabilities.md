@@ -11,6 +11,52 @@ nav_order: 900220
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Rockwell Industrial Switches Affected by More Vulnerabilities in Cisco Software<a href="https://www.securityweek.com/rockwell-industrial-switches-affected-more-vulnerabilities-cisco-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rockwell Automation has started releasing firmware updates for some of its Stratix switches to address another round of vulnerabilities introduced by the use of Cisco’s IOS XE software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cellebrite ‘s forensics tool affected by arbitrary code execution issue<a href="https://securityaffairs.co/wordpress/117116/mobile-2/cellebrite-forensics-tool-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cellebrite mobile forensics tool Ufed contains multiple flaws that allow arbitrary code execution on the device, SIGNAL creator warns.
+
+
+
+Moxie Marlinspike, the creator of the popular encrypted messaging app Signal, announced that Cellebrite mobile forensics...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Ways to Leak Contact Information by Exploiting Privacy Weaknesses in Apple AirDrop<a href="https://www.theregister.com/2021/04/22/airdrop_contact_leaks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug-hunting team at Technische Universität Darmstadt in Germany reverse engineered AirDrop and found that senders and receivers may leak their contact details in the process.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP removes backdoor account in NAS backup, disaster recovery app<a href="https://www.bleepingcomputer.com/news/security/qnap-removes-backdoor-account-in-nas-backup-disaster-recovery-app/"> Full Text</a>
 </p>
 <details>

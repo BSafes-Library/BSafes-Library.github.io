@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Additional Infrastructure Used By SolarWinds Hackers<a href="https://thehackernews.com/2021/04/researchers-find-additional.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sprawling&nbsp; SolarWinds cyberattack &nbsp;which came to light last December was known for its sophistication in the breadth of tactics used to infiltrate and persist in the target infrastructure, so much so that Microsoft went on to call the threat actor behind the campaign "skillful and methodic operators who follow operations security (OpSec) best practices to minimize traces, stay under the radar, and avoid detection."  But&nbsp; new research &nbsp;published today shows that the threat actor carefully planned each stage of the operation to "avoid creating the type of patterns that make tracking them simple," thus deliberately making forensic analysis difficult.  By analyzing telemetry data associated with previously published indicators of compromise, RiskIQ said it identified an additional set of 18 servers with high confidence that likely communicated with the targeted, secondary Cobalt Strike payloads delivered via the TEARDROP and RAINDROP malware, representing a 56% jum
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

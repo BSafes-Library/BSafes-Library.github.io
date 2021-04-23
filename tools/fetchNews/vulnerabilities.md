@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP removes backdoor account in NAS backup, disaster recovery app<a href="https://www.bleepingcomputer.com/news/security/qnap-removes-backdoor-account-in-nas-backup-disaster-recovery-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has addressed a critical vulnerability allowing attackers to log into QNAP&nbsp;NAS (network-attached storage) devices using hardcoded credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/117105/hacking/trend-micro-flaw-cve-2020-24557.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Trend Micro revealed that a threat actor is actively exploiting a flaw, tracked as&nbsp;CVE-2020-24557, in its antivirus solutions to gain admin rights on Windows systems.
+
+
+
+Security solutions one again are used as attack vectors by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Valve belatedly fixes Steam gaming platform RCE vulnerability<a href="https://portswigger.net/daily-swig/valve-belatedly-fixes-steam-gaming-platform-rce-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Steam source engine vulnerability discovered by ‘Florian’, a member of reverse engineering group Secret Club, was finally resolved last weekend, after it was first reported in May 2019.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

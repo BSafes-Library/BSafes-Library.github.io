@@ -11,6 +11,20 @@ nav_order: 900025
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Botnet backdoors Microsoft Exchange servers, mines cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/botnet-backdoors-microsoft-exchange-servers-mines-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched Microsoft Exchange servers are being targeted&nbsp;by the&nbsp;Prometei botnet and added to its operators' army of Monero (XMR) cryptocurrency mining bots.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Massive Android Botnet Uses Spoofed Apps to Serve Hundreds of Millions of Fraud Ad Requests on Smart TVs<a href="https://www.securityweek.com/massive-android-botnet-hits-smart-tv-ad-ecosystem?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

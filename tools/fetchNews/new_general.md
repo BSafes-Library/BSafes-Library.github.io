@@ -11,6 +11,48 @@ nav_order: 900072
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Acting FTC chair blasts Supreme Court decision limiting agency consumer power | Police tech under scrutiny following Chicago shooting<a href="https://thehill.com//policy/technology/overnights/549853-hillicon-valley-acting-ftc-chair-blasts-supreme-court-decision"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chair of the Federal Trade Commission criticized a Supreme Court decision handed down Thursday that limits how the agency can punish companies engaging in deceptive practices. Meanwhile, certain kinds of technologies used by law enforcement have come under scrutiny following the shooting of 13-year-old Adam Toledo in Chicago, and two Senate Democrats are raising concerns around the safety and security of Tesla vehicles.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendors are getting better at spotting malicious execution techniques<a href="https://www.scmagazine.com/home/security-news/malware/vendors-are-getting-better-at-spotting-malicious-execution-techniques/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity enterprise solutions are getting better at recognizing malicious activity conducted via APIs and Windows Management Instrumentation tools.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL to Work with The Coalition Against Stalkerware to Tackle Surge in Domestic Violence<a href="https://www.infosecurity-magazine.com:443/news/interpol-coaltion-stalkerware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL will work with the coalition to improve the abilities of police forces to tackle this growing issue
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 It’s Easy to Become a Cyberattack Target, but a VPN Can Help<a href="https://threatpost.com/cyberattack-target-vpn-help/165504/"> Full Text</a>
 </p>
 <details>
