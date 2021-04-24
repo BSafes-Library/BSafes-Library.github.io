@@ -11,6 +11,52 @@ nav_order: 900180
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 23rd 2021 - A brutal week<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-23rd-2021-a-brutal-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week has been brutal, not because of many ransomware variants released but due to a single ransomware campaign that affected thousands of people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Qlocker ransomware infected hundreds of QNAP NAS devices in a few days<a href="https://securityaffairs.co/wordpress/117144/malware/qlocker-ransomware-infections.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain dubbed Qlocker is infecting hundreds of QNAP NAS devices every day and demanding a $550 ransom payment.
+
+
+
+Experts are warning of a new strain of ransomware named Qlocker that is infecting hundreds of QNAP NAS devices on daily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang offers traders inside scoop on attack victims so they can short sell their stocks<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-gang-offers-traders-inside-scoop-on-attack-victims-so-they-can-short-sell-their-stocks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest fallout of ransomware attacks may involve stock manipulation, with one group openly coaxing stock traders to reach out and receive the inside scoop on the gang’s latest corporate victims, so they can short sell their stock before data is leaked and the news goes public.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Darkside Ransomware Gang Plans to Extort NASDAQ-listed Victims by Shorting Their Stock Prices<a href="https://therecord.media/ransomware-gang-wants-to-short-the-stock-price-of-their-victims/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

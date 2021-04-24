@@ -11,6 +11,48 @@ nav_order: 900075
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Biden Administration’s Impending Executive Order on Software Security<a href="https://www.lawfareblog.com/biden-administrations-impending-executive-order-software-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Executive branch action on software security is sorely needed, but should focus primarily on risk management rather than merely new reporting requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Following similar move in US, Europol prepares coup de gras for Emotet’s remains<a href="https://www.scmagazine.com/home/security-news/malware/following-similar-move-in-us-europol-prepares-coup-de-gras-for-emotets-remains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emotet’s final undoing comes two weeks after a similar FBI operation sent a kill command to hundreds of Microsoft Exchange servers, ordering web shells to delete themselves. But there are differences in subtlety and scope.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GCHQ Director: The UK and Allies Must Counter “Existential Threat” to the Digital Environment<a href="https://www.infosecurity-magazine.com:443/news/gchq-uk-counter-existential-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK must react to China's attempts to control the global operating system
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of ICS Vulnerabilities in Horner Automation Cscape and Mitsubishi Electric GOT<a href="https://www.darkreading.com/vulnerabilities---threats/new-cisa-advisories-warn-of-ics-vulnerabilities/d/d-id/1340803?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

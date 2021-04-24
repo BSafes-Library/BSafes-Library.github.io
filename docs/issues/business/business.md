@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud prevention platform Sift raises $50M at over $1B valuation, eyes acquisitions<a href="https://techcrunch.com/2021/04/22/fraud-prevention-platform-sift-raises-50m-at-over-1b-valuation-eyes-acquisitions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sift has raised $50 million in a funding round that values the company at over $1 billion. Insight Partners led the financing, which included participation from Union Square Ventures and Stripes.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50 companies named trusted providers by Cloud Security Alliance<a href="https://www.scmagazine.com/home/security-news/cloud-security/50-companies-named-trusted-providers-by-cloud-security-alliance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cloud Security Alliance (CSA) on Thursday announced the selection of a first round of “trusted providers” for cloud security. In a press announcement, the group said a Trusted Cloud Provider “trustmark” will get displayed on each organization’s CSA Security, Trust, Assurance &amp; Risk (STAR) registry. The CSA hopes this will assist security teams in…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

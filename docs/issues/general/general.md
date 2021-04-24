@@ -11,6 +11,34 @@ nav_order: 900072
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook, Twitter, YouTube execs to testify at Senate hearing on algorithms | Five big players to watch in Big Tech's antitrust fight<a href="https://thehill.com//policy/technology/overnights/550040-hillicon-valley-five-big-players-to-watch-in-big-techs-antitrust"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Washington is ramping up efforts to rein in the market power of the largest tech companies in the United States, and some members of Congress and some of President BidenJoe BidenBiden announces picks to lead oceans, lands agencies Overnight Defense: Top general concerned about Afghan forces after US troops leave | Pentagon chief: Climate crisis 'existential' threat to US national security | Army conducts review after 4 Black soldiers harassed at Virginia IHOP Feds expect to charge scores more in connection to Capitol riot MORE's nominees are set to play a big role. Meanwhile, Congress is also examining the impact of social media platforms’ algorithms, and executives from Facebook, Twitter and YouTube are set to testify at a Senate hearing next week.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Games Launches Cyber Open and Combine<a href="https://www.infosecurity-magazine.com:443/news/us-cyber-games-launches-cyber-open/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America begins nationwide search for cybersecurity’s most talented
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hack analysis reveals 56% boost in command server footprint<a href="https://www.zdnet.com/article/solarwinds-hack-analysis-reveals-56-boost-in-command-server-footprint/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

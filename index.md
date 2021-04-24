@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - April 23rd 2021 - A brutal week<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-23rd-2021-a-brutal-week/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraud prevention platform Sift raises $50M at over $1B valuation, eyes acquisitions<a href="https://techcrunch.com/2021/04/22/fraud-prevention-platform-sift-raises-50m-at-over-1b-valuation-eyes-acquisitions/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook, Twitter, YouTube execs to testify at Senate hearing on algorithms | Five big players to watch in Big Tech's antitrust fight<a href="https://thehill.com//policy/technology/overnights/550040-hillicon-valley-five-big-players-to-watch-in-big-techs-antitrust"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Californian Charged with Cyberstalking Teenage Boys<a href="https://www.infosecurity-magazine.com:443/news/demirovic-alleged-cyberstalking/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Biden Administration’s Impending Executive Order on Software Security<a href="https://www.lawfareblog.com/biden-administrations-impending-executive-order-software-security"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Qlocker ransomware infected hundreds of QNAP NAS devices in a few days<a href="https://securityaffairs.co/wordpress/117144/malware/qlocker-ransomware-infections.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Following similar move in US, Europol prepares coup de gras for Emotet’s remains<a href="https://www.scmagazine.com/home/security-news/malware/following-similar-move-in-us-europol-prepares-coup-de-gras-for-emotets-remains/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oscar-Bait, Literally: Hackers Abuse Nominated Films for Phishing, Malware<a href="https://threatpost.com/oscar-bait-hackers-nominated-phishing-malware/165583/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordstate password manager hacked in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/passwordstate-password-manager-hacked-in-supply-chain-attack/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Golang-based Sysrv Cryptomining Botnet Targets Popular Enterprise Applications<a href="https://therecord.media/sysrv-a-new-crypto-mining-botnet-is-silently-growing-in-the-shadows/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators introduce legislation to protect critical infrastructure against attack<a href="https://thehill.com//policy/cybersecurity/550035-senators-introduce-legislation-to-protect-critical-infrastructure"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Cyber Games Launches Cyber Open and Combine<a href="https://www.infosecurity-magazine.com:443/news/us-cyber-games-launches-cyber-open/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50 companies named trusted providers by Cloud Security Alliance<a href="https://www.scmagazine.com/home/security-news/cloud-security/50-companies-named-trusted-providers-by-cloud-security-alliance/"> Full Text</a>
@@ -246,7 +246,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing impersonates global recruitment firm to push malware<a href="https://www.bleepingcomputer.com/news/security/phishing-impersonates-global-recruitment-firm-to-push-malware/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US: Ireland Is a Target for Cyber-Criminals<a href="https://www.infosecurity-magazine.com:443/news/ireland-target-cyber-criminals/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers say enterprise password manager hit in supply chain attack<a href="https://www.scmagazine.com/home/security-news/data-breach/researchers-say-password-manager-hit-in-supply-chain-attack/"> Full Text</a>
@@ -294,7 +294,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GCHQ Director: The UK and Allies Must Counter “Existential Threat” to the Digital Environment<a href="https://www.infosecurity-magazine.com:443/news/gchq-uk-counter-existential-threat/"> Full Text</a>
@@ -310,7 +310,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2021
+April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang offers traders inside scoop on attack victims so they can short sell their stocks<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-gang-offers-traders-inside-scoop-on-attack-victims-so-they-can-short-sell-their-stocks/"> Full Text</a>

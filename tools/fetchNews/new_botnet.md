@@ -11,6 +11,20 @@ nav_order: 900025
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based Sysrv Cryptomining Botnet Targets Popular Enterprise Applications<a href="https://therecord.media/sysrv-a-new-crypto-mining-botnet-is-silently-growing-in-the-shadows/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As analyzed in reports from security researchers at Alibaba’s Aliyun, Juniper, and Lacework, Sysrv’s internal architecture follows the classic makeup of 99% of most botnets today.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Last Chance for Forensics Teams Ahead of Emotet Sunday Deadline<a href="https://www.infosecurity-magazine.com:443/news/last-chance-forensics-teams-emotet/"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,20 @@ nav_order: 900160
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phishing impersonates global recruitment firm to push malware<a href="https://www.bleepingcomputer.com/news/security/phishing-impersonates-global-recruitment-firm-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing campaign is impersonating Michael Page consultants to push Ursnif&nbsp;data-stealing malware capable of harvesting credentials and sensitive data from infected computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Another BitCoin Exchange Scam—This Time “Live” on YouTube<a href="https://www.fortinet.com/blog/threat-research/another-bitcoin-exchange-scam-this-time-live-on-youtube?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

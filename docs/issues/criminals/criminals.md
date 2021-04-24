@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: Ireland Is a Target for Cyber-Criminals<a href="https://www.infosecurity-magazine.com:443/news/ireland-target-cyber-criminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vast amount of data stored on Emerald Isle a lure for cyber-criminals, warns America’s National Security Division
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

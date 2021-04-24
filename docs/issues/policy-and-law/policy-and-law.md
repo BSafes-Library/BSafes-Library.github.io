@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Californian Charged with Cyberstalking Teenage Boys<a href="https://www.infosecurity-magazine.com:443/news/demirovic-alleged-cyberstalking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brentwood woman allegedly bombarded three boys with abusive messages for years
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce legislation to protect critical infrastructure against attack<a href="https://thehill.com//policy/cybersecurity/550035-senators-introduce-legislation-to-protect-critical-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Maggie Hassan (D-N.H.) and Ben SasseBen SasseSenate GOP keeps symbolic earmark ban On The Money: Senate GOP faces post-Trump spending brawl | Senate confirms SEC chief Gensler to full five-year term | Left-leaning group raises concerns about SALT cap repeal Senate GOP faces post-Trump spending brawl MORE (R-Neb.) on Friday introduced legislation intended to protect critical infrastructure from cyberattacks and other national security threats.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

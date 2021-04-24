@@ -11,6 +11,34 @@ nav_order: 900015
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate password manager hacked in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/passwordstate-password-manager-hacked-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the company behind the Passwordstate password manager, notified customers&nbsp;that attackers&nbsp;compromised the app's update mechanism to deliver malware in a supply-chain attack after breaching its networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers say enterprise password manager hit in supply chain attack<a href="https://www.scmagazine.com/home/security-news/data-breach/researchers-say-password-manager-hit-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an April 23 blog, the firm said they have digital evidence that Australian company ClickStudios suffered a breach, sometime between April 20 and April 22, that resulted in the attacker dropping a corrupted update to their password manager Passwordstate via a zip file containing a dynamic link library with malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Evil Maid Attack – Vacuum Hack<a href="https://securityaffairs.co/wordpress/117139/hacking/evil-maid-attack-vacuum-hack.html"> Full Text</a>
 </p>
 <details>
