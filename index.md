@@ -34,6 +34,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 23rd 2021 - A brutal week<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-23rd-2021-a-brutal-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week has been brutal, not because of many ransomware variants released but due to a single ransomware campaign that affected thousands of people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud prevention platform Sift raises $50M at over $1B valuation, eyes acquisitions<a href="https://techcrunch.com/2021/04/22/fraud-prevention-platform-sift-raises-50m-at-over-1b-valuation-eyes-acquisitions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sift has raised $50 million in a funding round that values the company at over $1 billion. Insight Partners led the financing, which included participation from Union Square Ventures and Stripes.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook, Twitter, YouTube execs to testify at Senate hearing on algorithms | Five big players to watch in Big Tech's antitrust fight<a href="https://thehill.com//policy/technology/overnights/550040-hillicon-valley-five-big-players-to-watch-in-big-techs-antitrust"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Washington is ramping up efforts to rein in the market power of the largest tech companies in the United States, and some members of Congress and some of President BidenJoe BidenBiden announces picks to lead oceans, lands agencies Overnight Defense: Top general concerned about Afghan forces after US troops leave | Pentagon chief: Climate crisis 'existential' threat to US national security | Army conducts review after 4 Black soldiers harassed at Virginia IHOP Feds expect to charge scores more in connection to Capitol riot MORE's nominees are set to play a big role. Meanwhile, Congress is also examining the impact of social media platforms’ algorithms, and executives from Facebook, Twitter and YouTube are set to testify at a Senate hearing next week. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Californian Charged with Cyberstalking Teenage Boys<a href="https://www.infosecurity-magazine.com:443/news/demirovic-alleged-cyberstalking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brentwood woman allegedly bombarded three boys with abusive messages for years
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden Administration’s Impending Executive Order on Software Security<a href="https://www.lawfareblog.com/biden-administrations-impending-executive-order-software-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Executive branch action on software security is sorely needed, but should focus primarily on risk management rather than merely new reporting requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Qlocker ransomware infected hundreds of QNAP NAS devices in a few days<a href="https://securityaffairs.co/wordpress/117144/malware/qlocker-ransomware-infections.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain dubbed Qlocker is infecting hundreds of QNAP NAS devices every day and demanding a $550 ransom payment.
+
+
+
+Experts are warning of a new strain of ransomware named Qlocker that is infecting hundreds of QNAP NAS devices on daily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Following similar move in US, Europol prepares coup de gras for Emotet’s remains<a href="https://www.scmagazine.com/home/security-news/malware/following-similar-move-in-us-europol-prepares-coup-de-gras-for-emotets-remains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emotet’s final undoing comes two weeks after a similar FBI operation sent a kill command to hundreds of Microsoft Exchange servers, ordering web shells to delete themselves. But there are differences in subtlety and scope.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oscar-Bait, Literally: Hackers Abuse Nominated Films for Phishing, Malware<a href="https://threatpost.com/oscar-bait-hackers-nominated-phishing-malware/165583/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Judas and the Black Messiah may be a favorite for Best Picture at the 93rd Academy Awards on Sunday, but it’s a fave for cybercriminals too.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate password manager hacked in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/passwordstate-password-manager-hacked-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the company behind the Passwordstate password manager, notified customers that attackers compromised the app's update mechanism to deliver malware in a supply-chain attack after breaching its networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based Sysrv Cryptomining Botnet Targets Popular Enterprise Applications<a href="https://therecord.media/sysrv-a-new-crypto-mining-botnet-is-silently-growing-in-the-shadows/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As analyzed in reports from security researchers at Alibaba’s Aliyun, Juniper, and Lacework, Sysrv’s internal architecture follows the classic makeup of 99% of most botnets today.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce legislation to protect critical infrastructure against attack<a href="https://thehill.com//policy/cybersecurity/550035-senators-introduce-legislation-to-protect-critical-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Maggie Hassan (D-N.H.) and Ben SasseBen SasseSenate GOP keeps symbolic earmark ban On The Money: Senate GOP faces post-Trump spending brawl | Senate confirms SEC chief Gensler to full five-year term | Left-leaning group raises concerns about SALT cap repeal Senate GOP faces post-Trump spending brawl MORE (R-Neb.) on Friday introduced legislation intended to protect critical infrastructure from cyberattacks and other national security threats. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Games Launches Cyber Open and Combine<a href="https://www.infosecurity-magazine.com:443/news/us-cyber-games-launches-cyber-open/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America begins nationwide search for cybersecurity’s most talented
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50 companies named trusted providers by Cloud Security Alliance<a href="https://www.scmagazine.com/home/security-news/cloud-security/50-companies-named-trusted-providers-by-cloud-security-alliance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cloud Security Alliance (CSA) on Thursday announced the selection of a first round of “trusted providers” for cloud security. In a press announcement, the group said a Trusted Cloud Provider “trustmark” will get displayed on each organization’s CSA Security, Trust, Assurance & Risk (STAR) registry. The CSA hopes this will assist security teams in…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing impersonates global recruitment firm to push malware<a href="https://www.bleepingcomputer.com/news/security/phishing-impersonates-global-recruitment-firm-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing campaign is impersonating Michael Page consultants to push Ursnif data-stealing malware capable of harvesting credentials and sensitive data from infected computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: Ireland Is a Target for Cyber-Criminals<a href="https://www.infosecurity-magazine.com:443/news/ireland-target-cyber-criminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vast amount of data stored on Emerald Isle a lure for cyber-criminals, warns America’s National Security Division
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers say enterprise password manager hit in supply chain attack<a href="https://www.scmagazine.com/home/security-news/data-breach/researchers-say-password-manager-hit-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an April 23 blog, the firm said they have digital evidence that Australian company ClickStudios suffered a breach, sometime between April 20 and April 22, that resulted in the attacker dropping a corrupted update to their password manager Passwordstate via a zip file containing a dynamic link library with malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GCHQ Director: The UK and Allies Must Counter “Existential Threat” to the Digital Environment<a href="https://www.infosecurity-magazine.com:443/news/gchq-uk-counter-existential-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK must react to China's attempts to control the global operating system
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang offers traders inside scoop on attack victims so they can short sell their stocks<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-gang-offers-traders-inside-scoop-on-attack-victims-so-they-can-short-sell-their-stocks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest fallout of ransomware attacks may involve stock manipulation, with one group openly coaxing stock traders to reach out and receive the inside scoop on the gang’s latest corporate victims, so they can short sell their stock before data is leaked and the news goes public.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
