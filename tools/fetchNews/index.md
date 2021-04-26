@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+IoT Devices Under Constant Cyber Threat<a href="https://cyware.com/news/iot-devices-under-constant-cyber-threat-354ce050"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of recent attacks on IoT devices implies bigger security risks that hover over them. It is even more concerning for consumers as they are unaware of threats and do not own the resources to mitigate them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AirEye Raises $8M Series A to Extend Network Security into the Unprotected Digital Airspace<a href="https://finance.yahoo.com/news/aireye-raises-8m-series-extend-110000007.html?&web_view=true"> Full Text</a>
 </p>
 <details>
