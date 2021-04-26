@@ -34,6 +34,382 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks 20 million alleged BigBasket user records for free<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-20-million-alleged-bigbasket-user-records-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has leaked approximately 20 million BigBasket user records containing personal information and hashed passwords on a popular hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Campaign Against Researchers Ongoing, CISA Warns<a href="https://cyware.com/news/threat-campaign-against-researchers-ongoing-cisa-warns-9b8b2b9d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA notification urges researchers to use sandbox systems isolated from trusted networks when analyzing untrusted websites or codes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are targeting Soliton FileZen file-sharing servers<a href="https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting two flaws in the popular file-sharing server FileZen to steal sensitive data from businesses and government organizations.
+
+
+
+Threat actors are exploiting two vulnerabilities in the popular file-sharing server FileZen, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet malware nukes itself today from all infected computers worldwide<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-nukes-itself-today-from-all-infected-computers-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emotet, one of the most dangerous email spam botnets in recent history, is being uninstalled today from all infected devices with the help of a malware module delivered in January by law enforcement.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 311<a href="https://securityaffairs.co/wordpress/117204/breaking-news/security-affairs-newsletter-round-311.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+A member of the FIN7 group was sentenced to 10 years in prisonIs BazarLoader malware linked to Trickbot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10,000+ unpatched ABUS Secvest home alarms can be deactivated remotely<a href="https://securityaffairs.co/wordpress/117190/hacking/10000-vulnerable-abus-secvest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+10,000+ unpatched ABUS Secvest home alarm systems could be remotely disabled exposing customers to intrusions and thefts.
+
+
+
+Researchers from Eye Security have found thousands of unpatched ABUS Secvest home alarm systems exposed online despite the vendor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Bug Found in Homebrew Package Manager for macOS and Linux<a href="https://thehackernews.com/2021/04/critical-rce-bug-found-in-homebrew.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently identified security vulnerability in the official Homebrew Cask repository could have been exploited by an attacker to execute arbitrary code on users' machines that have Homebrew installed.  The issue, which was reported to the maintainers on April 18 by a Japanese security researcher named RyotaK, stemmed from the way code changes in its  GitHub repository  were handled, resulting in a scenario where a malicious  pull request  — i.e., the proposed changes — could be automatically reviewed and approved. The flaw was fixed on April 19.   Homebrew is a free and open-source software package manager solution that allows the installation of software on Apple's macOS operating system as well as Linux. Homebrew  Cask  extends the functionality to include command-line workflows for GUI-based macOS applications, fonts, plugins, and other non-open source software.  "The discovered vulnerability would allow an attacker to inject arbitrary code into a cask and have it be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei: Yet Another Malware Weaponizing Proxylogon Vulnerabilities<a href="https://cyware.com/news/prometei-yet-another-malware-weaponizing-proxylogon-vulnerabilities-8fb39ed6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Prometei variant used in the recent attack was found to provide the attackers with a stealthy and sophisticated backdoor that supported a wide range of tasks, along with harvesting credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate Password Manager Update Hijacked to Install Backdoor on Thousands of PCs<a href="https://thehackernews.com/2021/04/passwordstate-password-manager-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the Australian software company behind the Passwordstate  password management application, has notified customers to reset their passwords following a supply chain attack.  The Adelaide-based firm said a bad actor used sophisticated techniques to compromise the software's update mechanism and used it to drop malware on user computers.  The breach is said to have occurred between April 20, 8:33 PM UTC, and April 22, 0:30 AM UTC, for a total period of about 28 hours.  "Only customers that performed In-Place Upgrades between the times stated above are believed to be affected," the company  said  in an advisory. "Manual Upgrades of Passwordstate are not compromised. Affected customers password records may have been harvested."   The development was first reported by the Polish tech news site  Niebezpiecznik . It's not immediately clear who the attackers are or how they compromised the password manager's update feature. Click Studios said an i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A ransomware gang made $260,000 in 5 days using the 7zip utility<a href="https://www.bleepingcomputer.com/news/security/a-ransomware-gang-made-260-000-in-5-days-using-the-7zip-utility/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang has made $260,000 in just five days simply by remotely encrypting files on QNAP devices using the 7zip archive program.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NitroRansomware Demands Discord Gift Codes<a href="https://cyware.com/news/nitroransomware-demands-discord-gift-codes-0c649d0f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain dubbed NitroRansomware is encrypting victim's files and then asking for a $9.99&nbsp; Discord Nitro gift code to decrypt files. It gives a .givemenitro extension to encrypted files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New cryptomining malware builds an army of Windows, Linux bots<a href="https://www.bleepingcomputer.com/news/security/new-cryptomining-malware-builds-an-army-of-windows-linux-bots/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered cryptomining botnet is actively scanning for vulnerable Windows and Linux enterprise servers and infecting them with Monero (XMRig) miner and self-spreader malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XCSSET Malware is Now Targeting Apple's M1 Chip<a href="https://cyware.com/news/xcsset-malware-is-now-targeting-apples-m1-chip-2e9e845c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mac malware has been re-engineered and being used in a campaign aimed at Apple’s new M1 chips to eventually steal data associated with popular applications including Evernote, WeChat, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The cybersecurity researcher Dan Kaminsky has died<a href="https://securityaffairs.co/wordpress/117185/breaking-news/dan-kaminsky-has-died.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity community has lost its star, the popular hacker Dan Kaminsky has passed away.
+
+
+
+The popular cyber security researcher Dan Kaminsky (42) has passed away. Dan is a star, a myth, and a beacon for us. At the moment the causes of death...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Microsoft DirectX 12 site pushes crypto-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-microsoft-directx-12-site-pushes-crypto-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have created a fake Microsoft DirectX 12 download page to distribute malware that steals your cryptocurrency wallets and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration unveils plan to defend electric sector from cyberattacks<a href="https://www.cyberscoop.com/biden-administration-energy-department-defense-cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is buckling down on cyber threats to U.S. power infrastructure. The Department of Energy (DOE) announced a 100-day plan to help shore up the U.S. electric power system against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ToxicEye RAT exploits Telegram communications to steal data from victims<a href="https://securityaffairs.co/wordpress/117173/cyber-crime/toxiceye-rat-telegram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ToxicEye is a new Remote Access Trojan (RAT) that exploits the Telegram service as part of it command and control infrastructure. 
+
+
+
+ToxicEye RAT is a new malware that leverages the Telegram services for command & control, experts from Check Point...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HashiCorp is the latest victim of Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hashicorp-is-the-latest-victim-of-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source software tools and Vault maker HashiCorp has disclosed a security incident that occurred due to the recent Codecov attack. HashiCorp, a Codecov customer, has stated that the recent Codecov supply-chain attack aimed at collecting developer credentials led to the exposure of HashiCorp's GPG signing key.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KnowBe4 Issues IPO to Drive Global Expansion, New Automation Features<a href="https://www.darkreading.com/operations/knowbe4-issues-ipo-to-drive-global-expansion-new-automation-features/d/d-id/1340814?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security awareness company KnowBe4 successfully debuted on the NASDAQ, with its initial public offering bringing in more than $150 million to fund the company's international expansion and a focus on new automation and machine learning features.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Linux Botnet abuses IaC Tools to spread and other emerging techniques<a href="https://securityaffairs.co/wordpress/117155/malware/linux-botnet-emerging-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux botnet uses Tor through a network of proxies using the Socks5 protocol, abuses legitimate DevOps tools, and other emerging techniques.
+
+
+
+Researchers from Trend Micro have spotted a new Linux botnet employing multiple emerging techniques...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter alarms users with messages that resembled phishing emails<a href="https://www.cyberscoop.com/twitter-phishing-confirm-email-mistake/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter sparked panic among users that they were the subjects of a phishing attack in what was instead an accidental mass email. The message sent to some Twitter users went out asking them to confirm their email addresses by clicking on a button.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured Kubernetes Instances Could Be Vulnerable to Exploitation<a href="https://unit42.paloaltonetworks.com/unsecured-kubernetes-instances/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kubernetes clusters can and should be configured for greater security, but when left unsecured, these clusters can be accessed anonymously by anyone who knows their IPs, ports, and APIs.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

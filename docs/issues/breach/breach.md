@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks 20 million alleged BigBasket user records for free<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-20-million-alleged-bigbasket-user-records-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has leaked approximately 20 million BigBasket user records containing personal information and hashed passwords on a popular hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate Password Manager Update Hijacked to Install Backdoor on Thousands of PCs<a href="https://thehackernews.com/2021/04/passwordstate-password-manager-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the Australian software company behind the Passwordstate  password management application, has notified customers to reset their passwords following a supply chain attack.  The Adelaide-based firm said a bad actor used sophisticated techniques to compromise the software's update mechanism and used it to drop malware on user computers.  The breach is said to have occurred between April 20, 8:33 PM UTC, and April 22, 0:30 AM UTC, for a total period of about 28 hours.  "Only customers that performed In-Place Upgrades between the times stated above are believed to be affected," the company&nbsp; said &nbsp;in an advisory. "Manual Upgrades of Passwordstate are not compromised. Affected customers password records may have been harvested."   The development was first reported by the Polish tech news site&nbsp; Niebezpiecznik . It's not immediately clear who the attackers are or how they compromised the password manager's update feature. Click Studios said an i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HashiCorp is the latest victim of Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hashicorp-is-the-latest-victim-of-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source software tools and Vault maker HashiCorp has&nbsp;disclosed a security incident that occurred due to the recent Codecov attack. HashiCorp, a Codecov customer, has stated that the recent Codecov supply-chain attack aimed at&nbsp;collecting&nbsp;developer credentials led to the exposure of HashiCorp's GPG signing key.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

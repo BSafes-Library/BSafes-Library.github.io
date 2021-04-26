@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10,000+ unpatched ABUS Secvest home alarms can be deactivated remotely<a href="https://securityaffairs.co/wordpress/117190/hacking/10000-vulnerable-abus-secvest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+10,000+ unpatched&nbsp;ABUS Secvest&nbsp;home alarm systems could be remotely disabled exposing customers to intrusions and thefts.
+
+
+
+Researchers from Eye Security have found thousands of unpatched&nbsp;ABUS Secvest&nbsp;home alarm systems exposed online despite the vendor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Bug Found in Homebrew Package Manager for macOS and Linux<a href="https://thehackernews.com/2021/04/critical-rce-bug-found-in-homebrew.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently identified security vulnerability in the official Homebrew Cask repository could have been exploited by an attacker to execute arbitrary code on users' machines that have Homebrew installed.  The issue, which was reported to the maintainers on April 18 by a Japanese security researcher named RyotaK, stemmed from the way code changes in its&nbsp; GitHub repository &nbsp;were handled, resulting in a scenario where a malicious&nbsp; pull request &nbsp;— i.e., the proposed changes — could be automatically reviewed and approved. The flaw was fixed on April 19.   Homebrew is a free and open-source software package manager solution that allows the installation of software on Apple's macOS operating system as well as Linux. Homebrew&nbsp; Cask &nbsp;extends the functionality to include command-line workflows for GUI-based macOS applications, fonts, plugins, and other non-open source software.  "The discovered vulnerability would allow an attacker to inject arbitrary code into a cask and have it be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured Kubernetes Instances Could Be Vulnerable to Exploitation<a href="https://unit42.paloaltonetworks.com/unsecured-kubernetes-instances/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kubernetes clusters can and should be configured for greater security, but when left unsecured, these clusters can be accessed anonymously by anyone who knows their IPs, ports, and APIs.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

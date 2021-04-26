@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oscar-Bait, Literally: Hackers Abuse Nominated Films for Phishing, Malware<a href="https://threatpost.com/oscar-bait-hackers-nominated-phishing-malware/165583/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Judas and the Black Messiah may be a favorite for Best Picture at the 93rd Academy Awards on Sunday, but it’s a fave for cybercriminals too.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

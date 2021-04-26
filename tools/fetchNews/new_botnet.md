@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Linux Botnet abuses IaC Tools to spread and other emerging techniques<a href="https://securityaffairs.co/wordpress/117155/malware/linux-botnet-emerging-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux botnet uses Tor through a network of proxies using the Socks5 protocol, abuses legitimate&nbsp;DevOps&nbsp;tools,&nbsp;and other emerging techniques.
+
+
+
+Researchers from Trend Micro have spotted a new Linux botnet employing multiple emerging techniques...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter alarms users with messages that resembled phishing emails<a href="https://www.cyberscoop.com/twitter-phishing-confirm-email-mistake/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter sparked panic among users that they were the subjects of a phishing attack in what was instead an accidental mass email. The message sent to some Twitter users went out asking them to confirm their email addresses by clicking on a button.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

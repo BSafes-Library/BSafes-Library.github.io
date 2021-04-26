@@ -29,6 +29,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://cyware.com/news/threat-campaign-against-researchers-ongoing-cisa-warns-9b8b2b9d
 
 Law:
 

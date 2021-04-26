@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Campaign Against Researchers Ongoing, CISA Warns<a href="https://cyware.com/news/threat-campaign-against-researchers-ongoing-cisa-warns-9b8b2b9d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA notification urges researchers to use sandbox systems isolated from trusted networks when analyzing untrusted websites or codes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration unveils plan to defend electric sector from cyberattacks<a href="https://www.cyberscoop.com/biden-administration-energy-department-defense-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is buckling down on cyber threats to U.S. power infrastructure. The Department of Energy (DOE) announced a 100-day plan to help shore up the U.S. electric power system against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

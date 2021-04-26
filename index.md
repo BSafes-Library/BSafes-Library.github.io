@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaks 20 million alleged BigBasket user records for free<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-20-million-alleged-bigbasket-user-records-for-free/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Campaign Against Researchers Ongoing, CISA Warns<a href="https://cyware.com/news/threat-campaign-against-researchers-ongoing-cisa-warns-9b8b2b9d"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are targeting Soliton FileZen file-sharing servers<a href="https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet malware nukes itself today from all infected computers worldwide<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-nukes-itself-today-from-all-infected-computers-worldwide/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 311<a href="https://securityaffairs.co/wordpress/117204/breaking-news/security-affairs-newsletter-round-311.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10,000+ unpatched ABUS Secvest home alarms can be deactivated remotely<a href="https://securityaffairs.co/wordpress/117190/hacking/10000-vulnerable-abus-secvest.html"> Full Text</a>
@@ -142,7 +142,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Bug Found in Homebrew Package Manager for macOS and Linux<a href="https://thehackernews.com/2021/04/critical-rce-bug-found-in-homebrew.html"> Full Text</a>
@@ -158,7 +158,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometei: Yet Another Malware Weaponizing Proxylogon Vulnerabilities<a href="https://cyware.com/news/prometei-yet-another-malware-weaponizing-proxylogon-vulnerabilities-8fb39ed6"> Full Text</a>
@@ -174,7 +174,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordstate Password Manager Update Hijacked to Install Backdoor on Thousands of PCs<a href="https://thehackernews.com/2021/04/passwordstate-password-manager-update.html"> Full Text</a>
@@ -190,7 +190,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A ransomware gang made $260,000 in 5 days using the 7zip utility<a href="https://www.bleepingcomputer.com/news/security/a-ransomware-gang-made-260-000-in-5-days-using-the-7zip-utility/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NitroRansomware Demands Discord Gift Codes<a href="https://cyware.com/news/nitroransomware-demands-discord-gift-codes-0c649d0f"> Full Text</a>
@@ -222,7 +222,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New cryptomining malware builds an army of Windows, Linux bots<a href="https://www.bleepingcomputer.com/news/security/new-cryptomining-malware-builds-an-army-of-windows-linux-bots/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XCSSET Malware is Now Targeting Apple's M1 Chip<a href="https://cyware.com/news/xcsset-malware-is-now-targeting-apples-m1-chip-2e9e845c"> Full Text</a>
@@ -254,7 +254,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The cybersecurity researcher Dan Kaminsky has died<a href="https://securityaffairs.co/wordpress/117185/breaking-news/dan-kaminsky-has-died.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Microsoft DirectX 12 site pushes crypto-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-microsoft-directx-12-site-pushes-crypto-stealing-malware/"> Full Text</a>
@@ -290,7 +290,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration unveils plan to defend electric sector from cyberattacks<a href="https://www.cyberscoop.com/biden-administration-energy-department-defense-cyberattacks/?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ToxicEye RAT exploits Telegram communications to steal data from victims<a href="https://securityaffairs.co/wordpress/117173/cyber-crime/toxiceye-rat-telegram.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HashiCorp is the latest victim of Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hashicorp-is-the-latest-victim-of-codecov-supply-chain-attack/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KnowBe4 Issues IPO to Drive Global Expansion, New Automation Features<a href="https://www.darkreading.com/operations/knowbe4-issues-ipo-to-drive-global-expansion-new-automation-features/d/d-id/1340814?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Linux Botnet abuses IaC Tools to spread and other emerging techniques<a href="https://securityaffairs.co/wordpress/117155/malware/linux-botnet-emerging-techniques.html"> Full Text</a>
@@ -378,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter alarms users with messages that resembled phishing emails<a href="https://www.cyberscoop.com/twitter-phishing-confirm-email-mistake/?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unsecured Kubernetes Instances Could Be Vulnerable to Exploitation<a href="https://unit42.paloaltonetworks.com/unsecured-kubernetes-instances/?&web_view=true"> Full Text</a>

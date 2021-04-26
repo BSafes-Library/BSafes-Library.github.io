@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A ransomware gang made $260,000 in 5 days using the 7zip utility<a href="https://www.bleepingcomputer.com/news/security/a-ransomware-gang-made-260-000-in-5-days-using-the-7zip-utility/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang has made $260,000 in just five days simply by remotely encrypting files on QNAP devices using the 7zip archive program.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NitroRansomware Demands Discord Gift Codes<a href="https://cyware.com/news/nitroransomware-demands-discord-gift-codes-0c649d0f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain dubbed NitroRansomware is encrypting victim's files and then asking for a $9.99&nbsp; Discord Nitro gift code to decrypt files. It gives a .givemenitro extension to encrypted files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

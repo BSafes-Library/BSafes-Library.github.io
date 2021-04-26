@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KnowBe4 Issues IPO to Drive Global Expansion, New Automation Features<a href="https://www.darkreading.com/operations/knowbe4-issues-ipo-to-drive-global-expansion-new-automation-features/d/d-id/1340814?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security awareness company KnowBe4 successfully debuted on the NASDAQ, with its initial public offering bringing in more than $150 million to fund the company's international expansion and a focus on new automation and machine learning features.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

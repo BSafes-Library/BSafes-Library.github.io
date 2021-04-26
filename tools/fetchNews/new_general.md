@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+April 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 311<a href="https://securityaffairs.co/wordpress/117204/breaking-news/security-affairs-newsletter-round-311.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+A member of the FIN7 group was sentenced to 10 years in prisonIs BazarLoader malware linked to Trickbot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The cybersecurity researcher Dan Kaminsky has died<a href="https://securityaffairs.co/wordpress/117185/breaking-news/dan-kaminsky-has-died.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity community has lost its star, the popular hacker Dan Kaminsky has passed away.
+
+
+
+The popular cyber security researcher Dan Kaminsky (42) has passed away. Dan is a star, a myth, and a beacon for us. At the moment the causes of death...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

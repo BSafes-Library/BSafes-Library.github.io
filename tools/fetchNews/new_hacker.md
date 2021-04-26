@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are targeting Soliton FileZen file-sharing servers<a href="https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting two flaws in the popular file-sharing server FileZen to steal sensitive data from businesses and government organizations.
+
+
+
+Threat actors are exploiting two vulnerabilities in the popular file-sharing server FileZen, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
