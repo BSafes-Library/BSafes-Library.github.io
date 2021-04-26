@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Adversaries Increasingly Targeting the U.S.<a href="https://cyware.com/news/state-sponsored-adversaries-increasingly-targeting-the-us-20edc16a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intelligence community is warning about the rise in U.S. adversaries that are using cyberspace to attack the country. It named China, Iran, North Korea among the top threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 IoT Devices Under Constant Cyber Threat<a href="https://cyware.com/news/iot-devices-under-constant-cyber-threat-354ce050"> Full Text</a>
 </p>
 <details>
