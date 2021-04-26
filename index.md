@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US warns of Russian state hackers still targeting US, foreign orgs<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-russian-state-hackers-still-targeting-us-foreign-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, the US Department of Homeland Security (DHS), and the Cybersecurity and Infrastructure Security Agency (CISA) warned today of continued attacks coordinated by the Russian-backed APT 29 hacking group against US and foreign organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 61% of organizations impacted by ransomware in 2020<a href="https://www.helpnetsecurity.com/2021/04/26/ransomware-2020/?&web_view=true"> Full Text</a>
 </p>
 <details>
