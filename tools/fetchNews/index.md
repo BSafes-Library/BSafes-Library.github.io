@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Mysterious Tale of a Ransomware Cartel<a href="https://cyware.com/news/the-mysterious-tale-of-a-ransomware-cartel-0503ed27"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis suggests that four different ransomware groups formed a cartel to leak stolen data via their partners. What surprised the researchers most is the missing element of profit-sharing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attack on NBA Team<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-nba-team/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigation launched into cyber-attack on Houston Rockets
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Leaks 263GB Data Containing Sensitive Household Records of 250 Million Americans on Hacker Forum<a href="https://www.hackread.com/hacker-dumps-household-records-of-americans/?&web_view=true"> Full Text</a>
 </p>
 <details>
