@@ -34,7 +34,123 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are targeting Soliton FileZen file-sharing servers<a href="https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts pointed out that the attacks begun before the vendor has fixed the issues, meaning that we cannot exclude the possibility that threat actors have compromised organizations using FileZen.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Malware Destroys Itself Today From All Infected Computers<a href="https://thehackernews.com/2021/04/emotet-malware-destroys-itself-today.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emotet, the notorious email-based Windows malware behind several botnet-driven spam campaigns and ransomware attacks, was automatically wiped from infected computers en masse following a European law enforcement operation.  The development comes three months after a coordinated disruption of Emotet as part of " Operation Ladybird " to seize control of servers used to run and maintain the malware network. The orchestrated effort saw at least 700 servers associated with the botnet's infrastructure neutered from the inside, thus preventing further exploitation.  Law enforcement authorities from the Netherlands, Germany, the U.S., U.K., France, Lithuania, Canada, and Ukraine were involved in the international action.   Previously, the Dutch police, which seized two central servers located in the country, said it had deployed a software update to counter the threat posed by Emotet effectively. "All infected computer systems will automatically retrieve the update there, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Drilling Giant Gyrodata Reveals Employee Data Breach<a href="https://www.infosecurity-magazine.com:443/news/us-drilling-giant-gyrodata/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attack earlier this year to blame
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A supply chain attack compromised the update mechanism of Passwordstate Password Manager<a href="https://securityaffairs.co/wordpress/117221/cyber-crime/passwordstate-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The software company Click Studios was the victim of a supply chain attack, hackers compromised its Passwordstate password management application.
+
+
+
+Another supply chain attack made the headlines, the Australian software company Click Studios informed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volunteer-run pirate Manga website attacked, loses hashed passwords, has ‘nobody’ to fix the mess<a href="https://www.theregister.com/2021/04/26/mangadex_data_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An email to members seen by The Register says that as of April 22, MangaDex operators “have identified that a partial database leak” of members' information has been detected.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3.2 Billion Leaked Passwords Contain 1.5 Million Records with Government Emails<a href="https://thehackernews.com/2021/04/32-billion-leaked-passwords-contain-15.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A staggering number of 3.28 billion passwords linked to 2.18 billion unique email addresses were exposed in what's one of the largest data dumps of breached usernames and passwords.  In addition, the leak includes 1,502,909 passwords associated with email addresses from government domains across the world, with the U.S. government alone taking up 625,505 of the exposed passwords, followed by the U.K (205,099), Australia (136,025), Brazil (68,535), and Canada (50,726).  The findings come from an analysis of a massive 100GB data set called "COMB21" — aka Compilation of Many Breaches — that was published for free in an online cybercrime forum earlier this February by putting together data from multiple leaks in different companies and organizations that occurred over the years.   It's worth noting that a leak doesn't imply a breach of public administration systems. The passwords are said to have been obtained via techniques such as password hash cracking after being
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minutes before Trump left office, millions of the Pentagon’s dormant IP addresses sprang to life<a href="https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After decades of not using a huge chunk of the Internet, the Pentagon has given control of millions of IP addresses to a previously unknown company called Global Resource Systems LLC.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaks 20 million alleged BigBasket user records for free<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-20-million-alleged-bigbasket-user-records-for-free/"> Full Text</a>
@@ -50,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Campaign Against Researchers Ongoing, CISA Warns<a href="https://cyware.com/news/threat-campaign-against-researchers-ongoing-cisa-warns-9b8b2b9d"> Full Text</a>
@@ -66,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are targeting Soliton FileZen file-sharing servers<a href="https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html"> Full Text</a>
@@ -86,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet malware nukes itself today from all infected computers worldwide<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-nukes-itself-today-from-all-infected-computers-worldwide/"> Full Text</a>
@@ -102,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 311<a href="https://securityaffairs.co/wordpress/117204/breaking-news/security-affairs-newsletter-round-311.html"> Full Text</a>
@@ -122,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2021
+April 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10,000+ unpatched ABUS Secvest home alarms can be deactivated remotely<a href="https://securityaffairs.co/wordpress/117190/hacking/10000-vulnerable-abus-secvest.html"> Full Text</a>
@@ -142,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Bug Found in Homebrew Package Manager for macOS and Linux<a href="https://thehackernews.com/2021/04/critical-rce-bug-found-in-homebrew.html"> Full Text</a>
@@ -158,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometei: Yet Another Malware Weaponizing Proxylogon Vulnerabilities<a href="https://cyware.com/news/prometei-yet-another-malware-weaponizing-proxylogon-vulnerabilities-8fb39ed6"> Full Text</a>
@@ -174,7 +290,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordstate Password Manager Update Hijacked to Install Backdoor on Thousands of PCs<a href="https://thehackernews.com/2021/04/passwordstate-password-manager-update.html"> Full Text</a>
@@ -190,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A ransomware gang made $260,000 in 5 days using the 7zip utility<a href="https://www.bleepingcomputer.com/news/security/a-ransomware-gang-made-260-000-in-5-days-using-the-7zip-utility/"> Full Text</a>
@@ -206,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NitroRansomware Demands Discord Gift Codes<a href="https://cyware.com/news/nitroransomware-demands-discord-gift-codes-0c649d0f"> Full Text</a>
@@ -222,7 +338,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New cryptomining malware builds an army of Windows, Linux bots<a href="https://www.bleepingcomputer.com/news/security/new-cryptomining-malware-builds-an-army-of-windows-linux-bots/"> Full Text</a>
@@ -238,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XCSSET Malware is Now Targeting Apple's M1 Chip<a href="https://cyware.com/news/xcsset-malware-is-now-targeting-apples-m1-chip-2e9e845c"> Full Text</a>
@@ -254,7 +370,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The cybersecurity researcher Dan Kaminsky has died<a href="https://securityaffairs.co/wordpress/117185/breaking-news/dan-kaminsky-has-died.html"> Full Text</a>
@@ -274,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Microsoft DirectX 12 site pushes crypto-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-microsoft-directx-12-site-pushes-crypto-stealing-malware/"> Full Text</a>
@@ -290,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration unveils plan to defend electric sector from cyberattacks<a href="https://www.cyberscoop.com/biden-administration-energy-department-defense-cyberattacks/?&web_view=true"> Full Text</a>
@@ -306,7 +422,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ToxicEye RAT exploits Telegram communications to steal data from victims<a href="https://securityaffairs.co/wordpress/117173/cyber-crime/toxiceye-rat-telegram.html"> Full Text</a>
@@ -326,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HashiCorp is the latest victim of Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hashicorp-is-the-latest-victim-of-codecov-supply-chain-attack/"> Full Text</a>
@@ -342,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KnowBe4 Issues IPO to Drive Global Expansion, New Automation Features<a href="https://www.darkreading.com/operations/knowbe4-issues-ipo-to-drive-global-expansion-new-automation-features/d/d-id/1340814?&web_view=true"> Full Text</a>
@@ -358,7 +474,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Linux Botnet abuses IaC Tools to spread and other emerging techniques<a href="https://securityaffairs.co/wordpress/117155/malware/linux-botnet-emerging-techniques.html"> Full Text</a>
@@ -378,7 +494,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter alarms users with messages that resembled phishing emails<a href="https://www.cyberscoop.com/twitter-phishing-confirm-email-mistake/?&web_view=true"> Full Text</a>
@@ -394,7 +510,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2021
+April 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unsecured Kubernetes Instances Could Be Vulnerable to Exploitation<a href="https://unit42.paloaltonetworks.com/unsecured-kubernetes-instances/?&web_view=true"> Full Text</a>
