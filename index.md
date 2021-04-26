@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Reverb discloses data breach exposing musicians' personal info<a href="https://www.bleepingcomputer.com/news/security/reverb-discloses-data-breach-exposing-musicians-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular musical instrument marketplace Reverb has suffered a data breach after an unsecured database containing customer information was exposed online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Boffins found a bug in Apple AirDrop that could leak users’ personal info<a href="https://securityaffairs.co/wordpress/117250/hacking/apple-airdrop-bug.html"> Full Text</a>
 </p>
 <details>
