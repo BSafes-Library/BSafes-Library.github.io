@@ -34,7 +34,187 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Law Enforcement Uses Customized DLL to Wipe Emotet Malware from Infected Windows PCs<a href="https://www.theregister.com/2021/04/26/emotet_sunday_25_april_killswitch_date/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code was distributed at the end of January to Emotet-infected computers by the malware's command-and-control (C2) infrastructure, which had just been seized in a multinational police operation.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minnesota University Apologizes for Contributing Malicious Code to the Linux Project<a href="https://thehackernews.com/2021/04/minnesota-university-apologizes-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the University of Minnesota apologized to the maintainers of Linux Kernel Project on Saturday for intentionally including vulnerabilities in the project's code, which led to the school being banned from contributing to the open-source project in the future.  "While our goal was to improve the security of Linux, we now understand that it was hurtful to the community to make it a subject of our research, and to waste its effort reviewing these patches without its knowledge or permission," assistant professor Kangjie Lu, along with graduate students Qiushi Wu and Aditya Pakki,  said  in an email.  "We did that because we knew we could not ask the maintainers of Linux for permission, or they would be on the lookout for the hypocrite patches," they added.   The apology comes over a study into what's called "hypocrite commits," which was  published  earlier this February. The project aimed to deliberately add  use-after-free  vulnerabil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-commerce Fraud to Exceed $20 Billion in 2021<a href="https://www.infosecurity-magazine.com:443/news/ecommerce-fraud-to-exceed-20/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Research backs AI-powered behavioral biometrics
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei botnet is targeting ProxyLogon Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/117229/malware/prometei-botnet-is-targeting-proxylogon-microsoft-exchange-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting the ProxyLogon flaws in Microsoft Exchange to recruit machines in a cryptocurrency botnet tracked as Prometei.
+
+
+
+Experts from the Cybereason Nocturnus Team have investigated multiple incidents involving the Prometei Botnet....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted ransomware attacks grow 767%, India among top targets<a href="https://ciso.economictimes.indiatimes.com/news/targeted-ransomware-attacks-grow-767-india-among-top-targets/82251883?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attacks on high-profile targets such as corporations and government agencies globally increased by a whopping 767% in one year from 2019 to 2020, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple AirDrop Bug Could Leak Your Personal Info to Anyone Nearby<a href="https://thehackernews.com/2021/04/apple-airdrop-bug-could-leak-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has uncovered privacy weaknesses in Apple's wireless file-sharing protocol that could result in the exposure of a user's contact information such as email addresses and phone numbers.  "As an attacker, it is possible to learn the phone numbers and email addresses of AirDrop users – even as a complete stranger,"  said  a team of academics from the Technical University of Darmstadt, Germany. "All they require is a Wi-Fi-capable device and physical proximity to a target that initiates the discovery process by opening the sharing pane on an iOS or macOS device."  AirDrop  is a proprietary ad hoc service present in Apple's iOS and macOS operating systems, allowing users to transfer files between devices by making use of close-range wireless communication.   While this feature shows only receiver devices that are in users' contact lists by an authentication mechanism that compares an individual's phone number and email address with entrie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Ninjas Forges on With Controversial Arizona Election Recount<a href="https://www.infosecurity-magazine.com:443/news/cyber-ninjas-forge-arizona/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State senate hires inexperienced consultancy for recount
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Attack at Technology Provider Radixx Causes Outages in Airline Reservation Systems<a href="https://www.washingtonpost.com/business/outages-blamed-on-malware-still-plaguing-budget-airlines/2021/04/23/a899faba-a46c-11eb-b314-2e993bd83e31_story.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Radixx, a technology provider, says a malware attack triggered a dayslong outage that has caused reservations systems to crash at about 20 low-cost airlines around the world.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Test and Improve Your Domain's Email Security?<a href="https://thehackernews.com/2021/04/how-to-test-and-improve-your-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No matter which type of business you are in, whether small, medium, or large, email has become an irrefutable tool for communicating with your employees, partners, and customers.  Emails are sent and received each day in bulk by companies from various sources. In addition, organizations may also employ third-party vendors who may be authorized to send emails on behalf of the company. As a result, it becomes increasingly difficult to distinguish between sources that are legitimate and malicious.  Here's a solution – PowerDMARC. This SaaS platform helps you assess your  email authentication  protocols from time to time and see if your domain is secure against spoofing with a DMARC record checker, so you can make changes if necessary.  Check Your Domain Today!  Use our free tool to examine your domain's DMARC, SPF, DKIM, BIMI, and MTA-STS records instantly to ensure your domain is protected from impersonation and email fraud!  Importance of Having Robust Email Security in 2021  S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mining technology company Gyrodata hit by ransomware attack – employee data leaked<a href="https://portswigger.net/daily-swig/mining-technology-company-gyrodata-hit-by-ransomware-attack-employee-data-leaked?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data potentially leaked includes names, addresses, birthdates, drivers’ license numbers, social security numbers, passport numbers, W-2 tax forms, and information related to health plan enrolment.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs Allowed Hackers to Dox John Deere Tractor Owners<a href="https://www.vice.com/en/article/4avy8j/bugs-allowed-hackers-to-dox-all-john-deere-owners?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of bugs in John Deere's apps and website could have allowed hackers to find and download the personal data of all owners of the company's farming vehicles and equipment, as per a researcher.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are targeting Soliton FileZen file-sharing servers<a href="https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html?&web_view=true"> Full Text</a>
@@ -50,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Malware Destroys Itself Today From All Infected Computers<a href="https://thehackernews.com/2021/04/emotet-malware-destroys-itself-today.html"> Full Text</a>
@@ -66,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Drilling Giant Gyrodata Reveals Employee Data Breach<a href="https://www.infosecurity-magazine.com:443/news/us-drilling-giant-gyrodata/"> Full Text</a>
@@ -82,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A supply chain attack compromised the update mechanism of Passwordstate Password Manager<a href="https://securityaffairs.co/wordpress/117221/cyber-crime/passwordstate-supply-chain-attack.html"> Full Text</a>
@@ -102,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volunteer-run pirate Manga website attacked, loses hashed passwords, has ‘nobody’ to fix the mess<a href="https://www.theregister.com/2021/04/26/mangadex_data_breach/?&web_view=true"> Full Text</a>
@@ -118,7 +298,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3.2 Billion Leaked Passwords Contain 1.5 Million Records with Government Emails<a href="https://thehackernews.com/2021/04/32-billion-leaked-passwords-contain-15.html"> Full Text</a>
@@ -134,7 +314,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minutes before Trump left office, millions of the Pentagon’s dormant IP addresses sprang to life<a href="https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/?&web_view=true"> Full Text</a>

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Law Enforcement Uses Customized DLL to Wipe Emotet Malware from Infected Windows PCs<a href="https://www.theregister.com/2021/04/26/emotet_sunday_25_april_killswitch_date/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minnesota University Apologizes for Contributing Malicious Code to the Linux Project<a href="https://thehackernews.com/2021/04/minnesota-university-apologizes-for.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 E-commerce Fraud to Exceed $20 Billion in 2021<a href="https://www.infosecurity-magazine.com:443/news/ecommerce-fraud-to-exceed-20/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometei botnet is targeting ProxyLogon Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/117229/malware/prometei-botnet-is-targeting-proxylogon-microsoft-exchange-flaws.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Targeted ransomware attacks grow 767%, India among top targets<a href="https://ciso.economictimes.indiatimes.com/news/targeted-ransomware-attacks-grow-767-india-among-top-targets/82251883?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple AirDrop Bug Could Leak Your Personal Info to Anyone Nearby<a href="https://thehackernews.com/2021/04/apple-airdrop-bug-could-leak-your.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Ninjas Forges on With Controversial Arizona Election Recount<a href="https://www.infosecurity-magazine.com:443/news/cyber-ninjas-forge-arizona/"> Full Text</a>
@@ -150,7 +150,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Attack at Technology Provider Radixx Causes Outages in Airline Reservation Systems<a href="https://www.washingtonpost.com/business/outages-blamed-on-malware-still-plaguing-budget-airlines/2021/04/23/a899faba-a46c-11eb-b314-2e993bd83e31_story.html?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Washington Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Test and Improve Your Domain's Email Security?<a href="https://thehackernews.com/2021/04/how-to-test-and-improve-your-domains.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mining technology company Gyrodata hit by ransomware attack – employee data leaked<a href="https://portswigger.net/daily-swig/mining-technology-company-gyrodata-hit-by-ransomware-attack-employee-data-leaked?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs Allowed Hackers to Dox John Deere Tractor Owners<a href="https://www.vice.com/en/article/4avy8j/bugs-allowed-hackers-to-dox-all-john-deere-owners?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Vice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are targeting Soliton FileZen file-sharing servers<a href="https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Malware Destroys Itself Today From All Infected Computers<a href="https://thehackernews.com/2021/04/emotet-malware-destroys-itself-today.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Drilling Giant Gyrodata Reveals Employee Data Breach<a href="https://www.infosecurity-magazine.com:443/news/us-drilling-giant-gyrodata/"> Full Text</a>
@@ -262,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A supply chain attack compromised the update mechanism of Passwordstate Password Manager<a href="https://securityaffairs.co/wordpress/117221/cyber-crime/passwordstate-supply-chain-attack.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volunteer-run pirate Manga website attacked, loses hashed passwords, has ‘nobody’ to fix the mess<a href="https://www.theregister.com/2021/04/26/mangadex_data_breach/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3.2 Billion Leaked Passwords Contain 1.5 Million Records with Government Emails<a href="https://thehackernews.com/2021/04/32-billion-leaked-passwords-contain-15.html"> Full Text</a>
@@ -314,7 +314,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minutes before Trump left office, millions of the Pentagon’s dormant IP addresses sprang to life<a href="https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/?&web_view=true"> Full Text</a>

@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Ninjas Forges on With Controversial Arizona Election Recount<a href="https://www.infosecurity-magazine.com:443/news/cyber-ninjas-forge-arizona/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State senate hires inexperienced consultancy for recount
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Test and Improve Your Domain's Email Security?<a href="https://thehackernews.com/2021/04/how-to-test-and-improve-your-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No matter which type of business you are in, whether small, medium, or large, email has become an irrefutable tool for communicating with your employees, partners, and customers.  Emails are sent and received each day in bulk by companies from various sources. In addition, organizations may also employ third-party vendors who may be authorized to send emails on behalf of the company. As a result, it becomes increasingly difficult to distinguish between sources that are legitimate and malicious.  Here's a solution – PowerDMARC. This SaaS platform helps you assess your&nbsp; email authentication &nbsp;protocols from time to time and see if your domain is secure against spoofing with a DMARC record checker, so you can make changes if necessary.  Check Your Domain Today! &nbsp;Use our free tool to examine your domain's DMARC, SPF, DKIM, BIMI, and MTA-STS records instantly to ensure your domain is protected from impersonation and email fraud!  Importance of Having Robust Email Security in 2021  S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minutes before Trump left office, millions of the Pentagon’s dormant IP addresses sprang to life<a href="https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After decades of not using a huge chunk of the Internet, the Pentagon has given control of millions of IP addresses to a previously unknown company called Global Resource Systems LLC.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

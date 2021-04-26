@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei botnet is targeting ProxyLogon Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/117229/malware/prometei-botnet-is-targeting-proxylogon-microsoft-exchange-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting the ProxyLogon flaws in Microsoft Exchange to recruit machines in a cryptocurrency botnet tracked as Prometei.
+
+
+
+Experts from the&nbsp;Cybereason Nocturnus Team&nbsp;have investigated multiple incidents involving the Prometei Botnet....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
