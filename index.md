@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Nintendo Sues Bowser<a href="https://www.infosecurity-magazine.com:443/news/nintendo-sues-bowser/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gaming giant files lawsuit against alleged leader of video game piracy group
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches ‘worst macOS bug in recent memory’ after it was used in the wild<a href="https://www.scmagazine.com/home/security-news/malware/apple-patches-worst-macos-bug-in-recent-memory-after-it-was-used-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug, patched in macOS 11.3, allowed hackers to circumvent much of Apple’s built-in malware detection for programs downloaded from the internet.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender now blocks cryptojacking malware using Intel TDT<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-now-blocks-cryptojacking-malware-using-intel-tdt/"> Full Text</a>
 </p>
 <details>
