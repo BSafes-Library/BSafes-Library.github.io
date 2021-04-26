@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Boffins found a bug in Apple AirDrop that could leak users’ personal info<a href="https://securityaffairs.co/wordpress/117250/hacking/apple-airdrop-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a bug in Apple's wireless file-sharing protocol Apple AirDrop that could expose user's contact information.
+
+
+
+Boffins from the Technical University of Darmstadt, Germany, have discovered a privacy issue in Apple's wireless file-sharing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Flubot Spyware Spreading Through Android Devices<a href="https://threatpost.com/flubot-spyware-android-devices/165607/"> Full Text</a>
 </p>
 <details>
