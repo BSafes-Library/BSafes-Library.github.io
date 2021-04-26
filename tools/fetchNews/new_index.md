@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: New cyber budget request | Apple rolls out anticipated privacy update | And gets a new antitrust challenge<a href="https://thehill.com//policy/technology/overnights/550357-hillicon-valley-new-cyber-budget-request-apple-rolls-out"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy Monday! A bipartisan group of representatives think a key cybersecurity agency is in need of more funding after responses to SolarWinds and new Microsoft vulnerabilities. Also, Apple rolled out its long awaited privacy feature, which has already received significant criticism from Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Reverb discloses data breach exposing musicians' personal info<a href="https://www.bleepingcomputer.com/news/security/reverb-discloses-data-breach-exposing-musicians-personal-info/"> Full Text</a>
 </p>
 <details>
