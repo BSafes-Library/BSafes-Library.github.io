@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Leaks 263GB Data Containing Sensitive Household Records of 250 Million Americans on Hacker Forum<a href="https://www.hackread.com/hacker-dumps-household-records-of-americans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As seen by Hackread.com, the database was leaked on a prominent hacker forum and comprises 263 GB worth of records including 1,255 CSV subfiles each with 200,000 listings.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Space Command to Launch Dedicated Cyber Center<a href="https://www.infosecurity-magazine.com:443/news/space-command-to-launch-dedicated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joint cyber center planned to help Cyber Command and Space Command integrate
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 In the Wake of SolarWinds, the U.S. Must Grapple With the Future and Not Just the Past<a href="https://www.lawfareblog.com/wake-solarwinds-us-must-grapple-future-and-not-just-past"> Full Text</a>
 </p>
 <details>
