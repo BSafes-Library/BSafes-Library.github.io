@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AirEye Raises $8M Series A to Extend Network Security into the Unprotected Digital Airspace<a href="https://finance.yahoo.com/news/aireye-raises-8m-series-extend-110000007.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AirEye, an Network Airspace Protection (NAP) provider, announced raising $8 million in its Series A funding round led by U.S. Venture Partners (USVP), with Canaan Partners also taking part.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Nintendo Sues Bowser<a href="https://www.infosecurity-magazine.com:443/news/nintendo-sues-bowser/"> Full Text</a>
 </p>
 <details>
