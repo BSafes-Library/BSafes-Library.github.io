@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Accellion data breaches drive up average ransom price<a href="https://www.bleepingcomputer.com/news/security/accellion-data-breaches-drive-up-average-ransom-price/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breaches caused by the Clop ransomware gang exploiting a zero-day vulnerability have led to a sharp increase in the average ransom payment calculated for the first three months of the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes macOS zero-day bug exploited by Shlayer malware<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-macos-zero-day-bug-exploited-by-shlayer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has fixed a zero-day vulnerability in macOS exploited in the wild by Shlayer malware to bypass Apple's File Quarantine, Gatekeeper, and Notarization security checks and download second-stage malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 When Should U.S. Cyber Command Take Down Criminal Botnets?<a href="https://www.lawfareblog.com/when-should-us-cyber-command-take-down-criminal-botnets"> Full Text</a>
 </p>
 <details>
