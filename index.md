@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+In the Wake of SolarWinds, the U.S. Must Grapple With the Future and Not Just the Past<a href="https://www.lawfareblog.com/wake-solarwinds-us-must-grapple-future-and-not-just-past"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given the wide range of strategic and tactical benefits for Russia, a cyber operation with SolarWinds’ scale and sophistication should never be understood as “just espionage.”
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US warns of Russian state hackers still targeting US, foreign orgs<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-russian-state-hackers-still-targeting-us-foreign-orgs/"> Full Text</a>
 </p>
 <details>
