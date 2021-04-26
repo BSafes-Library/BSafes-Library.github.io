@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang now warns they will leak new Apple logos, iPad plans<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-warns-they-will-leak-new-apple-logos-ipad-plans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has mysteriously removed Apple's schematics from their data leak site after privately warning Quanta that they would leak drawings for the new iPad and new Apple logos.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Accellion data breaches drive up average ransom price<a href="https://www.bleepingcomputer.com/news/security/accellion-data-breaches-drive-up-average-ransom-price/"> Full Text</a>
 </p>
 <details>
