@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+When Should U.S. Cyber Command Take Down Criminal Botnets?<a href="https://www.lawfareblog.com/when-should-us-cyber-command-take-down-criminal-botnets"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Trickbot takedown and such military operations are a good idea only in cases that meet a five-part test of imminence, severity, overseas focus, nation-state adversary, and military as a last-ish resort.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 With $30M extension, BigID boosts Series D to $100M at $1.25B valuation<a href="https://techcrunch.com/2021/04/22/with-30m-extension-bigid-boosts-series-d-to-100m-at-1-25b-valuation/?&web_view=true"> Full Text</a>
 </p>
 <details>
