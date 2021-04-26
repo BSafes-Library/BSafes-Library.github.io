@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers call for increasing the budget of key federal cybersecurity agency<a href="https://thehill.com//policy/cybersecurity/550333-lawmakers-call-for-increasing-the-budget-of-key-federal-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of House lawmakers are urging legislators to appropriate more funding for a key federal cybersecurity agency after a year in which cyber threats skyrocketed. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22% of all users still run Microsoft end-of-life Windows 7<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/22-of-all-users-still-run-microsoft-end-of-life-windows-7/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft stopped supporting Windows 7 in January 2020, meaning users don’t get software updates and are more susceptible to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang now warns they will leak new Apple logos, iPad plans<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-warns-they-will-leak-new-apple-logos-ipad-plans/"> Full Text</a>
 </p>
 <details>
