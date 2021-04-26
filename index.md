@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+With $30M extension, BigID boosts Series D to $100M at $1.25B valuation<a href="https://techcrunch.com/2021/04/22/with-30m-extension-bigid-boosts-series-d-to-100m-at-1-25b-valuation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After announcing a $70 million Series D at a $1 billion valuation at the end of 2020, now BigID announced a $30 million extension from Advent International valuing the company at $1.25 billion.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia Warns: Severe Security Bugs in GPU Driver, vGPU Software<a href="https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gaming- and AI-friendly graphics accelerators can open the door to a range of cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 State-Sponsored Adversaries Increasingly Targeting the U.S.<a href="https://cyware.com/news/state-sponsored-adversaries-increasingly-targeting-the-us-20edc16a"> Full Text</a>
 </p>
 <details>
