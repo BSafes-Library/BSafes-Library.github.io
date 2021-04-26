@@ -34,6 +34,74 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+61% of organizations impacted by ransomware in 2020<a href="https://www.helpnetsecurity.com/2021/04/26/ransomware-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Mimecast survey, a full 79% of respondents indicated their companies had experienced a business disruption, financial loss, or other setbacks in 2020 due to a lack of cyber preparedness.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bye Bye Emotet, law enforcement pushed the uninstall code via the botnet<a href="https://securityaffairs.co/wordpress/117238/cyber-crime/emotet-global-uninstall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European law enforcement has conducted an operation aimed at performing a mass-sanitization of computers infected with the infamous Emotet Windows malware.
+
+
+
+European law enforcement agencies automatically wiped the infamous Emotet malware from infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals evolving their tactics to exploit collective human interest<a href="https://www.helpnetsecurity.com/2021/04/26/cybercriminals-evolving-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing activity increased significantly in the first few months of 2020, taking advantage of pandemic-induced product shortages and increased usage of streaming services, OpenText reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFC Forum specifications offer cryptology security for NFC application development<a href="https://www.helpnetsecurity.com/2021/04/26/nfc-forum-specifications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NFC Authentication Protocol 1.0 Specification (NAP 1.0) provides a framework for using cryptography to establish a secure channel and authentication as well as the bonding between two devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
