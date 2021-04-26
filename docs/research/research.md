@@ -358,6 +358,18 @@ We used in-depth interviews with 101 participants in the East York section of To
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7 , 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Who Owns Bitcoin? Private Law Facing the Blockchain [HTML](https://papers.bsafes.com/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Blockchain, or “distributed ledger technology” (DLT), has been devised as an alternative to the law of finance. While it has become clear by now that regulation in the public interest is necessary—for example to avoid money laundering, drug dealing, or tax evasion—the particularly thorny issues of private law have been less discussed. These include, for instance, the right to reverse an erroneous transfer, the ownership of stolen coins, and the effects of succession or bankruptcy of a bitcoin holder. All of these questions require answers from a legal perspective because the technology does not answer them.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February , 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

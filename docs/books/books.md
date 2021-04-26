@@ -15,3 +15,4 @@ nav_order: 400
 * [PREVALENCE OF CYBERBULLYING AMONG TRADITIONAL UNDERGRADUATE STUDENTS ATTENDING FAITH-BASED UNIVERSITIES: A CAUSAL-COMPARATIVE STUDY, by Susan A. Hayes-McElroy](https://papers.bsafes.com/docs/internet/prevalence-of-cyberbullying-among-traditional-undergraduate-students-attending-faith-based-universities-a-causal-comparative-study/)
 * [RIGHTS OF MAN, By Thomas Paine](https://book-rights-of-man.bsafes.com)
 * [The Red Swimsuit: Essays](https://papers.bsafes.com/docs/women/the-red-swimsuit-essays/)
+* [Who Owns Bitcoin? Private Law Facing the Blockchain](https://papers.bsafes.com/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain/)
