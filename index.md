@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New ICS Threat Activity Group: TALONITE<a href="https://www.dragos.com/blog/industry-news/new-ics-threat-activity-group-talonite/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TALONITE gains initial network access via spearphishing that leverages malicious documents and executables focused on engineering-specific themes and concepts to distribute FlowCloud and LookBack.
+</details>
+<div style="text-align: right" markdown="1">
+Dragos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dridex Malware Returns In a New Global QuickBooks Malspam Campaign<a href="https://hotforsecurity.bitdefender.com/blog/dridex-malware-returns-in-a-new-global-quickbooks-malspam-campaign-25715.html?&web_view=true"> Full Text</a>
 </p>
 <details>
