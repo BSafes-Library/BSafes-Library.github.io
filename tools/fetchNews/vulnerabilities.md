@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple AirDrop Bug Could Leak Your Personal Info to Anyone Nearby<a href="https://thehackernews.com/2021/04/apple-airdrop-bug-could-leak-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has uncovered privacy weaknesses in Apple's wireless file-sharing protocol that could result in the exposure of a user's contact information such as email addresses and phone numbers.  "As an attacker, it is possible to learn the phone numbers and email addresses of AirDrop users – even as a complete stranger,"&nbsp; said &nbsp;a team of academics from the Technical University of Darmstadt, Germany. "All they require is a Wi-Fi-capable device and physical proximity to a target that initiates the discovery process by opening the sharing pane on an iOS or macOS device."  AirDrop &nbsp;is a proprietary ad hoc service present in Apple's iOS and macOS operating systems, allowing users to transfer files between devices by making use of close-range wireless communication.   While this feature shows only receiver devices that are in users' contact lists by an authentication mechanism that compares an individual's phone number and email address with entrie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs Allowed Hackers to Dox John Deere Tractor Owners<a href="https://www.vice.com/en/article/4avy8j/bugs-allowed-hackers-to-dox-all-john-deere-owners?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of bugs in John Deere's apps and website could have allowed hackers to find and download the personal data of all owners of the company's farming vehicles and equipment, as per a researcher.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,66 @@ nav_order: 900220
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Boffins found a bug in Apple AirDrop that could leak users’ personal info<a href="https://securityaffairs.co/wordpress/117250/hacking/apple-airdrop-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a bug in Apple's wireless file-sharing protocol Apple AirDrop that could expose user's contact information.
+
+
+
+Boffins from the Technical University of Darmstadt, Germany, have discovered a privacy issue in Apple's wireless file-sharing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes macOS zero-day bug exploited by Shlayer malware<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-macos-zero-day-bug-exploited-by-shlayer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has fixed a zero-day vulnerability in macOS&nbsp;exploited in the wild by Shlayer malware to bypass Apple's File Quarantine, Gatekeeper, and Notarization security checks and download second-stage malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia Warns: Severe Security Bugs in GPU Driver, vGPU Software<a href="https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gaming- and AI-friendly graphics accelerators can open the door to a range of cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches ‘worst macOS bug in recent memory’ after it was used in the wild<a href="https://www.scmagazine.com/home/security-news/malware/apple-patches-worst-macos-bug-in-recent-memory-after-it-was-used-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug, patched in macOS 11.3, allowed hackers to circumvent much of Apple’s built-in malware detection for programs downloaded from the internet.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Apple AirDrop Bug Could Leak Your Personal Info to Anyone Nearby<a href="https://thehackernews.com/2021/04/apple-airdrop-bug-could-leak-your.html"> Full Text</a>
 </p>
 <details>

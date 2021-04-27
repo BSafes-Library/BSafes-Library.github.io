@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFC Forum specifications offer cryptology security for NFC application development<a href="https://www.helpnetsecurity.com/2021/04/26/nfc-forum-specifications/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NFC Authentication Protocol 1.0 Specification (NAP 1.0) provides a framework for using cryptography to establish a secure channel and authentication as well as the bonding between two devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

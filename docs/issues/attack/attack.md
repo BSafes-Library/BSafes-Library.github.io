@@ -11,6 +11,20 @@ nav_order: 900015
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attack on NBA Team<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-nba-team/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigation launched into cyber-attack on Houston Rockets
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A supply chain attack compromised the update mechanism of Passwordstate Password Manager<a href="https://securityaffairs.co/wordpress/117221/cyber-crime/passwordstate-supply-chain-attack.html"> Full Text</a>
 </p>
 <details>

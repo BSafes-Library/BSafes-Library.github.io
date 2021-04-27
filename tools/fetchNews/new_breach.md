@@ -11,6 +11,48 @@ nav_order: 900029
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Reverb discloses data breach exposing musicians' personal info<a href="https://www.bleepingcomputer.com/news/security/reverb-discloses-data-breach-exposing-musicians-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular musical instrument marketplace Reverb has suffered a data breach after an unsecured database containing customer information was exposed online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accellion data breaches drive up average ransom price<a href="https://www.bleepingcomputer.com/news/security/accellion-data-breaches-drive-up-average-ransom-price/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breaches caused by the Clop ransomware gang exploiting a zero-day vulnerability have led to a sharp increase in the average ransom payment calculated for the first three months of the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Leaks 263GB Data Containing Sensitive Household Records of 250 Million Americans on Hacker Forum<a href="https://www.hackread.com/hacker-dumps-household-records-of-americans/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As seen by Hackread.com, the database was leaked on a prominent hacker forum and comprises 263 GB worth of records including 1,255 CSV subfiles each with 200,000 listings.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Drilling Giant Gyrodata Reveals Employee Data Breach<a href="https://www.infosecurity-magazine.com:443/news/us-drilling-giant-gyrodata/"> Full Text</a>
 </p>
 <details>

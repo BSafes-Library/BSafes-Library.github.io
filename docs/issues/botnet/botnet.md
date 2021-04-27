@@ -11,6 +11,38 @@ nav_order: 900025
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+When Should U.S. Cyber Command Take Down Criminal Botnets?<a href="https://www.lawfareblog.com/when-should-us-cyber-command-take-down-criminal-botnets"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Trickbot takedown and such military operations are a good idea only in cases that meet a five-part test of imminence, severity, overseas focus, nation-state adversary, and military as a last-ish resort.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bye Bye Emotet, law enforcement pushed the uninstall code via the botnet<a href="https://securityaffairs.co/wordpress/117238/cyber-crime/emotet-global-uninstall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European law enforcement has conducted an operation aimed at performing a mass-sanitization of computers infected with the infamous Emotet Windows malware.
+
+
+
+European law enforcement agencies automatically wiped the infamous Emotet malware from infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Prometei botnet is targeting ProxyLogon Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/117229/malware/prometei-botnet-is-targeting-proxylogon-microsoft-exchange-flaws.html"> Full Text</a>
 </p>
 <details>

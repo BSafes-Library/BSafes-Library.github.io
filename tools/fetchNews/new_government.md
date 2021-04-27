@@ -11,6 +11,62 @@ nav_order: 900075
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers call for increasing the budget of key federal cybersecurity agency<a href="https://thehill.com//policy/cybersecurity/550333-lawmakers-call-for-increasing-the-budget-of-key-federal-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of House lawmakers are urging legislators to appropriate more funding for a key federal cybersecurity agency after a year in which cyber threats skyrocketed.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Adversaries Increasingly Targeting the U.S.<a href="https://cyware.com/news/state-sponsored-adversaries-increasingly-targeting-the-us-20edc16a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intelligence community is warning about the rise in U.S. adversaries that are using cyberspace to attack the country. It named China, Iran, North Korea among the top threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Space Command to Launch Dedicated Cyber Center<a href="https://www.infosecurity-magazine.com:443/news/space-command-to-launch-dedicated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joint cyber center planned to help Cyber Command and Space Command integrate
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US warns of Russian state hackers still targeting US, foreign orgs<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-russian-state-hackers-still-targeting-us-foreign-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, the US&nbsp;Department of Homeland Security (DHS), and the&nbsp;Cybersecurity and Infrastructure Security Agency (CISA) warned today of continued attacks coordinated by the Russian-backed&nbsp;APT 29 hacking group&nbsp;against&nbsp;US and foreign organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber Ninjas Forges on With Controversial Arizona Election Recount<a href="https://www.infosecurity-magazine.com:443/news/cyber-ninjas-forge-arizona/"> Full Text</a>
 </p>
 <details>

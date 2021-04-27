@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted ransomware attacks grow 767%, India among top targets<a href="https://ciso.economictimes.indiatimes.com/news/targeted-ransomware-attacks-grow-767-india-among-top-targets/82251883?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attacks on high-profile targets such as corporations and government agencies globally increased by a whopping 767% in one year from 2019 to 2020, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mining technology company Gyrodata hit by ransomware attack – employee data leaked<a href="https://portswigger.net/daily-swig/mining-technology-company-gyrodata-hit-by-ransomware-attack-employee-data-leaked?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data potentially leaked includes names, addresses, birthdates, drivers’ license numbers, social security numbers, passport numbers, W-2 tax forms, and information related to health plan enrolment.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

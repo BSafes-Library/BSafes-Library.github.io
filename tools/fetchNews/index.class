@@ -34,6 +34,462 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: New cyber budget request | Apple rolls out anticipated privacy update | And gets a new antitrust challenge<a href="https://thehill.com//policy/technology/overnights/550357-hillicon-valley-new-cyber-budget-request-apple-rolls-out"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy Monday! A bipartisan group of representatives think a key cybersecurity agency is in need of more funding after responses to SolarWinds and new Microsoft vulnerabilities. Also, Apple rolled out its long awaited privacy feature, which has already received significant criticism from Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reverb discloses data breach exposing musicians' personal info<a href="https://www.bleepingcomputer.com/news/security/reverb-discloses-data-breach-exposing-musicians-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular musical instrument marketplace Reverb has suffered a data breach after an unsecured database containing customer information was exposed online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boffins found a bug in Apple AirDrop that could leak users’ personal info<a href="https://securityaffairs.co/wordpress/117250/hacking/apple-airdrop-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a bug in Apple's wireless file-sharing protocol Apple AirDrop that could expose user's contact information.
+
+
+
+Boffins from the Technical University of Darmstadt, Germany, have discovered a privacy issue in Apple's wireless file-sharing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flubot Spyware Spreading Through Android Devices<a href="https://threatpost.com/flubot-spyware-android-devices/165607/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is spreading rapidly through ‘missed package delivery’ SMS texts, prompting urgent scam warnings from mobile carriers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers call for increasing the budget of key federal cybersecurity agency<a href="https://thehill.com//policy/cybersecurity/550333-lawmakers-call-for-increasing-the-budget-of-key-federal-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of House lawmakers are urging legislators to appropriate more funding for a key federal cybersecurity agency after a year in which cyber threats skyrocketed. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22% of all users still run Microsoft end-of-life Windows 7<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/22-of-all-users-still-run-microsoft-end-of-life-windows-7/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft stopped supporting Windows 7 in January 2020, meaning users don’t get software updates and are more susceptible to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang now warns they will leak new Apple logos, iPad plans<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-warns-they-will-leak-new-apple-logos-ipad-plans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has mysteriously removed Apple's schematics from their data leak site after privately warning Quanta that they would leak drawings for the new iPad and new Apple logos.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accellion data breaches drive up average ransom price<a href="https://www.bleepingcomputer.com/news/security/accellion-data-breaches-drive-up-average-ransom-price/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breaches caused by the Clop ransomware gang exploiting a zero-day vulnerability have led to a sharp increase in the average ransom payment calculated for the first three months of the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes macOS zero-day bug exploited by Shlayer malware<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-macos-zero-day-bug-exploited-by-shlayer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has fixed a zero-day vulnerability in macOS exploited in the wild by Shlayer malware to bypass Apple's File Quarantine, Gatekeeper, and Notarization security checks and download second-stage malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Should U.S. Cyber Command Take Down Criminal Botnets?<a href="https://www.lawfareblog.com/when-should-us-cyber-command-take-down-criminal-botnets"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Trickbot takedown and such military operations are a good idea only in cases that meet a five-part test of imminence, severity, overseas focus, nation-state adversary, and military as a last-ish resort.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With $30M extension, BigID boosts Series D to $100M at $1.25B valuation<a href="https://techcrunch.com/2021/04/22/with-30m-extension-bigid-boosts-series-d-to-100m-at-1-25b-valuation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After announcing a $70 million Series D at a $1 billion valuation at the end of 2020, now BigID announced a $30 million extension from Advent International valuing the company at $1.25 billion.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia Warns: Severe Security Bugs in GPU Driver, vGPU Software<a href="https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gaming- and AI-friendly graphics accelerators can open the door to a range of cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Adversaries Increasingly Targeting the U.S.<a href="https://cyware.com/news/state-sponsored-adversaries-increasingly-targeting-the-us-20edc16a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intelligence community is warning about the rise in U.S. adversaries that are using cyberspace to attack the country. It named China, Iran, North Korea among the top threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Devices Under Constant Cyber Threat<a href="https://cyware.com/news/iot-devices-under-constant-cyber-threat-354ce050"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of recent attacks on IoT devices implies bigger security risks that hover over them. It is even more concerning for consumers as they are unaware of threats and do not own the resources to mitigate them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AirEye Raises $8M Series A to Extend Network Security into the Unprotected Digital Airspace<a href="https://finance.yahoo.com/news/aireye-raises-8m-series-extend-110000007.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AirEye, an Network Airspace Protection (NAP) provider, announced raising $8 million in its Series A funding round led by U.S. Venture Partners (USVP), with Canaan Partners also taking part.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nintendo Sues Bowser<a href="https://www.infosecurity-magazine.com:443/news/nintendo-sues-bowser/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gaming giant files lawsuit against alleged leader of video game piracy group
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches ‘worst macOS bug in recent memory’ after it was used in the wild<a href="https://www.scmagazine.com/home/security-news/malware/apple-patches-worst-macos-bug-in-recent-memory-after-it-was-used-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug, patched in macOS 11.3, allowed hackers to circumvent much of Apple’s built-in malware detection for programs downloaded from the internet.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender now blocks cryptojacking malware using Intel TDT<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-now-blocks-cryptojacking-malware-using-intel-tdt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today announced that Microsoft Defender for Endpoint, the enterprise version of its Windows 10 Defender antivirus, now comes with support for blocking cryptojacking malware using Intel's silicon-based Threat Detection Technology (TDT).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Mysterious Tale of a Ransomware Cartel<a href="https://cyware.com/news/the-mysterious-tale-of-a-ransomware-cartel-0503ed27"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis suggests that four different ransomware groups formed a cartel to leak stolen data via their partners. What surprised the researchers most is the missing element of profit-sharing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attack on NBA Team<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-nba-team/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigation launched into cyber-attack on Houston Rockets
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Leaks 263GB Data Containing Sensitive Household Records of 250 Million Americans on Hacker Forum<a href="https://www.hackread.com/hacker-dumps-household-records-of-americans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As seen by Hackread.com, the database was leaked on a prominent hacker forum and comprises 263 GB worth of records including 1,255 CSV subfiles each with 200,000 listings.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Space Command to Launch Dedicated Cyber Center<a href="https://www.infosecurity-magazine.com:443/news/space-command-to-launch-dedicated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joint cyber center planned to help Cyber Command and Space Command integrate
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In the Wake of SolarWinds, the U.S. Must Grapple With the Future and Not Just the Past<a href="https://www.lawfareblog.com/wake-solarwinds-us-must-grapple-future-and-not-just-past"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given the wide range of strategic and tactical benefits for Russia, a cyber operation with SolarWinds’ scale and sophistication should never be understood as “just espionage.”
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US warns of Russian state hackers still targeting US, foreign orgs<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-russian-state-hackers-still-targeting-us-foreign-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, the US Department of Homeland Security (DHS), and the Cybersecurity and Infrastructure Security Agency (CISA) warned today of continued attacks coordinated by the Russian-backed APT 29 hacking group against US and foreign organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+61% of organizations impacted by ransomware in 2020<a href="https://www.helpnetsecurity.com/2021/04/26/ransomware-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Mimecast survey, a full 79% of respondents indicated their companies had experienced a business disruption, financial loss, or other setbacks in 2020 due to a lack of cyber preparedness.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bye Bye Emotet, law enforcement pushed the uninstall code via the botnet<a href="https://securityaffairs.co/wordpress/117238/cyber-crime/emotet-global-uninstall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European law enforcement has conducted an operation aimed at performing a mass-sanitization of computers infected with the infamous Emotet Windows malware.
+
+
+
+European law enforcement agencies automatically wiped the infamous Emotet malware from infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals evolving their tactics to exploit collective human interest<a href="https://www.helpnetsecurity.com/2021/04/26/cybercriminals-evolving-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing activity increased significantly in the first few months of 2020, taking advantage of pandemic-induced product shortages and increased usage of streaming services, OpenText reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFC Forum specifications offer cryptology security for NFC application development<a href="https://www.helpnetsecurity.com/2021/04/26/nfc-forum-specifications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NFC Authentication Protocol 1.0 Specification (NAP 1.0) provides a framework for using cryptography to establish a secure channel and authentication as well as the bonding between two devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

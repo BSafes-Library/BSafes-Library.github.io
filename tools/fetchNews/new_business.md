@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With $30M extension, BigID boosts Series D to $100M at $1.25B valuation<a href="https://techcrunch.com/2021/04/22/with-30m-extension-bigid-boosts-series-d-to-100m-at-1-25b-valuation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After announcing a $70 million Series D at a $1 billion valuation at the end of 2020, now BigID announced a $30 million extension from Advent International valuing the company at $1.25 billion.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AirEye Raises $8M Series A to Extend Network Security into the Unprotected Digital Airspace<a href="https://finance.yahoo.com/news/aireye-raises-8m-series-extend-110000007.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AirEye, an Network Airspace Protection (NAP) provider, announced raising $8 million in its Series A funding round led by U.S. Venture Partners (USVP), with Canaan Partners also taking part.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: New cyber budget request | Apple rolls out anticipated privacy update | And gets a new antitrust challenge<a href="https://thehill.com//policy/technology/overnights/550357-hillicon-valley-new-cyber-budget-request-apple-rolls-out"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reverb discloses data breach exposing musicians' personal info<a href="https://www.bleepingcomputer.com/news/security/reverb-discloses-data-breach-exposing-musicians-personal-info/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boffins found a bug in Apple AirDrop that could leak users’ personal info<a href="https://securityaffairs.co/wordpress/117250/hacking/apple-airdrop-bug.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flubot Spyware Spreading Through Android Devices<a href="https://threatpost.com/flubot-spyware-android-devices/165607/"> Full Text</a>
@@ -102,7 +102,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers call for increasing the budget of key federal cybersecurity agency<a href="https://thehill.com//policy/cybersecurity/550333-lawmakers-call-for-increasing-the-budget-of-key-federal-cybersecurity"> Full Text</a>
@@ -118,7 +118,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 22% of all users still run Microsoft end-of-life Windows 7<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/22-of-all-users-still-run-microsoft-end-of-life-windows-7/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang now warns they will leak new Apple logos, iPad plans<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-warns-they-will-leak-new-apple-logos-ipad-plans/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accellion data breaches drive up average ransom price<a href="https://www.bleepingcomputer.com/news/security/accellion-data-breaches-drive-up-average-ransom-price/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes macOS zero-day bug exploited by Shlayer malware<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-macos-zero-day-bug-exploited-by-shlayer-malware/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When Should U.S. Cyber Command Take Down Criminal Botnets?<a href="https://www.lawfareblog.com/when-should-us-cyber-command-take-down-criminal-botnets"> Full Text</a>
@@ -198,7 +198,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With $30M extension, BigID boosts Series D to $100M at $1.25B valuation<a href="https://techcrunch.com/2021/04/22/with-30m-extension-bigid-boosts-series-d-to-100m-at-1-25b-valuation/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nvidia Warns: Severe Security Bugs in GPU Driver, vGPU Software<a href="https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/"> Full Text</a>
@@ -230,7 +230,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Sponsored Adversaries Increasingly Targeting the U.S.<a href="https://cyware.com/news/state-sponsored-adversaries-increasingly-targeting-the-us-20edc16a"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT Devices Under Constant Cyber Threat<a href="https://cyware.com/news/iot-devices-under-constant-cyber-threat-354ce050"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AirEye Raises $8M Series A to Extend Network Security into the Unprotected Digital Airspace<a href="https://finance.yahoo.com/news/aireye-raises-8m-series-extend-110000007.html?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nintendo Sues Bowser<a href="https://www.infosecurity-magazine.com:443/news/nintendo-sues-bowser/"> Full Text</a>
@@ -294,7 +294,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple patches ‘worst macOS bug in recent memory’ after it was used in the wild<a href="https://www.scmagazine.com/home/security-news/malware/apple-patches-worst-macos-bug-in-recent-memory-after-it-was-used-in-the-wild/"> Full Text</a>
@@ -310,7 +310,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender now blocks cryptojacking malware using Intel TDT<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-now-blocks-cryptojacking-malware-using-intel-tdt/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Mysterious Tale of a Ransomware Cartel<a href="https://cyware.com/news/the-mysterious-tale-of-a-ransomware-cartel-0503ed27"> Full Text</a>
@@ -342,7 +342,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-attack on NBA Team<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-nba-team/"> Full Text</a>
@@ -358,7 +358,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Leaks 263GB Data Containing Sensitive Household Records of 250 Million Americans on Hacker Forum<a href="https://www.hackread.com/hacker-dumps-household-records-of-americans/?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Space Command to Launch Dedicated Cyber Center<a href="https://www.infosecurity-magazine.com:443/news/space-command-to-launch-dedicated/"> Full Text</a>
@@ -390,7 +390,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In the Wake of SolarWinds, the U.S. Must Grapple With the Future and Not Just the Past<a href="https://www.lawfareblog.com/wake-solarwinds-us-must-grapple-future-and-not-just-past"> Full Text</a>
@@ -406,7 +406,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US warns of Russian state hackers still targeting US, foreign orgs<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-russian-state-hackers-still-targeting-us-foreign-orgs/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 61% of organizations impacted by ransomware in 2020<a href="https://www.helpnetsecurity.com/2021/04/26/ransomware-2020/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bye Bye Emotet, law enforcement pushed the uninstall code via the botnet<a href="https://securityaffairs.co/wordpress/117238/cyber-crime/emotet-global-uninstall.html"> Full Text</a>
@@ -458,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals evolving their tactics to exploit collective human interest<a href="https://www.helpnetsecurity.com/2021/04/26/cybercriminals-evolving-tactics/?&web_view=true"> Full Text</a>
@@ -474,7 +474,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NFC Forum specifications offer cryptology security for NFC application development<a href="https://www.helpnetsecurity.com/2021/04/26/nfc-forum-specifications/?&web_view=true"> Full Text</a>
