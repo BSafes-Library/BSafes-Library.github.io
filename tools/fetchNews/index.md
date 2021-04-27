@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Network security company Proofpoint goes private in $12.3B deal<a href="https://venturebeat.com/2021/04/26/network-security-company-proofpoint-goes-private-in-12-3b-deal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private equity firm Thoma Bravo has announced plans to acquire cybersecurity company Proofpoint, which was founded in 2002 and went public in 2012, in a deal worth $12.3 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Shlayer macOS malware abuses zero-day to bypass Gatekeeper feature<a href="https://securityaffairs.co/wordpress/117262/malware/shlayer-macos-zero-day.html"> Full Text</a>
 </p>
 <details>
