@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Water utility CISO offers tips to stay secure as IT and OT converges<a href="https://www.scmagazine.com/home/security-news/iot/water-utility-ciso-offers-tips-to-stay-secure-as-it-and-ot-converges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kristin Sanders, chief information security officer for the Albuquerque Bernalillo County Water Utility Authority, revealed how New Mexico’s largest water and wastewater utility has been addressing the security challenge by leveraging a series of software solutions, sensors and internet-of-things technology.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DC Police confirms cyberattack after ransomware gang leaks data<a href="https://www.bleepingcomputer.com/news/security/dc-police-confirms-cyberattack-after-ransomware-gang-leaks-data/"> Full Text</a>
 </p>
 <details>
