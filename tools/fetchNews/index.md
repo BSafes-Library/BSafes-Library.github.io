@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dridex Malware Returns In a New Global QuickBooks Malspam Campaign<a href="https://hotforsecurity.bitdefender.com/blog/dridex-malware-returns-in-a-new-global-quickbooks-malspam-campaign-25715.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attacks masquerading as QuickBooks invoices are targeting users of the popular accounting software in an attempt to infect victim’s devices with the infamous Dridex banking Trojan.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA Uncover Tactics Employed by Russian Intelligence Hackers<a href="https://thehackernews.com/2021/04/fbi-cisa-uncover-tactics-employed-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), Department of Homeland Security (DHS), and the Federal Bureau of Investigation (FBI) on Monday published a new joint advisory as part of their latest attempts to expose the tactics, techniques, and procedures (TTPs) adopted by the Russian Foreign Intelligence Service (SVR) in its attacks targeting the U.S and foreign entities.  By employing "stealthy intrusion tradecraft within compromised networks," the intelligence agencies  said , "the SVR activity—which includes the recent  SolarWinds Orion supply chain compromise —primarily targets government networks, think tank and policy analysis organizations, and information technology companies and seeks to gather intelligence information."   The cyber actor is also being tracked under different monikers, including Advanced Persistent Threat 29 (APT29), the Dukes, CozyBear, and Yttrium. The development comes as the U.S. sanctioned Russia and  formally pinn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Australian man sentenced for running stolen subscription credential service<a href="https://www.zdnet.com/article/australian-man-sentenced-for-running-stolen-subscription-credential-service/?&web_view=true"> Full Text</a>
 </p>
 <details>
