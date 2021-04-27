@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Australian man sentenced for running stolen subscription credential service<a href="https://www.zdnet.com/article/australian-man-sentenced-for-running-stolen-subscription-credential-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation into stolen subscription service credentials by the Australian Federal Police (AFP) has resulted in a two years and two months' sentence for a man from Sydney.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender uses Intel TDT technology against crypto-mining malware<a href="https://securityaffairs.co/wordpress/117272/security/microsoft-defender-tdt.html"> Full Text</a>
 </p>
 <details>

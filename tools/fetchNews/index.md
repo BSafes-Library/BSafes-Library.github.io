@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender uses Intel TDT technology against crypto-mining malware<a href="https://securityaffairs.co/wordpress/117272/security/microsoft-defender-tdt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced an improvement of its Defender antivirus that will leverage Intel's Threat Detection Technology (TDT) to detect processes associated with crypto-miners.
+
+
+
+Microsoft announced that Microsoft Defender for Endpoint, its commercial version...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Network security company Proofpoint goes private in $12.3B deal<a href="https://venturebeat.com/2021/04/26/network-security-company-proofpoint-goes-private-in-12-3b-deal/?&web_view=true"> Full Text</a>
 </p>
 <details>
