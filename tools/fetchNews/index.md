@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Sensitive source codes exposed in Microsoft Azure Blob account leak<a href="https://www.hackread.com/source-codes-microsoft-azure-blob-account-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data included files that appeared to originate from a series of pitches made to Microsoft Dynamics from numerous companies vying for a project or partnership with the company.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Impacts 1 in 4 Wyomingites<a href="https://www.infosecurity-magazine.com:443/news/data-breach-impacts-1-in-4/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wyoming Department of Health exposes test results of more than a quarter of state residents on GitHub
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Payment Demands Rose by 43% So Far in 2021<a href="https://www.cyberscoop.com/ransomware-extortion-demands-increasing-coveware/?&web_view=true"> Full Text</a>
 </p>
 <details>

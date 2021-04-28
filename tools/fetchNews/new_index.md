@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Malware Increasingly Using TLS to Hide Communication<a href="https://cyware.com/news/malware-increasingly-using-tls-to-hide-communication-967dd85a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware actors have doubled the number of attacks leveraging TLS communications, helping them stay hidden from security systems. Only a few are using self-signed certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Arrests Alleged Crypto Mixer<a href="https://www.infosecurity-magazine.com:443/news/us-arrests-alleged-crypto-mixer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Man suspected of laundering around $336m in Bitcoin via a crypto-mixing service is arrested
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Ransomware Gang is Now Shorting Stock Price of its Victims<a href="https://cyware.com/news/a-ransomware-gang-is-now-shorting-stock-price-of-its-victims-21b852f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darkside group has advanced its extortion tactics to target companies that are listed on NASDAQ or other stock markets. However,&nbsp;the chances of this technique succeeding are narrow, say experts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Sensitive source codes exposed in Microsoft Azure Blob account leak<a href="https://www.hackread.com/source-codes-microsoft-azure-blob-account-leak/?&web_view=true"> Full Text</a>
 </p>
 <details>
