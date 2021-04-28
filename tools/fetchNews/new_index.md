@@ -37,6 +37,514 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge to add automatic HTTPS option for all domains<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-to-add-automatic-https-option-for-all-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Edge will automatically redirect users to a secure HTTPS connection when visiting websites using the HTTP protocol, starting with version 92, coming in late July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An APT Group Exploits VPN to Deploy Supernova on SolarWinds Orion<a href="https://cyware.com/news/an-apt-group-exploits-vpn-to-deploy-supernova-on-solarwinds-orion-d39436c1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has disclosed details of a new APT that leverages the Supernova backdoor to compromise SolarWinds Orion installations after gaining access to the network through a VPN service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Acting FTC chair urges Congress to revive agency authority after Supreme Court ruling | Senate Intel panel working on breach notification bill<a href="https://thehill.com//policy/technology/overnights/550592-hillicon-valley-acting-ftc-chair-urges-congress-to-revive-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acting Federal Trade Commision Chair Rebecca Kelly Slaughter was back on Capitol Hill Tuesday, urging Congressional action to revive the commission’s authority in light of a Supreme Court decision last week. Meanwhile, Senate Intelligence Committee Chairman Mark WarnerMark Robert WarnerDemocrats divided over GOP infrastructure offer Lawmakers react to guilty verdict in Chauvin murder trial: 'Our work is far from done' Manchin throws support behind union-backed PRO Act MORE (D-Va.) announced upcoming legislation from his committee around mandatory data breach notification, and two key senators hinted at renewed action to create federal standards on self-driving cars. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Threaten to Leak D.C. Police Informants' Info If Ransom Is Not Paid<a href="https://thehackernews.com/2021/04/hackers-threaten-to-leak-dc-police.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Metropolitan Police Department (MPD) of the District of Columbia has become the latest high-profile government agency to fall victim to a ransomware attack.  The Babuk Locker gang claimed in a post on the dark web that they had compromised the DC Police's networks and stolen 250 GB of unencrypted files. Screenshots shared by the group, and seen by The Hacker News, include various folders containing what appears to be investigation reports, arrests, disciplinary actions, and other intelligence briefings.  Also called the DC Police, the MPD is the primary law enforcement agency for the District of Columbia in the U.S.   The ransomware gang has given the department three days to heed to their ransom demand or risk leaking sensitive files that could expose police informants to criminal gangs.  "Hello! Even an institution such as DC can be threatened, we have downloaded a sufficient amount of information from your internal networks, and we advise you to contact us as soon as p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kik Tip Leads to Kindergarten Teacher’s Arrest<a href="https://www.infosecurity-magazine.com:443/news/kik-tip-leads-to-kindergarten/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-tip about child sexual abuse material sharing leads to arrest of Indiana teacher
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares with HIBP 4 million email addresses involved in Emotet attacks<a href="https://securityaffairs.co/wordpress/117294/malware/emotet-hibp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has shared with Have I Been Pwned service 4 million email addresses collected by Emotet botnet and employed in malware campaigns.
+
+
+
+Last week, European law enforcement has conducted an operation aimed at performing a mass-sanitization of computers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SharePoint vulnerability and China Chopper web shell used in ransomware attacks<a href="https://www.scmagazine.com/home/security-news/ransomware/microsoft-sharepoint-vulnerability-and-china-chopper-web-shell-used-in-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that to ignite a ransomware payload, the attackers abuse a Cobalt Strike beacon. The researchers believe the China Chopper web shell was used in a likely attempt to circumvent detection with known samples.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Gang Targets Washington D.C. Police<a href="https://threatpost.com/babuk-ransomware-washington-dc-police/165616/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaaS developers thumbed their noses at police, saying “We find 0 day before you.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares 4 million email addresses used by Emotet with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/fbi-shares-4-million-email-addresses-used-by-emotet-with-have-i-been-pwned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of email addresses collected by Emotet botnet for malware distribution campaigns have been shared by the Federal Bureau of Investigation (FBI) as part of the agency's effort to clean infected computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HashiCorp reveals exposure of private code-signing key after Codecov compromise<a href="https://www.theregister.com/2021/04/26/hashicorp_reveals_exposure_of_private/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HashiCorp, a software company making automated cloud deployment tools, has revealed a private code-signing key was exposed thanks to the compromised Codecov script discovered earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate Intelligence panel working on legislation around mandatory cyber breach notification<a href="https://thehill.com//policy/cybersecurity/550543-senate-intelligence-panel-working-on-legislation-around-mandatory-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Intelligence Committee is working on a bill to create some form of limited data breach mandatory reporting for the private sector, with the goal of preventing future major foreign cyberattacks on critical organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Webinar: Understanding the 2020 MITRE ATT&CK Results<a href="https://thehackernews.com/2021/04/cybersecurity-webinar-understanding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The release of MITRE Engenuity's Carbanak+Fin7 ATT&CK evaluations every year is a benchmark for the cybersecurity industry.  The organization's tests measure how well security vendors can detect and respond to threats and offers an independent metric for customers and security leaders to understand how well vendors perform on a variety of tasks.  However, for the uninitiated, the results can be hard to decipher and contextualize properly. Unlike many benchmarks that compare participants in a competitive manner, MITRE's framework evaluates companies exclusively on how they respond to the tests.  This means that customers must really know what they're looking for. A new webinar ( register here ) aims to provide some clarity on what to look for and how to interpret the results.   Cynet's new live webinar will dig a little deeper into the MITRE ATT&CK evaluation. The company's research team will break down how the evaluations work, what the results mean, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Impersonate Chase Bank<a href="https://www.infosecurity-magazine.com:443/news/threat-actors-impersonate-chase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminals launch credential phishing attacks targeting Chase bank customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, NIST published an advisory on supply chain attacks<a href="https://securityaffairs.co/wordpress/117286/hacking/cisa-nist-supply-chain-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and NIST published a report on software supply chain attacks that shed light on the associated risks and provide instructions on how to mitigate them.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Institute...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another SolarWinds lesson: Hackers are targeting Microsoft authentication servers<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/another-solarwinds-lesson-hackers-are-targeting-microsoft-authentication-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant Tuesday detailed a new attack strategy against Microsoft’s Active Directory Federation Services (AD FS). Researchers believe the need to protect AD FS might be the unheralded second lesson from the SolarWinds campaign.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MangaDex discloses data breach after stolen database shared online<a href="https://www.bleepingcomputer.com/news/security/mangadex-discloses-data-breach-after-stolen-database-shared-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manga scanlation site MangaDex disclosed a data breach last week after learning that the site's user database was privately circulating among threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qlocker Ransomware is Targeting QNAP Devices<a href="https://cyware.com/news/qlocker-ransomware-is-targeting-qnap-devices-cabd7697"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qlocker group was spotted using 7-Zip to move files on QNAP devices into password-protected archives. It generated about $260,000 within a week by remotely encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit 0-Day Gatekeeper Flaw to Attack MacOS Computers<a href="https://thehackernews.com/2021/04/hackers-exploit-0-day-gatekeeper-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security is only as strong as the weakest link. As further proof of this, Apple released an update to macOS operating systems to address an actively exploited zero-day vulnerability that could circumvent all security protections, thus permitting unapproved software to run on Macs.  The macOS flaw, identified as  CVE-2021-30657 , was discovered and reported to Apple by security engineer Cedric Owens on March 25, 2021.  "An unsigned, unnotarized, script-based proof of concept application [...] could trivially and reliably sidestep all of macOS's relevant security mechanisms (File Quarantine, Gatekeeper, and Notarization Requirements), even on a fully patched M1 macOS system," security researcher Patrick Wardle  explained  in a write-up. "Armed with such a capability macOS malware authors could (and are) returning to their proven methods of targeting and infecting macOS users."   Apple's macOS comes with a feature called  Gatekeeper , which allows only  truste
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Music Marketplace Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/online-music-marketplace-suffers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher finds millions of Reverb.com records on unprotected server
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hit Guilderland Central School District near Albany<a href="https://securityaffairs.co/wordpress/117281/cyber-crime/school-district-albany-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials revealed that the school district near Albany was hit by a ransomware attack that forced students in grades 7 through 12 into all-remote learning on Monday.
+
+
+
+The Guilderland Central School District near Albany was hit by a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cigent gets $7.6 million to reimagine data protection at the file level<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/cigent-gets-7-6-million-to-reimagine-data-protection-at-the-file-level/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity startup is being backed by In-Q-Tel and other investors to bring their data defense technologies to the commercial market.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks target Chase Bank customers<a href="https://www.techrepublic.com/article/phishing-attacks-target-chase-bank-customers/#ftag=RSS56d97e7?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new report released Tuesday, security firm Armorblox revealed two recent phishing campaigns aimed at Chase Bank customers with an objective to steal their account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parents Should Take Action to Protect Children from Cyber-Risks<a href="https://www.infosecurity-magazine.com:443/news/parents-protect-children-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What are the cyber-risks facing children, and how can these be tackled by parents?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Pink Malware Can Auto-Reply to Multiple Messaging Apps<a href="https://cyware.com/news/whatsapp-pink-malware-can-auto-reply-to-multiple-messaging-apps-873cb190"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of WhatsApp is making rounds. It claims to give you an enhanced version of WhatsApp with additional features but the truth is that this WhatsApp clone app is malicious.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Removes Apple Extortion Attempt from Site: Report<a href="https://www.infosecurity-magazine.com:443/news/revil-removes-apple-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mystery as ransomware group deletes all mention of scheme
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple iOS 14.5 Patches 50 Security Vulnerabilities<a href="https://www.securityweek.com/apple-ios-145-patches-50-security-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday shipped the long-awaited iOS and iPadOS 14.5 update with patches for at least 50 documented security vulnerabilities including a WebKit flaw exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Private Equity Giant Snaps Up Proofpoint for $12.3 billion<a href="https://www.infosecurity-magazine.com:443/news/private-equity-giant-buys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thoma Bravo will add the SaaS player to its large security portfolio
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Shares Email Addresses to Speed Emotet Cleanup<a href="https://www.inforisktoday.com/fbi-shares-email-addresses-to-speed-emotet-cleanup-a-16471?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has shared 4.3 million email addresses stolen by the Emotet malware with the Have I Been Pwned breach notification site in another effort to remediate the effects of the devastating botnet.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Group Threatens DC Cops with Informant Data Leak<a href="https://www.infosecurity-magazine.com:443/news/ransomware-group-dc-cops-informant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk is reportedly ready to share info with local gangs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Forces Students Into Remote Learning at Guilderland Central School District<a href="https://securityaffairs.co/wordpress/117281/cyber-crime/school-district-albany-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Guilderland Central School District near Albany was hit by a ransomware attack that forced students in grades 7 through 12 into all-remote learning on Monday, as confirmed by district officials.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Endpoint Management Firm Automox Raises $110 Million<a href="https://www.securityweek.com/endpoint-management-firm-automox-raises-110-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber hygiene and patch management company Automox on Tuesday announced raising $110 million in a Series C funding round that brings the total raised by the firm to more than $152 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New ICS Threat Activity Group: TALONITE<a href="https://www.dragos.com/blog/industry-news/new-ics-threat-activity-group-talonite/?&web_view=true"> Full Text</a>
 </p>
 <details>
