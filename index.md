@@ -34,6 +34,434 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate hackers phish for more victims with updated malware<a href="https://www.bleepingcomputer.com/news/security/passwordstate-hackers-phish-for-more-victims-with-updated-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the software company behind the Passwordstate enterprise password manager, is warning customers of ongoing phishing attacks targeting them with updated Moserpass malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secrets management and authentication platform Akeyless raises $14M<a href="https://venturebeat.com/2021/04/28/secrets-management-and-authentication-platform-akeyless-raises-14m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akeyless, a SaaS platform for authentication and digital access, has offices in New York and Tel Aviv and says the round will be put toward hiring and global expansion to grow its customer base.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Widely Abusing Excel 4.0 Macro to Distribute Malware<a href="https://thehackernews.com/2021/04/cybercriminals-widely-abusing-excel-40.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly adopting  Excel 4.0 documents  as an initial stage vector to distribute malware such as  ZLoader  and Quakbot, according to new research.  The findings come from an analysis of 160,000 Excel 4.0 documents between November 2020 and March 2021, out of which more than 90% were classified as malicious or suspicious.   "The biggest risk for the targeted companies and individuals is the fact that security solutions still have a lot of problems with detecting malicious Excel 4.0 documents, making most of these slip by conventional signature based detections and analyst written YARA rules," researchers from ReversingLabs said in a report  published today .   Excel 4.0 macros (XLM), the precursor to Visual Basic for Applications (VBA), is a legacy feature incorporated in Microsoft Excel for backward compatibility reasons. Microsoft warns in its  support document  that enabling all macros can cause "potentially dangerous code" to run.   The eve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 Nations Sign Declaration to Keep the Internet Safe and Open<a href="https://www.infosecurity-magazine.com:443/news/g7-declaration-internet-safe-open/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The declaration has come amid concerns about the influence of illiberal nations and big tech in cyberspace
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses a high severity flaw in V8 engine in Chrome<a href="https://securityaffairs.co/wordpress/117315/security/chrome-v8-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released updates for Chrome 90 that address a new serious issue, tracked as CVE-2021-21227, in the V8 JavaScript engine used by the web browser.
+
+
+
+Google has released security updates for Chrome 90 that address a new high severity vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud security tops among list of skills needed to pursue cyber career<a href="https://www.scmagazine.com/home/security-news/cloud-security/cloud-security-tops-among-list-of-skills-needed-to-pursue-cyber-career/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Problem solving and analytical thinking were among the most important soft skills named by cyber professionals.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chase Bank Phish Swims Past Exchange Email Protections<a href="https://threatpost.com/chase-bank-phish-sexchange-email-protections/165653/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two phishing attacks elude Exchange security protections and spoof real-life account scenarios in an attempt to fool victims.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies target military organizations with new Nebulae backdoor<a href="https://www.bleepingcomputer.com/news/security/cyberspies-target-military-organizations-with-new-nebulae-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor has deployed a new backdoor in multiple cyber-espionage operations spanning roughly two years and targeting military organizations from Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Analysis: FormBook New Variant Delivered in Phishing Campaign – Part III<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-formbook-new-variant-delivered-in-phishing-campaign-part-iii?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When FormBook starts in a target process, it loads an ntdll.dll module and then overrides its data with the deployed FormBook malware. This disguises FormBook as an ntdll.dll module when it runs.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 BIG-IP Found Vulnerable to Kerberos KDC Spoofing Vulnerability<a href="https://thehackernews.com/2021/04/f5-big-ip-found-vulnerable-to-kerberos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed a new bypass vulnerability in the Kerberos Key Distribution Center (KDC) security feature impacting F5 Big-IP application delivery services.  "The KDC Spoofing vulnerability allows an attacker to bypass the Kerberos authentication to Big-IP Access Policy Manager (APM), bypass security policies and gain unfettered access to sensitive workloads," Silverfort researchers Yaron Kassner and Rotem Zach said in a report. "In some cases this can be used to bypass authentication to the Big-IP admin console as well."  Coinciding with the public disclosure, F5 has released a patch to address the weakness.   Kerberos  is an authentication protocol that relies on a client-server model for mutual authentication and requires a trusted intermediary called Key Distribution Center ( KDC ) — a Kerberos Authentication Server (AS) or a Ticket Granting Server in this case — that acts as a repository of shared secret keys of all users as we
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#GartnerIAM: Pandemic Disruption Necessitates a Transformation in Identity Access Management<a href="https://www.infosecurity-magazine.com:443/news/gartner-pandemic-transformation-iam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IAM has to be radically altered in light of distributed workforces
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK rail network Merseyrail hit by ransomware gang<a href="https://securityaffairs.co/wordpress/117312/malware/merseyrail-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK rail network Merseyrail was hit by a cyberattack, ransomware operators breached the corporate email system to disclose the attack to employees and journalists.
+
+
+
+UK rail network Merseyrail, which operates rail services across Merseyside, announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK rail network Merseyrail likely hit by Lockbit ransomware<a href="https://www.bleepingcomputer.com/news/security/uk-rail-network-merseyrail-likely-hit-by-lockbit-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK rail network Merseyrail has confirmed a cyberattack after a ransomware gang used their email system to email employees and journalists about the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Analysis of VB6 P-Code Obfuscation<a href="https://decoded.avast.io/davidzimmer/vb6-p-code-obfuscation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the formats that has not seen common obfuscation has been the Visual Basic 6 P-Code byte streams. This is a proprietary opcode set, in a complex file format, with limited tooling available.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attention! FluBot Android Banking Malware Spreads Quickly Across Europe<a href="https://thehackernews.com/2021/04/attention-flubot-android-banking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attention, Android users! A banking malware capable of stealing sensitive information is "spreading rapidly" across Europe, with the U.S. likely to be the next target.  According to a new analysis by  Proofpoint , the threat actors behind FluBot (aka  Cabassous ) have branched out beyond Spain to target the U.K., Germany, Hungary, Italy, and Poland. The English-language campaign alone has been observed to make use of more than 700 unique domains, infecting about 7,000 devices in the U.K.  In addition, German and English-language SMS messages were found being sent to U.S. users from Europe, which Proofpoint suspects could be the result of malware propagating via contact lists stored on compromised phones. A concerted campaign aimed at the U.S. is yet to be detected.   FluBot, a nascent entry in the banking trojan landscape, began its operations late last year, with campaigns leveraging the malware infecting more than 60,000 users in Spain, according to an analysis published b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Spending Doubles but Two-Fifths of Firms Suffer Breaches<a href="https://www.infosecurity-magazine.com:443/news/security-spending-doubles/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hiscox claims just a fifth of organizations are cyber “experts”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud misconfiguration, a major risk for cloud security<a href="https://securityaffairs.co/wordpress/117305/security/cloud-misconfiguration-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured cloud-based databases continue to cause data breaches, millions of database servers are currently exposed across cloud providers.
+
+
+
+Fugue’s new State of Cloud Security 2020 report reveals that misconfigured cloud-based databases continue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub disables Google FloC user tracking on its website<a href="https://www.bleepingcomputer.com/news/security/github-disables-google-floc-user-tracking-on-its-website/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has announced rolling out a mysterious HTTP header on all GitHub Pages sites to block Google FLoC tracking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedLine Stealer Masquerades as Telegram Installer<a href="https://blog.minerva-labs.com/redline-stealer-masquerades-as-telegram-installer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The .Net based malware has recently been disguised as an installer of the popular secure messaging app, Telegram. Like Most .Net malware, the fake setup file is packed and highly obfuscated.
+</details>
+<div style="text-align: right" markdown="1">
+Minerva Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average Ransom Surges 43% After Accellion Attacks<a href="https://www.infosecurity-magazine.com:443/news/average-ransom-surges-43-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coveware claims Clop group drove up cybercrime gains in Q1 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19, WFH prompts spike in cyberattacks against banks, insurers<a href="https://www.zdnet.com/article/covid-19-wfh-prompts-spike-in-cyberattacks-against-banks-insurers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The coronavirus pandemic and working from home (WFH) requirements are causing a "significant" spike in attacks against financial entities, new research by BAE Systems Applied Intelligence suggests.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#COVID19 Rattles Banks and Insurers as Security Budgets Are Slashed<a href="https://www.infosecurity-magazine.com:443/news/covid19-rattles-banks-insurers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financial firms and their customers suffer surge in attacks during 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Yet Another Serious V8 Vulnerability in Chrome<a href="https://www.securityweek.com/google-patches-yet-another-serious-v8-vulnerability-chrome?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2021-21227 and rated high severity, was reported to Google by researcher Gengming Liu from the Chinese cybersecurity firm Singular Security Lab.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian government's major IT shops to help others with cybersecurity<a href="https://www.zdnet.com/article/australian-governments-major-it-shops-to-help-others-with-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government is planning on establishing three 'Cyber Hub' pilots that will see departments such as Defence, Home Affairs, and Services Australia provide cyber services for other ones.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WickrMe Ransomware Targets SharePoint Servers to Infiltrate Corporate Networks<a href="https://therecord.media/ransomware-gang-targets-microsoft-sharepoint-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SharePoint now joins a list of network devices used as entry points by threat actors that also includes Citrix gateways, F5 BIG-IP load balancers, Microsoft Exchange email servers, and more.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DARPA moves forward in quest for zero-knowledge proofs for vulnerability disclosure<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/darpa-is-creating-zero-knowledge-proofs-for-vulnerability-disclosure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The effort could allow security researchers to publicly prove the existence of a vulnerability without also giving away their underlying research to attackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 27, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
