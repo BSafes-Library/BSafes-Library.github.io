@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Naikon APT group uses new Nebulae backdoor in attacks aimed at military orgs<a href="https://securityaffairs.co/wordpress/117321/apt/naikon-apt-nebulae-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT Naikon employed a new backdoor in multiple cyber-espionage operations targeting military organizations from Southeast Asia in the last 2 years.
+
+
+
+The Naikon APT group is a China-linked cyber espionage group that has been active...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office SharePoint Targeted With High-Risk Phish, Ransomware Attacks<a href="https://threatpost.com/sharepoint-phish-ransomware-attacks/165671/"> Full Text</a>
 </p>
 <details>
