@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DOJ building the guardrails for Microsoft Exchange-type malware takedowns<a href="https://www.scmagazine.com/home/security-news/malware/doj-building-the-guardrails-for-microsoft-exchange-type-malware-takedowns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Demers said the department would evaluate the Exchange operation to try to generalize future standards, and that such infiltration of private systems would not be a “tool of first resort.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Malware Increasingly Using TLS to Hide Communication<a href="https://cyware.com/news/malware-increasingly-using-tls-to-hide-communication-967dd85a"> Full Text</a>
 </p>
 <details>
