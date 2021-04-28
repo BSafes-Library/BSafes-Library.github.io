@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DevSecOps Company Sysdig Raises $188 Million at $1.19 Billion Valuation<a href="https://www.securityweek.com/devsecops-company-sysdig-raises-188-million-119-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round, which brings the total raised by the company to $394 million, was led by Premji Invest & Associates and Third Point Ventures, with participation from several other investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New stealthy Linux malware used to backdoor systems for years<a href="https://www.bleepingcomputer.com/news/security/new-stealthy-linux-malware-used-to-backdoor-systems-for-years/"> Full Text</a>
 </p>
 <details>
