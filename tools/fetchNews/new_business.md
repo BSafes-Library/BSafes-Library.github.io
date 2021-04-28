@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secrets management and authentication platform Akeyless raises $14M<a href="https://venturebeat.com/2021/04/28/secrets-management-and-authentication-platform-akeyless-raises-14m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akeyless, a SaaS platform for authentication and digital access, has offices in New York and Tel Aviv and says the round will be put toward hiring and global expansion to grow its customer base.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

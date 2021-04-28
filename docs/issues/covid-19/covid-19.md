@@ -8,6 +8,48 @@ nav_order: 900030
 
 ## Covid-19
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#GartnerIAM: Pandemic Disruption Necessitates a Transformation in Identity Access Management<a href="https://www.infosecurity-magazine.com:443/news/gartner-pandemic-transformation-iam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IAM has to be radically altered in light of distributed workforces
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19, WFH prompts spike in cyberattacks against banks, insurers<a href="https://www.zdnet.com/article/covid-19-wfh-prompts-spike-in-cyberattacks-against-banks-insurers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The coronavirus pandemic and working from home (WFH) requirements are causing a "significant" spike in attacks against financial entities, new research by BAE Systems Applied Intelligence suggests.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#COVID19 Rattles Banks and Insurers as Security Budgets Are Slashed<a href="https://www.infosecurity-magazine.com:443/news/covid19-rattles-banks-insurers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financial firms and their customers suffer surge in attacks during 2020
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

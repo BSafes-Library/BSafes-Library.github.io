@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses a high severity flaw in V8 engine in Chrome<a href="https://securityaffairs.co/wordpress/117315/security/chrome-v8-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released updates for Chrome 90 that address a new serious issue, tracked as CVE-2021-21227, in the V8 JavaScript engine used by the web browser.
+
+
+
+Google has released security updates for Chrome 90 that address a new high severity vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 BIG-IP Found Vulnerable to Kerberos KDC Spoofing Vulnerability<a href="https://thehackernews.com/2021/04/f5-big-ip-found-vulnerable-to-kerberos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed a new bypass vulnerability in the Kerberos Key Distribution Center (KDC) security feature impacting F5 Big-IP application delivery services.  "The KDC Spoofing vulnerability allows an attacker to bypass the Kerberos authentication to Big-IP Access Policy Manager (APM), bypass security policies and gain unfettered access to sensitive workloads," Silverfort researchers Yaron Kassner and Rotem Zach said in a report. "In some cases this can be used to bypass authentication to the Big-IP admin console as well."  Coinciding with the public disclosure, F5 has released a patch to address the weakness.   Kerberos &nbsp;is an authentication protocol that relies on a client-server model for mutual authentication and requires a trusted intermediary called Key Distribution Center ( KDC ) — a Kerberos Authentication Server (AS) or a Ticket Granting Server in this case — that acts as a repository of shared secret keys of all users as we
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Analysis of VB6 P-Code Obfuscation<a href="https://decoded.avast.io/davidzimmer/vb6-p-code-obfuscation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the formats that has not seen common obfuscation has been the Visual Basic 6 P-Code byte streams. This is a proprietary opcode set, in a complex file format, with limited tooling available.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud misconfiguration, a major risk for cloud security<a href="https://securityaffairs.co/wordpress/117305/security/cloud-misconfiguration-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured cloud-based databases continue to cause data breaches, millions of database servers are currently exposed across cloud providers.
+
+
+
+Fugue’s&nbsp;new State of Cloud Security 2020 report reveals that misconfigured cloud-based databases continue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Yet Another Serious V8 Vulnerability in Chrome<a href="https://www.securityweek.com/google-patches-yet-another-serious-v8-vulnerability-chrome?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2021-21227 and rated high severity, was reported to Google by researcher Gengming Liu from the Chinese cybersecurity firm Singular Security Lab.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

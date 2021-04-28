@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Gang Targets Washington D.C. Police<a href="https://threatpost.com/babuk-ransomware-washington-dc-police/165616/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaaS developers thumbed their noses at police, saying “We find 0 day before you.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qlocker Ransomware is Targeting QNAP Devices<a href="https://cyware.com/news/qlocker-ransomware-is-targeting-qnap-devices-cabd7697"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qlocker group was spotted using 7-Zip to move files on QNAP devices into password-protected archives. It generated about $260,000 within a week by remotely encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hit Guilderland Central School District near Albany<a href="https://securityaffairs.co/wordpress/117281/cyber-crime/school-district-albany-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials revealed that the school district near Albany was hit by a ransomware attack that forced students in grades 7 through 12 into all-remote learning on Monday.
+
+
+
+The Guilderland Central School District near Albany was hit by a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DC Police confirms cyberattack after ransomware gang leaks data<a href="https://www.bleepingcomputer.com/news/security/dc-police-confirms-cyberattack-after-ransomware-gang-leaks-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Metropolitan Police Department has confirmed that they suffered a cyberattack after the Babuk ransomware gang leaked screenshots of stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

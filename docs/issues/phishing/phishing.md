@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate hackers phish for more victims with updated malware<a href="https://www.bleepingcomputer.com/news/security/passwordstate-hackers-phish-for-more-victims-with-updated-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the software company behind the Passwordstate enterprise password manager, is warning customers of ongoing phishing attacks targeting them with updated Moserpass malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chase Bank Phish Swims Past Exchange Email Protections<a href="https://threatpost.com/chase-bank-phish-sexchange-email-protections/165653/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two phishing attacks elude Exchange security protections and spoof real-life account scenarios in an attempt to fool victims.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Analysis: FormBook New Variant Delivered in Phishing Campaign – Part III<a href="https://www.fortinet.com/blog/threat-research/deep-analysis-formbook-new-variant-delivered-in-phishing-campaign-part-iii?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When FormBook starts in a target process, it loads an ntdll.dll module and then overrides its data with the deployed FormBook malware. This disguises FormBook as an ntdll.dll module when it runs.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

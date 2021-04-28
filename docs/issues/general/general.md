@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud security tops among list of skills needed to pursue cyber career<a href="https://www.scmagazine.com/home/security-news/cloud-security/cloud-security-tops-among-list-of-skills-needed-to-pursue-cyber-career/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Problem solving and analytical thinking were among the most important soft skills named by cyber professionals.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

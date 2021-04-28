@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Widely Abusing Excel 4.0 Macro to Distribute Malware<a href="https://thehackernews.com/2021/04/cybercriminals-widely-abusing-excel-40.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly adopting&nbsp; Excel 4.0 documents &nbsp;as an initial stage vector to distribute malware such as&nbsp; ZLoader &nbsp;and Quakbot, according to new research.  The findings come from an analysis of 160,000 Excel 4.0 documents between November 2020 and March 2021, out of which more than 90% were classified as malicious or suspicious.   "The biggest risk for the targeted companies and individuals is the fact that security solutions still have a lot of problems with detecting malicious Excel 4.0 documents, making most of these slip by conventional signature based detections and analyst written YARA rules," researchers from ReversingLabs said in a report&nbsp; published today .   Excel 4.0 macros (XLM), the precursor to Visual Basic for Applications (VBA), is a legacy feature incorporated in Microsoft Excel for backward compatibility reasons. Microsoft warns in its&nbsp; support document &nbsp;that enabling all macros can cause "potentially dangerous code" to run.   The eve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

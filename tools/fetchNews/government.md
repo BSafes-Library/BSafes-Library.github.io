@@ -8,6 +8,84 @@ nav_order: 900075
 
 ## Government
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares with HIBP 4 million email addresses involved in Emotet attacks<a href="https://securityaffairs.co/wordpress/117294/malware/emotet-hibp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has shared with Have I Been Pwned service 4 million email addresses collected by Emotet botnet and employed in malware campaigns.
+
+
+
+Last week, European law enforcement has conducted an operation aimed at performing a mass-sanitization of computers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares 4 million email addresses used by Emotet with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/fbi-shares-4-million-email-addresses-used-by-emotet-with-have-i-been-pwned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of email addresses collected by Emotet botnet for malware distribution campaigns have been shared by the Federal Bureau of Investigation (FBI) as part of the agency's effort to clean infected computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, NIST published an advisory on supply chain attacks<a href="https://securityaffairs.co/wordpress/117286/hacking/cisa-nist-supply-chain-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and NIST published a report on software supply chain attacks that shed light on the associated risks and provide instructions on how to mitigate them.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Institute...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Shares Email Addresses to Speed Emotet Cleanup<a href="https://www.inforisktoday.com/fbi-shares-email-addresses-to-speed-emotet-cleanup-a-16471?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has shared 4.3 million email addresses stolen by the Emotet malware with the Have I Been Pwned breach notification site in another effort to remediate the effects of the devastating botnet.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA Uncover Tactics Employed by Russian Intelligence Hackers<a href="https://thehackernews.com/2021/04/fbi-cisa-uncover-tactics-employed-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), Department of Homeland Security (DHS), and the Federal Bureau of Investigation (FBI) on Monday published a new joint advisory as part of their latest attempts to expose the tactics, techniques, and procedures (TTPs) adopted by the Russian Foreign Intelligence Service (SVR) in its attacks targeting the U.S and foreign entities.  By employing "stealthy intrusion tradecraft within compromised networks," the intelligence agencies&nbsp; said , "the SVR activity—which includes the recent&nbsp; SolarWinds Orion supply chain compromise —primarily targets government networks, think tank and policy analysis organizations, and information technology companies and seeks to gather intelligence information."   The cyber actor is also being tracked under different monikers, including Advanced Persistent Threat 29 (APT29), the Dukes, CozyBear, and Yttrium. The development comes as the U.S. sanctioned Russia and&nbsp; formally pinn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

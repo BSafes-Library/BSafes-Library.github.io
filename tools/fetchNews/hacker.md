@@ -8,6 +8,76 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Threaten to Leak D.C. Police Informants' Info If Ransom Is Not Paid<a href="https://thehackernews.com/2021/04/hackers-threaten-to-leak-dc-police.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Metropolitan Police Department (MPD) of the District of Columbia has become the latest high-profile government agency to fall victim to a ransomware attack.  The Babuk Locker gang claimed in a post on the dark web that they had compromised the DC Police's networks and stolen 250 GB of unencrypted files. Screenshots shared by the group, and seen by The Hacker News, include various folders containing what appears to be investigation reports, arrests, disciplinary actions, and other intelligence briefings.  Also called the DC Police, the MPD is the primary law enforcement agency for the District of Columbia in the U.S.   The ransomware gang has given the department three days to heed to their ransom demand or risk leaking sensitive files that could expose police informants to criminal gangs.  "Hello! Even an institution such as DC can be threatened, we have downloaded a sufficient amount of information from your internal networks, and we advise you to contact us as soon as p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another SolarWinds lesson: Hackers are targeting Microsoft authentication servers<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/another-solarwinds-lesson-hackers-are-targeting-microsoft-authentication-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant Tuesday detailed a new attack strategy against Microsoft’s Active Directory Federation Services (AD FS). Researchers believe the need to protect AD FS might be the unheralded second lesson from the SolarWinds campaign.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit 0-Day Gatekeeper Flaw to Attack MacOS Computers<a href="https://thehackernews.com/2021/04/hackers-exploit-0-day-gatekeeper-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security is only as strong as the weakest link. As further proof of this, Apple released an update to macOS operating systems to address an actively exploited zero-day vulnerability that could circumvent all security protections, thus permitting unapproved software to run on Macs.  The macOS flaw, identified as&nbsp; CVE-2021-30657 , was discovered and reported to Apple by security engineer Cedric Owens on March 25, 2021.  "An unsigned, unnotarized, script-based proof of concept application [...] could trivially and reliably sidestep all of macOS's relevant security mechanisms (File Quarantine, Gatekeeper, and Notarization Requirements), even on a fully patched M1 macOS system," security researcher Patrick Wardle&nbsp; explained &nbsp;in a write-up. "Armed with such a capability macOS malware authors could (and are) returning to their proven methods of targeting and infecting macOS users."   Apple's macOS comes with a feature called&nbsp; Gatekeeper , which allows only&nbsp; truste
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Removes Apple Extortion Attempt from Site: Report<a href="https://www.infosecurity-magazine.com:443/news/revil-removes-apple-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mystery as ransomware group deletes all mention of scheme
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Group Threatens DC Cops with Informant Data Leak<a href="https://www.infosecurity-magazine.com:443/news/ransomware-group-dc-cops-informant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk is reportedly ready to share info with local gangs
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

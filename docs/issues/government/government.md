@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 Nations Sign Declaration to Keep the Internet Safe and Open<a href="https://www.infosecurity-magazine.com:443/news/g7-declaration-internet-safe-open/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The declaration has come amid concerns about the influence of illiberal nations and big tech in cyberspace
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies target military organizations with new Nebulae backdoor<a href="https://www.bleepingcomputer.com/news/security/cyberspies-target-military-organizations-with-new-nebulae-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor has deployed a new backdoor in multiple cyber-espionage operations spanning roughly two years and targeting military organizations from&nbsp;Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian government's major IT shops to help others with cybersecurity<a href="https://www.zdnet.com/article/australian-governments-major-it-shops-to-help-others-with-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government is planning on establishing three 'Cyber Hub' pilots that will see departments such as Defence, Home Affairs, and Services Australia provide cyber services for other ones.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DARPA moves forward in quest for zero-knowledge proofs for vulnerability disclosure<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/darpa-is-creating-zero-knowledge-proofs-for-vulnerability-disclosure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The effort could allow security researchers to publicly prove the existence of a vulnerability without also giving away their underlying research to attackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HashiCorp reveals exposure of private code-signing key after Codecov compromise<a href="https://www.theregister.com/2021/04/26/hashicorp_reveals_exposure_of_private/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HashiCorp, a software company making automated cloud deployment tools, has revealed a private code-signing key was exposed thanks to the compromised Codecov script discovered earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MangaDex discloses data breach after stolen database shared online<a href="https://www.bleepingcomputer.com/news/security/mangadex-discloses-data-breach-after-stolen-database-shared-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manga scanlation site MangaDex disclosed a data breach last week after learning that the site's user database was privately circulating among threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Music Marketplace Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/online-music-marketplace-suffers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher finds millions of Reverb.com records on unprotected server
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
