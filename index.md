@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Click Studios says stop tweeting: Phishers track breach notification info to craft new lures<a href="https://www.scmagazine.com/home/security-news/phishing/click-studios-says-stop-tweeting-phishers-track-breach-notification-info-to-craft-new-lures/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are often pilloried in the wake of data breaches for lacking transparency or leaving their users in the dark about potential impact. This incident demonstrates the flip side of that coin, how information or communications from a company following a breach can be weaponized by bad actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DigitalOcean data breach exposes customer billing information<a href="https://www.bleepingcomputer.com/news/security/digitalocean-data-breach-exposes-customer-billing-information/"> Full Text</a>
 </p>
 <details>
