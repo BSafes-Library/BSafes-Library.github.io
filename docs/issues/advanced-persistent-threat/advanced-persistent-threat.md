@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An APT Group Exploits VPN to Deploy Supernova on SolarWinds Orion<a href="https://cyware.com/news/an-apt-group-exploits-vpn-to-deploy-supernova-on-solarwinds-orion-d39436c1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has disclosed details of a new APT that leverages the Supernova backdoor to compromise SolarWinds Orion installations after gaining access to the network through a VPN service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

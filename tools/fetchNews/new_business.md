@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cigent gets $7.6 million to reimagine data protection at the file level<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/cigent-gets-7-6-million-to-reimagine-data-protection-at-the-file-level/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity startup is being backed by In-Q-Tel and other investors to bring their data defense technologies to the commercial market.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Private Equity Giant Snaps Up Proofpoint for $12.3 billion<a href="https://www.infosecurity-magazine.com:443/news/private-equity-giant-buys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thoma Bravo will add the SaaS player to its large security portfolio
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Endpoint Management Firm Automox Raises $110 Million<a href="https://www.securityweek.com/endpoint-management-firm-automox-raises-110-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber hygiene and patch management company Automox on Tuesday announced raising $110 million in a Series C funding round that brings the total raised by the firm to more than $152 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network security company Proofpoint goes private in $12.3B deal<a href="https://venturebeat.com/2021/04/26/network-security-company-proofpoint-goes-private-in-12-3b-deal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private equity firm Thoma Bravo has announced plans to acquire cybersecurity company Proofpoint, which was founded in 2002 and went public in 2012, in a deal worth $12.3 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

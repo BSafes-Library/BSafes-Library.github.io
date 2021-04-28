@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kik Tip Leads to Kindergarten Teacher’s Arrest<a href="https://www.infosecurity-magazine.com:443/news/kik-tip-leads-to-kindergarten/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-tip about child sexual abuse material sharing leads to arrest of Indiana teacher
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate Intelligence panel working on legislation around mandatory cyber breach notification<a href="https://thehill.com//policy/cybersecurity/550543-senate-intelligence-panel-working-on-legislation-around-mandatory-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Intelligence Committee is working on a bill to create some form of limited data breach mandatory reporting for the private sector, with the goal&nbsp;of preventing future major foreign cyberattacks on critical organizations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian man sentenced for running stolen subscription credential service<a href="https://www.zdnet.com/article/australian-man-sentenced-for-running-stolen-subscription-credential-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation into stolen subscription service credentials by the Australian Federal Police (AFP) has resulted in a two years and two months' sentence for a man from Sydney.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Forces Students Into Remote Learning at Guilderland Central School District<a href="https://securityaffairs.co/wordpress/117281/cyber-crime/school-district-albany-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Guilderland Central School District near Albany was hit by a ransomware attack that forced students in grades 7 through 12 into all-remote learning on Monday, as confirmed by district officials.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

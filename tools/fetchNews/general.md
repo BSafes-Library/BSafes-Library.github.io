@@ -11,6 +11,48 @@ nav_order: 900072
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: New cyber budget request | Apple rolls out anticipated privacy update | And gets a new antitrust challenge<a href="https://thehill.com//policy/technology/overnights/550357-hillicon-valley-new-cyber-budget-request-apple-rolls-out"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy Monday! A bipartisan group of representatives think a key cybersecurity agency is in need of more funding after responses to SolarWinds and new Microsoft vulnerabilities. Also, Apple rolled out its long awaited privacy feature, which&nbsp;has already received significant criticism from Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22% of all users still run Microsoft end-of-life Windows 7<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/22-of-all-users-still-run-microsoft-end-of-life-windows-7/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft stopped supporting Windows 7 in January 2020, meaning users don’t get software updates and are more susceptible to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In the Wake of SolarWinds, the U.S. Must Grapple With the Future and Not Just the Past<a href="https://www.lawfareblog.com/wake-solarwinds-us-must-grapple-future-and-not-just-past"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given the wide range of strategic and tactical benefits for Russia, a cyber operation with SolarWinds’ scale and sophistication should never be understood as “just espionage.”
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 E-commerce Fraud to Exceed $20 Billion in 2021<a href="https://www.infosecurity-magazine.com:443/news/ecommerce-fraud-to-exceed-20/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals evolving their tactics to exploit collective human interest<a href="https://www.helpnetsecurity.com/2021/04/26/cybercriminals-evolving-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing activity increased significantly in the first few months of 2020, taking advantage of pandemic-induced product shortages and increased usage of streaming services, OpenText reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

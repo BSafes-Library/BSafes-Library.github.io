@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flubot Spyware Spreading Through Android Devices<a href="https://threatpost.com/flubot-spyware-android-devices/165607/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is spreading rapidly through ‘missed package delivery’ SMS texts, prompting urgent scam warnings from mobile carriers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Impersonate Chase Bank<a href="https://www.infosecurity-magazine.com:443/news/threat-actors-impersonate-chase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminals launch credential phishing attacks targeting Chase bank customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks target Chase Bank customers<a href="https://www.techrepublic.com/article/phishing-attacks-target-chase-bank-customers/#ftag=RSS56d97e7?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new report released Tuesday, security firm Armorblox revealed two recent phishing campaigns aimed at Chase Bank customers with an objective to steal their account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

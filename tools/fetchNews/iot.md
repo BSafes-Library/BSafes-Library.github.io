@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Devices Under Constant Cyber Threat<a href="https://cyware.com/news/iot-devices-under-constant-cyber-threat-354ce050"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of recent attacks on IoT devices implies bigger security risks that hover over them. It is even more concerning for consumers as they are unaware of threats and do not own the resources to mitigate them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

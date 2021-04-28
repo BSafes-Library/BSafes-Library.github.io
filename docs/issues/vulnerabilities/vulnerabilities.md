@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SharePoint vulnerability and China Chopper web shell used in ransomware attacks<a href="https://www.scmagazine.com/home/security-news/ransomware/microsoft-sharepoint-vulnerability-and-china-chopper-web-shell-used-in-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that to ignite a ransomware payload, the attackers abuse a Cobalt Strike beacon. The researchers believe the China Chopper web shell was used in a likely attempt to circumvent detection with known samples.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple iOS 14.5 Patches 50 Security Vulnerabilities<a href="https://www.securityweek.com/apple-ios-145-patches-50-security-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday shipped the long-awaited iOS and iPadOS 14.5 update with patches for at least 50 documented security vulnerabilities including a WebKit flaw exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

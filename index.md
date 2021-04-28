@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge to add automatic HTTPS option for all domains<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-to-add-automatic-https-option-for-all-domains/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An APT Group Exploits VPN to Deploy Supernova on SolarWinds Orion<a href="https://cyware.com/news/an-apt-group-exploits-vpn-to-deploy-supernova-on-solarwinds-orion-d39436c1"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Acting FTC chair urges Congress to revive agency authority after Supreme Court ruling | Senate Intel panel working on breach notification bill<a href="https://thehill.com//policy/technology/overnights/550592-hillicon-valley-acting-ftc-chair-urges-congress-to-revive-agency"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Threaten to Leak D.C. Police Informants' Info If Ransom Is Not Paid<a href="https://thehackernews.com/2021/04/hackers-threaten-to-leak-dc-police.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kik Tip Leads to Kindergarten Teacher’s Arrest<a href="https://www.infosecurity-magazine.com:443/news/kik-tip-leads-to-kindergarten/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI shares with HIBP 4 million email addresses involved in Emotet attacks<a href="https://securityaffairs.co/wordpress/117294/malware/emotet-hibp.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft SharePoint vulnerability and China Chopper web shell used in ransomware attacks<a href="https://www.scmagazine.com/home/security-news/ransomware/microsoft-sharepoint-vulnerability-and-china-chopper-web-shell-used-in-ransomware-attacks/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk Ransomware Gang Targets Washington D.C. Police<a href="https://threatpost.com/babuk-ransomware-washington-dc-police/165616/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI shares 4 million email addresses used by Emotet with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/fbi-shares-4-million-email-addresses-used-by-emotet-with-have-i-been-pwned/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HashiCorp reveals exposure of private code-signing key after Codecov compromise<a href="https://www.theregister.com/2021/04/26/hashicorp_reveals_exposure_of_private/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate Intelligence panel working on legislation around mandatory cyber breach notification<a href="https://thehill.com//policy/cybersecurity/550543-senate-intelligence-panel-working-on-legislation-around-mandatory-cyber"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Webinar: Understanding the 2020 MITRE ATT&CK Results<a href="https://thehackernews.com/2021/04/cybersecurity-webinar-understanding.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Impersonate Chase Bank<a href="https://www.infosecurity-magazine.com:443/news/threat-actors-impersonate-chase/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, NIST published an advisory on supply chain attacks<a href="https://securityaffairs.co/wordpress/117286/hacking/cisa-nist-supply-chain-attacks.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another SolarWinds lesson: Hackers are targeting Microsoft authentication servers<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/another-solarwinds-lesson-hackers-are-targeting-microsoft-authentication-servers/"> Full Text</a>
@@ -282,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MangaDex discloses data breach after stolen database shared online<a href="https://www.bleepingcomputer.com/news/security/mangadex-discloses-data-breach-after-stolen-database-shared-online/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qlocker Ransomware is Targeting QNAP Devices<a href="https://cyware.com/news/qlocker-ransomware-is-targeting-qnap-devices-cabd7697"> Full Text</a>
@@ -314,7 +314,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit 0-Day Gatekeeper Flaw to Attack MacOS Computers<a href="https://thehackernews.com/2021/04/hackers-exploit-0-day-gatekeeper-flaw.html"> Full Text</a>
@@ -330,7 +330,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Music Marketplace Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/online-music-marketplace-suffers/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware hit Guilderland Central School District near Albany<a href="https://securityaffairs.co/wordpress/117281/cyber-crime/school-district-albany-ransomware.html"> Full Text</a>
@@ -366,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cigent gets $7.6 million to reimagine data protection at the file level<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/cigent-gets-7-6-million-to-reimagine-data-protection-at-the-file-level/"> Full Text</a>
@@ -382,7 +382,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks target Chase Bank customers<a href="https://www.techrepublic.com/article/phishing-attacks-target-chase-bank-customers/#ftag=RSS56d97e7?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Parents Should Take Action to Protect Children from Cyber-Risks<a href="https://www.infosecurity-magazine.com:443/news/parents-protect-children-cyber/"> Full Text</a>
@@ -414,7 +414,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Pink Malware Can Auto-Reply to Multiple Messaging Apps<a href="https://cyware.com/news/whatsapp-pink-malware-can-auto-reply-to-multiple-messaging-apps-873cb190"> Full Text</a>
@@ -430,7 +430,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Removes Apple Extortion Attempt from Site: Report<a href="https://www.infosecurity-magazine.com:443/news/revil-removes-apple-extortion/"> Full Text</a>
@@ -446,7 +446,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple iOS 14.5 Patches 50 Security Vulnerabilities<a href="https://www.securityweek.com/apple-ios-145-patches-50-security-vulnerabilities?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Private Equity Giant Snaps Up Proofpoint for $12.3 billion<a href="https://www.infosecurity-magazine.com:443/news/private-equity-giant-buys/"> Full Text</a>
@@ -478,7 +478,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Shares Email Addresses to Speed Emotet Cleanup<a href="https://www.inforisktoday.com/fbi-shares-email-addresses-to-speed-emotet-cleanup-a-16471?&web_view=true"> Full Text</a>
@@ -494,7 +494,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Group Threatens DC Cops with Informant Data Leak<a href="https://www.infosecurity-magazine.com:443/news/ransomware-group-dc-cops-informant/"> Full Text</a>
@@ -510,7 +510,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Forces Students Into Remote Learning at Guilderland Central School District<a href="https://securityaffairs.co/wordpress/117281/cyber-crime/school-district-albany-ransomware.html?&web_view=true"> Full Text</a>
@@ -526,7 +526,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Endpoint Management Firm Automox Raises $110 Million<a href="https://www.securityweek.com/endpoint-management-firm-automox-raises-110-million?&web_view=true"> Full Text</a>
@@ -542,7 +542,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ICS Threat Activity Group: TALONITE<a href="https://www.dragos.com/blog/industry-news/new-ics-threat-activity-group-talonite/?&web_view=true"> Full Text</a>
@@ -558,7 +558,7 @@ Dragos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex Malware Returns In a New Global QuickBooks Malspam Campaign<a href="https://hotforsecurity.bitdefender.com/blog/dridex-malware-returns-in-a-new-global-quickbooks-malspam-campaign-25715.html?&web_view=true"> Full Text</a>
@@ -574,7 +574,7 @@ Bitdefender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI, CISA Uncover Tactics Employed by Russian Intelligence Hackers<a href="https://thehackernews.com/2021/04/fbi-cisa-uncover-tactics-employed-by.html"> Full Text</a>
@@ -590,7 +590,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian man sentenced for running stolen subscription credential service<a href="https://www.zdnet.com/article/australian-man-sentenced-for-running-stolen-subscription-credential-service/?&web_view=true"> Full Text</a>
@@ -606,7 +606,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender uses Intel TDT technology against crypto-mining malware<a href="https://securityaffairs.co/wordpress/117272/security/microsoft-defender-tdt.html"> Full Text</a>
@@ -626,7 +626,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Network security company Proofpoint goes private in $12.3B deal<a href="https://venturebeat.com/2021/04/26/network-security-company-proofpoint-goes-private-in-12-3b-deal/?&web_view=true"> Full Text</a>
@@ -642,7 +642,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2021
+April 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shlayer macOS malware abuses zero-day to bypass Gatekeeper feature<a href="https://securityaffairs.co/wordpress/117262/malware/shlayer-macos-zero-day.html"> Full Text</a>
@@ -662,7 +662,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Water utility CISO offers tips to stay secure as IT and OT converge<a href="https://www.scmagazine.com/home/security-news/iot/water-utility-ciso-offers-tips-to-stay-secure-as-it-and-ot-converge/"> Full Text</a>
@@ -678,7 +678,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Water utility CISO offers tips to stay secure as IT and OT converges<a href="https://www.scmagazine.com/home/security-news/iot/water-utility-ciso-offers-tips-to-stay-secure-as-it-and-ot-converges/"> Full Text</a>
@@ -694,7 +694,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2021
+April 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DC Police confirms cyberattack after ransomware gang leaks data<a href="https://www.bleepingcomputer.com/news/security/dc-police-confirms-cyberattack-after-ransomware-gang-leaks-data/"> Full Text</a>

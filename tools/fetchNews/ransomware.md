@@ -11,6 +11,48 @@ nav_order: 900180
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang now warns they will leak new Apple logos, iPad plans<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-warns-they-will-leak-new-apple-logos-ipad-plans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has mysteriously removed Apple's schematics from their data leak site after privately warning Quanta that they would leak drawings for the new iPad and new Apple logos.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Mysterious Tale of a Ransomware Cartel<a href="https://cyware.com/news/the-mysterious-tale-of-a-ransomware-cartel-0503ed27"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis suggests that four different ransomware groups formed a cartel to leak stolen data via their partners. What surprised the researchers most is the missing element of profit-sharing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+61% of organizations impacted by ransomware in 2020<a href="https://www.helpnetsecurity.com/2021/04/26/ransomware-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Mimecast survey, a full 79% of respondents indicated their companies had experienced a business disruption, financial loss, or other setbacks in 2020 due to a lack of cyber preparedness.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Targeted ransomware attacks grow 767%, India among top targets<a href="https://ciso.economictimes.indiatimes.com/news/targeted-ransomware-attacks-grow-767-india-among-top-targets/82251883?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Acting FTC chair urges Congress to revive agency authority after Supreme Court ruling | Senate Intel panel working on breach notification bill<a href="https://thehill.com//policy/technology/overnights/550592-hillicon-valley-acting-ftc-chair-urges-congress-to-revive-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acting Federal Trade Commision Chair Rebecca Kelly Slaughter was back on Capitol Hill Tuesday, urging Congressional action to revive the commission’s authority in light of a Supreme Court decision last week. Meanwhile, Senate Intelligence Committee Chairman Mark WarnerMark Robert WarnerDemocrats divided over GOP infrastructure offer Lawmakers react to guilty verdict in Chauvin murder trial: 'Our work is far from done' Manchin throws support behind union-backed PRO Act MORE (D-Va.) announced upcoming legislation from his committee around mandatory data breach notification, and two key senators hinted at renewed action to create federal standards on self-driving cars.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Webinar: Understanding the 2020 MITRE ATT&amp;CK Results<a href="https://thehackernews.com/2021/04/cybersecurity-webinar-understanding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The release of MITRE Engenuity's Carbanak+Fin7 ATT&amp;CK evaluations every year is a benchmark for the cybersecurity industry.  The organization's tests measure how well security vendors can detect and respond to threats and offers an independent metric for customers and security leaders to understand how well vendors perform on a variety of tasks.  However, for the uninitiated, the results can be hard to decipher and contextualize properly. Unlike many benchmarks that compare participants in a competitive manner, MITRE's framework evaluates companies exclusively on how they respond to the tests.  This means that customers must really know what they're looking for. A new webinar ( register here ) aims to provide some clarity on what to look for and how to interpret the results.&nbsp;  Cynet's new live webinar will dig a little deeper into the MITRE ATT&amp;CK evaluation. The company's research team will break down how the evaluations work, what the results mean, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parents Should Take Action to Protect Children from Cyber-Risks<a href="https://www.infosecurity-magazine.com:443/news/parents-protect-children-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What are the cyber-risks facing children, and how can these be tackled by parents?
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water utility CISO offers tips to stay secure as IT and OT converge<a href="https://www.scmagazine.com/home/security-news/iot/water-utility-ciso-offers-tips-to-stay-secure-as-it-and-ot-converge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kristin Sanders, chief information security officer for the Albuquerque Bernalillo County Water Utility Authority, revealed how New Mexico’s largest water and wastewater utility has been addressing the security challenge by leveraging a series of software solutions, sensors and internet-of-things technology.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water utility CISO offers tips to stay secure as IT and OT converges<a href="https://www.scmagazine.com/home/security-news/iot/water-utility-ciso-offers-tips-to-stay-secure-as-it-and-ot-converges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kristin Sanders, chief information security officer for the Albuquerque Bernalillo County Water Utility Authority, revealed how New Mexico’s largest water and wastewater utility has been addressing the security challenge by leveraging a series of software solutions, sensors and internet-of-things technology.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

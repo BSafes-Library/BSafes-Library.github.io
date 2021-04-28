@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge to add automatic HTTPS option for all domains<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-to-add-automatic-https-option-for-all-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Edge will automatically redirect users to a secure HTTPS connection when visiting websites using the HTTP protocol, starting with version 92, coming in late July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
