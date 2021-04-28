@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payment Demands Rose by 43% So Far in 2021<a href="https://www.cyberscoop.com/ransomware-extortion-demands-increasing-coveware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average demand for a digital extortion payment shot up in the first quarter of this year to $220,298, up 43% from the previous quarter, according to a quarterly report from Coveware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DevSecOps Company Sysdig Raises $188 Million at $1.19 Billion Valuation<a href="https://www.securityweek.com/devsecops-company-sysdig-raises-188-million-119-billion-valuation?&web_view=true"> Full Text</a>
 </p>
 <details>
