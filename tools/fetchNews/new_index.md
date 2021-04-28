@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMS phishing scam lures Rogers customers with outage refunds<a href="https://www.bleepingcomputer.com/news/security/sms-phishing-scam-lures-rogers-customers-with-outage-refunds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals target Rogers customers with a new SMS phishing campaign pretending to be refunds for last week's Canada-wide wireless outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alsid SAS Acquired by Tenable<a href="https://www.infosecurity-magazine.com:443/news/alsid-sas-acquired-by-tenable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tenable acquires Active Directory security firm and launches new solution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
