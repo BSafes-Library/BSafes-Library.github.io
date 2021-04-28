@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New stealthy Linux malware used to backdoor systems for years<a href="https://www.bleepingcomputer.com/news/security/new-stealthy-linux-malware-used-to-backdoor-systems-for-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered Linux malware with backdoor capabilities has flown under the radar for years, allowing attackers to harvest and exfiltrate sensitive information from compromised devices. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SMS phishing scam lures Rogers customers with outage refunds<a href="https://www.bleepingcomputer.com/news/security/sms-phishing-scam-lures-rogers-customers-with-outage-refunds/"> Full Text</a>
 </p>
 <details>
