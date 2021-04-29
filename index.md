@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+F5 Big-IP Vulnerable to Security-Bypass Bug<a href="https://threatpost.com/f5-big-ip-security-bypass/165735/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The KDC-spoofing flaw tracked as CVE-2021-23008 can be used to bypass Kerberos security and sign into the Big-IP Access Policy Manager or admin console.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Anti-Vaxxer Hijacks QR Codes at COVID-19 Check-In Sites<a href="https://threatpost.com/anti-vaxxer-hijacks-qr-codes-covid19/165701/"> Full Text</a>
 </p>
 <details>
