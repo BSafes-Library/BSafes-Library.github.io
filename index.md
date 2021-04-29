@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler app risks charges of selling out with Apple return | Justices hear First Amendment clash over cheerleader's Snapchat | Google pressed to conduct racial equity audit<a href="https://thehill.com//policy/technology/overnights/550815-hillicon-valley-parler-app-risks-charges-of-selling-out-with"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parler said it will be back in the Apple App Store this week with approved changes, but those updates may come with the risk of losing the platform’s base users over accusations of selling out to Big Tech and losing its pro-free speech model. Speaking of free speech, a high schooler’s Snapchat about failing to make the varsity cheerleading team is at the center of a crucial First Amendment Supreme Court case. And pressure is mounting for Google to take action in line with its public statements on race, with a civil rights organization calling on the company to conduct a racial equity audit. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can the Bytecode Alliance secure the supply chain with  WebAssembly?<a href="https://www.scmagazine.com/home/security-news/cloud-security/can-the-bytecode-alliance-secure-the-supply-chain-with-webassembly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bytecode Alliance, which counts Intel, Mozilla, Microsoft, and Fastly among its members, announced that it formed a non-profit organization to focus on promoting WebAssembly (WASM) and the WebAssembly System Interface (WASI) as emerging standards that can fix some of the inherent weaknesses in the way software gets developed.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce legislation to create civilian reserve program to fight hackers<a href="https://thehill.com//policy/cybersecurity/550802-lawmakers-introduce-legislation-to-create-civilian-reserve-program-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan lawmakers in the House and Senate on Wednesday rolled out legislation that would create a National Guard-style program to help defend critical systems against increasing cyberattacks from nation states and criminals. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers imitate Windows logo with HTML tables to slip through email gateways<a href="https://www.scmagazine.com/home/security-news/phishing/scammers-imitate-windows-logo-with-html-tables-to-slip-through-email-gateways/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security solutions featuring machine learning or computer vision should be able to identify the fake logo and sniff out the attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Click Studios says stop tweeting: Phishers track breach notification info to craft new lures<a href="https://www.scmagazine.com/home/security-news/phishing/click-studios-says-stop-tweeting-phishers-track-breach-notification-info-to-craft-new-lures/"> Full Text</a>
 </p>
 <details>
