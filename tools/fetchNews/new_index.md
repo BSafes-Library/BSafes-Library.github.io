@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New ransomware group uses SonicWall zero-day to breach networks<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-group-uses-sonicwall-zero-day-to-breach-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor exploited a zero-day bug in Sonicwall SMA 100 Series VPN appliances to deploy new ransomware known as FiveHands on the networks of North American and European targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Command injection flaw in PHP Composer allowed supply-chain attacks<a href="https://securityaffairs.co/wordpress/117366/security/php-composer-flaw.html"> Full Text</a>
 </p>
 <details>
