@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds critical code execution bugs in IoT, OT devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-critical-code-execution-bugs-in-iot-ot-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft security researchers have discovered over two dozen critical remote code execution (RCE) vulnerabilities in Internet of Things (IoT) devices and Operational Technology (OT) industrial systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Coalition unveils plan to help government, industry confront ransomware attacks | Labor secretary backs employee status for some gig workers | Joe Rogan clarifies vaccine comments: 'I'm not an anti-vax person'<a href="https://thehill.com//policy/technology/overnights/551067-hillicon-valley-coalition-unveils-plan-to-help-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts unveiled a plan Thursday to combat ransomware attacks, amid a spike this year targeting hospitals and schools. Labor Secretary Marty WalshMarty WalshOSHA sends draft emergency temporary standard for COVID-19 to OMB review Koch groups call on administration to release all temporary worker visas Biden's policies are already hurting workers — and there's more hurt coming MORE weighed in on the debate over the classification of gig workers, and popular Spotify podcast host Joe Rogan clarified his controversial comments that young, healthy people don't need a COVID-19 vaccine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group targeted SonicWall vulnerability pre-patch<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-group-targeting-sonicwall-vulnerability-pre-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group caught targeting a recently patched SonicWall vulnerability leveraged that vulnerability before the patch became available, Mandiant reported Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New ransomware group uses SonicWall zero-day to breach networks<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-group-uses-sonicwall-zero-day-to-breach-networks/"> Full Text</a>
 </p>
 <details>
