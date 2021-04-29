@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Gang Mulls Retirement<a href="https://threatpost.com/babuk-ransomware-gang-mulls-retirement/165742/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaaS operators have been posting, tweaking and taking down a goodbye note, saying that they’ll be open-sourcing their data encryption malware for other crooks to use. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of AgeLocker ransomware attacks on NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-agelocker-ransomware-attacks-on-nas-devices/"> Full Text</a>
 </p>
 <details>
