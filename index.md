@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experian API Leaks Most Americans’ Credit Scores<a href="https://threatpost.com/experian-api-leaks-american-credit-scores/165731/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers fear wider exposure, amidst a tepid response from Experian.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP finds evidence of AgeLocker ransomware activity in the wild<a href="https://www.bleepingcomputer.com/news/security/qnap-finds-evidence-of-agelocker-ransomware-activity-in-the-wild/"> Full Text</a>
 </p>
 <details>
