@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whistler resort municipality hit by new ransomware operation<a href="https://www.bleepingcomputer.com/news/security/whistler-resort-municipality-hit-by-new-ransomware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Whistler municipality in British Columbia, Canada, has suffered a cyberattack at the hands of a new ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture acquires French cybersecurity firm Openminded<a href="https://www.zdnet.com/article/accenture-acquires-french-cybersecurity-firm-openminded/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Openminded provides cybersecurity services including management, consultancy, and cloud & infrastructure solutions with a focus on risk analysis, remediation, and regulatory compliance.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran updates budget to allocate $71.4 million to 'cyberspace' operations<a href="https://therecord.media/iran-updates-budget-to-allocate-71-4-million-to-cyberspace-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tehran government has updated its national budget to allocate an extra $71.4 million for the cyberspace programs of two government-controlled organizations, IRIB and IDO.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
