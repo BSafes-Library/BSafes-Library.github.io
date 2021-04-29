@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Anti-Vaxxer Hijacks QR Codes at COVID-19 Check-In Sites<a href="https://threatpost.com/anti-vaxxer-hijacks-qr-codes-covid19/165701/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The perp faces jail time, but the incident highlights the growing cyber-abuse of QR codes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer Gang Leaks Files from Illinois AG After Ransom Negotiations Break Down<a href="https://threatpost.com/doppelpaymer-leaks-illinois-ag/165694/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information stolen in April 10 ransomware attack was posted on a dark web portal and includes private documents not published as part of public records.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Experian API Leaks Most Americans’ Credit Scores<a href="https://threatpost.com/experian-api-leaks-american-credit-scores/165731/"> Full Text</a>
 </p>
 <details>
