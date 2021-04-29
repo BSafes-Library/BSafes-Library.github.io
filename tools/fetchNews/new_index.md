@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang Babuk claims DC’s Metropolitan Police was last caper – then goes dark<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-gang-babuk-claims-dcs-metropolitan-police-was-last-caper-then-goes-dark/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move was a surprising one after infiltrating such a high-value target, leaving some security experts skeptical that the group won’t reemerge anew.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 F5 Big-IP Vulnerable to Security-Bypass Bug<a href="https://threatpost.com/f5-big-ip-security-bypass/165735/"> Full Text</a>
 </p>
 <details>
