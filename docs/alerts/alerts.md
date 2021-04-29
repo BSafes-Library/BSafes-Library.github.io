@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2021 - FBI, DHS, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI-DHS-CISA Joint Advisory on Russian Foreign Intelligence Service Cyber Operations <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/04/26/fbi-dhs-cisa-joint-advisory-russian-foreign-intelligence-service"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), Department of Homeland Security, and CISA have released a Joint Cybersecurity Advisory (CSA) addressing Russian Foreign Intelligence Service (SVR) cyber actors—also known as Advanced Persistent Threat 29 (APT 29), the Dukes, CozyBear, and Yttrium—continued targeting of U.S and foreign entities. The SVR activity—which includes the recent SolarWinds Orion supply chain compromise—primarily targets government networks, think tank and policy analysis organizations, and information technology companies and seeks to gather intelligence information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 22, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

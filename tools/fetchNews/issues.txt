@@ -29,8 +29,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://securityaffairs.co/wordpress/117286/hacking/cisa-nist-supply-chain-attacks.html
-. https://thehackernews.com/2021/04/fbi-cisa-uncover-tactics-employed-by.html
 
 Law:
 . https://www.scmagazine.com/home/security-news/malware/doj-building-the-guardrails-for-microsoft-exchange-type-malware-takedowns/
