@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+With Recent Law Enforcement Actions, Emotet’s Days are Now Over<a href="https://cyware.com/news/with-recent-law-enforcement-actions-emotets-days-are-now-over-712f15c5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol claimed to wipe Emotet infection from hundreds of servers globally. The FBI, meanwhile, handed over 4.3 million email addresses to the Have I Been Pwned site to help mitigate infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An alleged ransomware attack hit the Italian Banca di Credito Cooperativo causing chaos<a href="https://securityaffairs.co/wordpress/117360/cyber-crime/banca-di-credito-cooperativo-darkside-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banca di Credito Cooperativo (BCC), one of the largest Italian cooperative credit banks was hit by a ransomware attack. 
+
+
+
+Banca di Credito Cooperativo (BCC), one of the largest Italian cooperative credit banks, was hit by a cyberattack allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Actively Targeting the U.S. and Other Organizations<a href="https://cyware.com/news/russian-hackers-actively-targeting-the-us-and-other-organizations-6a394b7d"> Full Text</a>
 </p>
 <details>
