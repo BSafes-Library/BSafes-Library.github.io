@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security expert coalition shares actions to disrupt ransomware<a href="https://www.bleepingcomputer.com/news/security/security-expert-coalition-shares-actions-to-disrupt-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deepfakes Are Getting Closer to Reality<a href="https://www.trendmicro.com/en_us/research/21/d/deepfakes-are-getting-closer-to-reality.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden prepping cybersecurity executive order in response to SolarWinds attack<a href="https://thehill.com//policy/cybersecurity/550902-biden-prepping-cybersecurity-executive-order-in-response-to-solarwinds"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New PHP Composer Bug Could Enable Widespread Supply-Chain Attacks<a href="https://thehackernews.com/2021/04/a-new-php-composer-bug-could-enable.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Group Harvested Over 4.3 Million Victim Emails<a href="https://www.infosecurity-magazine.com:443/news/emotet-group-harvested-43-million/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Brokers and National Security<a href="https://www.lawfareblog.com/data-brokers-and-national-security"> Full Text</a>
@@ -130,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Purple Lambert, a new malware of CIA-linked Lambert APT group<a href="https://securityaffairs.co/wordpress/117340/apt/purple-lambert-cia-arsenal.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Task Force releases long-awaited recommendations<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-task-force-releases-long-awaited-recommendations/"> Full Text</a>
@@ -166,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SaaS Attacks: Lessons from Real-Life Misconfiguration Exploits<a href="https://threatpost.com/lessons-from-real-life-misconfiguration-exploitations/165659/"> Full Text</a>
@@ -182,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Sodinokibi Chronicles: A (R)Evil Cybercrime Gang Disrupting Organizations for Trade Secrets and Cash<a href="https://securityintelligence.com/posts/sodinokibi-revil-ransomware-disrupt-trade-secrets/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coalition unveils plan to help government, industry confront ransomware attacks<a href="https://thehill.com//policy/cybersecurity/550876-coalition-unveils-plan-to-help-government-industry-confront-ransomware"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LuckyMouse Hackers Target Banks, Companies and Governments in 2020<a href="https://thehackernews.com/2021/04/luckymouse-hackers-target-banks.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cancer Patients Diverted After Cyber-Attack on MedTech Firm<a href="https://www.infosecurity-magazine.com:443/news/cancer-patients-diverted-attack/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RotaJakiro Linux backdoor has flown under the radar since 2018<a href="https://securityaffairs.co/wordpress/117332/breaking-news/rotajakiro-linux-backdoor.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Detection Firm Vectra Raises $130 Million at $1.2 Billion Valuation<a href="https://www.securityweek.com/threat-detection-firm-vectra-raises-130-million-12-billion-valuation?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Conduct Vulnerability Assessments: An Essential Guide for 2021<a href="https://thehackernews.com/2021/04/how-to-conduct-vulnerability.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Horizon Bank Customers Have Account Funds Drained<a href="https://www.infosecurity-magazine.com:443/news/first-horizon-bank-customers/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lloyds Bank warning as Britons attacked by another text message scam<a href="https://www.express.co.uk/finance/personalfinance/1429524/Lloyds-Bank-scam-text-new-payee-confirmation-report-fraud-UK-2021?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Express
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Attacking Military Organizations With New Backdoor<a href="https://thehackernews.com/2021/04/chinese-hackers-attacking-military.html"> Full Text</a>
@@ -346,7 +346,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoppelPaymer Ransomware Gang Releases Court and Prisoner Files Stolen from Illinois Attorney General Office<a href="https://therecord.media/ransomware-gang-leaks-court-and-prisoner-files-from-illinois-attorney-general-office/?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Stealthy Linux Malware That Went Undetected for 3 Years<a href="https://thehackernews.com/2021/04/researchers-uncover-stealthy-linux.html"> Full Text</a>
@@ -378,7 +378,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Water Pamola Campaign Targeted E-Commerce Sites in Japan, Australia, and Europe via Malicious Orders<a href="https://www.trendmicro.com/en_us/research/21/d/water-pamola-attacked-online-shops-via-malicious-orders.html?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin scammers phish for wallet recovery codes on Twitter<a href="https://blog.malwarebytes.com/social-engineering/2021/04/bitcoin-scammers-phish-for-wallet-recovery-codes-on-twitter/?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2021
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Shameless WeSteal Commodity Cryptocurrency Stealer and WeControl Commodity RAT<a href="https://unit42.paloaltonetworks.com/westeal/?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome V8 Bug Allows Remote Code-Execution<a href="https://threatpost.com/google-chrome-v8-bug-remote-code-execution/165662/"> Full Text</a>
