@@ -11,6 +11,34 @@ nav_order: 900163
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DOJ building the guardrails for Microsoft Exchange-type malware takedowns<a href="https://www.scmagazine.com/home/security-news/malware/doj-building-the-guardrails-for-microsoft-exchange-type-malware-takedowns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Demers said the department would evaluate the Exchange operation to try to generalize future standards, and that such infiltration of private systems would not be a “tool of first resort.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Arrests Alleged Crypto Mixer<a href="https://www.infosecurity-magazine.com:443/news/us-arrests-alleged-crypto-mixer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Man suspected of laundering around $336m in Bitcoin via a crypto-mixing service is arrested
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GitHub disables Google FloC user tracking on its website<a href="https://www.bleepingcomputer.com/news/security/github-disables-google-floc-user-tracking-on-its-website/"> Full Text</a>
 </p>
 <details>

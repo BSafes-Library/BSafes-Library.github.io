@@ -11,6 +11,20 @@ nav_order: 900220
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office SharePoint Targeted With High-Risk Phish, Ransomware Attacks<a href="https://threatpost.com/sharepoint-phish-ransomware-attacks/165671/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SharePoint servers are being picked at with high-risk, legitimate-looking, branded phish messages and preyed on by a ransomware gang using an old  bug. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google addresses a high severity flaw in V8 engine in Chrome<a href="https://securityaffairs.co/wordpress/117315/security/chrome-v8-flaw.html"> Full Text</a>
 </p>
 <details>

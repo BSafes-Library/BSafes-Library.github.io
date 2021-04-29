@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub disables Google FloC user tracking on its website<a href="https://www.bleepingcomputer.com/news/security/github-disables-google-floc-user-tracking-on-its-website/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has&nbsp;announced&nbsp;rolling&nbsp;out a mysterious HTTP header on all GitHub Pages sites to block Google FLoC tracking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

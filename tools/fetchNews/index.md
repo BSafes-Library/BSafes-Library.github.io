@@ -34,7 +34,71 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler app risks charges of selling out with Apple return | Justices hear First Amendment clash over cheerleader's Snapchat | Google pressed to conduct racial equity audit<a href="https://thehill.com//policy/technology/overnights/550815-hillicon-valley-parler-app-risks-charges-of-selling-out-with"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parler said it will be back in the Apple App Store this week with approved changes, but those updates may come with the risk of losing the platform’s base users over accusations of selling out to Big Tech and losing its pro-free speech model. Speaking of free speech, a high schooler’s Snapchat about failing to make the varsity cheerleading team is at the center of a crucial First Amendment Supreme Court case. And pressure is mounting for Google to take action in line with its public statements on race, with a civil rights organization calling on the company to conduct a racial equity audit. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can the Bytecode Alliance secure the supply chain with  WebAssembly?<a href="https://www.scmagazine.com/home/security-news/cloud-security/can-the-bytecode-alliance-secure-the-supply-chain-with-webassembly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bytecode Alliance, which counts Intel, Mozilla, Microsoft, and Fastly among its members, announced that it formed a non-profit organization to focus on promoting WebAssembly (WASM) and the WebAssembly System Interface (WASI) as emerging standards that can fix some of the inherent weaknesses in the way software gets developed.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce legislation to create civilian reserve program to fight hackers<a href="https://thehill.com//policy/cybersecurity/550802-lawmakers-introduce-legislation-to-create-civilian-reserve-program-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan lawmakers in the House and Senate on Wednesday rolled out legislation that would create a National Guard-style program to help defend critical systems against increasing cyberattacks from nation states and criminals. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers imitate Windows logo with HTML tables to slip through email gateways<a href="https://www.scmagazine.com/home/security-news/phishing/scammers-imitate-windows-logo-with-html-tables-to-slip-through-email-gateways/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security solutions featuring machine learning or computer vision should be able to identify the fake logo and sniff out the attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Click Studios says stop tweeting: Phishers track breach notification info to craft new lures<a href="https://www.scmagazine.com/home/security-news/phishing/click-studios-says-stop-tweeting-phishers-track-breach-notification-info-to-craft-new-lures/"> Full Text</a>
@@ -50,7 +114,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DigitalOcean data breach exposes customer billing information<a href="https://www.bleepingcomputer.com/news/security/digitalocean-data-breach-exposes-customer-billing-information/"> Full Text</a>
@@ -66,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Naikon APT group uses new Nebulae backdoor in attacks aimed at military orgs<a href="https://securityaffairs.co/wordpress/117321/apt/naikon-apt-nebulae-backdoor.html"> Full Text</a>
@@ -86,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office SharePoint Targeted With High-Risk Phish, Ransomware Attacks<a href="https://threatpost.com/sharepoint-phish-ransomware-attacks/165671/"> Full Text</a>
@@ -102,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fourth time's a charm - OGUsers hacking forum hacked again<a href="https://www.bleepingcomputer.com/news/security/fourth-times-a-charm-ogusers-hacking-forum-hacked-again/"> Full Text</a>
@@ -118,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ building the guardrails for Microsoft Exchange-type malware takedowns<a href="https://www.scmagazine.com/home/security-news/malware/doj-building-the-guardrails-for-microsoft-exchange-type-malware-takedowns/"> Full Text</a>
@@ -134,7 +198,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Increasingly Using TLS to Hide Communication<a href="https://cyware.com/news/malware-increasingly-using-tls-to-hide-communication-967dd85a"> Full Text</a>
@@ -150,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Arrests Alleged Crypto Mixer<a href="https://www.infosecurity-magazine.com:443/news/us-arrests-alleged-crypto-mixer/"> Full Text</a>
@@ -166,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Ransomware Gang is Now Shorting Stock Price of its Victims<a href="https://cyware.com/news/a-ransomware-gang-is-now-shorting-stock-price-of-its-victims-21b852f8"> Full Text</a>
@@ -182,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sensitive source codes exposed in Microsoft Azure Blob account leak<a href="https://www.hackread.com/source-codes-microsoft-azure-blob-account-leak/?&web_view=true"> Full Text</a>
@@ -198,7 +262,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach Impacts 1 in 4 Wyomingites<a href="https://www.infosecurity-magazine.com:443/news/data-breach-impacts-1-in-4/"> Full Text</a>
@@ -214,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Payment Demands Rose by 43% So Far in 2021<a href="https://www.cyberscoop.com/ransomware-extortion-demands-increasing-coveware/?&web_view=true"> Full Text</a>
@@ -230,7 +294,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DevSecOps Company Sysdig Raises $188 Million at $1.19 Billion Valuation<a href="https://www.securityweek.com/devsecops-company-sysdig-raises-188-million-119-billion-valuation?&web_view=true"> Full Text</a>
@@ -246,7 +310,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New stealthy Linux malware used to backdoor systems for years<a href="https://www.bleepingcomputer.com/news/security/new-stealthy-linux-malware-used-to-backdoor-systems-for-years/"> Full Text</a>
@@ -262,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMS phishing scam lures Rogers customers with outage refunds<a href="https://www.bleepingcomputer.com/news/security/sms-phishing-scam-lures-rogers-customers-with-outage-refunds/"> Full Text</a>
@@ -278,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2021
+April 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alsid SAS Acquired by Tenable<a href="https://www.infosecurity-magazine.com:443/news/alsid-sas-acquired-by-tenable/"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can the Bytecode Alliance secure the supply chain with  WebAssembly?<a href="https://www.scmagazine.com/home/security-news/cloud-security/can-the-bytecode-alliance-secure-the-supply-chain-with-webassembly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bytecode Alliance, which counts Intel, Mozilla, Microsoft, and Fastly among its members, announced that it formed a non-profit organization to focus on promoting WebAssembly (WASM) and the WebAssembly System Interface (WASI) as emerging standards that can fix some of the inherent weaknesses in the way software gets developed.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

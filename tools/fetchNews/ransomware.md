@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK rail network Merseyrail hit by ransomware gang<a href="https://securityaffairs.co/wordpress/117312/malware/merseyrail-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK rail network Merseyrail was hit by a cyberattack, ransomware operators breached the corporate email system to disclose the attack to employees and journalists.
+
+
+
+UK rail network Merseyrail, which operates rail&nbsp;services across Merseyside, announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK rail network Merseyrail likely hit by Lockbit ransomware<a href="https://www.bleepingcomputer.com/news/security/uk-rail-network-merseyrail-likely-hit-by-lockbit-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK rail network Merseyrail has confirmed a cyberattack after a ransomware gang used their email system to email employees and journalists about the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average Ransom Surges 43% After Accellion Attacks<a href="https://www.infosecurity-magazine.com:443/news/average-ransom-surges-43-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coveware claims Clop group drove up cybercrime gains in Q1 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WickrMe Ransomware Targets SharePoint Servers to Infiltrate Corporate Networks<a href="https://therecord.media/ransomware-gang-targets-microsoft-sharepoint-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SharePoint now joins a list of network devices used as entry points by threat actors that also includes Citrix gateways, F5 BIG-IP load balancers, Microsoft Exchange email servers, and more.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

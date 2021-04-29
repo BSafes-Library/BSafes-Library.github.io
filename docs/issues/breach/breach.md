@@ -11,6 +11,34 @@ nav_order: 900029
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DigitalOcean data breach exposes customer billing information<a href="https://www.bleepingcomputer.com/news/security/digitalocean-data-breach-exposes-customer-billing-information/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud hosting provider DigitalOcean has disclosed a data breach after a flaw exposed customers' billing information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive source codes exposed in Microsoft Azure Blob account leak<a href="https://www.hackread.com/source-codes-microsoft-azure-blob-account-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data included files that appeared to originate from a series of pitches made to Microsoft Dynamics from numerous companies vying for a project or partnership with the company.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Security Spending Doubles but Two-Fifths of Firms Suffer Breaches<a href="https://www.infosecurity-magazine.com:443/news/security-spending-doubles/"> Full Text</a>
 </p>
 <details>

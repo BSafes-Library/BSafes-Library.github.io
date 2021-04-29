@@ -11,6 +11,48 @@ nav_order: 900160
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scammers imitate Windows logo with HTML tables to slip through email gateways<a href="https://www.scmagazine.com/home/security-news/phishing/scammers-imitate-windows-logo-with-html-tables-to-slip-through-email-gateways/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security solutions featuring machine learning or computer vision should be able to identify the fake logo and sniff out the attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Click Studios says stop tweeting: Phishers track breach notification info to craft new lures<a href="https://www.scmagazine.com/home/security-news/phishing/click-studios-says-stop-tweeting-phishers-track-breach-notification-info-to-craft-new-lures/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are often pilloried in the wake of data breaches for lacking transparency or leaving their users in the dark about potential impact. This incident demonstrates the flip side of that coin, how information or communications from a company following a breach can be weaponized by bad actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMS phishing scam lures Rogers customers with outage refunds<a href="https://www.bleepingcomputer.com/news/security/sms-phishing-scam-lures-rogers-customers-with-outage-refunds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals target Rogers customers with a new SMS phishing campaign pretending to be refunds for last week's Canada-wide wireless outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Passwordstate hackers phish for more victims with updated malware<a href="https://www.bleepingcomputer.com/news/security/passwordstate-hackers-phish-for-more-victims-with-updated-malware/"> Full Text</a>
 </p>
 <details>

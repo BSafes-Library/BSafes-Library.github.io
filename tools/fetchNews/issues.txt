@@ -33,6 +33,7 @@ Alerts:
 . https://thehackernews.com/2021/04/fbi-cisa-uncover-tactics-employed-by.html
 
 Law:
+. https://www.scmagazine.com/home/security-news/malware/doj-building-the-guardrails-for-microsoft-exchange-type-malware-takedowns/
 
 APT
 . APT27

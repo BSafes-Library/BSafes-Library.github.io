@@ -11,6 +11,34 @@ nav_order: 900072
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler app risks charges of selling out with Apple return | Justices hear First Amendment clash over cheerleader's Snapchat | Google pressed to conduct racial equity audit<a href="https://thehill.com//policy/technology/overnights/550815-hillicon-valley-parler-app-risks-charges-of-selling-out-with"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parler said it will be back in the Apple App Store this week with approved changes, but those updates may come with the risk of losing the platform’s base users over accusations of selling out to Big Tech and losing its pro-free speech model. Speaking of free speech, a high schooler’s Snapchat about failing to make the varsity cheerleading team is at the center of a crucial First Amendment Supreme Court case. And pressure is mounting for Google to take action in line with its public statements on race, with a civil rights organization calling on the company to conduct a racial equity audit.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Impacts 1 in 4 Wyomingites<a href="https://www.infosecurity-magazine.com:443/news/data-breach-impacts-1-in-4/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wyoming Department of Health exposes test results of more than a quarter of state residents on GitHub
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloud security tops among list of skills needed to pursue cyber career<a href="https://www.scmagazine.com/home/security-news/cloud-security/cloud-security-tops-among-list-of-skills-needed-to-pursue-cyber-career/"> Full Text</a>
 </p>
 <details>

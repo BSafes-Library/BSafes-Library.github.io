@@ -11,6 +11,20 @@ nav_order: 900180
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payment Demands Rose by 43% So Far in 2021<a href="https://www.cyberscoop.com/ransomware-extortion-demands-increasing-coveware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average demand for a digital extortion payment shot up in the first quarter of this year to $220,298, up 43% from the previous quarter, according to a quarterly report from Coveware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK rail network Merseyrail hit by ransomware gang<a href="https://securityaffairs.co/wordpress/117312/malware/merseyrail-lockbit-ransomware.html"> Full Text</a>
 </p>
 <details>

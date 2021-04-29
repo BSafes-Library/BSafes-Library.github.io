@@ -11,6 +11,20 @@ nav_order: 900031
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Ransomware Gang is Now Shorting Stock Price of its Victims<a href="https://cyware.com/news/a-ransomware-gang-is-now-shorting-stock-price-of-its-victims-21b852f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darkside group has advanced its extortion tactics to target companies that are listed on NASDAQ or other stock markets. However,&nbsp;the chances of this technique succeeding are narrow, say experts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Widely Abusing Excel 4.0 Macro to Distribute Malware<a href="https://thehackernews.com/2021/04/cybercriminals-widely-abusing-excel-40.html"> Full Text</a>
 </p>
 <details>
