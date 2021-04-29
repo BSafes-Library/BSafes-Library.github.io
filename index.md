@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experian API Exposed Credit Scores of Most Americans – Krebs on Security<a href="https://krebsonsecurity.com/2021/04/experian-api-exposed-credit-scores-of-most-americans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experian fixed a weakness with a partner website that let anyone look up the credit score of tens of millions of Americans just by supplying their name and mailing address, KrebsOnSecurity reported.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Northern Ireland Government Announces Partnership to Offer Cyber Career Opportunities<a href="https://www.infosecurity-magazine.com:443/news/northern-ireland-partnership-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Participants will be trained via Immersive Labs online platform
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An issue in the Linux Kernel could allow the hack of your system<a href="https://securityaffairs.co/wordpress/117354/security/linux-kernel-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An information disclosure issue in Linux Kernel allows KASLR bypass could be potentially exploited in attacks in the wild.
+
+
+
+An information disclosure flaw in the Linux kernel, tracked as CVE-2020-28588, could allow attackers to bypass the Kernel Address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 Results for 25% of Wyoming Accidentally Posted Online<a href="https://threatpost.com/covid-19-results-accidentally-exposed/165709/"> Full Text</a>
 </p>
 <details>
