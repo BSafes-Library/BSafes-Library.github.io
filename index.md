@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brazil's Rio Grande do Sul court system hit by REvil ransomware<a href="https://www.bleepingcomputer.com/news/security/brazils-rio-grande-do-sul-court-system-hit-by-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazil's Tribunal de Justiça do Estado do Rio Grande do Sul was hit with an REvil ransomware attack yesterday that encrypted employee's files and forced the courts to shut down their network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Babuk Ransomware Gang Mulls Retirement<a href="https://threatpost.com/babuk-ransomware-gang-mulls-retirement/165742/"> Full Text</a>
 </p>
 <details>
