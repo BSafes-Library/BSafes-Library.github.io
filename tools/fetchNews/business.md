@@ -11,6 +11,34 @@ nav_order: 900027
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DevSecOps Company Sysdig Raises $188 Million at $1.19 Billion Valuation<a href="https://www.securityweek.com/devsecops-company-sysdig-raises-188-million-119-billion-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round, which brings the total raised by the company to $394 million, was led by Premji Invest &amp; Associates and Third Point Ventures, with participation from several other investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alsid SAS Acquired by Tenable<a href="https://www.infosecurity-magazine.com:443/news/alsid-sas-acquired-by-tenable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tenable acquires Active Directory security firm and launches new solution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Secrets management and authentication platform Akeyless raises $14M<a href="https://venturebeat.com/2021/04/28/secrets-management-and-authentication-platform-akeyless-raises-14m/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

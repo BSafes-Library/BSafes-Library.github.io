@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lloyds Bank warning as Britons attacked by another text message scam<a href="https://www.express.co.uk/finance/personalfinance/1429524/Lloyds-Bank-scam-text-new-payee-confirmation-report-fraud-UK-2021?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminals are preying on Britons’ worries about their financial information being compromised, and money stolen. However, ironically, this is exactly what the fraudsters hope to accomplish.
+</details>
+<div style="text-align: right" markdown="1">
+Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin scammers phish for wallet recovery codes on Twitter<a href="https://blog.malwarebytes.com/social-engineering/2021/04/bitcoin-scammers-phish-for-wallet-recovery-codes-on-twitter/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam isn’t being spread by just one account, nor is there just one bogus support form. Multiple Twitter profiles lurk in the replies of anyone having a bad cryptocoin experience.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

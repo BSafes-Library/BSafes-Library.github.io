@@ -8,6 +8,62 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security expert coalition shares actions to disrupt ransomware<a href="https://www.bleepingcomputer.com/news/security/security-expert-coalition-shares-actions-to-disrupt-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomware Task Force, a public-party coalition of more than 50 experts, has shared a framework of actions to disrupt the ransomware business model.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Task Force releases long-awaited recommendations<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-task-force-releases-long-awaited-recommendations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 60 stakeholders contributed to a ransomware framework released Thursday morning, which advocates for nearly 50 interlocking government and private sector strategies to tackle the criminal scourge.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coalition unveils plan to help government, industry confront ransomware attacks<a href="https://thehill.com//policy/cybersecurity/550876-coalition-unveils-plan-to-help-government-industry-confront-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of experts on Thursday unveiled a road map for the federal government and industry to potentially use in combating ransomware attacks, which have spiked over the past year as hackers targeted organizations including hospitals and schools.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer Ransomware Gang Releases Court and Prisoner Files Stolen from Illinois Attorney General Office<a href="https://therecord.media/ransomware-gang-leaks-court-and-prisoner-files-from-illinois-attorney-general-office/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The files were published on a dark web portal managed by the DopplePaymer ransomware gang and also include personally identifiable information about state prisoners, their grievances, and cases.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LuckyMouse Hackers Target Banks, Companies and Governments in 2020<a href="https://thehackernews.com/2021/04/luckymouse-hackers-target-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An adversary known for its&nbsp; watering hole attacks &nbsp;against government entities has been linked to a slew of newly detected intrusions targeting various organizations in Central Asia and the Middle East.  The malicious activity, collectively named "EmissarySoldier," has been attributed to a threat actor called LuckyMouse, and is said to have happened in 2020 with the goal of obtaining geopolitical insights in the region. The attacks involved deploying a toolkit dubbed SysUpdate  (aka Soldier) in a number of breached organizations, including government and diplomatic agencies, telecom providers, a TV media company, and a commercial bank.   LuckyMouse , also referred to as APT27 and Emissary Panda, is a sophisticated cyberespionage group that has a history of breaching multiple government networks in Central Asia and the Middle East. The actor has also been linked to cyberattacks aimed at transnational organizations such as the International Civil Aviation Organization ( ICAO )
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

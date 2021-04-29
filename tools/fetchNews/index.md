@@ -34,6 +34,414 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security expert coalition shares actions to disrupt ransomware<a href="https://www.bleepingcomputer.com/news/security/security-expert-coalition-shares-actions-to-disrupt-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomware Task Force, a public-party coalition of more than 50 experts, has shared a framework of actions to disrupt the ransomware business model.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deepfakes Are Getting Closer to Reality<a href="https://www.trendmicro.com/en_us/research/21/d/deepfakes-are-getting-closer-to-reality.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several positive steps continue to be taken by organizations such as the European Union and the U.S. FTC to curb possible malicious uses and abuses of AI via new regulations.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden prepping cybersecurity executive order in response to SolarWinds attack<a href="https://thehill.com//policy/cybersecurity/550902-biden-prepping-cybersecurity-executive-order-in-response-to-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden is preparing a cybersecurity executive order focused on helping the country protect itself from future cyberattacks following the sophisticated SolarWinds hack that was discovered in December.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New PHP Composer Bug Could Enable Widespread Supply-Chain Attacks<a href="https://thehackernews.com/2021/04/a-new-php-composer-bug-could-enable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Composer, a package manager for PHP, have shipped an update to address a critical vulnerability that could have allowed an attacker to execute arbitrary commands and "backdoor every PHP package," resulting in a supply-chain attack.  Tracked as CVE-2021-29472, the security issue was discovered and reported on April 22 by researchers from  SonarSource , following which a hotfix was deployed less than 12 hours later.  "Fixed command injection vulnerability in HgDriver/HgDownloader and hardened other VCS drivers and downloaders," Composer  said  its  release notes  for versions 2.0.13 and 1.10.22 published on Wednesday. "To the best of our knowledge the vulnerability has not been exploited."   Composer  is billed as a tool for dependency management in PHP, enabling easy installation of packages relevant to a project. It also allows users to install PHP applications that are available on  Packagist , a repository that aggregates all public P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Group Harvested Over 4.3 Million Victim Emails<a href="https://www.infosecurity-magazine.com:443/news/emotet-group-harvested-43-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concerned users can now check with HaveIBeenPwned
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Brokers and National Security<a href="https://www.lawfareblog.com/data-brokers-and-national-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Policymakers have paid scant consideration to the national security implications of unfettered, largely unregulated data brokering. That may be changing.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Lambert, a new malware of CIA-linked Lambert APT group<a href="https://securityaffairs.co/wordpress/117340/apt/purple-lambert-cia-arsenal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Kaspersky discovered a new strain of malware that is believed to be part of the arsenal of theUS Central Intelligence Agency (CIA).
+
+
+
+Cybersecurity firm Kaspersky has discovered a new malware that experts attribute to the US Central...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Task Force releases long-awaited recommendations<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-task-force-releases-long-awaited-recommendations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 60 stakeholders contributed to a ransomware framework released Thursday morning, which advocates for nearly 50 interlocking government and private sector strategies to tackle the criminal scourge.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Attacks: Lessons from Real-Life Misconfiguration Exploits<a href="https://threatpost.com/lessons-from-real-life-misconfiguration-exploitations/165659/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a way to protect users from deceptive OAuth apps, misconfigurations and misappropriated user permissions. SaaS Security Posture Management (SSPM) takes an automated approach to tracking, and even remediating, the exploitable misconfigurations in organizations’ SaaS apps.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Sodinokibi Chronicles: A (R)Evil Cybercrime Gang Disrupting Organizations for Trade Secrets and Cash<a href="https://securityintelligence.com/posts/sodinokibi-revil-ransomware-disrupt-trade-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once Sodinokibi focuses on a potential victim, the attack goes into a more sophisticated operation by human actors who pave their way through the compromised networks to find data and exfiltrate it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coalition unveils plan to help government, industry confront ransomware attacks<a href="https://thehill.com//policy/cybersecurity/550876-coalition-unveils-plan-to-help-government-industry-confront-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of experts on Thursday unveiled a road map for the federal government and industry to potentially use in combating ransomware attacks, which have spiked over the past year as hackers targeted organizations including hospitals and schools. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LuckyMouse Hackers Target Banks, Companies and Governments in 2020<a href="https://thehackernews.com/2021/04/luckymouse-hackers-target-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An adversary known for its  watering hole attacks  against government entities has been linked to a slew of newly detected intrusions targeting various organizations in Central Asia and the Middle East.  The malicious activity, collectively named "EmissarySoldier," has been attributed to a threat actor called LuckyMouse, and is said to have happened in 2020 with the goal of obtaining geopolitical insights in the region. The attacks involved deploying a toolkit dubbed SysUpdate  (aka Soldier) in a number of breached organizations, including government and diplomatic agencies, telecom providers, a TV media company, and a commercial bank.   LuckyMouse , also referred to as APT27 and Emissary Panda, is a sophisticated cyberespionage group that has a history of breaching multiple government networks in Central Asia and the Middle East. The actor has also been linked to cyberattacks aimed at transnational organizations such as the International Civil Aviation Organization ( ICAO )
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cancer Patients Diverted After Cyber-Attack on MedTech Firm<a href="https://www.infosecurity-magazine.com:443/news/cancer-patients-diverted-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain attack caused disruption across the country
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RotaJakiro Linux backdoor has flown under the radar since 2018<a href="https://securityaffairs.co/wordpress/117332/breaking-news/rotajakiro-linux-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts recently uncovered a Linux backdoor, dubbed RotaJakiro, that has flown under the radar for many years while harvest and exfiltrate sensitive information from the victims. 
+
+
+
+RotaJakiro is a Linux backdoor recently discovered by researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Detection Firm Vectra Raises $130 Million at $1.2 Billion Valuation<a href="https://www.securityweek.com/threat-detection-firm-vectra-raises-130-million-12-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat detection and response solutions provider Vectra AI on Thursday announced that it has raised $130 million at a valuation of $1.2 billion, making the company the latest cybersecurity unicorn.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Conduct Vulnerability Assessments: An Essential Guide for 2021<a href="https://thehackernews.com/2021/04/how-to-conduct-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are scanning the internet for weaknesses all the time, and if you don't want your organization to fall victim, you need to be the first to find these weak spots. In other words, you have to adopt a proactive approach to managing your vulnerabilities, and a crucial first step in achieving this is performing a vulnerability assessment.  Read this guide to learn how to perform vulnerability assessments in your organization and stay ahead of the hackers.  Vulnerability assessment tools  Vulnerability assessments are automated processes performed by scanners. This makes them accessible to a wide audience. Many of the scanners are geared towards cybersecurity experts, but there are solutions tailored for IT managers and developers in organizations without dedicated security teams.   Vulnerability scanners come in various types: some excel at network scanning, others at web applications, IoT devices, or container security. If you're a small business, you're likely to find
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Horizon Bank Customers Have Account Funds Drained<a href="https://www.infosecurity-magazine.com:443/news/first-horizon-bank-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers stole less than $1 million after breaching internal security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lloyds Bank warning as Britons attacked by another text message scam<a href="https://www.express.co.uk/finance/personalfinance/1429524/Lloyds-Bank-scam-text-new-payee-confirmation-report-fraud-UK-2021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminals are preying on Britons’ worries about their financial information being compromised, and money stolen. However, ironically, this is exactly what the fraudsters hope to accomplish.
+</details>
+<div style="text-align: right" markdown="1">
+Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Attacking Military Organizations With New Backdoor<a href="https://thehackernews.com/2021/04/chinese-hackers-attacking-military.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad actors with suspected ties to China have been behind a wide-ranging cyberespionage campaign targeting military organizations in Southeast Asia for nearly two years, according to new research.  Attributing the attacks to a threat actor dubbed " Naikon APT ," cybersecurity firm Bitdefender laid out the ever-changing tactics, techniques, and procedures adopted by the group, including weaving new backdoors named "Nebulae" and "RainyDay" into their data-stealing missions. The malicious activity is said to have been conducted between June 2019 and March 2021.  "In the beginning of the operation the threat actors used Aria-Body loader and Nebulae as the first stage of the attack," the researchers  said . "Starting with September 2020, the threat actors included the RainyDay backdoor in their toolkit. The purpose of this operation was cyberespionage and data theft."   Naikon  (aka Override Panda, Lotus Panda, or Hellsing) has a track recor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer Ransomware Gang Releases Court and Prisoner Files Stolen from Illinois Attorney General Office<a href="https://therecord.media/ransomware-gang-leaks-court-and-prisoner-files-from-illinois-attorney-general-office/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The files were published on a dark web portal managed by the DopplePaymer ransomware gang and also include personally identifiable information about state prisoners, their grievances, and cases.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Stealthy Linux Malware That Went Undetected for 3 Years<a href="https://thehackernews.com/2021/04/researchers-uncover-stealthy-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Linux malware with backdoor capabilities has managed to stay under the radar for about three years, allowing the threat actor behind the operation to harvest and exfiltrate sensitive information from infected systems.  Dubbed " RotaJakiro " by researchers from Qihoo 360 NETLAB, the backdoor targets Linux X64 machines, and is so named after the fact that "the family uses rotate encryption and behaves differently for root/non-root accounts when executing."   The findings come from an analysis of a  malware sample  it detected on March 25, although early versions appear to have been uploaded to VirusTotal as early as May 2018. A  total  of  four   samples  have been found to date on the database, all of which remain undetected by most anti-malware engines. As of writing, only seven security vendors flag the latest version of the malware as malicious.   "At the functional level, RotaJakiro first determines whether the user is root or non-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Pamola Campaign Targeted E-Commerce Sites in Japan, Australia, and Europe via Malicious Orders<a href="https://www.trendmicro.com/en_us/research/21/d/water-pamola-attacked-online-shops-via-malicious-orders.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Water Pamola sent online shopping orders appended with a malicious XSS script to attack e-commerce administrators. These scripts were managed with an XSS attack framework called "XSS.ME."
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin scammers phish for wallet recovery codes on Twitter<a href="https://blog.malwarebytes.com/social-engineering/2021/04/bitcoin-scammers-phish-for-wallet-recovery-codes-on-twitter/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam isn’t being spread by just one account, nor is there just one bogus support form. Multiple Twitter profiles lurk in the replies of anyone having a bad cryptocoin experience.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Shameless WeSteal Commodity Cryptocurrency Stealer and WeControl Commodity RAT<a href="https://unit42.paloaltonetworks.com/westeal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The author of WeSteal, a new commodity cryptocurrency stealer, makes no attempt to disguise the intent for his malware. The seller promises “the leading way to make money in 2021”.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome V8 Bug Allows Remote Code-Execution<a href="https://threatpost.com/google-chrome-v8-bug-remote-code-execution/165662/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The internet behemoth rolled out the Chrome 90 stable channel release to address this and eight other security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Attacks: Lessons from Real-Life Misconfiguration Exploits<a href="https://threatpost.com/lessons-from-real-life-misconfiguration-exploitations/165659/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a way to protect users from deceptive OAuth apps, misconfigurations and misappropriated user permissions. SaaS Security Posture Management (SSPM) takes an automated approach to tracking, and even remediating, the exploitable misconfigurations in organizations’ SaaS apps.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

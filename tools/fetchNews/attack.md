@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fourth time's a charm - OGUsers hacking forum hacked again<a href="https://www.bleepingcomputer.com/news/security/fourth-times-a-charm-ogusers-hacking-forum-hacked-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular hacking forum OGUsers has been hacked for its fourth time in two years, with hackers now selling the site's database containing user records and private messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
