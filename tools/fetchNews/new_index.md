@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware readies 'shut down' post, plans to open source malware<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-readies-shut-down-post-plans-to-open-source-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After just a few months of activity, the operators of Babuk ransomware briefly posted a short message about their intention to quit the extortion business after having achieved their goal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flubot Spyware is Employing Smishing Attacks<a href="https://cyware.com/news/flubot-spyware-is-employing-smishing-attacks-87750bca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting Android phone users across the U.K via malicious text messages to steal banking information and credentials, and even lift passwords from devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ToxicEye RAT is Exploiting Telegram Platform<a href="https://cyware.com/news/toxiceye-rat-is-exploiting-telegram-platform-1167e7e2"> Full Text</a>
 </p>
 <details>
