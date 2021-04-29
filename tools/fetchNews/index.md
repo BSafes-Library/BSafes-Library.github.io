@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Several High-Severity Vulnerabilities Expose Cisco Firewalls to Remote Attacks<a href="https://www.securityweek.com/several-high-severity-vulnerabilities-expose-cisco-firewalls-remote-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-1448 and having a CVSS score of 7.8, the command injection bug is mitigated by the fact that authentication and local access are required for successful exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Accenture to Acquire Openminded<a href="https://www.infosecurity-magazine.com:443/news/accenture-to-acquire-openminded/"> Full Text</a>
 </p>
 <details>

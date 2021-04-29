@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ToxicEye RAT is Exploiting Telegram Platform<a href="https://cyware.com/news/toxiceye-rat-is-exploiting-telegram-platform-1167e7e2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private messaging app Telegram is being exploited by cyberattackers who are delivering a ToxicEye RAT to take control over a hacker-operated Telegram account and leak critical data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Asked to Increase Crypto Regulation<a href="https://www.infosecurity-magazine.com:443/news/white-house-asked-to-increase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Task force urges Biden to tackle ransomware attacks, disrupt cyber-criminals' safe havens, and regulate crypto more tightly
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Gov Task Force Plans to Take Down the Ransomware Economy<a href="https://threatpost.com/gov-task-force-ransomware-economy/165715/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of 60 global entities (including the DoJ) has proposed a sweeping plan to hunt down and disrupt ransomware gangs by going after their financial operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Several High-Severity Vulnerabilities Expose Cisco Firewalls to Remote Attacks<a href="https://www.securityweek.com/several-high-severity-vulnerabilities-expose-cisco-firewalls-remote-attacks?&web_view=true"> Full Text</a>
 </p>
 <details>
