@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US prosecutors fine German software company for violating sanctions against Iran<a href="https://thehill.com//policy/cybersecurity/551125-us-prosecutors-fine-german-software-company-for-violating-sanctions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal prosecutors have imposed a fine on a German software company for violating suctions against Iran. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill to increase US technology competitiveness against China<a href="https://thehill.com//policy/technology/551124-senators-introduce-bill-to-increase-us-technology-competitiveness-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Catherine Cortez Masto (D-Nev.) and Rob PortmanRobert (Rob) Jones PortmanThe Hill's Morning Report - Biden to country: 'Turning peril into possibility' Moderate Republicans leery of Biden's renewed call for unity Biden makes case for sweeping change MORE (R-Ohio) on Friday introduced a bill to improve U.S. competitiveness against China and other nations by strengthening the nation’s ability to set standards around emerging technologies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Middle market companies facing a record number of data breaches<a href="https://www.helpnetsecurity.com/2021/04/29/middle-market-data-breaches/?&web_view=true"> Full Text</a>
 </p>
 <details>
