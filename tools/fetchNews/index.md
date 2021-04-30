@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese state hackers target Russian submarine designer<a href="https://www.bleepingcomputer.com/news/security/suspected-chinese-state-hackers-target-russian-submarine-designer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers suspected to work for the Chinese government have used a new malware called PortDoor to infiltrate the systems of an engineering company that designs submarines for the Russian Navy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SEI CERT chief and first ever federal CISO: old cybersecurity models have ‘been overcome’<a href="https://www.scmagazine.com/home/security-news/network-security/new-sei-cert-chief-and-first-ever-federal-ciso-old-cybersecurity-models-have-been-overcome/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media caught up with Greg Touhill this week to learn what issues and projects he plans to prioritize in his role and how the old cybersecurity models we’ve relied on no longer work. In his words, “we need to change our game plan, because the traditional cybersecurity tactics, techniques and procedures that we’ve used for many years are no longer working the way we need them to be.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Saving World Health Day: UNICC and Group-IB take down scam campaign impersonating the World Health Organization<a href="https://securityaffairs.co/wordpress/117380/cyber-crime/saving-world-health-day-unicc-and-group-ib-take-down-scam-campaign-impersonating-the-world-health-organization.html"> Full Text</a>
 </p>
 <details>
