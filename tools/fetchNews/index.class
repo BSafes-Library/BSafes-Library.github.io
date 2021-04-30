@@ -37,6 +37,530 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brazil's Rio Grande do Sul court system hit by REvil ransomware<a href="https://www.bleepingcomputer.com/news/security/brazils-rio-grande-do-sul-court-system-hit-by-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazil's Tribunal de Justiça do Estado do Rio Grande do Sul was hit with an REvil ransomware attack yesterday that encrypted employee's files and forced the courts to shut down their network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Gang Mulls Retirement<a href="https://threatpost.com/babuk-ransomware-gang-mulls-retirement/165742/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaaS operators have been posting, tweaking and taking down a goodbye note, saying that they’ll be open-sourcing their data encryption malware for other crooks to use. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of AgeLocker ransomware attacks on NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-agelocker-ransomware-attacks-on-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP customers are once again urged to secure their Network Attached Storage (NAS) devices to defend against Agelocker ransomware attacks targeting their data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds critical code execution bugs in IoT, OT devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-critical-code-execution-bugs-in-iot-ot-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft security researchers have discovered over two dozen critical remote code execution (RCE) vulnerabilities in Internet of Things (IoT) devices and Operational Technology (OT) industrial systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Coalition unveils plan to help government, industry confront ransomware attacks | Labor secretary backs employee status for some gig workers | Joe Rogan clarifies vaccine comments: 'I'm not an anti-vax person'<a href="https://thehill.com//policy/technology/overnights/551067-hillicon-valley-coalition-unveils-plan-to-help-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts unveiled a plan Thursday to combat ransomware attacks, amid a spike this year targeting hospitals and schools. Labor Secretary Marty WalshMarty WalshOSHA sends draft emergency temporary standard for COVID-19 to OMB review Koch groups call on administration to release all temporary worker visas Biden's policies are already hurting workers — and there's more hurt coming MORE weighed in on the debate over the classification of gig workers, and popular Spotify podcast host Joe Rogan clarified his controversial comments that young, healthy people don't need a COVID-19 vaccine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group targeted SonicWall vulnerability pre-patch<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-group-targeting-sonicwall-vulnerability-pre-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group caught targeting a recently patched SonicWall vulnerability leveraged that vulnerability before the patch became available, Mandiant reported Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware group uses SonicWall zero-day to breach networks<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-group-uses-sonicwall-zero-day-to-breach-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor exploited a zero-day bug in Sonicwall SMA 100 Series VPN appliances to deploy new ransomware known as FiveHands on the networks of North American and European targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command injection flaw in PHP Composer allowed supply-chain attacks<a href="https://securityaffairs.co/wordpress/117366/security/php-composer-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the PHP Composer could have allowed an attacker to execute arbitrary commands and backdoor every PHP package.
+
+
+
+The maintainers of the PHP Composer package have addressed a critical vulnerability, tracked as CVE-2021-29472, that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang Babuk claims DC’s Metropolitan Police was last caper – then goes dark<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-gang-babuk-claims-dcs-metropolitan-police-was-last-caper-then-goes-dark/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move was a surprising one after infiltrating such a high-value target, leaving some security experts skeptical that the group won’t reemerge anew.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Big-IP Vulnerable to Security-Bypass Bug<a href="https://threatpost.com/f5-big-ip-security-bypass/165735/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The KDC-spoofing flaw tracked as CVE-2021-23008 can be used to bypass Kerberos security and sign into the Big-IP Access Policy Manager or admin console.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anti-Vaxxer Hijacks QR Codes at COVID-19 Check-In Sites<a href="https://threatpost.com/anti-vaxxer-hijacks-qr-codes-covid19/165701/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The perp faces jail time, but the incident highlights the growing cyber-abuse of QR codes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer Gang Leaks Files from Illinois AG After Ransom Negotiations Break Down<a href="https://threatpost.com/doppelpaymer-leaks-illinois-ag/165694/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information stolen in April 10 ransomware attack was posted on a dark web portal and includes private documents not published as part of public records.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian API Leaks Most Americans’ Credit Scores<a href="https://threatpost.com/experian-api-leaks-american-credit-scores/165731/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers fear wider exposure, amidst a tepid response from Experian.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP finds evidence of AgeLocker ransomware activity in the wild<a href="https://www.bleepingcomputer.com/news/security/qnap-finds-evidence-of-agelocker-ransomware-activity-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP customers are once again urged to secure their Network Attached Storage (NAS) devices following a massive Qlocker ransomware campaign earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With Recent Law Enforcement Actions, Emotet’s Days are Now Over<a href="https://cyware.com/news/with-recent-law-enforcement-actions-emotets-days-are-now-over-712f15c5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol claimed to wipe Emotet infection from hundreds of servers globally. The FBI, meanwhile, handed over 4.3 million email addresses to the Have I Been Pwned site to help mitigate infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An alleged ransomware attack hit the Italian Banca di Credito Cooperativo causing chaos<a href="https://securityaffairs.co/wordpress/117360/cyber-crime/banca-di-credito-cooperativo-darkside-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banca di Credito Cooperativo (BCC), one of the largest Italian cooperative credit banks was hit by a ransomware attack. 
+
+
+
+Banca di Credito Cooperativo (BCC), one of the largest Italian cooperative credit banks, was hit by a cyberattack allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Actively Targeting the U.S. and Other Organizations<a href="https://cyware.com/news/russian-hackers-actively-targeting-the-us-and-other-organizations-6a394b7d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, the DHS, and the CISA warned of coordinated attacks, in a joint alert, by the Russian Foreign Intelligence Service, aka APT29, against U.S. and foreign organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware readies 'shut down' post, plans to open source malware<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-readies-shut-down-post-plans-to-open-source-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After just a few months of activity, the operators of Babuk ransomware briefly posted a short message about their intention to quit the extortion business after having achieved their goal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flubot Spyware is Employing Smishing Attacks<a href="https://cyware.com/news/flubot-spyware-is-employing-smishing-attacks-87750bca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting Android phone users across the U.K via malicious text messages to steal banking information and credentials, and even lift passwords from devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ToxicEye RAT is Exploiting Telegram Platform<a href="https://cyware.com/news/toxiceye-rat-is-exploiting-telegram-platform-1167e7e2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private messaging app Telegram is being exploited by cyberattackers who are delivering a ToxicEye RAT to take control over a hacker-operated Telegram account and leak critical data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Asked to Increase Crypto Regulation<a href="https://www.infosecurity-magazine.com:443/news/white-house-asked-to-increase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Task force urges Biden to tackle ransomware attacks, disrupt cyber-criminals' safe havens, and regulate crypto more tightly
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Gov Task Force Plans to Take Down the Ransomware Economy<a href="https://threatpost.com/gov-task-force-ransomware-economy/165715/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of 60 global entities (including the DoJ) has proposed a sweeping plan to hunt down and disrupt ransomware gangs by going after their financial operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several High-Severity Vulnerabilities Expose Cisco Firewalls to Remote Attacks<a href="https://www.securityweek.com/several-high-severity-vulnerabilities-expose-cisco-firewalls-remote-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-1448 and having a CVSS score of 7.8, the command injection bug is mitigated by the fact that authentication and local access are required for successful exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture to Acquire Openminded<a href="https://www.infosecurity-magazine.com:443/news/accenture-to-acquire-openminded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture enters into agreement to acquire French cybersecurity services company
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston Nanny Arrested After Cyber-Tip<a href="https://www.infosecurity-magazine.com:443/news/boston-nanny-arrested-after-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Police trace shared child sexual abuse material back to well-established nanny and babysitter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian API Exposed Credit Scores of Most Americans – Krebs on Security<a href="https://krebsonsecurity.com/2021/04/experian-api-exposed-credit-scores-of-most-americans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experian fixed a weakness with a partner website that let anyone look up the credit score of tens of millions of Americans just by supplying their name and mailing address, KrebsOnSecurity reported.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Northern Ireland Government Announces Partnership to Offer Cyber Career Opportunities<a href="https://www.infosecurity-magazine.com:443/news/northern-ireland-partnership-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Participants will be trained via Immersive Labs online platform
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An issue in the Linux Kernel could allow the hack of your system<a href="https://securityaffairs.co/wordpress/117354/security/linux-kernel-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An information disclosure issue in Linux Kernel allows KASLR bypass could be potentially exploited in attacks in the wild.
+
+
+
+An information disclosure flaw in the Linux kernel, tracked as CVE-2020-28588, could allow attackers to bypass the Kernel Address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 Results for 25% of Wyoming Accidentally Posted Online<a href="https://threatpost.com/covid-19-results-accidentally-exposed/165709/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sorry, we’ve upchucked your COVID test results and other medical and personal data into public GitHub storage buckets, the Wyoming Department of Health said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whistler resort municipality hit by new ransomware operation<a href="https://www.bleepingcomputer.com/news/security/whistler-resort-municipality-hit-by-new-ransomware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Whistler municipality in British Columbia, Canada, has suffered a cyberattack at the hands of a new ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture acquires French cybersecurity firm Openminded<a href="https://www.zdnet.com/article/accenture-acquires-french-cybersecurity-firm-openminded/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Openminded provides cybersecurity services including management, consultancy, and cloud & infrastructure solutions with a focus on risk analysis, remediation, and regulatory compliance.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran updates budget to allocate $71.4 million to 'cyberspace' operations<a href="https://therecord.media/iran-updates-budget-to-allocate-71-4-million-to-cyberspace-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tehran government has updated its national budget to allocate an extra $71.4 million for the cyberspace programs of two government-controlled organizations, IRIB and IDO.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Security expert coalition shares actions to disrupt ransomware<a href="https://www.bleepingcomputer.com/news/security/security-expert-coalition-shares-actions-to-disrupt-ransomware/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flubot Spyware is Employing Smishing Attacks<a href="https://cyware.com/news/flubot-spyware-is-employing-smishing-attacks-87750bca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting Android phone users across the U.K via malicious text messages to steal banking information and credentials, and even lift passwords from devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,164 @@ nav_order: 900180
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brazil's Rio Grande do Sul court system hit by REvil ransomware<a href="https://www.bleepingcomputer.com/news/security/brazils-rio-grande-do-sul-court-system-hit-by-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazil's Tribunal de Justiça do Estado do Rio Grande do Sul was hit with an REvil ransomware attack yesterday that encrypted employee's files and forced the courts to shut down their network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Gang Mulls Retirement<a href="https://threatpost.com/babuk-ransomware-gang-mulls-retirement/165742/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaaS operators have been posting, tweaking and taking down a goodbye note, saying that they’ll be open-sourcing their data encryption malware for other crooks to use. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of AgeLocker ransomware attacks on NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-agelocker-ransomware-attacks-on-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP&nbsp;customers are once again urged to secure their Network Attached Storage (NAS) devices to defend against Agelocker ransomware attacks targeting their data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group targeted SonicWall vulnerability pre-patch<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-group-targeting-sonicwall-vulnerability-pre-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group caught targeting a recently patched SonicWall vulnerability leveraged that vulnerability before the patch became available, Mandiant reported Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware group uses SonicWall zero-day to breach networks<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-group-uses-sonicwall-zero-day-to-breach-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor exploited a&nbsp;zero-day bug in Sonicwall SMA 100 Series VPN appliances to deploy new ransomware known as FiveHands on the networks of North American and European targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang Babuk claims DC’s Metropolitan Police was last caper – then goes dark<a href="https://www.scmagazine.com/home/security-news/ransomware/ransomware-gang-babuk-claims-dcs-metropolitan-police-was-last-caper-then-goes-dark/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move was a surprising one after infiltrating such a high-value target, leaving some security experts skeptical that the group won’t reemerge anew.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP finds evidence of AgeLocker ransomware activity in the wild<a href="https://www.bleepingcomputer.com/news/security/qnap-finds-evidence-of-agelocker-ransomware-activity-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP&nbsp;customers are once again urged to secure their Network Attached Storage (NAS) devices following a massive Qlocker ransomware campaign earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An alleged ransomware attack hit the Italian Banca di Credito Cooperativo causing chaos<a href="https://securityaffairs.co/wordpress/117360/cyber-crime/banca-di-credito-cooperativo-darkside-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banca di Credito Cooperativo&nbsp;(BCC), one of the largest Italian cooperative credit banks was hit by a ransomware attack. 
+
+
+
+Banca di Credito Cooperativo&nbsp;(BCC), one of the largest Italian cooperative credit banks, was hit by a cyberattack allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware readies 'shut down' post, plans to open source malware<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-readies-shut-down-post-plans-to-open-source-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After just a few months of activity, the operators of Babuk ransomware briefly posted a short message about their intention to quit the extortion business after having achieved their goal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Gov Task Force Plans to Take Down the Ransomware Economy<a href="https://threatpost.com/gov-task-force-ransomware-economy/165715/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of 60 global entities (including the DoJ) has proposed a sweeping plan to hunt down and disrupt ransomware gangs by going after their financial operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whistler resort municipality hit by new ransomware operation<a href="https://www.bleepingcomputer.com/news/security/whistler-resort-municipality-hit-by-new-ransomware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Whistler municipality in British Columbia, Canada, has suffered a cyberattack at the hands of a new ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Security expert coalition shares actions to disrupt ransomware<a href="https://www.bleepingcomputer.com/news/security/security-expert-coalition-shares-actions-to-disrupt-ransomware/"> Full Text</a>
 </p>
 <details>

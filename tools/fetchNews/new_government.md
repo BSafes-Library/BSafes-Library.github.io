@@ -11,6 +11,48 @@ nav_order: 900075
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+White House Asked to Increase Crypto Regulation<a href="https://www.infosecurity-magazine.com:443/news/white-house-asked-to-increase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Task force urges Biden to tackle ransomware attacks, disrupt cyber-criminals' safe havens, and regulate crypto more tightly
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Northern Ireland Government Announces Partnership to Offer Cyber Career Opportunities<a href="https://www.infosecurity-magazine.com:443/news/northern-ireland-partnership-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Participants will be trained via Immersive Labs online platform
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran updates budget to allocate $71.4 million to 'cyberspace' operations<a href="https://therecord.media/iran-updates-budget-to-allocate-71-4-million-to-cyberspace-operations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tehran government has updated its national budget to allocate an extra $71.4 million for the cyberspace programs of two government-controlled organizations, IRIB and IDO.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden prepping cybersecurity executive order in response to SolarWinds attack<a href="https://thehill.com//policy/cybersecurity/550902-biden-prepping-cybersecurity-executive-order-in-response-to-solarwinds"> Full Text</a>
 </p>
 <details>

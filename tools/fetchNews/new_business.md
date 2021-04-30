@@ -11,6 +11,34 @@ nav_order: 900027
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Accenture to Acquire Openminded<a href="https://www.infosecurity-magazine.com:443/news/accenture-to-acquire-openminded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture enters into agreement to acquire French cybersecurity services company
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture acquires French cybersecurity firm Openminded<a href="https://www.zdnet.com/article/accenture-acquires-french-cybersecurity-firm-openminded/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Openminded provides cybersecurity services including management, consultancy, and cloud &amp; infrastructure solutions with a focus on risk analysis, remediation, and regulatory compliance.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat Detection Firm Vectra Raises $130 Million at $1.2 Billion Valuation<a href="https://www.securityweek.com/threat-detection-firm-vectra-raises-130-million-12-billion-valuation?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Group Harvested Over 4.3 Million Victim Emails<a href="https://www.infosecurity-magazine.com:443/news/emotet-group-harvested-43-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concerned users can now check with HaveIBeenPwned
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Sodinokibi Chronicles: A (R)Evil Cybercrime Gang Disrupting Organizations for Trade Secrets and Cash<a href="https://securityintelligence.com/posts/sodinokibi-revil-ransomware-disrupt-trade-secrets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once Sodinokibi focuses on a potential victim, the attack goes into a more sophisticated operation by human actors who pave their way through the compromised networks to find data and exfiltrate it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

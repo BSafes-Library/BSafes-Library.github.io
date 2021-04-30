@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden prepping cybersecurity executive order in response to SolarWinds attack<a href="https://thehill.com//policy/cybersecurity/550902-biden-prepping-cybersecurity-executive-order-in-response-to-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden is preparing a cybersecurity executive order&nbsp;focused&nbsp;on helping the country protect itself from future cyberattacks&nbsp;following the sophisticated SolarWinds hack that was discovered in December.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Attacking Military Organizations With New Backdoor<a href="https://thehackernews.com/2021/04/chinese-hackers-attacking-military.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad actors with suspected ties to China have been behind a wide-ranging cyberespionage campaign targeting military organizations in Southeast Asia for nearly two years, according to new research.  Attributing the attacks to a threat actor dubbed " Naikon APT ," cybersecurity firm Bitdefender laid out the ever-changing tactics, techniques, and procedures adopted by the group, including weaving new backdoors named "Nebulae" and "RainyDay" into their data-stealing missions. The malicious activity is said to have been conducted between June 2019 and March 2021.  "In the beginning of the operation the threat actors used Aria-Body loader and Nebulae as the first stage of the attack," the researchers&nbsp; said . "Starting with September 2020, the threat actors included the RainyDay backdoor in their toolkit. The purpose of this operation was cyberespionage and data theft."   Naikon  (aka Override Panda, Lotus Panda, or Hellsing) has a track recor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

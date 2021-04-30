@@ -11,6 +11,20 @@ nav_order: 900031
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+With Recent Law Enforcement Actions, Emotet’s Days are Now Over<a href="https://cyware.com/news/with-recent-law-enforcement-actions-emotets-days-are-now-over-712f15c5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol claimed to wipe Emotet infection from hundreds of servers globally. The FBI, meanwhile, handed over 4.3 million email addresses to the Have I Been Pwned site to help mitigate infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Emotet Group Harvested Over 4.3 Million Victim Emails<a href="https://www.infosecurity-magazine.com:443/news/emotet-group-harvested-43-million/"> Full Text</a>
 </p>
 <details>

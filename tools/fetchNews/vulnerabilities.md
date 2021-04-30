@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New PHP Composer Bug Could Enable Widespread Supply-Chain Attacks<a href="https://thehackernews.com/2021/04/a-new-php-composer-bug-could-enable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Composer, a package manager for PHP, have shipped an update to address a critical vulnerability that could have allowed an attacker to execute arbitrary commands and "backdoor every PHP package," resulting in a supply-chain attack.  Tracked as CVE-2021-29472, the security issue was discovered and reported on April 22 by researchers from&nbsp; SonarSource , following which a hotfix was deployed less than 12 hours later.  "Fixed command injection vulnerability in HgDriver/HgDownloader and hardened other VCS drivers and downloaders," Composer&nbsp; said &nbsp;its&nbsp; release notes &nbsp;for versions 2.0.13 and 1.10.22 published on Wednesday. "To the best of our knowledge the vulnerability has not been exploited."   Composer &nbsp;is billed as a tool for dependency management in PHP, enabling easy installation of packages relevant to a project. It also allows users to install PHP applications that are available on&nbsp; Packagist , a repository that aggregates all public P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RotaJakiro Linux backdoor has flown under the radar since 2018<a href="https://securityaffairs.co/wordpress/117332/breaking-news/rotajakiro-linux-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts recently uncovered a Linux backdoor, dubbed RotaJakiro, that has flown under the radar for many years while harvest and exfiltrate sensitive information from the victims.&nbsp;
+
+
+
+RotaJakiro is a Linux backdoor recently discovered by researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Conduct Vulnerability Assessments: An Essential Guide for 2021<a href="https://thehackernews.com/2021/04/how-to-conduct-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are scanning the internet for weaknesses all the time, and if you don't want your organization to fall victim, you need to be the first to find these weak spots. In other words, you have to adopt a proactive approach to managing your vulnerabilities, and a crucial first step in achieving this is performing a vulnerability assessment.  Read this guide to learn how to perform vulnerability assessments in your organization and stay ahead of the hackers.  Vulnerability assessment tools  Vulnerability assessments are automated processes performed by scanners. This makes them accessible to a wide audience. Many of the scanners are geared towards cybersecurity experts, but there are solutions tailored for IT managers and developers in organizations without dedicated security teams.&nbsp;  Vulnerability scanners come in various types: some excel at network scanning, others at web applications, IoT devices, or container security. If you're a small business, you're likely to find
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome V8 Bug Allows Remote Code-Execution<a href="https://threatpost.com/google-chrome-v8-bug-remote-code-execution/165662/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The internet behemoth rolled out the Chrome 90 stable channel release to address this and eight other security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

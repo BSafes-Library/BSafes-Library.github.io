@@ -11,6 +11,20 @@ nav_order: 900072
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Coalition unveils plan to help government, industry confront ransomware attacks | Labor secretary backs employee status for some gig workers | Joe Rogan clarifies vaccine comments: 'I'm not an anti-vax person'<a href="https://thehill.com//policy/technology/overnights/551067-hillicon-valley-coalition-unveils-plan-to-help-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts unveiled a plan Thursday to combat ransomware attacks, amid a spike this year targeting hospitals and schools. Labor Secretary Marty WalshMarty WalshOSHA sends draft emergency temporary standard for COVID-19 to OMB review Koch groups call on administration to release all temporary worker visas Biden's policies are already hurting workers — and there's more hurt coming MORE weighed in on the debate over the classification of gig workers, and popular Spotify podcast host Joe Rogan clarified his controversial comments that young, healthy people don't need a COVID-19 vaccine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data Brokers and National Security<a href="https://www.lawfareblog.com/data-brokers-and-national-security"> Full Text</a>
 </p>
 <details>

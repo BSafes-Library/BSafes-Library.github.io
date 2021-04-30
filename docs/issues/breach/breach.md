@@ -11,6 +11,48 @@ nav_order: 900029
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer Gang Leaks Files from Illinois AG After Ransom Negotiations Break Down<a href="https://threatpost.com/doppelpaymer-leaks-illinois-ag/165694/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information stolen in April 10 ransomware attack was posted on a dark web portal and includes private documents not published as part of public records.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian API Leaks Most Americans’ Credit Scores<a href="https://threatpost.com/experian-api-leaks-american-credit-scores/165731/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers fear wider exposure, amidst a tepid response from Experian.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian API Exposed Credit Scores of Most Americans – Krebs on Security<a href="https://krebsonsecurity.com/2021/04/experian-api-exposed-credit-scores-of-most-americans/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experian fixed a weakness with a partner website that let anyone look up the credit score of tens of millions of Americans just by supplying their name and mailing address, KrebsOnSecurity reported.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 First Horizon Bank Customers Have Account Funds Drained<a href="https://www.infosecurity-magazine.com:443/news/first-horizon-bank-customers/"> Full Text</a>
 </p>
 <details>

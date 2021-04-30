@@ -11,6 +11,20 @@ nav_order: 900080
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Actively Targeting the U.S. and Other Organizations<a href="https://cyware.com/news/russian-hackers-actively-targeting-the-us-and-other-organizations-6a394b7d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, the DHS, and the CISA warned of coordinated attacks, in a joint alert, by the Russian Foreign Intelligence Service, aka APT29, against U.S. and foreign organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LuckyMouse Hackers Target Banks, Companies and Governments in 2020<a href="https://thehackernews.com/2021/04/luckymouse-hackers-target-banks.html"> Full Text</a>
 </p>
 <details>
