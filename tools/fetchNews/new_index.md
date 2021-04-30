@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Saving World Health Day: UNICC and Group-IB take down scam campaign impersonating the World Health Organization<a href="https://securityaffairs.co/wordpress/117380/cyber-crime/saving-world-health-day-unicc-and-group-ib-take-down-scam-campaign-impersonating-the-world-health-organization.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNICC and Group-IB detected and took down a massive multistage scam campaign circulating online on April 7, World Health Day.
+
+
+
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company that specializes in investigating hi-tech...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US prosecutors fine German software company for violating sanctions against Iran<a href="https://thehill.com//policy/cybersecurity/551125-us-prosecutors-fine-german-software-company-for-violating-sanctions"> Full Text</a>
 </p>
 <details>
