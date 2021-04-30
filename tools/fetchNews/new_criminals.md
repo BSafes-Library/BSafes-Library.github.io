@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group that targeted D.C. police briefly posts internal police files<a href="https://www.washingtonpost.com/local/public-safety/hacking-group-that-targeted-dc-police-briefly-posts-internal-police-files/2021/04/29/db18c98c-a8f2-11eb-8c1a-56f0cb4ff3b5_story.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The documents posted Wednesday ran into the hundreds of pages and included names, Social Security numbers, phone numbers, financial and housing records, job histories, and polygraph assessments.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Middle market companies facing a record number of data breaches<a href="https://www.helpnetsecurity.com/2021/04/29/middle-market-data-breaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Middle market companies possess a lot of valuable data but continue to lack appropriate levels of protective controls and staffing, according to a report from RSM US and the U.S. Chamber of Commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's A New Forum for Cybersecurity Leaders Outside of the Fortune 2000<a href="https://thehackernews.com/2021/04/heres-new-forum-for-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Perhaps due to the nature of the position, the InfoSec leadership roles tend to be solitary ones. CISOs, or their equivalent decision-makers in organizations without the role, have so many constant drains on their attention – keeping their knowledge fresh, building plans to secure their organizations further – that they often find themselves on an island.  It's even more challenging for organizations outside the Fortune 2000 that are resource-constrained.  Security leaders are expected to know everything and often don't have anyone inside their organization with whom to bounce ideas or even go to for advice. When a crisis arises, they must often go with their gut or guess at the best solution based on their own experiences.  Security leaders could often use advice but don't have an outlet for it. Chris Roberts, Chief Security Strategist at Cynet Security, offers a new Slack-based community for InfoSec leaders ( register here ) as a solution.  The new InfoSec Leaders Community will fea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

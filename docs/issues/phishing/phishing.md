@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saving World Health Day: UNICC and Group-IB take down scam campaign impersonating the World Health Organization<a href="https://securityaffairs.co/wordpress/117380/cyber-crime/saving-world-health-day-unicc-and-group-ib-take-down-scam-campaign-impersonating-the-world-health-organization.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNICC and Group-IB&nbsp;detected and took down&nbsp;a massive multistage scam campaign circulating online on April 7, World Health Day.
+
+
+
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company that specializes in investigating hi-tech...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate Warns of Ongoing Phishing Attacks Following Data Breach<a href="https://thehackernews.com/2021/04/passwordstate-warns-of-ongoing-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the Australian software firm which confirmed a&nbsp; supply chain attack &nbsp;affecting its Passwordstate password management application, has warned customers of an ongoing phishing attack by an unknown threat actor.  "We have been advised a bad actor has commenced a phishing attack with a small number of customers having received emails requesting urgent action," the company&nbsp; said &nbsp;in an updated advisory released on Wednesday. "These emails are not sent by Click Studios."   Last week, Click Studios said attackers had employed sophisticated techniques to compromise Passwordstate's update mechanism, using it to drop malware on user computers. Only customers who performed In-Place Upgrades between April 20, 8:33 PM UTC, and April 22, 0:30 AM UTC are said to be affected.  While Passwordstate serves about 29,000 customers, the Adelaide-based firm maintained that the total number of impacted customers is very low. It's also urging users to refrain from po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

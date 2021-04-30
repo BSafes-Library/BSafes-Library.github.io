@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston Nanny Arrested After Cyber-Tip<a href="https://www.infosecurity-magazine.com:443/news/boston-nanny-arrested-after-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Police trace shared child sexual abuse material back to well-established nanny and babysitter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

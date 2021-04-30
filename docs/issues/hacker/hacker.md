@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese state hackers target Russian submarine designer<a href="https://www.bleepingcomputer.com/news/security/suspected-chinese-state-hackers-target-russian-submarine-designer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers suspected to work for the Chinese government have used a new malware called PortDoor to infiltrate the systems of an engineering company that designs submarines for the Russian Navy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

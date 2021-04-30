@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC Urges Organizations to Update DNS Servers to Wipe Out New BIND Vulnerabilities<a href="https://www.zdnet.com/article/isc-urges-updates-of-dns-servers-to-wipe-out-new-bind-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the organization said the vulnerabilities impact ISC Berkeley Internet Name Domain (BIND) 9, widely used as a DNS system and maintained as an open-source project.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns 25 Critical Vulnerabilities in IoT, Industrial Devices<a href="https://threatpost.com/microsoft-warns-25-critical-iot-industrial-devices/165752/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure Defender security team discovers that memory allocation is a systemic problem that can allow threat actors to execute malicious code remotely or cause entire systems to crash.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of BadAlloc flaws in OT, IoT devices<a href="https://securityaffairs.co/wordpress/117372/iot/badalloc-vulnerabilities-ot-iot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers are warning of major security vulnerabilities affecting OT and IoT devices and high-risks for businesses using them.
+
+
+
+Researchers from Microsoft’s Section 52 team recently uncovered several critical memory allocation flaws,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Finds 'BadAlloc' Flaws Affecting Wide-Range of IoT and OT Devices<a href="https://thehackernews.com/2021/04/microsoft-finds-badalloc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers on Thursday disclosed two dozen vulnerabilities affecting a wide range of Internet of Things (IoT) and Operational Technology (OT) devices used in industrial, medical, and enterprise networks that could be abused by adversaries to execute arbitrary code and even cause critical systems to crash.  "These remote code execution (RCE) vulnerabilities cover more than 25 CVEs and potentially affect a wide range of domains, from consumer and medical IoT to Industrial IoT, Operational Technology, and industrial control systems,"&nbsp; said &nbsp;Microsoft's 'Section 52' Azure Defender for IoT research group.  The flaws have been collectively named " BadAlloc ," for they are rooted in standard&nbsp; memory allocation functions &nbsp;spanning widely used real-time operating systems (RTOS), embedded software development kits (SDKs), and C standard library (libc) implementations. A lack of proper input validations associated with these memory allocation functions
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

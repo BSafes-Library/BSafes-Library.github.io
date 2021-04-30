@@ -8,6 +8,20 @@ nav_order: 900005
 
 ## Accident
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov starts notifying customers affected by supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/codecov-starts-notifying-customers-affected-by-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov has now started notifying the maintainers of software repositories affected by the recent supply-chain attack. These notifications, delivered via both email and the Codecov application interface, state that the company believes the affected repositories were downloaded by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

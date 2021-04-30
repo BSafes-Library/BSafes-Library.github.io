@@ -11,6 +11,84 @@ nav_order: 900220
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds critical code execution bugs in IoT, OT devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-critical-code-execution-bugs-in-iot-ot-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft security researchers have discovered over two dozen critical remote code execution (RCE) vulnerabilities in&nbsp;Internet of Things (IoT) devices and Operational Technology (OT) industrial systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command injection flaw in PHP Composer allowed supply-chain attacks<a href="https://securityaffairs.co/wordpress/117366/security/php-composer-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the PHP Composer could have allowed an attacker to execute arbitrary commands and backdoor every PHP package.
+
+
+
+The maintainers of the PHP Composer package have addressed a critical vulnerability, tracked as CVE-2021-29472, that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Big-IP Vulnerable to Security-Bypass Bug<a href="https://threatpost.com/f5-big-ip-security-bypass/165735/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The KDC-spoofing flaw tracked as CVE-2021-23008 can be used to bypass Kerberos security and sign into the Big-IP Access Policy Manager or admin console.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several High-Severity Vulnerabilities Expose Cisco Firewalls to Remote Attacks<a href="https://www.securityweek.com/several-high-severity-vulnerabilities-expose-cisco-firewalls-remote-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-1448 and having a CVSS score of 7.8, the command injection bug is mitigated by the fact that authentication and local access are required for successful exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An issue in the Linux Kernel could allow the hack of your system<a href="https://securityaffairs.co/wordpress/117354/security/linux-kernel-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An information disclosure issue in Linux Kernel allows KASLR bypass could be potentially exploited in attacks in the wild.
+
+
+
+An information disclosure flaw in the Linux kernel, tracked as CVE-2020-28588, could allow attackers to bypass the Kernel Address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A New PHP Composer Bug Could Enable Widespread Supply-Chain Attacks<a href="https://thehackernews.com/2021/04/a-new-php-composer-bug-could-enable.html"> Full Text</a>
 </p>
 <details>

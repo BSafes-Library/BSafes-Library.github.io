@@ -8,6 +8,62 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit SonicWall Zero-Day Bug in FiveHands Ransomware Attacks<a href="https://thehackernews.com/2021/04/hackers-exploit-sonicwall-zero-day-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "aggressive" financially motivated threat group tapped into a zero-day flaw in SonicWall VPN appliances prior to it being patched by the company to deploy a new strain of ransomware called FIVEHANDS.  The group, tracked by cybersecurity firm Mandiant as UNC2447, took advantage of an "improper SQL command neutralization" flaw in the SSL-VPN SMA100 product ( CVE-2021-20016 , CVSS score 9 .8) that allows an unauthenticated attacker to achieve remote code execution.  "UNC2447 monetizes intrusions by extorting their victims first with FIVEHANDS ransomware followed by aggressively applying pressure through threats of media attention and offering victim data for sale on hacker forums," Mandiant researchers&nbsp; said . "UNC2447 has been observed targeting organizations in Europe and North America and has consistently displayed advanced capabilities to evade detection and minimize post-intrusion forensics."   CVE-2021-20016 is the same&nbsp; zero-day &nbsp;that the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Task Force Urges Tighter Crypto Regulation<a href="https://www.infosecurity-magazine.com:443/news/ransomware-task-force-tighter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Long-awaited document calls for closer international co-operation
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DC Officer Info Leaked Online by Ransomware Group: Report<a href="https://www.infosecurity-magazine.com:443/news/dc-officer-info-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk says this is its last big job before closing down
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware Returns with a Vengeance<a href="https://cyware.com/news/darkside-ransomware-returns-with-a-vengeance-70df53f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March, threat intelligence experts warned of a new version of the ransomware that featured a faster encryption process, VoIP calling, and modules to target virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

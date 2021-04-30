@@ -8,6 +8,90 @@ nav_order: 900075
 
 ## Government
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SEI CERT chief and first ever federal CISO: old cybersecurity models have ‘been overcome’<a href="https://www.scmagazine.com/home/security-news/network-security/new-sei-cert-chief-and-first-ever-federal-ciso-old-cybersecurity-models-have-been-overcome/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media caught up with Greg Touhill this week to learn what issues and projects he plans to prioritize in his role and how the old cybersecurity models we’ve relied on no longer work. In his words, “we need to change our game plan, because the traditional cybersecurity tactics, techniques and procedures that we’ve used for many years are no longer working the way we need them to be.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five US Federal Government Agencies Potentially Breached in Pulse Connect Secure VPN Attacks<a href="https://edition.cnn.com/2021/04/29/politics/pulse-connect-secure-vpn-hack-federal-agencies-potential-breach/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with suspected ties to China repeatedly took advantage of vulnerabilities in Pulse Secure VPN, a widely used remote connectivity tool, to gain access to government agencies and defense firms.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. government probes VPN hack within federal agencies, races to find clues<a href="https://www.reuters.com/article/us-usa-cyber-vpn/u-s-government-probes-vpn-hack-within-federal-agencies-races-to-find-clues-idUSKBN2CG2EB?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new government breaches involve a popular virtual private network (VPN) known as Pulse Connect Secure, which hackers were able to break into using some known security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden takes quick action on cyber in first 100 days<a href="https://thehill.com//policy/cybersecurity/551092-biden-takes-quick-action-on-cyber-in-first-100-days"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden and his administration hit the ground running on securing federal networks and critical infrastructure during his first 100 days in office, taking quick action after years of what some officials viewed as national security setbacks in U.S. cyber policy.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace Solarium Commission: CISA Funding Should Increase by at Least $400M<a href="https://www.securityweek.com/cyberspace-solarium-commission-cisa-funding-should-increase-least-400m?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a letter to the House Committee on Appropriations, two members of the Cyberspace Solarium Commission are asking for an increase in funding for the CISA in the fiscal year 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Programs within military intel agencies in the US and UK show growing commitment to neurodiversity<a href="https://www.scmagazine.com/home/government/dods-geospatial-intel-agency-and-uk-show-commitment-to-neurodiversity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Efforts underway in both the DoD’s geospatial intelligence agency and the U.K.’s signals intel and information assurance organization show neurodivergent men and women with an interest in cybersecurity are finding new opportunities to bring their unique ways of thinking to the government workforce.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900030
 
 ## Covid-19
 ---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anti-Vaxxer Hijacks QR Codes at COVID-19 Check-In Sites<a href="https://threatpost.com/anti-vaxxer-hijacks-qr-codes-covid19/165701/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The perp faces jail time, but the incident highlights the growing cyber-abuse of QR codes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 Results for 25% of Wyoming Accidentally Posted Online<a href="https://threatpost.com/covid-19-results-accidentally-exposed/165709/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sorry, we’ve upchucked your COVID test results and other medical and personal data into public GitHub storage buckets, the Wyoming Department of Health said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
