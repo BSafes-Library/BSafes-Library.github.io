@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Finds 'BadAlloc' Flaws Affecting Wide-Range of IoT and OT Devices<a href="https://thehackernews.com/2021/04/microsoft-finds-badalloc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers on Thursday disclosed two dozen vulnerabilities affecting a wide range of Internet of Things (IoT) and Operational Technology (OT) devices used in industrial, medical, and enterprise networks that could be abused by adversaries to execute arbitrary code and even cause critical systems to crash.  "These remote code execution (RCE) vulnerabilities cover more than 25 CVEs and potentially affect a wide range of domains, from consumer and medical IoT to Industrial IoT, Operational Technology, and industrial control systems,"  said  Microsoft's 'Section 52' Azure Defender for IoT research group.  The flaws have been collectively named " BadAlloc ," for they are rooted in standard  memory allocation functions  spanning widely used real-time operating systems (RTOS), embedded software development kits (SDKs), and C standard library (libc) implementations. A lack of proper input validations associated with these memory allocation functions
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Codecov starts notifying customers affected by supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/codecov-starts-notifying-customers-affected-by-supply-chain-attack/"> Full Text</a>
 </p>
 <details>

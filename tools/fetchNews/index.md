@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov starts notifying customers affected by supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/codecov-starts-notifying-customers-affected-by-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov has now started notifying the maintainers of software repositories affected by the recent supply-chain attack. These notifications, delivered via both email and the Codecov application interface, state that the company believes the affected repositories were downloaded by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace Solarium Commission: CISA Funding Should Increase by at Least $400M<a href="https://www.securityweek.com/cyberspace-solarium-commission-cisa-funding-should-increase-least-400m?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a letter to the House Committee on Appropriations, two members of the Cyberspace Solarium Commission are asking for an increase in funding for the CISA in the fiscal year 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's A New Forum for Cybersecurity Leaders Outside of the Fortune 2000<a href="https://thehackernews.com/2021/04/heres-new-forum-for-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Perhaps due to the nature of the position, the InfoSec leadership roles tend to be solitary ones. CISOs, or their equivalent decision-makers in organizations without the role, have so many constant drains on their attention – keeping their knowledge fresh, building plans to secure their organizations further – that they often find themselves on an island.  It's even more challenging for organizations outside the Fortune 2000 that are resource-constrained.  Security leaders are expected to know everything and often don't have anyone inside their organization with whom to bounce ideas or even go to for advice. When a crisis arises, they must often go with their gut or guess at the best solution based on their own experiences.  Security leaders could often use advice but don't have an outlet for it. Chris Roberts, Chief Security Strategist at Cynet Security, offers a new Slack-based community for InfoSec leaders ( register here ) as a solution.  The new InfoSec Leaders Community will fea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DC Officer Info Leaked Online by Ransomware Group: Report<a href="https://www.infosecurity-magazine.com:443/news/dc-officer-info-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk says this is its last big job before closing down
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial services firm First Horizon suffers data breach with customer funds stolen<a href="https://siliconangle.com/2021/04/28/financial-services-firm-first-horizon-suffers-data-breach-customer-funds-stolen/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disclosed in a filing with the SEC, the breach is described as involving an authorized third party obtaining login credentials from an unknown source and then attempting to access customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordstate Warns of Ongoing Phishing Attacks Following Data Breach<a href="https://thehackernews.com/2021/04/passwordstate-warns-of-ongoing-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Click Studios, the Australian software firm which confirmed a  supply chain attack  affecting its Passwordstate password management application, has warned customers of an ongoing phishing attack by an unknown threat actor.  "We have been advised a bad actor has commenced a phishing attack with a small number of customers having received emails requesting urgent action," the company  said  in an updated advisory released on Wednesday. "These emails are not sent by Click Studios."   Last week, Click Studios said attackers had employed sophisticated techniques to compromise Passwordstate's update mechanism, using it to drop malware on user computers. Only customers who performed In-Place Upgrades between April 20, 8:33 PM UTC, and April 22, 0:30 AM UTC are said to be affected.  While Passwordstate serves about 29,000 customers, the Adelaide-based firm maintained that the total number of impacted customers is very low. It's also urging users to refrain from po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Ransomware Returns with a Vengeance<a href="https://cyware.com/news/darkside-ransomware-returns-with-a-vengeance-70df53f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March, threat intelligence experts warned of a new version of the ransomware that featured a faster encryption process, VoIP calling, and modules to target virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Programs within military intel agencies in the US and UK show growing commitment to neurodiversity<a href="https://www.scmagazine.com/home/government/dods-geospatial-intel-agency-and-uk-show-commitment-to-neurodiversity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Efforts underway in both the DoD’s geospatial intelligence agency and the U.K.’s signals intel and information assurance organization show neurodivergent men and women with an interest in cybersecurity are finding new opportunities to bring their unique ways of thinking to the government workforce.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
