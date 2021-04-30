@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Contact-tracing apps: Android phones were leaking sensitive data, find researchers<a href="https://www.zdnet.com/article/contact-tracing-apps-android-phones-were-leaking-sensitive-data-find-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of third-party apps in Android devices were given access to sensitive data logged by contact-tracing apps built on Google and Apple's API, according to security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Five US Federal Government Agencies Potentially Breached in Pulse Connect Secure VPN Attacks<a href="https://edition.cnn.com/2021/04/29/politics/pulse-connect-secure-vpn-hack-federal-agencies-potential-breach/index.html?&web_view=true"> Full Text</a>
 </p>
 <details>
