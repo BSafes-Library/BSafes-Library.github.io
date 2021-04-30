@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Your stolen ParkMobile data is now free for wannabe scammers<a href="https://www.bleepingcomputer.com/news/security/your-stolen-parkmobile-data-is-now-free-for-wannabe-scammers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The account information for almost 22 million ParkMobile customers is now in the hands of hackers and scammers after the data was released for free on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Company Self-Reports Illegal Exports<a href="https://www.infosecurity-magazine.com:443/news/software-company-selfreports/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP fined $8m after admitting it exported US-made patches and upgrades to Iran for seven years
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 An alleged ransomware attack hit the Italian Banca di Credito Cooperativo causing chaos<a href="https://securityaffairs.co/wordpress/117360/cyber-crime/banca-di-credito-cooperativo-darkside-ransomware.html?&web_view=true"> Full Text</a>
 </p>
 <details>
