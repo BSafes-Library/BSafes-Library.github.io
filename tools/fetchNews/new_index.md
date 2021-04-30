@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Paleo Lifestyle Brand Exposes Customers to Fraud in Massive Data Breach<a href="https://www.vpnmentor.com/blog/report-paleohacks-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach originated from an unsecured cloud storage account Paleohacks was using to store the private data and personal details of over 70,000 customers and users.
+</details>
+<div style="text-align: right" markdown="1">
+VPN Mentor
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S. government probes VPN hack within federal agencies, races to find clues<a href="https://www.reuters.com/article/us-usa-cyber-vpn/u-s-government-probes-vpn-hack-within-federal-agencies-races-to-find-clues-idUSKBN2CG2EB?&web_view=true"> Full Text</a>
 </p>
 <details>
