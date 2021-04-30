@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Paleo Lifestyle Site Found Leaking PII on 70,000 Users<a href="https://www.infosecurity-magazine.com:443/news/paleo-lifestyle-site-found-leaking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paleohacks misconfigured an AWS S3 bucket
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden takes quick action on cyber in first 100 days<a href="https://thehill.com//policy/cybersecurity/551092-biden-takes-quick-action-on-cyber-in-first-100-days"> Full Text</a>
 </p>
 <details>
