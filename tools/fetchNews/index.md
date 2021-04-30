@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Five US Federal Government Agencies Potentially Breached in Pulse Connect Secure VPN Attacks<a href="https://edition.cnn.com/2021/04/29/politics/pulse-connect-secure-vpn-hack-federal-agencies-potential-breach/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with suspected ties to China repeatedly took advantage of vulnerabilities in Pulse Secure VPN, a widely used remote connectivity tool, to gain access to government agencies and defense firms.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns 25 Critical Vulnerabilities in IoT, Industrial Devices<a href="https://threatpost.com/microsoft-warns-25-critical-iot-industrial-devices/165752/"> Full Text</a>
 </p>
 <details>
