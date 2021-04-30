@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ISC Urges Organizations to Update DNS Servers to Wipe Out New BIND Vulnerabilities<a href="https://www.zdnet.com/article/isc-urges-updates-of-dns-servers-to-wipe-out-new-bind-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the organization said the vulnerabilities impact ISC Berkeley Internet Name Domain (BIND) 9, widely used as a DNS system and maintained as an open-source project.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit SonicWall Zero-Day Bug in FiveHands Ransomware Attacks<a href="https://thehackernews.com/2021/04/hackers-exploit-sonicwall-zero-day-bug.html"> Full Text</a>
 </p>
 <details>

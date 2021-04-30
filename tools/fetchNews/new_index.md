@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Middle market companies facing a record number of data breaches<a href="https://www.helpnetsecurity.com/2021/04/29/middle-market-data-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Middle market companies possess a lot of valuable data but continue to lack appropriate levels of protective controls and staffing, according to a report from RSM US and the U.S. Chamber of Commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ISC Urges Organizations to Update DNS Servers to Wipe Out New BIND Vulnerabilities<a href="https://www.zdnet.com/article/isc-urges-updates-of-dns-servers-to-wipe-out-new-bind-vulnerabilities/?&web_view=true"> Full Text</a>
 </p>
 <details>
