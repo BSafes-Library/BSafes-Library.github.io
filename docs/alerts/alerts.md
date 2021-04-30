@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC Releases Security Advisory for BIND <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/04/29/isc-releases-security-advisory-bind"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) has released a security advisory that addresses a vulnerability affecting multiple versions of ISC Berkeley Internet Name Domain (BIND). A remote attacker could exploit this vulnerability to take control of an affected system.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 26, 2021 - FBI, DHS, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

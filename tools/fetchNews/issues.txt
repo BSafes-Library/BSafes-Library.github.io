@@ -29,7 +29,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.zdnet.com/article/isc-urges-updates-of-dns-servers-to-wipe-out-new-bind-vulnerabilities/?&web_view=true
 
 Law:
 . https://www.scmagazine.com/home/security-news/malware/doj-building-the-guardrails-for-microsoft-exchange-type-malware-takedowns/
