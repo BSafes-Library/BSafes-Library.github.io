@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit SonicWall Zero-Day Bug in FiveHands Ransomware Attacks<a href="https://thehackernews.com/2021/04/hackers-exploit-sonicwall-zero-day-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "aggressive" financially motivated threat group tapped into a zero-day flaw in SonicWall VPN appliances prior to it being patched by the company to deploy a new strain of ransomware called FIVEHANDS.  The group, tracked by cybersecurity firm Mandiant as UNC2447, took advantage of an "improper SQL command neutralization" flaw in the SSL-VPN SMA100 product ( CVE-2021-20016 , CVSS score 9 .8) that allows an unauthenticated attacker to achieve remote code execution.  "UNC2447 monetizes intrusions by extorting their victims first with FIVEHANDS ransomware followed by aggressively applying pressure through threats of media attention and offering victim data for sale on hacker forums," Mandiant researchers  said . "UNC2447 has been observed targeting organizations in Europe and North America and has consistently displayed advanced capabilities to evade detection and minimize post-intrusion forensics."   CVE-2021-20016 is the same  zero-day  that the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Contact-tracing apps: Android phones were leaking sensitive data, find researchers<a href="https://www.zdnet.com/article/contact-tracing-apps-android-phones-were-leaking-sensitive-data-find-researchers/?&web_view=true"> Full Text</a>
 </p>
 <details>
