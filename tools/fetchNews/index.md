@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of BadAlloc flaws in OT, IoT devices<a href="https://securityaffairs.co/wordpress/117372/iot/badalloc-vulnerabilities-ot-iot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers are warning of major security vulnerabilities affecting OT and IoT devices and high-risks for businesses using them.
+
+
+
+Researchers from Microsoft’s Section 52 team recently uncovered several critical memory allocation flaws,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Paleo Lifestyle Brand Exposes Customers to Fraud in Massive Data Breach<a href="https://www.vpnmentor.com/blog/report-paleohacks-breach/?&web_view=true"> Full Text</a>
 </p>
 <details>

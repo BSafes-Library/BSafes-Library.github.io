@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 April 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns 25 Critical Vulnerabilities in IoT, Industrial Devices<a href="https://threatpost.com/microsoft-warns-25-critical-iot-industrial-devices/165752/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure Defender security team discovers that memory allocation is a systemic problem that can allow threat actors to execute malicious code remotely or cause entire systems to crash.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of BadAlloc flaws in OT, IoT devices<a href="https://securityaffairs.co/wordpress/117372/iot/badalloc-vulnerabilities-ot-iot.html"> Full Text</a>
 </p>
 <details>
