@@ -11,6 +11,34 @@ nav_order: 900163
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Gaetz, House Republicans introduce bill to defund Postal Service covert operations program<a href="https://thehill.com//policy/technology/551232-gaetz-house-republicans-introduce-bill-to-defund-postal-service-covert"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rep. Matt Gaetz (R-Fla.) and a group of other House Republicans on Friday introduced legislation to end funding for an arm of the U.S. Postal Service that&nbsp;carries out online surveillance.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Company Self-Reports Illegal Exports<a href="https://www.infosecurity-magazine.com:443/news/software-company-selfreports/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP fined $8m after admitting it exported US-made patches and upgrades to Iran for seven years
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US prosecutors fine German software company for violating sanctions against Iran<a href="https://thehill.com//policy/cybersecurity/551125-us-prosecutors-fine-german-software-company-for-violating-sanctions"> Full Text</a>
 </p>
 <details>

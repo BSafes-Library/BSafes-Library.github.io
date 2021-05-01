@@ -11,6 +11,34 @@ nav_order: 900075
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House Armed Services Holds Hearing on Technology and Information Warfare<a href="https://www.lawfareblog.com/house-armed-services-holds-hearing-technology-and-information-warfare"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Friday, April 30, 2021, at 3:00 p.m., the House Armed Services Subcommittee on Cyber, Innovative Technologies and Information Systems will&nbsp;hold&nbsp;a hearing titled, "Technology and Information Warfare: The Competition for Influence and the Department of Defense."&nbsp;The subcommittee will hear testimony from Nina Jankowicz, a fellow at the Wilson Center; Glenn Gerstell, the former general counsel for the National Security Agency; Herb Lin, a senior research scholar at Stanford University; and Joseph Kirschbaum, the director of the defense capabilities management team at the Government Accountab
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department to undertake 120 day review of cybersecurity challenges<a href="https://thehill.com//policy/cybersecurity/551195-justice-department-to-undertake-120-day-review-of-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department will soon begin a 120 day review of cybersecurity challenges&nbsp;in the midst of escalating cyber threats.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New SEI CERT chief and first ever federal CISO: old cybersecurity models have ‘been overcome’<a href="https://www.scmagazine.com/home/security-news/network-security/new-sei-cert-chief-and-first-ever-federal-ciso-old-cybersecurity-models-have-been-overcome/"> Full Text</a>
 </p>
 <details>

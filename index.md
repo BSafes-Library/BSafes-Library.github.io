@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - April 30th 2021 - Attacks Escalate<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-30th-2021-attacks-escalate/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Purple Lambert, a new malware of CIA-linked Lambert APT group<a href="https://securityaffairs.co/wordpress/117340/apt/purple-lambert-cia-arsenal.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: DOJ to review cyber challenges | Gaetz, House Republicans want to end funding for postal service surveillance | TikTok gets new CEO<a href="https://thehill.com//policy/technology/overnights/551250-hillicon-valley-tiktok-names-new-ceo-justice-dept-to-undertake"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Prime Minister’s Cell Phone Number Exposed<a href="https://www.infosecurity-magazine.com:443/news/british-prime-ministers-cell-phone/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House Armed Services Holds Hearing on Technology and Information Warfare<a href="https://www.lawfareblog.com/house-armed-services-holds-hearing-technology-and-information-warfare"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT uses a new backdoor in attacks at Russian defense contractor<a href="https://securityaffairs.co/wordpress/117396/apt/china-linked-apt-russia-contractor.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers sound the alarm after GitHub floats stricter policies<a href="https://www.scmagazine.com/home/security-news/malware/standoff-with-researchers-may-emerge-as-github-floats-stricter-policies/"> Full Text</a>
@@ -154,7 +154,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PortDoor Espionage Malware Takes Aim at Russian Defense Sector<a href="https://threatpost.com/portdoor-espionage-malware-takes-aim-at-russian-defense-sector/165770/"> Full Text</a>
@@ -170,7 +170,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Horizon bank online accounts hacked to steal customers’ funds<a href="https://www.bleepingcomputer.com/news/security/first-horizon-bank-online-accounts-hacked-to-steal-customers-funds/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gaetz, House Republicans introduce bill to defund Postal Service covert operations program<a href="https://thehill.com//policy/technology/551232-gaetz-house-republicans-introduce-bill-to-defund-postal-service-covert"> Full Text</a>
@@ -202,7 +202,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC2447 cybercrime gang exploited SonicWall Zero-Day before it was fixed<a href="https://securityaffairs.co/wordpress/117387/malware/unc2447-sonicwall-zero-day.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber.org pilot program aims to steer minority students toward HBCU cyber degrees<a href="https://www.scmagazine.com/home/security-news/cyber-org-pilot-program-aims-to-steer-minority-students-toward-hbcu-cyber-degrees/"> Full Text</a>
@@ -238,7 +238,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk quits ransomware encryption, focuses on data-theft extortion<a href="https://www.bleepingcomputer.com/news/security/babuk-quits-ransomware-encryption-focuses-on-data-theft-extortion/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department to undertake 120 day review of cybersecurity challenges<a href="https://thehill.com//policy/cybersecurity/551195-justice-department-to-undertake-120-day-review-of-cybersecurity"> Full Text</a>
@@ -270,7 +270,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of damaging vulnerabilities in dozens of IoT operating systems<a href="https://www.scmagazine.com/home/security-news/iot/microsoft-warns-of-damaging-vulnerabilities-in-dozens-of-iot-operating-systems/"> Full Text</a>
@@ -286,7 +286,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Replica Sites of 900 Global News Outlets Target Users with Malware and Scam Advertisements<a href="https://ciso.economictimes.indiatimes.com/news/fake-sites-of-50-indian-news-portals-luring-gullible-readers/82324228?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hotbit cryptocurrency exchange down after hackers targeted wallets<a href="https://www.bleepingcomputer.com/news/security/hotbit-cryptocurrency-exchange-down-after-hackers-targeted-wallets/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Your stolen ParkMobile data is now free for wannabe scammers<a href="https://www.bleepingcomputer.com/news/security/your-stolen-parkmobile-data-is-now-free-for-wannabe-scammers/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software Company Self-Reports Illegal Exports<a href="https://www.infosecurity-magazine.com:443/news/software-company-selfreports/"> Full Text</a>
@@ -350,7 +350,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An alleged ransomware attack hit the Italian Banca di Credito Cooperativo causing chaos<a href="https://securityaffairs.co/wordpress/117360/cyber-crime/banca-di-credito-cooperativo-darkside-ransomware.html?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2021
+April 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INSA Forms Critical Infrastructure Subcommittee<a href="https://www.infosecurity-magazine.com:443/news/insa-forms-critical-infrastructure/"> Full Text</a>

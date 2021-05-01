@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber.org pilot program aims to steer minority students toward HBCU cyber degrees<a href="https://www.scmagazine.com/home/security-news/cyber-org-pilot-program-aims-to-steer-minority-students-toward-hbcu-cyber-degrees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Said T. Lamar Goree, superintendent of Caddo Parish Public Schools, of the program: “This is going to help us change the trajectory of black and brown children, and underserved children, from a socioeconomic perspective.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Contact-tracing apps: Android phones were leaking sensitive data, find researchers<a href="https://www.zdnet.com/article/contact-tracing-apps-android-phones-were-leaking-sensitive-data-find-researchers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of third-party apps in Android devices were given access to sensitive data logged by contact-tracing apps built on Google and Apple's API, according to security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paleo Lifestyle Brand Exposes Customers to Fraud in Massive Data Breach<a href="https://www.vpnmentor.com/blog/report-paleohacks-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach originated from an unsecured cloud storage account Paleohacks was using to store the private data and personal details of over 70,000 customers and users.
+</details>
+<div style="text-align: right" markdown="1">
+VPN Mentor
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paleo Lifestyle Site Found Leaking PII on 70,000 Users<a href="https://www.infosecurity-magazine.com:443/news/paleo-lifestyle-site-found-leaking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paleohacks misconfigured an AWS S3 bucket
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial services firm First Horizon suffers data breach with customer funds stolen<a href="https://siliconangle.com/2021/04/28/financial-services-firm-first-horizon-suffers-data-breach-customer-funds-stolen/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disclosed in a filing with the SEC, the breach is described as involving an authorized third party obtaining login credentials from an unknown source and then attempting to access customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

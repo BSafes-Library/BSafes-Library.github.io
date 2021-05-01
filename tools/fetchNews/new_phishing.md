@@ -11,6 +11,20 @@ nav_order: 900160
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Your stolen ParkMobile data is now free for wannabe scammers<a href="https://www.bleepingcomputer.com/news/security/your-stolen-parkmobile-data-is-now-free-for-wannabe-scammers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The account information for almost 22 million ParkMobile customers is now in the hands of hackers and scammers after the data was released for free on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Saving World Health Day: UNICC and Group-IB take down scam campaign impersonating the World Health Organization<a href="https://securityaffairs.co/wordpress/117380/cyber-crime/saving-world-health-day-unicc-and-group-ib-take-down-scam-campaign-impersonating-the-world-health-organization.html"> Full Text</a>
 </p>
 <details>
