@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hotbit cryptocurrency exchange down after hackers targeted wallets<a href="https://www.bleepingcomputer.com/news/security/hotbit-cryptocurrency-exchange-down-after-hackers-targeted-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency trading platform Hotbit&nbsp;has shut down all services for at least a week after a cyberattack&nbsp;that down several of its services on&nbsp;Thursday evening.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

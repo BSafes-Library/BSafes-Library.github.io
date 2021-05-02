@@ -11,6 +11,34 @@ nav_order: 900180
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 30th 2021 - Attacks Escalate<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-30th-2021-attacks-escalate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs continue to target organizations large and small, including a brazen attack on the Washington DC police department.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk quits ransomware encryption, focuses on data-theft extortion<a href="https://www.bleepingcomputer.com/news/security/babuk-quits-ransomware-encryption-focuses-on-data-theft-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new message today from the operators of Babuk ransomware clarifies that the gang has decided to close the affiliate program and move to an extortion model that does not rely on encrypting victim computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit SonicWall Zero-Day Bug in FiveHands Ransomware Attacks<a href="https://thehackernews.com/2021/04/hackers-exploit-sonicwall-zero-day-bug.html"> Full Text</a>
 </p>
 <details>

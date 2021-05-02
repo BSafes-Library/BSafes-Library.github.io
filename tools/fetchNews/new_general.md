@@ -8,6 +8,24 @@ nav_order: 900072
 
 ## General
 ---
+May 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 312<a href="https://securityaffairs.co/wordpress/117449/breaking-news/security-affairs-newsletter-round-312.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+10,000+ unpatched ABUS Secvest home alarms can be deactivated remotelyHackers are targeting Soliton...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

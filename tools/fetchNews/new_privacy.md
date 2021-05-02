@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to stop Windows 10 Defender from uploading files to Microsoft<a href="https://www.bleepingcomputer.com/news/security/how-to-stop-windows-10-defender-from-uploading-files-to-microsoft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Like other antivirus programs, Microsoft Defender will upload suspicious files to Microsoft to determine if they are malicious. However, some consider this a privacy risk and would rather have their files stay on their computer than being uploaded to a third party.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

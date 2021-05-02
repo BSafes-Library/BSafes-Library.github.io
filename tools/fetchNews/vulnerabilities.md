@@ -11,6 +11,20 @@ nav_order: 900220
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of damaging vulnerabilities in dozens of IoT operating systems<a href="https://www.scmagazine.com/home/security-news/iot/microsoft-warns-of-damaging-vulnerabilities-in-dozens-of-iot-operating-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws affect at least 25 different products made by more than a dozen organizations, including Amazon, ARM, Google Cloud, Samsung, RedHat, Apache and others.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ISC Urges Organizations to Update DNS Servers to Wipe Out New BIND Vulnerabilities<a href="https://www.zdnet.com/article/isc-urges-updates-of-dns-servers-to-wipe-out-new-bind-vulnerabilities/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

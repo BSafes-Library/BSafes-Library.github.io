@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Threats Keeping Organizations Super Busy<a href="https://cyware.com/news/zero-day-threats-keeping-organizations-super-busy-f7eae1cc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day attacks are one of the most challenging threats as they are very difficult to predict. Attackers have exploited zero-day flaws in applications and devices by Microsoft, Google, Apple, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in the BIND software expose DNS servers to attacks<a href="https://securityaffairs.co/wordpress/117414/security/bind-dns-servers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) released updates for the BIND DNS software to patch several denial-of-service (DoS) and potential RCE flaws.
+
+
+
+The Internet Systems Consortium (ISC) has released security updates for the BIND DNS software to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Threats Still Looming over Microsoft Exchange<a href="https://cyware.com/news/several-threats-still-looming-over-microsoft-exchange-a8b32096"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Sophos revealed that attackers are trying to exploit the ProxyLogon vulnerabilities in Microsoft Exchange to install Monero cryptominer on the targeted servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

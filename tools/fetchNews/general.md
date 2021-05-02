@@ -11,6 +11,34 @@ nav_order: 900072
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: DOJ to review cyber challenges | Gaetz, House Republicans want to end funding for postal service surveillance | TikTok gets new CEO<a href="https://thehill.com//policy/technology/overnights/551250-hillicon-valley-tiktok-names-new-ceo-justice-dept-to-undertake"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media giant TikTok gained a new CEO on Friday with ties to parent company ByteDance. Meanwhile, a top Justice Department official said the agency would soon undertake a cybersecurity review to improve its response to cyber threats, and the European Commission clapped back at Apple for allegedly abusing its dominant position on its App Store for music streaming apps.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INSA Forms Critical Infrastructure Subcommittee<a href="https://www.infosecurity-magazine.com:443/news/insa-forms-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privately owned critical infrastructure to benefit from new cybersecurity delegation
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Middle market companies facing a record number of data breaches<a href="https://www.helpnetsecurity.com/2021/04/29/middle-market-data-breaches/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

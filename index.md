@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2021
+May 02, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to stop Windows 10 Defender from uploading files to Microsoft<a href="https://www.bleepingcomputer.com/news/security/how-to-stop-windows-10-defender-from-uploading-files-to-microsoft/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2021
+May 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 312<a href="https://securityaffairs.co/wordpress/117449/breaking-news/security-affairs-newsletter-round-312.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2021
+May 2, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking a Tesla Model X with a DJI Mavic 2 drone equipped with a WIFI dongle<a href="https://securityaffairs.co/wordpress/117441/hacking/tesla-model-x-hacking.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2021
+May 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud hosting provider Swiss Cloud suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/117433/cyber-crime/swiss-cloud-ransomware-attack.html"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Return of Dridex Banking Trojan<a href="https://cyware.com/news/the-return-of-dridex-banking-trojan-44c63c2e"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2021
+May 01, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office 365 security baseline adds macro signing, JScript protection<a href="https://www.bleepingcomputer.com/news/security/office-365-security-baseline-adds-macro-signing-jscript-protection/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk - A Growing Ransomware Threat<a href="https://cyware.com/news/babuk-a-growing-ransomware-threat-0944c9f3"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2021
+May 01, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python also impacted by critical IP address validation vulnerability<a href="https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mount Locker Ransomware Learns New Tricks to Evade Detection<a href="https://cyware.com/news/mount-locker-ransomware-learns-new-tricks-to-evade-detection-e4ea700e"> Full Text</a>
@@ -194,7 +194,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Threats Keeping Organizations Super Busy<a href="https://cyware.com/news/zero-day-threats-keeping-organizations-super-busy-f7eae1cc"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AgeLocker ransomware operation targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/117424/malware/qnap-agelocker-ransomware.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Looks to Cryptocurrency Theft to Diversify its Attack Tactics<a href="https://cyware.com/news/lazarus-group-looks-to-cryptocurrency-theft-to-diversify-its-attack-tactics-1213711e"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in the BIND software expose DNS servers to attacks<a href="https://securityaffairs.co/wordpress/117414/security/bind-dns-servers-flaws.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarMarket RAT Uses Google SEO Tactics to Lure Victims<a href="https://cyware.com/news/solarmarket-rat-uses-google-seo-tactics-to-lure-victims-46b85a64"> Full Text</a>
@@ -282,7 +282,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk crew announced it will stop ransomware attacks<a href="https://securityaffairs.co/wordpress/117407/cyber-crime/babuk-stops-ransomware-attacks.html"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Threats Still Looming over Microsoft Exchange<a href="https://cyware.com/news/several-threats-still-looming-over-microsoft-exchange-a8b32096"> Full Text</a>
@@ -318,7 +318,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gafgyt Learns from Mirai Botnet<a href="https://cyware.com/news/gafgyt-learns-from-mirai-botnet-ce357cba"> Full Text</a>
@@ -334,7 +334,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021
+May 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In The Ransomware Battle, Cybercriminals Have The Upper Hand<a href="https://www.npr.org/2021/04/29/991684891/in-the-ransomware-battle-cyber-criminals-have-the-upper-hand?&web_view=true"> Full Text</a>

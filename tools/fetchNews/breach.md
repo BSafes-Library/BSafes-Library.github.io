@@ -11,6 +11,34 @@ nav_order: 900029
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+British Prime Minister’s Cell Phone Number Exposed<a href="https://www.infosecurity-magazine.com:443/news/british-prime-ministers-cell-phone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boris Johnson’s personal cell phone number reportedly available online since 2006
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Horizon bank online accounts hacked to steal customers’ funds<a href="https://www.bleepingcomputer.com/news/security/first-horizon-bank-online-accounts-hacked-to-steal-customers-funds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bank holding company&nbsp;First Horizon Corporation disclosed the some of its customers had their online banking accounts breached by unknown attackers earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Contact-tracing apps: Android phones were leaking sensitive data, find researchers<a href="https://www.zdnet.com/article/contact-tracing-apps-android-phones-were-leaking-sensitive-data-find-researchers/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

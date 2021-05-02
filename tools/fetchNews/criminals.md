@@ -11,6 +11,24 @@ nav_order: 900031
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UNC2447 cybercrime gang exploited SonicWall Zero-Day before it was fixed<a href="https://securityaffairs.co/wordpress/117387/malware/unc2447-sonicwall-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC2447 cybercrime gang exploited a zero-day in the Secure Mobile Access (SMA), addressed by SonicWall earlier this year, before the vendor released a fix.
+
+
+
+Researchers from FireEye’s Mandiant revealed that a sophisticated cybercrime gang tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacking group that targeted D.C. police briefly posts internal police files<a href="https://www.washingtonpost.com/local/public-safety/hacking-group-that-targeted-dc-police-briefly-posts-internal-police-files/2021/04/29/db18c98c-a8f2-11eb-8c1a-56f0cb4ff3b5_story.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

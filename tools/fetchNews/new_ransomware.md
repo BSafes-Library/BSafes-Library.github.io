@@ -8,6 +8,120 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud hosting provider Swiss Cloud suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/117433/cyber-crime/swiss-cloud-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss cloud hosting provider Swiss Cloud has suffered a ransomware attack that seriously impacted its server infrastructure.
+
+
+
+On April 27 the Swiss cloud hosting provider was hit by a ransomware attack that brought down the company’s server infrastructure.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk - A Growing Ransomware Threat<a href="https://cyware.com/news/babuk-a-growing-ransomware-threat-0944c9f3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rapidly emerging Babuk ransomware is becoming a serious threat as it has compromised the networks of sports, communication sectors, and government entities - all within a month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python also impacted by critical IP address validation vulnerability<a href="https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Python 3.3 standard library 'ipaddress' suffers from a critical IP address vulnerability (CVE-2021-29921) identical to the flaw that was reported in the "netmask" library earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mount Locker Ransomware Learns New Tricks to Evade Detection<a href="https://cyware.com/news/mount-locker-ransomware-learns-new-tricks-to-evade-detection-e4ea700e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found Mount Locker ransomware using sophisticated scripting and anti-prevention features in recent campaigns, and the change in tactics may be accompanied by the AstroLocker rebranding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AgeLocker ransomware operation targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/117424/malware/qnap-agelocker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP is warning its customers of AgeLocker ransomware attacks on their NAS devices.
+
+
+
+Crooks behind the AgeLocker ransomware operation are targeting QNAP NAS devices, the Taiwanese vendor warns. The vendor doesn't provide technical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk crew announced it will stop ransomware attacks<a href="https://securityaffairs.co/wordpress/117407/cyber-crime/babuk-stops-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk ransomware operators shut down their affiliate program and announced to stop using ransomware, the group plans to move on data theft. 
+
+
+
+Recently the Babuk ransomware operators made the headlines for the ransomware attack against the DC Police...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In The Ransomware Battle, Cybercriminals Have The Upper Hand<a href="https://www.npr.org/2021/04/29/991684891/in-the-ransomware-battle-cyber-criminals-have-the-upper-hand?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NBA's Houston Rockets were hit by a ransomware attack earlier this month. Now it's the Washington, D.C., police department. The common thread is an unknown ransomware group called Babuk.
+</details>
+<div style="text-align: right" markdown="1">
+NPR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
