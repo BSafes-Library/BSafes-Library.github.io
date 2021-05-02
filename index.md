@@ -34,6 +34,322 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to stop Windows 10 Defender from uploading files to Microsoft<a href="https://www.bleepingcomputer.com/news/security/how-to-stop-windows-10-defender-from-uploading-files-to-microsoft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Like other antivirus programs, Microsoft Defender will upload suspicious files to Microsoft to determine if they are malicious. However, some consider this a privacy risk and would rather have their files stay on their computer than being uploaded to a third party. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 312<a href="https://securityaffairs.co/wordpress/117449/breaking-news/security-affairs-newsletter-round-312.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+10,000+ unpatched ABUS Secvest home alarms can be deactivated remotelyHackers are targeting Soliton...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking a Tesla Model X with a DJI Mavic 2 drone equipped with a WIFI dongle<a href="https://securityaffairs.co/wordpress/117441/hacking/tesla-model-x-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security duo has demonstrated how to hack a Tesla Model X’s and open the doors using a DJI Mavic 2 drone equipped with a WIFI dongle. 
+
+
+
+The scenario is disconcerting, hackers could use a drone to fly on your Tesla Model X and open the doors, a couple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud hosting provider Swiss Cloud suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/117433/cyber-crime/swiss-cloud-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss cloud hosting provider Swiss Cloud has suffered a ransomware attack that seriously impacted its server infrastructure.
+
+
+
+On April 27 the Swiss cloud hosting provider was hit by a ransomware attack that brought down the company’s server infrastructure.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Return of Dridex Banking Trojan<a href="https://cyware.com/news/the-return-of-dridex-banking-trojan-44c63c2e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers have been found sending QuickBooks invoices to infect victims’ devices with Dridex banking malware. About 14% of the malicious emails reached U.S. clients and 11% to South Korea.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 security baseline adds macro signing, JScript protection<a href="https://www.bleepingcomputer.com/news/security/office-365-security-baseline-adds-macro-signing-jscript-protection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has updated the security baseline for Microsoft 365 Apps for enterprise (formerly Office 365 Professional Plus) to include protection from JScript code execution attacks and unsigned macros.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk - A Growing Ransomware Threat<a href="https://cyware.com/news/babuk-a-growing-ransomware-threat-0944c9f3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rapidly emerging Babuk ransomware is becoming a serious threat as it has compromised the networks of sports, communication sectors, and government entities - all within a month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python also impacted by critical IP address validation vulnerability<a href="https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Python 3.3 standard library 'ipaddress' suffers from a critical IP address vulnerability (CVE-2021-29921) identical to the flaw that was reported in the "netmask" library earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mount Locker Ransomware Learns New Tricks to Evade Detection<a href="https://cyware.com/news/mount-locker-ransomware-learns-new-tricks-to-evade-detection-e4ea700e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found Mount Locker ransomware using sophisticated scripting and anti-prevention features in recent campaigns, and the change in tactics may be accompanied by the AstroLocker rebranding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Threats Keeping Organizations Super Busy<a href="https://cyware.com/news/zero-day-threats-keeping-organizations-super-busy-f7eae1cc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day attacks are one of the most challenging threats as they are very difficult to predict. Attackers have exploited zero-day flaws in applications and devices by Microsoft, Google, Apple, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AgeLocker ransomware operation targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/117424/malware/qnap-agelocker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP is warning its customers of AgeLocker ransomware attacks on their NAS devices.
+
+
+
+Crooks behind the AgeLocker ransomware operation are targeting QNAP NAS devices, the Taiwanese vendor warns. The vendor doesn't provide technical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Looks to Cryptocurrency Theft to Diversify its Attack Tactics<a href="https://cyware.com/news/lazarus-group-looks-to-cryptocurrency-theft-to-diversify-its-attack-tactics-1213711e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the North Korean threat actor had targeted e-commerce shops in 2019 and 2020 to steal payment card information, the attackers aimed to steal cryptocurrency, as well.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in the BIND software expose DNS servers to attacks<a href="https://securityaffairs.co/wordpress/117414/security/bind-dns-servers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) released updates for the BIND DNS software to patch several denial-of-service (DoS) and potential RCE flaws.
+
+
+
+The Internet Systems Consortium (ISC) has released security updates for the BIND DNS software to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarMarket RAT Uses Google SEO Tactics to Lure Victims<a href="https://cyware.com/news/solarmarket-rat-uses-google-seo-tactics-to-lure-victims-46b85a64"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using Google search redirection and drive-by-download tactics to infect targeted users with SolarMarker RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk crew announced it will stop ransomware attacks<a href="https://securityaffairs.co/wordpress/117407/cyber-crime/babuk-stops-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk ransomware operators shut down their affiliate program and announced to stop using ransomware, the group plans to move on data theft. 
+
+
+
+Recently the Babuk ransomware operators made the headlines for the ransomware attack against the DC Police...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Threats Still Looming over Microsoft Exchange<a href="https://cyware.com/news/several-threats-still-looming-over-microsoft-exchange-a8b32096"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Sophos revealed that attackers are trying to exploit the ProxyLogon vulnerabilities in Microsoft Exchange to install Monero cryptominer on the targeted servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gafgyt Learns from Mirai Botnet<a href="https://cyware.com/news/gafgyt-learns-from-mirai-botnet-ce357cba"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The reuse of the Mirai source code has enhanced the capability of Gafgyt to carry out DDoS attacks in various ways.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In The Ransomware Battle, Cybercriminals Have The Upper Hand<a href="https://www.npr.org/2021/04/29/991684891/in-the-ransomware-battle-cyber-criminals-have-the-upper-hand?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NBA's Houston Rockets were hit by a ransomware attack earlier this month. Now it's the Washington, D.C., police department. The common thread is an unknown ransomware group called Babuk.
+</details>
+<div style="text-align: right" markdown="1">
+NPR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
