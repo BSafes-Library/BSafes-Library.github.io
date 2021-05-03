@@ -34,6 +34,270 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit released for Microsoft Exchange bug dicovered by NSA<a href="https://www.bleepingcomputer.com/news/security/poc-exploit-released-for-microsoft-exchange-bug-dicovered-by-nsa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical documentation and proof-of-concept exploit (PoC) code has been released for a high-severity vulnerability in Microsoft Exchange Server that could let remote attackers execute code on unpatched machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart scammers aim at restaurants' online delivery systems<a href="https://www.cyberscoop.com/magecart-hack-delivery-pandemic/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The last six months have seen security breaches of five online ordering platforms, exposing some 343,000 payment cards, threat intelligence firm Gemini Advisory said on April 29.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alaska court system forced offline by cyberattack<a href="https://thehill.com//policy/cybersecurity/551463-alaska-court-system-forced-offline-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alaska Court System (ACS) was forced to temporarily disconnect its online servers this week due to a cyberattack that installed malware on their systems, disrupting virtual court hearings. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 40 Apps With More Than 100 Million Installs Found Leaking AWS Keys<a href="https://thehackernews.com/2021/05/over-40-apps-with-more-than-100-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most mobile app users tend to blindly trust that the apps they download from app stores are safe and secure. But that isn't always the case.  To demonstrate the pitfalls and identify vulnerabilities on a large scale, cybersecurity and machine intelligence company CloudSEK recently provided a platform called  BeVigil  where individuals can search and check app security ratings and other security issues before installing an app.  A latest  report  shared with The Hacker News detailed how the BeVigil search engine identified over 40 apps - with more than a cumulative 100 million downloads - that had hardcoded private Amazon Web Services (AWS) keys embedded within them, putting their internal networks and their users' data at risk of cyberattacks.  BeVigil finds popular apps leaking AWS keys  The AWS key leakage was spotted in some of the major apps such as Adobe Photoshop Fix, Adobe Comp, Hootsuite, IBM's Weather Channel, and online shopping services Club Factory and Wholee.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Contact Tracer Breach Hits the Keystone State<a href="https://www.infosecurity-magazine.com:443/news/contact-tracer-breach-hits-the/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PHI of 72,000 Pennsylvanians exposed after Insight Global employees allegedly ignored security protocols
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How a Norwegian Government Report Shows the Limits of CFIUS Data Reviews<a href="https://www.lawfareblog.com/how-norwegian-government-report-shows-limits-cfius-data-reviews"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CFIUS forced a Chinese firm to sell Grindr in 2019. Yet the application is sharing data widely today, including to a company in China.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure fixes zero-day in Pulse Connect Secure (PCS) SSL VPN actively exploited<a href="https://securityaffairs.co/wordpress/117484/hacking/pulse-connect-secure-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has fixed a zero-day flaw in the Pulse Connect Secure (PCS) SSL VPN appliance that threat actors are actively exploiting in the wild.
+
+
+
+Pulse Secure has addressed a zero-day vulnerability (CVE-2021-22893) in the Pulse Connect Secure (PCS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deepfake Attacks Are About to Surge, Experts Warn<a href="https://threatpost.com/deepfake-attacks-surge-experts-warn/165798/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New deepfake products and services are cropping up across the Dark Web.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure fixes VPN zero-day used to hack high-value targets<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-fixes-vpn-zero-day-used-to-hack-high-value-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has fixed a zero-day vulnerability in the Pulse Connect Secure (PCS) SSL VPN appliance that is being actively exploited to compromise the internal networks of defense firms and govt agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkPath scam group loses 134 domains impersonating the WHO<a href="https://therecord.media/darkpath-scam-group-loses-134-domains-impersonating-the-who/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+United Nations security experts and security firm Group-IB said they worked together to take down 134 websites operated by a cybercrime group known as DarkPath and tricking users via a fake survey.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Child Abuse Platform with 400k Users Taken Down<a href="https://www.infosecurity-magazine.com:443/news/boystown-taken-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darknet CSAM site Boystown seized and alleged site operators arrested
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Common Causes of Data Breach and How to Prevent It<a href="https://securityaffairs.co/wordpress/117480/security/data-breach-causes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the most common causes of a Data Breach and how to prevent It? How can organizations prevent it? 
+
+
+
+Data breaches are highly damaging and equally embarrassing for businesses andconsumers. If you look at Verizon’s 2020 Data Breach Investigations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Car Hacked Remotely From Drone via Zero-Click Exploit<a href="https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, dubbed TBONE, involves the exploitation of two vulnerabilities affecting ConnMan to take full control of the infotainment system of a Tesla without any user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Mulling Domestic Spying Partnership with Private Companies<a href="https://www.infosecurity-magazine.com:443/news/private-companies-may-spy-on/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US president reportedly considering using private firms to spy on Americans’ online activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virgin Active goes offline after sophisticated cyberattack<a href="https://www.timeslive.co.za/news/south-africa/2021-05-01-virgin-active-goes-offline-after-sophisticated-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virgin Active SA says it was forced to go offline after being targeted by cybercriminals. Forensic experts are probing the extent of the attack to determine if any information was compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Timeslive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abuse Excel 4.0 Macros to Deliver ZLoader and Quakbot Malware<a href="https://gbhackers.com/hackers-abuse-excel-4-0-macros/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Excel macros are quite old, but hackers are targetting them because it provides paths to access all the powerful functionalities like interaction with the operating system (OS).
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 03, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
