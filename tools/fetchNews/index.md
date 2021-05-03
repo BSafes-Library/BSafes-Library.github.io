@@ -37,6 +37,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Naikon APT Group is Now Using Nebulae Backdoor<a href="https://cyware.com/news/naikon-apt-group-is-now-using-nebulae-backdoor-3354f631"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered mischievous activities by the Naikon hacking group, which has been deploying a new backdoor against military organizations in Southeast Asia for over two years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WeSteal Stealer and WeControl RAT - The New Commodity Malware in Town<a href="https://cyware.com/news/westeal-stealer-and-wecontrol-rat-the-new-commodity-malware-in-town-e6125bbe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware curators often peddle their creations in underground forums in creative ways. Now, a new malware is being shamelessly marketed as the leading way to make money in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2447 Exploiting SonicWall Zero-day to Breach Networks<a href="https://cyware.com/news/unc2447-exploiting-sonicwall-zero-day-to-breach-networks-96026bfa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat group, tracked as UNC2447, was spotted exploiting a previously disclosed zero-day flaw in SonicWall’s Secure Mobile Access (SMA) appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RotaJakiro Stayed Hidden for Several Years<a href="https://cyware.com/news/rotajakiro-stayed-hidden-for-several-years-32d511c2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware backdoor in the town is giving a tough time to researchers by using a double encryption algorithm, a combination of AES and XOR, to stay under the radar.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk Ransomware Operators have Updated their Attack Techniques<a href="https://cyware.com/news/ryuk-ransomware-operators-have-updated-their-attack-techniques-b4ff843a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from AdvIntel discovered that Ryuk ransomware attacks are now mostly using exposed RDP connections to gain an initial foothold inside a targeted network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russia-Linked SVR APT Group Exploiting Five Known Vulnerabilities<a href="https://cyware.com/news/russia-linked-svr-apt-group-exploiting-five-known-vulnerabilities-9b0a77a3"> Full Text</a>
 </p>
 <details>
