@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 security baseline adds macro signing, JScript protection<a href="https://www.bleepingcomputer.com/news/security/office-365-security-baseline-adds-macro-signing-jscript-protection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has updated the&nbsp;security baseline&nbsp;for&nbsp;Microsoft 365 Apps for enterprise (formerly Office 365 Professional Plus) to include protection from JScript code execution attacks and unsigned macros.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

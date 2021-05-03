@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gafgyt Learns from Mirai Botnet<a href="https://cyware.com/news/gafgyt-learns-from-mirai-botnet-ce357cba"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The reuse of the Mirai source code has enhanced the capability of Gafgyt to carry out DDoS attacks in various ways.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

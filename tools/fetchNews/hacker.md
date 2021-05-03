@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking a Tesla Model X with a DJI Mavic 2 drone equipped with a WIFI dongle<a href="https://securityaffairs.co/wordpress/117441/hacking/tesla-model-x-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security duo has demonstrated how to hack a Tesla Model X’s and open the doors using a DJI Mavic 2 drone equipped with a WIFI dongle. 
+
+
+
+The scenario is disconcerting, hackers could use a drone to fly on your Tesla Model X and open the doors, a couple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Looks to Cryptocurrency Theft to Diversify its Attack Tactics<a href="https://cyware.com/news/lazarus-group-looks-to-cryptocurrency-theft-to-diversify-its-attack-tactics-1213711e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the North Korean threat actor had targeted e-commerce shops in 2019 and 2020 to steal payment card information, the attackers aimed to steal cryptocurrency, as well.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarMarket RAT Uses Google SEO Tactics to Lure Victims<a href="https://cyware.com/news/solarmarket-rat-uses-google-seo-tactics-to-lure-victims-46b85a64"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using Google search redirection and drive-by-download tactics to infect targeted users with SolarMarker RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

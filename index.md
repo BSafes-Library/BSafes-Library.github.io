@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2021
+May 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WeSteal, a shameless commodity cryptocurrency stealer available for sale<a href="https://securityaffairs.co/wordpress/117452/malware/westeal-cryptocurrency-stealer.html"> Full Text</a>
