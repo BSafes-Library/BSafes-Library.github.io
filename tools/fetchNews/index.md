@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hack the Capitol returns Tuesday, as all eyes look toward critical infrastructure security<a href="https://www.scmagazine.com/home/security-news/network-security/hack-the-capitol-returns-tuesday-as-all-eyes-look-toward-critical-infrastructure-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media talked about the event’s significance with organizer and founder of both Scythe and GRIMM, Bryson Bort.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hack the Capital returns Tuesday, as all eyes look toward critical infrastructure security<a href="https://www.scmagazine.com/home/security-news/network-security/hack-the-capital-returns-tuesday-as-all-eyes-look-toward-critical-infrastructure-security/"> Full Text</a>
 </p>
 <details>
