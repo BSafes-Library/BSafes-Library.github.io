@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft reveals final plan to remove Flash Player in Windows 10<a href="https://www.bleepingcomputer.com/news/security/microsoft-reveals-final-plan-to-remove-flash-player-in-windows-10/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toronto hit by ‘potential cyber breach’ from Accellion file transfer software<a href="https://www.itworldcanada.com/article/toronto-hit-by-potential-cyber-breach-from-accellion-file-transfer-software/446787?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ IT World Canada
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Rust-based Buer Malware Variant Has Been Spotted in the Wild<a href="https://thehackernews.com/2021/05/a-new-buer-malware-variant-has-been.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experian API exposed credit scores of tens of millions of Americans<a href="https://securityaffairs.co/wordpress/117460/data-breach/experian-api-data-leak.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After no ordinary year, congratulations to the 2021 SC Award winners<a href="https://www.scmagazine.com/scawards/after-no-ordinary-year-congratulations-to-the-2021-sc-award-winners/"> Full Text</a>
@@ -122,7 +122,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft reveals final plan to remove Flash Player in Windows 10<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-reveals-final-plan-to-remove-flash-player-in-windows-10/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Hosting Provider Swiss Cloud Suffered Ransomware Attack Impacting Server Infrastructure<a href="https://securityaffairs.co/wordpress/117433/cyber-crime/swiss-cloud-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Iranian State-Sponsored Ransomware Operation<a href="https://thehackernews.com/2021/05/researchers-uncover-iranian-state.html"> Full Text</a>
@@ -170,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Report Portugal: Q1 2021<a href="https://securityaffairs.co/wordpress/117462/reports/threat-report-portugal-q1-2021.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Not-so-customary customer service: Experts offer tips on vendor best practices<a href="https://www.scmagazine.com/scawards/not-so-customary-customer-service-experts-offer-tips-on-vendor-best-practices/"> Full Text</a>
@@ -210,7 +210,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 345,000 Legal and Operational Documents from Filipino Solicitor-General's Office Accessed by Unknown Third Party<a href="https://www.zdnet.com/article/turgensec-finds-345000-files-from-filipino-solicitor-generals-office-were-breached/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chinese Malware Targeted Russia's Largest Nuclear Submarine Designer<a href="https://thehackernews.com/2021/05/new-chinese-malware-targeted-russias.html"> Full Text</a>
@@ -242,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keeping up: How the threat landscape drove demand for and development of new capabilities<a href="https://www.scmagazine.com/scawards/how-the-threat-landscape-drove-new-development-and-capabilities/"> Full Text</a>
@@ -258,7 +258,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 Contact Tracing Breach Impacts Private Information of 72,000 People in Pennsylvania<a href="https://6abc.com/covid-19-contact-tracing-coronavirus-pennsylvania-pa-data-breach-insight-global/10560542/?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Employees of a vendor conducting COVID-19 contact tracing in Pennsylvania may ha
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Where do we go from here? The cyber industry’s struggle for speed and superiority<a href="https://www.scmagazine.com/scawards/the-cyber-industrys-struggle-for-speed-and-superiority/"> Full Text</a>
@@ -290,7 +290,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Cybercriminals Abuse OpenBullet for Credential Stuffing<a href="https://www.trendmicro.com/en_us/research/21/d/how-cybercriminals-abuse-openbullet-for-credential-stuffing-.html?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shedding light on the threat posed by shadow admins<a href="https://www.helpnetsecurity.com/2021/04/30/shadow-admins-threat/?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers develop program that helps assess encryption systems’ vulnerabilities<a href="https://www.helpnetsecurity.com/2021/04/30/assess-encryption-systems-vulnerabilities/?&web_view=true"> Full Text</a>

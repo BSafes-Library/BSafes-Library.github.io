@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toronto hit by ‘potential cyber breach’ from Accellion file transfer software<a href="https://www.itworldcanada.com/article/toronto-hit-by-potential-cyber-breach-from-accellion-file-transfer-software/446787?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Toronto says it suffered a “potential cyber breach” from its use of its Accellion FTA file transfer server in January that may have involved the health information of individuals.
+</details>
+<div style="text-align: right" markdown="1">
+IT World Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian API exposed credit scores of tens of millions of Americans<a href="https://securityaffairs.co/wordpress/117460/data-breach/experian-api-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experian API exposed credit scores of tens of millions of Americans due to a weakness with a partner website.
+
+
+
+Anyone was able to look up the credit score of tens of millions of Americans just by providing their name and mailing address. 
+
+
+
+The issue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+345,000 Legal and Operational Documents from Filipino Solicitor-General's Office Accessed by Unknown Third Party<a href="https://www.zdnet.com/article/turgensec-finds-345000-files-from-filipino-solicitor-generals-office-were-breached/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The files were publicly available since at least February, when TurgenSec said it first discovered the breach and emailed the solicitor-general and the Philippines government about the files.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 Contact Tracing Breach Impacts Private Information of 72,000 People in Pennsylvania<a href="https://6abc.com/covid-19-contact-tracing-coronavirus-pennsylvania-pa-data-breach-insight-global/10560542/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employees of a vendor conducting COVID-19 contact tracing in Pennsylvania may have compromised the information of at least 72,000 people, including their exposure status and their sexual orientation.
+</details>
+<div style="text-align: right" markdown="1">
+6ABC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

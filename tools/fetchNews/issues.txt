@@ -1,4 +1,4 @@
- -- [5G](/docs/issues/5g/5g/)<br>
+ -- 5G](/docs/issues/5g/5g/)<br>
  -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
  -- [Accident](/docs/issues/accident/accident/)<br>
  -- [Attack](/docs/issues/attack/attack/)<br>

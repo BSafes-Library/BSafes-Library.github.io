@@ -34,6 +34,310 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft reveals final plan to remove Flash Player in Windows 10<a href="https://www.bleepingcomputer.com/news/security/microsoft-reveals-final-plan-to-remove-flash-player-in-windows-10/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft quietly revealed its plans to remove the Adobe Flash plugin from Windows 10, with mandatory removal starting in July 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toronto hit by ‘potential cyber breach’ from Accellion file transfer software<a href="https://www.itworldcanada.com/article/toronto-hit-by-potential-cyber-breach-from-accellion-file-transfer-software/446787?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Toronto says it suffered a “potential cyber breach” from its use of its Accellion FTA file transfer server in January that may have involved the health information of individuals.
+</details>
+<div style="text-align: right" markdown="1">
+IT World Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Rust-based Buer Malware Variant Has Been Spotted in the Wild<a href="https://thehackernews.com/2021/05/a-new-buer-malware-variant-has-been.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed a new malspam campaign distributing a fresh variant of a malware loader called 'Buer' written in Rust, illustrating how adversaries are constantly honing their malware toolsets to evade analysis.  Dubbed "RustyBuer," the malware is distributed via emails masquerading as shipping notices from DHL Support, and is said to have affected no fewer than 200 organizations across more than 50 verticals since early April.  "The new Buer variant is written in Rust, an efficient and easy-to-use programming language that is becoming increasingly popular," Proofpoint researchers  said  in a report shared with The Hacker News. "Rewriting the malware in Rust enables the threat actor to better evade existing Buer detection capabilities."   First introduced in August of 2019,  Buer  is a modular malware-as-a-service offering that's sold on underground forums and used as a first-stage downloader to deliver additional
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian API exposed credit scores of tens of millions of Americans<a href="https://securityaffairs.co/wordpress/117460/data-breach/experian-api-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experian API exposed credit scores of tens of millions of Americans due to a weakness with a partner website.
+
+
+
+Anyone was able to look up the credit score of tens of millions of Americans just by providing their name and mailing address. 
+
+
+
+The issue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After no ordinary year, congratulations to the 2021 SC Award winners<a href="https://www.scmagazine.com/scawards/after-no-ordinary-year-congratulations-to-the-2021-sc-award-winners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This year’s awards feel quite different because – clearly – this was no ordinary year. The demands placed upon both cybersecurity professionals and vendors were profound, inching on extraordinary. But for all the challenges, these were inspiring times.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft reveals final plan to remove Flash Player in Windows 10<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-reveals-final-plan-to-remove-flash-player-in-windows-10/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft quietly revealed its plans to remove the Adobe Flash plugin from Windows 10, with mandatory removal starting in July 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Hosting Provider Swiss Cloud Suffered Ransomware Attack Impacting Server Infrastructure<a href="https://securityaffairs.co/wordpress/117433/cyber-crime/swiss-cloud-ransomware-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“On Monday morning, May 3rd, swiss cloud computing ag will inform you again about the current status and outlook,” a statement said. The impacted servers are expected to be restored by next week.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Iranian State-Sponsored Ransomware Operation<a href="https://thehackernews.com/2021/05/researchers-uncover-iranian-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran has been linked to yet another state-sponsored ransomware operation through a contracting company based in the country, according to new analysis.  "Iran's Islamic Revolutionary Guard Corps ( IRGC ) was operating a state-sponsored ransomware campaign through an Iranian contracting company called 'Emen Net Pasargard' (ENP)," cybersecurity firm Flashpoint  said  in its findings summarizing three documents leaked by an anonymous entity named Read My Lips or Lab Dookhtegan between March 19 and April 1 via its Telegram channel.  Dubbed "Project Signal," the initiative is said to have kickstarted sometime between late July 2020 and early September 2020, with ENP's internal research organization, named the "Studies Center," putting together a list of unspecified target websites.   A second spreadsheet validated by Flashpoint explicitly spelled out the project's financial motivations, with plans to launch the ransomware operations in late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q1 2021<a href="https://securityaffairs.co/wordpress/117462/reports/threat-report-portugal-q1-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: Q1 2021 compiles data collected on the malicious campaigns that occurred from January to March, Q1, of 2021.
+
+
+
+Threat Report Portugal Q1 2021: Phishing and malware by numbers.
+
+
+
+The Portuguese Abuse Open Feed 0xSI_f33d is...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not-so-customary customer service: Experts offer tips on vendor best practices<a href="https://www.scmagazine.com/scawards/not-so-customary-customer-service-experts-offer-tips-on-vendor-best-practices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From initial overtures and negotiations to installation and implementation to day-to-day operations and troubleshooting, The best vendor-customer relationships require mutual respect and open communication.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+345,000 Legal and Operational Documents from Filipino Solicitor-General's Office Accessed by Unknown Third Party<a href="https://www.zdnet.com/article/turgensec-finds-345000-files-from-filipino-solicitor-generals-office-were-breached/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The files were publicly available since at least February, when TurgenSec said it first discovered the breach and emailed the solicitor-general and the Philippines government about the files.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chinese Malware Targeted Russia's Largest Nuclear Submarine Designer<a href="https://thehackernews.com/2021/05/new-chinese-malware-targeted-russias.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor believed to be working on behalf of Chinese state-sponsored interests was recently observed targeting a Russia-based defense contractor involved in designing nuclear submarines for the naval arm of the Russian Armed Forces.  The phishing attack, which singled out a general director working at the Rubin Design Bureau, leveraged the infamous "Royal Road" Rich Text Format (RTF) weaponizer to deliver a previously undocumented Windows backdoor dubbed " PortDoor ," according to Cybereason's Nocturnus threat intelligence team.  "Portdoor has multiple functionalities, including the ability to do reconnaissance, target profiling, delivery of additional payloads, privilege escalation, process manipulation static detection antivirus evasion, one-byte XOR encryption, AES-encrypted data exfiltration and more," the researchers  said  in a write-up on Friday.   Rubin Design Bureau is a submarine design center located in Saint Petersburg, accounting fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keeping up: How the threat landscape drove demand for and development of new capabilities<a href="https://www.scmagazine.com/scawards/how-the-threat-landscape-drove-new-development-and-capabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How did a more threatening landscape shape strategies? And what changes will stick? In this SC Awards Winners Circle roundtable discussion, SC Media speaks to cybersecurity leaders, and award winners, about the year that was and its impact on the years to come.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 Contact Tracing Breach Impacts Private Information of 72,000 People in Pennsylvania<a href="https://6abc.com/covid-19-contact-tracing-coronavirus-pennsylvania-pa-data-breach-insight-global/10560542/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employees of a vendor conducting COVID-19 contact tracing in Pennsylvania may have compromised the information of at least 72,000 people, including their exposure status and their sexual orientation.
+</details>
+<div style="text-align: right" markdown="1">
+6ABC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where do we go from here? The cyber industry’s struggle for speed and superiority<a href="https://www.scmagazine.com/scawards/the-cyber-industrys-struggle-for-speed-and-superiority/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity industry faces twin calamities: unprecedented speed of modern cyberattacks and software as a single point of failure. SC Media examines where the cyber market must go from here.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cybercriminals Abuse OpenBullet for Credential Stuffing<a href="https://www.trendmicro.com/en_us/research/21/d/how-cybercriminals-abuse-openbullet-for-credential-stuffing-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the business of acquiring unique credentials continues to become more lucrative, cybercriminals are growing their attack tools and techniques by abusing legitimate software for nefarious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shedding light on the threat posed by shadow admins<a href="https://www.helpnetsecurity.com/2021/04/30/shadow-admins-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If threat actors take control of one of these accounts, they can extend their attack in many ways, perhaps seeking opportunities for lateral movement or privilege escalation whilst staying incognito.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers develop program that helps assess encryption systems’ vulnerabilities<a href="https://www.helpnetsecurity.com/2021/04/30/assess-encryption-systems-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A doctoral student at HSE University has proposed a new method to assess vulnerabilities in encryption systems, which is based on a brute-force search of possible options of symbol deciphering.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

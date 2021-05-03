@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cybercriminals Abuse OpenBullet for Credential Stuffing<a href="https://www.trendmicro.com/en_us/research/21/d/how-cybercriminals-abuse-openbullet-for-credential-stuffing-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the business of acquiring unique credentials continues to become more lucrative, cybercriminals are growing their attack tools and techniques by abusing legitimate software for nefarious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

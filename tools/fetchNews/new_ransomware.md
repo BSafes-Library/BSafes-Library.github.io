@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Iranian State-Sponsored Ransomware Operation<a href="https://thehackernews.com/2021/05/researchers-uncover-iranian-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran has been linked to yet another state-sponsored ransomware operation through a contracting company based in the country, according to new analysis.  "Iran's Islamic Revolutionary Guard Corps ( IRGC ) was operating a state-sponsored ransomware campaign through an Iranian contracting company called 'Emen Net Pasargard' (ENP)," cybersecurity firm Flashpoint&nbsp; said &nbsp;in its findings summarizing three documents leaked by an anonymous entity named Read My Lips or Lab Dookhtegan between March 19 and April 1 via its Telegram channel.  Dubbed "Project Signal," the initiative is said to have kickstarted sometime between late July 2020 and early September 2020, with ENP's internal research organization, named the "Studies Center," putting together a list of unspecified target websites.   A second spreadsheet validated by Flashpoint explicitly spelled out the project's financial motivations, with plans to launch the ransomware operations in late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
