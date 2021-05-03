@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked SVR APT Group Exploiting Five Known Vulnerabilities<a href="https://cyware.com/news/russia-linked-svr-apt-group-exploiting-five-known-vulnerabilities-9b0a77a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint advisory by the FBI, CISA, and NSA disclosed that the Russian APT group is exploiting flaws in Fortinet, Zimbra, Citrix, Pulse Secure, and VMware solutions to obtain login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hewlett Packard Enterprise Plugs Critical Bug in Edge Platform Tool<a href="https://threatpost.com/hewlett-packard-critical-bug-edge/165797/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warned that unpatched versions of HPE’s Edgeline Infrastructure Manager are open to remote authentication-bypass attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Codecov’s Code Coverage Tool Hacked<a href="https://cyware.com/news/codecovs-code-coverage-tool-hacked-635bcf76"> Full Text</a>
 </p>
 <details>
