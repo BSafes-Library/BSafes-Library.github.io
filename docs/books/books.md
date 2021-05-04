@@ -8,6 +8,7 @@ nav_order: 400
 
 * [1984, By George Orwell](https://book-1984.bsafes.com)
 * [Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus](https://papers.bsafes.com/docs/cybercrime/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
+* [Blockchain-mediated Licensing - Legal Engineering for Artist Empowerment, by Charles Adjovu; Ewa Fabian](https://papers.bsafes.com/docs/cryptocurrency/blockchain-mediated-licensing/)
 * [Cybersecurity in Elections - Models of Interagency Collaboration, by Sam van der Staak and Peter Wolf](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
 * [Crypto and Blockchain Fundamentals, by Mary C. Lacity](https://papers.bsafes.com/docs/cryptocurrency/crypto-and-blockchain-fundamentals/)
 * [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)

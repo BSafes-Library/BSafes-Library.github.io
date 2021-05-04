@@ -225,6 +225,18 @@ Military-grade cryptography has been widely available at no cost for personal an
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Blockchain-mediated Licensing - Legal Engineering for Artist Empowerment [HTML](https://papers.bsafes.com/docs/cryptocurrency/blockchain-mediated-licensing/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Licensing is one of the essential means of exploiting the monetary value of a musical work, and yet it is an area fraught with many issues and transactional costs which make it a di cult process for individuals and organizations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
