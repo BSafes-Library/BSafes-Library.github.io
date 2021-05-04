@@ -34,7 +34,59 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks 150 million user records from Iranian Raychat app<a href="https://www.hackread.com/hacker-leaks-iranian-raychat-app-user-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged data breach which has been seen and analyzed by Hackread.com includes full names, IP addresses, email addresses, Bcrypt passwords, Telegram messenger IDs, etc.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Security Association Officially Opens for Membership<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-association/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Cyber Security Association has officially launched, after being in an expressions of interest phase
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of millions Of Dell PCs affected by CVE-2021-21551 flaws<a href="https://securityaffairs.co/wordpress/117514/security/cve-2021-21551-dell-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American multinational computer technology giant Dell addresses a 12-year-old driver flaw, tracked as CVE-2021-21551, impacting millions of computers.
+
+
+
+Hundreds of millions of Dell computers worldwide are affected by a 12-year-old vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Worldwide phishing attacks deliver three new malware strains<a href="https://www.bleepingcomputer.com/news/security/worldwide-phishing-attacks-deliver-three-new-malware-strains/"> Full Text</a>
@@ -50,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Issues Guidance on Securing IT-OT Connectivity<a href="https://www.securityweek.com/nsa-issues-guidance-securing-it-ot-connectivity?&web_view=true"> Full Text</a>
@@ -66,7 +118,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Pingback Malware Using ICMP Tunneling to Evade C&C Detection<a href="https://thehackernews.com/2021/05/new-pingback-malware-using-icmp.html"> Full Text</a>
@@ -82,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scripps Health Knocked Offline by Ransomware<a href="https://www.infosecurity-magazine.com:443/news/scripps-health-knocked-offline-by/"> Full Text</a>
@@ -98,7 +150,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Project Signal: a second Iranian State-Sponsored Ransomware Operation<a href="https://securityaffairs.co/wordpress/117506/apt/iran-state-sponsored-ransomware.html"> Full Text</a>
@@ -118,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell patches vulnerable driver in a decade of IT products, computers and laptops<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/dell-patches-vulnerable-driver-in-a-decade-of-systems-and-laptops/"> Full Text</a>
@@ -134,7 +186,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerable Dell driver puts hundreds of millions of systems at risk<a href="https://www.bleepingcomputer.com/news/security/vulnerable-dell-driver-puts-hundreds-of-millions-of-systems-at-risk/"> Full Text</a>
@@ -150,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acronis Raises $250 Million at $2.5 Billion Valuation<a href="https://www.securityweek.com/acronis-raises-250-million-25-billion-valuation?&web_view=true"> Full Text</a>
@@ -166,7 +218,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Should the Service Desk Reset Passwords?<a href="https://thehackernews.com/2021/05/how-should-service-desk-reset-passwords.html"> Full Text</a>
@@ -182,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure Patches Critical Zero-Day Flaw<a href="https://www.infosecurity-magazine.com:443/news/pulse-secure-patches-critical/"> Full Text</a>
@@ -198,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple addresses three zero-day flaws in its WebKit browser engine<a href="https://securityaffairs.co/wordpress/117500/security/apple-webkit-zero-day-flaws.html"> Full Text</a>
@@ -218,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A unified front: Effective, cooperative vendor-user relationships<a href="https://www.scmagazine.com/scawards/a-unified-front-effective-cooperative-vendor-user-relationships/"> Full Text</a>
@@ -234,7 +286,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows 'Pingback' malware uses ICMP for covert communication<a href="https://www.bleepingcomputer.com/news/security/new-windows-pingback-malware-uses-icmp-for-covert-communication/"> Full Text</a>
@@ -250,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Imperva acquires API security company CloudVector<a href="https://venturebeat.com/2021/05/03/imperva-acquires-api-cybersecurity-company-cloudvector/?&web_view=true"> Full Text</a>
@@ -266,7 +318,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Patch Out for Critical Pulse Secure VPN 0-Day Under Attack<a href="https://thehackernews.com/2021/05/critical-patch-out-for-month-old-pulse.html"> Full Text</a>
@@ -282,7 +334,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Iranian Ransomware Group Targets Israeli Firms<a href="https://www.infosecurity-magazine.com:443/news/suspected-iranian-ransomware-group/"> Full Text</a>
@@ -298,7 +350,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Reports Two iOS Zero-day Vulnerabilities Actively Used in Attacks<a href="https://arstechnica.com/gadgets/2021/05/apple-reports-2-ios-0days-that-let-hackers-compromise-fully-patched-devices/?&web_view=true"> Full Text</a>
@@ -314,7 +366,7 @@ Ars Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Botnet Infected Internet TV Users, Now Taken Down<a href="https://cyware.com/news/massive-botnet-infected-internet-tv-users-now-taken-down-317e4eff"> Full Text</a>
@@ -330,7 +382,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases Urgent Security Patches For Zero‑Day Bugs Under Active Attacks<a href="https://thehackernews.com/2021/05/apple-releases-urgent-security-patches.html"> Full Text</a>
