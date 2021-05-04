@@ -34,6 +34,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks 150 million user records from Iranian Raychat app<a href="https://www.hackread.com/hacker-leaks-iranian-raychat-app-user-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged data breach which has been seen and analyzed by Hackread.com includes full names, IP addresses, email addresses, Bcrypt passwords, Telegram messenger IDs, etc.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Security Association Officially Opens for Membership<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-association/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Cyber Security Association has officially launched, after being in an expressions of interest phase
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of millions Of Dell PCs affected by CVE-2021-21551 flaws<a href="https://securityaffairs.co/wordpress/117514/security/cve-2021-21551-dell-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American multinational computer technology giant Dell addresses a 12-year-old driver flaw, tracked as CVE-2021-21551, impacting millions of computers.
+
+
+
+Hundreds of millions of Dell computers worldwide are affected by a 12-year-old vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 04, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
