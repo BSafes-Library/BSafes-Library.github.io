@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telstra service provider hit by cyber attack as hackers claim SIM card information stolen<a href="https://www.news.com.au/technology/online/hacking/telstra-service-provider-hit-by-cyber-attack-as-hackers-claim-sim-card-information-stolen/news-story/2ff32b2e3634506882102e9c9d012994?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The victim, Melbourne-based Schepisi Communications, is a partner of Telstra that supplies phone numbers and cloud storage services on behalf of the telecommunications giant.
+</details>
+<div style="text-align: right" markdown="1">
+News.com.au
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
