@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software developers warm up to automated testing as security, cloud rise in importance<a href="https://www.scmagazine.com/home/security-news/software-developers-warm-up-to-automated-testing-as-security-cloud-rise-in-importance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are frustrated about the sluggish pace of testing code and are increasingly incorporating automation and machine learning to ease workloads.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
