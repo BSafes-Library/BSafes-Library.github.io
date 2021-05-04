@@ -11,6 +11,48 @@ nav_order: 900180
 May 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Health care giant Scripps Health hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/health-care-giant-scripps-health-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nonprofit health care provider Scripps Health in San Diego is currently dealing with a ransomware attack that forced the organization to suspend user access to its online portal and switch to alternative methods for patient care operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N3TW0RM ransomware emerges in wave of cyberattacks in Israel<a href="https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as 'N3TW0RM' is targeting Israeli companies in a wave of cyberattacks starting last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk Ransomware Operators have Updated their Attack Techniques<a href="https://cyware.com/news/ryuk-ransomware-operators-have-updated-their-attack-techniques-b4ff843a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from AdvIntel discovered that Ryuk ransomware attacks are now mostly using exposed RDP connections to gain an initial foothold inside a targeted network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Iranian State-Sponsored Ransomware Operation<a href="https://thehackernews.com/2021/05/researchers-uncover-iranian-state.html"> Full Text</a>
 </p>
 <details>

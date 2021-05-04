@@ -34,6 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worldwide phishing attacks deliver three new malware strains<a href="https://www.bleepingcomputer.com/news/security/worldwide-phishing-attacks-deliver-three-new-malware-strains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global-scale phishing campaign targeted worldwide organizations across a large array of industries with never-before-seen malware strains delivered via specially-tailored lures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Issues Guidance on Securing IT-OT Connectivity<a href="https://www.securityweek.com/nsa-issues-guidance-securing-it-ot-connectivity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. NSA last week released a cybersecurity advisory focusing on the security of operational technology (OT) systems, particularly in terms of connectivity to IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Pingback Malware Using ICMP Tunneling to Evade C&C Detection<a href="https://thehackernews.com/2021/05/new-pingback-malware-using-icmp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers on Tuesday disclosed a novel malware that uses a variety of tricks to stay under the radar and evade detection, while stealthily capable of executing arbitrary commands on infected systems.  Called 'Pingback,' the Windows malware leverages Internet Control Message Protocol ( ICMP ) tunneling for covert bot communications, allowing the adversary to utilize ICMP packets to piggyback attack code, according to an analysis  published today by Trustwave.   Pingback (" oci.dll ") achieves this by getting loaded through a legitimate service called  MSDTC  (Microsoft Distributed Transaction Coordinator) — a component responsible for handling database operations that are distributed over multiple machines — by taking advantage of a method called  DLL search order hijacking , which involves using a genuine application to preload a malicious DLL file.  Naming the malware as one of the plugins required for supporting  Oracle ODBC  interface in MSDTC is key to the atta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scripps Health Knocked Offline by Ransomware<a href="https://www.infosecurity-magazine.com:443/news/scripps-health-knocked-offline-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare non-profit postpones appointments after attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Project Signal: a second Iranian State-Sponsored Ransomware Operation<a href="https://securityaffairs.co/wordpress/117506/apt/iran-state-sponsored-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked ATP group carried out a ransomware operation through a contracting company based in the country, Flashpoint researchers warn.
+
+
+
+Researchers from Flashpoint have uncovered a state-sponsored ransomware campaign conducted by Iran’s Islamic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell patches vulnerable driver in a decade of IT products, computers and laptops<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/dell-patches-vulnerable-driver-in-a-decade-of-systems-and-laptops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The five bugs, collectively cataloged as CVE-2021-21551, create privilege escalation and denial of service issues stemming from memory corruption, lack of authentication, and code logic flaws.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Dell driver puts hundreds of millions of systems at risk<a href="https://www.bleepingcomputer.com/news/security/vulnerable-dell-driver-puts-hundreds-of-millions-of-systems-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A driver that's been pushed for the past 12 years to Dell computer devices for consumers and enterprises contains multiple vulnerabilities that could lead to increased privileges on the system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis Raises $250 Million at $2.5 Billion Valuation<a href="https://www.securityweek.com/acronis-raises-250-million-25-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding, which brings the total raised by the company to more than $400 million, was led by CVC Capital Partners VII. Acronis announced achieving unicorn status in 2019 after raising $147 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Should the Service Desk Reset Passwords?<a href="https://thehackernews.com/2021/05/how-should-service-desk-reset-passwords.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ask the average helpdesk technician what they do all day, and they will probably answer by saying that they reset passwords. Sure, helpdesk technicians do plenty of other things too, but in many organizations, a disproportionate number of helpdesk calls are tied to password resets.  On the surface, having a  helpdesk technician reset a user's password  probably doesn't seem like a big deal. After all, the technician simply opens Active Directory Users and Computers, right-clicks on the user account, and chooses the Reset Password command from the shortcut menu. Resetting a password in this way is an easy process. Organizations can even opt to use an alternative tool such as the Windows Admin Center or even PowerShell if they prefer.  One thing that most people probably don't stop and think about, however, is that even though the steps involved in the password reset process are simple enough, the  process as a whole constitutes a major security risk .  Security and the service desk  Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure Patches Critical Zero-Day Flaw<a href="https://www.infosecurity-magazine.com:443/news/pulse-secure-patches-critical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVSS 10.0 bug was exploited by multiple APT groups
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addresses three zero-day flaws in its WebKit browser engine<a href="https://securityaffairs.co/wordpress/117500/security/apple-webkit-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to patch three zero-days in the WebKit, the Apple's browser engine, and fixed a zero-day exploited in the wild.
+
+
+
+Apple released security updates to address four zero-day vulnerabilities impacting WebKit, which is used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A unified front: Effective, cooperative vendor-user relationships<a href="https://www.scmagazine.com/scawards/a-unified-front-effective-cooperative-vendor-user-relationships/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What factors into a productive vendor-customer relationship? What are the perpetual challenges that emerge? In this SC Awards Winners Circle roundtable, we spoke to cybersecurity leaders, and SC Award winners, to break down the components of a vendor-user relationship that drive effective system security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows 'Pingback' malware uses ICMP for covert communication<a href="https://www.bleepingcomputer.com/news/security/new-windows-pingback-malware-uses-icmp-for-covert-communication/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Trustwave researchers have disclosed their findings on a novel Windows malware sample that uses Internet Control Message Protocol (ICMP) for its command-and-control (C2) activities. Dubbed "Pingback," this malware targets Windows 64-bit systems, and uses DLL Hijacking to gain persistence.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Imperva acquires API security company CloudVector<a href="https://venturebeat.com/2021/05/03/imperva-acquires-api-cybersecurity-company-cloudvector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva today announced it plans to acquire application programming interface (API) security company CloudVector for an undisclosed sum to differentiate itself in the API protection market.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Patch Out for Critical Pulse Secure VPN 0-Day Under Attack<a href="https://thehackernews.com/2021/05/critical-patch-out-for-month-old-pulse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti, the company behind Pulse Secure VPN appliances, has released a security patch to remediate a critical security vulnerability that was found being actively exploited in the wild by at least two different threat actors.  Tracked as  CVE-2021-22893  (CVSS score 10), the flaw concerns "multiple use after free" issues in Pulse Connect Secure that could allow a remote unauthenticated attacker to execute arbitrary code and take control of the affected system. All Pulse Connect Secure versions prior to 9.1R11.4 are impacted.   The flaw came to light on April 20 after FireEye  disclosed  a series of intrusions targeting defense, government, and financial organizations in the U.S. and elsewhere by leveraging critical vulnerabilities in the remote access solution to bypass multi-factor authentication protections and breach enterprise networks.  The development promoted the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to issue an  Emergency Directive  urging fede
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Iranian Ransomware Group Targets Israeli Firms<a href="https://www.infosecurity-magazine.com:443/news/suspected-iranian-ransomware-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report suggests “Networm” group has hit H&M Israel
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Reports Two iOS Zero-day Vulnerabilities Actively Used in Attacks<a href="https://arstechnica.com/gadgets/2021/05/apple-reports-2-ios-0days-that-let-hackers-compromise-fully-patched-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after Apple issued the release of iOS 14.5, the company has released a new update to patch two zero-days that allowed attackers to execute malicious code on up-to-date devices.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Botnet Infected Internet TV Users, Now Taken Down<a href="https://cyware.com/news/massive-botnet-infected-internet-tv-users-now-taken-down-317e4eff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Pareto CTV botnet, the botnet was made of almost a million infected Android devices and imitated the activity of millions of people watching ads on their smart devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Urgent Security Patches For Zero‑Day Bugs Under Active Attacks<a href="https://thehackernews.com/2021/05/apple-releases-urgent-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released security updates for  iOS ,  macOS , and  watchOS  to address three zero-day flaws and expand patches for a fourth vulnerability that the company said might have been exploited in the wild.   The weaknesses all concern WebKit, the browser engine which powers Safari and other third-party web browsers in iOS, allowing an adversary to execute arbitrary code on target devices. A summary of the three security bugs are as follows -   CVE-2021-30663:  An integer overflow vulnerability that could be exploited to craft malicious web content, which may lead to code execution. The flaw was addressed with improved input validation.  CVE-2021-30665:  A memory corruption issue that could be exploited to craft malicious web content, which may lead to code execution. The flaw was addressed with improved state management.  CVE-2021-30666:  A buffer overflow vulnerability that could be exploited to craft malicious web content, which may lead to code execution. The flaw was addr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

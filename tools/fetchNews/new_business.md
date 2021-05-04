@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis Raises $250 Million at $2.5 Billion Valuation<a href="https://www.securityweek.com/acronis-raises-250-million-25-billion-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding, which brings the total raised by the company to more than $400 million, was led by CVC Capital Partners VII. Acronis announced achieving unicorn status in 2019 after raising $147 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Imperva acquires API security company CloudVector<a href="https://venturebeat.com/2021/05/03/imperva-acquires-api-cybersecurity-company-cloudvector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva today announced it plans to acquire application programming interface (API) security company CloudVector for an undisclosed sum to differentiate itself in the API protection market.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

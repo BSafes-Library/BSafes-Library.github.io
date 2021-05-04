@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scripps Health Knocked Offline by Ransomware<a href="https://www.infosecurity-magazine.com:443/news/scripps-health-knocked-offline-by/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare non-profit postpones appointments after attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Project Signal: a second Iranian State-Sponsored Ransomware Operation<a href="https://securityaffairs.co/wordpress/117506/apt/iran-state-sponsored-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked ATP group carried out a ransomware operation through a contracting company based in the country, Flashpoint researchers warn.
+
+
+
+Researchers from Flashpoint have uncovered a state-sponsored ransomware campaign conducted by Iran’s Islamic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Iranian Ransomware Group Targets Israeli Firms<a href="https://www.infosecurity-magazine.com:443/news/suspected-iranian-ransomware-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report suggests “Networm” group has hit H&amp;M Israel
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

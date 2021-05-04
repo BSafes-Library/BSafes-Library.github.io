@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Should the Service Desk Reset Passwords?<a href="https://thehackernews.com/2021/05/how-should-service-desk-reset-passwords.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ask the average helpdesk technician what they do all day, and they will probably answer by saying that they reset passwords. Sure, helpdesk technicians do plenty of other things too, but in many organizations, a disproportionate number of helpdesk calls are tied to password resets.  On the surface, having a&nbsp; helpdesk technician reset a user's password &nbsp;probably doesn't seem like a big deal. After all, the technician simply opens Active Directory Users and Computers, right-clicks on the user account, and chooses the Reset Password command from the shortcut menu. Resetting a password in this way is an easy process. Organizations can even opt to use an alternative tool such as the Windows Admin Center or even PowerShell if they prefer.  One thing that most people probably don't stop and think about, however, is that even though the steps involved in the password reset process are simple enough, the&nbsp; process as a whole constitutes a major security risk .  Security and the service desk  Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A unified front: Effective, cooperative vendor-user relationships<a href="https://www.scmagazine.com/scawards/a-unified-front-effective-cooperative-vendor-user-relationships/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What factors into a productive vendor-customer relationship? What are the perpetual challenges that emerge? In this SC Awards Winners Circle roundtable, we spoke to cybersecurity leaders, and SC Award winners, to break down the components of a vendor-user relationship that drive effective system security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell patches vulnerable driver in a decade of IT products, computers and laptops<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/dell-patches-vulnerable-driver-in-a-decade-of-systems-and-laptops/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The five bugs, collectively cataloged as CVE-2021-21551, create privilege escalation and denial of service issues stemming from memory corruption, lack of authentication, and code logic flaws.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Dell driver puts hundreds of millions of systems at risk<a href="https://www.bleepingcomputer.com/news/security/vulnerable-dell-driver-puts-hundreds-of-millions-of-systems-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A driver that's been pushed for the past 12 years to Dell computer devices for consumers and enterprises contains multiple vulnerabilities that could lead to increased privileges on the system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure Patches Critical Zero-Day Flaw<a href="https://www.infosecurity-magazine.com:443/news/pulse-secure-patches-critical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVSS 10.0 bug was exploited by multiple APT groups
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addresses three zero-day flaws in its WebKit browser engine<a href="https://securityaffairs.co/wordpress/117500/security/apple-webkit-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to patch three zero-days in the WebKit, the Apple's browser engine, and fixed a zero-day exploited in the wild.
+
+
+
+Apple released security updates to address four zero-day vulnerabilities impacting WebKit, which is used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Patch Out for Critical Pulse Secure VPN 0-Day Under Attack<a href="https://thehackernews.com/2021/05/critical-patch-out-for-month-old-pulse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti, the company behind Pulse Secure VPN appliances, has released a security patch to remediate a critical security vulnerability that was found being actively exploited in the wild by at least two different threat actors.  Tracked as&nbsp; CVE-2021-22893 &nbsp;(CVSS score 10), the flaw concerns "multiple use after free" issues in Pulse Connect Secure that could allow a remote unauthenticated attacker to execute arbitrary code and take control of the affected system. All Pulse Connect Secure versions prior to 9.1R11.4 are impacted.   The flaw came to light on April 20 after FireEye&nbsp; disclosed &nbsp;a series of intrusions targeting defense, government, and financial organizations in the U.S. and elsewhere by leveraging critical vulnerabilities in the remote access solution to bypass multi-factor authentication protections and breach enterprise networks.  The development promoted the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to issue an&nbsp; Emergency Directive &nbsp;urging fede
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Reports Two iOS Zero-day Vulnerabilities Actively Used in Attacks<a href="https://arstechnica.com/gadgets/2021/05/apple-reports-2-ios-0days-that-let-hackers-compromise-fully-patched-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after Apple issued the release of iOS 14.5, the company has released a new update to patch two zero-days that allowed attackers to execute malicious code on up-to-date devices.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Urgent Security Patches For Zero‑Day Bugs Under Active Attacks<a href="https://thehackernews.com/2021/05/apple-releases-urgent-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released security updates for&nbsp; iOS ,&nbsp; macOS , and&nbsp; watchOS &nbsp;to address three zero-day flaws and expand patches for a fourth vulnerability that the company said might have been exploited in the wild.   The weaknesses all concern WebKit, the browser engine which powers Safari and other third-party web browsers in iOS, allowing an adversary to execute arbitrary code on target devices. A summary of the three security bugs are as follows -   CVE-2021-30663: &nbsp;An integer overflow vulnerability that could be exploited to craft malicious web content, which may lead to code execution. The flaw was addressed with improved input validation.  CVE-2021-30665: &nbsp;A memory corruption issue that could be exploited to craft malicious web content, which may lead to code execution. The flaw was addressed with improved state management.  CVE-2021-30666: &nbsp;A buffer overflow vulnerability that could be exploited to craft malicious web content, which may lead to code execution. The flaw was addr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

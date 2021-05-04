@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart scammers aim at restaurants' online delivery systems<a href="https://www.cyberscoop.com/magecart-hack-delivery-pandemic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The last six months have seen security breaches of five online ordering platforms, exposing some 343,000 payment cards, threat intelligence firm Gemini Advisory said on April 29.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkPath scam group loses 134 domains impersonating the WHO<a href="https://therecord.media/darkpath-scam-group-loses-134-domains-impersonating-the-who/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+United Nations security experts and security firm Group-IB said they worked together to take down 134 websites operated by a cybercrime group known as DarkPath and tricking users via a fake survey.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
