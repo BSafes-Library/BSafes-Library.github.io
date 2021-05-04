@@ -34,6 +34,138 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health care giant Scripps Health hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/health-care-giant-scripps-health-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nonprofit health care provider Scripps Health in San Diego is currently dealing with a ransomware attack that forced the organization to suspend user access to its online portal and switch to alternative methods for patient care operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook Oversight Board to rule on Trump ban Wednesday | Washington keeps close eye as Apple antitrust fight goes to court | Twitter expands Clubhouse-like feature<a href="https://thehill.com//policy/technology/overnights/551575-hillicon-valley-facebook-oversight-board-to-rule-on-trump-ban"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy Monday! Facebook’s Oversight Board said it will announce its decision on former President TrumpDonald TrumpFacebook Oversight Board to rule on Trump ban Wednesday Rubio keeping door open on White House bid Lincoln Project taunts Trump, saying he lost to 'swamp,' McConnell MORE’s suspended accounts on Wednesday. In California, the antitrust trial between Apple and Epic Games kicked off, and it's expected to be closely watched in Washington amid mounting scrutiny over the market power of Silicon Valley giants. And Twitter announced it’s opening up its live audio room feature, Spaces, to more users. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert released PoC exploit for Microsoft Exchange flaw<a href="https://securityaffairs.co/wordpress/117493/hacking/microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher released technical details and a PoC code for a high-severity vulnerability in Microsoft Exchange Server reported by the NSA.
+
+
+
+A security expert released technical details and proof-of-concept exploit (PoC) code for the high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure releases patch for zero-day used to target defense industrial base<a href="https://www.scmagazine.com/home/security-news/government-and-defense/pulse-secure-releases-patch-for-zero-day-used-to-target-defense-industrial-base/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Security said over the past couple of weeks it has worked closely with the Cybersecurity and Infrastructure Security Agency (CISA) as well as FireEye and Stroz Friedberg to investigate and respond quickly to the malicious activity that was identified on its customers’ systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scripps Health Cyberattack Causes Widespread Hospital Outages<a href="https://threatpost.com/scripps-health-cyberattack-hospital-outages/165817/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Diego-based hospital system diverted ambulances to other medical centers after a suspected ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes 2 iOS zero-day vulnerabilities actively used in attacks<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-2-ios-zero-day-vulnerabilities-actively-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Apple has released security updates that fix two actively exploited iOS zero-day vulnerabilities in the Webkit engine used by hackers to attack iPhones, iPads, iPods, macOS, and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attacks Slaughter All Spectre Defenses <a href="https://threatpost.com/attacks-slaughter-spectre-defenses/165809/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 3+ years computer scientists spent concocting ways to defend against these supply-chain attacks against chip architecture? It’s bound for the dustbin. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N3TW0RM ransomware emerges in wave of cyberattacks in Israel<a href="https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as 'N3TW0RM' is targeting Israeli companies in a wave of cyberattacks starting last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
