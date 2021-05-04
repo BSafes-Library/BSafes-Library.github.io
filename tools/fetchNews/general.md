@@ -8,6 +8,126 @@ nav_order: 900072
 
 ## General
 ---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft reveals final plan to remove Flash Player in Windows 10<a href="https://www.bleepingcomputer.com/news/security/microsoft-reveals-final-plan-to-remove-flash-player-in-windows-10/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft quietly revealed its plans to remove the Adobe Flash plugin from Windows 10, with mandatory removal starting in July 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After no ordinary year, congratulations to the 2021 SC Award winners<a href="https://www.scmagazine.com/scawards/after-no-ordinary-year-congratulations-to-the-2021-sc-award-winners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This year’s awards feel quite different because – clearly – this was no ordinary year. The demands placed upon both cybersecurity professionals and vendors were profound, inching on extraordinary. But for all the challenges, these were inspiring times.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft reveals final plan to remove Flash Player in Windows 10<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-reveals-final-plan-to-remove-flash-player-in-windows-10/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft quietly revealed its plans to remove the Adobe Flash plugin from Windows 10, with mandatory removal starting in July 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q1 2021<a href="https://securityaffairs.co/wordpress/117462/reports/threat-report-portugal-q1-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Threat Report Portugal: Q1 2021&nbsp;compiles data collected on the malicious campaigns that occurred from January to March, Q1, of 2021.
+
+
+
+Threat Report Portugal Q1 2021: Phishing and malware by numbers.
+
+
+
+The Portuguese Abuse Open Feed&nbsp;0xSI_f33d&nbsp;is...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not-so-customary customer service: Experts offer tips on vendor best practices<a href="https://www.scmagazine.com/scawards/not-so-customary-customer-service-experts-offer-tips-on-vendor-best-practices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From initial overtures and negotiations to installation and implementation to day-to-day operations and troubleshooting, The best vendor-customer relationships require mutual respect and open communication.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keeping up: How the threat landscape drove demand for and development of new capabilities<a href="https://www.scmagazine.com/scawards/how-the-threat-landscape-drove-new-development-and-capabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How did a more threatening landscape shape strategies? And what changes will stick? In this SC Awards Winners Circle roundtable discussion, SC Media speaks to cybersecurity leaders, and award winners, about the year that was and its impact on the years to come.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where do we go from here? The cyber industry’s struggle for speed and superiority<a href="https://www.scmagazine.com/scawards/the-cyber-industrys-struggle-for-speed-and-superiority/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity industry faces twin calamities: unprecedented speed of modern cyberattacks and software as a single point of failure. SC Media examines where the cyber market must go from here.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shedding light on the threat posed by shadow admins<a href="https://www.helpnetsecurity.com/2021/04/30/shadow-admins-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If threat actors take control of one of these accounts, they can extend their attack in many ways, perhaps seeking opportunities for lateral movement or privilege escalation whilst staying incognito.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How a Norwegian Government Report Shows the Limits of CFIUS Data Reviews<a href="https://www.lawfareblog.com/how-norwegian-government-report-shows-limits-cfius-data-reviews"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CFIUS forced a Chinese firm to sell Grindr in 2019. Yet the application is sharing data widely today, including to a company in China.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

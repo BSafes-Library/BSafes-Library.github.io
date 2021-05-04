@@ -8,6 +8,48 @@ nav_order: 900140
 
 ## Outage
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scripps Health Cyberattack Causes Widespread Hospital Outages<a href="https://threatpost.com/scripps-health-cyberattack-hospital-outages/165817/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Diego-based hospital system diverted ambulances to other medical centers after a suspected ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alaska court system forced offline by cyberattack<a href="https://thehill.com//policy/cybersecurity/551463-alaska-court-system-forced-offline-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alaska Court System (ACS) was forced to temporarily disconnect its online servers this week due to a cyberattack that installed malware on their systems, disrupting virtual court hearings.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virgin Active goes offline after sophisticated cyberattack<a href="https://www.timeslive.co.za/news/south-africa/2021-05-01-virgin-active-goes-offline-after-sophisticated-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virgin Active SA says it was forced to go offline after being targeted by cybercriminals. Forensic experts are probing the extent of the attack to determine if any information was compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Timeslive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

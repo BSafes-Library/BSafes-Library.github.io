@@ -11,6 +11,66 @@ nav_order: 900029
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Codecov’s Code Coverage Tool Hacked<a href="https://cyware.com/news/codecovs-code-coverage-tool-hacked-635bcf76"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers started to target Bash Uploader on January 31, when they modified the script to deliver the info from the customers’ environment to a server outside Codecov’s infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 40 Apps With More Than 100 Million Installs Found Leaking AWS Keys<a href="https://thehackernews.com/2021/05/over-40-apps-with-more-than-100-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most mobile app users tend to blindly trust that the apps they download from app stores are safe and secure. But that isn't always the case.  To demonstrate the pitfalls and identify vulnerabilities on a large scale, cybersecurity and machine intelligence company CloudSEK recently provided a platform called&nbsp; BeVigil &nbsp;where individuals can search and check app security ratings and other security issues before installing an app.  A latest&nbsp; report &nbsp;shared with The Hacker News detailed how the BeVigil search engine identified over 40 apps - with more than a cumulative 100 million downloads - that had hardcoded private Amazon Web Services (AWS) keys embedded within them, putting their internal networks and their users' data at risk of cyberattacks.  BeVigil finds popular apps leaking AWS keys  The AWS key leakage was spotted in some of the major apps such as Adobe Photoshop Fix, Adobe Comp, Hootsuite, IBM's Weather Channel, and online shopping services Club Factory and Wholee.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Contact Tracer Breach Hits the Keystone State<a href="https://www.infosecurity-magazine.com:443/news/contact-tracer-breach-hits-the/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PHI of 72,000 Pennsylvanians exposed after Insight Global employees allegedly ignored security protocols
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Common Causes of Data Breach and How to Prevent It<a href="https://securityaffairs.co/wordpress/117480/security/data-breach-causes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the most common causes of a Data Breach and how to prevent It? How can organizations prevent it? 
+
+
+
+Data breaches are highly damaging and equally embarrassing for businesses andconsumers. If you look at Verizon’s&nbsp;2020 Data Breach Investigations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Toronto hit by ‘potential cyber breach’ from Accellion file transfer software<a href="https://www.itworldcanada.com/article/toronto-hit-by-potential-cyber-breach-from-accellion-file-transfer-software/446787?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,20 @@ nav_order: 900031
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Online Child Abuse Platform with 400k Users Taken Down<a href="https://www.infosecurity-magazine.com:443/news/boystown-taken-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darknet CSAM site Boystown seized and alleged site operators arrested
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How Cybercriminals Abuse OpenBullet for Credential Stuffing<a href="https://www.trendmicro.com/en_us/research/21/d/how-cybercriminals-abuse-openbullet-for-credential-stuffing-.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

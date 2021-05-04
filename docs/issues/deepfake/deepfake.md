@@ -8,6 +8,20 @@ nav_order: 900041
 
 ## Deepfake
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deepfake Attacks Are About to Surge, Experts Warn<a href="https://threatpost.com/deepfake-attacks-surge-experts-warn/165798/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New deepfake products and services are cropping up across the Dark Web.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

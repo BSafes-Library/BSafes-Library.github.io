@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Mulling Domestic Spying Partnership with Private Companies<a href="https://www.infosecurity-magazine.com:443/news/private-companies-may-spy-on/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US president reportedly considering using private firms to spy on Americans’ online activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

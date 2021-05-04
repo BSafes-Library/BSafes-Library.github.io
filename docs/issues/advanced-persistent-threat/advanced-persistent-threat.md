@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Naikon APT Group is Now Using Nebulae Backdoor<a href="https://cyware.com/news/naikon-apt-group-is-now-using-nebulae-backdoor-3354f631"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered mischievous activities by the Naikon hacking group, which has been deploying a new backdoor against military organizations in Southeast Asia for over two years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked SVR APT Group Exploiting Five Known Vulnerabilities<a href="https://cyware.com/news/russia-linked-svr-apt-group-exploiting-five-known-vulnerabilities-9b0a77a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint advisory by the FBI, CISA, and NSA disclosed that the Russian APT group is exploiting flaws in Fortinet, Zimbra, Citrix, Pulse Secure, and VMware solutions to obtain login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

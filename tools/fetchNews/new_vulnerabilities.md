@@ -11,6 +11,140 @@ nav_order: 900220
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Expert released PoC exploit for Microsoft Exchange flaw<a href="https://securityaffairs.co/wordpress/117493/hacking/microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher released technical details and a PoC code for a high-severity vulnerability in Microsoft Exchange Server reported by the NSA.
+
+
+
+A security expert released technical details and proof-of-concept exploit (PoC) code for the high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure releases patch for zero-day used to target defense industrial base<a href="https://www.scmagazine.com/home/security-news/government-and-defense/pulse-secure-releases-patch-for-zero-day-used-to-target-defense-industrial-base/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Security said over the past couple of weeks it has worked closely with the Cybersecurity and Infrastructure Security Agency (CISA) as well as FireEye and Stroz Friedberg to investigate and respond quickly to the malicious activity that was identified on its customers’ systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes 2 iOS zero-day vulnerabilities actively used in attacks<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-2-ios-zero-day-vulnerabilities-actively-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Apple has released security updates that fix two actively exploited iOS zero-day vulnerabilities in the Webkit engine used by hackers to attack iPhones, iPads, iPods, macOS, and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2447 Exploiting SonicWall Zero-day to Breach Networks<a href="https://cyware.com/news/unc2447-exploiting-sonicwall-zero-day-to-breach-networks-96026bfa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat group, tracked as UNC2447, was spotted exploiting a previously disclosed zero-day flaw in SonicWall’s Secure Mobile Access (SMA) appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hewlett Packard Enterprise Plugs Critical Bug in Edge Platform Tool<a href="https://threatpost.com/hewlett-packard-critical-bug-edge/165797/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warned that unpatched versions of HPE’s Edgeline Infrastructure Manager are open to remote authentication-bypass attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit released for Microsoft Exchange bug dicovered by NSA<a href="https://www.bleepingcomputer.com/news/security/poc-exploit-released-for-microsoft-exchange-bug-dicovered-by-nsa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical documentation and proof-of-concept exploit (PoC) code has been released for a high-severity vulnerability in Microsoft Exchange Server that could let remote attackers execute code on unpatched machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure fixes zero-day in Pulse Connect Secure (PCS) SSL VPN actively exploited<a href="https://securityaffairs.co/wordpress/117484/hacking/pulse-connect-secure-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has fixed a zero-day flaw in the Pulse Connect Secure (PCS) SSL VPN appliance that threat actors are actively exploiting in the wild.
+
+
+
+Pulse Secure has addressed a zero-day vulnerability (CVE-2021-22893) in the Pulse Connect Secure (PCS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure fixes VPN zero-day used to hack high-value targets<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-fixes-vpn-zero-day-used-to-hack-high-value-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has fixed a zero-day vulnerability in the Pulse Connect Secure (PCS) SSL VPN appliance that is being actively exploited to compromise the internal networks of defense firms and govt agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Car Hacked Remotely From Drone via Zero-Click Exploit<a href="https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, dubbed TBONE, involves the exploitation of two vulnerabilities affecting ConnMan to take full control of the infotainment system of a Tesla without any user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers develop program that helps assess encryption systems’ vulnerabilities<a href="https://www.helpnetsecurity.com/2021/04/30/assess-encryption-systems-vulnerabilities/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

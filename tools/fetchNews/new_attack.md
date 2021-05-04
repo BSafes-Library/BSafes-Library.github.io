@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attacks Slaughter All Spectre Defenses&nbsp;<a href="https://threatpost.com/attacks-slaughter-spectre-defenses/165809/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 3+ years computer scientists spent concocting ways to defend against these supply-chain attacks against chip architecture? It’s bound for the dustbin. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health care giant Scripps Health hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/health-care-giant-scripps-health-hit-by-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook Oversight Board to rule on Trump ban Wednesday | Washington keeps close eye as Apple antitrust fight goes to court | Twitter expands Clubhouse-like feature<a href="https://thehill.com//policy/technology/overnights/551575-hillicon-valley-facebook-oversight-board-to-rule-on-trump-ban"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert released PoC exploit for Microsoft Exchange flaw<a href="https://securityaffairs.co/wordpress/117493/hacking/microsoft-exchange.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure releases patch for zero-day used to target defense industrial base<a href="https://www.scmagazine.com/home/security-news/government-and-defense/pulse-secure-releases-patch-for-zero-day-used-to-target-defense-industrial-base/"> Full Text</a>
@@ -102,7 +102,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scripps Health Cyberattack Causes Widespread Hospital Outages<a href="https://threatpost.com/scripps-health-cyberattack-hospital-outages/165817/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes 2 iOS zero-day vulnerabilities actively used in attacks<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-2-ios-zero-day-vulnerabilities-actively-used-in-attacks/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attacks Slaughter All Spectre Defenses <a href="https://threatpost.com/attacks-slaughter-spectre-defenses/165809/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N3TW0RM ransomware emerges in wave of cyberattacks in Israel<a href="https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hack the Capitol returns Tuesday, as all eyes look toward critical infrastructure security<a href="https://www.scmagazine.com/home/security-news/network-security/hack-the-capitol-returns-tuesday-as-all-eyes-look-toward-critical-infrastructure-security/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hack the Capital returns Tuesday, as all eyes look toward critical infrastructure security<a href="https://www.scmagazine.com/home/security-news/network-security/hack-the-capital-returns-tuesday-as-all-eyes-look-toward-critical-infrastructure-security/"> Full Text</a>
@@ -198,7 +198,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Naikon APT Group is Now Using Nebulae Backdoor<a href="https://cyware.com/news/naikon-apt-group-is-now-using-nebulae-backdoor-3354f631"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WeSteal Stealer and WeControl RAT - The New Commodity Malware in Town<a href="https://cyware.com/news/westeal-stealer-and-wecontrol-rat-the-new-commodity-malware-in-town-e6125bbe"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC2447 Exploiting SonicWall Zero-day to Breach Networks<a href="https://cyware.com/news/unc2447-exploiting-sonicwall-zero-day-to-breach-networks-96026bfa"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RotaJakiro Stayed Hidden for Several Years<a href="https://cyware.com/news/rotajakiro-stayed-hidden-for-several-years-32d511c2"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ryuk Ransomware Operators have Updated their Attack Techniques<a href="https://cyware.com/news/ryuk-ransomware-operators-have-updated-their-attack-techniques-b4ff843a"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Linked SVR APT Group Exploiting Five Known Vulnerabilities<a href="https://cyware.com/news/russia-linked-svr-apt-group-exploiting-five-known-vulnerabilities-9b0a77a3"> Full Text</a>
@@ -294,7 +294,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hewlett Packard Enterprise Plugs Critical Bug in Edge Platform Tool<a href="https://threatpost.com/hewlett-packard-critical-bug-edge/165797/"> Full Text</a>
@@ -310,7 +310,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Codecov’s Code Coverage Tool Hacked<a href="https://cyware.com/news/codecovs-code-coverage-tool-hacked-635bcf76"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC exploit released for Microsoft Exchange bug dicovered by NSA<a href="https://www.bleepingcomputer.com/news/security/poc-exploit-released-for-microsoft-exchange-bug-dicovered-by-nsa/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart scammers aim at restaurants' online delivery systems<a href="https://www.cyberscoop.com/magecart-hack-delivery-pandemic/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alaska court system forced offline by cyberattack<a href="https://thehill.com//policy/cybersecurity/551463-alaska-court-system-forced-offline-by-cyberattack"> Full Text</a>
@@ -374,7 +374,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 40 Apps With More Than 100 Million Installs Found Leaking AWS Keys<a href="https://thehackernews.com/2021/05/over-40-apps-with-more-than-100-million.html"> Full Text</a>
@@ -390,7 +390,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Contact Tracer Breach Hits the Keystone State<a href="https://www.infosecurity-magazine.com:443/news/contact-tracer-breach-hits-the/"> Full Text</a>
@@ -406,7 +406,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How a Norwegian Government Report Shows the Limits of CFIUS Data Reviews<a href="https://www.lawfareblog.com/how-norwegian-government-report-shows-limits-cfius-data-reviews"> Full Text</a>
@@ -422,7 +422,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure fixes zero-day in Pulse Connect Secure (PCS) SSL VPN actively exploited<a href="https://securityaffairs.co/wordpress/117484/hacking/pulse-connect-secure-zeroday.html"> Full Text</a>
@@ -442,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deepfake Attacks Are About to Surge, Experts Warn<a href="https://threatpost.com/deepfake-attacks-surge-experts-warn/165798/"> Full Text</a>
@@ -458,7 +458,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2021
+May 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure fixes VPN zero-day used to hack high-value targets<a href="https://www.bleepingcomputer.com/news/security/pulse-secure-fixes-vpn-zero-day-used-to-hack-high-value-targets/"> Full Text</a>
@@ -474,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkPath scam group loses 134 domains impersonating the WHO<a href="https://therecord.media/darkpath-scam-group-loses-134-domains-impersonating-the-who/?&web_view=true"> Full Text</a>
@@ -490,7 +490,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Child Abuse Platform with 400k Users Taken Down<a href="https://www.infosecurity-magazine.com:443/news/boystown-taken-down/"> Full Text</a>
@@ -506,7 +506,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Common Causes of Data Breach and How to Prevent It<a href="https://securityaffairs.co/wordpress/117480/security/data-breach-causes.html"> Full Text</a>
@@ -526,7 +526,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tesla Car Hacked Remotely From Drone via Zero-Click Exploit<a href="https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit?&web_view=true"> Full Text</a>
@@ -542,7 +542,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Mulling Domestic Spying Partnership with Private Companies<a href="https://www.infosecurity-magazine.com:443/news/private-companies-may-spy-on/"> Full Text</a>
@@ -558,7 +558,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virgin Active goes offline after sophisticated cyberattack<a href="https://www.timeslive.co.za/news/south-africa/2021-05-01-virgin-active-goes-offline-after-sophisticated-cyberattack/?&web_view=true"> Full Text</a>
@@ -574,7 +574,7 @@ Timeslive
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2021
+May 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abuse Excel 4.0 Macros to Deliver ZLoader and Quakbot Malware<a href="https://gbhackers.com/hackers-abuse-excel-4-0-macros/?&web_view=true"> Full Text</a>

@@ -11,6 +11,48 @@ nav_order: 900072
 May 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook Oversight Board to rule on Trump ban Wednesday | Washington keeps close eye as Apple antitrust fight goes to court | Twitter expands Clubhouse-like feature<a href="https://thehill.com//policy/technology/overnights/551575-hillicon-valley-facebook-oversight-board-to-rule-on-trump-ban"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy Monday! Facebook’s Oversight Board said it will announce its decision on former President TrumpDonald TrumpFacebook Oversight Board to rule on Trump ban Wednesday Rubio keeping door open on White House bid Lincoln Project taunts Trump, saying he lost to 'swamp,' McConnell MORE’s suspended accounts on Wednesday. In California, the antitrust trial between Apple and Epic Games kicked off, and it's expected to be closely watched in Washington amid mounting scrutiny over the market power of Silicon Valley giants. And Twitter announced it’s opening up its live audio room feature, Spaces, to more users. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack the Capitol returns Tuesday, as all eyes look toward critical infrastructure security<a href="https://www.scmagazine.com/home/security-news/network-security/hack-the-capitol-returns-tuesday-as-all-eyes-look-toward-critical-infrastructure-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media talked about the event’s significance with organizer and founder of both Scythe and GRIMM, Bryson Bort.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack the Capital returns Tuesday, as all eyes look toward critical infrastructure security<a href="https://www.scmagazine.com/home/security-news/network-security/hack-the-capital-returns-tuesday-as-all-eyes-look-toward-critical-infrastructure-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media talked about the event’s significance with organizer and founder of both Scythe and GRIMM, Bryson Bort.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft reveals final plan to remove Flash Player in Windows 10<a href="https://www.bleepingcomputer.com/news/security/microsoft-reveals-final-plan-to-remove-flash-player-in-windows-10/"> Full Text</a>
 </p>
 <details>
