@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fake Vaccine Domain Seized<a href="https://www.infosecurity-magazine.com:443/news/fake-vaccine-domain-seized/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland US Attorney’s Office seizes domain name used in fake COVID-19 vaccine scam
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most of Exim email servers could be hacked by exploiting 21Nails flaws<a href="https://securityaffairs.co/wordpress/117522/security/exim-email-servers-21nails-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Exim email server software addressed a collection of 21 issues, dubbed 21Nails, that can allow attackers to fully compromise mail servers.
+
+
+
+The maintainers of the Exim email server software have released security updates to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Telstra service provider hit by cyber attack as hackers claim SIM card information stolen<a href="https://www.news.com.au/technology/online/hacking/telstra-service-provider-hit-by-cyber-attack-as-hackers-claim-sim-card-information-stolen/news-story/2ff32b2e3634506882102e9c9d012994?&web_view=true"> Full Text</a>
 </p>
 <details>
