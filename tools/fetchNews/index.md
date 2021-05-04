@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Global Phishing Attacks Spawn Three New Malware Strains<a href="https://threatpost.com/global-phishing-attacks-new-malware-strains/165857/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The never-seen malware strains have "professionally coded sophistication" and were launched by a well-resourced APT using nearly 50 domains, one hijacked.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Software developers warm up to automated testing as security, cloud rise in importance<a href="https://www.scmagazine.com/home/security-news/software-developers-warm-up-to-automated-testing-as-security-cloud-rise-in-importance/"> Full Text</a>
 </p>
 <details>
