@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD expands bug disclosure program to all publicly accessible systems<a href="https://www.bleepingcomputer.com/news/security/dod-expands-bug-disclosure-program-to-all-publicly-accessible-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Department of Defense (DOD) officials today announced that the department's Vulnerability Disclosure Program (VDP) has been expanded to include all publicly accessible DOD websites and applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
