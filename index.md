@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ATT&CK v9 Introduces Containers, Google Workspace<a href="https://www.securityweek.com/attck-v9-introduces-containers-google-workspace?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ATT&CK v9 adds container-related attack techniques, which is the result of a project conducted by MITRE’s Center for Threat-Informed Defense and sponsored by Microsoft, Citigroup, and JPMorgan Chase.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Massive DDoS Attack Knocked Offline Belgian Government Websites and Internal Networks<a href="https://securityaffairs.co/wordpress/117529/hacking/belgiums-ddos-attack.html?&web_view=true"> Full Text</a>
 </p>
 <details>
