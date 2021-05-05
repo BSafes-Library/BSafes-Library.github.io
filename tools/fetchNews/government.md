@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Issues Guidance on Securing IT-OT Connectivity<a href="https://www.securityweek.com/nsa-issues-guidance-securing-it-ot-connectivity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. NSA last week released a cybersecurity advisory focusing on the security of operational technology (OT) systems, particularly in terms of connectivity to IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

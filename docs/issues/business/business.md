@@ -11,6 +11,34 @@ nav_order: 900027
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+JupiterOne nabs $30M to help companies manage cybersecurity data<a href="https://venturebeat.com/2021/05/04/jupiterone-nabs-30m-to-help-companies-manage-cybersecurity-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JupiterOne, a cybersecurity management automation startup, today closed a $30 million Series B round led by Sapphire Ventures, with participation from previous investors Bain Capital Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aryaka Networks buys Secucloud to offer a more secure network edge<a href="https://siliconangle.com/2021/05/04/aryaka-networks-buys-secucloud-offer-secure-network-edge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said today that it has closed on a deal to buy German secure access service edge or SASE firm Secucloud GmbH. That company is now a fully owned subsidiary of Aryaka.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Acronis Raises $250 Million at $2.5 Billion Valuation<a href="https://www.securityweek.com/acronis-raises-250-million-25-billion-valuation?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

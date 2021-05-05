@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Botnet Infected Internet TV Users, Now Taken Down<a href="https://cyware.com/news/massive-botnet-infected-internet-tv-users-now-taken-down-317e4eff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Pareto CTV botnet, the botnet was made of almost a million infected Android devices and imitated the activity of millions of people watching ads on their smart devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

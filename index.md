@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Agency for Global Media data breach caused by a phishing attack<a href="https://www.bleepingcomputer.com/news/security/us-agency-for-global-media-data-breach-caused-by-a-phishing-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Choose Your Own Adventure game animates security awareness training<a href="https://www.scmagazine.com/home/security-news/phishing/choose-your-own-adventure-game-animates-security-awareness-training/"> Full Text</a>
@@ -66,7 +66,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Five things to watch in Facebook Oversight Board ruling on Trump | Trump launches new communications tool after social media ban | Spotify urged to scrap speech recognition tech<a href="https://thehill.com//policy/technology/overnights/551801-hillicon-valley-five-things-to-watch-in-facebook-oversight-board"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Phishing Attacks Spawn Three New Malware Strains<a href="https://threatpost.com/global-phishing-attacks-new-malware-strains/165857/"> Full Text</a>
@@ -98,7 +98,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software developers warm up to automated testing as security, cloud rise in importance<a href="https://www.scmagazine.com/home/security-news/software-developers-warm-up-to-automated-testing-as-security-cloud-rise-in-importance/"> Full Text</a>
@@ -114,7 +114,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOD expands bug disclosure program to all publicly accessible systems<a href="https://www.bleepingcomputer.com/news/security/dod-expands-bug-disclosure-program-to-all-publicly-accessible-systems/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A massive DDoS knocked offline Belgian government websites<a href="https://securityaffairs.co/wordpress/117529/hacking/belgiums-ddos-attack.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome adopts Windows 10 exploit protection feature<a href="https://www.bleepingcomputer.com/news/security/google-chrome-adopts-windows-10-exploit-protection-feature/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Fixes Zero‑Day Security Bugs Under Active Attack<a href="https://threatpost.com/apple-zero%e2%80%91days-active-attack/165842/"> Full Text</a>
@@ -182,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure VPNs Get a Fix for Critical Zero-Day Bugs<a href="https://threatpost.com/pulse-secure-vpns-fix-critical-zero-day-bugs/165850/"> Full Text</a>
@@ -198,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Vaccine Domain Seized<a href="https://www.infosecurity-magazine.com:443/news/fake-vaccine-domain-seized/"> Full Text</a>
@@ -214,7 +214,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most of Exim email servers could be hacked by exploiting 21Nails flaws<a href="https://securityaffairs.co/wordpress/117522/security/exim-email-servers-21nails-flaws.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telstra service provider hit by cyber attack as hackers claim SIM card information stolen<a href="https://www.news.com.au/technology/online/hacking/telstra-service-provider-hit-by-cyber-attack-as-hackers-claim-sim-card-information-stolen/news-story/2ff32b2e3634506882102e9c9d012994?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ News.com.au
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio discloses impact from Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-impact-from-codecov-supply-chain-attack/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JupiterOne nabs $30M to help companies manage cybersecurity data<a href="https://venturebeat.com/2021/05/04/jupiterone-nabs-30m-to-help-companies-manage-cybersecurity-data/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virgin Active SA Suffers Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/virgin-active-sa-suffers/"> Full Text</a>
@@ -298,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Millions of Dell Users at Risk from Kernel-Privilege Bugs<a href="https://threatpost.com/dell-kernel-privilege-bugs/165843/"> Full Text</a>
@@ -314,7 +314,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spearphishing Attack Uses COVID-21 Lure to Target Ukrainian Government<a href="https://www.fortinet.com/blog/threat-research/spearphishing-attack-uses-covid-21-lure-to-target-ukrainian-government?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third Parties Caused Data Breaches at 51% of Organizations<a href="https://www.infosecurity-magazine.com:443/news/third-parties-breaches-at-51-of/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical 21Nails Exim bugs expose millions of servers to attacks<a href="https://www.bleepingcomputer.com/news/security/critical-21nails-exim-bugs-expose-millions-of-servers-to-attacks/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aryaka Networks buys Secucloud to offer a more secure network edge<a href="https://siliconangle.com/2021/05/04/aryaka-networks-buys-secucloud-offer-secure-network-edge/?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaks 150 million user records from Iranian Raychat app<a href="https://www.hackread.com/hacker-leaks-iranian-raychat-app-user-records/?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Cyber Security Association Officially Opens for Membership<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-association/"> Full Text</a>
@@ -410,7 +410,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of millions Of Dell PCs affected by CVE-2021-21551 flaws<a href="https://securityaffairs.co/wordpress/117514/security/cve-2021-21551-dell-flaws.html"> Full Text</a>
