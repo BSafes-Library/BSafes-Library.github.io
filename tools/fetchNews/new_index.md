@@ -34,7 +34,279 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Seeks Input on HIPAA Security Rule Guidance Update<a href="https://www.govinfosecurity.com/nist-seeks-input-on-hipaa-security-rule-guidance-update-a-16519?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology is seeking public comment as it plans to update its 2008 guidance for implementing the HIPAA Security Rule, which went into effect 20 years ago.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Study Warns of Security Threats Linked to Recycled Phone Numbers<a href="https://thehackernews.com/2021/05/new-study-warns-of-security-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new academic study has highlighted a number of privacy and security pitfalls associated with recycling mobile phone numbers that could be abused to stage a variety of exploits, including account takeovers, conduct phishing and spam attacks, and even prevent victims from signing up for online services.  Nearly 66% of the recycled numbers that were sampled were found to be tied to previous owners' online accounts at popular websites, potentially enabling account hijacks by simply recovering the accounts tied to those numbers.  "An attacker can cycle through the available numbers shown on online number change interfaces and check if any of them are associated with online accounts of previous owners," the researchers  said . If so, the attacker can then obtain these numbers and reset the password on the accounts, and receive and correctly enter the OTP sent via SMS upon login."   The findings are part of an analysis of a sample of 259 phone numbers available to new su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigs and Unpatched Bugs Top Cloud Native Security Incidents<a href="https://www.infosecurity-magazine.com:443/news/misconfigs-unpatched-bugs-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snyk study claims automation is key to enhancing security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – May 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/117542/breaking-news/cyber-defense-magazine-may-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine March 2021 Edition has arrived. We hope you enjoy this month's edition…packed with over 90 pages of excellent content.
+
+
+
+Cyber Defense Magazine May 2021
+
+
+
+
+
+
+
+OVER 90+ PAGESLOADED WITH EXCELLENT CONTENTLearn from the experts, cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next gen tech: Most promising areas of emerging technology and innovation in cyber<a href="https://www.scmagazine.com/scawards/next-gen-tech-most-promising-areas-of-emerging-technology-and-innovation-in-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As adversaries evolve their technique, so must the cyber industry. In this SC Awards Winners Circle roundtable discussion, SC Media speaks to cybersecurity leaders, and SC Award recipients, about the most compelling areas of technology for ensuring the protection of sensitive data and networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Fixes Twelve-Year-Old Driver Vulnerability Impacting Millions of PCs<a href="https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of millions of Dell desktops, laptops, notebooks, and tablets will need to update their Dell DBUtil driver to fix a 12-year-old vulnerability that exposes systems to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOS PrivEsc Bugs Affect Hundreds of Millions of Dell PCs Worldwide<a href="https://thehackernews.com/2021/05/bios-privesc-bug-affects-hundreds-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PC maker Dell has issued an update to fix multiple critical privilege escalation vulnerabilities that went undetected since 2009, potentially allowing attackers to gain kernel-mode privileges and cause a denial-of-service condition.  The issues, reported to Dell by researchers from SentinelOne on Dec. 1, 2020, reside in a firmware update driver named "dbutil_2_3.sys" that comes pre-installed on its devices. Hundreds of millions of desktops, laptops, notebooks, and tablets manufactured by the company are said to be vulnerable.   "Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial-of-service, or information disclosure. Local authenticated user access is required," Dell  said  in an advisory.  All five separate flaws have been assigned the CVE identifier CVE-2021-21551 with a CVSS score of 8.8. A breakdown of the shortcomings is as follows -    CVE-2021-21551: Local Elevation Of Privilege
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Phishing Campaign Drops New Malware Trio<a href="https://www.infosecurity-magazine.com:443/news/global-phishing-campaign-drops-new/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant warns financial crime group will be back
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found critical authentication bypass flaw in HPE Edgeline Infrastructure Manager<a href="https://securityaffairs.co/wordpress/117513/security/hpe-edgeline-infrastructure-manager-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a critical vulnerability in HPE Edgeline Infrastructure Manager that could be exploited by a remote attacker to bypass authentication.
+
+
+
+Researchers from Tenable have disclosed a critical authentication bypass vulnerability in HPE Edgeline...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android May 2021 Update Out, Fixes Over 40 Vulnerabilities<a href="https://news.softpedia.com/news/android-releases-updates-for-may-2021-which-patches-over-40-vulnerabilities-532811.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new security patch 2021-05-01 fixes three main critical flaws identified in the System component which could be exploited to run arbitrary code on a vulnerable Android device.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALERT — New 21Nails Exim Bugs Expose Millions of Email Servers to Hacking<a href="https://thehackernews.com/2021/05/alert-new-21nails-exim-bugs-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Exim have  released patches  to remediate as many as 21 security vulnerabilities in its software that could enable unauthenticated attackers to achieve complete remote code execution and gain root privileges.  Collectively named  '21Nails ,' the flaws include 11 vulnerabilities that require local access to the server and 10 other weaknesses that could be exploited remotely. The issues were discovered by Qualys and reported to Exim on Oct. 20, 2020.  "Some of the vulnerabilities can be chained together to obtain a full remote unauthenticated code execution and gain root privileges on the Exim Server," Bharat Jogi, senior manager at Qualys, said in public disclosure. "Most of the vulnerabilities discovered by the Qualys Research Team for e.g. CVE-2020-28017 affects all versions of Exim going back all the way to 2004."   Exim is a popular mail transfer agent (MTA) used on Unix-like operating systems, with over 60% of the publicly reachable m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shoppers Choose Guest Checkouts Over Security Fears<a href="https://www.infosecurity-magazine.com:443/news/shoppers-choose-guest-checkouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New study reveals major consumer mistrust of e-commerce brands
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptominer Spotted, Attacks Using Windows and Linux Bots<a href="https://cyware.com/news/new-cryptominer-spotted-attacks-using-windows-and-linux-bots-9feac395"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sysrv-hello crytpojacking botnet actively scans for vulnerable Windows and Linux enterprise servers and infects them with Monero miner, as well as self-propagating malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarLoader Downloader is Using Social Engineering Techniques<a href="https://cyware.com/news/bazarloader-downloader-is-using-social-engineering-techniques-047aad22"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been discovered in two separate cyberattack campaigns. Both the campaigns employed unique social engineering techniques and popular products used in many organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bait Boost: Phishers Delivering Increasingly Convincing Lures<a href="https://threatpost.com/bait-phishers-convincing-lures/165834/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An intense hunt for corporate account credentials will continue into next quarter, researchers predict.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+21 vulnerabilities in Exim mail server leave web, cloud operations exposed<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/21-vulnerabilities-in-exim-mail-server-leave-web-cloud-operations-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found 21 unique vulnerabilities in the Exim mail server, some of which can be chained together to obtain full remote unauthenticated code execution and gain root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Agency for Global Media data breach caused by a phishing attack<a href="https://www.bleepingcomputer.com/news/security/us-agency-for-global-media-data-breach-caused-by-a-phishing-attack/"> Full Text</a>
@@ -50,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Choose Your Own Adventure game animates security awareness training<a href="https://www.scmagazine.com/home/security-news/phishing/choose-your-own-adventure-game-animates-security-awareness-training/"> Full Text</a>
@@ -66,7 +338,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Five things to watch in Facebook Oversight Board ruling on Trump | Trump launches new communications tool after social media ban | Spotify urged to scrap speech recognition tech<a href="https://thehill.com//policy/technology/overnights/551801-hillicon-valley-five-things-to-watch-in-facebook-oversight-board"> Full Text</a>
@@ -82,7 +354,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Phishing Attacks Spawn Three New Malware Strains<a href="https://threatpost.com/global-phishing-attacks-new-malware-strains/165857/"> Full Text</a>
@@ -98,7 +370,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software developers warm up to automated testing as security, cloud rise in importance<a href="https://www.scmagazine.com/home/security-news/software-developers-warm-up-to-automated-testing-as-security-cloud-rise-in-importance/"> Full Text</a>
@@ -114,7 +386,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOD expands bug disclosure program to all publicly accessible systems<a href="https://www.bleepingcomputer.com/news/security/dod-expands-bug-disclosure-program-to-all-publicly-accessible-systems/"> Full Text</a>
@@ -130,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A massive DDoS knocked offline Belgian government websites<a href="https://securityaffairs.co/wordpress/117529/hacking/belgiums-ddos-attack.html"> Full Text</a>
@@ -150,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome adopts Windows 10 exploit protection feature<a href="https://www.bleepingcomputer.com/news/security/google-chrome-adopts-windows-10-exploit-protection-feature/"> Full Text</a>
@@ -166,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Fixes Zero‑Day Security Bugs Under Active Attack<a href="https://threatpost.com/apple-zero%e2%80%91days-active-attack/165842/"> Full Text</a>
@@ -182,7 +454,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pulse Secure VPNs Get a Fix for Critical Zero-Day Bugs<a href="https://threatpost.com/pulse-secure-vpns-fix-critical-zero-day-bugs/165850/"> Full Text</a>
@@ -198,7 +470,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Vaccine Domain Seized<a href="https://www.infosecurity-magazine.com:443/news/fake-vaccine-domain-seized/"> Full Text</a>
@@ -214,7 +486,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most of Exim email servers could be hacked by exploiting 21Nails flaws<a href="https://securityaffairs.co/wordpress/117522/security/exim-email-servers-21nails-flaws.html"> Full Text</a>
@@ -234,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telstra service provider hit by cyber attack as hackers claim SIM card information stolen<a href="https://www.news.com.au/technology/online/hacking/telstra-service-provider-hit-by-cyber-attack-as-hackers-claim-sim-card-information-stolen/news-story/2ff32b2e3634506882102e9c9d012994?&web_view=true"> Full Text</a>
@@ -250,7 +522,7 @@ News.com.au
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio discloses impact from Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-impact-from-codecov-supply-chain-attack/"> Full Text</a>
@@ -266,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JupiterOne nabs $30M to help companies manage cybersecurity data<a href="https://venturebeat.com/2021/05/04/jupiterone-nabs-30m-to-help-companies-manage-cybersecurity-data/?&web_view=true"> Full Text</a>
@@ -282,7 +554,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virgin Active SA Suffers Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/virgin-active-sa-suffers/"> Full Text</a>
@@ -298,7 +570,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Millions of Dell Users at Risk from Kernel-Privilege Bugs<a href="https://threatpost.com/dell-kernel-privilege-bugs/165843/"> Full Text</a>
@@ -314,7 +586,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spearphishing Attack Uses COVID-21 Lure to Target Ukrainian Government<a href="https://www.fortinet.com/blog/threat-research/spearphishing-attack-uses-covid-21-lure-to-target-ukrainian-government?&web_view=true"> Full Text</a>
@@ -330,7 +602,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third Parties Caused Data Breaches at 51% of Organizations<a href="https://www.infosecurity-magazine.com:443/news/third-parties-breaches-at-51-of/"> Full Text</a>
@@ -346,7 +618,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2021
+May 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical 21Nails Exim bugs expose millions of servers to attacks<a href="https://www.bleepingcomputer.com/news/security/critical-21nails-exim-bugs-expose-millions-of-servers-to-attacks/"> Full Text</a>
@@ -362,7 +634,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aryaka Networks buys Secucloud to offer a more secure network edge<a href="https://siliconangle.com/2021/05/04/aryaka-networks-buys-secucloud-offer-secure-network-edge/?&web_view=true"> Full Text</a>
@@ -378,7 +650,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaks 150 million user records from Iranian Raychat app<a href="https://www.hackread.com/hacker-leaks-iranian-raychat-app-user-records/?&web_view=true"> Full Text</a>
@@ -394,7 +666,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Cyber Security Association Officially Opens for Membership<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-association/"> Full Text</a>
@@ -410,7 +682,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of millions Of Dell PCs affected by CVE-2021-21551 flaws<a href="https://securityaffairs.co/wordpress/117514/security/cve-2021-21551-dell-flaws.html"> Full Text</a>
