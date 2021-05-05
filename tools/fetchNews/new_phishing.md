@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Phishing Campaign Drops New Malware Trio<a href="https://www.infosecurity-magazine.com:443/news/global-phishing-campaign-drops-new/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant warns financial crime group will be back
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bait Boost: Phishers Delivering Increasingly Convincing Lures<a href="https://threatpost.com/bait-phishers-convincing-lures/165834/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An intense hunt for corporate account credentials will continue into next quarter, researchers predict.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

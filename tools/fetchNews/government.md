@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD expands bug disclosure program to all publicly accessible systems<a href="https://www.bleepingcomputer.com/news/security/dod-expands-bug-disclosure-program-to-all-publicly-accessible-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Department of Defense (DOD) officials today announced that the department's Vulnerability Disclosure Program (VDP) has been expanded to include&nbsp;all publicly accessible DOD websites and applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

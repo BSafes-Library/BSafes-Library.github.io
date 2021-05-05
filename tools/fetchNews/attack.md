@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telstra service provider hit by cyber attack as hackers claim SIM card information stolen<a href="https://www.news.com.au/technology/online/hacking/telstra-service-provider-hit-by-cyber-attack-as-hackers-claim-sim-card-information-stolen/news-story/2ff32b2e3634506882102e9c9d012994?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The victim, Melbourne-based Schepisi Communications, is a partner of Telstra that supplies phone numbers and cloud storage services on behalf of the telecommunications giant.
+</details>
+<div style="text-align: right" markdown="1">
+News.com.au
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses impact from Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-impact-from-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud communications company Twilio has now disclosed that the recent Codecov supply-chain attack exposed a small number of Twilio's customer email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virgin Active SA Suffers Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/virgin-active-sa-suffers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virgin Active South Africa takes systems offline following cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

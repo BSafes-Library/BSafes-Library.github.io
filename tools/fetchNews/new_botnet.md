@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptominer Spotted, Attacks Using Windows and Linux Bots<a href="https://cyware.com/news/new-cryptominer-spotted-attacks-using-windows-and-linux-bots-9feac395"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sysrv-hello crytpojacking botnet actively scans for vulnerable Windows and Linux enterprise servers and infects them with Monero miner, as well as self-propagating malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

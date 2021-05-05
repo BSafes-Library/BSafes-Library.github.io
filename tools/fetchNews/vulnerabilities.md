@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome adopts Windows 10 exploit protection feature<a href="https://www.bleepingcomputer.com/news/security/google-chrome-adopts-windows-10-exploit-protection-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome now hinders attackers' efforts to exploit security bugs on systems&nbsp;with Intel 11th Gen or AMD Zen 3 CPUs, running&nbsp;Windows 10 2004 or later.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Fixes Zero‑Day Security Bugs Under Active Attack<a href="https://threatpost.com/apple-zero%e2%80%91days-active-attack/165842/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, Apple released a quartet of unscheduled updates  for iOS, macOS, and watchOS, slapping security patches on flaws in its WebKit browser engine. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPNs Get a Fix for Critical Zero-Day Bugs<a href="https://threatpost.com/pulse-secure-vpns-fix-critical-zero-day-bugs/165850/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security flaw tracked as CVE-2021-22893 is being used by at least two APTs likely linked to China, to attack U.S. defense targets among others. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most of Exim email servers could be hacked by exploiting 21Nails flaws<a href="https://securityaffairs.co/wordpress/117522/security/exim-email-servers-21nails-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Exim email server software addressed a collection of 21 issues, dubbed 21Nails, that can allow attackers to fully compromise mail servers.
+
+
+
+The maintainers of the Exim email server software have released security updates to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Millions of Dell Users at Risk from Kernel-Privilege Bugs<a href="https://threatpost.com/dell-kernel-privilege-bugs/165843/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The privilege-escalation bug remained hidden for 12 years and has been present in all Dell PCs, tablets and notebooks shipped since 2009. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical 21Nails Exim bugs expose millions of servers to attacks<a href="https://www.bleepingcomputer.com/news/security/critical-21nails-exim-bugs-expose-millions-of-servers-to-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered critical vulnerabilities in&nbsp;the&nbsp;Exim message transfer agent&nbsp;(MTA) software allow unauthenticated remote attackers to execute arbitrary code and gain root privilege on mail servers with default or common configurations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of millions Of Dell PCs affected by CVE-2021-21551 flaws<a href="https://securityaffairs.co/wordpress/117514/security/cve-2021-21551-dell-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American multinational computer technology giant Dell addresses a 12-year-old driver flaw, tracked as CVE-2021-21551, impacting millions of computers.
+
+
+
+Hundreds of millions of Dell computers worldwide are affected by a 12-year-old vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,74 @@ nav_order: 900072
 
 ## General
 ---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigs and Unpatched Bugs Top Cloud Native Security Incidents<a href="https://www.infosecurity-magazine.com:443/news/misconfigs-unpatched-bugs-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snyk study claims automation is key to enhancing security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – May 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/117542/breaking-news/cyber-defense-magazine-may-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine March 2021 Edition has arrived. We hope you enjoy this month's edition…packed with over 90 pages of excellent content.
+
+
+
+Cyber Defense Magazine May 2021
+
+
+
+
+
+
+
+OVER&nbsp;90+ PAGESLOADED WITH EXCELLENT CONTENTLearn from the experts,&nbsp;cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next gen tech: Most promising areas of emerging technology and innovation in cyber<a href="https://www.scmagazine.com/scawards/next-gen-tech-most-promising-areas-of-emerging-technology-and-innovation-in-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As adversaries evolve their technique, so must the cyber industry. In this SC Awards Winners Circle roundtable discussion, SC Media speaks to cybersecurity leaders, and SC Award recipients, about the most compelling areas of technology for ensuring the protection of sensitive data and networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shoppers Choose Guest Checkouts Over Security Fears<a href="https://www.infosecurity-magazine.com:443/news/shoppers-choose-guest-checkouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New study reveals major consumer mistrust of e-commerce brands
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

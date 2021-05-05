@@ -11,6 +11,62 @@ nav_order: 900072
 May 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Five things to watch in Facebook Oversight Board ruling on Trump | Trump launches new communications tool after social media ban | Spotify urged to scrap speech recognition tech<a href="https://thehill.com//policy/technology/overnights/551801-hillicon-valley-five-things-to-watch-in-facebook-oversight-board"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy Tuesday! All eyes and ears and mice in the tech world will be watching Facebook’s Oversight Board tomorrow. The panel will be issuing its decision on whether former President TrumpDonald TrumpWill Biden provide strategic clarity or further ambiguity on Taiwan? Taliban launches massive offensive after missed deadline for US troop withdrawal Republicans urge probe into Amazon government cloud-computing bid: report MORE should be allowed back on the platform after his suspension following the Jan. 6 Capitol insurrection.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software developers warm up to automated testing as security, cloud rise in importance<a href="https://www.scmagazine.com/home/security-news/software-developers-warm-up-to-automated-testing-as-security-cloud-rise-in-importance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are frustrated about the sluggish pace of testing code and are increasingly incorporating automation and machine learning to ease workloads.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Parties Caused Data Breaches at 51% of Organizations<a href="https://www.infosecurity-magazine.com:443/news/third-parties-breaches-at-51-of/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research highlights weaknesses in third-party remote access security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Security Association Officially Opens for Membership<a href="https://www.infosecurity-magazine.com:443/news/uk-cyber-security-association/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Cyber Security Association has officially launched, after being in an expressions of interest phase
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How Should the Service Desk Reset Passwords?<a href="https://thehackernews.com/2021/05/how-should-service-desk-reset-passwords.html"> Full Text</a>
 </p>
 <details>

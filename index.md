@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Seeks Input on HIPAA Security Rule Guidance Update<a href="https://www.govinfosecurity.com/nist-seeks-input-on-hipaa-security-rule-guidance-update-a-16519?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2021
+May 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Study Warns of Security Threats Linked to Recycled Phone Numbers<a href="https://thehackernews.com/2021/05/new-study-warns-of-security-threats.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigs and Unpatched Bugs Top Cloud Native Security Incidents<a href="https://www.infosecurity-magazine.com:443/news/misconfigs-unpatched-bugs-cloud/"> Full Text</a>
@@ -82,7 +82,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Defense Magazine – May 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/117542/breaking-news/cyber-defense-magazine-may-2021.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Next gen tech: Most promising areas of emerging technology and innovation in cyber<a href="https://www.scmagazine.com/scawards/next-gen-tech-most-promising-areas-of-emerging-technology-and-innovation-in-cyber/"> Full Text</a>
@@ -126,7 +126,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell Fixes Twelve-Year-Old Driver Vulnerability Impacting Millions of PCs<a href="https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/?&web_view=true"> Full Text</a>
@@ -142,7 +142,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2021
+May 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIOS PrivEsc Bugs Affect Hundreds of Millions of Dell PCs Worldwide<a href="https://thehackernews.com/2021/05/bios-privesc-bug-affects-hundreds-of.html"> Full Text</a>
@@ -158,7 +158,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Phishing Campaign Drops New Malware Trio<a href="https://www.infosecurity-magazine.com:443/news/global-phishing-campaign-drops-new/"> Full Text</a>
@@ -174,7 +174,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found critical authentication bypass flaw in HPE Edgeline Infrastructure Manager<a href="https://securityaffairs.co/wordpress/117513/security/hpe-edgeline-infrastructure-manager-flaw.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android May 2021 Update Out, Fixes Over 40 Vulnerabilities<a href="https://news.softpedia.com/news/android-releases-updates-for-may-2021-which-patches-over-40-vulnerabilities-532811.shtml?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2021
+May 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALERT — New 21Nails Exim Bugs Expose Millions of Email Servers to Hacking<a href="https://thehackernews.com/2021/05/alert-new-21nails-exim-bugs-expose.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shoppers Choose Guest Checkouts Over Security Fears<a href="https://www.infosecurity-magazine.com:443/news/shoppers-choose-guest-checkouts/"> Full Text</a>
@@ -242,7 +242,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cryptominer Spotted, Attacks Using Windows and Linux Bots<a href="https://cyware.com/news/new-cryptominer-spotted-attacks-using-windows-and-linux-bots-9feac395"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarLoader Downloader is Using Social Engineering Techniques<a href="https://cyware.com/news/bazarloader-downloader-is-using-social-engineering-techniques-047aad22"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bait Boost: Phishers Delivering Increasingly Convincing Lures<a href="https://threatpost.com/bait-phishers-convincing-lures/165834/"> Full Text</a>
@@ -290,7 +290,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2021
+May 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 21 vulnerabilities in Exim mail server leave web, cloud operations exposed<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/21-vulnerabilities-in-exim-mail-server-leave-web-cloud-operations-exposed/"> Full Text</a>

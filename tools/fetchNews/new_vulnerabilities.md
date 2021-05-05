@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Study Warns of Security Threats Linked to Recycled Phone Numbers<a href="https://thehackernews.com/2021/05/new-study-warns-of-security-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new academic study has highlighted a number of privacy and security pitfalls associated with recycling mobile phone numbers that could be abused to stage a variety of exploits, including account takeovers, conduct phishing and spam attacks, and even prevent victims from signing up for online services.  Nearly 66% of the recycled numbers that were sampled were found to be tied to previous owners' online accounts at popular websites, potentially enabling account hijacks by simply recovering the accounts tied to those numbers.  "An attacker can cycle through the available numbers shown on online number change interfaces and check if any of them are associated with online accounts of previous owners," the researchers&nbsp; said . If so, the attacker can then obtain these numbers and reset the password on the accounts, and receive and correctly enter the OTP sent via SMS upon login."   The findings are part of an analysis of a sample of 259 phone numbers available to new su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Fixes Twelve-Year-Old Driver Vulnerability Impacting Millions of PCs<a href="https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of millions of Dell desktops, laptops, notebooks, and tablets will need to update their Dell DBUtil driver to fix a 12-year-old vulnerability that exposes systems to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOS PrivEsc Bugs Affect Hundreds of Millions of Dell PCs Worldwide<a href="https://thehackernews.com/2021/05/bios-privesc-bug-affects-hundreds-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PC maker Dell has issued an update to fix multiple critical privilege escalation vulnerabilities that went undetected since 2009, potentially allowing attackers to gain kernel-mode privileges and cause a denial-of-service condition.  The issues, reported to Dell by researchers from SentinelOne on Dec. 1, 2020, reside in a firmware update driver named "dbutil_2_3.sys" that comes pre-installed on its devices. Hundreds of millions of desktops, laptops, notebooks, and tablets manufactured by the company are said to be vulnerable.   "Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial-of-service, or information disclosure. Local authenticated user access is required," Dell&nbsp; said &nbsp;in an advisory.  All five separate flaws have been assigned the CVE identifier CVE-2021-21551 with a CVSS score of 8.8. A breakdown of the shortcomings is as follows -&nbsp;   CVE-2021-21551: Local Elevation Of Privilege
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found critical authentication bypass flaw in HPE Edgeline Infrastructure Manager<a href="https://securityaffairs.co/wordpress/117513/security/hpe-edgeline-infrastructure-manager-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a critical vulnerability in HPE Edgeline Infrastructure Manager that could be exploited by a remote attacker to bypass authentication.
+
+
+
+Researchers from Tenable have disclosed a critical authentication bypass vulnerability in HPE Edgeline...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android May 2021 Update Out, Fixes Over 40 Vulnerabilities<a href="https://news.softpedia.com/news/android-releases-updates-for-may-2021-which-patches-over-40-vulnerabilities-532811.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new security patch 2021-05-01 fixes three main critical flaws identified in the System component which could be exploited to run arbitrary code on a vulnerable Android device.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALERT — New 21Nails Exim Bugs Expose Millions of Email Servers to Hacking<a href="https://thehackernews.com/2021/05/alert-new-21nails-exim-bugs-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Exim have&nbsp; released patches &nbsp;to remediate as many as 21 security vulnerabilities in its software that could enable unauthenticated attackers to achieve complete remote code execution and gain root privileges.  Collectively named&nbsp; '21Nails ,' the flaws include 11 vulnerabilities that require local access to the server and 10 other weaknesses that could be exploited remotely. The issues were discovered by Qualys and reported to Exim on Oct. 20, 2020.  "Some of the vulnerabilities can be chained together to obtain a full remote unauthenticated code execution and gain root privileges on the Exim Server," Bharat Jogi, senior manager at Qualys, said in public disclosure. "Most of the vulnerabilities discovered by the Qualys Research Team for e.g. CVE-2020-28017 affects all versions of Exim going back all the way to 2004."   Exim is a popular mail transfer agent (MTA) used on Unix-like operating systems, with over 60% of the publicly reachable m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+21 vulnerabilities in Exim mail server leave web, cloud operations exposed<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/21-vulnerabilities-in-exim-mail-server-leave-web-cloud-operations-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found 21 unique vulnerabilities in the Exim mail server, some of which can be chained together to obtain full remote unauthenticated code execution and gain root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
