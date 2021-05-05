@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. Agency for Global Media data breach caused by a phishing attack<a href="https://www.bleepingcomputer.com/news/security/us-agency-for-global-media-data-breach-caused-by-a-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Agency for Global Media (USAGM) has disclosed a data breach that exposed the personal information of current and former employees and their beneficiaries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Choose Your Own Adventure game animates security awareness training<a href="https://www.scmagazine.com/home/security-news/phishing/choose-your-own-adventure-game-animates-security-awareness-training/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interactive modules educate employees on phishing, social engineering, securely working from home, and more. And it all comes with a dose of nostalgia.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Five things to watch in Facebook Oversight Board ruling on Trump | Trump launches new communications tool after social media ban | Spotify urged to scrap speech recognition tech<a href="https://thehill.com//policy/technology/overnights/551801-hillicon-valley-five-things-to-watch-in-facebook-oversight-board"> Full Text</a>
 </p>
 <details>
