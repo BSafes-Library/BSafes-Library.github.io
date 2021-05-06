@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Seeks Input on HIPAA Security Rule Guidance Update<a href="https://www.govinfosecurity.com/nist-seeks-input-on-hipaa-security-rule-guidance-update-a-16519?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology is seeking public comment as it plans to update its 2008 guidance for implementing the HIPAA Security Rule, which went into effect 20 years ago.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
