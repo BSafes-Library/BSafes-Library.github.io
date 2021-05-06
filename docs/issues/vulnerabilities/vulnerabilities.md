@@ -8,6 +8,150 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm vulnerability impacts nearly 40% of all mobile phones<a href="https://www.bleepingcomputer.com/news/security/qualcomm-vulnerability-impacts-nearly-40-percent-of-all-mobile-phones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high severity security vulnerability found in Qualcomm's Mobile Station Modem (MSM) chips (including the latest 5G-capable versions) could enable attackers to access mobile phone users' text messages, call history, and listen in on their conversations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Hit Cisco SD-WAN vManage and HyperFlex Software<a href="https://thehackernews.com/2021/05/critical-flaws-hit-cisco-sd-wan-vmanage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco has rolled out software updates to address multiple critical vulnerabilities impacting HyperFlex HX and SD-WAN vManage Software that could allow an attacker to perform command injection attacks, execute arbitrary code, and gain access to sensitive information.  In a series of advisories published on May 5, the company said there are no workarounds that remediate the issues.  The HyperFlex HX command injection vulnerabilities, tracked as CVE-2021-1497 and CVE-2021-1498 (CVSS scores 9.8), affect all Cisco devices running HyperFlex HX software versions 4.0, 4.5, and those prior to 4.0. Arising due to insufficient validation of user-supplied input in the web-based management interface of Cisco HyperFlex HX Data Platform, the flaws could enable an unauthenticated, remote attacker to perform a command injection attack against a vulnerable device.   "An attacker could exploit this vulnerability by sending a crafted request to the web-based management int
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Qualcomm Chip Bug Could Let Hackers Spy On Android Devices<a href="https://thehackernews.com/2021/05/new-qualcomm-chip-bug-could-let-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new security vulnerability in Qualcomm's mobile station modems (MSM) that could potentially allow an attacker to leverage the underlying Android operating system to slip malicious code into mobile phones, undetected.  "If exploited, the vulnerability would have allowed an attacker to use Android OS itself as an entry point to inject malicious and invisible code into phones, granting them access to SMS messages and audio of phone conversations," researchers from Israeli security firm Check Point&nbsp; said &nbsp;in an analysis published today.  The heap overflow vulnerability, tracked as CVE-2020-11292 , resides in the QMI voice service API exposed by the modem to the high level operating system, and could be exploited by a malicious app to conceal its activities "underneath" the OS in the modem chip itself, thus making it invisible to the security protections built into the device.   Designed since the 1990s, Qualcomm&nbsp; MSM &nbsp;chip
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Claims Peloton APIs Exposed All Users Data<a href="https://www.infosecurity-magazine.com:443/news/peloton-apis-exposed-all-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even those in privacy mode were affected, says Pen Test Partners
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical flaws in SD-WAN vManage and HyperFlex HX software<a href="https://securityaffairs.co/wordpress/117560/security/cisco-sd-wan-vmanage-hyperflex-hx-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed critical flaws in SD-WAN vManage and HyperFlex HX software that could allow creating admin accounts, and executing commands as root.
+
+
+
+Cisco has addressed critical vulnerabilities affecting SD-WAN vManage and HyperFlex HX software that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JET engine flaws can crash Microsoft's IIS, SQL Server, say Palo Alto researchers<a href="https://www.theregister.com/2021/05/06/jet_engine_flaws_attack_iis_sql/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Palo Alto Networks have detailed vulnerabilities in the JET database engine that can be exploited to execute malicious code on systems running Microsoft’s SQL Server and IIS web server.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Spectre Flaws in Intel and AMD CPUs Affect Billions of Computers<a href="https://thehackernews.com/2021/05/new-spectre-flaws-in-intel-and-amd-cpus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When Spectre, a class of critical vulnerabilities impacting modern processors, was&nbsp; publicly revealed &nbsp;in January 2018, the researchers behind the discovery&nbsp; said , "As it is not easy to fix, it will haunt us for quite some time," explaining the inspiration behind naming the speculative execution attacks.  Indeed, it's been more than three years, and there is no end to Spectre in sight.  A team of academics from the University of Virginia and University of California, San Diego, have discovered a&nbsp; new line of attack &nbsp;that bypasses all current Spectre protections built into the chips, potentially putting almost every system — desktops, laptops, cloud servers, and smartphones — once again at risk just as they were three years ago.   The disclosure of&nbsp; Spectre and Meltdown &nbsp;opened a&nbsp; floodgates &nbsp;of sorts, what with&nbsp; endless &nbsp; variants &nbsp;of the&nbsp; attacks &nbsp;coming to light in the intervening years, even as chipmakers like Intel, ARM, and AMD have continually scrambled to incorpo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Office 365 Apps Are the Ultimate Insiders – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/malicious-office-365-apps-are-the-ultimate-insiders/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attacks begin with an emailed link that when clicked loads not a phishing site but the user’s actual Office 365 login page — whether that be at microsoft.com or their employer’s domain.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco bugs allow creating admin accounts, executing commands as root<a href="https://www.bleepingcomputer.com/news/security/cisco-bugs-allow-creating-admin-accounts-executing-commands-as-root/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has fixed critical SD-WAN vManage and HyperFlex HX software security flaws that could enable remote attackers to execute commands as root or create rogue admin accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical RCE bug in vRealize Business for Cloud<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-rce-bug-in-vrealize-business-for-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates to address a critical severity&nbsp;vulnerability in vRealize Business for Cloud that enables unauthenticated attackers to remotely execute malicious code on vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

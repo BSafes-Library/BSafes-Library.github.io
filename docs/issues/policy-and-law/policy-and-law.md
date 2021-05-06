@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IP or just generic tech? Palo Alto argues Centripetal patent claims are overly broad<a href="https://www.scmagazine.com/firewalls-ipsec-vpns/ip-or-just-generic-tech-palo-alto-argues-centripetal-patent-claims-are-overly-broad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company claims a lawsuit filed against them by Centripetal Networks involve basic network security techniques and should be dismissed.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

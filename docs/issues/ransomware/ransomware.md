@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: REvil ransomware to blame for UnitingCare Queensland's April attack<a href="https://www.zdnet.com/article/revil-ransomware-to-blame-for-unitingcare-queenslands-april-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization, which provides aged care, disability supports, health care, and crisis response services throughout the Australian state, suffered the attack on Sunday, 25 April 2021.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Behind Avaddon Ransomware Give Australia's NSW Labor 240 Hours to Pay Ransom<a href="https://www.smh.com.au/national/nsw/police-investigate-cyber-attack-on-nsw-labor-party-20210505-p57p4y.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon, which originated in Russia, is behind the breach and is threatening to release a trove of sensitive information including images of passports, driver’s licenses, and employment contracts.
+</details>
+<div style="text-align: right" markdown="1">
+Sydney Morning Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

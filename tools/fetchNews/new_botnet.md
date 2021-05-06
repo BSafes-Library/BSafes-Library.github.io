@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A taste of the latest release of QakBot<a href="https://securityaffairs.co/wordpress/117558/cyber-crime/qakbot-latest-release.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A taste of the latest release of QakBot – one of the most popular and mediatic trojan bankers active since 2007.
+
+
+
+The malware&nbsp;QakBot, also known as Qbot, Pinkslipbot, and Quakbot is a banking trojan that has been made headlines since 2007. This...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

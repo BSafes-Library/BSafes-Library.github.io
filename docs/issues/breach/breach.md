@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Faxton St. Luke's Healthcare vendor faces data breach; potentially exposing information on thousands of patients<a href="https://www.wktv.com/content/news/Faxton-St-Lukes-Healthcare-faces-data-breach-potentially-exposing-information-on-thousands-of-patients-574354251.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Faxton St. Luke’s Healthcare (FSLH) was notified on March 30, 2021, that Capture RX, a third-party business associate, experienced a data breach on February 6, 2021, affecting 17,655 patients of FSLH.
+</details>
+<div style="text-align: right" markdown="1">
+WKTV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+East London Council Accidentally Exposes Thousands of Residents' Email Addresses<a href="https://www.theregister.com/2021/05/05/tower_hamlets_email_fail/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local authority in East London has committed a privacy blunder by emailing what appear to be thousands of residents – while forgetting to use the BCC field and exposing all of the email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

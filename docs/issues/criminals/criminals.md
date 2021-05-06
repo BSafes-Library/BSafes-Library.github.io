@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2529, a new sophisticated cybercrime gang that targets U.S. orgs with 3 malware<a href="https://securityaffairs.co/wordpress/117550/cyber-crime/unc2529-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cybercrime gang, tracked as UNC2529, has targeted many organizations in the US and other countries using new sophisticated malware.
+
+
+
+A new financially motivated threat actor, tracked by FireEye Experts as UNC2529, has targeted many organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
