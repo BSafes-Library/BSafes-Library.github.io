@@ -34,17 +34,349 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2021
+May 06, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-ATT&CK v9 Introduces Containers, Google Workspace<a href="https://www.securityweek.com/attck-v9-introduces-containers-google-workspace?&web_view=true"> Full Text</a>
+New Moriya rootkit used in the wild to backdoor Windows systems<a href="https://www.bleepingcomputer.com/news/security/new-moriya-rootkit-used-in-the-wild-to-backdoor-windows-systems/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-ATT&CK v9 adds container-related attack techniques, which is the result of a project conducted by MITRE’s Center for Threat-Informed Defense and sponsored by Microsoft, Citigroup, and JPMorgan Chase.
+A new stealthy rootkit was used by an unknown threat actor to backdoor targeted Windows systems in a likely ongoing espionage campaign dubbed TunnelSnake and going back to at least 2018.
 </details>
 <div style="text-align: right" markdown="1">
-Security Week
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: REvil ransomware to blame for UnitingCare Queensland's April attack<a href="https://www.zdnet.com/article/revil-ransomware-to-blame-for-unitingcare-queenslands-april-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization, which provides aged care, disability supports, health care, and crisis response services throughout the Australian state, suffered the attack on Sunday, 25 April 2021.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISO Challenge: Check Your Cybersecurity Skills On This New Competition Site<a href="https://thehackernews.com/2021/05/ciso-challenge-check-your-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+InfoSec leaders tend to be a specific type. Their jobs require them to think of possible threats, take actions that may not pay immediate results, plan for unknown security risks, and react quickly when emergencies arise, often before the morning's first coffee.  The high-stakes position also means that CISOs need to keep their knowledge and skills sharp – you can never really know what's around the corner.  So, what can security leaders do to make sure they're prepared and hone their skills ahead of the next inevitable threat? Now, they can test themselves and their knowledge at a new website, 'The CISO Challenge' ( visit it here ). The website, launched by XDR provider Cynet, aims to let information security leaders test their cybersecurity mettle.  The website features a challenge for InfoSec leaders (and those who are looking to become one) to test their knowledge in an exciting, high-stakes, realistic series of scenarios.  The challenge consists of 25 scenario
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Services Experience 125% Rise in Exposure to Mobile Phishing<a href="https://www.infosecurity-magazine.com:443/news/financial-rise-exposure-mobile/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminals have ramped up their targeting of phones, tablets, and Chromebooks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese PLA Unit 61419 suspected to have purchased AVs for cyber-espionage<a href="https://securityaffairs.co/wordpress/117608/cyber-warfare-2/pla-unit-61419.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese military unit PLA Unit 61419 is suspected to be involved in cyber-espionage campaigns against multiple antivirus companies.
+
+
+
+Researchers from cybersecurity firm Recorded Future’s Insikt Group have discovered six procurement documents from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm vulnerability impacts nearly 40% of all mobile phones<a href="https://www.bleepingcomputer.com/news/security/qualcomm-vulnerability-impacts-nearly-40-percent-of-all-mobile-phones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high severity security vulnerability found in Qualcomm's Mobile Station Modem (MSM) chips (including the latest 5G-capable versions) could enable attackers to access mobile phone users' text messages, call history, and listen in on their conversations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Faxton St. Luke's Healthcare vendor faces data breach; potentially exposing information on thousands of patients<a href="https://www.wktv.com/content/news/Faxton-St-Lukes-Healthcare-faces-data-breach-potentially-exposing-information-on-thousands-of-patients-574354251.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Faxton St. Luke’s Healthcare (FSLH) was notified on March 30, 2021, that Capture RX, a third-party business associate, experienced a data breach on February 6, 2021, affecting 17,655 patients of FSLH.
+</details>
+<div style="text-align: right" markdown="1">
+WKTV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Hit Cisco SD-WAN vManage and HyperFlex Software<a href="https://thehackernews.com/2021/05/critical-flaws-hit-cisco-sd-wan-vmanage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco has rolled out software updates to address multiple critical vulnerabilities impacting HyperFlex HX and SD-WAN vManage Software that could allow an attacker to perform command injection attacks, execute arbitrary code, and gain access to sensitive information.  In a series of advisories published on May 5, the company said there are no workarounds that remediate the issues.  The HyperFlex HX command injection vulnerabilities, tracked as CVE-2021-1497 and CVE-2021-1498 (CVSS scores 9.8), affect all Cisco devices running HyperFlex HX software versions 4.0, 4.5, and those prior to 4.0. Arising due to insufficient validation of user-supplied input in the web-based management interface of Cisco HyperFlex HX Data Platform, the flaws could enable an unauthenticated, remote attacker to perform a command injection attack against a vulnerable device.   "An attacker could exploit this vulnerability by sending a crafted request to the web-based management int
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Firms Report Puzzling 30% Drop in Breaches as Incidents Rise<a href="https://www.infosecurity-magazine.com:443/news/financial-breach-reports-drop-30/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sector takes more robust approach to GDPR reporting
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A taste of the latest release of QakBot<a href="https://securityaffairs.co/wordpress/117558/cyber-crime/qakbot-latest-release.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A taste of the latest release of QakBot – one of the most popular and mediatic trojan bankers active since 2007.
+
+
+
+The malware QakBot, also known as Qbot, Pinkslipbot, and Quakbot is a banking trojan that has been made headlines since 2007. This...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome adopts Windows 10 security feature<a href="https://ciso.economictimes.indiatimes.com/news/google-chrome-adopts-windows-10-security-feature/82408160?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To protect the memory stack from cyberattackers, Google revealed that its Chrome 90 has adopted a new Windows 10 security feature called "Hardware-enforced Stack Protection".
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Qualcomm Chip Bug Could Let Hackers Spy On Android Devices<a href="https://thehackernews.com/2021/05/new-qualcomm-chip-bug-could-let-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new security vulnerability in Qualcomm's mobile station modems (MSM) that could potentially allow an attacker to leverage the underlying Android operating system to slip malicious code into mobile phones, undetected.  "If exploited, the vulnerability would have allowed an attacker to use Android OS itself as an entry point to inject malicious and invisible code into phones, granting them access to SMS messages and audio of phone conversations," researchers from Israeli security firm Check Point  said  in an analysis published today.  The heap overflow vulnerability, tracked as CVE-2020-11292 , resides in the QMI voice service API exposed by the modem to the high level operating system, and could be exploited by a malicious app to conceal its activities "underneath" the OS in the modem chip itself, thus making it invisible to the security protections built into the device.   Designed since the 1990s, Qualcomm  MSM  chip
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Claims Peloton APIs Exposed All Users Data<a href="https://www.infosecurity-magazine.com:443/news/peloton-apis-exposed-all-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even those in privacy mode were affected, says Pen Test Partners
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical flaws in SD-WAN vManage and HyperFlex HX software<a href="https://securityaffairs.co/wordpress/117560/security/cisco-sd-wan-vmanage-hyperflex-hx-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed critical flaws in SD-WAN vManage and HyperFlex HX software that could allow creating admin accounts, and executing commands as root.
+
+
+
+Cisco has addressed critical vulnerabilities affecting SD-WAN vManage and HyperFlex HX software that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JET engine flaws can crash Microsoft's IIS, SQL Server, say Palo Alto researchers<a href="https://www.theregister.com/2021/05/06/jet_engine_flaws_attack_iis_sql/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Palo Alto Networks have detailed vulnerabilities in the JET database engine that can be exploited to execute malicious code on systems running Microsoft’s SQL Server and IIS web server.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Spectre Flaws in Intel and AMD CPUs Affect Billions of Computers<a href="https://thehackernews.com/2021/05/new-spectre-flaws-in-intel-and-amd-cpus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When Spectre, a class of critical vulnerabilities impacting modern processors, was  publicly revealed  in January 2018, the researchers behind the discovery  said , "As it is not easy to fix, it will haunt us for quite some time," explaining the inspiration behind naming the speculative execution attacks.  Indeed, it's been more than three years, and there is no end to Spectre in sight.  A team of academics from the University of Virginia and University of California, San Diego, have discovered a  new line of attack  that bypasses all current Spectre protections built into the chips, potentially putting almost every system — desktops, laptops, cloud servers, and smartphones — once again at risk just as they were three years ago.   The disclosure of  Spectre and Meltdown  opened a  floodgates  of sorts, what with  endless   variants  of the  attacks  coming to light in the intervening years, even as chipmakers like Intel, ARM, and AMD have continually scrambled to incorpo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of UK Manufacturers Suffered a Cyber-Attack Last Year<a href="https://www.infosecurity-magazine.com:443/news/half-uk-manufacturers-suffered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Make UK study shows more work is needed
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Behind Avaddon Ransomware Give Australia's NSW Labor 240 Hours to Pay Ransom<a href="https://www.smh.com.au/national/nsw/police-investigate-cyber-attack-on-nsw-labor-party-20210505-p57p4y.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon, which originated in Russia, is behind the breach and is threatening to release a trove of sensitive information including images of passports, driver’s licenses, and employment contracts.
+</details>
+<div style="text-align: right" markdown="1">
+Sydney Morning Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Office 365 Apps Are the Ultimate Insiders – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/malicious-office-365-apps-are-the-ultimate-insiders/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attacks begin with an emailed link that when clicked loads not a phishing site but the user’s actual Office 365 login page — whether that be at microsoft.com or their employer’s domain.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+East London Council Accidentally Exposes Thousands of Residents' Email Addresses<a href="https://www.theregister.com/2021/05/05/tower_hamlets_email_fail/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local authority in East London has committed a privacy blunder by emailing what appear to be thousands of residents – while forgetting to use the BCC field and exposing all of the email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaccoonStealer Malware Group Leaves Millions of Stolen Authentication Cookies Exposed in Unsecured Server<a href="https://therecord.media/malware-group-leaks-millions-of-stolen-authentication-cookies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This type of malware infects devices and then collects user credentials from web browsers, FTP, and email clients, data that is later uploaded to command and control (C&C) servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -53,14 +385,178 @@ Security Week
 May 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Massive DDoS Attack Knocked Offline Belgian Government Websites and Internal Networks<a href="https://securityaffairs.co/wordpress/117529/hacking/belgiums-ddos-attack.html?&web_view=true"> Full Text</a>
+BazarBackdoor phishing campaign eschews links and files to avoid raising red flags<a href="https://www.scmagazine.com/home/security-news/phishing/bazarbackdoor-phishing-campaign-eschews-links-and-files-to-avoid-raising-red-flags/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-A massive distributed denial of service (DDoS) attack hit most of the Belgium government’s IT network, according to the media the attack also knocked offline internal systems.
+SEGs and sandbox rules are designed to spot them, and employees are trained to distrust them, so attackers are taking an alternate approach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Shut Down Fake COVID-19 Vaccine Phishing Website<a href="https://threatpost.com/feds-fake-covid-19-vaccine-phishing-website/165872/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+‘Freevaccinecovax.org’ claimed to be that of a biotech company but instead was stealing info from visitors to use for nefarious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+180+ OAuth 2.0 cloud malware apps detected<a href="https://www.scmagazine.com/home/security-news/cloud-security/180-oauth-2-0-cloud-malware-apps-detected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud malware can be used to conduct reconnaissance, launch employee-to-employee attacks, and steal files and emails from cloud platforms.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco bugs allow creating admin accounts, executing commands as root<a href="https://www.bleepingcomputer.com/news/security/cisco-bugs-allow-creating-admin-accounts-executing-commands-as-root/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has fixed critical SD-WAN vManage and HyperFlex HX software security flaws that could enable remote attackers to execute commands as root or create rogue admin accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IP or just generic tech? Palo Alto argues Centripetal patent claims are overly broad<a href="https://www.scmagazine.com/firewalls-ipsec-vpns/ip-or-just-generic-tech-palo-alto-argues-centripetal-patent-claims-are-overly-broad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company claims a lawsuit filed against them by Centripetal Networks involve basic network security techniques and should be dismissed.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical RCE bug in vRealize Business for Cloud<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-rce-bug-in-vrealize-business-for-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates to address a critical severity vulnerability in vRealize Business for Cloud that enables unauthenticated attackers to remotely execute malicious code on vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2529, a new sophisticated cybercrime gang that targets U.S. orgs with 3 malware<a href="https://securityaffairs.co/wordpress/117550/cyber-crime/unc2529-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cybercrime gang, tracked as UNC2529, has targeted many organizations in the US and other countries using new sophisticated malware.
+
+
+
+A new financially motivated threat actor, tracked by FireEye Experts as UNC2529, has targeted many organizations...
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Homecoming Queen Hacker to be Tried as an Adult<a href="https://www.infosecurity-magazine.com:443/news/homecoming-queen-hacker-to-be/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida teen accused of hacking students’ accounts to rig homecoming contest to face felony charges as an adult
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panda Stealer Targets Crypto Wallets<a href="https://www.infosecurity-magazine.com:443/news/panda-stealer-targets-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto wallets and Discord credentials among targets of new information stealer
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poor Working Relationships Between Security and Networking Teams Preventing Benefits of Digital Transformation<a href="https://www.infosecurity-magazine.com:443/news/working-relationships-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly half of IT pros described a negative relationship between security and networking teams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Attack on Belgian Parliament<a href="https://www.infosecurity-magazine.com:443/news/cyber-attack-on-belgian-parliament/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgium’s parliament, universities, and police targeted in a coordinated DDoS attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
