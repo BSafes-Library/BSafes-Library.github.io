@@ -30,6 +30,18 @@ The 9/11 terrorist attacks brought on financial losses that caused insurers and 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+•  The Brick-and-Mortar Bank is Dead — COVID-19 Killed It [HTML](https://papers.bsafes.com/docs/internet/the-brick-and-mortar-bank-is-dead-covid-19-killed-it/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A rule of thumb is to strike while the iron is hot; for cybercriminals, that iron is a global pandemic. The novel coronavirus dubbed “COVID-19” is an infectious disease that was first identified in Wuhan, China in December 2019. In March 2020, the World Health Organization (“WHO”) officially declared the COVID-19 disease a pandemic following rapid global transmission. This pandemic brought the world to a screeching halt as governments frantically tried to “flatten the curve.” Indeed, COVID-19’s effects permeated nearly every layer
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 3, 2021
 {: .fs-4 .fw-700 .lh-0  }  
 <p style="font-weight:500; margin:0px" markdown="1">

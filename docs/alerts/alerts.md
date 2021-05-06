@@ -4,7 +4,19 @@ title: Alerts
 nav_order: 150 
 ---
 
-## Alerts 
+## Alerts
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021 - NSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stop Malicious Cyber Activity Against Connected Operational Technology <a href="https://publications.bsafes.com/docs/nsa/stop-malicious-cyber-activity-again-connected-operational-technology/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant shift in how operational technologies (OT) are viewed, evaluated, and secured within the U.S. is needed to prevent malicious cyber actors (MCA) from executing successful, and potentially damaging, cyber effects. As OT components continue being connected to information technology (IT), IT exploitation increasingly can serve as a pivot to OT destructive effects. Recent adversarial exploitation of IT management software and its supply chain has resulted in publicly documented impacts across the U.S. Government (USG) and the Defense Industrial Base (DIB). Malicious cyber activities directed at OT also continue to threaten these networks.
+</details>
+</div>
+ 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 29, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }

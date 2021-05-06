@@ -29,10 +29,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.securityweek.com/nsa-issues-guidance-securing-it-ot-connectivity?&web_view=true
 
 Law:
-. https://www.scmagazine.com/home/security-news/malware/doj-building-the-guardrails-for-microsoft-exchange-type-malware-takedowns/
 
 APT
 . APT27
