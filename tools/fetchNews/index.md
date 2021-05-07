@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+80% of Net Neutrality Comments to FCC Were Fudged<a href="https://threatpost.com/net-neutrality-comments-fcc-fudged/165943/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NY’s AG: Millions of fake comments – in favor and against –  came from a secret broadband-funded campaign or from a 19-year-old’s fake identities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Israel’s Version of Moving Fast and Breaking Things: The New Cybersecurity Bill<a href="https://www.lawfareblog.com/israels-version-moving-fast-and-breaking-things-new-cybersecurity-bill"> Full Text</a>
 </p>
 <details>
