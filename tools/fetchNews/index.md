@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#COVID19 Researchers Lose a Week's Work to Ryuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/covid19-researchers-lose-week-work/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos traces attack back to a stolen password
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connecting the Bots – Hancitor fuels Cuba Ransomware Operations<a href="https://securityaffairs.co/wordpress/117638/cyber-crime/cuba-ransomware-hancitor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware gang has partnered with the crooks behind the Hancitor malware in attacks aimed at corporate networks.
+
+
+
+The Hancitor downloader has been around for quite some time already. It is known since at least 2016 for dropping...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured Database Exposes 200K Fake Amazon Reviewers<a href="https://www.infosecurity-magazine.com:443/news/database-exposes-200k-fake-amazon/"> Full Text</a>
 </p>
 <details>
