@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DHS Secretary: Small Businesses Hard-Hit by Ransomware<a href="https://www.bankinfosecurity.com/dhs-secretary-small-businesses-hard-hit-by-ransomware-a-16529?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The losses from ransomware are staggering. And the pace at which those losses are being realized is equally staggering," Mayorkas said, noting this is why DHS has made battling ransomware a priority.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Amazon Fake Reviews Scam Exposed in Data Breach<a href="https://www.safetydetectives.com/blog/amazon-reviews-leak-report/?&web_view=true"> Full Text</a>
 </p>
 <details>

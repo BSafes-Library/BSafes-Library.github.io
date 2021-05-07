@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware partners with Hancitor for spam-fueled attacks<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-partners-with-hancitor-for-spam-fueled-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware gang has teamed up with the spam operators of the Hancitor malware to gain easier access to compromised corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthy Rootkit Infiltrated Networks of High-Profile Organizations<a href="https://thehackernews.com/2021/05/new-stealthy-rootkit-infiltrated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor with the capabilities to evolve and tailor its toolset to target environments infiltrated high-profile organizations in Asia and Africa with an evasive Windows rootkit since at least 2018.  Called  'Moriya ,' the malware is a "passive backdoor which allows attackers to inspect all incoming traffic to the infected machine, filter out packets that are marked as designated for the malware and respond to them," said Kaspersky researchers Mark Lechtik and Giampaolo Dedola in a Thursday deep-dive.  The Russian cybersecurity firm termed the ongoing espionage campaign  'TunnelSnake .' Based on telemetry analysis, less than 10 victims around the world have been targeted to date, with the most prominent victims being two large diplomatic entities in Southeast Asia and Africa. All the other victims were located in South Asia.   The first reports of Moriya emerged last November when Kaspersky said it discovered the stealthy implant in the networks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
