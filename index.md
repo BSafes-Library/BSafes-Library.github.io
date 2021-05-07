@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US defense contractor BlueForce apparently hit by ransomware<a href="https://searchsecurity.techtarget.com/news/252500356/US-defense-contractor-BlueForce-apparently-hit-by-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware operators demanded nearly $1 million in bitcoin during ransomware negotiations and threatened to publish the defense contractor's data on its leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 80% of Net Neutrality Comments to FCC Were Fudged<a href="https://threatpost.com/net-neutrality-comments-fcc-fudged/165943/"> Full Text</a>
 </p>
 <details>
