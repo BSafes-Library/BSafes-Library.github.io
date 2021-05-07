@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DHS to hire 200 more cyber pros as Biden administration grapples with hacking threats<a href="https://www.cyberscoop.com/dhs-cyber-careers-biden-mayorkas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a speech Wednesday, Homeland Security Secretary Alejandro Mayorkas said the cyber recruiting was part of “the most significant hiring initiative” that DHS has undertaken in its 18-year history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed Over Contact Tracing Data Breach<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-filed-over-contact-tracing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State of Pennsylvania and Insight Global accused of cybersecurity failures after PHI exposed
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bot Attacks a Top Cybersecurity Concern<a href="https://www.infosecurity-magazine.com:443/news/bot-attacks-a-top-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Majority of security leaders view bot mitigation as a top priority
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Intel, AMD Dispute Findings on Chip Vulnerabilities<a href="https://www.govinfosecurity.com/intel-amd-dispute-findings-on-chip-vulnerabilities-a-16535?&web_view=true"> Full Text</a>
 </p>
 <details>
