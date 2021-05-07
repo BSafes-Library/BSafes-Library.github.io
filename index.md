@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Millions of Households at Risk from Outdated Routers<a href="https://www.infosecurity-magazine.com:443/news/millions-households-risk-from/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which report warns many lack regular firmware updates
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #COVID19 Researchers Lose a Week's Work to Ryuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/covid19-researchers-lose-week-work/"> Full Text</a>
 </p>
 <details>
