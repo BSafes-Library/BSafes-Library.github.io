@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Panda Stealer: Spreading via Spam Emails and Discord<a href="https://cyware.com/news/panda-stealer-spreading-via-spam-emails-and-discord-938b2335"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panda Stealer, a new cryptocurrency variant, has been found spreading through a global spam campaign and potentially through Discord channels. It is targeting individuals across U.S., Australia, Japan, and Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Buer malware rewritten in Rust language to curb detection<a href="https://www.scmagazine.com/home/security-news/malware/buer-malware-rewritten-in-rust-language-to-curb-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers said that the last few years saw malware authors adopting newer coding languages at a more rapid pace.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Three Marylanders Indicted Over BEC Scam<a href="https://www.infosecurity-magazine.com:443/news/three-marylanders-indicted-over/"> Full Text</a>
 </p>
 <details>
