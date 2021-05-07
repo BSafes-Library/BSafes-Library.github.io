@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters leak database of Indian wedding portal WedMeGood<a href="https://www.hackread.com/shinyhunters-leak-india-wedmegood-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is worth noting that apparently, WedMeGood suffered a data breach back in October 2020 when a threat actor published a list of several compromised sites and offered their database for price.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Major Privacy and Security Updates From Google You Should Know About<a href="https://thehackernews.com/2021/05/4-major-privacy-and-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced a number of user-facing and under-the-hood changes in an attempt to boost privacy and security, including rolling out two-factor authentication automatically to all eligible users and bringing iOS-styled privacy labels to Android app listings.  "Today we ask people who have enrolled in  two-step verification  (2SV) to confirm it's really them with a simple tap via a Google prompt on their phone whenever they sign in," the company  said . "Soon we'll start automatically enrolling users in 2SV if their accounts are appropriately configured."  Google Play To Get Apple-Like Privacy Labels  The Google Play Store for Android is also getting a huge overhaul on the privacy front. The search giant said it plans to include a new  safety section  for app listings that highlights the type of data is collected and stored — such as approximate or precise location, contacts, personal information, photos and videos, and audio files — and how the data i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
