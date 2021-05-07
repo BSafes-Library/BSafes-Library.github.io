@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Database Exposes 200K Fake Amazon Reviewers<a href="https://www.infosecurity-magazine.com:443/news/database-exposes-200k-fake-amazon/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mass scheme designed to trick e-commerce customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers use PyInstaller to create stealth malware<a href="https://searchsecurity.techtarget.com/news/252500274/Researchers-use-PyInstaller-to-create-stealth-malware?&web_view=true"> Full Text</a>
 </p>
 <details>
