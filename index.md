@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxit Reader bug lets attackers run malicious code via PDFs<a href="https://www.bleepingcomputer.com/news/security/foxit-reader-bug-lets-attackers-run-malicious-code-via-pdfs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxit Software, the company behind the highly popular Foxit Reader, has published security updates to fix a high severity remote code execution (RCE) vulnerability affecting the PDF reader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Hackers, OGUsers Hacked Again<a href="https://cyware.com/news/hacking-the-hackers-ogusers-hacked-again-3b26f185"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OGUsers has been hacked for the fourth time in two years. The hacking forum’s database consisting of private messages and user records for almost 350,000 members is on sale now for $3,000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Physics Laboratory Exposed Documents, Credentials<a href="https://www.govinfosecurity.com/us-physics-laboratory-exposed-documents-credentials-a-16536?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fermilab has tidied up its systems after security researchers found weaknesses exposing documents, proprietary applications, personal information, project details, and credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

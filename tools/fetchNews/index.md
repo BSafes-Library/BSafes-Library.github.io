@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Work from Home, Cyberattacks, and Financial Organizations: An Undesirable Trend<a href="https://cyware.com/news/work-from-home-cyberattacks-and-financial-organizations-an-undesirable-trend-209416fa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurers and banks witnessed a rise in botnet, phishing, and ransomware attacks by 35%; mobile malware by 32%; COVID-related malware by 30%; and insider threats by 29%, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Dangerously Bad macOS Bug and a Malware Campaign<a href="https://cyware.com/news/a-dangerously-bad-macos-bug-and-a-malware-campaign-34c6ac48"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dangerously bad zero-day vulnerability in macOS was being abused by the Shlayer malware to bypass Apple’s Gatekeeper, Notarization, and File Quarantine security checks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Forcepoint Buys Remote Browser Isolation Startup Cyberinc<a href="https://www.crn.com/news/security/forcepoint-buys-remote-browser-isolation-startup-cyberinc?&web_view=true"> Full Text</a>
 </p>
 <details>
