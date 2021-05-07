@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New tsuNAME Flaw Could Let Attackers Take Down Authoritative DNS Servers<a href="https://thehackernews.com/2021/05/new-tsuname-flaw-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers Thursday disclosed a new critical vulnerability affecting Domain Name System (DNS) resolvers that could be exploited by adversaries to carry out denial-of-service attacks against authoritative nameservers.  The flaw, called  'TsuNAME ,' was discovered by researchers from SIDN Labs and InternetNZ, which manage the national top-level internet domains '.nl' and '.nz' for the Netherlands and New Zealand, respectively.  "TsuNAME occurs when domain names are misconfigured with cyclic dependent DNS records, and when vulnerable resolvers access these misconfigurations, they begin looping and send DNS queries rapidly to authoritative servers and other resolvers," the researchers said.   A recursive DNS resolver is one of the core components involved in  DNS resolution , i.e., converting a hostname such as www.google.com into a computer-friendly IP address like 142.250.71.36. To achieve this, it responds to a client's request for a web
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
