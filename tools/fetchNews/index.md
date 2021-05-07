@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 7th 2021 - Attacking healthcare<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-7th-2021-attacking-healthcare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware attacks continued throughout the week, for the most part, it has been quieter than usual, with only a few new variants released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US, UK authorities say Russian hackers exploited Microsoft vulnerabilities | Lawmakers push for more cyber funds in annual appropriations | Google child care workers ask for transportation stipend<a href="https://thehill.com//policy/cybersecurity/overnights/552428-hillicon-valley-us-uk-authorities-say-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American and British authorities said Friday that Russian state-sponsored hackers exploited major vulnerabilities in Microsoft’s Exchange Server, which were previously used by at least one Chinese state-sponsored hacking group to compromise potentially thousands of organizations. Meanwhile, lawmakers on both sides of the aisle are pushing hard for more cyber funding in the annual appropriations bills, and Google child care workers are pushing for a transportation stipend from the company. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers push for increased cybersecurity funds in annual appropriations<a href="https://thehill.com//policy/cybersecurity/552423-lawmakers-push-for-increased-cybersecurity-funds-in-annual"> Full Text</a>
 </p>
 <details>
