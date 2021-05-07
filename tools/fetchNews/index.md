@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+6 Unpatched Flaws Disclosed in Remote Mouse App for Android and iOS<a href="https://thehackernews.com/2021/05/6-unpatched-flaws-disclosed-in-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as six zero-days have been uncovered in an application called Remote Mouse, allowing a remote attacker to achieve full code execution without any user interaction.  The unpatched flaws, collectively named ' Mouse Trap, ' were disclosed on Wednesday by security researcher Axel Persinger, who said, "It's clear that this application is very vulnerable and puts users at risk with bad authentication mechanisms, lack of encryption, and poor default configuration."   Remote Mouse is a remote control application for Android and iOS that turns mobile phones and tablets into a wireless mouse, keyboard, and trackpad for computers, with support for voice typing, adjusting computer volume, and switching between applications with the help of a Remote Mouse server installed on the machine. The Android app alone has been installed over 10 million times.  In a nutshell, the issues, which were identified by analysing the packets sent from the Android app to its Windows ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Twitter Tip Jar may expose PayPal address, sparks privacy concerns<a href="https://www.bleepingcomputer.com/news/security/twitter-tip-jar-may-expose-paypal-address-sparks-privacy-concerns/"> Full Text</a>
 </p>
 <details>

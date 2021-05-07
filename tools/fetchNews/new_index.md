@@ -34,6 +34,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Sets Out Security Principles for Smart Cities<a href="https://www.infosecurity-magazine.com:443/news/ncsc-security-principles-smart/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance is designed to help local authorities in the UK build secure smart cities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Full-Disclosure] HideezKey 2 FAIL: How a good idea turns into a SPF (Security Product Failure)<a href="https://securityaffairs.co/wordpress/117653/hacking/hideezkey-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HideezKey- This is a deep-dive into a nice concept for a security token & password manager that turned into a horrible product due to lack of proper R&D and Threat Modeling.
+
+
+
+
+
+
+
+Prologue: After my first success in bypassing APPROTECT readout...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
