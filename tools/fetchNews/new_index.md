@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Tip Jar may expose PayPal address, sparks privacy concerns<a href="https://www.bleepingcomputer.com/news/security/twitter-tip-jar-may-expose-paypal-address-sparks-privacy-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week Twitter has begun experimenting with a new feature called 'Tip Jar,' which lets Twitter users tip select profiles to support their work.. But the feature has sparked multiple concerns among Twitter users: from the sender's PayPal shipping address getting exposed, to how are disputes handled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
