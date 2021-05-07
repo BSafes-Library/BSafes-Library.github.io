@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISO Challenge: Check Your Cybersecurity Skills On This New Competition Site<a href="https://thehackernews.com/2021/05/ciso-challenge-check-your-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+InfoSec leaders tend to be a specific type. Their jobs require them to think of possible threats, take actions that may not pay immediate results, plan for unknown security risks, and react quickly when emergencies arise, often before the morning's first coffee.  The high-stakes position also means that CISOs need to keep their knowledge and skills sharp – you can never really know what's around the corner.  So, what can security leaders do to make sure they're prepared and hone their skills ahead of the next inevitable threat? Now, they can test themselves and their knowledge at a new website, 'The CISO Challenge' ( visit it here ). The website, launched by XDR provider Cynet, aims to let information security leaders test their cybersecurity mettle.  The website features a challenge for InfoSec leaders (and those who are looking to become one) to test their knowledge in an exciting, high-stakes, realistic series of scenarios.  The challenge consists of 25 scenario
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Firms Report Puzzling 30% Drop in Breaches as Incidents Rise<a href="https://www.infosecurity-magazine.com:443/news/financial-breach-reports-drop-30/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sector takes more robust approach to GDPR reporting
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome adopts Windows 10 security feature<a href="https://ciso.economictimes.indiatimes.com/news/google-chrome-adopts-windows-10-security-feature/82408160?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To protect the memory stack from cyberattackers, Google revealed that its Chrome 90 has adopted a new Windows 10 security feature called "Hardware-enforced Stack Protection".
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of UK Manufacturers Suffered a Cyber-Attack Last Year<a href="https://www.infosecurity-magazine.com:443/news/half-uk-manufacturers-suffered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Make UK study shows more work is needed
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poor Working Relationships Between Security and Networking Teams Preventing Benefits of Digital Transformation<a href="https://www.infosecurity-magazine.com:443/news/working-relationships-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly half of IT pros described a negative relationship between security and networking teams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

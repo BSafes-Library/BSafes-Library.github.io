@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese PLA Unit 61419 suspected to have purchased AVs for cyber-espionage<a href="https://securityaffairs.co/wordpress/117608/cyber-warfare-2/pla-unit-61419.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese military unit PLA Unit 61419 is suspected to be involved in cyber-espionage campaigns against multiple antivirus companies.
+
+
+
+Researchers from cybersecurity firm Recorded Future’s Insikt Group have discovered six procurement documents from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

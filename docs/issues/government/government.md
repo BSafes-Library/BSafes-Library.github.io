@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD Expands Hacker Program<a href="https://www.infosecurity-magazine.com:443/news/dod-expands-hacker-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ethical hackers can now hunt bugs in all US publicly accessible defense information systems
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese military unit accused of cyber-espionage bought multiple western antivirus products<a href="https://therecord.media/chinese-military-unit-accused-of-cyber-espionage-bought-multiple-western-antivirus-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to multiple documents found by Recorded Future’s Insikt Group, Unit 61419 of the Chinese People’s Liberation Army (PLA) bought small batches of different antivirus products in early 2019.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

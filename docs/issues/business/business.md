@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hires CISO from within, enabling a quicker security transformation<a href="https://www.scmagazine.com/home/security-news/solarwinds-hires-ciso-from-within-enabling-a-quicker-security-transformation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tim Brown’s familiarity with the internal environment and attack investigation potentially means less time to ramp up company’s Secure by Design initiative. But there could be some drawbacks to hiring from within as well.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MDR Firm Huntress Raises $40 Million in Series B Funding Round<a href="https://www.securityweek.com/mdr-firm-huntress-raises-40-million-series-b-funding-round?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B round, led by JMI Equity, will help the company expand its platform. Previous investors ForgePoint Capital and Gula Tech Adventures also participated in the latest financing round.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

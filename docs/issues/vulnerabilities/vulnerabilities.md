@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm Chip Bug Opens Android Fans to Eavesdropping<a href="https://threatpost.com/qualcomm-chip-bug-android-eavesdropping/165934/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious app can exploit the issue, which could affect up to 30 percent of Android phones.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TsuNAME DNS bug allows attackers to DDoS authoritative DNS servers<a href="https://www.bleepingcomputer.com/news/security/new-tsuname-dns-bug-allows-attackers-to-ddos-authoritative-dns-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers can use a newly disclosed domain name server (DNS) vulnerability publicly known as TsuNAME as an amplification vector in large-scale reflection-based distributed denial of service (DDoS) attacks targeting authoritative DNS servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm bug impacts about 30% of all smartphones<a href="https://securityaffairs.co/wordpress/117620/security/qualcomm-bus-cve-2020-11292.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high severity flaw, tracked as CVE-2020-11292, affects Qualcomm Mobile Station Modem chips used by around 30% of all smartphones worldwide
+
+
+
+Researchers from Checkpoint have discovered a buffer overflow vulnerability, tracked as CVE-2020-11292, in the Qualcomm...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in PHP Composer Could Allow Supply-Chain Attacks<a href="https://cyware.com/news/flaw-in-php-composer-could-allow-supply-chain-attacks-dbf1f693"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security threats in PHP or its components can have a big impact. Lately, a vulnerability was found in the PHP Composer that could have allowed an attacker to execute arbitrary commands and backdoor every PHP package.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Qualcomm chips lets an attacker snoop on calls and texts<a href="https://www.scmagazine.com/home/security-news/mobile-security/vulnerability-in-qualcomm-chips-lets-an-attacker-snoop-on-calls-and-texts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Checkpoint researchers shed further light this week on a vulnerability affecting a cellular chip embedded in 40% of the world’s smartphones.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Attack on Belgian Parliament<a href="https://www.infosecurity-magazine.com:443/news/cyber-attack-on-belgian-parliament/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgium’s parliament, universities, and police targeted in a coordinated DDoS attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

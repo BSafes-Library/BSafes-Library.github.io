@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google wants to enable multi-factor authentication by default<a href="https://www.bleepingcomputer.com/news/security/google-wants-to-enable-multi-factor-authentication-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google strives to push all its users to start using two-factor authentication (2FA), which can block attackers from taking control of their accounts using compromised credentials or guessing their passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

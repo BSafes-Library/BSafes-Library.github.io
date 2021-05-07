@@ -11,6 +11,20 @@ nav_order: 900160
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Financial sector saw a 125% increase in mobile phishing attacks during 2020<a href="https://www.scmagazine.com/home/security-news/mobile-security/financial-sector-saw-a-125-increase-in-mobile-phishing-attacks-during-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Average quarterly exposure to phishing attacks on mobile devices in the financial sector rose by 125% – and malware and app risk exposure increased by more than five times.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Financial Services Experience 125% Rise in Exposure to Mobile Phishing<a href="https://www.infosecurity-magazine.com:443/news/financial-rise-exposure-mobile/"> Full Text</a>
 </p>
 <details>

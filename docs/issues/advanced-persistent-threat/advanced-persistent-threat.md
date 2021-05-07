@@ -11,6 +11,20 @@ nav_order: 900010
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Groups Targeting Russian Defense Contractors<a href="https://cyware.com/news/chinese-apt-groups-targeting-russian-defense-contractors-85e1b019"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers infiltrated the systems of Rubin Central Design Bureau for Marine Engineering, a Russian submarine design firm, using a new malware called PortDoor. It is suspected that Chinese actors could be behind the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese PLA Unit 61419 suspected to have purchased AVs for cyber-espionage<a href="https://securityaffairs.co/wordpress/117608/cyber-warfare-2/pla-unit-61419.html"> Full Text</a>
 </p>
 <details>

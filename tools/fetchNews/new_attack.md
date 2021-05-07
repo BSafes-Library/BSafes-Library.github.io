@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Moriya rootkit used in highly targeted attacks<a href="https://securityaffairs.co/wordpress/117626/malware/moriya-rootkit-operation-tunnelsnake.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new malware, dubbed Moriya rootkit, that targets Windows systems as part of cyberespionage campaign dubbed TunnelSnake.
+
+
+
+An unclassified threat actor employed a new stealthy malware, dubbed Moriya rootkit, to compromise Windows systems....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
