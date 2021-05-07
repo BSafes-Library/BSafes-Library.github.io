@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://cybernews.com/security/19-petabytes-of-data-exposed-worldwide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that over 29,000 databases worldwide are still completely unprotected and publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DHS to hire 200 more cyber pros as Biden administration grapples with hacking threats<a href="https://www.cyberscoop.com/dhs-cyber-careers-biden-mayorkas/?&web_view=true"> Full Text</a>
 </p>
 <details>
