@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2021
+May 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google wants to enable multi-factor authentication by default<a href="https://www.bleepingcomputer.com/news/security/google-wants-to-enable-multi-factor-authentication-by-default/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pingback Malware Using ICMP for Covert Communication<a href="https://cyware.com/news/pingback-malware-using-icmp-for-covert-communication-c7c48fd6"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2021
+May 06, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Broadband companies funded fake net neutrality comments, investigation finds | Twitter rolls out tip feature | Google to adopt 'hybrid work week'<a href="https://thehill.com//policy/technology/overnights/552245-hillicon-valley-broadband-companies-funded-fake-net-neutrality"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Unusually Unhinged” Cyber-stalker Jailed for 10 Years<a href="https://www.infosecurity-magazine.com:443/news/unusually-unhinged-cyberstalker/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Moriya rootkit used in highly targeted attacks<a href="https://securityaffairs.co/wordpress/117626/malware/moriya-rootkit-operation-tunnelsnake.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial sector saw a 125% increase in mobile phishing attacks during 2020<a href="https://www.scmagazine.com/home/security-news/mobile-security/financial-sector-saw-a-125-increase-in-mobile-phishing-attacks-during-2020/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm Chip Bug Opens Android Fans to Eavesdropping<a href="https://threatpost.com/qualcomm-chip-bug-android-eavesdropping/165934/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2021
+May 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New TsuNAME DNS bug allows attackers to DDoS authoritative DNS servers<a href="https://www.bleepingcomputer.com/news/security/new-tsuname-dns-bug-allows-attackers-to-ddos-authoritative-dns-servers/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Buer Downloader: Now Using Rust to Hide Itself<a href="https://cyware.com/news/buer-downloader-now-using-rust-to-hide-itself-5bd82175"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2021
+May 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Peloton user data exposed by newly patched vulnerabilities<a href="https://thehill.com//policy/cybersecurity/552163-newly-patched-vulnerabilities-exposed-peloton-user-data"> Full Text</a>
@@ -198,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CaptureRx Data Breach Impacts Healthcare Providers<a href="https://www.infosecurity-magazine.com:443/news/capturerx-data-breach-impacts/"> Full Text</a>
@@ -214,7 +214,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm bug impacts about 30% of all smartphones<a href="https://securityaffairs.co/wordpress/117620/security/qualcomm-bus-cve-2020-11292.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here’s the breakdown of cybersecurity stats only law firms usually see<a href="https://www.scmagazine.com/home/security-news/legal-security-news/heres-the-breakdown-of-cybersecurity-stats-only-law-firms-usually-see/"> Full Text</a>
@@ -250,7 +250,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2021
+May 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A student pirating software led to a full-blown Ryuk ransomware attack<a href="https://www.bleepingcomputer.com/news/security/a-student-pirating-software-led-to-a-full-blown-ryuk-ransomware-attack/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaw in PHP Composer Could Allow Supply-Chain Attacks<a href="https://cyware.com/news/flaw-in-php-composer-could-allow-supply-chain-attacks-dbf1f693"> Full Text</a>
@@ -282,7 +282,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOD Expands Hacker Program<a href="https://www.infosecurity-magazine.com:443/news/dod-expands-hacker-program/"> Full Text</a>
@@ -298,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The business of cyber: How security defines (or derails) success<a href="https://www.scmagazine.com/scawards/the-business-of-cyber-how-security-defines-or-derails-success/"> Full Text</a>
@@ -314,7 +314,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Groups Targeting Russian Defense Contractors<a href="https://cyware.com/news/chinese-apt-groups-targeting-russian-defense-contractors-85e1b019"> Full Text</a>
@@ -330,7 +330,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in Qualcomm chips lets an attacker snoop on calls and texts<a href="https://www.scmagazine.com/home/security-news/mobile-security/vulnerability-in-qualcomm-chips-lets-an-attacker-snoop-on-calls-and-texts/"> Full Text</a>
@@ -346,7 +346,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil REvil - The Cyber Devil<a href="https://cyware.com/news/revil-revil-the-cyber-devil-8a727f20"> Full Text</a>
@@ -362,7 +362,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hires CISO from within, enabling a quicker security transformation<a href="https://www.scmagazine.com/home/security-news/solarwinds-hires-ciso-from-within-enabling-a-quicker-security-transformation/"> Full Text</a>
@@ -378,7 +378,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis Amplifies Smishing Campaign with OS-Specific Android Malware | McAfee Blogs<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/roaming-mantis-amplifies-smishing-campaign-with-os-specific-android-malware/?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A taste of the latest release of QakBot<a href="https://securityaffairs.co/wordpress/117558/cyber-crime/qakbot-latest-release.html?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MDR Firm Huntress Raises $40 Million in Series B Funding Round<a href="https://www.securityweek.com/mdr-firm-huntress-raises-40-million-series-b-funding-round?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2021
+May 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese military unit accused of cyber-espionage bought multiple western antivirus products<a href="https://therecord.media/chinese-military-unit-accused-of-cyber-espionage-bought-multiple-western-antivirus-products/?&web_view=true"> Full Text</a>
