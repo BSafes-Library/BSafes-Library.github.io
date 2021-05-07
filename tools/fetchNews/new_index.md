@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers push for increased cybersecurity funds in annual appropriations<a href="https://thehill.com//policy/cybersecurity/552423-lawmakers-push-for-increased-cybersecurity-funds-in-annual"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers are increasingly pushing for Congress to increase funding in numerous areas to boost the nation’s cybersecurity, particularly after multiple major breaches and a year in which hackers have increasingly targeted critical infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware the gold rush: The risk of a cyber investment surge<a href="https://www.scmagazine.com/home/editorial/beware-the-gold-rush-the-risk-of-a-cyber-investment-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crises begets demand which begets a terrific business opportunity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
