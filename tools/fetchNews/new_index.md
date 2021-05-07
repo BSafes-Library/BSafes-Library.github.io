@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Bulletproof hosting admins plead guilty to running cybercrime safe haven<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-admins-plead-guilty-to-running-cybercrime-safe-haven/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four individuals from Eastern Europe are facing 20 years in prison for Racketeer Influenced Corrupt Organization (RICO) charges after pleading guilty to running a bulletproof hosting service as a safe haven for cybercrime operations targeting US entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US, UK authorities say Russian state-sponsored hackers exploited Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/552381-us-uk-authorities-say-russian-state-sponsored-hackers-exploited"> Full Text</a>
 </p>
 <details>
