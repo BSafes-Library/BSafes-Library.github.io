@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD Dispute Findings on Chip Vulnerabilities<a href="https://www.govinfosecurity.com/intel-amd-dispute-findings-on-chip-vulnerabilities-a-16535?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel and AMD insist that users of their chips do not need to take any additional security measures as a result of the discovery because existing protections are adequate.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found more than 29,000 unprotected databases worldwide that are still publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+
+
+
+Most organizations use databases to store sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ShinyHunters leak database of Indian wedding portal WedMeGood<a href="https://www.hackread.com/shinyhunters-leak-india-wedmegood-database/?&web_view=true"> Full Text</a>
 </p>
 <details>
