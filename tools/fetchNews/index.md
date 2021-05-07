@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Amazon Fake Reviews Scam Exposed in Data Breach<a href="https://www.safetydetectives.com/blog/amazon-reviews-leak-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In total, 13,124,962 of records (or 7GB of data) have been exposed in the breach, potentially implicating more than 200,000 people in unethical activities like giving fake product reviews on Amazon.
+</details>
+<div style="text-align: right" markdown="1">
+Safety Detectives
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Possible attacks on the TCP/IP protocol stack and countermeasures<a href="https://securityaffairs.co/wordpress/117635/security/tcp-ip-protocol-stack-attacks.html"> Full Text</a>
 </p>
 <details>
