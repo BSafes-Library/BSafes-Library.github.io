@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Israel’s Version of Moving Fast and Breaking Things: The New Cybersecurity Bill<a href="https://www.lawfareblog.com/israels-version-moving-fast-and-breaking-things-new-cybersecurity-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a new law is passed by government committee and the Knesset, it will redefine cybersecurity governance in Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NCSC Sets Out Security Principles for Smart Cities<a href="https://www.infosecurity-magazine.com:443/news/ncsc-security-principles-smart/"> Full Text</a>
 </p>
 <details>
