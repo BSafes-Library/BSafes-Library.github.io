@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peloton user data exposed by newly patched vulnerabilities<a href="https://thehill.com//policy/cybersecurity/552163-newly-patched-vulnerabilities-exposed-peloton-user-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently patched vulnerabilities in Peloton’s bike software may have allowed unauthorized users to view sensitive user data, new security research published this week found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaptureRx Data Breach Impacts Healthcare Providers<a href="https://www.infosecurity-magazine.com:443/news/capturerx-data-breach-impacts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US healthcare providers affected by cyber-attack on third-party administrative services vendor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

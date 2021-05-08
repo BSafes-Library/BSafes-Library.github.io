@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulletproof hosting admins plead guilty to running cybercrime safe haven<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-admins-plead-guilty-to-running-cybercrime-safe-haven/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four individuals from Eastern Europe are facing 20 years in prison for Racketeer Influenced Corrupt Organization (RICO) charges after pleading guilty to running a&nbsp;bulletproof hosting service as a safe haven for cybercrime operations targeting US entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

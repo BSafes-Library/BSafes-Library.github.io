@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Business email compromise attack targeted dozens of orgs<a href="https://www.bleepingcomputer.com/news/security/microsoft-business-email-compromise-attack-targeted-dozens-of-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft detected a large-scale&nbsp;business email compromise (BEC) campaign that targeted more than 120 organization using&nbsp;typo-squatted domains registered days before the attacks began.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible attacks on the TCP/IP protocol stack and countermeasures<a href="https://securityaffairs.co/wordpress/117635/security/tcp-ip-protocol-stack-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let’s look at what types of threats each layer of the TCP/IP protocol stack may be susceptible to.
+
+
+
+The task of a computer security system is to safeguard the information transmitted over the network and to adequately preserve the data stored in it.&nbsp;
+
+
+
+Excluding...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

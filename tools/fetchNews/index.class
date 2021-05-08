@@ -34,6 +34,1014 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 11 Security Flaws Russian Spy Hackers Are Exploiting in the Wild<a href="https://thehackernews.com/2021/05/top-11-security-flaws-russian-spy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber operatives affiliated with the Russian Foreign Intelligence Service (SVR) have switched up their tactics in response to previous public disclosures  of their attack methods, according to a  new advisory  jointly published by intelligence agencies from the U.K. and U.S. Friday.  "SVR cyber operators appear to have reacted [...] by changing their TTPs in an attempt to avoid further detection and remediation efforts by network defenders," the National Cyber Security Centre (NCSC)  said .  These include the deployment of an open-source tool called  Sliver  to maintain their access to compromised victims as well as leveraging the ProxyLogon flaws in Microsoft Exchange servers to conduct post-exploitation activities.   The development followed the  public attribution  of SVR-linked actors to the  SolarWinds  supply-chain attack last month. The adversary is also tracked under different monikers, such as Advanced Persistent Threat 29 (APT29), the Dukes, CozyBear, and Yttrium.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US spy agencies review software suppliers' ties to Russia following SolarWinds hack<a href="https://www.cyberscoop.com/russia-solarwinds-supply-chain-fbi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. intelligence agencies have begun a review of supply chain risks emanating from Russia in light of the far-reaching hacking campaign that exploited software made by SolarWinds and other vendors, a top Justice Department official said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cyber-spies changed tactics after the UK and US outed their techniques – so here's a list of those changes<a href="https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian spies from APT29 responded to Western agencies outing their tactics by adopting a red-teaming tool to blend into targets' networks as a legitimate pentesting exercise.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaptureRx Hit with Ransomware Attack<a href="https://heimdalsecurity.com/blog/healthcare-provider-clients-affected-by-capturerx-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation revealed that certain files were accessed without permission, including first and last names, dates of birth, prescription information, and medical record numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found more than 29,000 unprotected databases worldwide that are still publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular routers found vulnerable to hacker attacks<a href="https://www.welivesecurity.com/2021/05/07/popular-routers-vulnerable-hacker-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The main issues affecting routers supplied by ISPs such as Virgin, EE, Sky, TalkTalk, and Vodafone were weak default passwords, local network vulnerabilities, and the lack of firmware updates to patch security loopholes.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Critical Flaw Reported by Sanctioned Russian Security Firm<a href="https://www.securityweek.com/vmware-patches-critical-flaw-reported-sanctioned-russian-security-firm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has patched another critical vulnerability reported by Positive Technologies, a Russian cybersecurity firm that was sanctioned recently by the United States of America.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers are targeting these vulnerabilities, so patch now<a href="https://www.zdnet.com/article/cybersecurity-warning-russian-hackers-are-targeting-these-vulnerabilities-so-patch-now/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian cyberattacks are being deployed with new techniques - including exploiting vulnerabilities like the recent Microsoft Exchange zero-days - as its hackers continue to target governments, organizations, and energy providers around the world.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 7th 2021 - Attacking healthcare<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-7th-2021-attacking-healthcare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware attacks continued throughout the week, for the most part, it has been quieter than usual, with only a few new variants released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US, UK authorities say Russian hackers exploited Microsoft vulnerabilities | Lawmakers push for more cyber funds in annual appropriations | Google child care workers ask for transportation stipend<a href="https://thehill.com//policy/cybersecurity/overnights/552428-hillicon-valley-us-uk-authorities-say-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American and British authorities said Friday that Russian state-sponsored hackers exploited major vulnerabilities in Microsoft’s Exchange Server, which were previously used by at least one Chinese state-sponsored hacking group to compromise potentially thousands of organizations. Meanwhile, lawmakers on both sides of the aisle are pushing hard for more cyber funding in the annual appropriations bills, and Google child care workers are pushing for a transportation stipend from the company. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers push for increased cybersecurity funds in annual appropriations<a href="https://thehill.com//policy/cybersecurity/552423-lawmakers-push-for-increased-cybersecurity-funds-in-annual"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers are increasingly pushing for Congress to increase funding in numerous areas to boost the nation’s cybersecurity, particularly after multiple major breaches and a year in which hackers have increasingly targeted critical infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware the gold rush: The risk of a cyber investment surge<a href="https://www.scmagazine.com/home/editorial/beware-the-gold-rush-the-risk-of-a-cyber-investment-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crises begets demand which begets a terrific business opportunity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 group changes TTPs following April advisories<a href="https://securityaffairs.co/wordpress/117667/apt/apt29-changes-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK and US cybersecurity agencies have published a report detailing techniques used by Russia-linked cyberespionage group known APT29 (aka Cozy Bear).
+
+
+
+Today, UK NCSC and CISA-FBI-NSA cybersecurity agencies published a joint security advisory that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Business email compromise attack targeted dozens of orgs<a href="https://www.bleepingcomputer.com/news/security/microsoft-business-email-compromise-attack-targeted-dozens-of-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft detected a large-scale business email compromise (BEC) campaign that targeted more than 120 organization using typo-squatted domains registered days before the attacks began.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security researchers applaud Google’s move towards multi-factor authentication<a href="https://www.scmagazine.com/password-management/security-researchers-applaud-googles-move-towards-multi-factor-authentication/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google took an important step on Thursday by saying that “very soon” they will automatically enroll users what they are calling two-step verification (2SV) – a move security researchers say is a step in the right direction.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulletproof hosting admins plead guilty to running cybercrime safe haven<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-admins-plead-guilty-to-running-cybercrime-safe-haven/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four individuals from Eastern Europe are facing 20 years in prison for Racketeer Influenced Corrupt Organization (RICO) charges after pleading guilty to running a bulletproof hosting service as a safe haven for cybercrime operations targeting US entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK authorities say Russian state-sponsored hackers exploited Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/552381-us-uk-authorities-say-russian-state-sponsored-hackers-exploited"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored hackers were among those to exploit recently uncovered vulnerabilities in Microsoft’s Exchange Server email application, which potentially compromised thousands of organizations, a coalition of American and British federal agencies warned Friday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panda Stealer: Spreading via Spam Emails and Discord<a href="https://cyware.com/news/panda-stealer-spreading-via-spam-emails-and-discord-938b2335"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panda Stealer, a new cryptocurrency variant, has been found spreading through a global spam campaign and potentially through Discord channels. It is targeting individuals across U.S., Australia, Japan, and Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Buer malware rewritten in Rust language to curb detection<a href="https://www.scmagazine.com/home/security-news/malware/buer-malware-rewritten-in-rust-language-to-curb-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers said that the last few years saw malware authors adopting newer coding languages at a more rapid pace.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Marylanders Indicted Over BEC Scam<a href="https://www.infosecurity-magazine.com:443/news/three-marylanders-indicted-over/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defendants charged in connection with dating and BEC scams that netted over $2.3m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxit Reader bug lets attackers run malicious code via PDFs<a href="https://www.bleepingcomputer.com/news/security/foxit-reader-bug-lets-attackers-run-malicious-code-via-pdfs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxit Software, the company behind the highly popular Foxit Reader, has published security updates to fix a high severity remote code execution (RCE) vulnerability affecting the PDF reader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Hackers, OGUsers Hacked Again<a href="https://cyware.com/news/hacking-the-hackers-ogusers-hacked-again-3b26f185"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OGUsers has been hacked for the fourth time in two years. The hacking forum’s database consisting of private messages and user records for almost 350,000 members is on sale now for $3,000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Physics Laboratory Exposed Documents, Credentials<a href="https://www.govinfosecurity.com/us-physics-laboratory-exposed-documents-credentials-a-16536?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fermilab has tidied up its systems after security researchers found weaknesses exposing documents, proprietary applications, personal information, project details, and credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Work from Home, Cyberattacks, and Financial Organizations: An Undesirable Trend<a href="https://cyware.com/news/work-from-home-cyberattacks-and-financial-organizations-an-undesirable-trend-209416fa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurers and banks witnessed a rise in botnet, phishing, and ransomware attacks by 35%; mobile malware by 32%; COVID-related malware by 30%; and insider threats by 29%, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Dangerously Bad macOS Bug and a Malware Campaign<a href="https://cyware.com/news/a-dangerously-bad-macos-bug-and-a-malware-campaign-34c6ac48"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dangerously bad zero-day vulnerability in macOS was being abused by the Shlayer malware to bypass Apple’s Gatekeeper, Notarization, and File Quarantine security checks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcepoint Buys Remote Browser Isolation Startup Cyberinc<a href="https://www.crn.com/news/security/forcepoint-buys-remote-browser-isolation-startup-cyberinc?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint has purchased emerging remote browser isolation vendor Cyberinc to give administrators granular controls that allow them to minimize risk without impeding user productivity.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://cybernews.com/security/19-petabytes-of-data-exposed-worldwide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that over 29,000 databases worldwide are still completely unprotected and publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS to hire 200 more cyber pros as Biden administration grapples with hacking threats<a href="https://www.cyberscoop.com/dhs-cyber-careers-biden-mayorkas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a speech Wednesday, Homeland Security Secretary Alejandro Mayorkas said the cyber recruiting was part of “the most significant hiring initiative” that DHS has undertaken in its 18-year history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed Over Contact Tracing Data Breach<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-filed-over-contact-tracing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State of Pennsylvania and Insight Global accused of cybersecurity failures after PHI exposed
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bot Attacks a Top Cybersecurity Concern<a href="https://www.infosecurity-magazine.com:443/news/bot-attacks-a-top-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Majority of security leaders view bot mitigation as a top priority
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD Dispute Findings on Chip Vulnerabilities<a href="https://www.govinfosecurity.com/intel-amd-dispute-findings-on-chip-vulnerabilities-a-16535?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel and AMD insist that users of their chips do not need to take any additional security measures as a result of the discovery because existing protections are adequate.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found more than 29,000 unprotected databases worldwide that are still publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+
+
+
+Most organizations use databases to store sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters leak database of Indian wedding portal WedMeGood<a href="https://www.hackread.com/shinyhunters-leak-india-wedmegood-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is worth noting that apparently, WedMeGood suffered a data breach back in October 2020 when a threat actor published a list of several compromised sites and offered their database for price.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Major Privacy and Security Updates From Google You Should Know About<a href="https://thehackernews.com/2021/05/4-major-privacy-and-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced a number of user-facing and under-the-hood changes in an attempt to boost privacy and security, including rolling out two-factor authentication automatically to all eligible users and bringing iOS-styled privacy labels to Android app listings.  "Today we ask people who have enrolled in  two-step verification  (2SV) to confirm it's really them with a simple tap via a Google prompt on their phone whenever they sign in," the company  said . "Soon we'll start automatically enrolling users in 2SV if their accounts are appropriately configured."  Google Play To Get Apple-Like Privacy Labels  The Google Play Store for Android is also getting a huge overhaul on the privacy front. The search giant said it plans to include a new  safety section  for app listings that highlights the type of data is collected and stored — such as approximate or precise location, contacts, personal information, photos and videos, and audio files — and how the data i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian state hackers switch targets after US joint advisories<a href="https://www.bleepingcomputer.com/news/security/russian-state-hackers-switch-targets-after-us-joint-advisories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian Foreign Intelligence Service (SVR) operators have switched their attacks to target new vulnerabilities in reaction to US govt advisories published last month with info on SVR tactics, tools, techniques, and capabilities used in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractor BlueForce apparently hit by ransomware<a href="https://searchsecurity.techtarget.com/news/252500356/US-defense-contractor-BlueForce-apparently-hit-by-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware operators demanded nearly $1 million in bitcoin during ransomware negotiations and threatened to publish the defense contractor's data on its leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+80% of Net Neutrality Comments to FCC Were Fudged<a href="https://threatpost.com/net-neutrality-comments-fcc-fudged/165943/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NY’s AG: Millions of fake comments – in favor and against –  came from a secret broadband-funded campaign or from a 19-year-old’s fake identities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel’s Version of Moving Fast and Breaking Things: The New Cybersecurity Bill<a href="https://www.lawfareblog.com/israels-version-moving-fast-and-breaking-things-new-cybersecurity-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a new law is passed by government committee and the Knesset, it will redefine cybersecurity governance in Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Sets Out Security Principles for Smart Cities<a href="https://www.infosecurity-magazine.com:443/news/ncsc-security-principles-smart/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance is designed to help local authorities in the UK build secure smart cities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Full-Disclosure] HideezKey 2 FAIL: How a good idea turns into a SPF (Security Product Failure)<a href="https://securityaffairs.co/wordpress/117653/hacking/hideezkey-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HideezKey- This is a deep-dive into a nice concept for a security token & password manager that turned into a horrible product due to lack of proper R&D and Threat Modeling.
+
+
+
+
+
+
+
+Prologue: After my first success in bypassing APPROTECT readout...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Unpatched Flaws Disclosed in Remote Mouse App for Android and iOS<a href="https://thehackernews.com/2021/05/6-unpatched-flaws-disclosed-in-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as six zero-days have been uncovered in an application called Remote Mouse, allowing a remote attacker to achieve full code execution without any user interaction.  The unpatched flaws, collectively named ' Mouse Trap, ' were disclosed on Wednesday by security researcher Axel Persinger, who said, "It's clear that this application is very vulnerable and puts users at risk with bad authentication mechanisms, lack of encryption, and poor default configuration."   Remote Mouse is a remote control application for Android and iOS that turns mobile phones and tablets into a wireless mouse, keyboard, and trackpad for computers, with support for voice typing, adjusting computer volume, and switching between applications with the help of a Remote Mouse server installed on the machine. The Android app alone has been installed over 10 million times.  In a nutshell, the issues, which were identified by analysing the packets sent from the Android app to its Windows ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Tip Jar may expose PayPal address, sparks privacy concerns<a href="https://www.bleepingcomputer.com/news/security/twitter-tip-jar-may-expose-paypal-address-sparks-privacy-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week Twitter has begun experimenting with a new feature called 'Tip Jar,' which lets Twitter users tip select profiles to support their work.. But the feature has sparked multiple concerns among Twitter users: from the sender's PayPal shipping address getting exposed, to how are disputes handled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses critical RCE in vRealize Business for Cloud<a href="https://securityaffairs.co/wordpress/117644/security/vrealize-business-for-cloud-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has fixed a new critical RCE flaw in VMware vRealize Business for Cloud that was reported by sanctioned Russian firm Positive Technologies.
+
+
+
+VMware has addressed a critical remote code execution vulnerability, tracked as CVE-2021-21984, in VMware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Moriya Rootkit Used in the Wild to Backdoor Windows Systems<a href="https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moriya rootkit is used by an unknown actor to deploy passive backdoors on public-facing servers, facilitating the creation of a covert C2 communication channel through which they can be controlled.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data leak marketplaces aim to take over the extortion economy<a href="https://www.bleepingcomputer.com/news/security/data-leak-marketplaces-aim-to-take-over-the-extortion-economy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are embracing data-theft extortion by creating dark web marketplaces that exist solely to sell stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Techniques Emerge for Abusing Windows Services to Gain System Control<a href="https://www.darkreading.com/threat-intelligence/new-techniques-emerge-for-abusing-windows-services-to-gain-system-control/d/d-id/1340948?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several new techniques have become available recently that give attackers an easy way to abuse legitimate Windows services and escalate low-level privileges on a system to gain full control of it.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA used new subpoena power to contact US companies vulnerable to hacking<a href="https://www.cyberscoop.com/dhs-cyber-alert-subpoena-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA used a new subpoena power for the first time last week to contact at least one U.S. internet service provider with customers whose software is vulnerable to hacking.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Older Broadband Routers Plagued by Security Flaws, Warn Researchers<a href="https://www.zdnet.com/article/millions-of-older-broadband-routers-have-these-security-flaws-warn-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of households in the UK are using old broadband routers that could fall prey to hackers, according to a new investigation carried out by consumer watchdog Which?.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New tsuNAME Flaw Could Let Attackers Take Down Authoritative DNS Servers<a href="https://thehackernews.com/2021/05/new-tsuname-flaw-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers Thursday disclosed a new critical vulnerability affecting Domain Name System (DNS) resolvers that could be exploited by adversaries to carry out denial-of-service attacks against authoritative nameservers.  The flaw, called  'TsuNAME ,' was discovered by researchers from SIDN Labs and InternetNZ, which manage the national top-level internet domains '.nl' and '.nz' for the Netherlands and New Zealand, respectively.  "TsuNAME occurs when domain names are misconfigured with cyclic dependent DNS records, and when vulnerable resolvers access these misconfigurations, they begin looping and send DNS queries rapidly to authoritative servers and other resolvers," the researchers said.   A recursive DNS resolver is one of the core components involved in  DNS resolution , i.e., converting a hostname such as www.google.com into a computer-friendly IP address like 142.250.71.36. To achieve this, it responds to a client's request for a web
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Attacks Using FiveHands Ransomware and SombRAT<a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is aware of a recent successful cyberattack against an organization using a new ransomware variant, which CISA refers to as FiveHands.
+</details>
+<div style="text-align: right" markdown="1">
+ICSA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Households at Risk from Outdated Routers<a href="https://www.infosecurity-magazine.com:443/news/millions-households-risk-from/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which report warns many lack regular firmware updates
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#COVID19 Researchers Lose a Week's Work to Ryuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/covid19-researchers-lose-week-work/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos traces attack back to a stolen password
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connecting the Bots – Hancitor fuels Cuba Ransomware Operations<a href="https://securityaffairs.co/wordpress/117638/cyber-crime/cuba-ransomware-hancitor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware gang has partnered with the crooks behind the Hancitor malware in attacks aimed at corporate networks.
+
+
+
+The Hancitor downloader has been around for quite some time already. It is known since at least 2016 for dropping...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Database Exposes 200K Fake Amazon Reviewers<a href="https://www.infosecurity-magazine.com:443/news/database-exposes-200k-fake-amazon/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mass scheme designed to trick e-commerce customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers use PyInstaller to create stealth malware<a href="https://searchsecurity.techtarget.com/news/252500274/Researchers-use-PyInstaller-to-create-stealth-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of obfuscating code and creating an untraceable malware packer from scratch, cybercriminals could take advantage of PyInstaller to create packers that are not caught in scans.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware partners with Hancitor for spam-fueled attacks<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-partners-with-hancitor-for-spam-fueled-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware gang has teamed up with the spam operators of the Hancitor malware to gain easier access to compromised corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthy Rootkit Infiltrated Networks of High-Profile Organizations<a href="https://thehackernews.com/2021/05/new-stealthy-rootkit-infiltrated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor with the capabilities to evolve and tailor its toolset to target environments infiltrated high-profile organizations in Asia and Africa with an evasive Windows rootkit since at least 2018.  Called  'Moriya ,' the malware is a "passive backdoor which allows attackers to inspect all incoming traffic to the infected machine, filter out packets that are marked as designated for the malware and respond to them," said Kaspersky researchers Mark Lechtik and Giampaolo Dedola in a Thursday deep-dive.  The Russian cybersecurity firm termed the ongoing espionage campaign  'TunnelSnake .' Based on telemetry analysis, less than 10 victims around the world have been targeted to date, with the most prominent victims being two large diplomatic entities in Southeast Asia and Africa. All the other victims were located in South Asia.   The first reports of Moriya emerged last November when Kaspersky said it discovered the stealthy implant in the networks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Secretary: Small Businesses Hard-Hit by Ransomware<a href="https://www.bankinfosecurity.com/dhs-secretary-small-businesses-hard-hit-by-ransomware-a-16529?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The losses from ransomware are staggering. And the pace at which those losses are being realized is equally staggering," Mayorkas said, noting this is why DHS has made battling ransomware a priority.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Fake Reviews Scam Exposed in Data Breach<a href="https://www.safetydetectives.com/blog/amazon-reviews-leak-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In total, 13,124,962 of records (or 7GB of data) have been exposed in the breach, potentially implicating more than 200,000 people in unethical activities like giving fake product reviews on Amazon.
+</details>
+<div style="text-align: right" markdown="1">
+Safety Detectives
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible attacks on the TCP/IP protocol stack and countermeasures<a href="https://securityaffairs.co/wordpress/117635/security/tcp-ip-protocol-stack-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let’s look at what types of threats each layer of the TCP/IP protocol stack may be susceptible to.
+
+
+
+The task of a computer security system is to safeguard the information transmitted over the network and to adequately preserve the data stored in it. 
+
+
+
+Excluding...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+60% of U.S. School Mobile Apps Disclose Collected Data Without Permission<a href="https://news.softpedia.com/news/60-of-american-school-apps-send-data-without-students-awareness-532813.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the results of the study conducted by Me2B Alliance, 60% of school apps are sending student data to various third parties, including ad networks like Google and Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

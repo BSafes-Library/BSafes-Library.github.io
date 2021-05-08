@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 08, 2021
+May 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 11 Security Flaws Russian Spy Hackers Are Exploiting in the Wild<a href="https://thehackernews.com/2021/05/top-11-security-flaws-russian-spy.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US spy agencies review software suppliers' ties to Russia following SolarWinds hack<a href="https://www.cyberscoop.com/russia-solarwinds-supply-chain-fbi/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian cyber-spies changed tactics after the UK and US outed their techniques – so here's a list of those changes<a href="https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warning/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CaptureRx Hit with Ransomware Attack<a href="https://heimdalsecurity.com/blog/healthcare-provider-clients-affected-by-capturerx-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular routers found vulnerable to hacker attacks<a href="https://www.welivesecurity.com/2021/05/07/popular-routers-vulnerable-hacker-attacks/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Critical Flaw Reported by Sanctioned Russian Security Firm<a href="https://www.securityweek.com/vmware-patches-critical-flaw-reported-sanctioned-russian-security-firm?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers are targeting these vulnerabilities, so patch now<a href="https://www.zdnet.com/article/cybersecurity-warning-russian-hackers-are-targeting-these-vulnerabilities-so-patch-now/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - May 7th 2021 - Attacking healthcare<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-7th-2021-attacking-healthcare/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: US, UK authorities say Russian hackers exploited Microsoft vulnerabilities | Lawmakers push for more cyber funds in annual appropriations | Google child care workers ask for transportation stipend<a href="https://thehill.com//policy/cybersecurity/overnights/552428-hillicon-valley-us-uk-authorities-say-russian-hackers"> Full Text</a>
@@ -194,7 +194,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers push for increased cybersecurity funds in annual appropriations<a href="https://thehill.com//policy/cybersecurity/552423-lawmakers-push-for-increased-cybersecurity-funds-in-annual"> Full Text</a>
@@ -210,7 +210,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware the gold rush: The risk of a cyber investment surge<a href="https://www.scmagazine.com/home/editorial/beware-the-gold-rush-the-risk-of-a-cyber-investment-surge/"> Full Text</a>
@@ -226,7 +226,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT29 group changes TTPs following April advisories<a href="https://securityaffairs.co/wordpress/117667/apt/apt29-changes-ttps.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Business email compromise attack targeted dozens of orgs<a href="https://www.bleepingcomputer.com/news/security/microsoft-business-email-compromise-attack-targeted-dozens-of-orgs/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security researchers applaud Google’s move towards multi-factor authentication<a href="https://www.scmagazine.com/password-management/security-researchers-applaud-googles-move-towards-multi-factor-authentication/"> Full Text</a>
@@ -278,7 +278,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bulletproof hosting admins plead guilty to running cybercrime safe haven<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-admins-plead-guilty-to-running-cybercrime-safe-haven/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, UK authorities say Russian state-sponsored hackers exploited Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/552381-us-uk-authorities-say-russian-state-sponsored-hackers-exploited"> Full Text</a>
@@ -310,7 +310,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Panda Stealer: Spreading via Spam Emails and Discord<a href="https://cyware.com/news/panda-stealer-spreading-via-spam-emails-and-discord-938b2335"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Buer malware rewritten in Rust language to curb detection<a href="https://www.scmagazine.com/home/security-news/malware/buer-malware-rewritten-in-rust-language-to-curb-detection/"> Full Text</a>
@@ -342,7 +342,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Marylanders Indicted Over BEC Scam<a href="https://www.infosecurity-magazine.com:443/news/three-marylanders-indicted-over/"> Full Text</a>
@@ -358,7 +358,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Foxit Reader bug lets attackers run malicious code via PDFs<a href="https://www.bleepingcomputer.com/news/security/foxit-reader-bug-lets-attackers-run-malicious-code-via-pdfs/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking the Hackers, OGUsers Hacked Again<a href="https://cyware.com/news/hacking-the-hackers-ogusers-hacked-again-3b26f185"> Full Text</a>
@@ -390,7 +390,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Physics Laboratory Exposed Documents, Credentials<a href="https://www.govinfosecurity.com/us-physics-laboratory-exposed-documents-credentials-a-16536?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Work from Home, Cyberattacks, and Financial Organizations: An Undesirable Trend<a href="https://cyware.com/news/work-from-home-cyberattacks-and-financial-organizations-an-undesirable-trend-209416fa"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Dangerously Bad macOS Bug and a Malware Campaign<a href="https://cyware.com/news/a-dangerously-bad-macos-bug-and-a-malware-campaign-34c6ac48"> Full Text</a>
@@ -438,7 +438,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forcepoint Buys Remote Browser Isolation Startup Cyberinc<a href="https://www.crn.com/news/security/forcepoint-buys-remote-browser-isolation-startup-cyberinc?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://cybernews.com/security/19-petabytes-of-data-exposed-worldwide/?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS to hire 200 more cyber pros as Biden administration grapples with hacking threats<a href="https://www.cyberscoop.com/dhs-cyber-careers-biden-mayorkas/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawsuit Filed Over Contact Tracing Data Breach<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-filed-over-contact-tracing/"> Full Text</a>
@@ -502,7 +502,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bot Attacks a Top Cybersecurity Concern<a href="https://www.infosecurity-magazine.com:443/news/bot-attacks-a-top-cybersecurity/"> Full Text</a>
@@ -518,7 +518,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel, AMD Dispute Findings on Chip Vulnerabilities<a href="https://www.govinfosecurity.com/intel-amd-dispute-findings-on-chip-vulnerabilities-a-16535?&web_view=true"> Full Text</a>
@@ -534,7 +534,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html"> Full Text</a>
@@ -554,7 +554,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShinyHunters leak database of Indian wedding portal WedMeGood<a href="https://www.hackread.com/shinyhunters-leak-india-wedmegood-database/?&web_view=true"> Full Text</a>
@@ -570,7 +570,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Major Privacy and Security Updates From Google You Should Know About<a href="https://thehackernews.com/2021/05/4-major-privacy-and-security-updates.html"> Full Text</a>
@@ -586,7 +586,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian state hackers switch targets after US joint advisories<a href="https://www.bleepingcomputer.com/news/security/russian-state-hackers-switch-targets-after-us-joint-advisories/"> Full Text</a>
@@ -602,7 +602,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US defense contractor BlueForce apparently hit by ransomware<a href="https://searchsecurity.techtarget.com/news/252500356/US-defense-contractor-BlueForce-apparently-hit-by-ransomware?&web_view=true"> Full Text</a>
@@ -618,7 +618,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 80% of Net Neutrality Comments to FCC Were Fudged<a href="https://threatpost.com/net-neutrality-comments-fcc-fudged/165943/"> Full Text</a>
@@ -634,7 +634,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel’s Version of Moving Fast and Breaking Things: The New Cybersecurity Bill<a href="https://www.lawfareblog.com/israels-version-moving-fast-and-breaking-things-new-cybersecurity-bill"> Full Text</a>
@@ -650,7 +650,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC Sets Out Security Principles for Smart Cities<a href="https://www.infosecurity-magazine.com:443/news/ncsc-security-principles-smart/"> Full Text</a>
@@ -666,7 +666,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Full-Disclosure] HideezKey 2 FAIL: How a good idea turns into a SPF (Security Product Failure)<a href="https://securityaffairs.co/wordpress/117653/hacking/hideezkey-hack.html"> Full Text</a>
@@ -690,7 +690,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 6 Unpatched Flaws Disclosed in Remote Mouse App for Android and iOS<a href="https://thehackernews.com/2021/05/6-unpatched-flaws-disclosed-in-remote.html"> Full Text</a>
@@ -706,7 +706,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter Tip Jar may expose PayPal address, sparks privacy concerns<a href="https://www.bleepingcomputer.com/news/security/twitter-tip-jar-may-expose-paypal-address-sparks-privacy-concerns/"> Full Text</a>
@@ -722,7 +722,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addresses critical RCE in vRealize Business for Cloud<a href="https://securityaffairs.co/wordpress/117644/security/vrealize-business-for-cloud-rce.html"> Full Text</a>
@@ -742,7 +742,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Moriya Rootkit Used in the Wild to Backdoor Windows Systems<a href="https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/?&web_view=true"> Full Text</a>
@@ -758,7 +758,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data leak marketplaces aim to take over the extortion economy<a href="https://www.bleepingcomputer.com/news/security/data-leak-marketplaces-aim-to-take-over-the-extortion-economy/"> Full Text</a>
@@ -774,7 +774,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Techniques Emerge for Abusing Windows Services to Gain System Control<a href="https://www.darkreading.com/threat-intelligence/new-techniques-emerge-for-abusing-windows-services-to-gain-system-control/d/d-id/1340948?&web_view=true"> Full Text</a>
@@ -790,7 +790,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA used new subpoena power to contact US companies vulnerable to hacking<a href="https://www.cyberscoop.com/dhs-cyber-alert-subpoena-us/?&web_view=true"> Full Text</a>
@@ -806,7 +806,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Older Broadband Routers Plagued by Security Flaws, Warn Researchers<a href="https://www.zdnet.com/article/millions-of-older-broadband-routers-have-these-security-flaws-warn-researchers/?&web_view=true"> Full Text</a>
@@ -822,7 +822,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New tsuNAME Flaw Could Let Attackers Take Down Authoritative DNS Servers<a href="https://thehackernews.com/2021/05/new-tsuname-flaw-could-let-attackers.html"> Full Text</a>
@@ -838,7 +838,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Attacks Using FiveHands Ransomware and SombRAT<a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a?&web_view=true"> Full Text</a>
@@ -854,7 +854,7 @@ ICSA
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Households at Risk from Outdated Routers<a href="https://www.infosecurity-magazine.com:443/news/millions-households-risk-from/"> Full Text</a>
@@ -870,7 +870,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #COVID19 Researchers Lose a Week's Work to Ryuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/covid19-researchers-lose-week-work/"> Full Text</a>
@@ -886,7 +886,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Connecting the Bots – Hancitor fuels Cuba Ransomware Operations<a href="https://securityaffairs.co/wordpress/117638/cyber-crime/cuba-ransomware-hancitor.html"> Full Text</a>
@@ -906,7 +906,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured Database Exposes 200K Fake Amazon Reviewers<a href="https://www.infosecurity-magazine.com:443/news/database-exposes-200k-fake-amazon/"> Full Text</a>
@@ -922,7 +922,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers use PyInstaller to create stealth malware<a href="https://searchsecurity.techtarget.com/news/252500274/Researchers-use-PyInstaller-to-create-stealth-malware?&web_view=true"> Full Text</a>
@@ -938,7 +938,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware partners with Hancitor for spam-fueled attacks<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-partners-with-hancitor-for-spam-fueled-attacks/"> Full Text</a>
@@ -954,7 +954,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 07, 2021
+May 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthy Rootkit Infiltrated Networks of High-Profile Organizations<a href="https://thehackernews.com/2021/05/new-stealthy-rootkit-infiltrated.html"> Full Text</a>
@@ -970,7 +970,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS Secretary: Small Businesses Hard-Hit by Ransomware<a href="https://www.bankinfosecurity.com/dhs-secretary-small-businesses-hard-hit-by-ransomware-a-16529?&web_view=true"> Full Text</a>
@@ -986,7 +986,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon Fake Reviews Scam Exposed in Data Breach<a href="https://www.safetydetectives.com/blog/amazon-reviews-leak-report/?&web_view=true"> Full Text</a>
@@ -1002,7 +1002,7 @@ Safety Detectives
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Possible attacks on the TCP/IP protocol stack and countermeasures<a href="https://securityaffairs.co/wordpress/117635/security/tcp-ip-protocol-stack-attacks.html"> Full Text</a>
@@ -1026,7 +1026,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2021
+May 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 60% of U.S. School Mobile Apps Disclose Collected Data Without Permission<a href="https://news.softpedia.com/news/60-of-american-school-apps-send-data-without-students-awareness-532813.shtml?&web_view=true"> Full Text</a>

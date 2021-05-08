@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil REvil - The Cyber Devil<a href="https://cyware.com/news/revil-revil-the-cyber-devil-8a727f20"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil is a fierce threat with its smart hacking tactics and techniques. The ransomware now spreads via exploit kits, RDP servers, backdoored software installers, and scan-and-exploit methods. Apply adequate security measures to stay protected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Major Privacy and Security Updates From Google You Should Know About<a href="https://thehackernews.com/2021/05/4-major-privacy-and-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced a number of user-facing and under-the-hood changes in an attempt to boost privacy and security, including rolling out two-factor authentication automatically to all eligible users and bringing iOS-styled privacy labels to Android app listings.  "Today we ask people who have enrolled in&nbsp; two-step verification &nbsp;(2SV) to confirm it's really them with a simple tap via a Google prompt on their phone whenever they sign in," the company&nbsp; said . "Soon we'll start automatically enrolling users in 2SV if their accounts are appropriately configured."  Google Play To Get Apple-Like Privacy Labels  The Google Play Store for Android is also getting a huge overhaul on the privacy front. The search giant said it plans to include a new&nbsp; safety section &nbsp;for app listings that highlights the type of data is collected and stored — such as approximate or precise location, contacts, personal information, photos and videos, and audio files — and how the data i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Tip Jar may expose PayPal address, sparks privacy concerns<a href="https://www.bleepingcomputer.com/news/security/twitter-tip-jar-may-expose-paypal-address-sparks-privacy-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week Twitter has begun experimenting with a new feature called 'Tip Jar,'&nbsp;which lets Twitter users tip select profiles to support their work.. But the feature has sparked multiple concerns among Twitter users: from the sender's PayPal shipping address getting exposed, to how are disputes handled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

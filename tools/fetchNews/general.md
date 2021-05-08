@@ -11,6 +11,48 @@ nav_order: 900072
 May 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Broadband companies funded fake net neutrality comments, investigation finds | Twitter rolls out tip feature | Google to adopt 'hybrid work week'<a href="https://thehill.com//policy/technology/overnights/552245-hillicon-valley-broadband-companies-funded-fake-net-neutrality"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Attorney General Letitia James (D) on Thursday released findings that American broadband companies had funded a campaign to file millions of fake comments with federal authorities around net neutrality. Meanwhile, Twitter announced a new feature to allow users to send and receive tips, while Google detailed its proposal for how employees will work in a post-COVID-19 world.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here’s the breakdown of cybersecurity stats only law firms usually see<a href="https://www.scmagazine.com/home/security-news/legal-security-news/heres-the-breakdown-of-cybersecurity-stats-only-law-firms-usually-see/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BakerHostetler, a law firm with a massive data and privacy presence, compiles data from their client’s experiences to offer a rare lawyer’s perspective on cyber statistics. SC spoke to Craig Hoffman, partner at BakerHostetler and the main editor of the report, about the real outcomes from breaches.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The business of cyber: How security defines (or derails) success<a href="https://www.scmagazine.com/scawards/the-business-of-cyber-how-security-defines-or-derails-success/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Is cyber a hurdle to success, or might it be an enabler? In this SC Awards Winners Circle roundtable, cybersecurity leaders, and award recipients, share how organizations can shift the mindset and understand how a culture of security just may be good for business.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISO Challenge: Check Your Cybersecurity Skills On This New Competition Site<a href="https://thehackernews.com/2021/05/ciso-challenge-check-your-cybersecurity.html"> Full Text</a>
 </p>
 <details>

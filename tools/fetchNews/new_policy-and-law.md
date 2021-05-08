@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed Over Contact Tracing Data Breach<a href="https://www.infosecurity-magazine.com:443/news/lawsuit-filed-over-contact-tracing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State of Pennsylvania and Insight Global accused of cybersecurity failures after PHI exposed
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel’s Version of Moving Fast and Breaking Things: The New Cybersecurity Bill<a href="https://www.lawfareblog.com/israels-version-moving-fast-and-breaking-things-new-cybersecurity-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a new law is passed by government committee and the Knesset, it will redefine cybersecurity governance in Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

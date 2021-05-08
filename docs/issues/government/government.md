@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US spy agencies review software suppliers' ties to Russia following SolarWinds hack<a href="https://www.cyberscoop.com/russia-solarwinds-supply-chain-fbi/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. intelligence agencies have begun a review of supply chain risks emanating from Russia in light of the far-reaching hacking campaign that exploited software made by SolarWinds and other vendors, a top Justice Department official said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers push for increased cybersecurity funds in annual appropriations<a href="https://thehill.com//policy/cybersecurity/552423-lawmakers-push-for-increased-cybersecurity-funds-in-annual"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers are increasingly pushing for Congress to increase funding in numerous areas to boost the nation’s cybersecurity, particularly after multiple major breaches and a year in which hackers have increasingly targeted critical infrastructure.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS to hire 200 more cyber pros as Biden administration grapples with hacking threats<a href="https://www.cyberscoop.com/dhs-cyber-careers-biden-mayorkas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a speech Wednesday, Homeland Security Secretary Alejandro Mayorkas said the cyber recruiting was part of “the most significant hiring initiative” that DHS has undertaken in its 18-year history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA used new subpoena power to contact US companies vulnerable to hacking<a href="https://www.cyberscoop.com/dhs-cyber-alert-subpoena-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA used a new subpoena power for the first time last week to contact at least one U.S. internet service provider with customers whose software is vulnerable to hacking.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cyber-spies changed tactics after the UK and US outed their techniques – so here's a list of those changes<a href="https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warning/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian spies from APT29 responded to Western agencies outing their tactics by adopting a red-teaming tool to blend into targets' networks as a legitimate pentesting exercise.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 group changes TTPs following April advisories<a href="https://securityaffairs.co/wordpress/117667/apt/apt29-changes-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK and US cybersecurity agencies have published a report detailing techniques used by Russia-linked cyberespionage group known APT29 (aka Cozy Bear).
+
+
+
+Today, UK NCSC and CISA-FBI-NSA&nbsp;cybersecurity agencies published a joint security advisory&nbsp;that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

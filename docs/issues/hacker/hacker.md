@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK authorities say Russian state-sponsored hackers exploited Microsoft vulnerabilities<a href="https://thehill.com//policy/cybersecurity/552381-us-uk-authorities-say-russian-state-sponsored-hackers-exploited"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored hackers were among those to exploit recently uncovered vulnerabilities in Microsoft’s Exchange Server email application, which potentially compromised thousands of organizations, a coalition of American and British federal agencies warned Friday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Hackers, OGUsers Hacked Again<a href="https://cyware.com/news/hacking-the-hackers-ogusers-hacked-again-3b26f185"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OGUsers has been hacked for the fourth time in two years. The hacking forum’s database consisting of private messages and user records for almost 350,000 members is on sale now for $3,000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian state hackers switch targets after US joint advisories<a href="https://www.bleepingcomputer.com/news/security/russian-state-hackers-switch-targets-after-us-joint-advisories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian Foreign Intelligence Service (SVR) operators have switched their attacks to target new vulnerabilities in reaction to US govt advisories published last month with info on SVR tactics, tools, techniques, and capabilities used in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
