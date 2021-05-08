@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US spy agencies review software suppliers' ties to Russia following SolarWinds hack<a href="https://www.cyberscoop.com/russia-solarwinds-supply-chain-fbi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. intelligence agencies have begun a review of supply chain risks emanating from Russia in light of the far-reaching hacking campaign that exploited software made by SolarWinds and other vendors, a top Justice Department official said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russian cyber-spies changed tactics after the UK and US outed their techniques – so here's a list of those changes<a href="https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warning/?&web_view=true"> Full Text</a>
 </p>
 <details>

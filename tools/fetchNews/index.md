@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russian cyber-spies changed tactics after the UK and US outed their techniques – so here's a list of those changes<a href="https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian spies from APT29 responded to Western agencies outing their tactics by adopting a red-teaming tool to blend into targets' networks as a legitimate pentesting exercise.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaptureRx Hit with Ransomware Attack<a href="https://heimdalsecurity.com/blog/healthcare-provider-clients-affected-by-capturerx-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation revealed that certain files were accessed without permission, including first and last names, dates of birth, prescription information, and medical record numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found more than 29,000 unprotected databases worldwide that are still publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular routers found vulnerable to hacker attacks<a href="https://www.welivesecurity.com/2021/05/07/popular-routers-vulnerable-hacker-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The main issues affecting routers supplied by ISPs such as Virgin, EE, Sky, TalkTalk, and Vodafone were weak default passwords, local network vulnerabilities, and the lack of firmware updates to patch security loopholes.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Critical Flaw Reported by Sanctioned Russian Security Firm<a href="https://www.securityweek.com/vmware-patches-critical-flaw-reported-sanctioned-russian-security-firm?&web_view=true"> Full Text</a>
 </p>
 <details>
