@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 11 Security Flaws Russian Spy Hackers Are Exploiting in the Wild<a href="https://thehackernews.com/2021/05/top-11-security-flaws-russian-spy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber operatives affiliated with the Russian Foreign Intelligence Service (SVR) have switched up their tactics in response to previous public disclosures  of their attack methods, according to a  new advisory  jointly published by intelligence agencies from the U.K. and U.S. Friday.  "SVR cyber operators appear to have reacted [...] by changing their TTPs in an attempt to avoid further detection and remediation efforts by network defenders," the National Cyber Security Centre (NCSC)  said .  These include the deployment of an open-source tool called  Sliver  to maintain their access to compromised victims as well as leveraging the ProxyLogon flaws in Microsoft Exchange servers to conduct post-exploitation activities.   The development followed the  public attribution  of SVR-linked actors to the  SolarWinds  supply-chain attack last month. The adversary is also tracked under different monikers, such as Advanced Persistent Threat 29 (APT29), the Dukes, CozyBear, and Yttrium.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
