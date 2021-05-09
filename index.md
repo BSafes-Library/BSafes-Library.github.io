@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 9, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA MAR report provides technical details of FiveHands Ransomware<a href="https://securityaffairs.co/wordpress/117729/malware/fivehands-ransomware-cisa-mar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA has published an analysis of the FiveHands ransomware, the same malware that was analyzed a few days ago by researchers from FireEye’s Mandiant experts.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published an analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SQL injection issue in Anti-Spam WordPress Plugin exposes User Data<a href="https://securityaffairs.co/wordpress/117721/security/anti-spam-wordpress-plugin-flaw.html"> Full Text</a>
 </p>
 <details>
