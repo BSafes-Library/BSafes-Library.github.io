@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter scammers impersonate SNL in Elon Musk cryptocurrency scams<a href="https://www.bleepingcomputer.com/news/security/twitter-scammers-impersonate-snl-in-elon-musk-cryptocurrency-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter scammers are jumping on Elon Musk's hosting of Saturday Night Live to push cryptocurrency scams to steal people's Bitcoin, Ethereum, and Dogecoin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of a large-scale BEC campaign to make gift card scam<a href="https://securityaffairs.co/wordpress/117672/cyber-crime/bec-gift-card-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a large-scale BEC campaign that targeted hundreds of organizations leveraging typo-squatted domains registered days before the attacks.
+
+
+
+Business email compromise (BEC) attacks represent a serious threat for organizations worldwide,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

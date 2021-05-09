@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware the gold rush: The risk of a cyber investment surge<a href="https://www.scmagazine.com/home/editorial/beware-the-gold-rush-the-risk-of-a-cyber-investment-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crises begets demand which begets a terrific business opportunity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcepoint Buys Remote Browser Isolation Startup Cyberinc<a href="https://www.crn.com/news/security/forcepoint-buys-remote-browser-isolation-startup-cyberinc?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint has purchased emerging remote browser isolation vendor Cyberinc to give administrators granular controls that allow them to minimize risk without impeding user productivity.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

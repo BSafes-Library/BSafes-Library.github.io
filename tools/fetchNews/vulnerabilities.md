@@ -8,6 +8,192 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 11 Security Flaws Russian Spy Hackers Are Exploiting in the Wild<a href="https://thehackernews.com/2021/05/top-11-security-flaws-russian-spy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber operatives affiliated with the Russian Foreign Intelligence Service (SVR) have switched up their tactics in response to previous public disclosures  of their attack methods, according to a&nbsp; new advisory &nbsp;jointly published by intelligence agencies from the U.K. and U.S. Friday.  "SVR cyber operators appear to have reacted [...] by changing their TTPs in an attempt to avoid further detection and remediation efforts by network defenders," the National Cyber Security Centre (NCSC)&nbsp; said .  These include the deployment of an open-source tool called&nbsp; Sliver &nbsp;to maintain their access to compromised victims as well as leveraging the ProxyLogon flaws in Microsoft Exchange servers to conduct post-exploitation activities.   The development followed the&nbsp; public attribution &nbsp;of SVR-linked actors to the&nbsp; SolarWinds &nbsp;supply-chain attack last month. The adversary is also tracked under different monikers, such as Advanced Persistent Threat 29 (APT29), the Dukes, CozyBear, and Yttrium.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular routers found vulnerable to hacker attacks<a href="https://www.welivesecurity.com/2021/05/07/popular-routers-vulnerable-hacker-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The main issues affecting routers supplied by ISPs such as Virgin, EE, Sky, TalkTalk, and Vodafone were weak default passwords, local network vulnerabilities, and the lack of firmware updates to patch security loopholes.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Critical Flaw Reported by Sanctioned Russian Security Firm<a href="https://www.securityweek.com/vmware-patches-critical-flaw-reported-sanctioned-russian-security-firm?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has patched another critical vulnerability reported by Positive Technologies, a Russian cybersecurity firm that was sanctioned recently by the United States of America.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers are targeting these vulnerabilities, so patch now<a href="https://www.zdnet.com/article/cybersecurity-warning-russian-hackers-are-targeting-these-vulnerabilities-so-patch-now/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian cyberattacks are being deployed with new techniques - including exploiting vulnerabilities like the recent Microsoft Exchange zero-days - as its hackers continue to target governments, organizations, and energy providers around the world.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxit Reader bug lets attackers run malicious code via PDFs<a href="https://www.bleepingcomputer.com/news/security/foxit-reader-bug-lets-attackers-run-malicious-code-via-pdfs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxit Software, the company behind the highly popular Foxit Reader, has published security updates to fix a high severity remote code execution (RCE) vulnerability affecting the PDF reader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Dangerously Bad macOS Bug and a Malware Campaign<a href="https://cyware.com/news/a-dangerously-bad-macos-bug-and-a-malware-campaign-34c6ac48"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dangerously bad zero-day vulnerability in macOS was being abused by the Shlayer malware to bypass Apple’s Gatekeeper, Notarization, and File Quarantine security checks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD Dispute Findings on Chip Vulnerabilities<a href="https://www.govinfosecurity.com/intel-amd-dispute-findings-on-chip-vulnerabilities-a-16535?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel and AMD insist that users of their chips do not need to take any additional security measures as a result of the discovery because existing protections are adequate.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Unpatched Flaws Disclosed in Remote Mouse App for Android and iOS<a href="https://thehackernews.com/2021/05/6-unpatched-flaws-disclosed-in-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as six zero-days have been uncovered in an application called Remote Mouse, allowing a remote attacker to achieve full code execution without any user interaction.  The unpatched flaws, collectively named ' Mouse Trap, ' were disclosed on Wednesday by security researcher Axel Persinger, who said, "It's clear that this application is very vulnerable and puts users at risk with bad authentication mechanisms, lack of encryption, and poor default configuration."   Remote Mouse is a remote control application for Android and iOS that turns mobile phones and tablets into a wireless mouse, keyboard, and trackpad for computers, with support for voice typing, adjusting computer volume, and switching between applications with the help of a Remote Mouse server installed on the machine. The Android app alone has been installed over 10 million times.  In a nutshell, the issues, which were identified by analysing the packets sent from the Android app to its Windows ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses critical RCE in vRealize Business for Cloud<a href="https://securityaffairs.co/wordpress/117644/security/vrealize-business-for-cloud-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has fixed a new critical RCE flaw in VMware vRealize Business for Cloud that was reported by sanctioned Russian firm Positive Technologies.
+
+
+
+VMware has addressed a critical remote code execution vulnerability, tracked as CVE-2021-21984, in VMware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Techniques Emerge for Abusing Windows Services to Gain System Control<a href="https://www.darkreading.com/threat-intelligence/new-techniques-emerge-for-abusing-windows-services-to-gain-system-control/d/d-id/1340948?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several new techniques have become available recently that give attackers an easy way to abuse legitimate Windows services and escalate low-level privileges on a system to gain full control of it.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Older Broadband Routers Plagued by Security Flaws, Warn Researchers<a href="https://www.zdnet.com/article/millions-of-older-broadband-routers-have-these-security-flaws-warn-researchers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of households in the UK are using old broadband routers that could fall prey to hackers, according to a new investigation carried out by consumer watchdog Which?.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New tsuNAME Flaw Could Let Attackers Take Down Authoritative DNS Servers<a href="https://thehackernews.com/2021/05/new-tsuname-flaw-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers Thursday disclosed a new critical vulnerability affecting Domain Name System (DNS) resolvers that could be exploited by adversaries to carry out denial-of-service attacks against authoritative nameservers.  The flaw, called&nbsp; 'TsuNAME ,' was discovered by researchers from SIDN Labs and InternetNZ, which manage the national top-level internet domains '.nl' and '.nz' for the Netherlands and New Zealand, respectively.  "TsuNAME occurs when domain names are misconfigured with cyclic dependent DNS records, and when vulnerable resolvers access these misconfigurations, they begin looping and send DNS queries rapidly to authoritative servers and other resolvers," the researchers said.   A recursive DNS resolver is one of the core components involved in&nbsp; DNS resolution , i.e., converting a hostname such as www.google.com into a computer-friendly IP address like 142.250.71.36. To achieve this, it responds to a client's request for a web
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Households at Risk from Outdated Routers<a href="https://www.infosecurity-magazine.com:443/news/millions-households-risk-from/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which report warns many lack regular firmware updates
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

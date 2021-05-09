@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs have leaked the stolen data of 2,100 companies so far<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-have-leaked-the-stolen-data-of-2-100-companies-so-far/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2019, ransomware gangs have leaked the stolen data for 2,103 companies on dark web data leaks sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

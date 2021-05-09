@@ -11,6 +11,20 @@ nav_order: 900180
 May 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Major U.S. Pipeline Crippled in Ransomware Attack<a href="https://threatpost.com/pipeline-crippled-ransomware/165963/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Company says it is the victim of a cyberattack that forced the major provider of liquid fuels to the East Coast to temporarily halted all pipeline operations. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CaptureRx Hit with Ransomware Attack<a href="https://heimdalsecurity.com/blog/healthcare-provider-clients-affected-by-capturerx-ransomware-attack/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

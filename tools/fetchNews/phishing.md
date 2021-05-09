@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Marylanders Indicted Over BEC Scam<a href="https://www.infosecurity-magazine.com:443/news/three-marylanders-indicted-over/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defendants charged in connection with dating and BEC scams that netted over $2.3m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Fake Reviews Scam Exposed in Data Breach<a href="https://www.safetydetectives.com/blog/amazon-reviews-leak-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In total, 13,124,962 of records (or 7GB of data) have been exposed in the breach, potentially implicating more than 200,000 people in unethical activities like giving fake product reviews on Amazon.
+</details>
+<div style="text-align: right" markdown="1">
+Safety Detectives
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

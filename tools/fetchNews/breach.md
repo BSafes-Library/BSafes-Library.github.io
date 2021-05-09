@@ -8,6 +8,94 @@ nav_order: 900029
 
 ## Breach
 ---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found more than 29,000 unprotected databases worldwide that are still publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Physics Laboratory Exposed Documents, Credentials<a href="https://www.govinfosecurity.com/us-physics-laboratory-exposed-documents-credentials-a-16536?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fermilab has tidied up its systems after security researchers found weaknesses exposing documents, proprietary applications, personal information, project details, and credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://cybernews.com/security/19-petabytes-of-data-exposed-worldwide/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that over 29,000 databases worldwide are still completely unprotected and publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19 petabytes of data exposed across 29,000+ unprotected databases<a href="https://securityaffairs.co/wordpress/117660/data-breach/data-exposed-unprotected-databases.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found more than 29,000 unprotected databases worldwide that are still publicly accessible, leaving close to 19,000 terabytes of data exposed to anyone, including threat actors.
+
+
+
+Most organizations use databases to store sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters leak database of Indian wedding portal WedMeGood<a href="https://www.hackread.com/shinyhunters-leak-india-wedmegood-database/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is worth noting that apparently, WedMeGood suffered a data breach back in October 2020 when a threat actor published a list of several compromised sites and offered their database for price.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Database Exposes 200K Fake Amazon Reviewers<a href="https://www.infosecurity-magazine.com:443/news/database-exposes-200k-fake-amazon/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mass scheme designed to trick e-commerce customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

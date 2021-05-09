@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Cyber Attack Forced the Largest U.S. Fuel Pipeline to Shut Down<a href="https://thehackernews.com/2021/05/ransomware-cyber-attack-forced-largest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline , which carries 45% of the fuel consumed on the U.S. East Coast, on Saturday said it halted operations due to a ransomware attack,  once again demonstrating  how infrastructure is vulnerable to cyberattacks.  "On May 7, the Colonial Pipeline Company learned it was the victim of a cybersecurity attack," the company  said  in a statement posted on its website. "We have since determined that this incident involves ransomware. In response, we proactively took certain systems offline to contain the threat, which has temporarily halted all pipeline operations, and affected some of our IT systems."   Colonial Pipeline is the largest refined products pipeline in the U.S., a 5,500 mile (8,851 km) system involved in transporting over 100 million gallons from the Texas city of Houston to New York Harbor.  Cybersecurity firm FireEye's Mandiant incident response division is said to be assisting with the investigation, according to reports from  Bloomberg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 313<a href="https://securityaffairs.co/wordpress/117715/breaking-news/security-affairs-newsletter-round-313.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+Cloud hosting provider Swiss Cloud suffered a ransomware attackHacking a Tesla Model X with a DJI Mavic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TsuNAME flaw exposes DNS servers to DDoS attacks<a href="https://securityaffairs.co/wordpress/117687/hacking/tsuname-dns-servers-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in some DNS resolvers, tracked as TsuNAME, can allow attackers to launch DDoS attacks against authoritative DNS servers.
+
+
+
+Researchers at SIDN Labs (the R&D team of the registry for .nl domains), InternetNZ (the registry for .nz domains),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter scammers impersonate SNL in Elon Musk cryptocurrency scams<a href="https://www.bleepingcomputer.com/news/security/twitter-scammers-impersonate-snl-in-elon-musk-cryptocurrency-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter scammers are jumping on Elon Musk's hosting of Saturday Night Live to push cryptocurrency scams to steal people's Bitcoin, Ethereum, and Dogecoin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Forces Colonial Pipeline to Shut Major Fuel Line<a href="https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html#:~:text=A%20cyberattack%20forced%20the%20shutdown,from%20Texas%20to%20New%20York.?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack forced the shutdown of one of the largest pipelines in the United States, in what appeared to be a significant attempt to disrupt vulnerable energy infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major US pipeline halts operations after cyberattack<a href="https://thehill.com//policy/cybersecurity/552470-major-us-pipeline-halts-operations-after-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest pipelines in the U.S. was forced to halt some of its operations Friday after a crippling cyberattack on its energy infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major U.S. Pipeline Crippled in Ransomware Attack<a href="https://threatpost.com/pipeline-crippled-ransomware/165963/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Company says it is the victim of a cyberattack that forced the major provider of liquid fuels to the East Coast to temporarily halted all pipeline operations. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Largest U.S. pipeline shuts down operations after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/largest-us-pipeline-shuts-down-operations-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline, the largest fuel pipeline in the United States, has shut down operations after suffering what is reported to be a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Will Limit Your WhatsApp Features For Not Accepting Privacy Policy<a href="https://thehackernews.com/2021/05/facebook-will-limit-your-whatsapp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp on Friday disclosed that it won't deactivate accounts of users who don't accept its  new privacy policy  rolling out on May 15, adding it will continue to keep reminding them to accept the new terms.  "No one will have their accounts deleted or lose functionality of WhatsApp on May 15 because of this update," the Facebook-owned messaging service  said  in a statement.  The move marks a turnaround from its previous stance earlier this year when the company outlined plans to make the accounts inaccessible completely should users choose not to comply with the data-sharing agreement and opt not to have their WhatsApp account information shared with Facebook.   "If you haven't accepted by [May 15], WhatsApp will not delete your account. However, you won't have full functionality of WhatsApp until you accept," the company had  previously said . "For a short time, you'll be able to receive calls and notifications, but won't be able to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs have leaked the stolen data of 2,100 companies so far<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-have-leaked-the-stolen-data-of-2-100-companies-so-far/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2019, ransomware gangs have leaked the stolen data for 2,103 companies on dark web data leaks sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack shutdown US Colonial Pipeline<a href="https://securityaffairs.co/wordpress/117680/hacking/colonial-pipeline-facility-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack forced the shutdown of one of the largest pipelines in the United States, the Colonial Pipeline facility in Pelham, Alabama. 
+
+
+
+The Colonial Pipeline facility in Pelham, Alabama was hit by a cybersecurity attack, its operators were forced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of a large-scale BEC campaign to make gift card scam<a href="https://securityaffairs.co/wordpress/117672/cyber-crime/bec-gift-card-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a large-scale BEC campaign that targeted hundreds of organizations leveraging typo-squatted domains registered days before the attacks.
+
+
+
+Business email compromise (BEC) attacks represent a serious threat for organizations worldwide,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

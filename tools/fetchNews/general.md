@@ -8,6 +8,126 @@ nav_order: 900072
 
 ## General
 ---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US, UK authorities say Russian hackers exploited Microsoft vulnerabilities | Lawmakers push for more cyber funds in annual appropriations | Google child care workers ask for transportation stipend<a href="https://thehill.com//policy/cybersecurity/overnights/552428-hillicon-valley-us-uk-authorities-say-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American and British authorities said Friday that Russian state-sponsored hackers exploited major vulnerabilities in Microsoft’s Exchange Server, which were previously used by at least one Chinese state-sponsored hacking group to compromise potentially thousands of organizations. Meanwhile, lawmakers on both sides of the aisle are pushing hard for more cyber funding in the annual appropriations bills, and Google child care workers are pushing for a transportation stipend from the company.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security researchers applaud Google’s move towards multi-factor authentication<a href="https://www.scmagazine.com/password-management/security-researchers-applaud-googles-move-towards-multi-factor-authentication/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google took an important step on Thursday by saying that “very soon” they will automatically enroll users what they are calling two-step verification (2SV) – a move security researchers say is a step in the right direction.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Work from Home, Cyberattacks, and Financial Organizations: An Undesirable Trend<a href="https://cyware.com/news/work-from-home-cyberattacks-and-financial-organizations-an-undesirable-trend-209416fa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurers and banks witnessed a rise in botnet, phishing, and ransomware attacks by 35%; mobile malware by 32%; COVID-related malware by 30%; and insider threats by 29%, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+80% of Net Neutrality Comments to FCC Were Fudged<a href="https://threatpost.com/net-neutrality-comments-fcc-fudged/165943/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NY’s AG: Millions of fake comments – in favor and against –  came from a secret broadband-funded campaign or from a 19-year-old’s fake identities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Sets Out Security Principles for Smart Cities<a href="https://www.infosecurity-magazine.com:443/news/ncsc-security-principles-smart/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance is designed to help local authorities in the UK build secure smart cities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Full-Disclosure] HideezKey 2 FAIL: How a good idea turns into a SPF (Security Product Failure)<a href="https://securityaffairs.co/wordpress/117653/hacking/hideezkey-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HideezKey- This is a deep-dive into a nice concept for a security token &amp; password manager that turned into a horrible product due to lack of proper R&amp;D and Threat Modeling.
+
+
+
+
+
+
+
+Prologue: After my first success in bypassing APPROTECT readout...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data leak marketplaces aim to take over the extortion economy<a href="https://www.bleepingcomputer.com/news/security/data-leak-marketplaces-aim-to-take-over-the-extortion-economy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are embracing data-theft extortion by creating dark web marketplaces that exist solely to sell stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+60% of U.S. School Mobile Apps Disclose Collected Data Without Permission<a href="https://news.softpedia.com/news/60-of-american-school-apps-send-data-without-students-awareness-532813.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the results of the study conducted by Me2B Alliance, 60% of school apps are sending student data to various third parties, including ad networks like Google and Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

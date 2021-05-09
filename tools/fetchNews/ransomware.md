@@ -8,6 +8,122 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaptureRx Hit with Ransomware Attack<a href="https://heimdalsecurity.com/blog/healthcare-provider-clients-affected-by-capturerx-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation revealed that certain files were accessed without permission, including first and last names, dates of birth, prescription information, and medical record numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 7th 2021 - Attacking healthcare<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-7th-2021-attacking-healthcare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware attacks continued throughout the week, for the most part, it has been quieter than usual, with only a few new variants released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractor BlueForce apparently hit by ransomware<a href="https://searchsecurity.techtarget.com/news/252500356/US-defense-contractor-BlueForce-apparently-hit-by-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware operators demanded nearly $1 million in bitcoin during ransomware negotiations and threatened to publish the defense contractor's data on its leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Attacks Using FiveHands Ransomware and SombRAT<a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is aware of a recent successful cyberattack against an organization using a new ransomware variant, which CISA refers to as FiveHands.
+</details>
+<div style="text-align: right" markdown="1">
+ICSA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#COVID19 Researchers Lose a Week's Work to Ryuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/covid19-researchers-lose-week-work/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos traces attack back to a stolen password
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connecting the Bots – Hancitor fuels Cuba Ransomware Operations<a href="https://securityaffairs.co/wordpress/117638/cyber-crime/cuba-ransomware-hancitor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware gang has partnered with the crooks behind the Hancitor malware in attacks aimed at corporate networks.
+
+
+
+The&nbsp;Hancitor&nbsp;downloader has been around for quite some time already. It is known since at least 2016 for dropping...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware partners with Hancitor for spam-fueled attacks<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-partners-with-hancitor-for-spam-fueled-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware gang has teamed up with the spam operators of the Hancitor malware to gain easier access to compromised corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Secretary: Small Businesses Hard-Hit by Ransomware<a href="https://www.bankinfosecurity.com/dhs-secretary-small-businesses-hard-hit-by-ransomware-a-16529?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The losses from ransomware are staggering. And the pace at which those losses are being realized is equally staggering," Mayorkas said, noting this is why DHS has made battling ransomware a priority.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
