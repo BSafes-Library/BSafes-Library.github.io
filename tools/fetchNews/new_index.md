@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 09, 2021
+May 09, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Cyber Attack Forced the Largest U.S. Fuel Pipeline to Shut Down<a href="https://thehackernews.com/2021/05/ransomware-cyber-attack-forced-largest.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2021
+May 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 313<a href="https://securityaffairs.co/wordpress/117715/breaking-news/security-affairs-newsletter-round-313.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2021
+May 9, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TsuNAME flaw exposes DNS servers to DDoS attacks<a href="https://securityaffairs.co/wordpress/117687/hacking/tsuname-dns-servers-ddos.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 08, 2021
+May 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter scammers impersonate SNL in Elon Musk cryptocurrency scams<a href="https://www.bleepingcomputer.com/news/security/twitter-scammers-impersonate-snl-in-elon-musk-cryptocurrency-scams/"> Full Text</a>
@@ -106,7 +106,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Forces Colonial Pipeline to Shut Major Fuel Line<a href="https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html#:~:text=A%20cyberattack%20forced%20the%20shutdown,from%20Texas%20to%20New%20York.?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 08, 2021
+May 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major US pipeline halts operations after cyberattack<a href="https://thehill.com//policy/cybersecurity/552470-major-us-pipeline-halts-operations-after-cyberattack"> Full Text</a>
@@ -138,7 +138,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major U.S. Pipeline Crippled in Ransomware Attack<a href="https://threatpost.com/pipeline-crippled-ransomware/165963/"> Full Text</a>
@@ -154,7 +154,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 08, 2021
+May 08, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Largest U.S. pipeline shuts down operations after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/largest-us-pipeline-shuts-down-operations-after-ransomware-attack/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 08, 2021
+May 08, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Will Limit Your WhatsApp Features For Not Accepting Privacy Policy<a href="https://thehackernews.com/2021/05/facebook-will-limit-your-whatsapp.html"> Full Text</a>
@@ -186,7 +186,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 08, 2021
+May 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs have leaked the stolen data of 2,100 companies so far<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-have-leaked-the-stolen-data-of-2-100-companies-so-far/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyberattack shutdown US Colonial Pipeline<a href="https://securityaffairs.co/wordpress/117680/hacking/colonial-pipeline-facility-cyberattack.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2021
+May 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of a large-scale BEC campaign to make gift card scam<a href="https://securityaffairs.co/wordpress/117672/cyber-crime/bec-gift-card-scam.html"> Full Text</a>
