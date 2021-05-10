@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+White House: Colonial should be its own ‘first line of defense’ against attacks<a href="https://www.scmagazine.com/home/security-news/white-house-colonial-should-be-its-own-first-line-of-defense-against-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House said that it has been in touch with Colonial since Friday and has offered its assistance mitigating the ransomware, which Colonial has declined. Colonial told the administration it is working with its own cyber team.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack spotlights risks of geographically dispersed networks in an industry that is ‘far behind’<a href="https://www.scmagazine.com/home/security-news/ransomware/colonial-pipeline-attack-spotlights-risks-of-geographically-dispersed-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One expert noted that the pipeline industry is far behind other sectors, creating a high-risk scenario that can cascade rapidly.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 N3TW0RM Ransomware Targeting Israeli Organizations<a href="https://cyware.com/news/n3tw0rm-ransomware-targeting-israeli-organizations-da518f38"> Full Text</a>
 </p>
 <details>
