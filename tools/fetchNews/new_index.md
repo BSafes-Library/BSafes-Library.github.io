@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US and Australia warn of escalating Avaddon ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-and-australia-warn-of-escalating-avaddon-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Australian Cyber Security Centre (ACSC) are warning of an ongoing Avaddon ransomware campaign targeting organizations from an extensive array of sectors in the US and worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware will now vet targets after pipeline cyberattack<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-will-now-vet-targets-after-pipeline-cyberattack/"> Full Text</a>
 </p>
 <details>
