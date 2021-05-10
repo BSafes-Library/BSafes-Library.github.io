@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Will Limit Your WhatsApp Features For Not Accepting Privacy Policy<a href="https://thehackernews.com/2021/05/facebook-will-limit-your-whatsapp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp on Friday disclosed that it won't deactivate accounts of users who don't accept its&nbsp; new privacy policy &nbsp;rolling out on May 15, adding it will continue to keep reminding them to accept the new terms.  "No one will have their accounts deleted or lose functionality of WhatsApp on May 15 because of this update," the Facebook-owned messaging service&nbsp; said &nbsp;in a statement.  The move marks a turnaround from its previous stance earlier this year when the company outlined plans to make the accounts inaccessible completely should users choose not to comply with the data-sharing agreement and opt not to have their WhatsApp account information shared with Facebook.   "If you haven't accepted by [May 15], WhatsApp will not delete your account. However, you won't have full functionality of WhatsApp until you accept," the company had&nbsp; previously said . "For a short time, you'll be able to receive calls and notifications, but won't be able to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

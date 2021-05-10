@@ -8,6 +8,66 @@ nav_order: 900140
 
 ## Outage
 ---
+May 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Cyber Attack Forced the Largest U.S. Fuel Pipeline to Shut Down<a href="https://thehackernews.com/2021/05/ransomware-cyber-attack-forced-largest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline , which carries 45% of the fuel consumed on the U.S. East Coast, on Saturday said it halted operations due to a ransomware attack,&nbsp; once again demonstrating &nbsp;how infrastructure is vulnerable to cyberattacks.  "On May 7, the Colonial Pipeline Company learned it was the victim of a cybersecurity attack," the company&nbsp; said &nbsp;in a statement posted on its website. "We have since determined that this incident involves ransomware. In response, we proactively took certain systems offline to contain the threat, which has temporarily halted all pipeline operations, and affected some of our IT systems."   Colonial Pipeline is the largest refined products pipeline in the U.S., a 5,500 mile (8,851 km) system involved in transporting over 100 million gallons from the Texas city of Houston to New York Harbor.  Cybersecurity firm FireEye's Mandiant incident response division is said to be assisting with the investigation, according to reports from&nbsp; Bloomberg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Forces Colonial Pipeline to Shut Major Fuel Line<a href="https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html#:~:text=A%20cyberattack%20forced%20the%20shutdown,from%20Texas%20to%20New%20York.?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack forced the shutdown of one of the largest pipelines in the United States, in what appeared to be a significant attempt to disrupt vulnerable energy infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major US pipeline halts operations after cyberattack<a href="https://thehill.com//policy/cybersecurity/552470-major-us-pipeline-halts-operations-after-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest pipelines in the U.S. was forced to halt some of its operations Friday after a crippling cyberattack on its energy infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack shutdown US Colonial Pipeline<a href="https://securityaffairs.co/wordpress/117680/hacking/colonial-pipeline-facility-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack forced the shutdown of one of the largest pipelines in the United States, the Colonial Pipeline facility in Pelham, Alabama. 
+
+
+
+The Colonial Pipeline facility in Pelham, Alabama was hit by a cybersecurity attack, its operators were forced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

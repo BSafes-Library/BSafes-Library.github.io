@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA MAR report provides technical details of FiveHands Ransomware<a href="https://securityaffairs.co/wordpress/117729/malware/fivehands-ransomware-cisa-mar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA has published an analysis of the FiveHands ransomware, the same malware that was analyzed a few days ago by researchers from FireEye’s Mandiant experts.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published an analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

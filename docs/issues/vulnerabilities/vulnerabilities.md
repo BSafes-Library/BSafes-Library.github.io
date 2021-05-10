@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SQL injection issue in Anti-Spam WordPress Plugin exposes User Data<a href="https://securityaffairs.co/wordpress/117721/security/anti-spam-wordpress-plugin-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+‘Spam protection, AntiSpam, FireWall by CleanTalk’ anti-spam WordPress plugin could expose user sensitive data to an unauthenticated attacker.
+
+
+
+A Time-Based Blind SQL Injection in ‘Spam protection, AntiSpam, FireWall by CleanTalk’ WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
