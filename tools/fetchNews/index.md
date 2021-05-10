@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pega Infinity hotfix released after researchers flag critical authentication bypass vulnerability<a href="https://portswigger.net/daily-swig/pega-infinity-hotfix-released-after-researchers-flag-critical-authentication-bypass-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the research team – Sam Curry, Justin Rhinehart, Brett Buerhaus, and Maik Robert – CVE-2021-27651 is a critical-risk vulnerability in versions 8.2.1 to 8.5.2 of Pega’s Infinity software.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs get more aggressive against law enforcement<a href="https://apnews.com/article/ransomware-gangs-hacking-police-cybercrime-pipeline-3a38c27c4fafe0c39461fb71bf91a42a?&web_view=true"> Full Text</a>
 </p>
 <details>
