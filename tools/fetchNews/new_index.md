@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+White House downplays any supply challenge from pipeline attack<a href="https://thehill.com//homenews/administration/552673-white-house-downplays-any-supply-challenge-from-pipeline-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House said Monday that a cyberattack on Colonial Pipeline, the largest oil supplier in the Northeast United States, has not yet resulted in supply shortages but that officials are monitoring for potential disruptions in the future.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University Cancels Exams After Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/university-cancels-exams-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America’s oldest technological research university cancels finals following cyber-intrusion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AirTag hacked for the first time by security researcher<a href="https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/?&web_view=true"> Full Text</a>
 </p>
 <details>
