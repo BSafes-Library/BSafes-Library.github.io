@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+N3TW0RM Ransomware Targeting Israeli Organizations<a href="https://cyware.com/news/n3tw0rm-ransomware-targeting-israeli-organizations-da518f38"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian hackers recently compromised the networks of H&amp;M Israel and other Israeli firms. It has threatened to leak 110GB of customer data if the ransom requirement of 3BTC isn’t met. N3TW0RM has not been attributed to any group at present.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Confess to ‘Bulletproof Hosting’<a href="https://www.infosecurity-magazine.com:443/news/four-confess-to-bulletproof/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conspirators plead guilty to providing ‘bulletproof hosting’ services to cyber-criminals attacking the US
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at Law Firm Jones Day Impacts Employee Emails at City of Chicago<a href="https://www.securityweek.com/city-chicago-hit-data-breach-law-firm-jones-day?&web_view=true"> Full Text</a>
 </p>
 <details>
