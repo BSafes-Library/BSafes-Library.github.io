@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack underscores US energy's vulnerability<a href="https://thehill.com//policy/cybersecurity/552652-colonial-pipeline-attack-underscores-us-grids-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack on Colonial Pipeline, the largest supplier of oil to the Northeast region of the United States, is underscoring just how vulnerable critical U.S. infrastructure is to cybercriminals in a way no previous attack has done, say U.S. officials and experts in the field.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US and Australia warn of escalating Avaddon ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-and-australia-warn-of-escalating-avaddon-ransomware-attacks/"> Full Text</a>
 </p>
 <details>
