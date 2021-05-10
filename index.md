@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike, Google partnership aims to deliver defense-in-depth for hybrid cloud environments<a href="https://www.scmagazine.com/home/security-news/cloud-security/crowdstrike-google-partnership-aims-to-deliver-defense-in-depth-for-hybrid-cloud-environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike and Google Cloud on Monday announced a series of product integrations to deliver joint customers defense-in-depth security, deeper visibility and workload protection across a hybrid cloud environment. The companies say the integrations will allow for more seamless sharing of telemetry and data between the two security platforms, helping maintain high levels of security across…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI confirmed that Darkside ransomware gang hit Colonial Pipeline<a href="https://securityaffairs.co/wordpress/117760/security/colonial-pipeline-darkside.html"> Full Text</a>
 </p>
 <details>
