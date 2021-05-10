@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial Pipeline attack underscores US energy's vulnerabilities | Biden leading 'whole-of-government' response to hack | Attorneys general urge Facebook to scrap Instagram for kids<a href="https://thehill.com//policy/cybersecurity/overnights/552741-hillicon-valley-colonial-pipeline-attack-underscores-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s oil and gas sector was left reeling from a ransomware attack late last week that caused Colonial Pipeline to shut down operations that provide around 45 percent of the East Coast’s oil. Officials and experts said Monday that the hack underscored vulnerabilities in the nation’s critical utilities, while the Biden administration launched a “whole-of-government” response to address the crisis. Meanwhile, a group of attorneys general urged Facebook to abandon support for an Instagram for kids platform. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 City of Tulsa's online services disrupted in ransomware incident<a href="https://www.bleepingcomputer.com/news/security/city-of-tulsas-online-services-disrupted-in-ransomware-incident/"> Full Text</a>
 </p>
 <details>
