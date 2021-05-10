@@ -34,7 +34,323 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2021
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US declares state of emergency after ransomware hits largest pipeline<a href="https://www.bleepingcomputer.com/news/security/us-declares-state-of-emergency-after-ransomware-hits-largest-pipeline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a ransomware attack on Colonial Pipeline forced the company to shut down 5,500 miles of fuel pipeline, the Federal Motor Carrier Safety Administration (FMCSA) issued a regional emergency declaration affecting 17 states and the District of Columbia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-related Cybercrime in the UK on the Rise<a href="https://news.softpedia.com/news/covid-related-cybercrime-in-the-uk-is-fueling-a-15-increase-in-scam-takedowns-532860.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More scams were taken down by the UK's cybersecurity agency in the last year compared to the previous three years combined. Coronavirus swindles are fueling the increase.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 25% Of Tor Exit Relays Spied On Users' Dark Web Activities<a href="https://thehackernews.com/2021/05/over-25-of-tor-exit-relays-are-spying.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor managed to control more than 27% of the entire Tor network exit capacity in early February 2021, a new study on the dark web infrastructure revealed.  "The entity attacking Tor users is actively exploiting tor users since over a year and expanded the scale of their attacks to a new record level," an independent security researcher who goes by the name nusenu  said  in a write-up published on Sunday. "The average exit fraction this entity controlled was above 14% throughout the past 12 months."  It's the latest in a series of efforts undertaken to bring to light malicious Tor activity since  December 2019 . The attacks, which are said to have begun in January 2020, were first  documented and exposed  by the same researcher in August 2020.   Tor is open-source software for enabling anonymous communication on the Internet. It obfuscates the source and destination of a web request by directing network traffic through a series of relays in or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious UK Website Takedowns Surge 15-Fold in 2020<a href="https://www.infosecurity-magazine.com:443/news/malicious-wesite-takedowns-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK’s Active Cyber Defence program goes from strength-to-strength
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Tulsa, is the last US city hit by ransomware attack<a href="https://securityaffairs.co/wordpress/117756/cyber-crime/city-of-tulsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Tulsa, Oklahoma, has been hit by a ransomware attack over the weekend that impacted its government’s network and shut down its websites.
+
+
+
+One of the biggest cities in the US  by population size, the City of Tulsa, was victim of a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NatWest Bank scheduled payments bug may have cost you money<a href="https://www.bleepingcomputer.com/news/technology/natwest-bank-scheduled-payments-bug-may-have-cost-you-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, UK-based NatWest Bank has alerted multiple customers of a system error that may have caused many more payments to be debited from customer accounts than the originally agreed-upon amount. The issue impacts standing orders set up between 23rd March 2020 and 24th February 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reported ransomware attack leads to weeks of Aprima EHR outages<a href="https://www.healthcareitnews.com/news/reported-ransomware-attack-leads-weeks-aprima-ehr-outages?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A reported ransomware attack on the CompuGroup Medical data center partner, MedNetwoRX, has impeded some customers' access to their Aprima electronic health record systems for more than two weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare IT News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is it still a good idea to require users to change their passwords?<a href="https://thehackernews.com/2021/05/is-it-still-good-idea-to-require-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For as long as corporate IT has been in existence, users have been required to change their passwords periodically. In fact, the need for scheduled password changes may be one of the most long-standing of all IT best practices.  Recently, however, things have started to change. Microsoft has reversed course on the best practices that it has had in place for decades and  no longer recommends that organizations require users to change passwords periodically . Organizations are being forced to consider, perhaps for the first time, whether or not requiring periodic password changes is a good idea.  Microsoft password reset recommendations  According to Microsoft, requiring users to change their passwords frequently does more harm than good.   Humans are notoriously resistant to change. When a user is forced to change their password, they will often come up with a new password that is based on their previous password. A user might, for example, append a number to the end of their password
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK/US: Patch These 11 Bugs Now to Thwart Russian Spies<a href="https://www.infosecurity-magazine.com:443/news/ukus-patch-11-bugs-thwart-russian/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New report reveals latest SVR tactics
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors added thousands of Tor exit nodes to carry out SSL stripping attacks<a href="https://securityaffairs.co/wordpress/117749/deep-web/tor-exit-nodes-ssl-stripping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since early 2020, bad actors have added Tor exit nodes to the Tor network to intercep traffic to cryptocurrency-related sites
+
+
+
+Starting from January 2020, a threat actor has been adding thousands of malicious exit relays to the Tor network to intercept...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Tulsa Hit by Ransomware Attack Over the Weekend<a href="https://therecord.media/city-of-tulsa-hit-by-ransomware-over-the-weekend/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Tulsa, Oklahoma, one of the largest cities in the US, has been hit by a ransomware attack over the weekend that affected the city government’s network and brought down official websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Takes Down East Coast Fuel Pipeline<a href="https://www.infosecurity-magazine.com:443/news/ransomware-takes-down-east-coast/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emergency legislation issued after critical infrastructure attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp will not deactivate accounts for not accepting new privacy terms<a href="https://securityaffairs.co/wordpress/117735/social-networks/whatsapp-new-privacy-policy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp will not deactivate the accounts of users who don't accept the new privacy policy update that requires sharing data with other companies owned by Facebook.
+
+
+
+WhatsApp on Friday announced that it will not deactivate accounts of users who don't...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Passes Emergency Waiver Over Disruptive Cyberattack at Largest Fuel Pipeline<a href="https://www.bbc.com/news/business-57050690?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple sources have confirmed that the ransomware attack was caused by a cyber-criminal gang called DarkSide, who infiltrated Colonial's network on Thursday and took almost 100GB of data hostage.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Score $2 Million from WallStreetBets Forum Users<a href="https://gizmodo.com/scammers-score-2-million-from-the-wallstreetbets-crowd-1846829132?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency scam recently pilfered at least $2 million from WallStreetBets enthusiasts, convincing them that they were buying into a new crypto coin connected to the popular memestock.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxit Patches Vulnerability Allowing Attackers to Execute Malware Via PDF Files<a href="https://heimdalsecurity.com/blog/foxit-patches-vulnerability-allowing-attackers-to-execute-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of this vulnerability can lead from program crashes and data corruption to the execution of arbitrary code on computers running the vulnerable software.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lemon Duck spreads its wings: Actors target Microsoft Exchange servers, incorporate new TTPs<a href="https://blog.talosintelligence.com/2021/05/lemon-duck-spreads-wings.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lemon Duck remains relevant as the operators begin to target Microsoft Exchange servers, exploiting high-profile security vulnerabilities to drop web shells and carry out malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DefakeHop: A deepfake detection method that tackles adversarial threat detection and recognition<a href="https://www.helpnetsecurity.com/2021/05/07/defakehop-deepfake-detection-method/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Army researchers developed a deepfake detection method that will enable the creation of soldier technology to support mission-essential tasks such as adversarial threat detection and recognition.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Plead Guilty to Aiding Cyber Criminals with Bulletproof Hosting<a href="https://thehackernews.com/2021/05/four-plead-guilty-to-aiding-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four Eastern European nationals face 20 years in prison for Racketeer Influenced Corrupt Organization (RICO) charges after pleading guilty to providing bulletproof hosting services between 2008 and 2015, which were used by cybercriminals to distribute malware to financial entities across the U.S.  The individuals, Aleksandr Grichishkin, 34, and Andrei Skvortsov, 34, of Russia; Aleksandr Skorodumov, 33, of Lithuania; and Pavel Stassi, 30, of Estonia, have been accused of renting their wares to cybercriminal clients, who used the infrastructure to disseminate malware such as Zeus, SpyEye, Citadel, and the Blackhole Exploit Kit that were capable of co-opting victim machines into a botnet, and stealing sensitive information.   The deployment of malware caused or attempted to cause millions of dollars in losses to U.S. victims, the U.S. Department of Justice (DoJ) said in a statement  on Friday.  "A key service provided by the defendants was helping their clients to evade detection by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA MAR report provides technical details of FiveHands Ransomware<a href="https://securityaffairs.co/wordpress/117729/malware/fivehands-ransomware-cisa-mar.html"> Full Text</a>
@@ -54,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2021
+May 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SQL injection issue in Anti-Spam WordPress Plugin exposes User Data<a href="https://securityaffairs.co/wordpress/117721/security/anti-spam-wordpress-plugin-flaw.html"> Full Text</a>
