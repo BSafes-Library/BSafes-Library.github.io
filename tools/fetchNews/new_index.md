@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial aims to 'substantially' restore pipeline operations by end of week<a href="https://thehill.com//policy/energy-environment/552662-colonial-aims-to-substantially-restore-pipeline-operations-by-the"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colonial Pipeline Company said that it hopes to “substantially” restore the operations of its pipeline by the end of the week following a ransomware attack that led to its shutdown. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI confirms DarkSide ransomware group behind pipeline hack<a href="https://thehill.com//policy/cybersecurity/552656-fbi-confirms-darkside-ransomware-group-behind-pipeline-hack"> Full Text</a>
 </p>
 <details>
