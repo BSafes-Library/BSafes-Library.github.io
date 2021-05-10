@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Plead Guilty to Aiding Cyber Criminals with Bulletproof Hosting<a href="https://thehackernews.com/2021/05/four-plead-guilty-to-aiding-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four Eastern European nationals face 20 years in prison for Racketeer Influenced Corrupt Organization (RICO) charges after pleading guilty to providing bulletproof hosting services between 2008 and 2015, which were used by cybercriminals to distribute malware to financial entities across the U.S.  The individuals, Aleksandr Grichishkin, 34, and Andrei Skvortsov, 34, of Russia; Aleksandr Skorodumov, 33, of Lithuania; and Pavel Stassi, 30, of Estonia, have been accused of renting their wares to cybercriminal clients, who used the infrastructure to disseminate malware such as Zeus, SpyEye, Citadel, and the Blackhole Exploit Kit that were capable of co-opting victim machines into a botnet, and stealing sensitive information.   The deployment of malware caused or attempted to cause millions of dollars in losses to U.S. victims, the U.S. Department of Justice (DoJ) said in a statement  on Friday.  "A key service provided by the defendants was helping their clients to evade detection by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

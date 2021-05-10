@@ -8,6 +8,80 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US declares state of emergency after ransomware hits largest pipeline<a href="https://www.bleepingcomputer.com/news/security/us-declares-state-of-emergency-after-ransomware-hits-largest-pipeline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a ransomware attack on Colonial Pipeline forced the company to shut down 5,500 miles of fuel pipeline, the Federal Motor Carrier Safety Administration (FMCSA) issued a regional emergency declaration affecting 17 states and the District of Columbia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Tulsa, is the last US city hit by ransomware attack<a href="https://securityaffairs.co/wordpress/117756/cyber-crime/city-of-tulsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Tulsa, Oklahoma, has been hit by a ransomware attack over the weekend that impacted its government’s network and shut down its websites.
+
+
+
+One of the biggest cities in the US &nbsp;by population size, the City of Tulsa, was victim of a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reported ransomware attack leads to weeks of Aprima EHR outages<a href="https://www.healthcareitnews.com/news/reported-ransomware-attack-leads-weeks-aprima-ehr-outages?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A reported ransomware attack on the CompuGroup Medical data center partner, MedNetwoRX, has impeded some customers' access to their Aprima electronic health record systems for more than two weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare IT News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Tulsa Hit by Ransomware Attack Over the Weekend<a href="https://therecord.media/city-of-tulsa-hit-by-ransomware-over-the-weekend/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Tulsa, Oklahoma, one of the largest cities in the US, has been hit by a ransomware attack over the weekend that affected the city government’s network and brought down official websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Takes Down East Coast Fuel Pipeline<a href="https://www.infosecurity-magazine.com:443/news/ransomware-takes-down-east-coast/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emergency legislation issued after critical infrastructure attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

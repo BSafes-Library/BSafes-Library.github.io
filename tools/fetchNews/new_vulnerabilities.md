@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NatWest Bank scheduled payments bug may have cost you money<a href="https://www.bleepingcomputer.com/news/technology/natwest-bank-scheduled-payments-bug-may-have-cost-you-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, UK-based NatWest Bank has alerted multiple customers of a system error that may have caused many more payments to be debited from customer accounts than the originally agreed-upon amount. The issue impacts standing orders set up between 23rd March 2020 and 24th February 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK/US: Patch These 11 Bugs Now to Thwart Russian Spies<a href="https://www.infosecurity-magazine.com:443/news/ukus-patch-11-bugs-thwart-russian/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New report reveals latest SVR tactics
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxit Patches Vulnerability Allowing Attackers to Execute Malware Via PDF Files<a href="https://heimdalsecurity.com/blog/foxit-patches-vulnerability-allowing-attackers-to-execute-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of this vulnerability can lead from program crashes and data corruption to the execution of arbitrary code on computers running the vulnerable software.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lemon Duck spreads its wings: Actors target Microsoft Exchange servers, incorporate new TTPs<a href="https://blog.talosintelligence.com/2021/05/lemon-duck-spreads-wings.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lemon Duck remains relevant as the operators begin to target Microsoft Exchange servers, exploiting high-profile security vulnerabilities to drop web shells and carry out malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

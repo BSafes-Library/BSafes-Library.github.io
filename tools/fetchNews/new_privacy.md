@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 25% Of Tor Exit Relays Spied On Users' Dark Web Activities<a href="https://thehackernews.com/2021/05/over-25-of-tor-exit-relays-are-spying.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor managed to control more than 27% of the entire Tor network exit capacity in early February 2021, a new study on the dark web infrastructure revealed.  "The entity attacking Tor users is actively exploiting tor users since over a year and expanded the scale of their attacks to a new record level," an independent security researcher who goes by the name nusenu&nbsp; said &nbsp;in a write-up published on Sunday. "The average exit fraction this entity controlled was above 14% throughout the past 12 months."  It's the latest in a series of efforts undertaken to bring to light malicious Tor activity since&nbsp; December 2019 . The attacks, which are said to have begun in January 2020, were first&nbsp; documented and exposed &nbsp;by the same researcher in August 2020.   Tor is open-source software for enabling anonymous communication on the Internet. It obfuscates the source and destination of a web request by directing network traffic through a series of relays in or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp will not deactivate accounts for not accepting new privacy terms<a href="https://securityaffairs.co/wordpress/117735/social-networks/whatsapp-new-privacy-policy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp will not deactivate the accounts of users who don't accept the new privacy policy update that requires sharing data with other companies owned by Facebook.
+
+
+
+WhatsApp on Friday announced that it will not deactivate accounts of users who don't...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

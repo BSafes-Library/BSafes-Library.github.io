@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-related Cybercrime in the UK on the Rise<a href="https://news.softpedia.com/news/covid-related-cybercrime-in-the-uk-is-fueling-a-15-increase-in-scam-takedowns-532860.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More scams were taken down by the UK's cybersecurity agency in the last year compared to the previous three years combined. Coronavirus swindles are fueling the increase.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

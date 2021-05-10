@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US declares state of emergency after ransomware hits largest pipeline<a href="https://www.bleepingcomputer.com/news/security/us-declares-state-of-emergency-after-ransomware-hits-largest-pipeline/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-related Cybercrime in the UK on the Rise<a href="https://news.softpedia.com/news/covid-related-cybercrime-in-the-uk-is-fueling-a-15-increase-in-scam-takedowns-532860.shtml?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 25% Of Tor Exit Relays Spied On Users' Dark Web Activities<a href="https://thehackernews.com/2021/05/over-25-of-tor-exit-relays-are-spying.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious UK Website Takedowns Surge 15-Fold in 2020<a href="https://www.infosecurity-magazine.com:443/news/malicious-wesite-takedowns-surge/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Tulsa, is the last US city hit by ransomware attack<a href="https://securityaffairs.co/wordpress/117756/cyber-crime/city-of-tulsa.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NatWest Bank scheduled payments bug may have cost you money<a href="https://www.bleepingcomputer.com/news/technology/natwest-bank-scheduled-payments-bug-may-have-cost-you-money/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reported ransomware attack leads to weeks of Aprima EHR outages<a href="https://www.healthcareitnews.com/news/reported-ransomware-attack-leads-weeks-aprima-ehr-outages?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Healthcare IT News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is it still a good idea to require users to change their passwords?<a href="https://thehackernews.com/2021/05/is-it-still-good-idea-to-require-users.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK/US: Patch These 11 Bugs Now to Thwart Russian Spies<a href="https://www.infosecurity-magazine.com:443/news/ukus-patch-11-bugs-thwart-russian/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors added thousands of Tor exit nodes to carry out SSL stripping attacks<a href="https://securityaffairs.co/wordpress/117749/deep-web/tor-exit-nodes-ssl-stripping.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Tulsa Hit by Ransomware Attack Over the Weekend<a href="https://therecord.media/city-of-tulsa-hit-by-ransomware-over-the-weekend/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Takes Down East Coast Fuel Pipeline<a href="https://www.infosecurity-magazine.com:443/news/ransomware-takes-down-east-coast/"> Full Text</a>
@@ -234,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp will not deactivate accounts for not accepting new privacy terms<a href="https://securityaffairs.co/wordpress/117735/social-networks/whatsapp-new-privacy-policy.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Government Passes Emergency Waiver Over Disruptive Cyberattack at Largest Fuel Pipeline<a href="https://www.bbc.com/news/business-57050690?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ BBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Score $2 Million from WallStreetBets Forum Users<a href="https://gizmodo.com/scammers-score-2-million-from-the-wallstreetbets-crowd-1846829132?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Gizmodo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Foxit Patches Vulnerability Allowing Attackers to Execute Malware Via PDF Files<a href="https://heimdalsecurity.com/blog/foxit-patches-vulnerability-allowing-attackers-to-execute-malware/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lemon Duck spreads its wings: Actors target Microsoft Exchange servers, incorporate new TTPs<a href="https://blog.talosintelligence.com/2021/05/lemon-duck-spreads-wings.html?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DefakeHop: A deepfake detection method that tackles adversarial threat detection and recognition<a href="https://www.helpnetsecurity.com/2021/05/07/defakehop-deepfake-detection-method/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 09, 2021
+May 09, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four Plead Guilty to Aiding Cyber Criminals with Bulletproof Hosting<a href="https://thehackernews.com/2021/05/four-plead-guilty-to-aiding-cyber.html"> Full Text</a>
