@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI confirms DarkSide ransomware group behind pipeline hack<a href="https://thehill.com//policy/cybersecurity/552656-fbi-confirms-darkside-ransomware-group-behind-pipeline-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI confirmed on Monday that criminal ransomware gang Darkside is responsible for the cyberattack on the Colonial Pipeline network.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline attack underscores US energy's vulnerability<a href="https://thehill.com//policy/cybersecurity/552652-colonial-pipeline-attack-underscores-us-grids-vulnerability"> Full Text</a>
 </p>
 <details>
