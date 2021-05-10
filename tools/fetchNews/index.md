@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Staff Bonus was “Crass” Phishing Simulation<a href="https://www.infosecurity-magazine.com:443/news/staff-bonus-was-crass-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Thank you" email offering bonus to train company employees was a cybersecurity test
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Global BEC Campaign Victimizes Over 120 Organizations via Gift Card Scams<a href="https://www.microsoft.com/security/blog/2021/05/06/business-email-compromise-campaign-targets-wide-range-of-orgs-with-gift-card-scam/?&web_view=true"> Full Text</a>
 </p>
 <details>
