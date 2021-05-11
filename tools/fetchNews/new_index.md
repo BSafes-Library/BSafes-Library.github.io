@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Feds eye more oversight of pipelines after Colonial attack<a href="https://thehill.com//policy/cybersecurity/552967-feds-eye-more-oversight-of-pipelines-after-colonial-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration and Capitol Hill are taking a closer look at the security in place for critical oil and gas utilities following the Colonial Pipeline shutdown.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Wormable Windows Bug Opens Door to DoS, RCE<a href="https://threatpost.com/wormable-windows-bug-dos-rce/166057/"> Full Text</a>
 </p>
 <details>
