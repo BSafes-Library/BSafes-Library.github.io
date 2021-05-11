@@ -8,6 +8,38 @@ nav_order: 900195
 
 ## Solution
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google open sources cosign tool for verifying containers<a href="https://securityaffairs.co/wordpress/117774/security/google-cosign-sign-verify-containers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a new open-source tool called cosign that could allow administrators to sign and verify the container images.
+
+
+
+Google has released a new open-source tool called cosign that allows to sign, verify container images, it was developed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Open Source Tool for Verifying Containers<a href="https://www.securityweek.com/google-releases-open-source-tool-verifying-containers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developed in collaboration with Linux Foundation’s sigstore project, the technology company said the motivation for cosign is “to make signatures invisible infrastructure.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

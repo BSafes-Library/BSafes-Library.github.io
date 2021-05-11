@@ -11,6 +11,20 @@ nav_order: 900072
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial Pipeline attack underscores US energy's vulnerabilities | Biden leading 'whole-of-government' response to hack | Attorneys general urge Facebook to scrap Instagram for kids<a href="https://thehill.com//policy/cybersecurity/overnights/552741-hillicon-valley-colonial-pipeline-attack-underscores-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s oil and gas sector was left reeling from a ransomware attack late last week that caused Colonial Pipeline to shut down operations that provide around 45 percent of the East Coast’s oil. Officials and experts said Monday that the hack underscored vulnerabilities in the nation’s critical utilities, while the Biden administration launched a “whole-of-government” response to address the crisis. Meanwhile, a group of attorneys general urged Facebook to abandon support for an Instagram for kids platform.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Malicious UK Website Takedowns Surge 15-Fold in 2020<a href="https://www.infosecurity-magazine.com:443/news/malicious-wesite-takedowns-surge/"> Full Text</a>
 </p>
 <details>

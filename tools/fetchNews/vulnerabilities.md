@@ -11,6 +11,48 @@ nav_order: 900220
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AirTag hacked for the first time by security researcher<a href="https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the regular item tracker opens the Find My website, researchers created a modified item tracker that opens a non-related URL, which could be used for phishing or anything else.
+</details>
+<div style="text-align: right" markdown="1">
+9to5 Mac
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack underscores US energy's vulnerability<a href="https://thehill.com//policy/cybersecurity/552652-colonial-pipeline-attack-underscores-us-grids-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack on Colonial Pipeline, the largest supplier of oil to the Northeast region of the United States, is underscoring just how vulnerable critical U.S. infrastructure is to cybercriminals in a way no previous attack has done, say U.S. officials and experts in the field.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pega Infinity hotfix released after researchers flag critical authentication bypass vulnerability<a href="https://portswigger.net/daily-swig/pega-infinity-hotfix-released-after-researchers-flag-critical-authentication-bypass-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the research team – Sam Curry, Justin Rhinehart, Brett Buerhaus, and Maik Robert – CVE-2021-27651 is a critical-risk vulnerability in versions 8.2.1 to 8.5.2 of Pega’s Infinity software.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NatWest Bank scheduled payments bug may have cost you money<a href="https://www.bleepingcomputer.com/news/technology/natwest-bank-scheduled-payments-bug-may-have-cost-you-money/"> Full Text</a>
 </p>
 <details>

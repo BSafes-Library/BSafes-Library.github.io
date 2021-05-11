@@ -11,6 +11,62 @@ nav_order: 900075
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden leading 'whole of government' response to Colonial Pipeline attack<a href="https://thehill.com//policy/cybersecurity/552694-biden-leading-whole-of-government-response-to-colonial-pipeline-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden and top administration officials&nbsp;said Monday they are taking a “whole-of-government” approach to both responding to the debilitating ransomware attack on Colonial Pipeline, and to strengthening the security of critical utilities moving forward.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House: Colonial should be its own ‘first line of defense’ against attacks<a href="https://www.scmagazine.com/home/security-news/white-house-colonial-should-be-its-own-first-line-of-defense-against-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House said that it has been in touch with Colonial since Friday and has offered its assistance mitigating the ransomware, which Colonial has declined. Colonial told the administration it is working with its own cyber team.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack spotlights risks of geographically dispersed networks in an industry that is ‘far behind’<a href="https://www.scmagazine.com/home/security-news/ransomware/colonial-pipeline-attack-spotlights-risks-of-geographically-dispersed-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One expert noted that the pipeline industry is far behind other sectors, creating a high-risk scenario that can cascade rapidly.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House downplays any supply challenge from pipeline attack<a href="https://thehill.com//homenews/administration/552673-white-house-downplays-any-supply-challenge-from-pipeline-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House said Monday that a cyberattack on Colonial Pipeline, the largest oil supplier in the Northeast United States, has not yet resulted in supply shortages but that officials are monitoring for potential disruptions in the future.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Government Passes Emergency Waiver Over Disruptive Cyberattack at Largest Fuel Pipeline<a href="https://www.bbc.com/news/business-57050690?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

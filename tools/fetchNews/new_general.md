@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LIVE Webinar — The Rabbit Hole of Automation<a href="https://thehackernews.com/2021/05/live-webinar-rabbit-hole-of-automation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of automation has taken on a life of its own in recent years. The idea is nothing new, but the current interest in automation is a mix of both hype and innovation.  On the one hand, it's much easier today to automate everything from small processes to massive-scale tasks than it's ever been before. On the other hand, are we really prepared to hand the reins over to completely automated systems, and should we?  There are areas in security operations where automation is already a critical component. In terms of analytics and parsing through ever-expanding data flows, it's impossible for most teams to keep up without impacting other areas of their jobs. Automated systems help us make sense of threats much faster and more reliably. However, automation isn't a cure-all (just yet). A new live webinar from XDR provider Cynet dives into the topic more in depth ( register here ).  The webinar explores automation as it exists today in the cybersecurity industry. Led
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#CYBERUK21: We Have Reached a Moment of Reckoning in Cybersecurity, Says GCHQ Director<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-moment-of-reckoning-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration and diversity are needed to tackle the tech challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon: We Blocked 10 Billion Bad Listings in 2020<a href="https://www.infosecurity-magazine.com:443/news/amazon-we-blocked-10-billion-bad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retail giant reveals major counterfeit threat in new report
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,122 @@ nav_order: 900180
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+City of Tulsa's online services disrupted in ransomware incident<a href="https://www.bleepingcomputer.com/news/security/city-of-tulsas-online-services-disrupted-in-ransomware-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Tulsa, Oklahoma, has suffered a ransomware attack that forced the City to shut down its systems to prevent the further spread of the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirmed that Darkside ransomware gang hit Colonial Pipeline<a href="https://securityaffairs.co/wordpress/117760/security/colonial-pipeline-darkside.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI confirmed that the attack against the Colonial Pipeline over the weekend was launched by the Darkside ransomware gang.
+
+
+
+The U.S. Federal Bureau of Investigation confirmed that the Colonial Pipeline was shut down due to a cyber attack carried...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N3TW0RM Ransomware Targeting Israeli Organizations<a href="https://cyware.com/news/n3tw0rm-ransomware-targeting-israeli-organizations-da518f38"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian hackers recently compromised the networks of H&amp;M Israel and other Israeli firms. It has threatened to leak 110GB of customer data if the ransom requirement of 3BTC isn’t met. N3TW0RM has not been attributed to any group at present.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirms DarkSide ransomware group behind pipeline hack<a href="https://thehill.com//policy/cybersecurity/552656-fbi-confirms-darkside-ransomware-group-behind-pipeline-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI confirmed on Monday that criminal ransomware gang Darkside is responsible for the cyberattack on the Colonial Pipeline network.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and Australia warn of escalating Avaddon ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-and-australia-warn-of-escalating-avaddon-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the&nbsp;Australian Cyber Security Centre (ACSC) are warning of an ongoing Avaddon ransomware campaign targeting organizations from an extensive array of sectors in the US&nbsp;and worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware will now vet targets after pipeline cyberattack<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-will-now-vet-targets-after-pipeline-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DarkSide ransomware gang posted a new "press release" today stating that they are apolitical and will vet all targets before they are attacked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware will start vetting targets after pipeline cyberattack<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-will-start-vetting-targets-after-pipeline-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DarkSide ransomware gang posted a new "press release" today stating that they are apolitical and will vet all targets before they are attacked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs get more aggressive against law enforcement<a href="https://apnews.com/article/ransomware-gangs-hacking-police-cybercrime-pipeline-3a38c27c4fafe0c39461fb71bf91a42a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminal hackers are increasingly using brazen methods to increase pressure on law enforcement agencies to pay ransoms, including threatening to leak highly sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US declares state of emergency after ransomware hits largest pipeline<a href="https://www.bleepingcomputer.com/news/security/us-declares-state-of-emergency-after-ransomware-hits-largest-pipeline/"> Full Text</a>
 </p>
 <details>

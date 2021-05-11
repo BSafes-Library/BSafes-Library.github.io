@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and Australia ACSC agencies warn of ongoing Avaddon ransomware attacks<a href="https://securityaffairs.co/wordpress/117765/malware/avaddon-targets-orgs-worldwide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Australian Australian Cyber Security Centre (ACSC) warn of an ongoing Avaddon ransomware campaign targeting organizations worldwide.
+
+
+
+The Federal Bureau of Investigation (FBI) and the&nbsp;Australian Cyber Security Centre (ACSC) are warning...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AXA to Stop Reimbursing Ransom Payments<a href="https://www.infosecurity-magazine.com:443/news/axa-to-stop-reimbursing-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurer's move in France could drive cybersecurity improvements
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden: No evidence Russian government is involved in Colonial ransomware attack<a href="https://therecord.media/biden-no-evidence-russian-government-is-involved-in-colonial-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a press conference today, President Joe Biden said the US intelligence community has no evidence that the Russian government had any kind of involvement in the Colonial Pipeline hack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Manufacturer Yamabiko Targeted by Babuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/japanese-manufacturer-yamabiko/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report suggests threat actors have already come out of retirement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

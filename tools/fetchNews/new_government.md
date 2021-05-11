@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House monitoring fuel supply shortages in southeastern US from pipeline cyberattack<a href="https://thehill.com//homenews/administration/552784-white-house-monitoring-fuel-supply-shortages-in-southeastern-us-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is monitoring fuel supply shortages in the southeastern United States after the Colonial Pipeline ransomware attack, the White House said in a statement late Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Declares Emergency in 17 States Over Fuel Pipeline Cyber Attack<a href="https://thehackernews.com/2021/05/us-declares-emergency-in-17-states-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack &nbsp;against Colonial Pipeline's networks has prompted the U.S. Federal Motor Carrier Safety Administration (FMCSA) to issue a&nbsp; regional emergency declaration &nbsp;in 17 states and the District of Columbia (D.C.).  The declaration provides a temporary exemption to Parts 390 through 399 of the Federal Motor Carrier Safety Regulations ( FMCSRs ), allowing alternate transportation of gasoline, diesel, and refined petroleum products to address supply shortages stemming from the attack.  "Such [an] emergency is in response to the unanticipated shutdown of the Colonial pipeline system due to network issues that affect the supply of gasoline, diesel, jet fuel, and other refined petroleum products throughout the Affected States," the directive said. "This Declaration addresses the emergency conditions creating a need for immediate transportation of gasoline, diesel, jet fuel, and other refined petroleum products and provides necessary relief."  The states
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack: What government can do to deter critical infrastructure cybercriminals<a href="https://www.scmagazine.com/home/security-news/ransomware/the-colonial-pipeline-attack-what-government-can-do-to-deter-critical-infrastructure-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What does the U.S. do about criminals protected by their own governments? That question becomes more complicated with attacks against critical infrastructure, which is privately owned and operated, but also intrinsically tied to national security. Those distinctions make these companies high-value targets, which many argue are in government’s best interest to protect.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

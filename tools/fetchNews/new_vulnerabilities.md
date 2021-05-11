@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compsci boffin publishes proof-of-concept code for 54-year-old zero-day in Universal Turing Machine<a href="https://www.theregister.com/2021/05/11/turing_machine_0day_no_patch_available/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A computer science professor from Sweden has discovered an arbitrary code execution vulnerability in the Universal Turing Machine, one of the earliest computer designs in history.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability attacks weakness in Microsoft Azure virtual machine extensions<a href="https://www.scmagazine.com/home/security-news/cloud-security/vulnerability-attacks-weakness-in-microsoft-azure-virtual-machine-extensions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, which Microsoft patched in March, would allow an attacker to escalate privileges and access sensitive user data.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Pawn Electric Cars to Circumvent Payment for Charging Stations and Manipulate Car Battery<a href="https://www.theregister.com/2021/05/11/black_hat_asia_car_hacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tencent's Blade Team, a security research group, showed they could circumvent payment schemes at electric vehicle charging stations by using a Raspberry Pi to conduct the attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

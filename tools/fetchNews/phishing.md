@@ -11,6 +11,34 @@ nav_order: 900160
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Staff Bonus was “Crass” Phishing Simulation<a href="https://www.infosecurity-magazine.com:443/news/staff-bonus-was-crass-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Thank you" email offering bonus to train company employees was a cybersecurity test
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global BEC Campaign Victimizes Over 120 Organizations via Gift Card Scams<a href="https://www.microsoft.com/security/blog/2021/05/06/business-email-compromise-campaign-targets-wide-range-of-orgs-with-gift-card-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, attackers targeted a variety of companies in the consumer goods, process manufacturing and agriculture, real estate, discrete manufacturing, and professional services sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers Score $2 Million from WallStreetBets Forum Users<a href="https://gizmodo.com/scammers-score-2-million-from-the-wallstreetbets-crowd-1846829132?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
