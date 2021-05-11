@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Katko probes federal oversight of oil and gas industry cybersecurity<a href="https://thehill.com//policy/cybersecurity/552916-katko-probes-federal-oversight-of-oil-and-gas-industry-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Homeland Security Committee ranking member John Katko (R-N.Y.) on Tuesday dug into federal oversight of oil and gas sector cybersecurity in the wake of the shutdown of the Colonial Pipeline after a ransomware attack last week. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Kansas Identity Theft Spike Could Be Linked to Data Breach<a href="https://www.infosecurity-magazine.com:443/news/kansas-identity-theft-spike/"> Full Text</a>
 </p>
 <details>
