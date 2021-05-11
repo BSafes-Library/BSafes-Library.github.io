@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GitHub Prepares to Move Beyond Passwords<a href="https://threatpost.com/github-security-keys-passwords/166054/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub adds support for FIDO2 security keys for Git over SSH to fend off account hijacking and further its plan to stick a fork in the security bane of passwords. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Government says Colonial Pipeline has not shared data on hack<a href="https://thehill.com//policy/cybersecurity/552929-government-says-colonial-pipeline-has-not-shared-data-on-hack"> Full Text</a>
 </p>
 <details>
