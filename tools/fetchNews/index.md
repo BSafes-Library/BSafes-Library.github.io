@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+10 APT groups that joined the MS Exchange exploitation party<a href="https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research by ESET showed that the vulnerabilities CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-27065 were exploited by at least 10 APT groups since the release of the patches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is It Really 85 Percent?<a href="https://www.lawfareblog.com/it-really-85-percent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A commonly cited statistic about private ownership of U.S. infrastructure has popped up again after the Colonial Pipeline ransomware report. But where does it actually come from?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Siemens Addresses 60 Vulnerabilities Introduced by Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-60-vulnerabilities-introduced-third-party-components?&web_view=true"> Full Text</a>
 </p>
 <details>
