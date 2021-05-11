@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes Reader zero-day vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-reader-zero-day-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a massive Patch Tuesday security update release that fixes vulnerabilities in twelve different applications, including one actively exploited vulnerability Adobe Reader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Execs Chose to Keep a Hack of 128 Million iPhones Quiet<a href="https://www.wired.com/story/apple-execs-chose-to-keep-hack-of-128-million-iphones-quiet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infections were the result of legitimate developers writing apps using a counterfeit and malicious copy of Xcode, Apple’s iOS and OS X app development tool, dubbed XcodeGhost.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 10 APT groups that joined the MS Exchange exploitation party<a href="https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/?&web_view=true"> Full Text</a>
 </p>
 <details>
