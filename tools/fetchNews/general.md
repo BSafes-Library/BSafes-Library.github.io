@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious UK Website Takedowns Surge 15-Fold in 2020<a href="https://www.infosecurity-magazine.com:443/news/malicious-wesite-takedowns-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK’s Active Cyber Defence program goes from strength-to-strength
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is it still a good idea to require users to change their passwords?<a href="https://thehackernews.com/2021/05/is-it-still-good-idea-to-require-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For as long as corporate IT has been in existence, users have been required to change their passwords periodically. In fact, the need for scheduled password changes may be one of the most long-standing of all IT best practices.  Recently, however, things have started to change. Microsoft has reversed course on the best practices that it has had in place for decades and&nbsp; no longer recommends that organizations require users to change passwords periodically . Organizations are being forced to consider, perhaps for the first time, whether or not requiring periodic password changes is a good idea.  Microsoft password reset recommendations  According to Microsoft, requiring users to change their passwords frequently does more harm than good.&nbsp;  Humans are notoriously resistant to change. When a user is forced to change their password, they will often come up with a new password that is based on their previous password. A user might, for example, append a number to the end of their password
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

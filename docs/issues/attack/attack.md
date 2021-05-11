@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 takeaways from attack on Colonial Pipeline<a href="https://thehill.com//policy/energy-environment/552751-5-takeaways-from-attack-on-colonial-pipeline"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colonial Pipeline, which transports about 45 percent of fuel consumed on the East Coast, shut down over the weekend due to a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University Cancels Exams After Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/university-cancels-exams-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America’s oldest technological research university cancels finals following cyber-intrusion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

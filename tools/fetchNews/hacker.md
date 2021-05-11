@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors added thousands of Tor exit nodes to carry out SSL stripping attacks<a href="https://securityaffairs.co/wordpress/117749/deep-web/tor-exit-nodes-ssl-stripping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since early 2020, bad actors have added Tor exit nodes to the Tor network to intercep traffic to cryptocurrency-related sites
+
+
+
+Starting from January 2020, a threat actor has been adding thousands of malicious exit relays to the Tor network to intercept...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

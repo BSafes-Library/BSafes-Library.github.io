@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Confess to ‘Bulletproof Hosting’<a href="https://www.infosecurity-magazine.com:443/news/four-confess-to-bulletproof/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conspirators plead guilty to providing ‘bulletproof hosting’ services to cyber-criminals attacking the US
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

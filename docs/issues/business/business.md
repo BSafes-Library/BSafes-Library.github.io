@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike, Google partnership aims to deliver defense-in-depth for hybrid cloud environments<a href="https://www.scmagazine.com/home/security-news/cloud-security/crowdstrike-google-partnership-aims-to-deliver-defense-in-depth-for-hybrid-cloud-environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike and Google Cloud on Monday announced a series of product integrations to deliver joint customers defense-in-depth security, deeper visibility and workload protection across a hybrid cloud environment. The companies say the integrations will allow for more seamless sharing of telemetry and data between the two security platforms, helping maintain high levels of security across…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial aims to 'substantially' restore pipeline operations by end of week<a href="https://thehill.com//policy/energy-environment/552662-colonial-aims-to-substantially-restore-pipeline-operations-by-the"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colonial Pipeline Company said that it hopes to “substantially” restore the operations of its pipeline by the end of the week following a ransomware attack that led to its shutdown.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
