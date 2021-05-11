@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Cyber Group Designs Evasive Toolsets<a href="https://cyware.com/news/sophisticated-cyber-group-designs-evasive-toolsets-aa7a229e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Kaspersky uncover an ongoing espionage campaign called TunnelSnake targeting Asian and African diplomats and some high-profile organizations. The attack is being allegedly conducted by Chinese actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Chrome App Anchors Rapidly Worming ‘Smish’ Cyberattack<a href="https://threatpost.com/fake-chrome-app-worming-smish-cyberattack/166038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ingenious attack on Android devices self-propagates, with the potential for a range of damage.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Patches 19 Vulnerabilities With Chrome 90 Update<a href="https://www.securityweek.com/google-patches-19-vulnerabilities-chrome-90-update?&web_view=true"> Full Text</a>
 </p>
 <details>
