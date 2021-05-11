@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Wormable Windows Bug Opens Door to DoS, RCE<a href="https://threatpost.com/wormable-windows-bug-dos-rce/166057/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s May 2021 Patch Tuesday updates include fixes for four critical security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Zix tricks: Phishing campaign creates false illusion that emails are safe<a href="https://www.scmagazine.com/home/email-security/zix-tricks-phishing-campaign-creates-false-illusion-that-emails-are-safe/"> Full Text</a>
 </p>
 <details>
