@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Evolving and Improvising its Smishing Campaign<a href="https://cyware.com/news/roaming-mantis-evolving-and-improvising-its-smishing-campaign-440401a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Roaming Mantis threat actor group has improved its attack tactic to steal more funds while evading detection. The group is now using whitelisting to spread two new malware families. R esearchers suspect that this could be the work of more than one group of attackers working together.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Bans Facebook from Processing WhatsApp Data<a href="https://www.infosecurity-magazine.com:443/news/germany-facebook-whatsapp-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privacy regulator bars Facebook from collecting data on WhatsApp users in Germany
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft May 2021 Patch Tuesday fixes 55 flaws, 3 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2021-patch-tuesday-fixes-55-flaws-3-zero-days/"> Full Text</a>
 </p>
 <details>
