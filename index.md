@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AWS configuration issues lead to exposure of 5 million records<a href="https://www.scmagazine.com/home/security-news/cloud-security/aws-configuration-issues-lead-to-exposure-of-5-million-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services  System Manager misconfigurations led to the potential exposure of more than 5 million documents with personally identifiable information and credit card transactions on more than 3,000 SSM documents.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Feds eye more oversight of pipelines after Colonial attack | White House monitoring fuel shortages | Democrats urge Facebook to reverse WhatsApp update | Biden announces deal with Uber, Lyft for free vaccine rides<a href="https://thehill.com//policy/cybersecurity/overnights/552968-hillicon-valley-feds-eye-more-oversight-of-pipelines-after"> Full Text</a>
 </p>
 <details>
