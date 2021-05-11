@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#CYBERUK21: Home Secretary Outlines UK Government’s Plan to Tackle Growing Cyber-Threats<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-home-secretary-uk-plan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK Home Secretary, Priti Patel, speaks during CYBERUK 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200K Veterans’ Medical Records Likely Stolen by Ransomware Gang<a href="https://threatpost.com/veterans-medical-records-ransomware/166025/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analyst finds ransomware evidence, despite a contractor’s denial of compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang leaks data from Metropolitan Police Department<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-metropolitan-police-department/"> Full Text</a>
 </p>
 <details>
