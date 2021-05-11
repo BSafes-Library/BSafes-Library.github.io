@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses 60 Vulnerabilities Introduced by Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-60-vulnerabilities-introduced-third-party-components?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 14 advisories published this week, nine cover 60 vulnerabilities related to third-party components. The remaining advisories cover only 7 flaws that are specific to Siemens products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple was aware that XcodeGhost impacted 128 Million iOS Users in 2015<a href="https://securityaffairs.co/wordpress/117776/malware/xcodeghost-impacted-128m-ios-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Court documents revealed that the infamous XcodeGhost malware, which has been active since 2015, infected 128 million iOS users.
+
+
+
+Documents provided in a court case that sees Epic Games v. Apple Inc. revealed that the XcodeGhost malware impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WATCH: FBI cyber division chief details how his team will support businesses in the ransomware battle<a href="https://www.scmagazine.com/home/security-news/ransomware/watch-fbi-cyber-division-chief-details-how-his-team-will-support-businesses-in-the-ransomware-battle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Colonial Pipeline struggles to return to operations amid a crippling ransomware attack, how will law enforcement leverage tech, partnership with industry, and policy to manage the threat? During a recent SC Media eSummit on ransomware, Herb Stapleton, cyber division section chief at the FBI, offered details on lessons that emerged during 2020, and how they will shape efforts in 2021 to respond to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #CYBERUK21: Home Secretary Outlines UK Government’s Plan to Tackle Growing Cyber-Threats<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-home-secretary-uk-plan/"> Full Text</a>
 </p>
 <details>
