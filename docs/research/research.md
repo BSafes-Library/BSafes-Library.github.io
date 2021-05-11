@@ -526,6 +526,17 @@ This document describes the National Highway Traffic Safety Administration’s n
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September, 2014
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• NESCOR Guide to Penetration Testing for Electric Utilities [HTML](https://papers.bsafes.com/docs/infrastructure/nescor-guide-to-penetration-testing-for-electric-utilities/)
+</p>
+<details>
+  <summary>Abstract</summary>
+his security test plan template was created by the National Electric Sector Cybersecurity Organization Resource (NESCOR) to provide guidance to electric utilities on how to perform penetration tests on Smart Grid systems. Penetration testing is one of the many different types of assessments utilities can perform to assess their overall security posture.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 22, 2014
