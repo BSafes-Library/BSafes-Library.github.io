@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Windows users exploiting a Zero-Day in Reader<a href="https://securityaffairs.co/wordpress/117792/security/windows-zero-day-4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe confirmed that a zero-day vulnerability affecting Adobe Reader for Windows has been exploited in the wild in limited attacks.
+
+
+
+Adobe security updates for May 2021 address at least 43 CVEs in Experience Manager, InDesign, Illustrator, InCopy,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Feds eye more oversight of pipelines after Colonial attack<a href="https://thehill.com//policy/cybersecurity/552967-feds-eye-more-oversight-of-pipelines-after-colonial-attack"> Full Text</a>
 </p>
 <details>
