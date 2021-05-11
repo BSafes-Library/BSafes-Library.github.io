@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Project Signal: A Ransomware Operation Sponsored by Iran<a href="https://cyware.com/news/project-signal-a-ransomware-operation-sponsored-by-iran-f6add888"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran's Islamic Revolutionary Guard Corps has been accused of running a state-sponsored ransomware operation through a contracting company known as Emen Net Pasargard.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AGs Question Safety of Kids-Only Instagram<a href="https://www.infosecurity-magazine.com:443/news/ags-question-safety-of-kidsonly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook asked to drop plans to create an Instagram for children under the age of 13
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cycode raises $20M to secure DevOps pipelines<a href="https://techcrunch.com/2021/05/11/cycode-raises-20m-to-secure-devops-pipelines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli security startup Cycode, which specializes in securing the DevOps pipeline, today announced that it has raised a $20 million Series A funding round led by Insight Partners.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender ATP now secures networked Linux, macOS devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-now-secures-networked-linux-macos-devices/"> Full Text</a>
 </p>
 <details>
