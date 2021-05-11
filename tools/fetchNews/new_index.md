@@ -34,7 +34,335 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compsci boffin publishes proof-of-concept code for 54-year-old zero-day in Universal Turing Machine<a href="https://www.theregister.com/2021/05/11/turing_machine_0day_no_patch_available/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A computer science professor from Sweden has discovered an arbitrary code execution vulnerability in the Universal Turing Machine, one of the earliest computer designs in history.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House monitoring fuel supply shortages in southeastern US from pipeline cyberattack<a href="https://thehill.com//homenews/administration/552784-white-house-monitoring-fuel-supply-shortages-in-southeastern-us-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is monitoring fuel supply shortages in the southeastern United States after the Colonial Pipeline ransomware attack, the White House said in a statement late Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LIVE Webinar — The Rabbit Hole of Automation<a href="https://thehackernews.com/2021/05/live-webinar-rabbit-hole-of-automation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of automation has taken on a life of its own in recent years. The idea is nothing new, but the current interest in automation is a mix of both hype and innovation.  On the one hand, it's much easier today to automate everything from small processes to massive-scale tasks than it's ever been before. On the other hand, are we really prepared to hand the reins over to completely automated systems, and should we?  There are areas in security operations where automation is already a critical component. In terms of analytics and parsing through ever-expanding data flows, it's impossible for most teams to keep up without impacting other areas of their jobs. Automated systems help us make sense of threats much faster and more reliably. However, automation isn't a cure-all (just yet). A new live webinar from XDR provider Cynet dives into the topic more in depth ( register here ).  The webinar explores automation as it exists today in the cybersecurity industry. Led
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#CYBERUK21: We Have Reached a Moment of Reckoning in Cybersecurity, Says GCHQ Director<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-moment-of-reckoning-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration and diversity are needed to tackle the tech challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google open sources cosign tool for verifying containers<a href="https://securityaffairs.co/wordpress/117774/security/google-cosign-sign-verify-containers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a new open-source tool called cosign that could allow administrators to sign and verify the container images.
+
+
+
+Google has released a new open-source tool called cosign that allows to sign, verify container images, it was developed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability attacks weakness in Microsoft Azure virtual machine extensions<a href="https://www.scmagazine.com/home/security-news/cloud-security/vulnerability-attacks-weakness-in-microsoft-azure-virtual-machine-extensions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, which Microsoft patched in March, would allow an attacker to escalate privileges and access sensitive user data.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Pawn Electric Cars to Circumvent Payment for Charging Stations and Manipulate Car Battery<a href="https://www.theregister.com/2021/05/11/black_hat_asia_car_hacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tencent's Blade Team, a security research group, showed they could circumvent payment schemes at electric vehicle charging stations by using a Raspberry Pi to conduct the attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S Intelligence Agencies Warn About 5G Network Weaknesses<a href="https://thehackernews.com/2021/05/us-intelligence-agencies-warn-about-5g.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Inadequate implementation of telecom standards, supply chain threats, and weaknesses in systems architecture could pose major cybersecurity risks to 5G networks, potentially making them a lucrative target for cybercriminals and nation-state adversaries to exploit for valuable intelligence.  The analysis, which aims to identify and assess risks and vulnerabilities introduced by 5G adoption, was published on Monday by the U.S. National Security Agency (NSA), in partnership with the Office of the Director of National Intelligence (ODNI) and the Department of Homeland Security's (DHS) Cybersecurity and Infrastructure Security Agency (CISA).  "As new 5G policies and standards are released, there remains the potential for threats that impact the end-user," the report  said . "For example, nation states may attempt to exert undue influence on standards that benefit their proprietary technologies and limit customers' choices to use other equipment or software."   S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon: We Blocked 10 Billion Bad Listings in 2020<a href="https://www.infosecurity-magazine.com:443/news/amazon-we-blocked-10-billion-bad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retail giant reveals major counterfeit threat in new report
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and Australia ACSC agencies warn of ongoing Avaddon ransomware attacks<a href="https://securityaffairs.co/wordpress/117765/malware/avaddon-targets-orgs-worldwide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Australian Australian Cyber Security Centre (ACSC) warn of an ongoing Avaddon ransomware campaign targeting organizations worldwide.
+
+
+
+The Federal Bureau of Investigation (FBI) and the Australian Cyber Security Centre (ACSC) are warning...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter’s New Tip Jar Feature has Some Privacy Issues<a href="https://news.softpedia.com/news/twitter-s-new-tip-jar-feature-has-some-privacy-issues-532863.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Rachel Tobac of SocialProof Security highlighted in a tweet, if a user sends another a tip via PayPal, the receiver can find out the sender's address by opening the receipt from the tip received.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a new Android banking trojan stealing users' credentials<a href="https://thehackernews.com/2021/05/experts-warn-of-new-android-banking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed a new Android trojan that hijacks users' credentials and SMS messages to facilitate fraudulent activities against banks in Spain, Germany, Italy, Belgium, and the Netherlands.  Called " TeaBot " (or Anatsa), the malware is said to be in its early stages of development, with malicious attacks targeting financial apps commencing in late March 2021, followed by a rash of infections in the first week of May against Belgium and Netherlands banks. The first signs of TeaBot activity emerged in January.   "The main goal of TeaBot is stealing victim's credentials and SMS messages for enabling frauds scenarios against a predefined list of banks," Italian cybersecurity, and online fraud prevention firm Cleafy said in a Monday write-up. "Once TeaBot is successfully installed in the victim's device, attackers can obtain a live streaming of the device screen (on demand) and also interact with it via Accessibility Ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AXA to Stop Reimbursing Ransom Payments<a href="https://www.infosecurity-magazine.com:443/news/axa-to-stop-reimbursing-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurer's move in France could drive cybersecurity improvements
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden: No evidence Russian government is involved in Colonial ransomware attack<a href="https://therecord.media/biden-no-evidence-russian-government-is-involved-in-colonial-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a press conference today, President Joe Biden said the US intelligence community has no evidence that the Russian government had any kind of involvement in the Colonial Pipeline hack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Declares Emergency in 17 States Over Fuel Pipeline Cyber Attack<a href="https://thehackernews.com/2021/05/us-declares-emergency-in-17-states-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack  against Colonial Pipeline's networks has prompted the U.S. Federal Motor Carrier Safety Administration (FMCSA) to issue a  regional emergency declaration  in 17 states and the District of Columbia (D.C.).  The declaration provides a temporary exemption to Parts 390 through 399 of the Federal Motor Carrier Safety Regulations ( FMCSRs ), allowing alternate transportation of gasoline, diesel, and refined petroleum products to address supply shortages stemming from the attack.  "Such [an] emergency is in response to the unanticipated shutdown of the Colonial pipeline system due to network issues that affect the supply of gasoline, diesel, jet fuel, and other refined petroleum products throughout the Affected States," the directive said. "This Declaration addresses the emergency conditions creating a need for immediate transportation of gasoline, diesel, jet fuel, and other refined petroleum products and provides necessary relief."  The states
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Manufacturer Yamabiko Targeted by Babuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/japanese-manufacturer-yamabiko/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report suggests threat actors have already come out of retirement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Open Source Tool for Verifying Containers<a href="https://www.securityweek.com/google-releases-open-source-tool-verifying-containers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developed in collaboration with Linux Foundation’s sigstore project, the technology company said the motivation for cosign is “to make signatures invisible infrastructure.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub shifts away from passwords with security key support for SSH Git operations<a href="https://www.zdnet.com/article/github-shifts-away-from-passwords-with-security-key-support-for-ssh-git-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When you add a security key to SSH operations, you can use these devices to protect you and your account from accidental exposure, account hijacking, or malware, a GitHub security engineer wrote.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack knocks out RPI computer systems<a href="https://www.timesunion.com/news/article/Cyber-attack-knocks-out-RPI-computer-systems-16162678.php?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rensselaer Polytechnic Institute is three days into dealing with a cyberattack that shut down much of its network, impacting the university’s students as they go into finals for the spring semester.
+</details>
+<div style="text-align: right" markdown="1">
+Times Union
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack: What government can do to deter critical infrastructure cybercriminals<a href="https://www.scmagazine.com/home/security-news/ransomware/the-colonial-pipeline-attack-what-government-can-do-to-deter-critical-infrastructure-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What does the U.S. do about criminals protected by their own governments? That question becomes more complicated with attacks against critical infrastructure, which is privately owned and operated, but also intrinsically tied to national security. Those distinctions make these companies high-value targets, which many argue are in government’s best interest to protect.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 takeaways from attack on Colonial Pipeline<a href="https://thehill.com//policy/energy-environment/552751-5-takeaways-from-attack-on-colonial-pipeline"> Full Text</a>
@@ -50,7 +378,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Colonial Pipeline attack underscores US energy's vulnerabilities | Biden leading 'whole-of-government' response to hack | Attorneys general urge Facebook to scrap Instagram for kids<a href="https://thehill.com//policy/cybersecurity/overnights/552741-hillicon-valley-colonial-pipeline-attack-underscores-us"> Full Text</a>
@@ -66,7 +394,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Tulsa's online services disrupted in ransomware incident<a href="https://www.bleepingcomputer.com/news/security/city-of-tulsas-online-services-disrupted-in-ransomware-incident/"> Full Text</a>
@@ -82,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CrowdStrike, Google partnership aims to deliver defense-in-depth for hybrid cloud environments<a href="https://www.scmagazine.com/home/security-news/cloud-security/crowdstrike-google-partnership-aims-to-deliver-defense-in-depth-for-hybrid-cloud-environments/"> Full Text</a>
@@ -98,7 +426,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI confirmed that Darkside ransomware gang hit Colonial Pipeline<a href="https://securityaffairs.co/wordpress/117760/security/colonial-pipeline-darkside.html"> Full Text</a>
@@ -118,7 +446,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub now supports security keys when using Git over SSH<a href="https://www.bleepingcomputer.com/news/security/github-now-supports-security-keys-when-using-git-over-ssh/"> Full Text</a>
@@ -134,7 +462,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden leading 'whole of government' response to Colonial Pipeline attack<a href="https://thehill.com//policy/cybersecurity/552694-biden-leading-whole-of-government-response-to-colonial-pipeline-attack"> Full Text</a>
@@ -150,7 +478,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House: Colonial should be its own ‘first line of defense’ against attacks<a href="https://www.scmagazine.com/home/security-news/white-house-colonial-should-be-its-own-first-line-of-defense-against-attacks/"> Full Text</a>
@@ -166,7 +494,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline attack spotlights risks of geographically dispersed networks in an industry that is ‘far behind’<a href="https://www.scmagazine.com/home/security-news/ransomware/colonial-pipeline-attack-spotlights-risks-of-geographically-dispersed-networks/"> Full Text</a>
@@ -182,7 +510,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N3TW0RM Ransomware Targeting Israeli Organizations<a href="https://cyware.com/news/n3tw0rm-ransomware-targeting-israeli-organizations-da518f38"> Full Text</a>
@@ -198,7 +526,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four Confess to ‘Bulletproof Hosting’<a href="https://www.infosecurity-magazine.com:443/news/four-confess-to-bulletproof/"> Full Text</a>
@@ -214,7 +542,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at Law Firm Jones Day Impacts Employee Emails at City of Chicago<a href="https://www.securityweek.com/city-chicago-hit-data-breach-law-firm-jones-day?&web_view=true"> Full Text</a>
@@ -230,7 +558,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Staff Bonus was “Crass” Phishing Simulation<a href="https://www.infosecurity-magazine.com:443/news/staff-bonus-was-crass-phishing/"> Full Text</a>
@@ -246,7 +574,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global BEC Campaign Victimizes Over 120 Organizations via Gift Card Scams<a href="https://www.microsoft.com/security/blog/2021/05/06/business-email-compromise-campaign-targets-wide-range-of-orgs-with-gift-card-scam/?&web_view=true"> Full Text</a>
@@ -262,7 +590,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House downplays any supply challenge from pipeline attack<a href="https://thehill.com//homenews/administration/552673-white-house-downplays-any-supply-challenge-from-pipeline-attack"> Full Text</a>
@@ -278,7 +606,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University Cancels Exams After Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/university-cancels-exams-after/"> Full Text</a>
@@ -294,7 +622,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AirTag hacked for the first time by security researcher<a href="https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/?&web_view=true"> Full Text</a>
@@ -310,7 +638,7 @@ While the regular item tracker opens the Find My website, researchers created a 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial aims to 'substantially' restore pipeline operations by end of week<a href="https://thehill.com//policy/energy-environment/552662-colonial-aims-to-substantially-restore-pipeline-operations-by-the"> Full Text</a>
@@ -326,7 +654,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI confirms DarkSide ransomware group behind pipeline hack<a href="https://thehill.com//policy/cybersecurity/552656-fbi-confirms-darkside-ransomware-group-behind-pipeline-hack"> Full Text</a>
@@ -342,7 +670,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline attack underscores US energy's vulnerability<a href="https://thehill.com//policy/cybersecurity/552652-colonial-pipeline-attack-underscores-us-grids-vulnerability"> Full Text</a>
@@ -358,7 +686,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US and Australia warn of escalating Avaddon ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-and-australia-warn-of-escalating-avaddon-ransomware-attacks/"> Full Text</a>
@@ -374,7 +702,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware will now vet targets after pipeline cyberattack<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-will-now-vet-targets-after-pipeline-cyberattack/"> Full Text</a>
@@ -390,7 +718,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware will start vetting targets after pipeline cyberattack<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-will-start-vetting-targets-after-pipeline-cyberattack/"> Full Text</a>
@@ -406,7 +734,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pega Infinity hotfix released after researchers flag critical authentication bypass vulnerability<a href="https://portswigger.net/daily-swig/pega-infinity-hotfix-released-after-researchers-flag-critical-authentication-bypass-vulnerability?&web_view=true"> Full Text</a>
@@ -422,7 +750,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs get more aggressive against law enforcement<a href="https://apnews.com/article/ransomware-gangs-hacking-police-cybercrime-pipeline-3a38c27c4fafe0c39461fb71bf91a42a?&web_view=true"> Full Text</a>
