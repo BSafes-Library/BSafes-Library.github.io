@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Compsci boffin publishes proof-of-concept code for 54-year-old zero-day in Universal Turing Machine<a href="https://www.theregister.com/2021/05/11/turing_machine_0day_no_patch_available/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House monitoring fuel supply shortages in southeastern US from pipeline cyberattack<a href="https://thehill.com//homenews/administration/552784-white-house-monitoring-fuel-supply-shortages-in-southeastern-us-from"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LIVE Webinar — The Rabbit Hole of Automation<a href="https://thehackernews.com/2021/05/live-webinar-rabbit-hole-of-automation.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #CYBERUK21: We Have Reached a Moment of Reckoning in Cybersecurity, Says GCHQ Director<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-moment-of-reckoning-cyber/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google open sources cosign tool for verifying containers<a href="https://securityaffairs.co/wordpress/117774/security/google-cosign-sign-verify-containers.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability attacks weakness in Microsoft Azure virtual machine extensions<a href="https://www.scmagazine.com/home/security-news/cloud-security/vulnerability-attacks-weakness-in-microsoft-azure-virtual-machine-extensions/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Pawn Electric Cars to Circumvent Payment for Charging Stations and Manipulate Car Battery<a href="https://www.theregister.com/2021/05/11/black_hat_asia_car_hacking/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [5G](/docs/issues/5g/5g/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S Intelligence Agencies Warn About 5G Network Weaknesses<a href="https://thehackernews.com/2021/05/us-intelligence-agencies-warn-about-5g.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon: We Blocked 10 Billion Bad Listings in 2020<a href="https://www.infosecurity-magazine.com:443/news/amazon-we-blocked-10-billion-bad/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI and Australia ACSC agencies warn of ongoing Avaddon ransomware attacks<a href="https://securityaffairs.co/wordpress/117765/malware/avaddon-targets-orgs-worldwide.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter’s New Tip Jar Feature has Some Privacy Issues<a href="https://news.softpedia.com/news/twitter-s-new-tip-jar-feature-has-some-privacy-issues-532863.shtml?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a new Android banking trojan stealing users' credentials<a href="https://thehackernews.com/2021/05/experts-warn-of-new-android-banking.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AXA to Stop Reimbursing Ransom Payments<a href="https://www.infosecurity-magazine.com:443/news/axa-to-stop-reimbursing-ransom/"> Full Text</a>
@@ -250,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden: No evidence Russian government is involved in Colonial ransomware attack<a href="https://therecord.media/biden-no-evidence-russian-government-is-involved-in-colonial-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Declares Emergency in 17 States Over Fuel Pipeline Cyber Attack<a href="https://thehackernews.com/2021/05/us-declares-emergency-in-17-states-over.html"> Full Text</a>
@@ -282,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese Manufacturer Yamabiko Targeted by Babuk Ransomware<a href="https://www.infosecurity-magazine.com:443/news/japanese-manufacturer-yamabiko/"> Full Text</a>
@@ -298,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Open Source Tool for Verifying Containers<a href="https://www.securityweek.com/google-releases-open-source-tool-verifying-containers?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub shifts away from passwords with security key support for SSH Git operations<a href="https://www.zdnet.com/article/github-shifts-away-from-passwords-with-security-key-support-for-ssh-git-operations/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack knocks out RPI computer systems<a href="https://www.timesunion.com/news/article/Cyber-attack-knocks-out-RPI-computer-systems-16162678.php?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Times Union
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2021
+May 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline attack: What government can do to deter critical infrastructure cybercriminals<a href="https://www.scmagazine.com/home/security-news/ransomware/the-colonial-pipeline-attack-what-government-can-do-to-deter-critical-infrastructure-attacks/"> Full Text</a>
