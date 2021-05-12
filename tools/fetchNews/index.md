@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Threat actors target aviation orgs with new malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-threat-actors-target-aviation-orgs-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of an ongoing spear-phishing campaign targeting aerospace and travel organizations with multiple remote access trojans (RATs) deployed using a new and stealthy malware loader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Frag Attacks’ Vulnerabilities in WiFi Standard Affect WiFi-enabled Devices Dating Back to 1997<a href="https://therecord.media/wifi-devices-going-back-to-1997-vulnerable-to-new-frag-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Belgian security researcher has discovered a series of vulnerabilities that impact the WiFi standard, with some bugs dating back as far back as 1997 and affecting devices sold for the past 24 years.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gig Workers Paid $500 for Payroll Passwords<a href="https://threatpost.com/gig-workers-paid-payroll-passwords/166086/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Argyle is paying workers to help hack payroll providers, researchers suspect.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trust Wallet, MetaMask crypto wallets targeted by new support scam<a href="https://www.bleepingcomputer.com/news/security/trust-wallet-metamask-crypto-wallets-targeted-by-new-support-scam/"> Full Text</a>
 </p>
 <details>
