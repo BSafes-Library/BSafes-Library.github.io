@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Telegram Fraudsters Ramp Up Forged COVID-19 Vaccine Card Sales<a href="https://threatpost.com/telegram-forged-covid-19-vaccine-cards/166093/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new type of fraud is spiking across the platform: Selling fake vax records to people who want to lie their way into places where proof of vaccine is required.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 House lawmakers roll out bill to invest $500 million in state and local cybersecurity<a href="https://thehill.com//policy/cybersecurity/553176-house-lawmakers-roll-out-bill-to-invest-500-million-in-state-and-local"> Full Text</a>
 </p>
 <details>
