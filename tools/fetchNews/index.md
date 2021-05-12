@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Shining a Light on DARKSIDE Ransomware Operations<a href="https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In addition to providing builds of DARKSIDE ransomware, the operators of this service also maintain a blog accessible via TOR. This site is also used to pressure victims into paying ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL Launches Digital Piracy Project<a href="https://www.infosecurity-magazine.com:443/news/interpol-launches-digital-piracy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New initiative aims to counter online piracy and dismantle illicit online marketplaces
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK's Computer Misuse Act to be reviewed, says Home Secretary as she condemns ransomware payoffs<a href="https://www.theregister.com/2021/05/11/computer_misuse_act_review_priti_patel/?&web_view=true"> Full Text</a>
 </p>
 <details>
