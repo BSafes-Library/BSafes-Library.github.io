@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for May 2021 fix 4 critical flaws<a href="https://securityaffairs.co/wordpress/117830/security/microsoft-patch-tuesday-may-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday for May 2021 security updates addressed 55 vulnerabilities, four are rated as Critical.
+
+
+
+Microsoft Patch Tuesday for May 2021 security updates address 55 vulnerabilities in Microsoft Windows, .NET Core and Visual Studio, Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+167 counterfeit apps used for financial scams against Android and iOS users<a href="https://www.scmagazine.com/home/security-news/mobile-security/167-counterfeit-apps-used-for-financial-scams-against-android-and-ios-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found 167 counterfeit Android and iOS apps that attackers used to steal money from victims who believed they installed a financial trading, banking or cryptocurrency app from a trusted provider.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Energy Sector Witnesses a Rise in Cyberattacks<a href="https://cyware.com/news/energy-sector-witnesses-a-rise-in-cyberattacks-57ce01ed"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Report finds old misconfiguration woes continue to hammer corporate clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/report-finds-old-misconfiguration-woes-continue-to-hammer-corporate-clouds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured storage buckets and leaky APIs remain two of the top causes behind cloud breaches.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for May 2021 fix 4 critical flaws<a href="https://securityaffairs.co/wordpress/117830/security/microsoft-patch-tuesday-may-2021.html"> Full Text</a>
 </p>
 <details>
