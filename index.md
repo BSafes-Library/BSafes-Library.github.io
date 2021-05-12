@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Global cybersecurity leaders say they feel unprepared for attack | Senate Commerce Committee advances Biden's FTC nominee Lina Khan | Senate panel approves bill that would invest billions in tech<a href="https://thehill.com//policy/technology/overnights/553237-hillicon-valley-global-cybersecurity-leaders-say-they-feel"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting out with some good news tonight: Colonial Pipeline is back online after shutting down over a cyberattack last weekend. Meanwhile, a number of global chief information security officers said they think their organizations are unprepared to face a cyberattack, according to a report released Wednesday. The Senate Commerce Committee advanced President BidenJoe BidenKinzinger, Gaetz get in back-and-forth on Twitter over Cheney vote Cheney in defiant floor speech: Trump on 'crusade to undermine our democracy' US officials testify on domestic terrorism in wake of Capitol attack MORE’s nominee to the Federal Trade Commission, Lina Khan, and to approve legislation that would invest billions in science and emerging technologies in an effort to compete with China.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Companies Need to Treat User Data and Manage Their Partners<a href="https://securityaffairs.co/wordpress/117837/security/user-data-privacy-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the introduction of CCPA and GDPR, much more attention is given to third-party risks, and the privacy terms and conditions users agree to. 
+
+
+
+Global privacy regulations, such as the CCPA and GDPR, were enacted to ensure stricter standards...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline restarting operations after cyberattack<a href="https://thehill.com//policy/energy-environment/553224-granholm-colonial-to-restart-operations-today"> Full Text</a>
 </p>
 <details>
