@@ -34,6 +34,610 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS configuration issues lead to exposure of 5 million records<a href="https://www.scmagazine.com/home/security-news/cloud-security/aws-configuration-issues-lead-to-exposure-of-5-million-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services  System Manager misconfigurations led to the potential exposure of more than 5 million documents with personally identifiable information and credit card transactions on more than 3,000 SSM documents.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Feds eye more oversight of pipelines after Colonial attack | White House monitoring fuel shortages | Democrats urge Facebook to reverse WhatsApp update | Biden announces deal with Uber, Lyft for free vaccine rides<a href="https://thehill.com//policy/cybersecurity/overnights/552968-hillicon-valley-feds-eye-more-oversight-of-pipelines-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The impact of the ransomware attack on Colonial Pipeline continued to make waves Tuesday, with the Biden administration and members of Congress weighing further oversight of the oil and gas sector, and officials scrambling to respond to oil shortages in portions of the country. Meanwhile, members of the Congressional Hispanic Caucus urged Facebook to reverse a privacy update for WhatsApp, and President BidenJoe BidenCaitlyn Jenner says election was not 'stolen,' calls Biden 'our president' Manchin, Biden huddle amid talk of breaking up T package Overnight Energy: 5 takeaways from the Colonial Pipeline attack | Colonial aims to 'substantially' restore pipeline operations by end of week | Three questions about Biden's conservation goals MORE announced a partnership with Uber and Lyft to provide free rides for Americans to get COVID-19 vaccines.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Windows users exploiting a Zero-Day in Reader<a href="https://securityaffairs.co/wordpress/117792/security/windows-zero-day-4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe confirmed that a zero-day vulnerability affecting Adobe Reader for Windows has been exploited in the wild in limited attacks.
+
+
+
+Adobe security updates for May 2021 address at least 43 CVEs in Experience Manager, InDesign, Illustrator, InCopy,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds eye more oversight of pipelines after Colonial attack<a href="https://thehill.com//policy/cybersecurity/552967-feds-eye-more-oversight-of-pipelines-after-colonial-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration and Capitol Hill are taking a closer look at the security in place for critical oil and gas utilities following the Colonial Pipeline shutdown.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable Windows Bug Opens Door to DoS, RCE<a href="https://threatpost.com/wormable-windows-bug-dos-rce/166057/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s May 2021 Patch Tuesday updates include fixes for four critical security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zix tricks: Phishing campaign creates false illusion that emails are safe<a href="https://www.scmagazine.com/home/email-security/zix-tricks-phishing-campaign-creates-false-illusion-that-emails-are-safe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious scheme hides behind multiple layers of redirect links in order to confuse security systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Prepares to Move Beyond Passwords<a href="https://threatpost.com/github-security-keys-passwords/166054/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub adds support for FIDO2 security keys for Git over SSH to fend off account hijacking and further its plan to stick a fork in the security bane of passwords. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government says Colonial Pipeline has not shared data on hack<a href="https://thehill.com//policy/cybersecurity/552929-government-says-colonial-pipeline-has-not-shared-data-on-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security’s top cyber agency said Tuesday that it has not yet received important technical information from Colonial Pipeline regarding the crippling hack that led it to shut down a key fuel pipeline last week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Katko probes federal oversight of oil and gas industry cybersecurity<a href="https://thehill.com//policy/cybersecurity/552916-katko-probes-federal-oversight-of-oil-and-gas-industry-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Homeland Security Committee ranking member John Katko (R-N.Y.) on Tuesday dug into federal oversight of oil and gas sector cybersecurity in the wake of the shutdown of the Colonial Pipeline after a ransomware attack last week. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kansas Identity Theft Spike Could Be Linked to Data Breach<a href="https://www.infosecurity-magazine.com:443/news/kansas-identity-theft-spike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged data breach at Kansas Department of Labor may account for state leading national unemployment fraud stats
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Southeast sees gas shortages amid pipeline shutdown<a href="https://thehill.com//policy/energy-environment/552913-southeast-sees-gas-shortages-amid-pipeline-shutdown"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parts of the Southeastern U.S. are seeing gasoline shortages following a cyberattack that shut down Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leverage Adobe Zero-Day Bug Impacting Acrobat Reader<a href="https://threatpost.com/adobe-zero-day-bug-acrobat-reader/166044/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A patch for Adobe Acrobat, the world’s leading PDF reader, fixes a vulnerability under active attack affecting both Windows and macOS systems that could lead to arbitrary code execution.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher hacked Apple AirTag two weeks after its launch<a href="https://securityaffairs.co/wordpress/117784/hacking/apple-airtag-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple AirTag has been launched less than two weeks ago, but a security researcher already claims to have hacked them. 
+
+
+
+The  Apple AirTag has been available for just a couple of weeks and hacking community is already working on it to demonstrate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Joining Hands with Hancitor Malware<a href="https://cyware.com/news/cuba-ransomware-joining-hands-with-hancitor-malware-8ba55404"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware group and the operators behind the Hancitor downloader have reportedly united for easy access to compromised corporate networks. For years, Cuba ransomware has been in and out of the ransomware game; it came to the limelight after the ATFS attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Cyber Group Designs Evasive Toolsets<a href="https://cyware.com/news/sophisticated-cyber-group-designs-evasive-toolsets-aa7a229e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Kaspersky uncover an ongoing espionage campaign called TunnelSnake targeting Asian and African diplomats and some high-profile organizations. The attack is being allegedly conducted by Chinese actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Chrome App Anchors Rapidly Worming ‘Smish’ Cyberattack<a href="https://threatpost.com/fake-chrome-app-worming-smish-cyberattack/166038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ingenious attack on Android devices self-propagates, with the potential for a range of damage.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches 19 Vulnerabilities With Chrome 90 Update<a href="https://www.securityweek.com/google-patches-19-vulnerabilities-chrome-90-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome components affected by these issues include Web App Installs, Offline, Media Feeds, Aura, Tab Groups, Notifications, V8, Autofill, File API, History, Reader Mode, Payments, and Tab Strip.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Evolving and Improvising its Smishing Campaign<a href="https://cyware.com/news/roaming-mantis-evolving-and-improvising-its-smishing-campaign-440401a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Roaming Mantis threat actor group has improved its attack tactic to steal more funds while evading detection. The group is now using whitelisting to spread two new malware families. R esearchers suspect that this could be the work of more than one group of attackers working together.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Bans Facebook from Processing WhatsApp Data<a href="https://www.infosecurity-magazine.com:443/news/germany-facebook-whatsapp-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privacy regulator bars Facebook from collecting data on WhatsApp users in Germany
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft May 2021 Patch Tuesday fixes 55 flaws, 3 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2021-patch-tuesday-fixes-55-flaws-3-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's May 2021 Patch Tuesday, and with it comes three zero-day vulnerabilities, so Windows admins will be rushing to apply updates. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Project Signal: A Ransomware Operation Sponsored by Iran<a href="https://cyware.com/news/project-signal-a-ransomware-operation-sponsored-by-iran-f6add888"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran's Islamic Revolutionary Guard Corps has been accused of running a state-sponsored ransomware operation through a contracting company known as Emen Net Pasargard.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AGs Question Safety of Kids-Only Instagram<a href="https://www.infosecurity-magazine.com:443/news/ags-question-safety-of-kidsonly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook asked to drop plans to create an Instagram for children under the age of 13
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cycode raises $20M to secure DevOps pipelines<a href="https://techcrunch.com/2021/05/11/cycode-raises-20m-to-secure-devops-pipelines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli security startup Cycode, which specializes in securing the DevOps pipeline, today announced that it has raised a $20 million Series A funding round led by Insight Partners.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP now secures networked Linux, macOS devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-now-secures-networked-linux-macos-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added support for identifying and assessing the security configurations of Linux and macOS endpoints on enterprise networks using Microsoft Defender for Endpoint (previously Microsoft Defender Advanced Threat Protection).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes Reader zero-day vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-reader-zero-day-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a massive Patch Tuesday security update release that fixes vulnerabilities in twelve different applications, including one actively exploited vulnerability Adobe Reader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Execs Chose to Keep a Hack of 128 Million iPhones Quiet<a href="https://www.wired.com/story/apple-execs-chose-to-keep-hack-of-128-million-iphones-quiet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infections were the result of legitimate developers writing apps using a counterfeit and malicious copy of Xcode, Apple’s iOS and OS X app development tool, dubbed XcodeGhost.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 APT groups that joined the MS Exchange exploitation party<a href="https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research by ESET showed that the vulnerabilities CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-27065 were exploited by at least 10 APT groups since the release of the patches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is It Really 85 Percent?<a href="https://www.lawfareblog.com/it-really-85-percent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A commonly cited statistic about private ownership of U.S. infrastructure has popped up again after the Colonial Pipeline ransomware report. But where does it actually come from?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses 60 Vulnerabilities Introduced by Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-60-vulnerabilities-introduced-third-party-components?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 14 advisories published this week, nine cover 60 vulnerabilities related to third-party components. The remaining advisories cover only 7 flaws that are specific to Siemens products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple was aware that XcodeGhost impacted 128 Million iOS Users in 2015<a href="https://securityaffairs.co/wordpress/117776/malware/xcodeghost-impacted-128m-ios-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Court documents revealed that the infamous XcodeGhost malware, which has been active since 2015, infected 128 million iOS users.
+
+
+
+Documents provided in a court case that sees Epic Games v. Apple Inc. revealed that the XcodeGhost malware impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WATCH: FBI cyber division chief details how his team will support businesses in the ransomware battle<a href="https://www.scmagazine.com/home/security-news/ransomware/watch-fbi-cyber-division-chief-details-how-his-team-will-support-businesses-in-the-ransomware-battle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Colonial Pipeline struggles to return to operations amid a crippling ransomware attack, how will law enforcement leverage tech, partnership with industry, and policy to manage the threat? During a recent SC Media eSummit on ransomware, Herb Stapleton, cyber division section chief at the FBI, offered details on lessons that emerged during 2020, and how they will shape efforts in 2021 to respond to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#CYBERUK21: Home Secretary Outlines UK Government’s Plan to Tackle Growing Cyber-Threats<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-home-secretary-uk-plan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK Home Secretary, Priti Patel, speaks during CYBERUK 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200K Veterans’ Medical Records Likely Stolen by Ransomware Gang<a href="https://threatpost.com/veterans-medical-records-ransomware/166025/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analyst finds ransomware evidence, despite a contractor’s denial of compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang leaks data from Metropolitan Police Department<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-metropolitan-police-department/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk ransomware operators have leaked what they claim are personal files belongin to police officers from the Metropolitan Police Department after negotiations went stale.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of California Confirms Theft of Personal Information in Cyberattack Involving Accellion FTA Service<a href="https://www.securityweek.com/university-california-confirms-personal-information-stolen-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of California (UC) this week confirmed that personal information was stolen in a cyberattack involving the Accellion File Transfer Appliance (FTA) service.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud prevention firm Arkose Labs raises $70M<a href="https://venturebeat.com/2021/05/11/fraud-prevention-firm-arkose-labs-raises-70m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arkose Labs, a startup developing a platform to detect and mitigate online fraud, today announced that it raised $70 million in a funding round led by SoftBank Vision Fund 2.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Wanted Money, Not Disruption from Colonial Pipeline Attack<a href="https://threatpost.com/darkside-wanted-money-not-disruption/166016/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Statement by the ransomware gang suggests that the incident that crippled a major U.S. oil pipeline may not have exactly gone to plan for overseas threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

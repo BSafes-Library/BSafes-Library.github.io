@@ -8,6 +8,20 @@ nav_order: 800050
 
 ## 5G
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S Intelligence Agencies Warn About 5G Network Weaknesses<a href="https://thehackernews.com/2021/05/us-intelligence-agencies-warn-about-5g.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Inadequate implementation of telecom standards, supply chain threats, and weaknesses in systems architecture could pose major cybersecurity risks to 5G networks, potentially making them a lucrative target for cybercriminals and nation-state adversaries to exploit for valuable intelligence.  The analysis, which aims to identify and assess risks and vulnerabilities introduced by 5G adoption, was published on Monday by the U.S. National Security Agency (NSA), in partnership with the Office of the Director of National Intelligence (ODNI) and the Department of Homeland Security's (DHS) Cybersecurity and Infrastructure Security Agency (CISA).  "As new 5G policies and standards are released, there remains the potential for threats that impact the end-user," the report&nbsp; said . "For example, nation states may attempt to exert undue influence on standards that benefit their proprietary technologies and limit customers' choices to use other equipment or software."   S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

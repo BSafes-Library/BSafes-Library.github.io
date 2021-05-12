@@ -11,6 +11,104 @@ nav_order: 900180
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Joining Hands with Hancitor Malware<a href="https://cyware.com/news/cuba-ransomware-joining-hands-with-hancitor-malware-8ba55404"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba Ransomware group and the operators behind the Hancitor downloader have reportedly united for easy access to compromised corporate networks. For years, Cuba ransomware has been in and out of the ransomware game; it came to the limelight after the ATFS attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Project Signal: A Ransomware Operation Sponsored by Iran<a href="https://cyware.com/news/project-signal-a-ransomware-operation-sponsored-by-iran-f6add888"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran's Islamic Revolutionary Guard Corps has been accused of running a state-sponsored ransomware operation through a contracting company known as Emen Net Pasargard.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is It Really 85 Percent?<a href="https://www.lawfareblog.com/it-really-85-percent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A commonly cited statistic about private ownership of U.S. infrastructure has popped up again after the Colonial Pipeline ransomware report. But where does it actually come from?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WATCH: FBI cyber division chief details how his team will support businesses in the ransomware battle<a href="https://www.scmagazine.com/home/security-news/ransomware/watch-fbi-cyber-division-chief-details-how-his-team-will-support-businesses-in-the-ransomware-battle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Colonial Pipeline struggles to return to operations amid a crippling ransomware attack, how will law enforcement leverage tech, partnership with industry, and policy to manage the threat? During a recent SC Media eSummit on ransomware, Herb Stapleton, cyber division section chief at the FBI, offered details on lessons that emerged during 2020, and how they will shape efforts in 2021 to respond to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200K Veterans’ Medical Records Likely Stolen by Ransomware Gang<a href="https://threatpost.com/veterans-medical-records-ransomware/166025/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analyst finds ransomware evidence, despite a contractor’s denial of compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang leaks data from Metropolitan Police Department<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-metropolitan-police-department/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk&nbsp;ransomware operators have leaked what they claim are personal files belongin to police officers from the Metropolitan Police Department after negotiations went stale.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Wanted Money, Not Disruption from Colonial Pipeline Attack<a href="https://threatpost.com/darkside-wanted-money-not-disruption/166016/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Statement by the ransomware gang suggests that the incident that crippled a major U.S. oil pipeline may not have exactly gone to plan for overseas threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI and Australia ACSC agencies warn of ongoing Avaddon ransomware attacks<a href="https://securityaffairs.co/wordpress/117765/malware/avaddon-targets-orgs-worldwide.html"> Full Text</a>
 </p>
 <details>

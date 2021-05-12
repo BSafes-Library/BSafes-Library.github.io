@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS configuration issues lead to exposure of 5 million records<a href="https://www.scmagazine.com/home/security-news/cloud-security/aws-configuration-issues-lead-to-exposure-of-5-million-records/"> Full Text</a>
@@ -50,7 +50,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Feds eye more oversight of pipelines after Colonial attack | White House monitoring fuel shortages | Democrats urge Facebook to reverse WhatsApp update | Biden announces deal with Uber, Lyft for free vaccine rides<a href="https://thehill.com//policy/cybersecurity/overnights/552968-hillicon-valley-feds-eye-more-oversight-of-pipelines-after"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers target Windows users exploiting a Zero-Day in Reader<a href="https://securityaffairs.co/wordpress/117792/security/windows-zero-day-4.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds eye more oversight of pipelines after Colonial attack<a href="https://thehill.com//policy/cybersecurity/552967-feds-eye-more-oversight-of-pipelines-after-colonial-attack"> Full Text</a>
@@ -102,7 +102,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wormable Windows Bug Opens Door to DoS, RCE<a href="https://threatpost.com/wormable-windows-bug-dos-rce/166057/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zix tricks: Phishing campaign creates false illusion that emails are safe<a href="https://www.scmagazine.com/home/email-security/zix-tricks-phishing-campaign-creates-false-illusion-that-emails-are-safe/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Prepares to Move Beyond Passwords<a href="https://threatpost.com/github-security-keys-passwords/166054/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Government says Colonial Pipeline has not shared data on hack<a href="https://thehill.com//policy/cybersecurity/552929-government-says-colonial-pipeline-has-not-shared-data-on-hack"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Katko probes federal oversight of oil and gas industry cybersecurity<a href="https://thehill.com//policy/cybersecurity/552916-katko-probes-federal-oversight-of-oil-and-gas-industry-cybersecurity"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kansas Identity Theft Spike Could Be Linked to Data Breach<a href="https://www.infosecurity-magazine.com:443/news/kansas-identity-theft-spike/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Southeast sees gas shortages amid pipeline shutdown<a href="https://thehill.com//policy/energy-environment/552913-southeast-sees-gas-shortages-amid-pipeline-shutdown"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Leverage Adobe Zero-Day Bug Impacting Acrobat Reader<a href="https://threatpost.com/adobe-zero-day-bug-acrobat-reader/166044/"> Full Text</a>
@@ -230,7 +230,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher hacked Apple AirTag two weeks after its launch<a href="https://securityaffairs.co/wordpress/117784/hacking/apple-airtag-hacked.html"> Full Text</a>
@@ -250,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware Joining Hands with Hancitor Malware<a href="https://cyware.com/news/cuba-ransomware-joining-hands-with-hancitor-malware-8ba55404"> Full Text</a>
@@ -266,7 +266,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated Cyber Group Designs Evasive Toolsets<a href="https://cyware.com/news/sophisticated-cyber-group-designs-evasive-toolsets-aa7a229e"> Full Text</a>
@@ -282,7 +282,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Chrome App Anchors Rapidly Worming ‘Smish’ Cyberattack<a href="https://threatpost.com/fake-chrome-app-worming-smish-cyberattack/166038/"> Full Text</a>
@@ -298,7 +298,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches 19 Vulnerabilities With Chrome 90 Update<a href="https://www.securityweek.com/google-patches-19-vulnerabilities-chrome-90-update?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis Evolving and Improvising its Smishing Campaign<a href="https://cyware.com/news/roaming-mantis-evolving-and-improvising-its-smishing-campaign-440401a9"> Full Text</a>
@@ -330,7 +330,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany Bans Facebook from Processing WhatsApp Data<a href="https://www.infosecurity-magazine.com:443/news/germany-facebook-whatsapp-data/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft May 2021 Patch Tuesday fixes 55 flaws, 3 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2021-patch-tuesday-fixes-55-flaws-3-zero-days/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Project Signal: A Ransomware Operation Sponsored by Iran<a href="https://cyware.com/news/project-signal-a-ransomware-operation-sponsored-by-iran-f6add888"> Full Text</a>
@@ -378,7 +378,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AGs Question Safety of Kids-Only Instagram<a href="https://www.infosecurity-magazine.com:443/news/ags-question-safety-of-kidsonly/"> Full Text</a>
@@ -394,7 +394,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cycode raises $20M to secure DevOps pipelines<a href="https://techcrunch.com/2021/05/11/cycode-raises-20m-to-secure-devops-pipelines/?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender ATP now secures networked Linux, macOS devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-now-secures-networked-linux-macos-devices/"> Full Text</a>
@@ -426,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe fixes Reader zero-day vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-reader-zero-day-vulnerability-exploited-in-the-wild/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Execs Chose to Keep a Hack of 128 Million iPhones Quiet<a href="https://www.wired.com/story/apple-execs-chose-to-keep-hack-of-128-million-iphones-quiet/?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 APT groups that joined the MS Exchange exploitation party<a href="https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/?&web_view=true"> Full Text</a>
@@ -474,7 +474,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is It Really 85 Percent?<a href="https://www.lawfareblog.com/it-really-85-percent"> Full Text</a>
@@ -490,7 +490,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Addresses 60 Vulnerabilities Introduced by Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-60-vulnerabilities-introduced-third-party-components?&web_view=true"> Full Text</a>
@@ -506,7 +506,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple was aware that XcodeGhost impacted 128 Million iOS Users in 2015<a href="https://securityaffairs.co/wordpress/117776/malware/xcodeghost-impacted-128m-ios-users.html"> Full Text</a>
@@ -526,7 +526,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WATCH: FBI cyber division chief details how his team will support businesses in the ransomware battle<a href="https://www.scmagazine.com/home/security-news/ransomware/watch-fbi-cyber-division-chief-details-how-his-team-will-support-businesses-in-the-ransomware-battle/"> Full Text</a>
@@ -542,7 +542,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #CYBERUK21: Home Secretary Outlines UK Government’s Plan to Tackle Growing Cyber-Threats<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-home-secretary-uk-plan/"> Full Text</a>
@@ -558,7 +558,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 200K Veterans’ Medical Records Likely Stolen by Ransomware Gang<a href="https://threatpost.com/veterans-medical-records-ransomware/166025/"> Full Text</a>
@@ -574,7 +574,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang leaks data from Metropolitan Police Department<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-from-metropolitan-police-department/"> Full Text</a>
@@ -590,7 +590,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University of California Confirms Theft of Personal Information in Cyberattack Involving Accellion FTA Service<a href="https://www.securityweek.com/university-california-confirms-personal-information-stolen-cyberattack?&web_view=true"> Full Text</a>
@@ -606,7 +606,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraud prevention firm Arkose Labs raises $70M<a href="https://venturebeat.com/2021/05/11/fraud-prevention-firm-arkose-labs-raises-70m/?&web_view=true"> Full Text</a>
@@ -622,7 +622,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Wanted Money, Not Disruption from Colonial Pipeline Attack<a href="https://threatpost.com/darkside-wanted-money-not-disruption/166016/"> Full Text</a>

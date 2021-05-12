@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter’s New Tip Jar Feature has Some Privacy Issues<a href="https://news.softpedia.com/news/twitter-s-new-tip-jar-feature-has-some-privacy-issues-532863.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Rachel Tobac of SocialProof Security highlighted in a tweet, if a user sends another a tip via PayPal, the receiver can find out the sender's address by opening the receipt from the tip received.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

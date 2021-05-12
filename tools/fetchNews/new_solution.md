@@ -11,6 +11,20 @@ nav_order: 900195
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP now secures networked Linux, macOS devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-now-secures-networked-linux-macos-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added support for identifying and assessing the security configurations of Linux and macOS endpoints on enterprise networks using Microsoft Defender for Endpoint (previously Microsoft Defender Advanced Threat Protection).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google open sources cosign tool for verifying containers<a href="https://securityaffairs.co/wordpress/117774/security/google-cosign-sign-verify-containers.html"> Full Text</a>
 </p>
 <details>

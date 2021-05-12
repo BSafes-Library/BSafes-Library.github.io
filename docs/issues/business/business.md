@@ -11,6 +11,34 @@ nav_order: 900027
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GitHub Prepares to Move Beyond Passwords<a href="https://threatpost.com/github-security-keys-passwords/166054/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub adds support for FIDO2 security keys for Git over SSH to fend off account hijacking and further its plan to stick a fork in the security bane of passwords. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud prevention firm Arkose Labs raises $70M<a href="https://venturebeat.com/2021/05/11/fraud-prevention-firm-arkose-labs-raises-70m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arkose Labs, a startup developing a platform to detect and mitigate online fraud, today announced that it raised $70 million in a funding round led by SoftBank Vision Fund 2.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GitHub shifts away from passwords with security key support for SSH Git operations<a href="https://www.zdnet.com/article/github-shifts-away-from-passwords-with-security-key-support-for-ssh-git-operations/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

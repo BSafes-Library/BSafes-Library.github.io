@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zix tricks: Phishing campaign creates false illusion that emails are safe<a href="https://www.scmagazine.com/home/email-security/zix-tricks-phishing-campaign-creates-false-illusion-that-emails-are-safe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious scheme hides behind multiple layers of redirect links in order to confuse security systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

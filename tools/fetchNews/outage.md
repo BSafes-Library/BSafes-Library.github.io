@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack knocks out RPI computer systems<a href="https://www.timesunion.com/news/article/Cyber-attack-knocks-out-RPI-computer-systems-16162678.php?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rensselaer Polytechnic Institute is three days into dealing with a cyberattack that shut down much of its network, impacting the university’s students as they go into finals for the spring semester.
+</details>
+<div style="text-align: right" markdown="1">
+Times Union
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

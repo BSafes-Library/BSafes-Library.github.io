@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher hacked Apple AirTag two weeks after its launch<a href="https://securityaffairs.co/wordpress/117784/hacking/apple-airtag-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple&nbsp;AirTag&nbsp;has been launched less than two weeks ago, but a security researcher already claims to have hacked them.&nbsp;
+
+
+
+The  Apple AirTag has been available for just a couple of weeks and hacking community is already working on it to demonstrate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Cyber Group Designs Evasive Toolsets<a href="https://cyware.com/news/sophisticated-cyber-group-designs-evasive-toolsets-aa7a229e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Kaspersky uncover an ongoing espionage campaign called TunnelSnake targeting Asian and African diplomats and some high-profile organizations. The attack is being allegedly conducted by Chinese actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Evolving and Improvising its Smishing Campaign<a href="https://cyware.com/news/roaming-mantis-evolving-and-improvising-its-smishing-campaign-440401a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Roaming Mantis threat actor group has improved its attack tactic to steal more funds while evading detection. The group is now using whitelisting to spread two new malware families. R esearchers suspect that this could be the work of more than one group of attackers working together.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

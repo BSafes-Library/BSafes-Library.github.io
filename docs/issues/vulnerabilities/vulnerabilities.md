@@ -11,6 +11,122 @@ nav_order: 900220
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Windows users exploiting a Zero-Day in Reader<a href="https://securityaffairs.co/wordpress/117792/security/windows-zero-day-4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe confirmed that a zero-day vulnerability affecting Adobe Reader for Windows has been exploited in the wild in limited attacks.
+
+
+
+Adobe security updates for May 2021 address at least 43 CVEs in Experience Manager, InDesign, Illustrator, InCopy,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable Windows Bug Opens Door to DoS, RCE<a href="https://threatpost.com/wormable-windows-bug-dos-rce/166057/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s May 2021 Patch Tuesday updates include fixes for four critical security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leverage Adobe Zero-Day Bug Impacting Acrobat Reader<a href="https://threatpost.com/adobe-zero-day-bug-acrobat-reader/166044/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A patch for Adobe Acrobat, the world’s leading PDF reader, fixes a vulnerability under active attack affecting both Windows and macOS systems that could lead to arbitrary code execution.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches 19 Vulnerabilities With Chrome 90 Update<a href="https://www.securityweek.com/google-patches-19-vulnerabilities-chrome-90-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome components affected by these issues include Web App Installs, Offline, Media Feeds, Aura, Tab Groups, Notifications, V8, Autofill, File API, History, Reader Mode, Payments, and Tab Strip.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft May 2021 Patch Tuesday fixes 55 flaws, 3 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2021-patch-tuesday-fixes-55-flaws-3-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's May 2021 Patch Tuesday, and with it comes three zero-day vulnerabilities, so Windows admins will be rushing to apply updates.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes Reader zero-day vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-reader-zero-day-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a massive Patch Tuesday security update release that fixes vulnerabilities in twelve different applications, including one actively exploited vulnerability Adobe Reader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Execs Chose to Keep a Hack of 128 Million iPhones Quiet<a href="https://www.wired.com/story/apple-execs-chose-to-keep-hack-of-128-million-iphones-quiet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infections were the result of legitimate developers writing apps using a counterfeit and malicious copy of Xcode, Apple’s iOS and OS X app development tool, dubbed XcodeGhost.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses 60 Vulnerabilities Introduced by Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-60-vulnerabilities-introduced-third-party-components?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 14 advisories published this week, nine cover 60 vulnerabilities related to third-party components. The remaining advisories cover only 7 flaws that are specific to Siemens products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Compsci boffin publishes proof-of-concept code for 54-year-old zero-day in Universal Turing Machine<a href="https://www.theregister.com/2021/05/11/turing_machine_0day_no_patch_available/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
