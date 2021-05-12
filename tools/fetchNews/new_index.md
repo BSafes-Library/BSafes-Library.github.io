@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes WSUS bug blocking May Windows security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wsus-bug-blocking-may-windows-security-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has resolved a known issue preventing managed devices from receiving the May 2021 Patch Tuesday security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+21Nails Exim Bugs and Remote Code Execution: Beware<a href="https://cyware.com/news/21nails-exim-bugs-and-remote-code-execution-beware-b00ea34c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qualys Research Team found 10 remotely exploitable and 11 locally security flaws, collectively known as 21Nails. Versions prior to Exim 4.94.2 are vulnerable to attacks exploiting 21Nails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Unstoppable Cyberattacks on Healthcare Facilities<a href="https://cyware.com/news/unstoppable-cyberattacks-on-healthcare-facilities-3b5dd273"> Full Text</a>
 </p>
 <details>
