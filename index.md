@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SVR Cyber Operators are Taking Intelligence Advisories Seriously<a href="https://cyware.com/news/svr-cyber-operators-are-taking-intelligence-advisories-seriously-639e5721"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. security agencies have issued advisories against highly dangerous cyber threats from Russian Foreign Intelligence Service (SVR) operators (APT29, Cozy Bear, and Dukes), and the threat actors are adapting accordingly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Use Fake Android and iOS Apps Disguised as Trading and Cryptocurrency Apps to Conduct Fraud<a href="https://news.sophos.com/en-us/2021/05/12/fake-android-and-ios-apps-disguise-as-trading-and-cryptocurrency-apps/?&web_view=true"> Full Text</a>
 </p>
 <details>

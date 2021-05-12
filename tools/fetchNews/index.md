@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Fake Android and iOS Apps Disguised as Trading and Cryptocurrency Apps to Conduct Fraud<a href="https://news.sophos.com/en-us/2021/05/12/fake-android-and-ios-apps-disguise-as-trading-and-cryptocurrency-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These fraudulent applications are aimed at exploiting the increased interest in trading apps, driven by the recent significant rise in the value of cryptocurrencies and interest in stock trading.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Triple Combo of DoubleDrop, DoubleDrag, and DoubleBack Malware<a href="https://cyware.com/news/a-triple-combo-of-doubledrop-doubledrag-and-doubleback-malware-cee0a030"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new malware DOUBLEDRAG, DOUBLEDROP, and DOUBLEBACK, associated with a massive cyberespionage campaign, have been targeting several organizations in the U.S. The related phishing attacks were carried out by a new financially motivated threat actor group dubbed UNC2529.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes WSUS bug blocking May Windows security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wsus-bug-blocking-may-windows-security-updates/"> Full Text</a>
 </p>
 <details>
