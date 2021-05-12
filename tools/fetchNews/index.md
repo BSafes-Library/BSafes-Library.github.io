@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UK's Computer Misuse Act to be reviewed, says Home Secretary as she condemns ransomware payoffs<a href="https://www.theregister.com/2021/05/11/computer_misuse_act_review_priti_patel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK Home Secretary Priti Patel has promised a government review of the UK's 30-year-old Computer Misuse Act "this year" as well as condemning companies that buy off ransomware criminals.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Drafts New Legislation to Force Tech Firms to Tackle Online Abuse<a href="https://www.infosecurity-magazine.com:443/news/uk-government-legislation-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill will cover a range of online harms, including child sexual abuse, harassment, and fraud
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Apple service provider Jamf buys zero-trust software vendor Wandera for $400 million<a href="https://www.zdnet.com/article/apple-service-provider-jamf-buys-zero-trust-software-vendor-wandera-for-400-million/?&web_view=true"> Full Text</a>
 </p>
 <details>
