@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Wyden pushes for information on federal agencies' Zoom use, citing security concerns<a href="https://thehill.com//policy/cybersecurity/553104-wyden-pushes-for-information-on-federal-agencies-zoom-use-citing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Ron Wyden (D-Ore.) on Wednesday drilled the General Services Administration (GSA) around its ongoing approval of video conferencing app Zoom for government use, despite security vulnerabilities discovered by researchers in recent years. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches High-Severity Flaws in Business One, NetWeaver Products<a href="https://www.securityweek.com/sap-patches-high-severity-flaws-business-one-netweaver-products?&web_view=true"> Full Text</a>
 </p>
 <details>
