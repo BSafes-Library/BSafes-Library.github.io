@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA Analysis on FiveHands Ransomware<a href="https://cyware.com/news/cisa-analysis-on-fivehands-ransomware-7d6bf5d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has published a report on the FiveHands ransomware deployed by an aggressively financially motivated group - UNC2447. The campaign involved extortion incidents between January and February.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Dive into the Consequences of Ransomware Payoffs<a href="https://cyware.com/news/a-dive-into-the-consequences-of-ransomware-payoffs-a5af5beb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware operators have adopted various extortion tactics to make their victims pay up, it's important to take a look at key statistics on victims paying or not paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Cybercriminals Abusing Search Advertisements to Promote Phishing Sites<a href="https://therecord.media/fbi-warns-of-cybercriminals-abusing-search-ads-to-promote-phishing-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI says that cybercrime gangs are using search results and search engine ads to lure victims on phishing sites for financial institutions in order to collect their login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microvirtualization at the heart of new HP hardware line<a href="https://www.scmagazine.com/virtualization/microvirtualization-at-the-heart-of-new-hp-hardware-line/"> Full Text</a>
 </p>
 <details>
