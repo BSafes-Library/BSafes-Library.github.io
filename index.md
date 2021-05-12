@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline restarting operations after cyberattack<a href="https://thehill.com//policy/energy-environment/553224-granholm-colonial-to-restart-operations-today"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline announced Wednesday that it has begun a restart of its operations after a cyberattack forced the company to shut down late last week, leading to gas shortages on the East Coast.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Report finds old misconfiguration woes continue to hammer corporate clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/report-finds-old-misconfiguration-woes-continue-to-hammer-corporate-clouds/"> Full Text</a>
 </p>
 <details>
