@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FiveHands Ransomware <a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is aware of a recent successful cyberattack against an organization using a new ransomware variant, which CISA refers to as FiveHands. Threat actors used publicly available penetration testing and exploitation tools, FiveHands ransomware, and SombRAT remote access trojan (RAT), to steal information, obfuscate files, and demand a ransom from the victim organization. Additionally, the threat actors used publicly available tools for network discovery and credential access.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 29, 2021 - NSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

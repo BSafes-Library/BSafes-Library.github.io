@@ -29,10 +29,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.cyberscoop.com/dhs-cyber-alert-subpoena-us/?&web_view=true
-. https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a?&web_view=true
-. https://www.bankinfosecurity.com/dhs-secretary-small-businesses-hard-hit-by-ransomware-a-16529?&web_view=true
-. https://securityaffairs.co/wordpress/117729/malware/fivehands-ransomware-cisa-mar.html
 
 Law:
 
