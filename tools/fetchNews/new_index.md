@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden signs executive order to improve federal cybersecurity following major hacks<a href="https://thehill.com//policy/cybersecurity/553243-biden-signs-executive-order-to-improve-federal-cybersecurity-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Wednesday signed an executive order aimed at improving federal cybersecurity, with the order coming on the heels of multiple major and damaging cyberattacks including the one on the Colonial Pipeline.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Global cybersecurity leaders say they feel unprepared for attack | Senate Commerce Committee advances Biden's FTC nominee Lina Khan | Senate panel approves bill that would invest billions in tech<a href="https://thehill.com//policy/technology/overnights/553237-hillicon-valley-global-cybersecurity-leaders-say-they-feel"> Full Text</a>
 </p>
 <details>
