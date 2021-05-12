@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers Flag e-Voting Security Flaws<a href="https://threatpost.com/e-voting-security-flaws/166110/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paper ballots and source-code transparency are recommended to improve election security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline has no plans to pay ransom for files: report<a href="https://thehill.com//policy/cybersecurity/overnights/553198-colonial-pipeline-has-no-plans-to-pay-ransom-for-files-report"> Full Text</a>
 </p>
 <details>
