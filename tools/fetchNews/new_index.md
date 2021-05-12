@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Trust Wallet, MetaMask crypto wallets targeted by new support scam<a href="https://www.bleepingcomputer.com/news/security/trust-wallet-metamask-crypto-wallets-targeted-by-new-support-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trust Wallet and MetaMask wallet users are being targeted in ongoing and aggressive Twitter phishing attacks to steal cryptocurrency funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber risk management startup VisibleRisk secures $25M<a href="https://venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/?&web_view=true"> Full Text</a>
 </p>
 <details>

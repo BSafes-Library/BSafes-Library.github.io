@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber risk management startup VisibleRisk secures $25M<a href="https://venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round — which comes as VisibleRisk launches a new risk assessment service, Cyber Rating — will be used to expand the company’s workforce well into this year.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FragAttacks vulnerabilities expose all WiFi devices to hack<a href="https://securityaffairs.co/wordpress/117819/hacking/wifi-fragattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher discovered a series of flaws, collectively tracked as FragAttacks, that impact the WiFi devices sold for the past 24 years.
+
+
+
+Belgian security researcher Mathy Vanhoef disclosed the details of a multiple vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Wyden pushes for information on federal agencies' Zoom use, citing security concerns<a href="https://thehill.com//policy/cybersecurity/553104-wyden-pushes-for-information-on-federal-agencies-zoom-use-citing"> Full Text</a>
 </p>
 <details>
