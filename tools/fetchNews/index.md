@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple service provider Jamf buys zero-trust software vendor Wandera for $400 million<a href="https://www.zdnet.com/article/apple-service-provider-jamf-buys-zero-trust-software-vendor-wandera-for-400-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple enterprise support services provider Jamf this afternoon said it will acquire nine-year-old startup Wandera of San Francisco, a provider of cloud-based software for "zero trust" security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Companies' 5 Million Personal identifiable information records detected on an AWS service due to misconception of users<a href="https://blog.checkpoint.com/2021/05/11/companies-5-million-personal-identifiable-information-records-detected-on-an-aws-service-due-to-misconception-of-users/?&web_view=true"> Full Text</a>
 </p>
 <details>
