@@ -34,6 +34,302 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Wi-Fi devices impacted by new FragAttacks vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/all-wi-fi-devices-impacted-by-new-fragattacks-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered Wi-Fi security vulnerabilities collectively known as FragAttacks (fragmentation and aggregation attacks) are impacting all Wi-Fi devices (including computers, smartphones, and smart devices) going back as far as 1997.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: 328 weaknesses found by WA Auditor-General in 50 local government systems<a href="https://www.zdnet.com/article/328-weaknesses-found-by-wa-auditor-general-in-50-local-government-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The computer systems of 50 Western Australian local government entities were probed and the result was the finding of 328 control weaknesses, with 33 considered as significant by the Auditor-General.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global cybersecurity leaders say they feel unprepared for attack: report<a href="https://thehill.com//policy/cybersecurity/553016-global-cybersecurity-leaders-say-they-feel-unprepared-for-attack-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of global chief information security officers (CISOs) surveyed as part of a report released Wednesday said they feel their organizations are unprepared to face a cyberattack, despite many believing they will face an attack in the next year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly All Wi-Fi Devices Are Vulnerable to New FragAttacks<a href="https://thehackernews.com/2021/05/nearly-all-wifi-devices-are-vulnerable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three design and multiple implementation flaws have been disclosed in IEEE 802.11 technical standard that undergirds Wi-Fi, potentially enabling an adversary to take control over a system and plunder confidential data.  Called  FragAttacks  (short for FRgmentation and AGgregation attacks), the weaknesses impact all Wi-Fi security protocols, from Wired Equivalent Privacy (WEP) all the way to Wi-Fi Protected Access 3 (WPA3), thus virtually putting almost every wireless-enabled device at risk of attack.  "An adversary that is within radio range of a victim can abuse these vulnerabilities to steal user information or attack devices," Mathy Vanhoef, a security academic at New York University Abu Dhabi, said. "Experiments indicate that every Wi-Fi product is affected by at least one vulnerability and that most products are affected by several vulnerabilities."  IEEE 802.11 provides the basis for all modern devices using the Wi-Fi family of network protocols, allowing lap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#CYBERUK21: Foreign Secretary Sets Out UK’s Global Cyber Vision<a href="https://www.infosecurity-magazine.com:443/news/cyberuk21-foreign-secretary-uks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dominic Raab says the UK and its allies must partner with the poorest regions in cyberspace
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Android banking Trojan targets banks in Europe<a href="https://securityaffairs.co/wordpress/117812/malware/teabot-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware researchers from Cleafy warn of a new Android banking trojan dubbed TeaBot (aka Anatsa) that is targeting banks in Europe.
+
+
+
+Malware experts from the Italian cybersecurity firm Cleafy have spotted a new Android banking trojan dubbed TeaBot (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Everyone had to rethink security’: What Microsoft learned from a chaotic year<a href="https://www.scmagazine.com/remote-access/everyone-had-to-rethink-how-they-think-about-security-what-microsoft-learned-from-a-chaotic-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Corporate Vice President of Security, Compliance and Identity Vasu Jakkal spoke to SC Media about lessons learned from the year that brought COVID and, in particular, the Solarigate/ SUNBURST campaign.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Trojan Targets Banks via Hijacked Android Handsets<a href="https://threatpost.com/teabot-trojan-targets-banks-android/166075/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware first observed in Italy can steal victims’ credentials and SMS messages as well as livestream device screens on demand.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Time to patch against FragAttacks but good luck with home routers and IoT devices<a href="https://www.zdnet.com/article/time-to-patch-against-fragattacks-but-good-luck-with-home-routers-and-iot-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several of the flaws relate to the ability to inject plaintext frames, as well as certain devices accepting any unencrypted frame or plaintext aggregated frames that look like handshake messages.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Microsoft Windows Updates Patch Dozens of Security Flaws<a href="https://thehackernews.com/2021/05/latest-microsoft-windows-updates-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out its scheduled  monthly security update  with patches for 55 security flaws affecting Windows, Exchange Server, Internet Explorer, Office, Hyper-V, Visual Studio, and Skype for Business.  Of these 55 bugs, four are rated as Critical, 50 are rated as Important, and one is listed as Moderate in severity. Three of the vulnerabilities are publicly known, although, unlike  last month , none of them are under active exploitation at the time of release.   The most critical of the flaws addressed is  CVE-2021-31166 , a wormable remote code execution vulnerability in the HTTP protocol stack. The issue, which could allow an unauthenticated attacker to send a specially crafted packet to a targeted server, is rated 9.8 out of a maximum of 10 on the CVSS scale.  Another vulnerability of note is a remote code execution flaw in Hyper-V ( CVE-2021-28476 ), which also scores  the highest severity among all flaws patched this month with a CVSS rating of 9.9.  "This i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home Working Parents and Young Adults Are Most Risky IT Users<a href="https://www.infosecurity-magazine.com:443/news/home-working-parents-young-adults/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP Inc study warns of blurred lines between work and personal lives
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA and ODNI analyze potential risks to 5G networks<a href="https://securityaffairs.co/wordpress/117802/security/5g-networks-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Intelligence agencies warn of weaknesses in 5G networks that could be exploited by crooks and nation-state actors for intelligence gathering.
+
+
+
+The U.S. National Security Agency (NSA), along with the DHS Cybersecurity and Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Removal of Fraudulent URLs Jumped 15-Fold in 2020, NCSC Says<a href="https://hotforsecurity.bitdefender.com/blog/removal-of-fraudulent-urls-jumped-15-fold-in-2020-ncsc-says-25802.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2020, The National Cyber Security Centre’s (NCSC) Active Cyber Defense (ACD) program managed to curb the online scam economy in a record-breaking takedown of 700,595 scams.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Leaks Metropolitan Police Data After Failed Negotiations<a href="https://thehackernews.com/2021/05/ransomware-gang-leaks-metropolitan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime syndicate behind Babuk ransomware  has leaked more personal files belonging to the Metropolitan Police Department (MPD) after negotiations with the DC Police broke down, warning that they intend to publish all data if their ransom demands are not met.  "The negotiations reached a dead end, the amount we were offered does not suit us, we are posting 20 more personal files on officers, you can download this archive, the password will be released tomorrow. if during tomorrow they do not raise the price, we will release all the data," the gang said in a statement on their data leak site.  "You still have the ability to stop it," it added.  The Babuk group is said to have  stolen 250GB of data , including investigation reports, arrests, disciplinary actions, and other intelligence briefings.   Like other ransomware platforms, DarkSide adheres to a practice called double extortion, which involves demanding money in return for unlocking files and servers en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes Exchange Server Zero-Day in May Patch Tuesday<a href="https://www.infosecurity-magazine.com:443/news/microsoft-exchange-server-zeroday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bug was first disclosed in Pwn2Own competition last month
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why threat hunting is obsolete without context<a href="https://www.helpnetsecurity.com/2021/05/11/threat-hunting-context/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunting is implemented by IT professionals to find dormant or active threats on their network to better understand and harness network visibility and threat actor entry points.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of Government Security Incidents Caused by Missing Patches<a href="https://www.infosecurity-magazine.com:443/news/half-government-incidents-missing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Risks are driving IT modernization push, according to BAE Systems
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Hackers Exploit Adobe Reader 0-Day Vulnerability in the Wild<a href="https://thehackernews.com/2021/05/alert-hackers-exploit-adobe-reader-0.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released  Patch Tuesday updates  for the month of May with fixes for multiple vulnerabilities spanning 12 different products, including a zero-day flaw affecting Adobe Reader that's actively exploited in the wild.  The list of updated applications includes Adobe Experience Manager , Adobe InDesign , Adobe Illustrator , Adobe InCopy , Adobe Genuine Service , Adobe Acrobat and Reader, Magento , Adobe Creative Cloud Desktop  Application, Adobe Media Encoder , Adobe After Effects , Adobe Medium, and Adobe Animate.   In a security bulletin, the company  acknowledged  it received reports that the flaw "has been exploited in the wild in limited attacks targeting Adobe Reader users on Windows." Tracked as CVE-2021-28550, the zero-day concerns an arbitrary code execution flaw that could allow adversaries to execute virtually any command on target systems.   While the targeted attacks took aim at Windows users of Adobe Reader, the issue affects both Windows and macOS ver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
