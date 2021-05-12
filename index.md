@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+South Korea orders urgent review of energy infrastructure cybersecurity<a href="https://www.theregister.com/2021/05/12/south_korea_security_review/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Minister of Trade, Industry, and Energy Moon Seung-wook convened a meeting yesterday, saying it was needed considering the attack on Colonial Pipeline, one of the USA’s main oil transport facilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Police Doxxed After Ransom Dispute<a href="https://www.infosecurity-magazine.com:443/news/police-doxxed-after-ransom-dispute/"> Full Text</a>
 </p>
 <details>
