@@ -34,6 +34,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies' 5 Million Personal identifiable information records detected on an AWS service due to misconception of users<a href="https://blog.checkpoint.com/2021/05/11/companies-5-million-personal-identifiable-information-records-detected-on-an-aws-service-due-to-misconception-of-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During this research, CPR detected several SSM documents that led to the discovery of over 5 million Personally identifiable information records and credit card transactions for several companies.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace Is Neither Just an Intelligence Contest, nor a Domain of Military Conflict; SolarWinds Shows Us Why It’s Both<a href="https://www.lawfareblog.com/cyberspace-neither-just-intelligence-contest-nor-domain-military-conflict-solarwinds-shows-us-why"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Future conversation needs to move beyond the military versus intelligence contest binary construct to more meaningfully explore how states may seek to use cyberspace for multiple objectives, either in sequence or in parallel.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maybe don’t call Saul? Over 30,000 VoIP devices identifiable worldwide, some with suspected vulnerabilities<a href="https://securityaffairs.co/wordpress/117820/hacking/voip-devices-exposed-onlin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of public-facing devices can be accessed anywhere in the world, from the US to Russia, from London to Johannesburg. Our research shows that large and small manufacturers are identifiable, with Aastra-Mitel topping the list.
+
+
+
+As with many...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
