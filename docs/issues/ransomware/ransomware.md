@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Leaks Metropolitan Police Data After Failed Negotiations<a href="https://thehackernews.com/2021/05/ransomware-gang-leaks-metropolitan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime syndicate behind Babuk ransomware  has leaked more personal files belonging to the Metropolitan Police Department (MPD) after negotiations with the DC Police broke down, warning that they&nbsp;intend to publish all data if their ransom demands are not met.  "The negotiations reached a dead end, the amount we were offered does not suit us, we are posting 20 more personal files on officers, you can download this archive, the password will be released tomorrow. if during tomorrow they do not raise the price, we will release all the data," the gang said in a statement on their data leak site.  "You still have the ability to stop it," it added.  The Babuk group is said to have&nbsp; stolen 250GB of data , including investigation reports, arrests, disciplinary actions, and other intelligence briefings.   Like other ransomware platforms, DarkSide adheres to a practice called double extortion, which involves demanding money in return for unlocking files and servers en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

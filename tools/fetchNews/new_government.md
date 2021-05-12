@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#CYBERUK21: Foreign Secretary Sets Out UK’s Global Cyber Vision<a href="https://www.infosecurity-magazine.com:443/news/cyberuk21-foreign-secretary-uks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dominic Raab says the UK and its allies must partner with the poorest regions in cyberspace
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

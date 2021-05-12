@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS configuration issues lead to exposure of 5 million records<a href="https://www.scmagazine.com/home/security-news/cloud-security/aws-configuration-issues-lead-to-exposure-of-5-million-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services  System Manager misconfigurations led to the potential exposure of more than 5 million documents with personally identifiable information and credit card transactions on more than 3,000 SSM documents.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kansas Identity Theft Spike Could Be Linked to Data Breach<a href="https://www.infosecurity-magazine.com:443/news/kansas-identity-theft-spike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged data breach at Kansas Department of Labor may account for state leading national unemployment fraud stats
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cycode raises $20M to secure DevOps pipelines<a href="https://techcrunch.com/2021/05/11/cycode-raises-20m-to-secure-devops-pipelines/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli security startup Cycode, which specializes in securing the DevOps pipeline, today announced that it has raised a $20 million Series A funding round led by Insight Partners.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of California Confirms Theft of Personal Information in Cyberattack Involving Accellion FTA Service<a href="https://www.securityweek.com/university-california-confirms-personal-information-stolen-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of California (UC) this week confirmed that personal information was stolen in a cyberattack involving the Accellion File Transfer Appliance (FTA) service.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

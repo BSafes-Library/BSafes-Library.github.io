@@ -11,6 +11,76 @@ nav_order: 900075
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Feds eye more oversight of pipelines after Colonial attack<a href="https://thehill.com//policy/cybersecurity/552967-feds-eye-more-oversight-of-pipelines-after-colonial-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration and Capitol Hill are taking a closer look at the security in place for critical oil and gas utilities following the Colonial Pipeline shutdown.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government says Colonial Pipeline has not shared data on hack<a href="https://thehill.com//policy/cybersecurity/552929-government-says-colonial-pipeline-has-not-shared-data-on-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Department of Homeland Security’s top cyber agency said Tuesday that it has not yet received important technical information from Colonial Pipeline regarding the crippling hack that led it to shut down a key fuel pipeline last week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Katko probes federal oversight of oil and gas industry cybersecurity<a href="https://thehill.com//policy/cybersecurity/552916-katko-probes-federal-oversight-of-oil-and-gas-industry-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Homeland Security Committee ranking member John Katko (R-N.Y.) on Tuesday dug into federal oversight of oil and gas sector cybersecurity in the wake of the shutdown of the Colonial Pipeline after a ransomware attack last week.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AGs Question Safety of Kids-Only Instagram<a href="https://www.infosecurity-magazine.com:443/news/ags-question-safety-of-kidsonly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook asked to drop plans to create an Instagram for children under the age of 13
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#CYBERUK21: Home Secretary Outlines UK Government’s Plan to Tackle Growing Cyber-Threats<a href="https://www.infosecurity-magazine.com:443/news/cyberuk-home-secretary-uk-plan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK Home Secretary, Priti Patel, speaks during CYBERUK 2021
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 White House monitoring fuel supply shortages in southeastern US from pipeline cyberattack<a href="https://thehill.com//homenews/administration/552784-white-house-monitoring-fuel-supply-shortages-in-southeastern-us-from"> Full Text</a>
 </p>
 <details>

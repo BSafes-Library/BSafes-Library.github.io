@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 All Wi-Fi devices impacted by new FragAttacks vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/all-wi-fi-devices-impacted-by-new-fragattacks-vulnerabilities/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: 328 weaknesses found by WA Auditor-General in 50 local government systems<a href="https://www.zdnet.com/article/328-weaknesses-found-by-wa-auditor-general-in-50-local-government-systems/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global cybersecurity leaders say they feel unprepared for attack: report<a href="https://thehill.com//policy/cybersecurity/553016-global-cybersecurity-leaders-say-they-feel-unprepared-for-attack-report"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly All Wi-Fi Devices Are Vulnerable to New FragAttacks<a href="https://thehackernews.com/2021/05/nearly-all-wifi-devices-are-vulnerable.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #CYBERUK21: Foreign Secretary Sets Out UK’s Global Cyber Vision<a href="https://www.infosecurity-magazine.com:443/news/cyberuk21-foreign-secretary-uks/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeaBot Android banking Trojan targets banks in Europe<a href="https://securityaffairs.co/wordpress/117812/malware/teabot-android-banking-trojan.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Everyone had to rethink security’: What Microsoft learned from a chaotic year<a href="https://www.scmagazine.com/remote-access/everyone-had-to-rethink-how-they-think-about-security-what-microsoft-learned-from-a-chaotic-year/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeaBot Trojan Targets Banks via Hijacked Android Handsets<a href="https://threatpost.com/teabot-trojan-targets-banks-android/166075/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Time to patch against FragAttacks but good luck with home routers and IoT devices<a href="https://www.zdnet.com/article/time-to-patch-against-fragattacks-but-good-luck-with-home-routers-and-iot-devices/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Microsoft Windows Updates Patch Dozens of Security Flaws<a href="https://thehackernews.com/2021/05/latest-microsoft-windows-updates-patch.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Home Working Parents and Young Adults Are Most Risky IT Users<a href="https://www.infosecurity-magazine.com:443/news/home-working-parents-young-adults/"> Full Text</a>
@@ -214,7 +214,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [5G](/docs/issues/5g/5g/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA and ODNI analyze potential risks to 5G networks<a href="https://securityaffairs.co/wordpress/117802/security/5g-networks-risks.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Removal of Fraudulent URLs Jumped 15-Fold in 2020, NCSC Says<a href="https://hotforsecurity.bitdefender.com/blog/removal-of-fraudulent-urls-jumped-15-fold-in-2020-ncsc-says-25802.html?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Bitdefender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gang Leaks Metropolitan Police Data After Failed Negotiations<a href="https://thehackernews.com/2021/05/ransomware-gang-leaks-metropolitan.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Fixes Exchange Server Zero-Day in May Patch Tuesday<a href="https://www.infosecurity-magazine.com:443/news/microsoft-exchange-server-zeroday/"> Full Text</a>
@@ -282,7 +282,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why threat hunting is obsolete without context<a href="https://www.helpnetsecurity.com/2021/05/11/threat-hunting-context/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Half of Government Security Incidents Caused by Missing Patches<a href="https://www.infosecurity-magazine.com:443/news/half-government-incidents-missing/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2021
+May 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Hackers Exploit Adobe Reader 0-Day Vulnerability in the Wild<a href="https://thehackernews.com/2021/05/alert-hackers-exploit-adobe-reader-0.html"> Full Text</a>
