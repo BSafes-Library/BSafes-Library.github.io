@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Code-scanning platform BluBracket nabs $12M for enterprise security<a href="https://venturebeat.com/2021/05/13/code-scanning-platform-blubracket-nabs-12m-for-enterprise-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code security startup BluBracket today announced it has raised $12 million in a Series A round led by Evolution Equity Partners to further develop BluBracket’s products and grow its sales team.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Crypto exchange glitch causes duplicate purchases, delayed credits<a href="https://www.bleepingcomputer.com/news/security/crypto-exchange-glitch-causes-duplicate-purchases-delayed-credits/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and FBI Provide Technical Details and Mitigations for DarkSide Ransomware-as-a-Service<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/05/11/joint-cisa-fbi-cybersecurity-advisory-darkside-ransomware?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ ICSA
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can Data Protection Systems Prevent Data At Rest Leakage?<a href="https://thehackernews.com/2021/05/can-data-protection-systems-prevent.html"> Full Text</a>
@@ -82,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Executive Order Mandates Zero Trust and Strong Encryption<a href="https://www.infosecurity-magazine.com:443/news/biden-executive-order-zero-trust/"> Full Text</a>
@@ -98,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Signs Executive Order on Cybersecurity<a href="https://www.lawfareblog.com/biden-signs-executive-order-cybersecurity"> Full Text</a>
@@ -114,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden signed executive order to improve the Nation’s Cybersecurity<a href="https://securityaffairs.co/wordpress/117847/security/biden-executive-order-cybersecurity.html"> Full Text</a>
@@ -134,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Publishing exploits early doesn’t encourage patching or help defense, data shows<a href="https://www.scmagazine.com/home/patch-management/publishing-exploits-early-doesnt-encourage-patching-or-help-defense-data-shows/"> Full Text</a>
@@ -150,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Five Critical Password Security Rules Your Employees Are Ignoring<a href="https://threatpost.com/5-password-security-rules-employees-ignoring/165686/"> Full Text</a>
@@ -166,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK government releases free cyber-threat warning tool at annual CyberUK conference<a href="https://portswigger.net/daily-swig/uk-government-releases-free-cyber-threat-warning-tool-at-annual-cyberuk-conference?&web_view=true"> Full Text</a>
@@ -182,7 +198,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Web Getting Loaded With Bogus Covid-19 Vaccines and Forged Cards<a href="https://thehackernews.com/2021/05/dark-web-getting-loaded-with-bogus.html"> Full Text</a>
@@ -198,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline Attackers Linked to Infamous REvil Group<a href="https://www.infosecurity-magazine.com:443/news/colonial-pipeline-attackers-linked/"> Full Text</a>
@@ -214,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA and FBI publish joint alert on DarkSide ransomware<a href="https://securityaffairs.co/wordpress/117835/malware/darkside-cisa-fbi-alert.html"> Full Text</a>
@@ -234,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 H&R Block seeks out open-source expertise to stock up on SOC talent<a href="https://www.scmagazine.com/home/security-news/network-security/hr-block-seeks-out-open-source-expertise-to-stock-up-on-soc-talent/"> Full Text</a>
@@ -250,7 +266,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manchester City Council Exposes Number Plates of Over 60,000 Cars Charged with Parking Tickets<a href="https://www.theregister.com/2021/05/13/manchester_numberplate_blunder_open_data/?&web_view=true"> Full Text</a>
@@ -266,7 +282,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four Year On: Two-thirds of Global Firms Still Exposed to WannaCry<a href="https://www.infosecurity-magazine.com:443/news/twothirds-global-firms-exposed/"> Full Text</a>
@@ -282,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Navigating the waters of maritime cybersecurity<a href="https://www.helpnetsecurity.com/2021/05/12/maritime-cybersecurity/?&web_view=true"> Full Text</a>
@@ -298,7 +314,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attackers Now Using Triple Extortion Tactics Against Victims’ Customers, Partners, and Other Third-Parties<a href="https://www.techrepublic.com/article/ransomware-attackers-are-now-using-triple-extortion-tactics/?&web_view=true"> Full Text</a>
@@ -314,7 +330,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US President Biden Signs Executive Order to Bolster Federal Government’s Cybersecurity<a href="https://www.nytimes.com/2021/05/12/us/politics/biden-cybersecurity-executive-order.html?&web_view=true"> Full Text</a>
@@ -330,7 +346,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beyond Lazarus: North Korean cyber-threat groups become top-tier, ‘reckless’ adversaries<a href="https://portswigger.net/daily-swig/beyond-lazarus-north-korean-cyber-threat-groups-become-top-tier-reckless-adversaries?&web_view=true"> Full Text</a>
@@ -346,7 +362,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 30,000 VoIP Devices Identifiable Worldwide<a href="https://cybernews.com/privacy/30-thousand-voip-devices-identifiable-worldwide/?&web_view=true"> Full Text</a>
