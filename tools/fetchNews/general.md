@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global cybersecurity leaders say they feel unprepared for attack:&nbsp;report<a href="https://thehill.com//policy/cybersecurity/553016-global-cybersecurity-leaders-say-they-feel-unprepared-for-attack-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of global chief information security officers (CISOs) surveyed as part of a report released Wednesday said they feel their organizations are unprepared to face a cyberattack, despite many believing they will face an attack in the next year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Everyone had to rethink security’: What Microsoft learned from a chaotic year<a href="https://www.scmagazine.com/remote-access/everyone-had-to-rethink-how-they-think-about-security-what-microsoft-learned-from-a-chaotic-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Corporate Vice President of Security, Compliance and Identity Vasu Jakkal spoke to SC Media about lessons learned from the year that brought COVID and, in particular, the Solarigate/ SUNBURST campaign.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home Working Parents and Young Adults Are Most Risky IT Users<a href="https://www.infosecurity-magazine.com:443/news/home-working-parents-young-adults/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP Inc study warns of blurred lines between work and personal lives
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Removal of Fraudulent URLs Jumped 15-Fold in 2020, NCSC Says<a href="https://hotforsecurity.bitdefender.com/blog/removal-of-fraudulent-urls-jumped-15-fold-in-2020-ncsc-says-25802.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2020, The National Cyber Security Centre’s (NCSC) Active Cyber Defense (ACD) program managed to curb the online scam economy in a record-breaking takedown of 700,595 scams.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why threat hunting is obsolete without context<a href="https://www.helpnetsecurity.com/2021/05/11/threat-hunting-context/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunting is implemented by IT professionals to find dormant or active threats on their network to better understand and harness network visibility and threat actor entry points.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

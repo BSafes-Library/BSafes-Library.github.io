@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+167 counterfeit apps used for financial scams against Android and iOS users<a href="https://www.scmagazine.com/home/security-news/mobile-security/167-counterfeit-apps-used-for-financial-scams-against-android-and-ios-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found 167 counterfeit Android and iOS apps that attackers used to steal money from victims who believed they installed a financial trading, banking or cryptocurrency app from a trusted provider.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Cybercriminals Abusing Search Advertisements to Promote Phishing Sites<a href="https://therecord.media/fbi-warns-of-cybercriminals-abusing-search-ads-to-promote-phishing-sites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI says that cybercrime gangs are using search results and search engine ads to lure victims on phishing sites for financial institutions in order to collect their login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trust Wallet, MetaMask crypto wallets targeted by new support scam<a href="https://www.bleepingcomputer.com/news/security/trust-wallet-metamask-crypto-wallets-targeted-by-new-support-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trust Wallet and MetaMask wallet users are being targeted in ongoing and aggressive Twitter phishing attacks to steal cryptocurrency funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

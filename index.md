@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMBs increasingly face same cyber threats as large enterprises<a href="https://www.scmagazine.com/home/security-news/network-security/smbs-increasingly-face-same-cyber-threats-as-large-enterprises/"> Full Text</a>
@@ -50,7 +50,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden issues executive order to increase U.S. cybersecurity defenses<a href="https://www.bleepingcomputer.com/news/security/biden-issues-executive-order-to-increase-us-cybersecurity-defenses/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes four critical vulnerabilities that pose risk to both data and infrastructure<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-fixes-four-critical-vulnerabilities-that-pose-risk-to-both-data-and-infrastructure/"> Full Text</a>
@@ -82,7 +82,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden signs massive order on cybersecurity<a href="https://www.scmagazine.com/home/government/biden-signs-massive-order-on-cybersecurity/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden signs executive order to improve federal cybersecurity following major hacks<a href="https://thehill.com//policy/cybersecurity/553243-biden-signs-executive-order-to-improve-federal-cybersecurity-following"> Full Text</a>
@@ -114,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Global cybersecurity leaders say they feel unprepared for attack | Senate Commerce Committee advances Biden's FTC nominee Lina Khan | Senate panel approves bill that would invest billions in tech<a href="https://thehill.com//policy/technology/overnights/553237-hillicon-valley-global-cybersecurity-leaders-say-they-feel"> Full Text</a>
@@ -130,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Companies Need to Treat User Data and Manage Their Partners<a href="https://securityaffairs.co/wordpress/117837/security/user-data-privacy-security.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline restarting operations after cyberattack<a href="https://thehill.com//policy/energy-environment/553224-granholm-colonial-to-restart-operations-today"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report finds old misconfiguration woes continue to hammer corporate clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/report-finds-old-misconfiguration-woes-continue-to-hammer-corporate-clouds/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for May 2021 fix 4 critical flaws<a href="https://securityaffairs.co/wordpress/117830/security/microsoft-patch-tuesday-may-2021.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 167 counterfeit apps used for financial scams against Android and iOS users<a href="https://www.scmagazine.com/home/security-news/mobile-security/167-counterfeit-apps-used-for-financial-scams-against-android-and-ios-users/"> Full Text</a>
@@ -218,7 +218,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Energy Sector Witnesses a Rise in Cyberattacks<a href="https://cyware.com/news/energy-sector-witnesses-a-rise-in-cyberattacks-57ce01ed"> Full Text</a>
@@ -234,7 +234,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Flag e-Voting Security Flaws<a href="https://threatpost.com/e-voting-security-flaws/166110/"> Full Text</a>
@@ -250,7 +250,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline has no plans to pay ransom for files: report<a href="https://thehill.com//policy/cybersecurity/overnights/553198-colonial-pipeline-has-no-plans-to-pay-ransom-for-files-report"> Full Text</a>
@@ -266,7 +266,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lemon Duck Cryptominer has Made a Comeback<a href="https://cyware.com/news/lemon-duck-cryptominer-has-made-a-comeback-508e2495"> Full Text</a>
@@ -282,7 +282,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram Fraudsters Ramp Up Forged COVID-19 Vaccine Card Sales<a href="https://threatpost.com/telegram-forged-covid-19-vaccine-cards/166093/"> Full Text</a>
@@ -298,7 +298,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House lawmakers roll out bill to invest $500 million in state and local cybersecurity<a href="https://thehill.com//policy/cybersecurity/553176-house-lawmakers-roll-out-bill-to-invest-500-million-in-state-and-local"> Full Text</a>
@@ -314,7 +314,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SVR Cyber Operators are Taking Intelligence Advisories Seriously<a href="https://cyware.com/news/svr-cyber-operators-are-taking-intelligence-advisories-seriously-639e5721"> Full Text</a>
@@ -330,7 +330,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Use Fake Android and iOS Apps Disguised as Trading and Cryptocurrency Apps to Conduct Fraud<a href="https://news.sophos.com/en-us/2021/05/12/fake-android-and-ios-apps-disguise-as-trading-and-cryptocurrency-apps/?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Sophos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Triple Combo of DoubleDrop, DoubleDrag, and DoubleBack Malware<a href="https://cyware.com/news/a-triple-combo-of-doubledrop-doubledrag-and-doubleback-malware-cee0a030"> Full Text</a>
@@ -362,7 +362,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes WSUS bug blocking May Windows security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wsus-bug-blocking-may-windows-security-updates/"> Full Text</a>
@@ -378,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 21Nails Exim Bugs and Remote Code Execution: Beware<a href="https://cyware.com/news/21nails-exim-bugs-and-remote-code-execution-beware-b00ea34c"> Full Text</a>
@@ -394,7 +394,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unstoppable Cyberattacks on Healthcare Facilities<a href="https://cyware.com/news/unstoppable-cyberattacks-on-healthcare-facilities-3b5dd273"> Full Text</a>
@@ -410,7 +410,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Analysis on FiveHands Ransomware<a href="https://cyware.com/news/cisa-analysis-on-fivehands-ransomware-7d6bf5d6"> Full Text</a>
@@ -426,7 +426,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Dive into the Consequences of Ransomware Payoffs<a href="https://cyware.com/news/a-dive-into-the-consequences-of-ransomware-payoffs-a5af5beb"> Full Text</a>
@@ -442,7 +442,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Cybercriminals Abusing Search Advertisements to Promote Phishing Sites<a href="https://therecord.media/fbi-warns-of-cybercriminals-abusing-search-ads-to-promote-phishing-sites/?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microvirtualization at the heart of new HP hardware line<a href="https://www.scmagazine.com/virtualization/microvirtualization-at-the-heart-of-new-hp-hardware-line/"> Full Text</a>
@@ -474,7 +474,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ghostwriter: A Russia-Linked Influence Campaign<a href="https://cyware.com/news/ghostwriter-a-russia-linked-influence-campaign-51f90ed0"> Full Text</a>
@@ -490,7 +490,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Threat actors target aviation orgs with new malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-threat-actors-target-aviation-orgs-with-new-malware/"> Full Text</a>
@@ -506,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Frag Attacks’ Vulnerabilities in WiFi Standard Affect WiFi-enabled Devices Dating Back to 1997<a href="https://therecord.media/wifi-devices-going-back-to-1997-vulnerable-to-new-frag-attacks/?&web_view=true"> Full Text</a>
@@ -522,7 +522,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gig Workers Paid $500 for Payroll Passwords<a href="https://threatpost.com/gig-workers-paid-payroll-passwords/166086/"> Full Text</a>
@@ -538,7 +538,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trust Wallet, MetaMask crypto wallets targeted by new support scam<a href="https://www.bleepingcomputer.com/news/security/trust-wallet-metamask-crypto-wallets-targeted-by-new-support-scam/"> Full Text</a>
@@ -554,7 +554,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber risk management startup VisibleRisk secures $25M<a href="https://venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/?&web_view=true"> Full Text</a>
@@ -570,7 +570,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FragAttacks vulnerabilities expose all WiFi devices to hack<a href="https://securityaffairs.co/wordpress/117819/hacking/wifi-fragattacks.html"> Full Text</a>
@@ -590,7 +590,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wyden pushes for information on federal agencies' Zoom use, citing security concerns<a href="https://thehill.com//policy/cybersecurity/553104-wyden-pushes-for-information-on-federal-agencies-zoom-use-citing"> Full Text</a>
@@ -606,7 +606,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches High-Severity Flaws in Business One, NetWeaver Products<a href="https://www.securityweek.com/sap-patches-high-severity-flaws-business-one-netweaver-products?&web_view=true"> Full Text</a>
@@ -622,7 +622,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity startup Panaseer raises $26.5M Series B led by AllegisCyber Capital<a href="https://techcrunch.com/2021/05/11/cybersecurity-startup-panaseer-raises-26-5m-series-b-led-allegiscyber-capital/?&web_view=true"> Full Text</a>
@@ -638,7 +638,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘FragAttacks’: Wi-Fi Bugs Affect Millions of Devices<a href="https://threatpost.com/fragattacks-wifi-bugs-millions-devices/166080/"> Full Text</a>
@@ -654,7 +654,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea orders urgent review of energy infrastructure cybersecurity<a href="https://www.theregister.com/2021/05/12/south_korea_security_review/?&web_view=true"> Full Text</a>
@@ -670,7 +670,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Doxxed After Ransom Dispute<a href="https://www.infosecurity-magazine.com:443/news/police-doxxed-after-ransom-dispute/"> Full Text</a>
@@ -686,7 +686,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's new project ports Linux eBPF to Windows 10, Server<a href="https://www.bleepingcomputer.com/news/security/microsofts-new-project-ports-linux-ebpf-to-windows-10-server/"> Full Text</a>
@@ -702,7 +702,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Domestic Abuse Cases Involve Tech<a href="https://www.infosecurity-magazine.com:443/news/more-domestic-abuse-cases-involve/"> Full Text</a>
@@ -718,7 +718,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shining a Light on DARKSIDE Ransomware Operations<a href="https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html?&web_view=true"> Full Text</a>
@@ -734,7 +734,7 @@ FireEye
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INTERPOL Launches Digital Piracy Project<a href="https://www.infosecurity-magazine.com:443/news/interpol-launches-digital-piracy/"> Full Text</a>
@@ -750,7 +750,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK's Computer Misuse Act to be reviewed, says Home Secretary as she condemns ransomware payoffs<a href="https://www.theregister.com/2021/05/11/computer_misuse_act_review_priti_patel/?&web_view=true"> Full Text</a>
@@ -766,7 +766,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Government Drafts New Legislation to Force Tech Firms to Tackle Online Abuse<a href="https://www.infosecurity-magazine.com:443/news/uk-government-legislation-tech/"> Full Text</a>
@@ -782,7 +782,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple service provider Jamf buys zero-trust software vendor Wandera for $400 million<a href="https://www.zdnet.com/article/apple-service-provider-jamf-buys-zero-trust-software-vendor-wandera-for-400-million/?&web_view=true"> Full Text</a>
@@ -798,7 +798,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Companies' 5 Million Personal identifiable information records detected on an AWS service due to misconception of users<a href="https://blog.checkpoint.com/2021/05/11/companies-5-million-personal-identifiable-information-records-detected-on-an-aws-service-due-to-misconception-of-users/?&web_view=true"> Full Text</a>
@@ -814,7 +814,7 @@ Check Point Research
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberspace Is Neither Just an Intelligence Contest, nor a Domain of Military Conflict; SolarWinds Shows Us Why It’s Both<a href="https://www.lawfareblog.com/cyberspace-neither-just-intelligence-contest-nor-domain-military-conflict-solarwinds-shows-us-why"> Full Text</a>
@@ -830,7 +830,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2021
+May 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maybe don’t call Saul? Over 30,000 VoIP devices identifiable worldwide, some with suspected vulnerabilities<a href="https://securityaffairs.co/wordpress/117820/hacking/voip-devices-exposed-onlin.html"> Full Text</a>

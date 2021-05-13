@@ -11,6 +11,144 @@ nav_order: 900220
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes four critical vulnerabilities that pose risk to both data and infrastructure<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-fixes-four-critical-vulnerabilities-that-pose-risk-to-both-data-and-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Products affected by the Microsoft vulnerabilities include Hyper-V, Internet Explorer, Windows Server, and Windows 10.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for May 2021 fix 4 critical flaws<a href="https://securityaffairs.co/wordpress/117830/security/microsoft-patch-tuesday-may-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday for May 2021 security updates addressed 55 vulnerabilities, four are rated as Critical.
+
+
+
+Microsoft Patch Tuesday for May 2021 security updates address 55 vulnerabilities in Microsoft Windows, .NET Core and Visual Studio, Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Flag e-Voting Security Flaws<a href="https://threatpost.com/e-voting-security-flaws/166110/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paper ballots and source-code transparency are recommended to improve election security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes WSUS bug blocking May Windows security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wsus-bug-blocking-may-windows-security-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has resolved a known issue&nbsp;preventing&nbsp;managed devices from receiving&nbsp;the May 2021 Patch Tuesday security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Frag Attacks’ Vulnerabilities in WiFi Standard Affect WiFi-enabled Devices Dating Back to 1997<a href="https://therecord.media/wifi-devices-going-back-to-1997-vulnerable-to-new-frag-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Belgian security researcher has discovered a series of vulnerabilities that impact the WiFi standard, with some bugs dating back as far back as 1997 and affecting devices sold for the past 24 years.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FragAttacks vulnerabilities expose all WiFi devices to hack<a href="https://securityaffairs.co/wordpress/117819/hacking/wifi-fragattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher discovered a series of flaws, collectively tracked as FragAttacks, that impact the WiFi devices sold for the past 24 years.
+
+
+
+Belgian security researcher Mathy Vanhoef disclosed the details of a multiple vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches High-Severity Flaws in Business One, NetWeaver Products<a href="https://www.securityweek.com/sap-patches-high-severity-flaws-business-one-netweaver-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant SAP has released a total of six new security notes on its May 2021 Security Patch Day, along with updates for five other security notes, including three rated Hot News.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘FragAttacks’: Wi-Fi Bugs Affect Millions of Devices<a href="https://threatpost.com/fragattacks-wifi-bugs-millions-devices/166080/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wi-Fi devices going back to 1997 are vulnerable to attackers who can steal your data if they’re in range.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maybe don’t call Saul? Over 30,000 VoIP devices identifiable worldwide, some with suspected vulnerabilities<a href="https://securityaffairs.co/wordpress/117820/hacking/voip-devices-exposed-onlin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of public-facing devices can be accessed anywhere in the world, from the US to Russia, from London to Johannesburg. Our research shows that large and small manufacturers are identifiable, with Aastra-Mitel topping the list.
+
+
+
+As with many...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 All Wi-Fi devices impacted by new FragAttacks vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/all-wi-fi-devices-impacted-by-new-fragattacks-vulnerabilities/"> Full Text</a>
 </p>
 <details>

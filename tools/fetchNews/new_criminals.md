@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Fake Android and iOS Apps Disguised as Trading and Cryptocurrency Apps to Conduct Fraud<a href="https://news.sophos.com/en-us/2021/05/12/fake-android-and-ios-apps-disguise-as-trading-and-cryptocurrency-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These fraudulent applications are aimed at exploiting the increased interest in trading apps, driven by the recent significant rise in the value of cryptocurrencies and interest in stock trading.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

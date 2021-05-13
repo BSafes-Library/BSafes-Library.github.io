@@ -8,6 +8,76 @@ nav_order: 900027
 
 ## Business
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microvirtualization at the heart of new HP hardware line<a href="https://www.scmagazine.com/virtualization/microvirtualization-at-the-heart-of-new-hp-hardware-line/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The crown jewel security feature is HP’s micro-virtualization and isolation technology, which shift risky activities to hardware-enforced virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber risk management startup VisibleRisk secures $25M<a href="https://venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round — which comes as VisibleRisk launches a new risk assessment service, Cyber Rating — will be used to expand the company’s workforce well into this year.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Panaseer raises $26.5M Series B led by AllegisCyber Capital<a href="https://techcrunch.com/2021/05/11/cybersecurity-startup-panaseer-raises-26-5m-series-b-led-allegiscyber-capital/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Existing investors, including Evolution Equity Partners, Notion Capital, AlbionVC, Cisco Investments and Paladin Capital Group, as well as new investor National Grid Partners, also participated.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's new project ports Linux eBPF to Windows 10, Server<a href="https://www.bleepingcomputer.com/news/security/microsofts-new-project-ports-linux-ebpf-to-windows-10-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has launched a new open-source project that aims to add to Windows the benefits of eBPF, a technology first implemented in Linux that allows attaching programs in both kernel and user applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple service provider Jamf buys zero-trust software vendor Wandera for $400 million<a href="https://www.zdnet.com/article/apple-service-provider-jamf-buys-zero-trust-software-vendor-wandera-for-400-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple enterprise support services provider Jamf this afternoon said it will acquire nine-year-old startup Wandera of San Francisco, a provider of cloud-based software for "zero trust" security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

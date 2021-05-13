@@ -8,6 +8,118 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Wi-Fi devices impacted by new FragAttacks vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/all-wi-fi-devices-impacted-by-new-fragattacks-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered Wi-Fi security vulnerabilities collectively known as FragAttacks (fragmentation and aggregation attacks) are impacting all Wi-Fi devices (including computers, smartphones, and smart devices)&nbsp;going back as far as 1997.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: 328 weaknesses found by WA Auditor-General in 50 local government systems<a href="https://www.zdnet.com/article/328-weaknesses-found-by-wa-auditor-general-in-50-local-government-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The computer systems of 50 Western Australian local government entities were probed and the result was the finding of 328 control weaknesses, with 33 considered as significant by the Auditor-General.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly All Wi-Fi Devices Are Vulnerable to New FragAttacks<a href="https://thehackernews.com/2021/05/nearly-all-wifi-devices-are-vulnerable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three design and multiple implementation flaws have been disclosed in IEEE 802.11 technical standard that undergirds Wi-Fi, potentially enabling an adversary to take control over a system and plunder confidential data.  Called&nbsp; FragAttacks &nbsp;(short for FRgmentation and AGgregation attacks), the weaknesses impact all Wi-Fi security protocols, from Wired Equivalent Privacy (WEP) all the way to Wi-Fi Protected Access 3 (WPA3), thus virtually putting almost every wireless-enabled device at risk of attack.  "An adversary that is within radio range of a victim can abuse these vulnerabilities to steal user information or attack devices," Mathy Vanhoef, a security academic at New York University Abu Dhabi, said. "Experiments indicate that every Wi-Fi product is affected by at least one vulnerability and that most products are affected by several vulnerabilities."  IEEE 802.11 provides the basis for all modern devices using the Wi-Fi family of network protocols, allowing lap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Time to patch against FragAttacks but good luck with home routers and IoT devices<a href="https://www.zdnet.com/article/time-to-patch-against-fragattacks-but-good-luck-with-home-routers-and-iot-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several of the flaws relate to the ability to inject plaintext frames, as well as certain devices accepting any unencrypted frame or plaintext aggregated frames that look like handshake messages.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Microsoft Windows Updates Patch Dozens of Security Flaws<a href="https://thehackernews.com/2021/05/latest-microsoft-windows-updates-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out its scheduled&nbsp; monthly security update &nbsp;with patches for 55 security flaws affecting Windows, Exchange Server, Internet Explorer, Office, Hyper-V, Visual Studio, and Skype for Business.  Of these 55 bugs, four are rated as Critical, 50 are rated as Important, and one is listed as Moderate in severity. Three of the vulnerabilities are publicly known, although, unlike&nbsp; last month , none of them are under active exploitation at the time of release.   The most critical of the flaws addressed is&nbsp; CVE-2021-31166 , a wormable remote code execution vulnerability in the HTTP protocol stack. The issue, which could allow an unauthenticated attacker to send a specially crafted packet to a targeted server, is rated 9.8 out of a maximum of 10 on the CVSS scale.  Another vulnerability of note is a remote code execution flaw in Hyper-V ( CVE-2021-28476 ), which also scores  the highest severity among all flaws patched this month with a CVSS rating of 9.9.  "This i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes Exchange Server Zero-Day in May Patch Tuesday<a href="https://www.infosecurity-magazine.com:443/news/microsoft-exchange-server-zeroday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bug was first disclosed in Pwn2Own competition last month
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of Government Security Incidents Caused by Missing Patches<a href="https://www.infosecurity-magazine.com:443/news/half-government-incidents-missing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Risks are driving IT modernization push, according to BAE Systems
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Hackers Exploit Adobe Reader 0-Day Vulnerability in the Wild<a href="https://thehackernews.com/2021/05/alert-hackers-exploit-adobe-reader-0.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released&nbsp; Patch Tuesday updates &nbsp;for the month of May with fixes for multiple vulnerabilities spanning 12 different products, including a zero-day flaw affecting Adobe Reader that's actively exploited in the wild.  The list of updated applications includes Adobe Experience Manager , Adobe InDesign , Adobe Illustrator , Adobe InCopy , Adobe Genuine Service , Adobe Acrobat and Reader, Magento , Adobe Creative Cloud Desktop  Application, Adobe Media Encoder , Adobe After Effects , Adobe Medium, and Adobe Animate.   In a security bulletin, the company&nbsp; acknowledged &nbsp;it received reports that the flaw "has been exploited in the wild in limited attacks targeting Adobe Reader users on Windows." Tracked as CVE-2021-28550, the zero-day concerns an arbitrary code execution flaw that could allow adversaries to execute virtually any command on target systems.   While the targeted attacks took aim at Windows users of Adobe Reader, the issue affects both Windows and macOS ver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

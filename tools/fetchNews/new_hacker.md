@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gig Workers Paid $500 for Payroll Passwords<a href="https://threatpost.com/gig-workers-paid-payroll-passwords/166086/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Argyle is paying workers to help hack payroll providers, researchers suspect.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

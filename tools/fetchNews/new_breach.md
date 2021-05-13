@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies' 5 Million Personal identifiable information records detected on an AWS service due to misconception of users<a href="https://blog.checkpoint.com/2021/05/11/companies-5-million-personal-identifiable-information-records-detected-on-an-aws-service-due-to-misconception-of-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During this research, CPR detected several SSM documents that led to the discovery of over 5 million Personally identifiable information records and credit card transactions for several companies.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

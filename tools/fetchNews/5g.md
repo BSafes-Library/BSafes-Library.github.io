@@ -8,6 +8,24 @@ nav_order: 800050
 
 ## 5G
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA and ODNI analyze potential risks to 5G networks<a href="https://securityaffairs.co/wordpress/117802/security/5g-networks-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Intelligence agencies warn of weaknesses in 5G networks that could be exploited by crooks and nation-state actors for intelligence gathering.
+
+
+
+The U.S. National Security Agency (NSA), along with the DHS Cybersecurity and Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

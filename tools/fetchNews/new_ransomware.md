@@ -11,6 +11,90 @@ nav_order: 900180
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline has no plans to pay ransom for files: report<a href="https://thehill.com//policy/cybersecurity/overnights/553198-colonial-pipeline-has-no-plans-to-pay-ransom-for-files-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline&nbsp;has no plans&nbsp;to&nbsp;pay the ransom after a cyber attack on their operations, two people familiar with the matter told The Washington Post&nbsp;on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Analysis on FiveHands Ransomware<a href="https://cyware.com/news/cisa-analysis-on-fivehands-ransomware-7d6bf5d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has published a report on the FiveHands ransomware deployed by an aggressively financially motivated group - UNC2447. The campaign involved extortion incidents between January and February.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Dive into the Consequences of Ransomware Payoffs<a href="https://cyware.com/news/a-dive-into-the-consequences-of-ransomware-payoffs-a5af5beb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware operators have adopted various extortion tactics to make their victims pay up, it's important to take a look at key statistics on victims paying or not paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Doxxed After Ransom Dispute<a href="https://www.infosecurity-magazine.com:443/news/police-doxxed-after-ransom-dispute/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Washington DC Metropolitan Police records allegedly leaked online during National Policing Week
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shining a Light on DARKSIDE Ransomware Operations<a href="https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In addition to providing builds of DARKSIDE ransomware, the operators of this service also maintain a blog accessible via TOR. This site is also used to pressure victims into paying ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's Computer Misuse Act to be reviewed, says Home Secretary as she condemns ransomware payoffs<a href="https://www.theregister.com/2021/05/11/computer_misuse_act_review_priti_patel/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK Home Secretary Priti Patel has promised a government review of the UK's 30-year-old Computer Misuse Act "this year" as well as condemning companies that buy off ransomware criminals.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gang Leaks Metropolitan Police Data After Failed Negotiations<a href="https://thehackernews.com/2021/05/ransomware-gang-leaks-metropolitan.html"> Full Text</a>
 </p>
 <details>
