@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden issues executive order to increase U.S. cybersecurity defenses<a href="https://www.bleepingcomputer.com/news/security/biden-issues-executive-order-to-increase-us-cybersecurity-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed an executive order Wednesday to modernize the country's defenses against cyberattacks and give more timely access to information necessary for law enforcement to conduct investigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes four critical vulnerabilities that pose risk to both data and infrastructure<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-fixes-four-critical-vulnerabilities-that-pose-risk-to-both-data-and-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Products affected by the Microsoft vulnerabilities include Hyper-V, Internet Explorer, Windows Server, and Windows 10.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs massive order on cybersecurity<a href="https://www.scmagazine.com/home/government/biden-signs-massive-order-on-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden signed a long-awaited executive order on cybersecurity, covering everything from federal procurement standards for private sector contractors to IoT security labels.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden signs executive order to improve federal cybersecurity following major hacks<a href="https://thehill.com//policy/cybersecurity/553243-biden-signs-executive-order-to-improve-federal-cybersecurity-following"> Full Text</a>
 </p>
 <details>
