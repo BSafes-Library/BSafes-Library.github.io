@@ -8,6 +8,98 @@ nav_order: 900075
 
 ## Government
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI Provide Technical Details and Mitigations for DarkSide Ransomware-as-a-Service<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/05/11/joint-cisa-fbi-cybersecurity-advisory-darkside-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darkside ransomware gang first emerged in the threat landscape in August 2020. In recent months, the ransomware group was very active and targeted organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+ICSA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Executive Order Mandates Zero Trust and Strong Encryption<a href="https://www.infosecurity-magazine.com:443/news/biden-executive-order-zero-trust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wide-ranging measures win praise from industry experts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Signs Executive Order on Cybersecurity<a href="https://www.lawfareblog.com/biden-signs-executive-order-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed an executive order on May 12, 2021, intended to address the country’s cybersecurity issues following the SolarWinds hack. The executive order, divided into 10 sections, includes components that set cybersecurity standards for federal contractors, remove barriers to the sharing of information, modernize federal government cybersecurity and attempt to improve “the integrity of the software supply chain,” among other priorities.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signed executive order to improve the Nation’s Cybersecurity<a href="https://securityaffairs.co/wordpress/117847/security/biden-executive-order-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden signed an ambitious&nbsp;executive order to dramatically improve the security of the US government networks.
+
+
+
+President Biden signed an executive order this week to improve the country's defenses against cyberattacks, it is an important...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA and FBI publish joint alert on DarkSide ransomware<a href="https://securityaffairs.co/wordpress/117835/malware/darkside-cisa-fbi-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI and DHS's CISA have published a joint alert on DarkSide ransomware activity after the disruptive attack on Colonial Pipeline.
+
+
+
+FBI and DHS's CISA have published a joint alert to warn of ransomware attacks conducted by the DarkSide group. The alert...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US President Biden Signs Executive Order to Bolster Federal Government’s Cybersecurity<a href="https://www.nytimes.com/2021/05/12/us/politics/biden-cybersecurity-executive-order.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move is part of a broad effort to strengthen the United States’ defenses by encouraging private companies to practice better cybersecurity or risk being locked out of federal contracts.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

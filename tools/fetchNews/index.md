@@ -34,6 +34,334 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto exchange glitch causes duplicate purchases, delayed credits<a href="https://www.bleepingcomputer.com/news/security/crypto-exchange-glitch-causes-duplicate-purchases-delayed-credits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, recurring glitches on the popular cryptocurrency exchange Crypto.com caused multi-day delays for users in receiving their purchased assets. Moreover, those reattempting "declined" or "expired" transactions were charged multiple times for duplicate purchases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI Provide Technical Details and Mitigations for DarkSide Ransomware-as-a-Service<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/05/11/joint-cisa-fbi-cybersecurity-advisory-darkside-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darkside ransomware gang first emerged in the threat landscape in August 2020. In recent months, the ransomware group was very active and targeted organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+ICSA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can Data Protection Systems Prevent Data At Rest Leakage?<a href="https://thehackernews.com/2021/05/can-data-protection-systems-prevent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protection against insider risks works when the process involves controlling the data transfer channels or examining data sources.  One approach involves preventing USB flash drives from being copied or sending them over email. The second one concerns preventing leakage or fraud in which an insider accesses files or databases with harmful intentions.  What's the best way to protect your data?  It seems obvious that prevention is the best way to solve any problem. In most cases, DCAP (data-centric audit and protection) and DAM (database activity monitoring) is sufficient. Both serve the purpose of protecting data at rest.  The following example illustrates the approach we found in the Russian legal system.  An employee of the Federal Migration Service in one of the Russian regions was approached by his friend, who asked him to hide information about two offenses in his file in the migrant database. The employee knew that this could be done remotely, accessed the database from home,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Executive Order Mandates Zero Trust and Strong Encryption<a href="https://www.infosecurity-magazine.com:443/news/biden-executive-order-zero-trust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wide-ranging measures win praise from industry experts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Signs Executive Order on Cybersecurity<a href="https://www.lawfareblog.com/biden-signs-executive-order-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed an executive order on May 12, 2021, intended to address the country’s cybersecurity issues following the SolarWinds hack. The executive order, divided into 10 sections, includes components that set cybersecurity standards for federal contractors, remove barriers to the sharing of information, modernize federal government cybersecurity and attempt to improve “the integrity of the software supply chain,” among other priorities.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signed executive order to improve the Nation’s Cybersecurity<a href="https://securityaffairs.co/wordpress/117847/security/biden-executive-order-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden signed an ambitious executive order to dramatically improve the security of the US government networks.
+
+
+
+President Biden signed an executive order this week to improve the country's defenses against cyberattacks, it is an important...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Publishing exploits early doesn’t encourage patching or help defense, data shows<a href="https://www.scmagazine.com/home/patch-management/publishing-exploits-early-doesnt-encourage-patching-or-help-defense-data-shows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite debate in the threat intel community, a new study finds that publishing exploits before patches are available does more harm than good.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Critical Password Security Rules Your Employees Are Ignoring<a href="https://threatpost.com/5-password-security-rules-employees-ignoring/165686/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Keeper Security’s Workplace Password Malpractice Report, many remote workers aren’t following best practices for password security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK government releases free cyber-threat warning tool at annual CyberUK conference<a href="https://portswigger.net/daily-swig/uk-government-releases-free-cyber-threat-warning-tool-at-annual-cyberuk-conference?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool, called Early Warning, is the latest Active Cyber Defence (ACD) service from the NCSC, and was launched on the opening day of the government agency’s annual conference.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Getting Loaded With Bogus Covid-19 Vaccines and Forged Cards<a href="https://thehackernews.com/2021/05/dark-web-getting-loaded-with-bogus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bogus COVID-19 test results, fraudulent vaccination cards, and questionable vaccines are emerging a hot commodity on the dark web in what's the latest in a long list of cybercrimes  capitalizing  on the  coronavirus  pandemic.  "A new and troubling phenomenon is that consumers are buying COVID-19 vaccines on the black market due to the increased demand around the world,"  said  Anne An, a senior security researcher at McAfee's Advanced Programs Group (APG). "As a result, illegal COVID-19 vaccines and vaccination records are in high demand on darknet marketplaces."  The growing demand and the race towards achieving herd immunity means at least a dozen underground marketplaces are peddling COVID-19 related merchandise, with Pfizer-BioNTech vaccines purchasable for $500 per dose from top-selling vendors who rely on services like Wickr, Telegram, WhatsApp, and Gmail for advertising and communications.   Darknet listings for the supposed vaccines are being sold
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Attackers Linked to Infamous REvil Group<a href="https://www.infosecurity-magazine.com:443/news/colonial-pipeline-attackers-linked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+East coast fuel pipeline slowly resumes operations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA and FBI publish joint alert on DarkSide ransomware<a href="https://securityaffairs.co/wordpress/117835/malware/darkside-cisa-fbi-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI and DHS's CISA have published a joint alert on DarkSide ransomware activity after the disruptive attack on Colonial Pipeline.
+
+
+
+FBI and DHS's CISA have published a joint alert to warn of ransomware attacks conducted by the DarkSide group. The alert...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+H&R Block seeks out open-source expertise to stock up on SOC talent<a href="https://www.scmagazine.com/home/security-news/network-security/hr-block-seeks-out-open-source-expertise-to-stock-up-on-soc-talent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open source experience can help propel professionals’ careers and bring diversity of thought to a security team. SC Media spoke to Carraig Stanwyck, H&R Block’s manager of global security operations, and Bernard Brantley, CISO at Corelight, to hear more.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manchester City Council Exposes Number Plates of Over 60,000 Cars Charged with Parking Tickets<a href="https://www.theregister.com/2021/05/13/manchester_numberplate_blunder_open_data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drivers who picked up parking tickets during April-July 2020 had their identities exposed, thanks to the council forgetting to delete the number plates from the uploaded spreadsheets.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Year On: Two-thirds of Global Firms Still Exposed to WannaCry<a href="https://www.infosecurity-magazine.com:443/news/twothirds-global-firms-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ExtraHop finds most enterprises are running insecure SMB protocol
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating the waters of maritime cybersecurity<a href="https://www.helpnetsecurity.com/2021/05/12/maritime-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this year, the U.S. government released a first of its kind National Maritime Cyber Security Plan (NMCP), accompanying recent maritime cybersecurity directives from the U.S. Coast Guard.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Now Using Triple Extortion Tactics Against Victims’ Customers, Partners, and Other Third-Parties<a href="https://www.techrepublic.com/article/ransomware-attackers-are-now-using-triple-extortion-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this tactic, the criminals send ransom demands not only to the attacked organization but to any customers, users, or other third parties that would be hurt by the leaked data.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US President Biden Signs Executive Order to Bolster Federal Government’s Cybersecurity<a href="https://www.nytimes.com/2021/05/12/us/politics/biden-cybersecurity-executive-order.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move is part of a broad effort to strengthen the United States’ defenses by encouraging private companies to practice better cybersecurity or risk being locked out of federal contracts.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond Lazarus: North Korean cyber-threat groups become top-tier, ‘reckless’ adversaries<a href="https://portswigger.net/daily-swig/beyond-lazarus-north-korean-cyber-threat-groups-become-top-tier-reckless-adversaries?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over recent years, North Korea has evolved from a nuisance to its neighbor South Korea and purveyor of ransomware and DDoS attacks to become the scourge of banks and cryptocurrency exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30,000 VoIP Devices Identifiable Worldwide<a href="https://cybernews.com/privacy/30-thousand-voip-devices-identifiable-worldwide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified 38,335 public-facing VOIP/SIP devices worldwide. Aastra-Mitel tops the manufacturer list, the United States leads the list among countries, and London tops the chart for cities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

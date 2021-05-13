@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Now Using Triple Extortion Tactics Against Victims’ Customers, Partners, and Other Third-Parties<a href="https://www.techrepublic.com/article/ransomware-attackers-are-now-using-triple-extortion-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this tactic, the criminals send ransom demands not only to the attacked organization but to any customers, users, or other third parties that would be hurt by the leaked data.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Getting Loaded With Bogus Covid-19 Vaccines and Forged Cards<a href="https://thehackernews.com/2021/05/dark-web-getting-loaded-with-bogus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bogus COVID-19 test results, fraudulent vaccination cards, and questionable vaccines are emerging a hot commodity on the dark web in what's the latest in a long list of cybercrimes&nbsp; capitalizing &nbsp;on the&nbsp; coronavirus &nbsp;pandemic.  "A new and troubling phenomenon is that consumers are buying COVID-19 vaccines on the black market due to the increased demand around the world,"&nbsp; said &nbsp;Anne An, a senior security researcher at McAfee's Advanced Programs Group (APG). "As a result, illegal COVID-19 vaccines and vaccination records are in high demand on darknet marketplaces."  The growing demand and the race towards achieving herd immunity means at least a dozen underground marketplaces are peddling COVID-19 related merchandise, with Pfizer-BioNTech vaccines purchasable for $500 per dose from top-selling vendors who rely on services like Wickr, Telegram, WhatsApp, and Gmail for advertising and communications.   Darknet listings for the supposed vaccines are being sold
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900005
 
 ## Accident
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto exchange glitch causes duplicate purchases, delayed credits<a href="https://www.bleepingcomputer.com/news/security/crypto-exchange-glitch-causes-duplicate-purchases-delayed-credits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, recurring&nbsp;glitches on the popular cryptocurrency exchange Crypto.com caused multi-day delays for users in receiving&nbsp;their purchased assets. Moreover, those reattempting "declined" or "expired" transactions were charged multiple times for duplicate purchases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

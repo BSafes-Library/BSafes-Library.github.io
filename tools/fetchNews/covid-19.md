@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram Fraudsters Ramp Up Forged COVID-19 Vaccine Card Sales<a href="https://threatpost.com/telegram-forged-covid-19-vaccine-cards/166093/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new type of fraud is spiking across the platform: Selling fake vax records to people who want to lie their way into places where proof of vaccine is required.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

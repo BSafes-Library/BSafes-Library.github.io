@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline restarting operations after cyberattack<a href="https://thehill.com//policy/energy-environment/553224-granholm-colonial-to-restart-operations-today"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline announced Wednesday that it has begun a restart of its operations after a cyberattack forced the company to shut down late last week,&nbsp;leading to gas shortages on the East Coast.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

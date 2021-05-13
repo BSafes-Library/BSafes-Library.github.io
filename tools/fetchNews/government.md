@@ -11,6 +11,104 @@ nav_order: 900075
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden issues executive order to increase U.S. cybersecurity defenses<a href="https://www.bleepingcomputer.com/news/security/biden-issues-executive-order-to-increase-us-cybersecurity-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed an executive order Wednesday to modernize the country's defenses against cyberattacks and give more timely access to information necessary for law enforcement to conduct investigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs massive order on cybersecurity<a href="https://www.scmagazine.com/home/government/biden-signs-massive-order-on-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden signed a long-awaited executive order on cybersecurity, covering everything from federal procurement standards for private sector contractors to IoT security labels.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs executive order to improve federal cybersecurity following major hacks<a href="https://thehill.com//policy/cybersecurity/553243-biden-signs-executive-order-to-improve-federal-cybersecurity-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Wednesday signed an executive order aimed at improving federal cybersecurity, with the order coming on the heels of multiple major and&nbsp;damaging cyberattacks including the one on the Colonial Pipeline.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers roll out bill to invest $500 million in state and local cybersecurity<a href="https://thehill.com//policy/cybersecurity/553176-house-lawmakers-roll-out-bill-to-invest-500-million-in-state-and-local"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Wednesday rolled out legislation that would provide state and local governments with $500 million annually to defend against cyberattacks, which have escalated over the past year during the COVID-19 pandemic.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wyden pushes for information on federal agencies' Zoom use, citing security concerns<a href="https://thehill.com//policy/cybersecurity/553104-wyden-pushes-for-information-on-federal-agencies-zoom-use-citing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Ron Wyden (D-Ore.) on Wednesday drilled the General Services Administration (GSA) around its ongoing approval of video conferencing app Zoom for government use, despite security vulnerabilities discovered by researchers in recent years.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea orders urgent review of energy infrastructure cybersecurity<a href="https://www.theregister.com/2021/05/12/south_korea_security_review/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Minister of Trade, Industry, and Energy Moon Seung-wook convened a meeting yesterday, saying it was needed considering the attack on Colonial Pipeline, one of the USA’s main oil transport facilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Drafts New Legislation to Force Tech Firms to Tackle Online Abuse<a href="https://www.infosecurity-magazine.com:443/news/uk-government-legislation-tech/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill will cover a range of online harms, including child sexual abuse, harassment, and fraud
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #CYBERUK21: Foreign Secretary Sets Out UK’s Global Cyber Vision<a href="https://www.infosecurity-magazine.com:443/news/cyberuk21-foreign-secretary-uks/"> Full Text</a>
 </p>
 <details>

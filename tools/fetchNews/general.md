@@ -8,6 +8,150 @@ nav_order: 900072
 
 ## General
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMBs increasingly face same cyber threats as large enterprises<a href="https://www.scmagazine.com/home/security-news/network-security/smbs-increasingly-face-same-cyber-threats-as-large-enterprises/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time since the Verizon Data Breach Investigations Report began tracking cyberattack techniques, threat patterns affecting small and medium businesses began to closely align with the patterns affecting large firms.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Global cybersecurity leaders say they feel unprepared for attack | Senate Commerce Committee advances Biden's FTC nominee Lina Khan | Senate panel approves bill that would invest billions in tech<a href="https://thehill.com//policy/technology/overnights/553237-hillicon-valley-global-cybersecurity-leaders-say-they-feel"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting out with some good news tonight: Colonial Pipeline is back online after shutting down over a cyberattack last weekend. Meanwhile, a number of global chief information security officers said they think their organizations are unprepared to face a cyberattack, according to a report released Wednesday. The Senate Commerce Committee advanced President BidenJoe BidenKinzinger, Gaetz get in back-and-forth on Twitter over Cheney vote Cheney in defiant floor speech:&nbsp;Trump on 'crusade to undermine our democracy' US officials testify on domestic terrorism in wake of Capitol attack MORE’s nominee to the Federal Trade Commission, Lina Khan, and to approve legislation that would invest billions in science and emerging technologies in an effort to compete with China.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Companies Need to Treat User Data and Manage Their Partners<a href="https://securityaffairs.co/wordpress/117837/security/user-data-privacy-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the introduction of CCPA and GDPR, much more attention is given to third-party risks, and the privacy terms and conditions users agree to.&nbsp;
+
+
+
+Global privacy regulations, such as the CCPA and GDPR, were enacted to ensure stricter standards...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report finds old misconfiguration woes continue to hammer corporate clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/report-finds-old-misconfiguration-woes-continue-to-hammer-corporate-clouds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured storage buckets and leaky APIs remain two of the top causes behind cloud breaches.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy Sector Witnesses a Rise in Cyberattacks<a href="https://cyware.com/news/energy-sector-witnesses-a-rise-in-cyberattacks-57ce01ed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The energy sector worldwide is witnessing increasing cyber risks, with one of the largest fuel pipeline systems in the U.S. now becoming a ransomware attack victim. Such disruptions could lead to devastating outcomes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SVR Cyber Operators are Taking Intelligence Advisories Seriously<a href="https://cyware.com/news/svr-cyber-operators-are-taking-intelligence-advisories-seriously-639e5721"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. security agencies have issued advisories against highly dangerous cyber threats from Russian Foreign Intelligence Service (SVR) operators (APT29, Cozy Bear, and Dukes), and the threat actors are adapting accordingly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unstoppable Cyberattacks on Healthcare Facilities<a href="https://cyware.com/news/unstoppable-cyberattacks-on-healthcare-facilities-3b5dd273"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it has been more than a year since the pandemic struck and the world lost more than 3 million lives, threat actors are still hell-bent on disrupting the networks of healthcare facilities, with no concern for human lives.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghostwriter: A Russia-Linked Influence Campaign<a href="https://cyware.com/news/ghostwriter-a-russia-linked-influence-campaign-51f90ed0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2020, a cyber-enabled influence campaign, dubbed Ghostwriter, was spotted. It mainly targeted Poland, Lithuania, and Latvia. However, based on some developments reported by researchers, the campaign has been attributed to an uncategorized threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Domestic Abuse Cases Involve Tech<a href="https://www.infosecurity-magazine.com:443/news/more-domestic-abuse-cases-involve/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK experts report rise in number of domestic abuse cases involving complex use of digital technology
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace Is Neither Just an Intelligence Contest, nor a Domain of Military Conflict; SolarWinds Shows Us Why It’s Both<a href="https://www.lawfareblog.com/cyberspace-neither-just-intelligence-contest-nor-domain-military-conflict-solarwinds-shows-us-why"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Future conversation needs to move beyond the military versus intelligence contest binary construct to more meaningfully explore how states may seek to use cyberspace for multiple objectives, either in sequence or in parallel.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
