@@ -9,6 +9,18 @@ nav_order: 800
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• DIGITAL DOMINION: How the Syrian regime’s mass digital surveillance violates human rights [HTML](https://papers.bsafes.com/docs/privacy/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Assad regime conducts mass electronic and digital monitoring of its people. Anyone who dares to voice opposition or fails to proclaim their loyalty is deemed dangerous and quickly falls under suspicion.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 •  Are Terrorist Networks Just Glorifified Criminal Cells? [HTML](https://papers.bsafes.com/docs/cybercrime/are-terrorist-networks-just-glorified-criminal-cells/)
 </p>
 <details>
