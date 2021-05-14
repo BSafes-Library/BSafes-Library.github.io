@@ -9,6 +9,18 @@ nav_order: 800
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+•  Are Terrorist Networks Just Glorifified Criminal Cells? [HTML](https://papers.bsafes.com/docs/cybercrime/are-terrorist-networks-just-glorified-criminal-cells/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The notions of organized crime and terrorism have an old and rich history around the globe. Researchers and practitioners have been studying events and phenomena related to these notions for a long time. There are pointers in the literature in which it is misleading to see the unfair comparison between terrorist and criminal networks with the argument that all actors involved in these networks are simply evil individuals.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 •  Jack Voltaic 3.0 Cyber Research Report [HTML](https://papers.bsafes.com/docs/internet/jack-voltaic-3-0-cyber-research-report/)
 </p>
 <details>
@@ -405,6 +417,17 @@ Few concepts are more widely discussed and poorly understood in today’s blockc
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• A Review on Emerging Threats and Vulnerabilities in Internet of Things and its Applications [HTML](https://papers.bsafes.com/docs/internet-of-things/a-review-on-emerging-threats-and-vulnerabilities-in-internet-of-things-and-its-applications/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Nowadays, Internet of Things (IoT) plays a crucial part in the area of Information Technology (IT). At present, providing security to information has become one of the difficult tasks. Recently, the IoT and the devices connected on it have accepted a sizeable attention towards the research. The IoT is contemplated as the future of the Internet.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January, 2020 
