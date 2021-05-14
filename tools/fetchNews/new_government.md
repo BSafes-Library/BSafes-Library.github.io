@@ -11,6 +11,48 @@ nav_order: 900075
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Everything You Need to Know about the New Executive Order on Cybersecurity<a href="https://www.lawfareblog.com/everything-you-need-know-about-new-executive-order-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden Administration has released its much-anticipated Executive Order aiming to improve federal cybersecurity standards and other aspects of cybersecurity.&nbsp; Here’s what you need to know.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden says Colonial Pipeline hackers based in Russia, but not government-backed<a href="https://thehill.com//policy/cybersecurity/553386-biden-says-colonial-pipeline-hackers-based-in-russia-but-not-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Thursday confirmed that the cyber criminals involved in launching a ransomware attack that disrupted operations at Colonial Pipeline last week are likely based in Russia, though he said officials do not believe that the Russian government was involved.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pelosi says firms should not pay ransoms to hackers<a href="https://thehill.com//homenews/house/553374-pelosi-says-firms-should-not-pay-ransoms-to-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Speaker Nancy Pelosi (D-Calif.) warned Thursday that private firms should reject hackers' demands for ransoms, just hours after reports emerged that a major energy company had paid almost $5 million to help restore service following a crippling ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA and FBI Provide Technical Details and Mitigations for DarkSide Ransomware-as-a-Service<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/05/11/joint-cisa-fbi-cybersecurity-advisory-darkside-ransomware?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

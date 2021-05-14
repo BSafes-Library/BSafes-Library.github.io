@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manchester City Council Exposes Number Plates of Over 60,000 Cars Charged with Parking Tickets<a href="https://www.theregister.com/2021/05/13/manchester_numberplate_blunder_open_data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drivers who picked up parking tickets during April-July 2020 had their identities exposed, thanks to the council forgetting to delete the number plates from the uploaded spreadsheets.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

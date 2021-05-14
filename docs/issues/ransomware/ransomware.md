@@ -11,6 +11,104 @@ nav_order: 900180
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chemical distributor pays $4.4 million to DarkSide ransomware<a href="https://www.bleepingcomputer.com/news/security/chemical-distributor-pays-44-million-to-darkside-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chemical distribution company Brenntag paid a $4.4 million ransom in Bitcoin to the DarkSide ransomware gang to receive a decryptor for encrypted files and prevent the threat actors from publicly leaking stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Paid Hackers Nearly $5 Million in Ransom<a href="https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Co. paid nearly $5 million to Eastern European hackers on Friday, contradicting reports earlier this week that the company had no intention of paying an extortion fee.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline restores operations, $5 million ransom demanded<a href="https://www.bleepingcomputer.com/news/security/colonial-pipeline-restores-operations-5-million-ransom-demanded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Company has recovered quickly from the ransomware attack suffered less than a week ago and expects all its infrastructure to be fully operational today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial paid hackers almost $5M in ransom: report<a href="https://thehill.com//policy/energy-environment/553330-colonial-paid-hackers-almost-5m-in-ransom-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline paid almost $5 million in ransom to hackers last Friday despite reports that said the company had no intention of paying, Bloomberg news&nbsp;reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet Lorenz — A new ransomware gang targeting the enterprise<a href="https://www.bleepingcomputer.com/news/security/meet-lorenz-a-new-ransomware-gang-targeting-the-enterprise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation known as Lorenz targets organizations worldwide with customized attacks demanding hundreds of thousands of dollars in ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Green Energy Company Volue Hit by Ransomware Attack<a href="https://www.securityweek.com/green-energy-company-volue-hit-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway-based green energy solutions provider Volue has been working on restoring systems after being targeted in a ransomware attack by the Ryuk operators which was detected on May 5.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA fully restores systems after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-fully-restores-systems-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading US-based insurance company CNA Financial has fully restored&nbsp;systems following a&nbsp;Phoenix CryptoLocker ransomware attack that disrupted&nbsp;its online services and business operations during late March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attackers Now Using Triple Extortion Tactics Against Victims’ Customers, Partners, and Other Third-Parties<a href="https://www.techrepublic.com/article/ransomware-attackers-are-now-using-triple-extortion-tactics/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

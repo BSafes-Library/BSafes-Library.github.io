@@ -30,6 +30,7 @@
 
 Alerts:
 . https://us-cert.cisa.gov/ncas/current-activity/2021/05/11/joint-cisa-fbi-cybersecurity-advisory-darkside-ransomware?&web_view=true
+. https://threatpost.com/pipeline-biden-darkside-gas-bags/166112/
 
 Law:
 

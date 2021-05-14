@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Attackers Linked to Infamous REvil Group<a href="https://www.infosecurity-magazine.com:443/news/colonial-pipeline-attackers-linked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+East coast fuel pipeline slowly resumes operations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond Lazarus: North Korean cyber-threat groups become top-tier, ‘reckless’ adversaries<a href="https://portswigger.net/daily-swig/beyond-lazarus-north-korean-cyber-threat-groups-become-top-tier-reckless-adversaries?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over recent years, North Korea has evolved from a nuisance to its neighbor South Korea and purveyor of ransomware and DDoS attacks to become the scourge of banks and cryptocurrency exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

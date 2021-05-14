@@ -11,6 +11,34 @@ nav_order: 900029
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 source code, credentials accessed in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/rapid7-source-code-credentials-accessed-in-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US cybersecurity firm Rapid7 has disclosed that some source code repositories were accessed in a security incident linked to the supply-chain attack that recently impacted customers of the popular Codecov code coverage tool.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7: Attackers got ‘limited access’ to source code, customer data after Codecov breach<a href="https://www.scmagazine.com/home/security-news/data-breach/rapid7-attackers-got-limited-access-to-source-code-customer-data-after-codecov-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company claims no other systems or parts of its corporate network were compromised after using Codecov’s corrupted Bash Uploader script.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Manchester City Council Exposes Number Plates of Over 60,000 Cars Charged with Parking Tickets<a href="https://www.theregister.com/2021/05/13/manchester_numberplate_blunder_open_data/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

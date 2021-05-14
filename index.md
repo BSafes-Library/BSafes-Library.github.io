@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chemical distributor pays $4.4 million to DarkSide ransomware<a href="https://www.bleepingcomputer.com/news/security/chemical-distributor-pays-44-million-to-darkside-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple's Find My network can be abused to leak secrets to the outside world via passing devices<a href="https://www.theregister.com/2021/05/12/apples_find_network/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Colonial pipeline is back online, but concerns remain | Uber, Lyft struggle with driver supply | Apple cuts controversial hire<a href="https://thehill.com//policy/technology/overnights/553473-hillicon-valley-colonial-pipeline-is-back-online-but-concerns"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-bullying Spawns Artistic Protest<a href="https://www.infosecurity-magazine.com:443/news/cyberbullying-spawns-artistic/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everything You Need to Know about the New Executive Order on Cybersecurity<a href="https://www.lawfareblog.com/everything-you-need-know-about-new-executive-order-cybersecurity"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security at Bay: Critical Infrastructure Under Attack<a href="https://securityaffairs.co/wordpress/117876/security/critical-infrastructure-hacking.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developers knowingly push flawed code, doubt build environments are secure<a href="https://www.scmagazine.com/application-security/developers-knowingly-push-flawed-code-doubt-build-environments-are-secure/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fresh Loader Targets Aviation Victims with Spy RATs<a href="https://threatpost.com/loader-aviation-spy-rats/166133/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7 source code, credentials accessed in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/rapid7-source-code-credentials-accessed-in-codecov-supply-chain-attack/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline Paid Hackers Nearly $5 Million in Ransom<a href="https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Bloomberg
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden says Colonial Pipeline hackers based in Russia, but not government-backed<a href="https://thehill.com//policy/cybersecurity/553386-biden-says-colonial-pipeline-hackers-based-in-russia-but-not-government"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-attacks Cost Small US Businesses $25k Annually<a href="https://www.infosecurity-magazine.com:443/news/cyberattacks-cost-small-us/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Please vote Security Affairs – 1 day left<a href="https://securityaffairs.co/wordpress/117865/breaking-news/vote-security-affairs.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7: Attackers got ‘limited access’ to source code, customer data after Codecov breach<a href="https://www.scmagazine.com/home/security-news/data-breach/rapid7-attackers-got-limited-access-to-source-code-customer-data-after-codecov-breach/"> Full Text</a>
@@ -290,7 +290,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pipeline Update: Biden Executive Order, DarkSide Detailed and Gas Bags<a href="https://threatpost.com/pipeline-biden-darkside-gas-bags/166112/"> Full Text</a>
@@ -306,7 +306,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline restores operations, $5 million ransom demanded<a href="https://www.bleepingcomputer.com/news/security/colonial-pipeline-restores-operations-5-million-ransom-demanded/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transparent Tribe APT Expands its Windows Malware Arsenal with ObliqueRAT<a href="https://blog.talosintelligence.com/2021/05/transparent-tribe-infra-and-targeting.html?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pelosi says firms should not pay ransoms to hackers<a href="https://thehill.com//homenews/house/553374-pelosi-says-firms-should-not-pay-ransoms-to-hackers"> Full Text</a>
@@ -354,7 +354,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Consumers Unforgiving of Merchants’ Data Failings<a href="https://www.infosecurity-magazine.com:443/news/consumers-unforgiving-of-merchants/"> Full Text</a>
@@ -370,7 +370,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations in aerospace and travel sectors under attack, Microsoft warns<a href="https://securityaffairs.co/wordpress/117858/cyber-crime/microsoft-aerospace-travel-sectors-attacks.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft build tool abused to deliver password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-build-tool-abused-to-deliver-password-stealing-malware/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-powered identity access management platform Authomize raises $16M<a href="https://venturebeat.com/2021/05/13/ai-powered-identity-access-management-platform-authomize-raises-22m/?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial paid hackers almost $5M in ransom: report<a href="https://thehill.com//policy/energy-environment/553330-colonial-paid-hackers-almost-5m-in-ransom-report"> Full Text</a>
@@ -438,7 +438,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021  -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Record Number of Breaches Detected Amid #COVID19<a href="https://www.infosecurity-magazine.com:443/news/record-breaches-detected-covid/"> Full Text</a>
@@ -454,7 +454,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes AnyConnect Client VPN zero-day disclosed in November<a href="https://securityaffairs.co/wordpress/117855/security/cisco-anyconnect-zero-day.html"> Full Text</a>
@@ -474,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meet Lorenz — A new ransomware gang targeting the enterprise<a href="https://www.bleepingcomputer.com/news/security/meet-lorenz-a-new-ransomware-gang-targeting-the-enterprise/"> Full Text</a>
@@ -490,7 +490,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norwegian Green Energy Company Volue Hit by Ransomware Attack<a href="https://www.securityweek.com/green-energy-company-volue-hit-ransomware?&web_view=true"> Full Text</a>
@@ -506,7 +506,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance giant CNA fully restores systems after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-fully-restores-systems-after-ransomware-attack/"> Full Text</a>
@@ -522,7 +522,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes 6-month-old AnyConnect VPN zero-day with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-6-month-old-anyconnect-vpn-zero-day-with-exploit-code/"> Full Text</a>
@@ -538,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Code-scanning platform BluBracket nabs $12M for enterprise security<a href="https://venturebeat.com/2021/05/13/code-scanning-platform-blubracket-nabs-12m-for-enterprise-security/?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+H&amp;R Block seeks out open-source expertise to stock up on SOC talent<a href="https://www.scmagazine.com/home/security-news/network-security/hr-block-seeks-out-open-source-expertise-to-stock-up-on-soc-talent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open source experience can help propel professionals’ careers and bring diversity of thought to a security team. SC Media spoke to Carraig Stanwyck, H&amp;R Block’s manager of global security operations, and Bernard Brantley, CISO at Corelight, to hear more.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

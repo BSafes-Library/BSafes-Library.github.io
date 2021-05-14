@@ -11,6 +11,90 @@ nav_order: 900072
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Can Data Protection Systems Prevent Data At Rest Leakage?<a href="https://thehackernews.com/2021/05/can-data-protection-systems-prevent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protection against insider risks works when the process involves controlling the data transfer channels or examining data sources.  One approach involves preventing USB flash drives from being copied or sending them over email. The second one concerns preventing leakage or fraud in which an insider accesses files or databases with harmful intentions.  What's the best way to protect your data?  It seems obvious that prevention is the best way to solve any problem. In most cases, DCAP (data-centric audit and protection) and DAM (database activity monitoring) is sufficient. Both serve the purpose of protecting data at rest.  The following example illustrates the approach we found in the Russian legal system.  An employee of the Federal Migration Service in one of the Russian regions was approached by his friend, who asked him to hide information about two offenses in his file in the migrant database. The employee knew that this could be done remotely, accessed the database from home,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Publishing exploits early doesn’t encourage patching or help defense, data shows<a href="https://www.scmagazine.com/home/patch-management/publishing-exploits-early-doesnt-encourage-patching-or-help-defense-data-shows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite debate in the threat intel community, a new study finds that publishing exploits before patches are available does more harm than good.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Critical Password Security Rules Your Employees Are Ignoring<a href="https://threatpost.com/5-password-security-rules-employees-ignoring/165686/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Keeper Security’s Workplace Password Malpractice Report, many remote workers aren’t following best practices for password security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Year On: Two-thirds of Global Firms Still Exposed to WannaCry<a href="https://www.infosecurity-magazine.com:443/news/twothirds-global-firms-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ExtraHop finds most enterprises are running insecure SMB protocol
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating the waters of maritime cybersecurity<a href="https://www.helpnetsecurity.com/2021/05/12/maritime-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this year, the U.S. government released a first of its kind National Maritime Cyber Security Plan (NMCP), accompanying recent maritime cybersecurity directives from the U.S. Coast Guard.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30,000 VoIP Devices Identifiable Worldwide<a href="https://cybernews.com/privacy/30-thousand-voip-devices-identifiable-worldwide/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified 38,335 public-facing VOIP/SIP devices worldwide. Aastra-Mitel tops the manufacturer list, the United States leads the list among countries, and London tops the chart for cities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SMBs increasingly face same cyber threats as large enterprises<a href="https://www.scmagazine.com/home/security-news/network-security/smbs-increasingly-face-same-cyber-threats-as-large-enterprises/"> Full Text</a>
 </p>
 <details>
