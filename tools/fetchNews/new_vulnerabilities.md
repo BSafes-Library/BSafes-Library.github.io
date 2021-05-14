@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Patches Vulnerability in Workspace App for Windows<a href="https://www.securityweek.com/citrix-patches-vulnerability-workspace-app-windows?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-22907, the flaw could be exploited by local attackers to escalate their privileges to SYSTEM level. All supported versions of Citrix Workspace app for Windows are affected by it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FortiGuard Labs Discovers Multiple Critical Zero Day Vulnerabilities in Adobe Illustrator<a href="https://www.fortinet.com/blog/threat-research/fortiguard-labs-discovers-multiple-critical-zero-day-vulnerabilities-in-adobe-illustrator?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+They are identified as CVE-2021-21103, CVE-2021-21104, and CVE-2021-21105. All these vulnerabilities have different root causes related to a variety of Illustrator Plugins.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cross-browser tracking vulnerability tracks you via installed apps<a href="https://www.bleepingcomputer.com/news/security/cross-browser-tracking-vulnerability-tracks-you-via-installed-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed a way to track a user across different browsers on the same machine by querying the installed applications on the device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

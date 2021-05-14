@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scheme flooding fingerprint technique may deanonymize Tor users<a href="https://securityaffairs.co/wordpress/117933/digital-id/fingerprinting-technique-scheme-flooding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FingerprintJS experts devised a fingerprinting technique, named scheme flooding, that could allow identifying users across different desktop browsers, including the Tor Browser.
+
+
+
+FingerprintJS experts devised a new fingerprinting technique, named scheme...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

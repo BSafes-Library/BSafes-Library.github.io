@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon worker alleges security had keys to mailbox used in union vote | Facebook loses bid to block Irish watchdog's data flow decision | Lawmakers move to defend pipelines against cyber threats<a href="https://thehill.com//policy/technology/overnights/553646-hillicon-valley-amazon-worker-alleges-security-had-keys-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A worker at Amazon’s Bessemer, Ala. facility dropped a big allegation about security guards having access to a mailbox during the unionization election at a National Labor Relations Board hearing Friday. Meanwhile, Facebook lost a bid to block an Irish watchdog's draft decision that could suspend the tech giant’s ability to transfer data from the U.S. to the EU, and bipartisan groups of House lawmakers rolled out two pieces of legislation to protect critical infrastructure against cyberattacks following the ransomware attack on Colonial Pipeline.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+If We Don’t Secure People, Information Security Will Remain a Pipe Dream<a href="https://www.lawfareblog.com/if-we-dont-secure-people-information-security-will-remain-pipe-dream"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Until employees are appropriately safeguarded, true information security is likely to remain just beyond reach.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report to Your Management with the Definitive 'Incident Response for Management' Presentation Template<a href="https://thehackernews.com/2019/10/cybersecurity-incident-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security incidents occur. It's not a matter of 'if' but of 'when.' There are security products and procedures that were implemented to optimize the IR process, so from the 'security-professional' angle, things are taken care of.   However, many security pros who are doing an excellent job in handling incidents find effectively communicating the ongoing process with their management a much more challenging task.   It's a little surprise — managements are typically not security savvy and don't really care about the bits and bytes in which the security pro masters. Cynet addresses this gap with the IR Reporting for Management PPT template , providing CISOs and CIOs with a clear and intuitive tool to report both the ongoing IR process and its conclusion.   The IR for Management template enables CISOs and CIOs to communicate with the two key points that management cares about—assurance that the incident is under control and a clear understanding of imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quarter of CISOs Self-Medicate as Pandemic Stress Spikes<a href="https://www.infosecurity-magazine.com:443/news/quarter-cisos-it-selfmedicate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneLogin claims only half have access to mental health services
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Big Cybersecurity Tips For Remote Workers Who Use Their Own Tech<a href="https://thehackernews.com/2021/05/big-cybersecurity-tips-for-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the total number of people working from home has grown dramatically in the last year or two, so has the number of individuals who use all of their own technology for their jobs. If you're a remote worker who relies on your own PC to get your work done, then you may be at a heightened risk for some of the major threats that are impacting the computer industry as a whole.  Relatively few people take all of the recommended precautions when using their own technology. While it's unlikely that people are engaged in any riskier behaviors than they were before, the fact that few people have the time to follow all the relevant pieces of cybersecurity news means some people might be unaware of certain active threats. That may explain how a password manager was&nbsp; used to install malicious code &nbsp;on a large number of client machines.  Though you might not want to follow all of the news that comes out about security issues on a daily basis, you might find it helpful to pay close attentio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers knowingly push flawed code, doubt build environments are secure<a href="https://www.scmagazine.com/application-security/developers-knowingly-push-flawed-code-doubt-build-environments-are-secure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey found that most development teams, 81%,  knowingly pushed flawed code live, and 20% senior of managers even admitted to committing this practice often.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes AnyConnect Client VPN zero-day disclosed in November<a href="https://securityaffairs.co/wordpress/117855/security/cisco-anyconnect-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a zero-day in the Cisco AnyConnect Secure Mobility Client VPN software, with publicly available proof-of-concept exploit code.
+
+
+
+Cisco has addressed a zero-day vulnerability in Cisco&nbsp;AnyConnect Secure Mobility Client, tracked as CVE-2020-3556,&nbsp;that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes 6-month-old AnyConnect VPN zero-day with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-6-month-old-anyconnect-vpn-zero-day-with-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has fixed a six-month-old zero-day vulnerability found in the&nbsp;Cisco AnyConnect Secure Mobility Client VPN software, with publicly available proof-of-concept exploit code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

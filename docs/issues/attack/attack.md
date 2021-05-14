@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toshiba unit hacked by DarkSide, conglomerate to undergo strategic review<a href="https://www.reuters.com/article/us-toshiba-cyber/toshibas-european-business-hit-by-cyberattack-source-idUSKBN2CV0AV?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toshiba Tec Corp, which makes products such as bar code printers and is valued at $2.3 billion, was hacked by DarkSide - the group behind the Colonial Pipeline attack, its French subsidiary said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 says source code, credentials accessed as a Rresult of Codecov supply-chain attack<a href="https://securityaffairs.co/wordpress/117879/data-breach/rapid7-codecov-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 disclosed that unauthorized third-party had access to source code and customer data as result of Codecov supply chain attack.
+
+
+
+Cyber security vendor Rapid7 reveals it was impacted by the Codecov software supply chain attack, attackers had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

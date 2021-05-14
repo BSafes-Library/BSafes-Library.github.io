@@ -34,7 +34,667 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware ads now also banned on Exploit cybercrime forum<a href="https://www.bleepingcomputer.com/news/security/ransomware-ads-now-also-banned-on-exploit-cybercrime-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team behind Exploit, a major cybercrime forum used by ransomware gangs to hire affiliates and advertise their Ransomware-as-a-Service (RaaS) services, has announced that ransomware ads are now banned and will be removed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toshiba unit hacked by DarkSide, conglomerate to undergo strategic review<a href="https://www.reuters.com/article/us-toshiba-cyber/toshibas-european-business-hit-by-cyberattack-source-idUSKBN2CV0AV?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toshiba Tec Corp, which makes products such as bar code printers and is valued at $2.3 billion, was hacked by DarkSide - the group behind the Colonial Pipeline attack, its French subsidiary said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon worker alleges security had keys to mailbox used in union vote | Facebook loses bid to block Irish watchdog's data flow decision | Lawmakers move to defend pipelines against cyber threats<a href="https://thehill.com//policy/technology/overnights/553646-hillicon-valley-amazon-worker-alleges-security-had-keys-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A worker at Amazon’s Bessemer, Ala. facility dropped a big allegation about security guards having access to a mailbox during the unionization election at a National Labor Relations Board hearing Friday. Meanwhile, Facebook lost a bid to block an Irish watchdog's draft decision that could suspend the tech giant’s ability to transfer data from the U.S. to the EU, and bipartisan groups of House lawmakers rolled out two pieces of legislation to protect critical infrastructure against cyberattacks following the ransomware attack on Colonial Pipeline. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Microsoft Build Engine to Deliver Malware Filelessly<a href="https://thehackernews.com/2021/05/hackers-using-microsoft-build-engine-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing Microsoft Build Engine (MSBuild) to filelessly deliver remote access trojans and password-stealing malware on targeted Windows systems.  The actively ongoing campaign is said to have emerged last month, researchers from cybersecurity firm Anomali  said  on Thursday, adding the malicious build files came embedded with encoded executables and shellcode that deploy  backdoors , allowing the adversaries to take control of the victims' machines and steal sensitive information.  MSBuild is an open-source build tool for .NET and Visual Studio developed by Microsoft that allows for compiling source code, packaging, testing, deploying applications.   In using MSBuild to filelessly compromise a machine, the idea is to stay under the radar and thwart detection, as such malware makes use of a legitimate application to load the attack code into memory, thereby leaving no traces of infection on the system and giving attackers a high level of stealth.   As of writing, o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lemonade Denies “Unforgivably Negligent” Security Gaffe<a href="https://www.infosecurity-magazine.com:443/news/lemonade-denies-security-gaffe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurtech company says alleged lapse was merely customers sharing their quotes online
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+If We Don’t Secure People, Information Security Will Remain a Pipe Dream<a href="https://www.lawfareblog.com/if-we-dont-secure-people-information-security-will-remain-pipe-dream"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Until employees are appropriately safeguarded, true information security is likely to remain just beyond reach.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scheme flooding fingerprint technique may deanonymize Tor users<a href="https://securityaffairs.co/wordpress/117933/digital-id/fingerprinting-technique-scheme-flooding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FingerprintJS experts devised a fingerprinting technique, named scheme flooding, that could allow identifying users across different desktop browsers, including the Tor Browser.
+
+
+
+FingerprintJS experts devised a new fingerprinting technique, named scheme...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RevengeRAT and AysncRAT target aerospace and travel sectors<a href="https://www.scmagazine.com/home/security-news/phishing/revengerat-and-aysncrat-target-aerospace-and-travel-sectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+a campaign of remote access trojans  is targeting the aerospace and travel industries with spear-phishing emails that distribute an actively developed loader, which then delivers RevengeRAT or AysncRAT.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Backdoor Masquerades as Ethical Hacking Tool<a href="https://threatpost.com/fin7-backdoor-ethical-hacking-tool/166194/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated cybercrime gang behind the Carbanak RAT is back with the Lizar malware, which can harvest all kinds of info from Windows machines.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 14th 2021 - One down, many more to go<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-14th-2021-one-down-many-more-to-go/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware took the media spotlight this week after a ransomware gang known as DarkSide targeted critical infrastructure in the USA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Are Now Leaking Stolen Data More Often<a href="https://cyware.com/news/ransomware-gangs-are-now-leaking-stolen-data-more-often-a43085c6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say more than 2,100 companies had their data leaked over data leak sites hosted by ransomware groups since 2019, suggesting cybercriminals are doing it more  frequently to  extort from their victims.  Other cybercriminals are expected to follow the suit in the future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers roll out legislation to defend pipelines against cyber threats<a href="https://thehill.com//policy/cybersecurity/553598-lawmakers-roll-out-legislation-to-defend-pipelines-against-cyber-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of more than a dozen House lawmakers have reintroduced legislation to defend pipelines against cyberattacks, with the bill coming on the heels of the devastating ransomware attack that forced the shutdown of Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report to Your Management with the Definitive 'Incident Response for Management' Presentation Template<a href="https://thehackernews.com/2019/10/cybersecurity-incident-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security incidents occur. It's not a matter of 'if' but of 'when.' There are security products and procedures that were implemented to optimize the IR process, so from the 'security-professional' angle, things are taken care of.   However, many security pros who are doing an excellent job in handling incidents find effectively communicating the ongoing process with their management a much more challenging task.   It's a little surprise — managements are typically not security savvy and don't really care about the bits and bytes in which the security pro masters. Cynet addresses this gap with the IR Reporting for Management PPT template , providing CISOs and CIOs with a clear and intuitive tool to report both the ongoing IR process and its conclusion.   The IR for Management template enables CISOs and CIOs to communicate with the two key points that management cares about—assurance that the incident is under control and a clear understanding of imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sentences Cyber-Stalker Who Sent Sex Workers to Family’s Home<a href="https://www.infosecurity-magazine.com:443/news/cyber-stalker-okamura-sentenced/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hawaiian widower placed under 3-year supervision for cyber-stalking a Utah family
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside gang lost control of their servers and funds<a href="https://securityaffairs.co/wordpress/117918/cyber-crime/fbi-seized-darkside-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Darkside ransomware announced that they have lost control of their infrastructure and part of the funds the gang obtained from the victims.
+
+
+
+Darkside ransomware operators say they have lost control of their servers and funds resulting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In executive order, federal security provides impetus for far reaching cyber implications<a href="https://www.scmagazine.com/home/government/in-eo-federal-security-provides-impetus-for-far-reaching-cyber-implications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the core, Biden’s executive order looks to improve federal cybersecurity. But the tactics could have a trickle down impact that drive greater collaboration and improves security standards throughout industry.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon: Pandemic Ushers in ⅓ More Cyber-Misery<a href="https://threatpost.com/verizon-pandemic-cyber-misery/166168/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DBIR – Verizon’s 2021 data breach report – shows spikes in sophisticated phishing, financially motivated cyberattacks and a criminal focus on web-application servers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware servers reportedly seized, operation shuts down<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-servers-reportedly-seized-operation-shuts-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DarkSide ransomware operation has allegedly shut down after the threat actors lost access to servers and their cryptocurrency was transferred to an unknown wallet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Patches Vulnerability in Workspace App for Windows<a href="https://www.securityweek.com/citrix-patches-vulnerability-workspace-app-windows?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-22907, the flaw could be exploited by local attackers to escalate their privileges to SYSTEM level. All supported versions of Citrix Workspace app for Windows are affected by it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce bill to protect critical infrastructure against cyberattacks<a href="https://thehill.com//policy/cybersecurity/553552-lawmakers-introduce-bill-to-protect-critical-infrastructure-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rep. Elissa Slotkin (D-Mich.) and other bipartisan House lawmakers on Friday introduced legislation designed to protect critical systems against cyberattacks, a week after a ransomware attack on the Colonial Pipeline significantly disrupted the fuel supply for portions of the country.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Linked Hackers Added New Windows Malware to Its Arsenal<a href="https://thehackernews.com/2021/05/pakistan-linked-hackers-added-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals with suspected ties to Pakistan continue to rely on social engineering as a crucial component of its operations as part of an evolving espionage campaign against Indian targets, according to new research.  The attacks have been linked to a group called  Transparent Tribe , also known as Operation C-Major, APT36, and Mythic Leopard, which has created fraudulent domains mimicking legitimate Indian military and defense organizations, and other malicious domains posing as file-sharing sites to host malicious artifacts.  "While military and defense personnel continue to be the group's primary targets, Transparent Tribe is increasingly targeting diplomatic entities, defense contractors, research organizations and conference attendees, indicating that the group is expanding its targeting," researchers from Cisco Talos  said  on Thursday.   These domains are used to deliver maldocs distributing  CrimsonRAT , and ObliqueRAT, with the group incorporating new phishin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 Source Code Accessed in Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/rapid7-source-code-accessed-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company’s source code compromised during supply-chain attack on Codecov
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart gang hides PHP-based web shells in favicons<a href="https://securityaffairs.co/wordpress/117909/cyber-crime/magecart-web-shells.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Magecart cybercrime gang is using favicon to hide malicious PHP web shells used to maintain remote access to inject JavaScript skimmers into online stores.
+
+
+
+Magecart hackers are distributing malicious PHP web shells hidden in website favicon to inject...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden’s executive order aims to improve threat sharing by revising language in federal contracts<a href="https://www.scmagazine.com/home/government/bidens-executive-order-aims-to-improve-threat-sharing-by-revising-language-in-federal-contracts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If successful, the goal could mean greater partnership between government and industry, addressing decades of contracting morass that stilted sharing of information about vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of eCh0raix ransomware attacks, Roon Server zero-day<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ech0raix-ransomware-attacks-roon-server-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns customers of an actively exploited Roon Server zero-day bug and eCh0raix ransomware attacks targeting their Network Attached Storage (NAS) devices, just two weeks after alerting them of an ongoing AgeLocker ransomware outbreak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Trojan: Active and Performing Fraudulent Activities<a href="https://cyware.com/news/teabot-trojan-active-and-performing-fraudulent-activities-eaccc70d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers reported a new Android banking trojan that hijacks user credentials and text messages to distribute fraudulent activities targeting banks in Spain, Germany, the Netherlands, Belgium, and Italy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish health service forced to shut down IT systems after ransomware attack<a href="https://thehill.com//policy/cybersecurity/553534-irish-health-service-forced-to-temporarily-shut-down-after-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland’s health care system was forced to shut down its IT systems Friday following what it described as a "significant" ransomware attack that disrupted operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hackers Now hide PHP-Based Backdoor In Website Favicons<a href="https://thehackernews.com/2021/05/magecart-hackers-now-hide-php-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime groups are distributing malicious PHP web shells disguised as a favicon to maintain remote access to the compromised servers and inject JavaScript skimmers into online shopping platforms with an aim to steal financial information from their users.  "These web shells known as Smilodon or Megalodon are used to dynamically load JavaScript skimming code via server-side requests into online stores," Malwarebytes Jérôme Segura  said  in a Thursday write-up. "This technique is interesting as most client-side security tools will not be able to detect or block the skimmer."  Injecting web skimmers on e-commerce websites to steal credit card details is a tried-and-tested modus operandi of Magecart, a consortium of different hacker groups who target online shopping cart systems. Also known as formjacking attacks, the skimmers take the form of JavaScript code that the operators stealthily insert into an e-commerce website, often on payment pages, with an intent to c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland’s Healthcare System’s IT Offline Following Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/ireland-healthcare-it-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HSE Ireland reveals it has taken its IT systems offline due to a "significant ransomware attack"
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland’s Health Service Executive hit by ransomware attack<a href="https://securityaffairs.co/wordpress/117902/malware/ireland-health-service-executive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland’s Health Service Executive service shut down its IT systems after they were hit with a “significant ransomware attack.”
+
+
+
+Another major ransomware attack made the headlines, this time the victim is Ireland’s Health Service Executive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arkose Labs looks to hit cybercriminals where it hurts with $70 million cash infusion<a href="https://www.scmagazine.com/home/security-news/arkose-labs-looks-to-hit-cybercriminals-where-it-hurts-with-70-million-cash-infusion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Funds will filter in part to research and development, building upon the Arkose model of undermining economic drivers behind fraud until attackers opt out.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish healthcare shuts down IT systems after Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/irish-healthcare-shuts-down-it-systems-after-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's Health Service Executive(HSE), the country's publicly funded healthcare system, has shut down all IT systems after its network was breached in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Hacking Group Linked to Colonial Pipeline Attack Says it is Closing Down<a href="https://www.wsj.com/articles/web-site-of-darkside-hacking-group-linked-to-colonial-pipeline-attack-is-down-11621001688?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide has told associates it has lost access to the infrastructure it uses to run its operation and would be shutting down, citing pressure from law enforcement and from the U.S., FireEye said.
+</details>
+<div style="text-align: right" markdown="1">
+The Wall Street Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Alerts Aviation and Travel Firms to RAT Campaign<a href="https://www.infosecurity-magazine.com:443/news/microsoft-aviation-travel-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophisticated crypter-as-a-service ultimately leads to data theft
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline likely paid a $5M ransom to DarkSide<a href="https://securityaffairs.co/wordpress/117892/cyber-crime/colonial-pipeline-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide demanded a $5 million ransom to Colonial Pipeline, which has quickly recovered operations, did it pay?
+
+
+
+The Colonial Pipeline facility in Pelham, Alabama, was hit by a cybersecurity attack on Friday and its operators were forced to shut down...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BluBracket raises $12 million to expand operations and support a shift left in code testing<a href="https://www.scmagazine.com/home/security-news/blubracket-raises-12-million-to-expand-operations-and-support-a-shift-left-in-code-testing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code automation company BluBracket on Thursday said it raised $12 million in Series A funding so it can continue to work with DevSecOps teams to build security into products from the start and shift code development left.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snip3 Crypter Service Delivers Multiple RAT Families<a href="https://cyware.com/news/snip3-crypter-service-delivers-multiple-rat-families-5bb8563b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have recently monitored a highly sophisticated Crypter-as-a-Service that delivers multiple RAT families onto target machines through phishing emails. Besides, it has the&nbsp;ability to distinguish sandboxing and virtual environments and deliver malware accordingly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quarter of CISOs Self-Medicate as Pandemic Stress Spikes<a href="https://www.infosecurity-magazine.com:443/news/quarter-cisos-it-selfmedicate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneLogin claims only half have access to mental health services
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks by Avaddon Ransomware are Escalating<a href="https://cyware.com/news/attacks-by-avaddon-ransomware-are-escalating-9c78d868"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks by the Avaddon group are targeting organizations from several sectors based in the U.S. and worldwide. According to the FBI, the ransomware associates are breaching the networks of healthcare, manufacturing, and other private sector organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US pipeline ransomware attack serves as fair warning to persistent corporate inertia over security<a href="https://www.zdnet.com/article/us-pipeline-ransomware-attack-serves-as-fair-warning-to-persistent-corporate-inertia-over-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That companies continue to disregard the need for basic cybersecurity hygiene signals the need for firmer action, especially as cybercriminals turn their focus to operational technology sectors.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Reportedly Paid $5 Million Ransom<a href="https://www.infosecurity-magazine.com:443/news/colonial-reportedly-paid-5-million/"> Full Text</a>
@@ -50,7 +710,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Big Cybersecurity Tips For Remote Workers Who Use Their Own Tech<a href="https://thehackernews.com/2021/05/big-cybersecurity-tips-for-remote.html"> Full Text</a>
@@ -66,7 +726,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FortiGuard Labs Discovers Multiple Critical Zero Day Vulnerabilities in Adobe Illustrator<a href="https://www.fortinet.com/blog/threat-research/fortiguard-labs-discovers-multiple-critical-zero-day-vulnerabilities-in-adobe-illustrator?&web_view=true"> Full Text</a>
@@ -82,7 +742,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fidelis Buys CloudPassage To Better Monitor Cloud Assets<a href="https://www.crn.com/news/security/fidelis-buys-cloudpassage-to-better-monitor-cloud-assets?&web_view=true"> Full Text</a>
@@ -98,7 +758,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline Paid Nearly $5 Million in Ransom to Cybercriminals<a href="https://thehackernews.com/2021/05/colonial-pipeline-paid-nearly-5-million.html"> Full Text</a>
@@ -114,7 +774,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cross-browser tracking vulnerability tracks you via installed apps<a href="https://www.bleepingcomputer.com/news/security/cross-browser-tracking-vulnerability-tracks-you-via-installed-apps/"> Full Text</a>
@@ -130,7 +790,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7 Source Code Breached in Codecov Supply-Chain Attack<a href="https://thehackernews.com/2021/05/rapid7-source-code-breached-in-codecov.html"> Full Text</a>
@@ -146,7 +806,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2021
+May 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7 says source code, credentials accessed as a Rresult of Codecov supply-chain attack<a href="https://securityaffairs.co/wordpress/117879/data-breach/rapid7-codecov-supply-chain-attack.html"> Full Text</a>
@@ -166,7 +826,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2021
+May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular Russian hacking forum XSS bans all ransomware topics<a href="https://www.bleepingcomputer.com/news/security/popular-russian-hacking-forum-xss-bans-all-ransomware-topics/"> Full Text</a>

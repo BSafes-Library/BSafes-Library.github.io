@@ -11,6 +11,34 @@ nav_order: 900027
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AI-powered identity access management platform Authomize raises $16M<a href="https://venturebeat.com/2021/05/13/ai-powered-identity-access-management-platform-authomize-raises-22m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based authorization startup Authomize today announced that it raised $16 million in series A funding led by Innovation Endeavors, bringing the startup’s total raised to $22 million to date.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code-scanning platform BluBracket nabs $12M for enterprise security<a href="https://venturebeat.com/2021/05/13/code-scanning-platform-blubracket-nabs-12m-for-enterprise-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code security startup BluBracket today announced it has raised $12 million in a Series A round led by Evolution Equity Partners to further develop BluBracket’s products and grow its sales team.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 H&amp;R Block seeks out open-source expertise to stock up on SOC talent<a href="https://www.scmagazine.com/home/security-news/network-security/hr-block-seeks-out-open-source-expertise-to-stock-up-on-soc-talent/"> Full Text</a>
 </p>
 <details>

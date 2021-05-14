@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers roll out legislation to defend pipelines against cyber threats<a href="https://thehill.com//policy/cybersecurity/553598-lawmakers-roll-out-legislation-to-defend-pipelines-against-cyber-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of&nbsp;more than a dozen House lawmakers have reintroduced legislation to defend pipelines against cyberattacks, with the bill coming on the heels of the devastating ransomware attack that forced the shutdown of Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sentences Cyber-Stalker Who Sent Sex Workers to Family’s Home<a href="https://www.infosecurity-magazine.com:443/news/cyber-stalker-okamura-sentenced/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hawaiian widower placed under 3-year supervision for cyber-stalking a Utah family
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce bill to protect critical infrastructure against cyberattacks<a href="https://thehill.com//policy/cybersecurity/553552-lawmakers-introduce-bill-to-protect-critical-infrastructure-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rep. Elissa Slotkin (D-Mich.) and other bipartisan House lawmakers on Friday introduced legislation designed to protect critical systems against cyberattacks, a week after a ransomware attack on the Colonial Pipeline significantly disrupted the fuel supply for portions of the country.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

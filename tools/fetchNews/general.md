@@ -11,6 +11,136 @@ nav_order: 900072
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial pipeline is back online, but concerns remain | Uber, Lyft struggle with driver supply | Apple cuts controversial hire<a href="https://thehill.com//policy/technology/overnights/553473-hillicon-valley-colonial-pipeline-is-back-online-but-concerns"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenBiden says Beau's assessment of first 100 days would be 'Be who you are'  Biden: McCarthy's support of Cheney ouster is 'above my pay grade' Conservative group sues over prioritization of women, minorities for restaurant aid MORE on Thursday said that while the Russian government was not behind the recent ransomware attack on the Colonial Pipeline, the cyber criminals involved were based in Russia, and his administration would take steps to disrupt the group. Colonial Pipeline, which restarted operations Wednesday, reportedly chose to pay the ransom to gain access to its networks. In non-pipeline news, Amazon said it will soon hire 75,000 additional employees in the U.S. and Canada.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-bullying Spawns Artistic Protest<a href="https://www.infosecurity-magazine.com:443/news/cyberbullying-spawns-artistic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Artists turn 700 misogynistic comments made online into 3,000m-long artwork
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security at Bay: Critical Infrastructure Under Attack<a href="https://securityaffairs.co/wordpress/117876/security/critical-infrastructure-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent Colonial Pipeline attack highlights the dangers that are facing Critical Infrastructure worldwide.
+
+
+
+The attack perpetrated by hackers on oil company Colonial Pipeline highlights the dangers that are facing Industrial Control Systems (ICS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attacks Cost Small US Businesses $25k Annually<a href="https://www.infosecurity-magazine.com:443/news/cyberattacks-cost-small-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research reveals cyber-attacks leave small businesses with big bills
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Please vote Security Affairs – 1 day left<a href="https://securityaffairs.co/wordpress/117865/breaking-news/vote-security-affairs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hi GuysI need your support. I became aware only not that we can nominate SecurityAffairs as Best Personal Blog. 
+
+
+
+
+
+
+
+I need your support. Please vote Security Affairs as Best Personal cybersecurity Blog at the following link
+
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSer_6yOZrL8OO6XjJ9yj3Mlq9LvuOakdTZN9ZmhkFCy1aQLdw/viewform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pipeline Update: Biden Executive Order, DarkSide Detailed and Gas Bags<a href="https://threatpost.com/pipeline-biden-darkside-gas-bags/166112/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI/CISA warn about the RaaS network behind the Colonial hack, Colonial restarts operations, and researchers detail groups that rent the ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers Unforgiving of Merchants’ Data Failings<a href="https://www.infosecurity-magazine.com:443/news/consumers-unforgiving-of-merchants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data-conscious online shoppers in the US will ditch a merchant over a single lapse in data security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Can Data Protection Systems Prevent Data At Rest Leakage?<a href="https://thehackernews.com/2021/05/can-data-protection-systems-prevent.html"> Full Text</a>
 </p>
 <details>

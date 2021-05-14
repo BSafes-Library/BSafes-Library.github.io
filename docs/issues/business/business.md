@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lemonade Denies “Unforgivably Negligent” Security Gaffe<a href="https://www.infosecurity-magazine.com:443/news/lemonade-denies-security-gaffe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurtech company says alleged lapse was merely customers sharing their quotes online
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BluBracket raises $12 million to expand operations and support a shift left in code testing<a href="https://www.scmagazine.com/home/security-news/blubracket-raises-12-million-to-expand-operations-and-support-a-shift-left-in-code-testing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code automation company BluBracket on Thursday said it raised $12 million in Series A funding so it can continue to work with DevSecOps teams to build security into products from the start and shift code development left.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fidelis Buys CloudPassage To Better Monitor Cloud Assets<a href="https://www.crn.com/news/security/fidelis-buys-cloudpassage-to-better-monitor-cloud-assets?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fidelis was impressed by CloudPassage’s ability to collect telemetry from the enterprise and deliver cloud security posture management and cloud workload protection from a single platform.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

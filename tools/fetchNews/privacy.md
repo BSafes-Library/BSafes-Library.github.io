@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Find My network can be abused to leak secrets to the outside world via passing devices<a href="https://www.theregister.com/2021/05/12/apples_find_network/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passing Apple devices can be used to sneak out portions of information from one place to another, such as a computer on the other side of the world, over the air without any network connectivity.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

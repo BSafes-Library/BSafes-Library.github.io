@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations in aerospace and travel sectors under attack, Microsoft warns<a href="https://securityaffairs.co/wordpress/117858/cyber-crime/microsoft-aerospace-travel-sectors-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a malware-based campaign that targeted organizations in the aerospace and travel sectors in the past months.
+
+
+
+Microsoft researchers revealed that organizations in the aerospace and travel sectors have been targeted in the past months...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
