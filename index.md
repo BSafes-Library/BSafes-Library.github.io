@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fidelis Buys CloudPassage To Better Monitor Cloud Assets<a href="https://www.crn.com/news/security/fidelis-buys-cloudpassage-to-better-monitor-cloud-assets?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fidelis was impressed by CloudPassage’s ability to collect telemetry from the enterprise and deliver cloud security posture management and cloud workload protection from a single platform.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline Paid Nearly $5 Million in Ransom to Cybercriminals<a href="https://thehackernews.com/2021/05/colonial-pipeline-paid-nearly-5-million.html"> Full Text</a>
 </p>
 <details>
