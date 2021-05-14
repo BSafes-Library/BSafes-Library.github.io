@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Paid Nearly $5 Million in Ransom to Cybercriminals<a href="https://thehackernews.com/2021/05/colonial-pipeline-paid-nearly-5-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline on Thursday restored operations to its entire pipeline system nearly a week following a ransomware infection targeting its IT systems, forcing it to reportedly shell out nearly $5 million  to restore control of its computer networks.  "Following this restart, it will take several days for the product delivery supply chain to return to normal," the company said  in a statement on Thursday evening. "Some markets served by Colonial Pipeline may experience, or continue to experience, intermittent service interruptions during this start-up period. Colonial will move as much gasoline, diesel, and jet fuel as is safely possible and will continue to do so until markets return to normal."  The company's official website , however, has been taken offline as of writing with an access denied message "This request was blocked by the security rules."   Bloomberg, citing "two people familiar with the transaction," said  the company made t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cross-browser tracking vulnerability tracks you via installed apps<a href="https://www.bleepingcomputer.com/news/security/cross-browser-tracking-vulnerability-tracks-you-via-installed-apps/"> Full Text</a>
 </p>
 <details>
