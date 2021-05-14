@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial Reportedly Paid $5 Million Ransom<a href="https://www.infosecurity-magazine.com:443/news/colonial-reportedly-paid-5-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pipeline still suffered several-day outage
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Big Cybersecurity Tips For Remote Workers Who Use Their Own Tech<a href="https://thehackernews.com/2021/05/big-cybersecurity-tips-for-remote.html"> Full Text</a>
 </p>
 <details>

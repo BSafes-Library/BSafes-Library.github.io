@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Big Cybersecurity Tips For Remote Workers Who Use Their Own Tech<a href="https://thehackernews.com/2021/05/big-cybersecurity-tips-for-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the total number of people working from home has grown dramatically in the last year or two, so has the number of individuals who use all of their own technology for their jobs. If you're a remote worker who relies on your own PC to get your work done, then you may be at a heightened risk for some of the major threats that are impacting the computer industry as a whole.  Relatively few people take all of the recommended precautions when using their own technology. While it's unlikely that people are engaged in any riskier behaviors than they were before, the fact that few people have the time to follow all the relevant pieces of cybersecurity news means some people might be unaware of certain active threats. That may explain how a password manager was  used to install malicious code  on a large number of client machines.  Though you might not want to follow all of the news that comes out about security issues on a daily basis, you might find it helpful to pay close attentio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FortiGuard Labs Discovers Multiple Critical Zero Day Vulnerabilities in Adobe Illustrator<a href="https://www.fortinet.com/blog/threat-research/fortiguard-labs-discovers-multiple-critical-zero-day-vulnerabilities-in-adobe-illustrator?&web_view=true"> Full Text</a>
 </p>
 <details>
