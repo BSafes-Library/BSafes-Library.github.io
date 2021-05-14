@@ -11,6 +11,7 @@ nav_order: 400
 * [Blockchain-mediated Licensing - Legal Engineering for Artist Empowerment, by Charles Adjovu; Ewa Fabian](https://papers.bsafes.com/docs/cryptocurrency/blockchain-mediated-licensing/)
 * [Cybersecurity in Elections - Models of Interagency Collaboration, by Sam van der Staak and Peter Wolf](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
 * [Crypto and Blockchain Fundamentals, by Mary C. Lacity](https://papers.bsafes.com/docs/cryptocurrency/crypto-and-blockchain-fundamentals/)
+* [DIGITAL DOMINION:How the Syrian regime’s mass digital surveillance violates human rights](https://papers.bsafes.com/docs/privacy/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
 * [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
 * [Jack Voltaic 3.0 Cyber Research Report, by United States Military Academy](https://papers.bsafes.com/docs/internet/jack-voltaic-3-0-cyber-research-report/)
 * [NESCOR Guide to Penetration Testing for Electric Utilities, by National Electric Sector Cybersecurity Organization Resource (NESCOR)](https://papers.bsafes.com/docs/infrastructure/nescor-guide-to-penetration-testing-for-electric-utilities/#abstract)
