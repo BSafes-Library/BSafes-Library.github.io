@@ -34,6 +34,74 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cross-browser tracking vulnerability tracks you via installed apps<a href="https://www.bleepingcomputer.com/news/security/cross-browser-tracking-vulnerability-tracks-you-via-installed-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed a way to track a user across different browsers on the same machine by querying the installed applications on the device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 Source Code Breached in Codecov Supply-Chain Attack<a href="https://thehackernews.com/2021/05/rapid7-source-code-breached-in-codecov.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Rapid7 on Thursday revealed that unidentified actors improperly managed to get hold of a small portion of its source code repositories in the aftermath of the software supply chain compromise targeting Codecov earlier this year.  "A small subset of our source code repositories for internal tooling for our [Managed Detection and Response] service was accessed by an unauthorized party outside of Rapid7," the Boston-based firm  said  in a disclosure. "These repositories contained some internal credentials, which have all been rotated, and alert-related data for a subset of our MDR customers."   On April 15, software auditing startup Codecov alerted customers that its Bash Uploader utility had been infected with a backdoor as early as January 31 by unknown parties to gain access to authentication tokens for various internal software accounts used by developers. The incident didn't come to light until April 1.  "The actor gained access bec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 says source code, credentials accessed as a Rresult of Codecov supply-chain attack<a href="https://securityaffairs.co/wordpress/117879/data-breach/rapid7-codecov-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 disclosed that unauthorized third-party had access to source code and customer data as result of Codecov supply chain attack.
+
+
+
+Cyber security vendor Rapid7 reveals it was impacted by the Codecov software supply chain attack, attackers had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Russian hacking forum XSS bans all ransomware topics<a href="https://www.bleepingcomputer.com/news/security/popular-russian-hacking-forum-xss-bans-all-ransomware-topics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most popular Russian-speaking hacker forums, XSS, has banned all topics promoting ransomware to prevent unwanted attention.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
