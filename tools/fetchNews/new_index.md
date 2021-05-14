@@ -37,6 +37,494 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chemical distributor pays $4.4 million to DarkSide ransomware<a href="https://www.bleepingcomputer.com/news/security/chemical-distributor-pays-44-million-to-darkside-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chemical distribution company Brenntag paid a $4.4 million ransom in Bitcoin to the DarkSide ransomware gang to receive a decryptor for encrypted files and prevent the threat actors from publicly leaking stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Find My network can be abused to leak secrets to the outside world via passing devices<a href="https://www.theregister.com/2021/05/12/apples_find_network/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passing Apple devices can be used to sneak out portions of information from one place to another, such as a computer on the other side of the world, over the air without any network connectivity.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial pipeline is back online, but concerns remain | Uber, Lyft struggle with driver supply | Apple cuts controversial hire<a href="https://thehill.com//policy/technology/overnights/553473-hillicon-valley-colonial-pipeline-is-back-online-but-concerns"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenBiden says Beau's assessment of first 100 days would be 'Be who you are'  Biden: McCarthy's support of Cheney ouster is 'above my pay grade' Conservative group sues over prioritization of women, minorities for restaurant aid MORE on Thursday said that while the Russian government was not behind the recent ransomware attack on the Colonial Pipeline, the cyber criminals involved were based in Russia, and his administration would take steps to disrupt the group. Colonial Pipeline, which restarted operations Wednesday, reportedly chose to pay the ransom to gain access to its networks. In non-pipeline news, Amazon said it will soon hire 75,000 additional employees in the U.S. and Canada. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-bullying Spawns Artistic Protest<a href="https://www.infosecurity-magazine.com:443/news/cyberbullying-spawns-artistic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Artists turn 700 misogynistic comments made online into 3,000m-long artwork
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everything You Need to Know about the New Executive Order on Cybersecurity<a href="https://www.lawfareblog.com/everything-you-need-know-about-new-executive-order-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden Administration has released its much-anticipated Executive Order aiming to improve federal cybersecurity standards and other aspects of cybersecurity.  Here’s what you need to know.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security at Bay: Critical Infrastructure Under Attack<a href="https://securityaffairs.co/wordpress/117876/security/critical-infrastructure-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent Colonial Pipeline attack highlights the dangers that are facing Critical Infrastructure worldwide.
+
+
+
+The attack perpetrated by hackers on oil company Colonial Pipeline highlights the dangers that are facing Industrial Control Systems (ICS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers knowingly push flawed code, doubt build environments are secure<a href="https://www.scmagazine.com/application-security/developers-knowingly-push-flawed-code-doubt-build-environments-are-secure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey found that most development teams, 81%,  knowingly pushed flawed code live, and 20% senior of managers even admitted to committing this practice often.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh Loader Targets Aviation Victims with Spy RATs<a href="https://threatpost.com/loader-aviation-spy-rats/166133/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign is harvesting screenshots, keystrokes, credentials, webcam feeds, browser and clipboard data and more, with RevengeRAT or AsyncRAT payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 source code, credentials accessed in Codecov supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/rapid7-source-code-credentials-accessed-in-codecov-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US cybersecurity firm Rapid7 has disclosed that some source code repositories were accessed in a security incident linked to the supply-chain attack that recently impacted customers of the popular Codecov code coverage tool.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Paid Hackers Nearly $5 Million in Ransom<a href="https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Co. paid nearly $5 million to Eastern European hackers on Friday, contradicting reports earlier this week that the company had no intention of paying an extortion fee.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden says Colonial Pipeline hackers based in Russia, but not government-backed<a href="https://thehill.com//policy/cybersecurity/553386-biden-says-colonial-pipeline-hackers-based-in-russia-but-not-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Thursday confirmed that the cyber criminals involved in launching a ransomware attack that disrupted operations at Colonial Pipeline last week are likely based in Russia, though he said officials do not believe that the Russian government was involved. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attacks Cost Small US Businesses $25k Annually<a href="https://www.infosecurity-magazine.com:443/news/cyberattacks-cost-small-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research reveals cyber-attacks leave small businesses with big bills
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Please vote Security Affairs – 1 day left<a href="https://securityaffairs.co/wordpress/117865/breaking-news/vote-security-affairs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hi GuysI need your support. I became aware only not that we can nominate SecurityAffairs as Best Personal Blog. 
+
+
+
+
+
+
+
+I need your support. Please vote Security Affairs as Best Personal cybersecurity Blog at the following link
+
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSer_6yOZrL8OO6XjJ9yj3Mlq9LvuOakdTZN9ZmhkFCy1aQLdw/viewform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7: Attackers got ‘limited access’ to source code, customer data after Codecov breach<a href="https://www.scmagazine.com/home/security-news/data-breach/rapid7-attackers-got-limited-access-to-source-code-customer-data-after-codecov-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company claims no other systems or parts of its corporate network were compromised after using Codecov’s corrupted Bash Uploader script.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pipeline Update: Biden Executive Order, DarkSide Detailed and Gas Bags<a href="https://threatpost.com/pipeline-biden-darkside-gas-bags/166112/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI/CISA warn about the RaaS network behind the Colonial hack, Colonial restarts operations, and researchers detail groups that rent the ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline restores operations, $5 million ransom demanded<a href="https://www.bleepingcomputer.com/news/security/colonial-pipeline-restores-operations-5-million-ransom-demanded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Company has recovered quickly from the ransomware attack suffered less than a week ago and expects all its infrastructure to be fully operational today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe APT Expands its Windows Malware Arsenal with ObliqueRAT<a href="https://blog.talosintelligence.com/2021/05/transparent-tribe-infra-and-targeting.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transparent Tribe, also known as APT36 and Mythic Leopard, continues to create fake domains mimicking legitimate military and defense organizations as a core component of their operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pelosi says firms should not pay ransoms to hackers<a href="https://thehill.com//homenews/house/553374-pelosi-says-firms-should-not-pay-ransoms-to-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Speaker Nancy Pelosi (D-Calif.) warned Thursday that private firms should reject hackers' demands for ransoms, just hours after reports emerged that a major energy company had paid almost $5 million to help restore service following a crippling ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers Unforgiving of Merchants’ Data Failings<a href="https://www.infosecurity-magazine.com:443/news/consumers-unforgiving-of-merchants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data-conscious online shoppers in the US will ditch a merchant over a single lapse in data security
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations in aerospace and travel sectors under attack, Microsoft warns<a href="https://securityaffairs.co/wordpress/117858/cyber-crime/microsoft-aerospace-travel-sectors-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a malware-based campaign that targeted organizations in the aerospace and travel sectors in the past months.
+
+
+
+Microsoft researchers revealed that organizations in the aerospace and travel sectors have been targeted in the past months...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft build tool abused to deliver password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-build-tool-abused-to-deliver-password-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing the Microsoft Build Engine (MSBuild) to deploy remote access tools and information-stealing malware filelessly as part of an ongoing campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-powered identity access management platform Authomize raises $16M<a href="https://venturebeat.com/2021/05/13/ai-powered-identity-access-management-platform-authomize-raises-22m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based authorization startup Authomize today announced that it raised $16 million in series A funding led by Innovation Endeavors, bringing the startup’s total raised to $22 million to date.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial paid hackers almost $5M in ransom: report<a href="https://thehill.com//policy/energy-environment/553330-colonial-paid-hackers-almost-5m-in-ransom-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline paid almost $5 million in ransom to hackers last Friday despite reports that said the company had no intention of paying, Bloomberg news reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record Number of Breaches Detected Amid #COVID19<a href="https://www.infosecurity-magazine.com:443/news/record-breaches-detected-covid/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+85% of breaches analyzed in the report involved a human element
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes AnyConnect Client VPN zero-day disclosed in November<a href="https://securityaffairs.co/wordpress/117855/security/cisco-anyconnect-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a zero-day in the Cisco AnyConnect Secure Mobility Client VPN software, with publicly available proof-of-concept exploit code.
+
+
+
+Cisco has addressed a zero-day vulnerability in Cisco AnyConnect Secure Mobility Client, tracked as CVE-2020-3556, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet Lorenz — A new ransomware gang targeting the enterprise<a href="https://www.bleepingcomputer.com/news/security/meet-lorenz-a-new-ransomware-gang-targeting-the-enterprise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation known as Lorenz targets organizations worldwide with customized attacks demanding hundreds of thousands of dollars in ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Green Energy Company Volue Hit by Ransomware Attack<a href="https://www.securityweek.com/green-energy-company-volue-hit-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway-based green energy solutions provider Volue has been working on restoring systems after being targeted in a ransomware attack by the Ryuk operators which was detected on May 5.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA fully restores systems after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-fully-restores-systems-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading US-based insurance company CNA Financial has fully restored systems following a Phoenix CryptoLocker ransomware attack that disrupted its online services and business operations during late March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes 6-month-old AnyConnect VPN zero-day with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-6-month-old-anyconnect-vpn-zero-day-with-exploit-code/"> Full Text</a>
 </p>
 <details>

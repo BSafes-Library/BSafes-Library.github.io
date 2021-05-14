@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes 6-month-old AnyConnect VPN zero-day with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-6-month-old-anyconnect-vpn-zero-day-with-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has fixed a six-month-old zero-day vulnerability found in the Cisco AnyConnect Secure Mobility Client VPN software, with publicly available proof-of-concept exploit code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Code-scanning platform BluBracket nabs $12M for enterprise security<a href="https://venturebeat.com/2021/05/13/code-scanning-platform-blubracket-nabs-12m-for-enterprise-security/?&web_view=true"> Full Text</a>
 </p>
 <details>
