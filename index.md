@@ -34,6 +34,110 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor users, beware: 'Scheme flooding' technique may be used to deanonymize you<a href="https://www.theregister.com/2021/05/14/browser_fingerprinting_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FingerprintJS said it has identified a more dubious fingerprinting technique capable of generating a consistent identifier across different desktop browsers, including the Tor Browser.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group behind Colonial Pipeline hack to shut down operations: report<a href="https://thehill.com//policy/cybersecurity/553691-group-behind-colonial-pipeline-hack-to-shut-down-operations-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind the ransomware attack on Colonial Pipeline is reportedly shutting down its operations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major hacking forums XSS and Exploit ban ads from ransomware gangs<a href="https://securityaffairs.co/wordpress/117948/cyber-crime/ban-ads-from-ransomware-gangs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XSS forum (previously known as DaMaGeLab) one of the most popular hacking forums, announced that it would ban the ads published by ransomware gangs.
+
+
+
+The popular hacking forum XSS forum, previously known as DaMaGeLab, announced that that it would ban the ads published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toshiba subsidiary confirms ransomware attack, as reports suggest possible DarkSide involvement<a href="https://www.cyberscoop.com/darkside-ransomware-toshiba-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European units of Japanese tech giant Toshiba are investigating a security incident in which scammers may have used a similar hacking tool to the malware used against IT systems at Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of eCh0raix ransomware and Roon Server zero-day attacks<a href="https://securityaffairs.co/wordpress/117943/hacking/qnap-ech0raix-ransomware-roon-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns of an actively exploited Roon Server zero-day flaw and eCh0raix ransomware attacks on its NAS devices.
+
+
+
+QNAP warns customers of threat actors that are targeting its Network Attached Storage (NAS) devices with eCh0raix ransomware attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Uses Customized Malware to Target Organizations<a href="https://heimdalsecurity.com/blog/beware-of-a-new-type-of-ransomware-similar-to-thundercrypt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Lorenz, the ransomware gang began operating a month ago and has since compiled a growing list of victims whose stolen data has been published on a data leak site, as reported by BleepingComputer.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
