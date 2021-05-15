@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Reportedly Paid $5 Million Ransom<a href="https://www.infosecurity-magazine.com:443/news/colonial-reportedly-paid-5-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pipeline still suffered several-day outage
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor users, beware: 'Scheme flooding' technique may be used to deanonymize you<a href="https://www.theregister.com/2021/05/14/browser_fingerprinting_flaw/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Group behind Colonial Pipeline hack to shut down operations: report<a href="https://thehill.com//policy/cybersecurity/553691-group-behind-colonial-pipeline-hack-to-shut-down-operations-report"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major hacking forums XSS and Exploit ban ads from ransomware gangs<a href="https://securityaffairs.co/wordpress/117948/cyber-crime/ban-ads-from-ransomware-gangs.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toshiba subsidiary confirms ransomware attack, as reports suggest possible DarkSide involvement<a href="https://www.cyberscoop.com/darkside-ransomware-toshiba-hack/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of eCh0raix ransomware and Roon Server zero-day attacks<a href="https://securityaffairs.co/wordpress/117943/hacking/qnap-ech0raix-ransomware-roon-server.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz Ransomware Uses Customized Malware to Target Organizations<a href="https://heimdalsecurity.com/blog/beware-of-a-new-type-of-ransomware-similar-to-thundercrypt/?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group behind Colonial Pipeline hack to shut down operations: report<a href="https://thehill.com//policy/cybersecurity/553691-group-behind-colonial-pipeline-hack-to-shut-down-operations-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind the ransomware attack on Colonial Pipeline is reportedly shutting down its operations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

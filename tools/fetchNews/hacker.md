@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Linked Hackers Added New Windows Malware to Its Arsenal<a href="https://thehackernews.com/2021/05/pakistan-linked-hackers-added-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals with suspected ties to Pakistan continue to rely on social engineering as a crucial component of its operations as part of an evolving espionage campaign against Indian targets, according to new research.  The attacks have been linked to a group called&nbsp; Transparent Tribe , also known as Operation C-Major, APT36, and Mythic Leopard, which has created fraudulent domains mimicking legitimate Indian military and defense organizations, and other malicious domains posing as file-sharing sites to host malicious artifacts.  "While military and defense personnel continue to be the group's primary targets, Transparent Tribe is increasingly targeting diplomatic entities, defense contractors, research organizations and conference attendees, indicating that the group is expanding its targeting," researchers from Cisco Talos&nbsp; said &nbsp;on Thursday.   These domains are used to deliver maldocs distributing&nbsp; CrimsonRAT , and ObliqueRAT, with the group incorporating new phishin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart gang hides PHP-based web shells in favicons<a href="https://securityaffairs.co/wordpress/117909/cyber-crime/magecart-web-shells.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Magecart cybercrime gang is using favicon to hide malicious PHP web shells used to maintain remote access to inject JavaScript skimmers into online stores.
+
+
+
+Magecart hackers are distributing malicious PHP web shells hidden in website favicon to inject...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hackers Now hide PHP-Based Backdoor In Website Favicons<a href="https://thehackernews.com/2021/05/magecart-hackers-now-hide-php-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime groups are distributing malicious PHP web shells disguised as a favicon to maintain remote access to the compromised servers and inject JavaScript skimmers into online shopping platforms with an aim to steal financial information from their users.  "These web shells known as Smilodon or Megalodon are used to dynamically load JavaScript skimming code via server-side requests into online stores," Malwarebytes Jérôme Segura&nbsp; said &nbsp;in a Thursday write-up. "This technique is interesting as most client-side security tools will not be able to detect or block the skimmer."  Injecting web skimmers on e-commerce websites to steal credit card details is a tried-and-tested modus operandi of Magecart, a consortium of different hacker groups who target online shopping cart systems. Also known as formjacking attacks, the skimmers take the form of JavaScript code that the operators stealthily insert into an e-commerce website, often on payment pages, with an intent to c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside Hacking Group Linked to Colonial Pipeline Attack Says it is Closing Down<a href="https://www.wsj.com/articles/web-site-of-darkside-hacking-group-linked-to-colonial-pipeline-attack-is-down-11621001688?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide has told associates it has lost access to the infrastructure it uses to run its operation and would be shutting down, citing pressure from law enforcement and from the U.S., FireEye said.
+</details>
+<div style="text-align: right" markdown="1">
+The Wall Street Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

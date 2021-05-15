@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 Source Code Accessed in Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/rapid7-source-code-accessed-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company’s source code compromised during supply-chain attack on Codecov
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 Source Code Breached in Codecov Supply-Chain Attack<a href="https://thehackernews.com/2021/05/rapid7-source-code-breached-in-codecov.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Rapid7 on Thursday revealed that unidentified actors improperly managed to get hold of a small portion of its source code repositories in the aftermath of the software supply chain compromise targeting Codecov earlier this year.  "A small subset of our source code repositories for internal tooling for our [Managed Detection and Response] service was accessed by an unauthorized party outside of Rapid7," the Boston-based firm&nbsp; said &nbsp;in a disclosure. "These repositories contained some internal credentials, which have all been rotated, and alert-related data for a subset of our MDR customers."   On April 15, software auditing startup Codecov alerted customers that its Bash Uploader utility had been infected with a backdoor as early as January 31 by unknown parties to gain access to authentication tokens for various internal software accounts used by developers. The incident didn't come to light until April 1.  "The actor gained access bec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

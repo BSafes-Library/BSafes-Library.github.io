@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside gang lost control of their servers and funds<a href="https://securityaffairs.co/wordpress/117918/cyber-crime/fbi-seized-darkside-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Darkside ransomware announced that they have lost control of their infrastructure and part of the funds the gang obtained from the victims.
+
+
+
+Darkside ransomware operators say they have lost control of their servers and funds resulting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arkose Labs looks to hit cybercriminals where it hurts with $70 million cash infusion<a href="https://www.scmagazine.com/home/security-news/arkose-labs-looks-to-hit-cybercriminals-where-it-hurts-with-70-million-cash-infusion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Funds will filter in part to research and development, building upon the Arkose model of undermining economic drivers behind fraud until attackers opt out.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

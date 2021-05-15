@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In executive order, federal security provides impetus for far reaching cyber implications<a href="https://www.scmagazine.com/home/government/in-eo-federal-security-provides-impetus-for-far-reaching-cyber-implications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the core, Biden’s executive order looks to improve federal cybersecurity. But the tactics could have a trickle down impact that drive greater collaboration and improves security standards throughout industry.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden’s executive order aims to improve threat sharing by revising language in federal contracts<a href="https://www.scmagazine.com/home/government/bidens-executive-order-aims-to-improve-threat-sharing-by-revising-language-in-federal-contracts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If successful, the goal could mean greater partnership between government and industry, addressing decades of contracting morass that stilted sharing of information about vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

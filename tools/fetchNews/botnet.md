@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Trojan: Active and Performing Fraudulent Activities<a href="https://cyware.com/news/teabot-trojan-active-and-performing-fraudulent-activities-eaccc70d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers reported a new Android banking trojan that hijacks user credentials and text messages to distribute fraudulent activities targeting banks in Spain, Germany, the Netherlands, Belgium, and Italy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

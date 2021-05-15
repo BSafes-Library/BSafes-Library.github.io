@@ -8,6 +8,210 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware ads now also banned on Exploit cybercrime forum<a href="https://www.bleepingcomputer.com/news/security/ransomware-ads-now-also-banned-on-exploit-cybercrime-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team behind&nbsp;Exploit, a&nbsp;major cybercrime forum used by ransomware gangs to hire affiliates and advertise their Ransomware-as-a-Service (RaaS) services, has announced that ransomware ads are now banned and will be removed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 14th 2021 - One down, many more to go<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-14th-2021-one-down-many-more-to-go/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware took the media spotlight this week after a ransomware gang known as DarkSide targeted critical infrastructure in the USA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Are Now Leaking Stolen Data More Often<a href="https://cyware.com/news/ransomware-gangs-are-now-leaking-stolen-data-more-often-a43085c6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say more than 2,100 companies had their data leaked over data leak sites hosted by ransomware groups since 2019, suggesting cybercriminals are doing it more  frequently to  extort from their victims.  Other cybercriminals are expected to follow the suit in the future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware servers reportedly seized, operation shuts down<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-servers-reportedly-seized-operation-shuts-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DarkSide ransomware operation has allegedly shut down after the threat actors lost access to servers and their cryptocurrency was transferred to an unknown wallet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of eCh0raix ransomware attacks, Roon Server zero-day<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ech0raix-ransomware-attacks-roon-server-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP&nbsp;warns customers of an actively exploited Roon Server zero-day bug&nbsp;and eCh0raix ransomware attacks targeting&nbsp;their&nbsp;Network Attached Storage (NAS) devices, just&nbsp;two weeks after alerting them of an ongoing AgeLocker ransomware outbreak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish health service forced to shut down IT systems after ransomware attack<a href="https://thehill.com//policy/cybersecurity/553534-irish-health-service-forced-to-temporarily-shut-down-after-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland’s health care system was forced to shut down its IT systems Friday following what&nbsp;it described as a "significant" ransomware attack that disrupted operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland’s Healthcare System’s IT Offline Following Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/ireland-healthcare-it-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HSE Ireland reveals it has taken its IT systems offline due to a "significant ransomware attack"
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland’s Health Service Executive hit by ransomware attack<a href="https://securityaffairs.co/wordpress/117902/malware/ireland-health-service-executive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland’s Health Service Executive service shut&nbsp;down its IT systems after they were hit with a “significant ransomware attack.”
+
+
+
+Another major ransomware attack made the headlines, this time the victim is Ireland’s Health Service Executive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish healthcare shuts down IT systems after Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/irish-healthcare-shuts-down-it-systems-after-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's Health Service Executive(HSE), the country's publicly funded healthcare system, has shut down all IT systems after its network was breached in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline likely paid a $5M ransom to DarkSide<a href="https://securityaffairs.co/wordpress/117892/cyber-crime/colonial-pipeline-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide demanded a $5 million ransom to Colonial Pipeline, which has quickly recovered operations, did it pay?
+
+
+
+The Colonial Pipeline facility in Pelham, Alabama, was hit by a cybersecurity attack on Friday and its operators were forced to shut down...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks by Avaddon Ransomware are Escalating<a href="https://cyware.com/news/attacks-by-avaddon-ransomware-are-escalating-9c78d868"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks by the Avaddon group are targeting organizations from several sectors based in the U.S. and worldwide. According to the FBI, the ransomware associates are breaching the networks of healthcare, manufacturing, and other private sector organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US pipeline ransomware attack serves as fair warning to persistent corporate inertia over security<a href="https://www.zdnet.com/article/us-pipeline-ransomware-attack-serves-as-fair-warning-to-persistent-corporate-inertia-over-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That companies continue to disregard the need for basic cybersecurity hygiene signals the need for firmer action, especially as cybercriminals turn their focus to operational technology sectors.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Paid Nearly $5 Million in Ransom to Cybercriminals<a href="https://thehackernews.com/2021/05/colonial-pipeline-paid-nearly-5-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline on Thursday restored operations to its entire pipeline system nearly a week following a ransomware infection targeting its IT systems, forcing it to reportedly shell out nearly $5 million  to restore control of its computer networks.  "Following this restart, it will take several days for the product delivery supply chain to return to normal," the company said  in a statement on Thursday evening. "Some markets served by Colonial Pipeline may experience, or continue to experience, intermittent service interruptions during this start-up period. Colonial will move as much gasoline, diesel, and jet fuel as is safely possible and will continue to do so until markets return to normal."  The company's official website , however, has been taken offline as of writing with an access denied message "This request was blocked by the security rules."   Bloomberg, citing "two people familiar with the transaction," said  the company made t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Russian hacking forum XSS bans all ransomware topics<a href="https://www.bleepingcomputer.com/news/security/popular-russian-hacking-forum-xss-bans-all-ransomware-topics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most popular Russian-speaking hacker forums, XSS, has banned all topics promoting ransomware to prevent unwanted attention.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
