@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Chrome App Goes Viral with Smishing<a href="https://cyware.com/news/fake-chrome-app-goes-viral-with-smishing-3a3c04f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware has surfaced that fakes the Google Chrome app. Attackers used it as part of a sophisticated hybrid cyberattack campaign that also uses mobile phishing to steal credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

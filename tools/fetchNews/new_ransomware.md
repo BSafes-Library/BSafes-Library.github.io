@@ -11,6 +11,20 @@ nav_order: 900180
 May 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ireland’s Health Services hit with $20 million ransomware demand<a href="https://www.bleepingcomputer.com/news/security/ireland-s-health-services-hit-with-20-million-ransomware-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's health service, the HSE, says they are refusing to pay a $20&nbsp;million ransom demand to the Conti ransomware gang after the hackers encrypted computers and disrupted health care in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Major hacking forums XSS and Exploit ban ads from ransomware gangs<a href="https://securityaffairs.co/wordpress/117948/cyber-crime/ban-ads-from-ransomware-gangs.html"> Full Text</a>
 </p>
 <details>

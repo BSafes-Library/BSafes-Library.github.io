@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor users, beware: 'Scheme flooding' technique may be used to deanonymize you<a href="https://www.theregister.com/2021/05/14/browser_fingerprinting_flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FingerprintJS said it has identified a more dubious fingerprinting technique capable of generating a consistent identifier across different desktop browsers, including the Tor Browser.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
