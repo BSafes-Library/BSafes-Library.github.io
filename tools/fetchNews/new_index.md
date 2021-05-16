@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial breach underscores concerns over paying hackers<a href="https://thehill.com//policy/cybersecurity/553666-colonial-breach-underscores-concerns-over-paying-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline's decision to pay the cyber criminals behind a ransomware attack that forced the company to temporarily shut down operations has reignited the debate around whether victims of such attacks should pay to regain access to their networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSBuild tool used to deliver RATs filelessly<a href="https://securityaffairs.co/wordpress/117969/malware/msbuild-delivers-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers abuses Microsoft Build Engine (MSBuild) to filelessly deliver malware on targeted Windows systems, including RAT and password-stealer.
+
+
+
+Researchers from Anomali observed threat actors abusing Microsoft Build Engine (MSBuild) to filelessly deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 314<a href="https://securityaffairs.co/wordpress/117978/breaking-news/security-affairs-newsletter-round-314.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+CISA MAR report provides technical details of FiveHands RansomwareSQL injection issue in Anti-Spam...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-linked Transparent Tribe APT expands its arsenal<a href="https://securityaffairs.co/wordpress/117963/apt/transparent-tribe-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Pakistan-Linked cyber espionage group, tracked as Transparent Tribe, targets Indian entities with a new Windows malware.
+
+
+
+Researchers from Cisco Talos warn that the Pakistan-linked APT group Transparent Tribe expanded its Windows malware arsenal....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland’s Health Services hit with $20 million ransomware demand<a href="https://www.bleepingcomputer.com/news/security/ireland-s-health-services-hit-with-20-million-ransomware-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's health service, the HSE, says they are refusing to pay a $20 million ransom demand to the Conti ransomware gang after the hackers encrypted computers and disrupted health care in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Chrome App Goes Viral with Smishing<a href="https://cyware.com/news/fake-chrome-app-goes-viral-with-smishing-3a3c04f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware has surfaced that fakes the Google Chrome app. Attackers used it as part of a sophisticated hybrid cyberattack campaign that also uses mobile phishing to steal credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European police dismantle major online investment fraud ring that causes €30 Million in losses<a href="https://securityaffairs.co/wordpress/117955/cyber-crime/online-investment-fraud-ring-dismantled.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation of European law enforcement agencies and coordinated by Europol dismantled a criminal ring involved in investment fraud.
+
+
+
+A joint investigation of European law enforcement agencies supported by Europol and Eurojust dismantled...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor users, beware: 'Scheme flooding' technique may be used to deanonymize you<a href="https://www.theregister.com/2021/05/14/browser_fingerprinting_flaw/?&web_view=true"> Full Text</a>
@@ -50,7 +178,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Group behind Colonial Pipeline hack to shut down operations: report<a href="https://thehill.com//policy/cybersecurity/553691-group-behind-colonial-pipeline-hack-to-shut-down-operations-report"> Full Text</a>
@@ -66,7 +194,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major hacking forums XSS and Exploit ban ads from ransomware gangs<a href="https://securityaffairs.co/wordpress/117948/cyber-crime/ban-ads-from-ransomware-gangs.html"> Full Text</a>
@@ -86,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toshiba subsidiary confirms ransomware attack, as reports suggest possible DarkSide involvement<a href="https://www.cyberscoop.com/darkside-ransomware-toshiba-hack/?&web_view=true"> Full Text</a>
@@ -102,7 +230,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of eCh0raix ransomware and Roon Server zero-day attacks<a href="https://securityaffairs.co/wordpress/117943/hacking/qnap-ech0raix-ransomware-roon-server.html"> Full Text</a>
@@ -122,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2021
+May 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz Ransomware Uses Customized Malware to Target Organizations<a href="https://heimdalsecurity.com/blog/beware-of-a-new-type-of-ransomware-similar-to-thundercrypt/?&web_view=true"> Full Text</a>
