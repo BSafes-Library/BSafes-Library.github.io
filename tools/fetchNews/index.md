@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Reappears with Expanded Malware Arsenal and TTPs<a href="https://cyware.com/news/transparent-tribe-reappears-with-expanded-malware-arsenal-and-ttps-03ec43ca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36 was found creating fake domains to impersonate military and defense firms and disseminate malware-laced documents to infect victims with ObliqueRAT and CrimsonRAT. Organizations are recommended to stay vigilant and implement adequate security measures proactively.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AXA insurance subsidiary group hit by ransomware attack in multiple Asian countries<a href="https://thehill.com//policy/cybersecurity/553919-axa-insurance-subsidiary-group-hit-by-ransomware-attack-in-multiple"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A subsidiary group of French insurance giant AXA was hit by a ransomware attack last week that negatively impacted operations in multiple Asian countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FragAttacks: Affecting Millions of Wi-Fi Enabled Devices<a href="https://cyware.com/news/fragattacks-affecting-millions-of-wi-fi-enabled-devices-c82bbd07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 12 design and implementation flaws in IEEE 802.11 technical standards leave all WiFi devices vulnerable to attacks. These flaws can be exploited by attackers within the radio range of the target.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: RSA CEO Details the Challenges of Resilience in a World of Chaos<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-challenges-of-resilience/"> Full Text</a>
 </p>
 <details>
