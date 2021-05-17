@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Magecart Goes Server-Side in Latest Tactics Changeup<a href="https://threatpost.com/magecart-server-side-itactics-changeup/166242/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest Magecart iteration is finding success with a new PHP web shell skimmer.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Parler's return to Apple store poses new challenges | Biden revokes Trump-era order targeting shield for website operators<a href="https://thehill.com//policy/technology/553967-hillicon-valley-parlers-return-to-apple-store-poses-new-challenges-axa"> Full Text</a>
 </p>
 <details>
