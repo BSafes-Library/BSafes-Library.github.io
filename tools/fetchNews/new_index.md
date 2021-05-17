@@ -34,6 +34,350 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian gang defrauds Uber, Lyft, DoorDash using GPS spoofing and stolen IDs<a href="https://therecord.media/brazilian-gang-defrauds-uber-lyft-doordash-using-gps-spoofing-and-stolen-ids/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities have charged a gang of Brazilian nationals for a scheme that defrauded the customers of services like Uber, Lyft, DoorDash, and two other unidentified food delivery services.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Password Hygiene Needs a Reboot<a href="https://thehackernews.com/2021/05/why-password-hygiene-needs-reboot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital world, password security is more important than ever. While biometrics, one-time passwords (OTP), and other emerging forms of authentication are often touted as replacements to the traditional password, today, this concept is more marketing hype than anything else.  But just because  passwords aren't going anywhere anytime soon  doesn't mean that organizations don't need to modernize their approach to password hygiene right now.   The Compromised Credential Crisis  As Microsoft's  security team put it , "All it takes is one compromised credential…to cause a data breach." Coupled with the rampant problem of password reuse, compromised passwords can have a significant and long-lasting impact on enterprise security.  In fact, researchers from Virginia Tech University found that over 70% of users employed a compromised password for other accounts up to a year after it was initially leaked, with 40% reusing passwords that were leaked over three years ago.  Wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Snaps Up Kenna Security for Vulnerability Management<a href="https://www.infosecurity-magazine.com:443/news/cisco-kenna-security-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New capabilities will boost SecureX platform
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert released PoC exploit code for Windows CVE-2021-31166 bug<a href="https://securityaffairs.co/wordpress/118015/hacking/poc-windows-iis-cve-2021-31166.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has published a working proof-of-concept exploit code for a wormable Windows IIS server vulnerability tracked as CVE-2021-31166.
+
+
+
+Microsoft Patch Tuesday for May 2021 security updates addressed 55 vulnerabilities in Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Conti ransomware demanded $20M ransom to Ireland Health Service Executive<a href="https://securityaffairs.co/wordpress/118001/cyber-crime/ireland-health-service-executive-conti-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident caused cancellations and disruption to services at multiple hospitals in the country, fortunately, the ongoing coronavirus vaccination campaign was not affected.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn About Ongoing AutoHotkey-Based Malware Attacks<a href="https://thehackernews.com/2021/05/experts-warn-about-ongoing-autohotkey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered an ongoing malware campaign that heavily relies on AutoHotkey (AHK) scripting language to deliver multiple remote access trojans (RAT) such as Revenge RAT, LimeRAT, AsyncRAT, Houdini, and Vjw0rm on target Windows systems.  At least four different versions of the campaign have been spotted starting February 2021, according to researchers from Morphisec Labs.  "The RAT delivery campaign starts from an AutoHotKey (AHK) compiled script," the researchers  noted . "This is a standalone executable that contains the following: the AHK interpreter, the AHK script, and any files it has incorporated via the  FileInstall  command. In this campaign, the attackers incorporate malicious scripts/executables alongside a legitimate application to disguise their intentions."   AutoHotkey is an open-source custom scripting language for Microsoft Windows that's meant to provide easy hotkeys for macro-creation and software automation, enablin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Forum Bans Ransomware Activity<a href="https://www.infosecurity-magazine.com:443/news/cybercrime-forum-bans-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XSS complains of “too much PR” from recent incidents
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin down: 51% attack? No, put the blame on Elon Musk<a href="https://securityaffairs.co/wordpress/118008/digital-id/bitcoin-down-musk-declaration.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The price of Bitcoin falls after Elon Musk declared that its company, Tesla, may have sold holdings of the cryptocurrency
+
+
+
+We have a long-debated about the possibility that the Bitcoin price could be influenced by threat actors through 51% attacks,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The new digital extortion<a href="https://www.axios.com/ransomware-colonial-pipeline-cyber-attack-extortion-a22f35be-ffa8-4169-a810-b4e6610a3a51.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Payments to ransomware attackers rose 337% from 2019 to 2020, reaching more than $400 million worth of cryptocurrency, according to figures just released by Chainalysis, a blockchain analysis company.
+</details>
+<div style="text-align: right" markdown="1">
+Axios
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Pipeline Ransomware Attackers Go Dark After Servers and Bitcoin Are Seized<a href="https://thehackernews.com/2021/05/us-pipeline-ransomware-attackers-go.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just as Colonial Pipeline  restored  all of its systems to operational status in the wake of a crippling ransomware incident  a week ago, DarkSide, the cybercrime syndicate behind the attack, claimed it lost control of its infrastructure, citing a law enforcement seizure.  All the dark web sites operated by the gang, including its DarkSide Leaks blog, ransom collection site, and breach data content delivery network (CDN) servers, have gone dark and remain inaccessible as of writing. In addition, the funds from their cryptocurrency wallets were allegedly exfiltrated to an unknown account, according to a note passed by DarkSide operators to its affiliates.  "At the moment, these servers cannot be accessed via SSH, and the hosting panels have been blocked," the  announcement  obtained by Intel 471 read.   The development comes as DarkSide closed its Ransomware-as-a-Service (RaaS) affiliate program for good "due to the pressure from the U.S.", with the group stating th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toshiba Business Reportedly Hit by DarkSide Ransomware<a href="https://www.infosecurity-magazine.com:443/news/toshiba-business-hit-darkside/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group said to have stolen over 700GB of data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware demanded $20M ransom to Ireland Health Service Executive<a href="https://securityaffairs.co/wordpress/118001/cyber-crime/ireland-health-service-executive-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland Health Service Executive (HSE) refuses to pay a $20 million ransom demand after its systems were hit by the Conti ransomware gang.
+
+
+
+Ireland’s Health Service Executive that was forced to shut down its IT systems on Friday after being...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The bizarre story of the inventor of ransomware<a href="https://edition.cnn.com/2021/05/16/tech/ransomware-joseph-popp/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although it was a pretty basic malware, it was the first time many people had ever heard of the concept — or of digital extortion. It's unclear if any people or organizations paid the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Warns of Two Attacks That Could Allow Bypassing of SEV Protection System<a href="https://securityaffairs.co/wordpress/117981/security/amd-sev-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD has issued guidance for two attacks (CVE-2020-12967, CVE-2021-26311) that allow bypassing the SEV technology implemented to prevent rogue operating systems on virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clark County confirms malware shut down computer servers<a href="https://www.springfieldnewssun.com/news/clark-county-confirms-malware-shut-down-computer-servers/MWRS2NS43BD3LEHE2ZHIESULLA/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county’s 911 system remained working amid the incident. Elements of the county’s server are gradually coming back online. However, county officials say the process is still ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+Springfield News-Sun
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware gang hacked France-based Acer Finance<a href="https://securityaffairs.co/wordpress/117991/cyber-crime/avaddon-ransomware-acer-finance-axa.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon ransomware gang made the headlines again, the cybercrime gang has breached the France-based financial consultancy firm Acer Finance and gave the firm 240 hours to cooperate with their demands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Engineering: How to Keep Security Researchers Safe<a href="https://securityintelligence.com/articles/social-engineering-keep-security-researchers-safe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacking the very people who work on stopping threat actors may seem like a bad idea. But some threat groups do go after people who’ve made a career doing vulnerability research.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurer AXA hit by ransomware after dropping support for ransom payments<a href="https://www.bleepingcomputer.com/news/security/insurer-axa-hit-by-ransomware-after-dropping-support-for-ransom-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Branches of insurance giant AXA based in Thailand, Malaysia, Hong Kong, and the Philippines have been struck by a ransomware cyber attack. As seen by BleepingComputer yesterday, the Avaddon ransomware group claimed on their leak site that they had stolen over 3 TB of sensitive data from AXA's Asian operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware gang hacked France-based Acer Finance and AXA Asia<a href="https://securityaffairs.co/wordpress/117991/cyber-crime/avaddon-ransomware-acer-finance-axa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon ransomware gang has breached the France-based financial consultancy firm Acer Finance. 
+
+
+
+Avaddon ransomware gang made the headlines again, the cybercrime gang has breached the France-based financial consultancy firm Acer Finance.
+
+
+
+Acer Finance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two flaws could allow bypassing AMD SEV protection system<a href="https://securityaffairs.co/wordpress/117981/security/amd-sev-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chipmaker AMD published guidance for two new attacks against its SEV (Secure Encrypted Virtualization) protection technology. 
+
+
+
+Chipmaker AMD has issued guidance for two attacks (CVE-2020-12967, CVE-2021-26311) that allow bypassing the SEV (Secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
