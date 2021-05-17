@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber investigations, threat hunting and research: More art than science<a href="https://www.helpnetsecurity.com/2021/05/17/cyber-investigations-threat-hunting-research/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defenders need to be 100% perfect at protecting 100% of the countless entry points 100% of the time in order to prevent breaches, while on the other hand, hackers only need one exploit that works.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android stalkerware, a danger for victims and stalkers<a href="https://securityaffairs.co/wordpress/118023/malware/android-stalkerware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET research shows that Android stalkerware apps are affected by vulnerabilities that further threaten victims.
+
+
+
+ESET research reveals that common Android stalkerware apps are affected with vulnerabilities that could expose the privacy and security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of scammers targeting families of missing persons<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-targeting-families-of-missing-persons/"> Full Text</a>
 </p>
 <details>
