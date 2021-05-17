@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UK govt seeks advice on defending against supply-chain cyberattacks<a href="https://www.bleepingcomputer.com/news/security/uk-govt-seeks-advice-on-defending-against-supply-chain-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the UK government has announced a call for advice on defending against software supply-chain attacks and ways to strengthen IT Managed Service Providers (MSPs) across the country. The move comes after last week when President Biden had issued an executive order to increase cybersecurity defenses across the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber investigations, threat hunting and research: More art than science<a href="https://www.helpnetsecurity.com/2021/05/17/cyber-investigations-threat-hunting-research/?&web_view=true"> Full Text</a>
 </p>
 <details>
