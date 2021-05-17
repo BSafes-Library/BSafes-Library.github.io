@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for wormable Windows HTTP vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-wormable-windows-http-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been released over the weekend for a critical wormable vulnerability in the latest Windows 10 and Windows Server versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bizarro Banking Trojan Expands its Attacks to 70 Banks From European and South American Countries<a href="https://securelist.com/bizarro-banking-trojan-expands-its-attacks-to-europe/102258/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bizarro has x64 modules and is able to trick users into entering two-factor authentication codes in fake pop-ups. It may also use social engineering to convince victims to download a smartphone app.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Student names, vendor bank account info exposed in Buffalo Public Schools cyberattack<a href="https://buffalonews.com/news/local/education/student-names-vendor-bank-account-info-exposed-in-bps-cyber-attack/article_08d8ebac-b692-11eb-9c05-87f185628062.html?&web_view=true"> Full Text</a>
 </p>
 <details>
