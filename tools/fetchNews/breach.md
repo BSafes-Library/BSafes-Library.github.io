@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial breach underscores concerns&nbsp;over paying&nbsp;hackers<a href="https://thehill.com//policy/cybersecurity/553666-colonial-breach-underscores-concerns-over-paying-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline's decision to pay the cyber criminals behind a ransomware attack that forced the company to temporarily shut down operations has reignited the debate around whether victims of such attacks should pay to regain access to their networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

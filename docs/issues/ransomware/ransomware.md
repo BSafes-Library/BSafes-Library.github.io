@@ -8,6 +8,158 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Conti ransomware demanded $20M ransom to Ireland Health Service Executive<a href="https://securityaffairs.co/wordpress/118001/cyber-crime/ireland-health-service-executive-conti-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident caused cancellations and disruption to services at multiple hospitals in the country, fortunately, the ongoing coronavirus vaccination campaign was not affected.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Forum Bans Ransomware Activity<a href="https://www.infosecurity-magazine.com:443/news/cybercrime-forum-bans-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XSS complains of “too much PR” from recent incidents
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The new digital extortion<a href="https://www.axios.com/ransomware-colonial-pipeline-cyber-attack-extortion-a22f35be-ffa8-4169-a810-b4e6610a3a51.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Payments to ransomware attackers rose 337% from 2019 to 2020, reaching more than $400 million worth of cryptocurrency, according to figures just released by Chainalysis, a blockchain analysis company.
+</details>
+<div style="text-align: right" markdown="1">
+Axios
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Pipeline Ransomware Attackers Go Dark After Servers and Bitcoin Are Seized<a href="https://thehackernews.com/2021/05/us-pipeline-ransomware-attackers-go.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just as Colonial Pipeline&nbsp; restored &nbsp;all of its systems to operational status in the wake of a crippling ransomware incident  a week ago, DarkSide, the cybercrime syndicate behind the attack, claimed it lost control of its infrastructure, citing a law enforcement seizure.  All the dark web sites operated by the gang, including its DarkSide Leaks blog, ransom collection site, and breach data content delivery network (CDN) servers, have gone dark and remain inaccessible as of writing. In addition, the funds from their cryptocurrency wallets were allegedly exfiltrated to an unknown account, according to a note passed by DarkSide operators to its affiliates.  "At the moment, these servers cannot be accessed via SSH, and the hosting panels have been blocked," the&nbsp; announcement &nbsp;obtained by Intel 471 read.   The development comes as DarkSide closed its Ransomware-as-a-Service (RaaS) affiliate program for good "due to the pressure from the U.S.", with the group stating th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toshiba Business Reportedly Hit by DarkSide Ransomware<a href="https://www.infosecurity-magazine.com:443/news/toshiba-business-hit-darkside/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group said to have stolen over 700GB of data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware demanded $20M ransom to Ireland Health Service Executive<a href="https://securityaffairs.co/wordpress/118001/cyber-crime/ireland-health-service-executive-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland Health Service Executive (HSE) refuses to pay a $20&nbsp;million ransom demand after its systems were hit by the Conti ransomware gang.
+
+
+
+Ireland’s Health Service Executive that was forced to shut&nbsp;down its IT systems on Friday after being...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The bizarre story of the inventor of ransomware<a href="https://edition.cnn.com/2021/05/16/tech/ransomware-joseph-popp/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although it was a pretty basic malware, it was the first time many people had ever heard of the concept — or of digital extortion. It's unclear if any people or organizations paid the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware gang hacked France-based Acer Finance<a href="https://securityaffairs.co/wordpress/117991/cyber-crime/avaddon-ransomware-acer-finance-axa.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon ransomware gang made the headlines again, the cybercrime gang has breached the France-based financial consultancy firm Acer Finance and gave the firm 240 hours to cooperate with their demands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurer AXA hit by ransomware after dropping support for ransom payments<a href="https://www.bleepingcomputer.com/news/security/insurer-axa-hit-by-ransomware-after-dropping-support-for-ransom-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Branches of insurance giant AXA based in Thailand, Malaysia, Hong Kong, and the Philippines&nbsp;have been struck by a ransomware cyber attack. As seen by BleepingComputer yesterday,&nbsp;the Avaddon&nbsp;ransomware group claimed on their leak site that they had stolen over 3 TB of sensitive data from AXA's Asian operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware gang hacked France-based Acer Finance and AXA Asia<a href="https://securityaffairs.co/wordpress/117991/cyber-crime/avaddon-ransomware-acer-finance-axa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon ransomware gang has breached the France-based financial consultancy firm Acer Finance. 
+
+
+
+Avaddon ransomware gang made the headlines again, the cybercrime gang has breached the France-based financial consultancy firm Acer Finance.
+
+
+
+Acer Finance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

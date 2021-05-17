@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert released PoC exploit code for Windows CVE-2021-31166 bug<a href="https://securityaffairs.co/wordpress/118015/hacking/poc-windows-iis-cve-2021-31166.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has published a working proof-of-concept exploit code for a wormable Windows IIS server vulnerability tracked as CVE-2021-31166.
+
+
+
+Microsoft Patch Tuesday for May 2021 security updates addressed 55 vulnerabilities in Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Warns of Two Attacks That Could Allow Bypassing of SEV Protection System<a href="https://securityaffairs.co/wordpress/117981/security/amd-sev-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD has issued guidance for two attacks (CVE-2020-12967, CVE-2021-26311) that allow bypassing the SEV technology implemented to prevent rogue operating systems on virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two flaws could allow bypassing AMD SEV protection system<a href="https://securityaffairs.co/wordpress/117981/security/amd-sev-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chipmaker AMD published guidance for two new attacks against its SEV (Secure Encrypted Virtualization) protection technology. 
+
+
+
+Chipmaker AMD has issued guidance for two attacks (CVE-2020-12967, CVE-2021-26311) that allow bypassing the SEV (Secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

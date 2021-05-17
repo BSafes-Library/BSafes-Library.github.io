@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European police dismantle major online investment fraud ring that causes €30 Million in losses<a href="https://securityaffairs.co/wordpress/117955/cyber-crime/online-investment-fraud-ring-dismantled.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation of European law enforcement agencies and coordinated by Europol dismantled a criminal ring involved in investment fraud.
+
+
+
+A joint investigation of European law enforcement agencies supported by Europol and&nbsp;Eurojust dismantled...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
