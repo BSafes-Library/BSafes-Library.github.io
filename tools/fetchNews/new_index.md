@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of scammers targeting families of missing persons<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-targeting-families-of-missing-persons/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned that scammers actively target the vulnerable families of missing persons attempting to extort them using information shared on social media.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deputy US Marshal Allegedly Framed Ex as Cyber-stalker<a href="https://www.infosecurity-magazine.com:443/news/marshal-allegedly-framed-ex-as/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-stalking and perjury charges for deputy US marshal accused of framing his former girlfriend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 PoC released for wormable Windows IIS bug<a href="https://therecord.media/poc-released-for-wormable-windows-iis-bug/?&web_view=true"> Full Text</a>
 </p>
 <details>
