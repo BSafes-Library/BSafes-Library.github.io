@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+85% of breaches involve the human element<a href="https://www.helpnetsecurity.com/2021/05/17/breaches-high-human-element/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With an unprecedented number of people working remotely, phishing and ransomware attacks increased by 11 percent and 6 percent respectively, with instances of misrepresentation increasing by 15 times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Two-thirds of CISOs Unprepared for Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-cisos-unprepared-for/"> Full Text</a>
 </p>
 <details>
