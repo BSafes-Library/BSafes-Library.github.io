@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI spots spear-phishing posing as Truist Bank bank to deliver malware<a href="https://www.bleepingcomputer.com/news/security/fbi-spots-spear-phishing-posing-as-truist-bank-bank-to-deliver-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors impersonated Truist, the sixth-largest U.S. bank holding company, in a spear-phishing campaign attempting to infect recipients with what looks like remote access trojan (RAT) malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FIN7: Active Again with New Lizar Backdoor<a href="https://cyware.com/news/fin7-active-again-with-new-lizar-backdoor-53a4ef8d"> Full Text</a>
 </p>
 <details>
