@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Three Ransomware Sites Go Dark and Three Major Hacking Forums Ban Ransomware Ads<a href="https://therecord.media/three-major-hacking-forums-ban-ransomware-ads-as-some-ransomware-gangs-shut-down/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three hacking forums have now banned ransomware ads, three ransomware leak sites have gone down, and two other ransomware groups have announced plans to stop operating in public and go “private.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government May Force MSPs to Follow Security Standards<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-force-msps-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DCMS has requested views on its proposals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for wormable Windows HTTP vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-wormable-windows-http-vulnerability/"> Full Text</a>
 </p>
 <details>

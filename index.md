@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco Plans to Acquire Kenna Security, Boost Security Offerings<a href="https://finance.yahoo.com/news/cisco-plans-acquire-kenna-security-073852347.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems (CSCO) plans to acquire privately-held California-based Kenna Security in a bid to enhance its security offerings. However, the financial terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Three Ransomware Sites Go Dark and Three Major Hacking Forums Ban Ransomware Ads<a href="https://therecord.media/three-major-hacking-forums-ban-ransomware-ads-as-some-ransomware-gangs-shut-down/?&web_view=true"> Full Text</a>
 </p>
 <details>
