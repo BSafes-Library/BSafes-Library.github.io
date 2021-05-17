@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks against critical infrastructure organizations spotlight an IT, OT cultural divide<a href="https://www.scmagazine.com/home/2021-rsa-conference/cyberattacks-against-critical-infrastructure-organizations-spotlight-an-it-ot-cultural-divide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams that support IT and OT often find themselves at odds in terms of priorities and incident response tactics, heightening the risk that emerges as these two environments converge. Gamification is one tactic that help address conflict.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware victim shows why transparency in attacks matters<a href="https://www.bleepingcomputer.com/news/security/ransomware-victim-shows-why-transparency-in-attacks-matters/"> Full Text</a>
 </p>
 <details>
