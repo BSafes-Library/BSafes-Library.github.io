@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware also targeted Ireland's Department of Health<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-also-targeted-irelands-department-of-health/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang failed to encrypt the systems of Ireland's Department of Health (DoH) despite breaching its network and dropping Cobalt Strike beacons to deploy their malware across the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Magecart Goes Server-Side in Latest Tactics Changeup<a href="https://threatpost.com/magecart-server-side-itactics-changeup/166242/"> Full Text</a>
 </p>
 <details>
