@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler's return to Apple store poses new challenges | Biden revokes Trump-era order targeting shield for website operators<a href="https://thehill.com//policy/technology/553967-hillicon-valley-parlers-return-to-apple-store-poses-new-challenges-axa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parler is relaunching in the Apple App Store, with some additional content moderation policies in place for the new version of the controversial social media platform available for iPhones and iPads. A subsidiary group of a French Insurance giant was hit by a ransomware attack that impacted operations across Asia. Meanwhile, President BidenJoe Biden28 Senate Democrats sign statement urging Israel-Hamas ceasefire Franklin Graham says Trump comeback would 'be a very tough thing to do' Schools face new pressures to reopen for in-person learning MORE revoked a Trump-era order that targeted a controversial law that protects tech companies from liability for content posted by third parties. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks against critical infrastructure organizations spotlight an IT, OT cultural divide<a href="https://www.scmagazine.com/home/2021-rsa-conference/cyberattacks-against-critical-infrastructure-organizations-spotlight-an-it-ot-cultural-divide/"> Full Text</a>
 </p>
 <details>
