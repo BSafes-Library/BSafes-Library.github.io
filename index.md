@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student names, vendor bank account info exposed in Buffalo Public Schools cyberattack<a href="https://buffalonews.com/news/local/education/student-names-vendor-bank-account-info-exposed-in-bps-cyber-attack/article_08d8ebac-b692-11eb-9c05-87f185628062.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal information about an unknown number of students, parents, and employees has been exposed, along with bank account information for an unknown number of vendors, the district revealed recently.
+</details>
+<div style="text-align: right" markdown="1">
+Buffalo News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Find My Network Can be Abused to Exfiltrate Data From Nearby Devices<a href="https://thehackernews.com/2021/05/apples-find-my-network-can-be-abused-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest research has demonstrated a new exploit that enables arbitrary data to be uploaded from devices that are not connected to the Internet by simply sending "Find My Bluetooth" broadcasts to nearby Apple devices.  "It's possible to upload arbitrary data from non-internet-connected devices by sending Find My [Bluetooth Low Energy] broadcasts to nearby Apple devices that then upload the data for you," Positive Security researcher Fabian Bräunlein  said  in a technical write-up disclosed last week.  "Being inherent to the privacy and security-focused design of the Find My Offline Finding system, it seems unlikely that this misuse can be prevented completely."   The study builds on a previous study by TU Darmstadt  published  in March 2021, which disclosed two distinct design and implementation flaws in Apple's crowdsourced Bluetooth location tracking system that could lead to a location correlation attack and unauthorized access to a user's lo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

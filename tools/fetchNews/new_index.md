@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Student names, vendor bank account info exposed in Buffalo Public Schools cyberattack<a href="https://buffalonews.com/news/local/education/student-names-vendor-bank-account-info-exposed-in-bps-cyber-attack/article_08d8ebac-b692-11eb-9c05-87f185628062.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal information about an unknown number of students, parents, and employees has been exposed, along with bank account information for an unknown number of vendors, the district revealed recently.
+</details>
+<div style="text-align: right" markdown="1">
+Buffalo News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Find My Network Can be Abused to Exfiltrate Data From Nearby Devices<a href="https://thehackernews.com/2021/05/apples-find-my-network-can-be-abused-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest research has demonstrated a new exploit that enables arbitrary data to be uploaded from devices that are not connected to the Internet by simply sending "Find My Bluetooth" broadcasts to nearby Apple devices.  "It's possible to upload arbitrary data from non-internet-connected devices by sending Find My [Bluetooth Low Energy] broadcasts to nearby Apple devices that then upload the data for you," Positive Security researcher Fabian Bräunlein  said  in a technical write-up disclosed last week.  "Being inherent to the privacy and security-focused design of the Find My Offline Finding system, it seems unlikely that this misuse can be prevented completely."   The study builds on a previous study by TU Darmstadt  published  in March 2021, which disclosed two distinct design and implementation flaws in Apple's crowdsourced Bluetooth location tracking system that could lead to a location correlation attack and unauthorized access to a user's lo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Brazilian gang defrauds Uber, Lyft, DoorDash using GPS spoofing and stolen IDs<a href="https://therecord.media/brazilian-gang-defrauds-uber-lyft-doordash-using-gps-spoofing-and-stolen-ids/?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Password Hygiene Needs a Reboot<a href="https://thehackernews.com/2021/05/why-password-hygiene-needs-reboot.html"> Full Text</a>
@@ -66,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Snaps Up Kenna Security for Vulnerability Management<a href="https://www.infosecurity-magazine.com:443/news/cisco-kenna-security-vulnerability/"> Full Text</a>
@@ -82,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert released PoC exploit code for Windows CVE-2021-31166 bug<a href="https://securityaffairs.co/wordpress/118015/hacking/poc-windows-iis-cve-2021-31166.html"> Full Text</a>
@@ -102,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Conti ransomware demanded $20M ransom to Ireland Health Service Executive<a href="https://securityaffairs.co/wordpress/118001/cyber-crime/ireland-health-service-executive-conti-ransomware.html?&web_view=true"> Full Text</a>
@@ -118,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn About Ongoing AutoHotkey-Based Malware Attacks<a href="https://thehackernews.com/2021/05/experts-warn-about-ongoing-autohotkey.html"> Full Text</a>
@@ -134,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Forum Bans Ransomware Activity<a href="https://www.infosecurity-magazine.com:443/news/cybercrime-forum-bans-ransomware/"> Full Text</a>
@@ -150,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin down: 51% attack? No, put the blame on Elon Musk<a href="https://securityaffairs.co/wordpress/118008/digital-id/bitcoin-down-musk-declaration.html"> Full Text</a>
@@ -170,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The new digital extortion<a href="https://www.axios.com/ransomware-colonial-pipeline-cyber-attack-extortion-a22f35be-ffa8-4169-a810-b4e6610a3a51.html?&web_view=true"> Full Text</a>
@@ -186,7 +218,7 @@ Axios
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Pipeline Ransomware Attackers Go Dark After Servers and Bitcoin Are Seized<a href="https://thehackernews.com/2021/05/us-pipeline-ransomware-attackers-go.html"> Full Text</a>
@@ -202,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toshiba Business Reportedly Hit by DarkSide Ransomware<a href="https://www.infosecurity-magazine.com:443/news/toshiba-business-hit-darkside/"> Full Text</a>
@@ -218,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware demanded $20M ransom to Ireland Health Service Executive<a href="https://securityaffairs.co/wordpress/118001/cyber-crime/ireland-health-service-executive-conti-ransomware.html"> Full Text</a>
@@ -238,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The bizarre story of the inventor of ransomware<a href="https://edition.cnn.com/2021/05/16/tech/ransomware-joseph-popp/index.html?&web_view=true"> Full Text</a>
@@ -254,7 +286,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD Warns of Two Attacks That Could Allow Bypassing of SEV Protection System<a href="https://securityaffairs.co/wordpress/117981/security/amd-sev-attacks.html?&web_view=true"> Full Text</a>
@@ -270,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clark County confirms malware shut down computer servers<a href="https://www.springfieldnewssun.com/news/clark-county-confirms-malware-shut-down-computer-servers/MWRS2NS43BD3LEHE2ZHIESULLA/?&web_view=true"> Full Text</a>
@@ -286,7 +318,7 @@ Springfield News-Sun
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaddon Ransomware gang hacked France-based Acer Finance<a href="https://securityaffairs.co/wordpress/117991/cyber-crime/avaddon-ransomware-acer-finance-axa.html?&web_view=true"> Full Text</a>
@@ -302,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social Engineering: How to Keep Security Researchers Safe<a href="https://securityintelligence.com/articles/social-engineering-keep-security-researchers-safe/?&web_view=true"> Full Text</a>
@@ -318,7 +350,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2021
+May 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurer AXA hit by ransomware after dropping support for ransom payments<a href="https://www.bleepingcomputer.com/news/security/insurer-axa-hit-by-ransomware-after-dropping-support-for-ransom-payments/"> Full Text</a>
@@ -334,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2021
+May 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaddon Ransomware gang hacked France-based Acer Finance and AXA Asia<a href="https://securityaffairs.co/wordpress/117991/cyber-crime/avaddon-ransomware-acer-finance-axa.html"> Full Text</a>
@@ -358,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2021
+May 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two flaws could allow bypassing AMD SEV protection system<a href="https://securityaffairs.co/wordpress/117981/security/amd-sev-attacks.html"> Full Text</a>
@@ -378,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2021
+May 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Herff Jones credit card breach impacts college students across the US<a href="https://www.bleepingcomputer.com/news/security/herff-jones-credit-card-breach-impacts-college-students-across-the-us/"> Full Text</a>
