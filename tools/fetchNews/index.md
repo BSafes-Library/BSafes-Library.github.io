@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FIN7: Active Again with New Lizar Backdoor<a href="https://cyware.com/news/fin7-active-again-with-new-lizar-backdoor-53a4ef8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cybercrime gang behind the Carbanak RAT is spreading a backdoor called Lizar under the guise of a Windows pen-testing tool for ethical hackers. Experts say the group may be planning to further sharpen its tools and techniques to make its attacks stealthier and more effective.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Transparent Tribe Reappears with Expanded Malware Arsenal and TTPs<a href="https://cyware.com/news/transparent-tribe-reappears-with-expanded-malware-arsenal-and-ttps-03ec43ca"> Full Text</a>
 </p>
 <details>
