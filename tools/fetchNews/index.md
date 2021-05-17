@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware victim shows why transparency in attacks matters<a href="https://www.bleepingcomputer.com/news/security/ransomware-victim-shows-why-transparency-in-attacks-matters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As devastating ransomware attacks continue to have far-reaching consequences, companies still try to hide the attacks rather than be transparent. Below we highlight a company's response to an attack that should be used as a model for all future disclosures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What a Year It’s Been: RSA 2021 Embraces ‘Resilience’<a href="https://threatpost.com/rsa-2021-embraces-resilience/166233/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keynoters from Cisco, Netflix and RSA highlighted lessons from the last year, and cybersecurity’s new mandate in the post-pandemic world: Bounce back stronger.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI spots spear-phishing posing as Truist Bank bank to deliver malware<a href="https://www.bleepingcomputer.com/news/security/fbi-spots-spear-phishing-posing-as-truist-bank-bank-to-deliver-malware/"> Full Text</a>
 </p>
 <details>
