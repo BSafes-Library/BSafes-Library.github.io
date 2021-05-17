@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: RSA CEO Details the Challenges of Resilience in a World of Chaos<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-challenges-of-resilience/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA CEO Rohit Ghai kicks off the annual RSA Security conference with an inspirational keynote defining what resilience is really all about.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Netflix Exec Explains Where Infosec Pros are Going Wrong<a href="https://www.infosecurity-magazine.com:443/news/netflix-exec-infosec-pros-going/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are several hard truths that need to be addressed in the industry
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco and Netflix execs: The pandemic brought good, and some bad changes in security standards<a href="https://www.scmagazine.com/home/2021-rsa-conference/cisco-and-netflix-execs-the-pandemic-brought-some-good-some-bad-and-a-lot-of-change/"> Full Text</a>
 </p>
 <details>
