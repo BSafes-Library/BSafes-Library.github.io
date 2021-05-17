@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PoC released for wormable Windows IIS bug<a href="https://therecord.media/poc-released-for-wormable-windows-iis-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several security researchers and security firms who reviewed last week’s security updates considered the bug the most dangerous vulnerability Microsoft fixed in this month’s patch cycle.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Miss Universe Speaks Out Against Cyber-bullying<a href="https://www.infosecurity-magazine.com:443/news/miss-universe-speaks-out-against/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Competition delegates share cyber-bullying experiences on video
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bizarro Banking Trojan Sports Sophisticated Backdoor<a href="https://threatpost.com/bizarro-banking-trojan-backdoor/166211/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced Brazilian malware has gone global, harvesting bank logins from Android mobile users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Struggle to Cope with Mounting Job Stress<a href="https://threatpost.com/cisos-struggle-job-stress/166221/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pandemic and evolving IT demands are having a major, negative impact on CISO’s mental health, a survey found.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 85% of breaches involve the human element<a href="https://www.helpnetsecurity.com/2021/05/17/breaches-high-human-element/?&web_view=true"> Full Text</a>
 </p>
 <details>
