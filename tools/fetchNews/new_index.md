@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco and Netflix execs: The pandemic brought good, and some bad changes in security standards<a href="https://www.scmagazine.com/home/2021-rsa-conference/cisco-and-netflix-execs-the-pandemic-brought-some-good-some-bad-and-a-lot-of-change/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two executives mull on changes –  big and small –  to the business security environment in the wake of COVID.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK govt seeks advice on defending against supply-chain cyberattacks<a href="https://www.bleepingcomputer.com/news/security/uk-govt-seeks-advice-on-defending-against-supply-chain-cyberattacks/"> Full Text</a>
 </p>
 <details>
