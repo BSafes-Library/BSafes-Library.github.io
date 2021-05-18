@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers press Biden to create plan to secure economy after Colonial Pipeline attack<a href="https://thehill.com//policy/cybersecurity/554189-lawmakers-press-biden-to-create-plan-to-secure-economy-after-colonial"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of the House Homeland Security Committee on Tuesday urged President Biden to ensure there is a plan in place to ensure the nation’s economy is not disrupted by a major cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chrome now automatically fixes breached passwords on Android<a href="https://www.bleepingcomputer.com/news/security/chrome-now-automatically-fixes-breached-passwords-on-android/"> Full Text</a>
 </p>
 <details>
