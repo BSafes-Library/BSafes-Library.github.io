@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Unsuccessful Conti Ransomware Attack Still Packs Costly Punch<a href="https://threatpost.com/conti-ransomware-fail-costly/166263/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Separate attacks last week on the country’s Department of Health and Health Service Executive forced the shutdown of networks and services that still haven’t been fully restored.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 IBM to Acquire Waeg<a href="https://www.infosecurity-magazine.com:443/news/ibm-to-acquire-waeg/"> Full Text</a>
 </p>
 <details>
