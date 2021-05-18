@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Over $80 million lost to cryptocurrency investment scams since October<a href="https://www.bleepingcomputer.com/news/cryptocurrency/over-80-million-lost-to-cryptocurrency-investment-scams-since-october/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) says that over $80 million were lost to cryptocurrency investment scams, according to roughly 7,000 reports received since October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Attackers Obfuscating IP Addresses Inside AWS Using  Amazon VPC Service<a href="https://www.helpnetsecurity.com/2021/05/18/detecting-attackers-inside-aws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have documented an attack technique that may allow attackers to leverage a legitimate Amazon VPC feature to mask their use of stolen API credentials inside AWS.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Q1 2021 Sees 2.9 Million DDoS Attacks Launched<a href="https://www.infosecurity-magazine.com:443/news/q1-2021-sees-millions-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS attacks in Q1 2021 up 31% YoY, according to new research
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 'Flattered' Russian spy chief denies SolarWinds attack<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds-russia/russian-spy-chief-denies-svr-was-behind-solarwinds-cyber-attack-bbc-idUSKCN2CZ0G0?&web_view=true"> Full Text</a>
 </p>
 <details>
