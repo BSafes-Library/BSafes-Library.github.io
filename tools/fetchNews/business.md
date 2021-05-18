@@ -8,6 +8,38 @@ nav_order: 900027
 
 ## Business
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Snaps Up Kenna Security for Vulnerability Management<a href="https://www.infosecurity-magazine.com:443/news/cisco-kenna-security-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New capabilities will boost SecureX platform
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin down: 51% attack? No, put the blame on Elon Musk<a href="https://securityaffairs.co/wordpress/118008/digital-id/bitcoin-down-musk-declaration.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The price of Bitcoin falls after Elon Musk declared that its company, Tesla, may have sold holdings of the cryptocurrency
+
+
+
+We have a long-debated about the possibility that the Bitcoin price could be influenced by threat actors through 51% attacks,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

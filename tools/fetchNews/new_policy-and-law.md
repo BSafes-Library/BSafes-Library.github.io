@@ -11,6 +11,20 @@ nav_order: 900163
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Deputy US Marshal Allegedly Framed Ex as Cyber-stalker<a href="https://www.infosecurity-magazine.com:443/news/marshal-allegedly-framed-ex-as/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-stalking and perjury charges for deputy US marshal accused of framing his former girlfriend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Brazilian gang defrauds Uber, Lyft, DoorDash using GPS spoofing and stolen IDs<a href="https://therecord.media/brazilian-gang-defrauds-uber-lyft-doordash-using-gps-spoofing-and-stolen-ids/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

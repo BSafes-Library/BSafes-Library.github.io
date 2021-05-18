@@ -11,6 +11,20 @@ nav_order: 900029
 May 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Herff Jones credit card breach impacts college students across the US<a href="https://www.bleepingcomputer.com/news/security/herff-jones-credit-card-breach-impacts-college-students-across-the-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Graduating students from several universities in the U.S. have been reporting fraudulent transactions after using payment cards at popular cap and gown maker Herff Jones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial breach underscores concerns&nbsp;over paying&nbsp;hackers<a href="https://thehill.com//policy/cybersecurity/553666-colonial-breach-underscores-concerns-over-paying-hackers"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,20 @@ nav_order: 900027
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco Plans to Acquire Kenna Security, Boost Security Offerings<a href="https://finance.yahoo.com/news/cisco-plans-acquire-kenna-security-073852347.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems (CSCO) plans to acquire privately-held California-based Kenna Security in a bid to enhance its security offerings. However, the financial terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco Snaps Up Kenna Security for Vulnerability Management<a href="https://www.infosecurity-magazine.com:443/news/cisco-kenna-security-vulnerability/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI spots spear-phishing posing as Truist Bank bank to deliver malware<a href="https://www.bleepingcomputer.com/news/security/fbi-spots-spear-phishing-posing-as-truist-bank-bank-to-deliver-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors impersonated Truist, the sixth-largest U.S. bank holding company, in a spear-phishing campaign attempting to infect recipients with what looks like remote access trojan (RAT) malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of scammers targeting families of missing persons<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-targeting-families-of-missing-persons/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned that scammers actively target the vulnerable families of missing persons attempting to extort them using information shared on social media.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

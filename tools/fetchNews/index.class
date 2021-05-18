@@ -34,6 +34,554 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student health insurance carrier Guard.me suffers a data breach<a href="https://www.bleepingcomputer.com/news/security/student-health-insurance-carrier-guardme-suffers-a-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Student health insurance carrier guard.me has taken their website offline after a vulnerability allowed a threat actor to access policyholders' personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+56% of security managers say today’s cyber workforce lacks soft skills<a href="https://www.scmagazine.com/home/2021-rsa-conference/56-of-security-managers-say-todays-cyber-workforce-lacks-soft-skills/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We look for people with the right attitude, people who can be dynamic, and are eager to better themselves and eager to learn,”  said Gregory Touhill of the Software Engineering Institute, during a panel at the RSA Conference. Unfortunately, those skills can be tough to come by.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware also targeted Ireland's Department of Health<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-also-targeted-irelands-department-of-health/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang failed to encrypt the systems of Ireland's Department of Health (DoH) despite breaching its network and dropping Cobalt Strike beacons to deploy their malware across the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Goes Server-Side in Latest Tactics Changeup<a href="https://threatpost.com/magecart-server-side-itactics-changeup/166242/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest Magecart iteration is finding success with a new PHP web shell skimmer.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler's return to Apple store poses new challenges | Biden revokes Trump-era order targeting shield for website operators<a href="https://thehill.com//policy/technology/553967-hillicon-valley-parlers-return-to-apple-store-poses-new-challenges-axa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parler is relaunching in the Apple App Store, with some additional content moderation policies in place for the new version of the controversial social media platform available for iPhones and iPads. A subsidiary group of a French Insurance giant was hit by a ransomware attack that impacted operations across Asia. Meanwhile, President BidenJoe Biden28 Senate Democrats sign statement urging Israel-Hamas ceasefire Franklin Graham says Trump comeback would 'be a very tough thing to do' Schools face new pressures to reopen for in-person learning MORE revoked a Trump-era order that targeted a controversial law that protects tech companies from liability for content posted by third parties. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks against critical infrastructure organizations spotlight an IT, OT cultural divide<a href="https://www.scmagazine.com/home/2021-rsa-conference/cyberattacks-against-critical-infrastructure-organizations-spotlight-an-it-ot-cultural-divide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams that support IT and OT often find themselves at odds in terms of priorities and incident response tactics, heightening the risk that emerges as these two environments converge. Gamification is one tactic that help address conflict.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware victim shows why transparency in attacks matters<a href="https://www.bleepingcomputer.com/news/security/ransomware-victim-shows-why-transparency-in-attacks-matters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As devastating ransomware attacks continue to have far-reaching consequences, companies still try to hide the attacks rather than be transparent. Below we highlight a company's response to an attack that should be used as a model for all future disclosures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What a Year It’s Been: RSA 2021 Embraces ‘Resilience’<a href="https://threatpost.com/rsa-2021-embraces-resilience/166233/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keynoters from Cisco, Netflix and RSA highlighted lessons from the last year, and cybersecurity’s new mandate in the post-pandemic world: Bounce back stronger.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI spots spear-phishing posing as Truist Bank bank to deliver malware<a href="https://www.bleepingcomputer.com/news/security/fbi-spots-spear-phishing-posing-as-truist-bank-bank-to-deliver-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors impersonated Truist, the sixth-largest U.S. bank holding company, in a spear-phishing campaign attempting to infect recipients with what looks like remote access trojan (RAT) malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7: Active Again with New Lizar Backdoor<a href="https://cyware.com/news/fin7-active-again-with-new-lizar-backdoor-53a4ef8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cybercrime gang behind the Carbanak RAT is spreading a backdoor called Lizar under the guise of a Windows pen-testing tool for ethical hackers. Experts say the group may be planning to further sharpen its tools and techniques to make its attacks stealthier and more effective.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Reappears with Expanded Malware Arsenal and TTPs<a href="https://cyware.com/news/transparent-tribe-reappears-with-expanded-malware-arsenal-and-ttps-03ec43ca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36 was found creating fake domains to impersonate military and defense firms and disseminate malware-laced documents to infect victims with ObliqueRAT and CrimsonRAT. Organizations are recommended to stay vigilant and implement adequate security measures proactively.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AXA insurance subsidiary group hit by ransomware attack in multiple Asian countries<a href="https://thehill.com//policy/cybersecurity/553919-axa-insurance-subsidiary-group-hit-by-ransomware-attack-in-multiple"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A subsidiary group of French insurance giant AXA was hit by a ransomware attack last week that negatively impacted operations in multiple Asian countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FragAttacks: Affecting Millions of Wi-Fi Enabled Devices<a href="https://cyware.com/news/fragattacks-affecting-millions-of-wi-fi-enabled-devices-c82bbd07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 12 design and implementation flaws in IEEE 802.11 technical standards leave all WiFi devices vulnerable to attacks. These flaws can be exploited by attackers within the radio range of the target.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: RSA CEO Details the Challenges of Resilience in a World of Chaos<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-challenges-of-resilience/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA CEO Rohit Ghai kicks off the annual RSA Security conference with an inspirational keynote defining what resilience is really all about.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Netflix Exec Explains Where Infosec Pros are Going Wrong<a href="https://www.infosecurity-magazine.com:443/news/netflix-exec-infosec-pros-going/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are several hard truths that need to be addressed in the industry
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco and Netflix execs: The pandemic brought good, and some bad changes in security standards<a href="https://www.scmagazine.com/home/2021-rsa-conference/cisco-and-netflix-execs-the-pandemic-brought-some-good-some-bad-and-a-lot-of-change/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two executives mull on changes –  big and small –  to the business security environment in the wake of COVID.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt seeks advice on defending against supply-chain cyberattacks<a href="https://www.bleepingcomputer.com/news/security/uk-govt-seeks-advice-on-defending-against-supply-chain-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the UK government has announced a call for advice on defending against software supply-chain attacks and ways to strengthen IT Managed Service Providers (MSPs) across the country. The move comes after last week when President Biden had issued an executive order to increase cybersecurity defenses across the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber investigations, threat hunting and research: More art than science<a href="https://www.helpnetsecurity.com/2021/05/17/cyber-investigations-threat-hunting-research/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defenders need to be 100% perfect at protecting 100% of the countless entry points 100% of the time in order to prevent breaches, while on the other hand, hackers only need one exploit that works.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android stalkerware, a danger for victims and stalkers<a href="https://securityaffairs.co/wordpress/118023/malware/android-stalkerware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET research shows that Android stalkerware apps are affected by vulnerabilities that further threaten victims.
+
+
+
+ESET research reveals that common Android stalkerware apps are affected with vulnerabilities that could expose the privacy and security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of scammers targeting families of missing persons<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-targeting-families-of-missing-persons/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned that scammers actively target the vulnerable families of missing persons attempting to extort them using information shared on social media.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deputy US Marshal Allegedly Framed Ex as Cyber-stalker<a href="https://www.infosecurity-magazine.com:443/news/marshal-allegedly-framed-ex-as/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-stalking and perjury charges for deputy US marshal accused of framing his former girlfriend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC released for wormable Windows IIS bug<a href="https://therecord.media/poc-released-for-wormable-windows-iis-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several security researchers and security firms who reviewed last week’s security updates considered the bug the most dangerous vulnerability Microsoft fixed in this month’s patch cycle.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Miss Universe Speaks Out Against Cyber-bullying<a href="https://www.infosecurity-magazine.com:443/news/miss-universe-speaks-out-against/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Competition delegates share cyber-bullying experiences on video
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bizarro Banking Trojan Sports Sophisticated Backdoor<a href="https://threatpost.com/bizarro-banking-trojan-backdoor/166211/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced Brazilian malware has gone global, harvesting bank logins from Android mobile users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Struggle to Cope with Mounting Job Stress<a href="https://threatpost.com/cisos-struggle-job-stress/166221/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pandemic and evolving IT demands are having a major, negative impact on CISO’s mental health, a survey found.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+85% of breaches involve the human element<a href="https://www.helpnetsecurity.com/2021/05/17/breaches-high-human-element/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With an unprecedented number of people working remotely, phishing and ransomware attacks increased by 11 percent and 6 percent respectively, with instances of misrepresentation increasing by 15 times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two-thirds of CISOs Unprepared for Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-cisos-unprepared-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint’s "Voice of the CISO 2021 Report" reveals lack of attack-readiness
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Plans to Acquire Kenna Security, Boost Security Offerings<a href="https://finance.yahoo.com/news/cisco-plans-acquire-kenna-security-073852347.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems (CSCO) plans to acquire privately-held California-based Kenna Security in a bid to enhance its security offerings. However, the financial terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ransomware Sites Go Dark and Three Major Hacking Forums Ban Ransomware Ads<a href="https://therecord.media/three-major-hacking-forums-ban-ransomware-ads-as-some-ransomware-gangs-shut-down/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three hacking forums have now banned ransomware ads, three ransomware leak sites have gone down, and two other ransomware groups have announced plans to stop operating in public and go “private.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government May Force MSPs to Follow Security Standards<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-force-msps-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DCMS has requested views on its proposals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for wormable Windows HTTP vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-wormable-windows-http-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been released over the weekend for a critical wormable vulnerability in the latest Windows 10 and Windows Server versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bizarro Banking Trojan Expands its Attacks to 70 Banks From European and South American Countries<a href="https://securelist.com/bizarro-banking-trojan-expands-its-attacks-to-europe/102258/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bizarro has x64 modules and is able to trick users into entering two-factor authentication codes in fake pop-ups. It may also use social engineering to convince victims to download a smartphone app.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student names, vendor bank account info exposed in Buffalo Public Schools cyberattack<a href="https://buffalonews.com/news/local/education/student-names-vendor-bank-account-info-exposed-in-bps-cyber-attack/article_08d8ebac-b692-11eb-9c05-87f185628062.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal information about an unknown number of students, parents, and employees has been exposed, along with bank account information for an unknown number of vendors, the district revealed recently.
+</details>
+<div style="text-align: right" markdown="1">
+Buffalo News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Find My Network Can be Abused to Exfiltrate Data From Nearby Devices<a href="https://thehackernews.com/2021/05/apples-find-my-network-can-be-abused-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest research has demonstrated a new exploit that enables arbitrary data to be uploaded from devices that are not connected to the Internet by simply sending "Find My Bluetooth" broadcasts to nearby Apple devices.  "It's possible to upload arbitrary data from non-internet-connected devices by sending Find My [Bluetooth Low Energy] broadcasts to nearby Apple devices that then upload the data for you," Positive Security researcher Fabian Bräunlein  said  in a technical write-up disclosed last week.  "Being inherent to the privacy and security-focused design of the Find My Offline Finding system, it seems unlikely that this misuse can be prevented completely."   The study builds on a previous study by TU Darmstadt  published  in March 2021, which disclosed two distinct design and implementation flaws in Apple's crowdsourced Bluetooth location tracking system that could lead to a location correlation attack and unauthorized access to a user's lo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

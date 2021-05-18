@@ -11,6 +11,174 @@ nav_order: 900072
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+56% of security managers say today’s cyber workforce lacks soft skills<a href="https://www.scmagazine.com/home/2021-rsa-conference/56-of-security-managers-say-todays-cyber-workforce-lacks-soft-skills/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We look for people with the right attitude, people who can be dynamic, and are eager to better themselves and eager to learn,”  said Gregory Touhill of the Software Engineering Institute, during a panel at the RSA Conference. Unfortunately, those skills can be tough to come by.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Parler's return to Apple store poses new challenges | Biden revokes Trump-era order targeting shield for website operators<a href="https://thehill.com//policy/technology/553967-hillicon-valley-parlers-return-to-apple-store-poses-new-challenges-axa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parler is relaunching in the Apple App Store, with some additional content moderation policies in place for the new version of the controversial social media platform available for iPhones and iPads. A subsidiary group of a French Insurance giant was hit by a ransomware attack that impacted operations across Asia. Meanwhile, President BidenJoe Biden28 Senate Democrats sign statement urging Israel-Hamas ceasefire Franklin Graham says Trump comeback would 'be a very tough thing to do' Schools face new pressures to reopen for in-person learning MORE revoked a Trump-era order that targeted a controversial law that protects tech companies from liability for content posted by third parties.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks against critical infrastructure organizations spotlight an IT, OT cultural divide<a href="https://www.scmagazine.com/home/2021-rsa-conference/cyberattacks-against-critical-infrastructure-organizations-spotlight-an-it-ot-cultural-divide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams that support IT and OT often find themselves at odds in terms of priorities and incident response tactics, heightening the risk that emerges as these two environments converge. Gamification is one tactic that help address conflict.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What a Year It’s Been: RSA 2021 Embraces ‘Resilience’<a href="https://threatpost.com/rsa-2021-embraces-resilience/166233/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keynoters from Cisco, Netflix and RSA highlighted lessons from the last year, and cybersecurity’s new mandate in the post-pandemic world: Bounce back stronger.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: RSA CEO Details the Challenges of Resilience in a World of Chaos<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-challenges-of-resilience/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA CEO Rohit Ghai kicks off the annual RSA Security conference with an inspirational keynote defining what resilience is really all about.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Netflix Exec Explains Where Infosec Pros are Going Wrong<a href="https://www.infosecurity-magazine.com:443/news/netflix-exec-infosec-pros-going/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are several hard truths that need to be addressed in the industry
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco and Netflix execs: The pandemic brought good, and some bad changes in security standards<a href="https://www.scmagazine.com/home/2021-rsa-conference/cisco-and-netflix-execs-the-pandemic-brought-some-good-some-bad-and-a-lot-of-change/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two executives mull on changes –  big and small –  to the business security environment in the wake of COVID.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber investigations, threat hunting and research: More art than science<a href="https://www.helpnetsecurity.com/2021/05/17/cyber-investigations-threat-hunting-research/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defenders need to be 100% perfect at protecting 100% of the countless entry points 100% of the time in order to prevent breaches, while on the other hand, hackers only need one exploit that works.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Miss Universe Speaks Out Against Cyber-bullying<a href="https://www.infosecurity-magazine.com:443/news/miss-universe-speaks-out-against/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Competition delegates share cyber-bullying experiences on video
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Struggle to Cope with Mounting Job Stress<a href="https://threatpost.com/cisos-struggle-job-stress/166221/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pandemic and evolving IT demands are having a major, negative impact on CISO’s mental health, a survey found.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+85% of breaches involve the human element<a href="https://www.helpnetsecurity.com/2021/05/17/breaches-high-human-element/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With an unprecedented number of people working remotely, phishing and ransomware attacks increased by 11 percent and 6 percent respectively, with instances of misrepresentation increasing by 15 times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two-thirds of CISOs Unprepared for Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-cisos-unprepared-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint’s "Voice of the CISO 2021 Report" reveals lack of attack-readiness
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Why Password Hygiene Needs a Reboot<a href="https://thehackernews.com/2021/05/why-password-hygiene-needs-reboot.html"> Full Text</a>
 </p>
 <details>

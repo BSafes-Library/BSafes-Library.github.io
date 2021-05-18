@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student health insurance carrier Guard.me suffers a data breach<a href="https://www.bleepingcomputer.com/news/security/student-health-insurance-carrier-guardme-suffers-a-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Student health insurance carrier guard.me has taken their website offline after a vulnerability allowed a threat actor to access policyholders' personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student names, vendor bank account info exposed in Buffalo Public Schools cyberattack<a href="https://buffalonews.com/news/local/education/student-names-vendor-bank-account-info-exposed-in-bps-cyber-attack/article_08d8ebac-b692-11eb-9c05-87f185628062.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal information about an unknown number of students, parents, and employees has been exposed, along with bank account information for an unknown number of vendors, the district revealed recently.
+</details>
+<div style="text-align: right" markdown="1">
+Buffalo News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

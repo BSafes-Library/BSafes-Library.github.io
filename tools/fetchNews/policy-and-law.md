@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian gang defrauds Uber, Lyft, DoorDash using GPS spoofing and stolen IDs<a href="https://therecord.media/brazilian-gang-defrauds-uber-lyft-doordash-using-gps-spoofing-and-stolen-ids/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities have charged a gang of Brazilian nationals for a scheme that defrauded the customers of services like Uber, Lyft, DoorDash, and two other unidentified food delivery services.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

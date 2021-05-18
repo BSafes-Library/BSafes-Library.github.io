@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AXA insurance subsidiary group hit by ransomware attack in multiple Asian countries<a href="https://thehill.com//policy/cybersecurity/553919-axa-insurance-subsidiary-group-hit-by-ransomware-attack-in-multiple"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A subsidiary group of French insurance giant AXA was hit by a ransomware attack last week that negatively impacted operations in multiple Asian countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FragAttacks: Affecting Millions of Wi-Fi Enabled Devices<a href="https://cyware.com/news/fragattacks-affecting-millions-of-wi-fi-enabled-devices-c82bbd07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 12 design and implementation flaws in IEEE 802.11 technical standards leave all WiFi devices vulnerable to attacks. These flaws can be exploited by attackers within the radio range of the target.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bizarro Banking Trojan Expands its Attacks to 70 Banks From European and South American Countries<a href="https://securelist.com/bizarro-banking-trojan-expands-its-attacks-to-europe/102258/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bizarro has x64 modules and is able to trick users into entering two-factor authentication codes in fake pop-ups. It may also use social engineering to convince victims to download a smartphone app.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

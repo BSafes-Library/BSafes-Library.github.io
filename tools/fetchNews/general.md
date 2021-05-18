@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Password Hygiene Needs a Reboot<a href="https://thehackernews.com/2021/05/why-password-hygiene-needs-reboot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital world, password security is more important than ever. While biometrics, one-time passwords (OTP), and other emerging forms of authentication are often touted as replacements to the traditional password, today, this concept is more marketing hype than anything else.  But just because&nbsp; passwords aren't going anywhere anytime soon &nbsp;doesn't mean that organizations don't need to modernize their approach to password hygiene right now.&nbsp;  The Compromised Credential Crisis  As Microsoft's&nbsp; security team put it , "All it takes is one compromised credential…to cause a data breach." Coupled with the rampant problem of password reuse, compromised passwords can have a significant and long-lasting impact on enterprise security.  In fact, researchers from Virginia Tech University found that over 70% of users employed a compromised password for other accounts up to a year after it was initially leaked, with 40% reusing passwords that were leaked over three years ago.  Wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Engineering: How to Keep Security Researchers Safe<a href="https://securityintelligence.com/articles/social-engineering-keep-security-researchers-safe/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacking the very people who work on stopping threat actors may seem like a bad idea. But some threat groups do go after people who’ve made a career doing vulnerability research.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

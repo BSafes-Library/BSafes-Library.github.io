@@ -11,6 +11,48 @@ nav_order: 900220
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PoC released for wormable Windows IIS bug<a href="https://therecord.media/poc-released-for-wormable-windows-iis-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several security researchers and security firms who reviewed last week’s security updates considered the bug the most dangerous vulnerability Microsoft fixed in this month’s patch cycle.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for wormable Windows HTTP vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-wormable-windows-http-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been released over the weekend for a critical wormable vulnerability in the latest Windows 10 and Windows Server versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Find My Network Can be Abused to Exfiltrate Data From Nearby Devices<a href="https://thehackernews.com/2021/05/apples-find-my-network-can-be-abused-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest research has demonstrated a new exploit that enables arbitrary data to be uploaded from devices that are not connected to the Internet by simply sending "Find My Bluetooth" broadcasts to nearby Apple devices.  "It's possible to upload arbitrary data from non-internet-connected devices by sending Find My [Bluetooth Low Energy] broadcasts to nearby Apple devices that then upload the data for you," Positive Security researcher Fabian Bräunlein&nbsp; said &nbsp;in a technical write-up disclosed last week.  "Being inherent to the privacy and security-focused design of the Find My Offline Finding system, it seems unlikely that this misuse can be prevented completely."   The study builds on a previous study by TU Darmstadt&nbsp; published &nbsp;in March 2021, which disclosed two distinct design and implementation flaws in Apple's crowdsourced Bluetooth location tracking system that could lead to a location correlation attack and unauthorized access to a user's lo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Expert released PoC exploit code for Windows CVE-2021-31166 bug<a href="https://securityaffairs.co/wordpress/118015/hacking/poc-windows-iis-cve-2021-31166.html"> Full Text</a>
 </p>
 <details>

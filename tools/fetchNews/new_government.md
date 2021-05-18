@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt seeks advice on defending against supply-chain cyberattacks<a href="https://www.bleepingcomputer.com/news/security/uk-govt-seeks-advice-on-defending-against-supply-chain-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the UK government has announced a call for&nbsp;advice on defending against software supply-chain attacks and ways to strengthen&nbsp;IT&nbsp;Managed Service Providers (MSPs) across the country. The move comes after last week when President Biden had issued an&nbsp;executive order to increase&nbsp;cybersecurity defenses across the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government May Force MSPs to Follow Security Standards<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-force-msps-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DCMS has requested views on its proposals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
