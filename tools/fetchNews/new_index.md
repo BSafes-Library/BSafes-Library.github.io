@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Deep Dive Into DarkSide Operations<a href="https://cyware.com/news/a-deep-dive-into-darkside-operations-fde44bdd"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian spy chief denies responsibility for SolarWinds hack<a href="https://thehill.com//policy/cybersecurity/554032-russian-spy-chief-denies-responsibility-for-solarwinds-hack"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free "vCISO Clinic" offers Resource-Constrained InfoSec Leaders a Helping Hand<a href="https://thehackernews.com/2021/05/free-vciso-clinic-offers-resource.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Consumers Warned About Surge in Meal Kit Delivery Scams<a href="https://www.infosecurity-magazine.com:443/news/consumers-warned-surge-meal-kit/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of NoCry ransomware: A variant of the Judge ransomware<a href="https://securityaffairs.co/wordpress/118054/malware/nocry-ransomware-analysis.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verdict is in: Forward-thinking security controls prepared Jersey Courts for COVID<a href="https://www.scmagazine.com/home/2021-rsa-conference/verdict-is-in-forward-thinking-security-controls-prepared-jersey-courts-for-covid/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Adobe Exploits Top List of Crooks’ Wish List<a href="https://threatpost.com/top-microsoft-adobe-exploits-list/166241/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Discovered Function in DarkSide Ransomware Variant Targets Disk Partitions<a href="https://www.fortinet.com/blog/threat-research/newly-discovered-function-in-darkside-ransomware-variant-targets-disk-partitions?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Reveal Over 150 Ways to Steal Control of 58 Android Stalkerware Apps<a href="https://thehackernews.com/2021/05/experts-reveal-over-150-ways-to-steal.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Families of Missing Persons Receive Fake Ransom Demands<a href="https://www.infosecurity-magazine.com:443/news/families-missing-persons-fake/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breaking Down the Ransomware Trends in 2021<a href="https://cyware.com/news/breaking-down-the-ransomware-trends-in-2021-e25a6a4c"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 70 European and South American Banks Under Attack By Bizarro Banking Malware<a href="https://thehackernews.com/2021/05/70-european-and-south-american-banks.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC Renews Bid to Improve Diversity and Inclusion in Cyber<a href="https://www.infosecurity-magazine.com:443/news/ncsc-renews-bid-improve-diversity/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2 Bills Introduced in Wake of Colonial Pipeline Attack<a href="https://www.govinfosecurity.com/2-bills-introduced-in-wake-colonial-pipeline-attack-a-16666?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AXA Faces DDoS After Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/axa-faces-ddos-after-ransomware/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Target South Korean and Aussie Users with Malicious Emails Disguised as Accounting Ledgers<a href="https://hotforsecurity.bitdefender.com/blog/threat-actors-target-south-korean-and-aussie-users-with-malicious-emails-disguised-as-accounting-ledgers-25835.html?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Bitdefender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021  -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish health service may take weeks to recover from ransomware attack<a href="https://www.reuters.com/article/us-ireland-cyber/irish-health-service-may-take-weeks-to-recover-from-ransomware-attack-idUSKCN2CY0ZQ?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discovery of Simps Botnet Leads To Ties to Keksec Group<a href="https://securityaffairs.co/wordpress/118050/malware/simps-botnet.html"> Full Text</a>
@@ -330,7 +330,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Object Injection Vulnerability Affects WordPress Versions 3.7 to 5.7.1<a href="https://blog.sucuri.net/2021/05/object-injection-vulnerability-affects-wordpress-versions-3-7-to-5-7-1.html?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Sucuri
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Codecov hackers gained access to Monday.com source code<a href="https://www.bleepingcomputer.com/news/security/codecov-hackers-gained-access-to-mondaycom-source-code/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bizarro banking Trojan targets banks in Brazil and abroad<a href="https://securityaffairs.co/wordpress/118032/cyber-crime/bizarro-banking-trojan.html"> Full Text</a>
@@ -382,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz: A New Ransomware Making Rounds<a href="https://cyware.com/news/lorenz-a-new-ransomware-making-rounds-1f414774"> Full Text</a>
@@ -398,7 +398,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart Hackers Spreading Malicious PHP Web Shells<a href="https://cyware.com/news/magecart-hackers-spreading-malicious-php-web-shells-77198acd"> Full Text</a>
@@ -414,7 +414,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Bruce Schneier Warns of the Coming AI Hackers<a href="https://www.infosecurity-magazine.com:443/news/rsac-bruce-schneier-warns-of-ai/"> Full Text</a>
@@ -430,7 +430,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: The Invisible War of Internet Misinformation<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-invisible-war/"> Full Text</a>
