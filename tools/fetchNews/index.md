@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+'Flattered' Russian spy chief denies SolarWinds attack<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds-russia/russian-spy-chief-denies-svr-was-behind-solarwinds-cyber-attack-bbc-idUSKCN2CZ0G0?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and Britain have blamed Russia’s Foreign Intelligence Service (SVR), for the hack which compromised nine U.S. federal agencies and hundreds of private sector companies.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oregonian Indicted Over International Streaming Fraud<a href="https://www.infosecurity-magazine.com:443/news/joyner-mcmahon-streaming-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AccountBot suspect allegedly stole and resold millions of customers’ login credentials
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-extortion ransomware attacks on the rise<a href="https://www.helpnetsecurity.com/2021/05/18/double-extortion-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the rewards that result from this type of crime increase, risks to government entities, company bottom lines, reputation, data integrity, customer confidence, and business continuity also grow.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Unsuccessful Conti Ransomware Attack Still Packs Costly Punch<a href="https://threatpost.com/conti-ransomware-fail-costly/166263/"> Full Text</a>
 </p>
 <details>
