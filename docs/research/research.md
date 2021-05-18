@@ -113,6 +113,17 @@ This article examines the ongoing technological revolution and its impact on tod
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Gophish: Implementing a Real-World Phishing Exercise to Teach Social Engineering [HTML](https://papers.bsafes.com/docs/social-engineering/gophish-implementing-a-real-world-phishing-exercise-to-teach-social-engineering/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Social engineering is a large problem in our modern technological world, but while conceptually understood, it is harder to teach compared to traditional pen testing techniques. This research details a class project where students implemented a phishing exercise against real-world targets. Through cooperation with an external corporate partner, students learned the legal, technical, behavioral, analysis, and reporting aspects of social engineering. The outcome provided both usable data for a real-world corporation as well as valuable educational experience for the students.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January, 2021<br>
