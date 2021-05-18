@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Codecov hackers gained access to Monday.com source code<a href="https://www.bleepingcomputer.com/news/security/codecov-hackers-gained-access-to-mondaycom-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monday.com has recently disclosed the impact of the Codecov supply-chain attack that affected multiple companies. As reported by BleepingComputer last month, popular code coverage tool Codecov had been a victim of a supply-chain attack that lasted for two months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bizarro banking Trojan targets banks in Brazil and abroad<a href="https://securityaffairs.co/wordpress/118032/cyber-crime/bizarro-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bizarro is a new sophisticated Brazilian banking trojan that is targeting customers of tens of banks in Europe and South America.
+
+
+
+Researchers from Kaspersky have spotted a new sophisticated Brazilian banking trojan dubbed Bizarro that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lorenz: A New Ransomware Making Rounds<a href="https://cyware.com/news/lorenz-a-new-ransomware-making-rounds-1f414774"> Full Text</a>
 </p>
 <details>
