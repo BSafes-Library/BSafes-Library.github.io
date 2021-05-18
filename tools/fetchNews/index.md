@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hackers Spreading Malicious PHP Web Shells<a href="https://cyware.com/news/magecart-hackers-spreading-malicious-php-web-shells-77198acd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Magecart Group continues to distribute new malware wherein attackers hide the PHP-based web shell malware—masked as a favicon—into the targeted sites.&nbsp;The cybercrime syndicate is intensifying its efforts to compromise online stores with a wide range of attack vectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Bruce Schneier Warns of the Coming AI Hackers<a href="https://www.infosecurity-magazine.com:443/news/rsac-bruce-schneier-warns-of-ai/"> Full Text</a>
 </p>
 <details>
