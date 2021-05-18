@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Apple Gave Chinese Government Access to iCloud Data and Censored Apps<a href="https://thehackernews.com/2021/05/how-apple-gave-chinese-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2018, when Guizhou-Cloud Big Data (GCBD)  agreed to a deal  with state-owned telco China Telecom to move users' iCloud data belonging to Apple's China-based users to the latter's servers, the shift raised concerns that it could make user data vulnerable to state surveillance.  Now, according to a  deep-dive report  from The New York Times, Apple's privacy and security concessions have "made it nearly impossible for the company to stop the Chinese government from gaining access to the emails, photos, documents, contacts and locations of millions of Chinese residents."  The revelations stand in stark contrast to Apple's commitment to privacy, while also highlighting a pattern of  conceding  to the  demands  of the Chinese government in order to continue its operations in the country.   Apple, in 2018, announced iCloud data of users in mainland China would move to a new data center in Guizhou province as part of a partnership with GCBD. The transitio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
