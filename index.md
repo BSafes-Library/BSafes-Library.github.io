@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Commercial third party code creating security blind spots<a href="https://www.helpnetsecurity.com/2021/05/18/commercial-third-party-code/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the fact that third party code in IoT projects has grown 17% in the past five years, only 56% of OEMs have formal policies for testing security, a VDC Research reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 It’s Time to Prepare for a Rise in Insider Threats<a href="https://threatpost.com/prepare-rise-insider-threats/166272/"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+It’s Time to Prepare for a Rise in Insider Threats<a href="https://threatpost.com/prepare-rise-insider-threats/166272/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anurag Kahol, CTO at Bitglass, discusses options for detecting malicious or dangerous activity from within an organization.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Over $80 million lost to cryptocurrency investment scams since October<a href="https://www.bleepingcomputer.com/news/cryptocurrency/over-80-million-lost-to-cryptocurrency-investment-scams-since-october/"> Full Text</a>
 </p>
 <details>
