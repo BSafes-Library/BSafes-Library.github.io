@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mozilla starts rolling out Site Isolation to all Firefox channels<a href="https://www.bleepingcomputer.com/news/security/mozilla-starts-rolling-out-site-isolation-to-all-firefox-channels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has started rolling out the Site Isolation security feature to all Firefox channels, now also protecting users in the Beta and Release channels from attacks launched via malicious websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Anne Neuberger Sets Out Biden Administration’s Plan to Modernize US Cyber-defenses<a href="https://www.infosecurity-magazine.com:443/news/biden-modernize-us-cyber-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anne Neuberger outlines three areas of focus for the Biden administration to enhance the US's cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stalkerware Apps Riddled with Security Bugs<a href="https://threatpost.com/stalkerware-apps-security-bugs/166274/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers can take advantage of the fact these apps access, gather, store and transmit more information than any other app their victims have installed. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Analysis of NoCry ransomware: A variant of the Judge ransomware<a href="https://securityaffairs.co/wordpress/118054/malware/nocry-ransomware-analysis.html?&web_view=true"> Full Text</a>
 </p>
 <details>
