@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Student health insurance carrier Guard.me suffers a data breach<a href="https://www.bleepingcomputer.com/news/security/student-health-insurance-carrier-guardme-suffers-a-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Student health insurance carrier guard.me has taken their website offline after a vulnerability allowed a threat actor to access policyholders' personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+56% of security managers say today’s cyber workforce lacks soft skills<a href="https://www.scmagazine.com/home/2021-rsa-conference/56-of-security-managers-say-todays-cyber-workforce-lacks-soft-skills/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We look for people with the right attitude, people who can be dynamic, and are eager to better themselves and eager to learn,”  said Gregory Touhill of the Software Engineering Institute, during a panel at the RSA Conference. Unfortunately, those skills can be tough to come by.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware also targeted Ireland's Department of Health<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-also-targeted-irelands-department-of-health/"> Full Text</a>
 </p>
 <details>
