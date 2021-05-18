@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Plans to Spend Billions in Cybersecurity Funding to Protect Critical Infrastructure<a href="https://www.reuters.com/technology/biden-administration-eyes-cybersecurity-funding-after-attacks-2021-05-18/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Tuesday detailed how it wants to fund efforts to counter a wave of massive hacks in the wake of this month’s Colonial Pipeline ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline servers experiencing 'intermittent disruptions' days after ransomware attack<a href="https://thehill.com//policy/cybersecurity/554126-colonial-pipeline-servers-experiencing-intermittent-disruptions-days"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline announced Tuesday that its internal servers were experiencing “intermittent disruptions," but stressed the problem was separate from the devastating ransomware attack that disrupted operations earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Eldorado-based Shared Assessments acquired by national company OneTrust<a href="https://news.yahoo.com/eldorado-based-shared-assessments-acquired-150200574.html?&web_view=true"> Full Text</a>
 </p>
 <details>
