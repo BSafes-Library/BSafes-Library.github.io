@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+IBM to Acquire Waeg<a href="https://www.infosecurity-magazine.com:443/news/ibm-to-acquire-waeg/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deal to acquire European Salesforce Consulting Partner expected to close this quarter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How Apple Gave Chinese Government Access to iCloud Data and Censored Apps<a href="https://thehackernews.com/2021/05/how-apple-gave-chinese-government.html"> Full Text</a>
 </p>
 <details>
