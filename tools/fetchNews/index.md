@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+‘How would I feel if that was posted in Times Square?’ Lawyers warn to watch what you say about breaches<a href="https://www.scmagazine.com/home/security-news/data-breach/how-would-i-feel-if-that-was-posted-in-times-square-lawyers-warn-to-watch-what-you-say-about-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law firm partner advises RSA Conference attendees to practice “communication hygiene” when emailing or messaging.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers Pose as Meal-Kit Services to Steal Customer Data<a href="https://threatpost.com/scammers-meal-kit-services-customer-data/166282/"> Full Text</a>
 </p>
 <details>
