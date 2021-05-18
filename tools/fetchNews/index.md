@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chrome now automatically fixes breached passwords on Android<a href="https://www.bleepingcomputer.com/news/security/chrome-now-automatically-fixes-breached-passwords-on-android/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is rolling out a new Chrome on Android feature to help users change passwords leaked online following data breaches with a single tap.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Does the US Need a National Breach Reporting Law?<a href="https://www.infosecurity-magazine.com:443/news/rsac-does-us-need-national-breach/"> Full Text</a>
 </p>
 <details>
