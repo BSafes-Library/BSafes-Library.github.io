@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Student health insurance carrier Guard.me suffers a data breach<a href="https://www.bleepingcomputer.com/news/security/student-health-insurance-carrier-guardme-suffers-a-data-breach/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 56% of security managers say today’s cyber workforce lacks soft skills<a href="https://www.scmagazine.com/home/2021-rsa-conference/56-of-security-managers-say-todays-cyber-workforce-lacks-soft-skills/"> Full Text</a>
@@ -66,7 +66,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware also targeted Ireland's Department of Health<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-also-targeted-irelands-department-of-health/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart Goes Server-Side in Latest Tactics Changeup<a href="https://threatpost.com/magecart-server-side-itactics-changeup/166242/"> Full Text</a>
@@ -98,7 +98,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Parler's return to Apple store poses new challenges | Biden revokes Trump-era order targeting shield for website operators<a href="https://thehill.com//policy/technology/553967-hillicon-valley-parlers-return-to-apple-store-poses-new-challenges-axa"> Full Text</a>
@@ -114,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks against critical infrastructure organizations spotlight an IT, OT cultural divide<a href="https://www.scmagazine.com/home/2021-rsa-conference/cyberattacks-against-critical-infrastructure-organizations-spotlight-an-it-ot-cultural-divide/"> Full Text</a>
@@ -130,7 +130,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware victim shows why transparency in attacks matters<a href="https://www.bleepingcomputer.com/news/security/ransomware-victim-shows-why-transparency-in-attacks-matters/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What a Year It’s Been: RSA 2021 Embraces ‘Resilience’<a href="https://threatpost.com/rsa-2021-embraces-resilience/166233/"> Full Text</a>
@@ -162,7 +162,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI spots spear-phishing posing as Truist Bank bank to deliver malware<a href="https://www.bleepingcomputer.com/news/security/fbi-spots-spear-phishing-posing-as-truist-bank-bank-to-deliver-malware/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7: Active Again with New Lizar Backdoor<a href="https://cyware.com/news/fin7-active-again-with-new-lizar-backdoor-53a4ef8d"> Full Text</a>
@@ -194,7 +194,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transparent Tribe Reappears with Expanded Malware Arsenal and TTPs<a href="https://cyware.com/news/transparent-tribe-reappears-with-expanded-malware-arsenal-and-ttps-03ec43ca"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AXA insurance subsidiary group hit by ransomware attack in multiple Asian countries<a href="https://thehill.com//policy/cybersecurity/553919-axa-insurance-subsidiary-group-hit-by-ransomware-attack-in-multiple"> Full Text</a>
@@ -226,7 +226,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FragAttacks: Affecting Millions of Wi-Fi Enabled Devices<a href="https://cyware.com/news/fragattacks-affecting-millions-of-wi-fi-enabled-devices-c82bbd07"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: RSA CEO Details the Challenges of Resilience in a World of Chaos<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-challenges-of-resilience/"> Full Text</a>
@@ -258,7 +258,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Netflix Exec Explains Where Infosec Pros are Going Wrong<a href="https://www.infosecurity-magazine.com:443/news/netflix-exec-infosec-pros-going/"> Full Text</a>
@@ -274,7 +274,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco and Netflix execs: The pandemic brought good, and some bad changes in security standards<a href="https://www.scmagazine.com/home/2021-rsa-conference/cisco-and-netflix-execs-the-pandemic-brought-some-good-some-bad-and-a-lot-of-change/"> Full Text</a>
@@ -290,7 +290,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK govt seeks advice on defending against supply-chain cyberattacks<a href="https://www.bleepingcomputer.com/news/security/uk-govt-seeks-advice-on-defending-against-supply-chain-cyberattacks/"> Full Text</a>
@@ -306,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber investigations, threat hunting and research: More art than science<a href="https://www.helpnetsecurity.com/2021/05/17/cyber-investigations-threat-hunting-research/?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android stalkerware, a danger for victims and stalkers<a href="https://securityaffairs.co/wordpress/118023/malware/android-stalkerware.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of scammers targeting families of missing persons<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-targeting-families-of-missing-persons/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deputy US Marshal Allegedly Framed Ex as Cyber-stalker<a href="https://www.infosecurity-magazine.com:443/news/marshal-allegedly-framed-ex-as/"> Full Text</a>
@@ -374,7 +374,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC released for wormable Windows IIS bug<a href="https://therecord.media/poc-released-for-wormable-windows-iis-bug/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Miss Universe Speaks Out Against Cyber-bullying<a href="https://www.infosecurity-magazine.com:443/news/miss-universe-speaks-out-against/"> Full Text</a>
@@ -406,7 +406,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bizarro Banking Trojan Sports Sophisticated Backdoor<a href="https://threatpost.com/bizarro-banking-trojan-backdoor/166211/"> Full Text</a>
@@ -422,7 +422,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs Struggle to Cope with Mounting Job Stress<a href="https://threatpost.com/cisos-struggle-job-stress/166221/"> Full Text</a>
@@ -438,7 +438,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 85% of breaches involve the human element<a href="https://www.helpnetsecurity.com/2021/05/17/breaches-high-human-element/?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two-thirds of CISOs Unprepared for Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/twothirds-of-cisos-unprepared-for/"> Full Text</a>
@@ -470,7 +470,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Plans to Acquire Kenna Security, Boost Security Offerings<a href="https://finance.yahoo.com/news/cisco-plans-acquire-kenna-security-073852347.html?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Ransomware Sites Go Dark and Three Major Hacking Forums Ban Ransomware Ads<a href="https://therecord.media/three-major-hacking-forums-ban-ransomware-ads-as-some-ransomware-gangs-shut-down/?&web_view=true"> Full Text</a>
@@ -502,7 +502,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Government May Force MSPs to Follow Security Standards<a href="https://www.infosecurity-magazine.com:443/news/uk-govt-force-msps-security/"> Full Text</a>
@@ -518,7 +518,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for wormable Windows HTTP vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-wormable-windows-http-vulnerability/"> Full Text</a>
@@ -534,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bizarro Banking Trojan Expands its Attacks to 70 Banks From European and South American Countries<a href="https://securelist.com/bizarro-banking-trojan-expands-its-attacks-to-europe/102258/?&web_view=true"> Full Text</a>
@@ -550,7 +550,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Student names, vendor bank account info exposed in Buffalo Public Schools cyberattack<a href="https://buffalonews.com/news/local/education/student-names-vendor-bank-account-info-exposed-in-bps-cyber-attack/article_08d8ebac-b692-11eb-9c05-87f185628062.html?&web_view=true"> Full Text</a>
@@ -566,7 +566,7 @@ Buffalo News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2021
+May 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple's Find My Network Can be Abused to Exfiltrate Data From Nearby Devices<a href="https://thehackernews.com/2021/05/apples-find-my-network-can-be-abused-to.html"> Full Text</a>
