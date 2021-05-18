@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware made $90 million in just nine months<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-made-90-million-in-just-nine-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DarkSide ransomware gang has collected at least $90 million in ransoms paid by its victims over the past nine months to multiple Bitcoin wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discovery of Simps Botnet Reveals Ties to Keksec Hacker Group<a href="https://securityaffairs.co/wordpress/118050/malware/simps-botnet.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Simps botnet binary uses Mirai and Gafgyt modules for DDOS functionality. The botnet might be in the early stages of development because of the presence of the infected.log file after execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI says cybercrime complaints more than doubled in 14 months<a href="https://www.bleepingcomputer.com/news/security/fbi-says-cybercrime-complaints-more-than-doubled-in-14-months/"> Full Text</a>
 </p>
 <details>

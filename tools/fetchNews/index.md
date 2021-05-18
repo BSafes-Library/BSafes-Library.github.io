@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI says cybercrime complaints more than doubled in 14 months<a href="https://www.bleepingcomputer.com/news/security/fbi-says-cybercrime-complaints-more-than-doubled-in-14-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI's Internet Crime Complaint Center (IC3) has seen a massive 100% in cybercrime complaints over the past 14 months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Commercial third party code creating security blind spots<a href="https://www.helpnetsecurity.com/2021/05/18/commercial-third-party-code/?&web_view=true"> Full Text</a>
 </p>
 <details>
