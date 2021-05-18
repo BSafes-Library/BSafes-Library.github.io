@@ -186,6 +186,18 @@ This document from the National Highway Traffic Safety Administration (NHTSA) up
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts [HTML](https://papers.bsafes.com/docs/docs/politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The purpose of this thesis is to examine the growing national security threat posed by Russia and China’s willingness to exercise 21st century information warfare techniques against the United States and its areas of strategic interest. This study will describe the composition of these state’s foreign disinformation entities while providing several case studies that display their advanced capabilities and the direct effects that each poses on the general public both domestically and internationally.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 27, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
