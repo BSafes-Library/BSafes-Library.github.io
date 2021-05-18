@@ -37,6 +37,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Deep Dive Into DarkSide Operations<a href="https://cyware.com/news/a-deep-dive-into-darkside-operations-fde44bdd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colonial Pipeline, which carries fuel along a path of 5,500 miles all the way from Texas to New Jersey, was hacked by DarkSide ransomware operators. This ended up being the largest impact on the U.S. energy system from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian spy chief denies responsibility for SolarWinds hack<a href="https://thehill.com//policy/cybersecurity/554032-russian-spy-chief-denies-responsibility-for-solarwinds-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s spy chief is denying that his country is responsible for the cyberattack on IT group SolarWinds.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free "vCISO Clinic" offers Resource-Constrained InfoSec Leaders a Helping Hand<a href="https://thehackernews.com/2021/05/free-vciso-clinic-offers-resource.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders in the InfoSec field face a strange dilemma. On the one hand, there are hundreds of thousands of resources available to find online to read (or watch) if they have questions – that's a benefit of a digital-first field. On the other hand, most leaders face challenges that – while not entirely unique each time – tend to require a specific touch or solution.  For most, it would be great to have a sympathetic ear or a fresh perspective that has faced similar challenges. Where does the tip of the spear turn to for a helping hand?  One popular avenue is to turn to a virtual CISO (or vCISO), an external consultant who can offer strategic advice, suggestions and help find insights that can be instrumental in building better security systems.  For many organizations, having the benefits of a CISO, even on a temporary basis, can be incredibly helpful and valuable.  With that in mind, Chris Roberts, Cynet's chief security strategist, is offering a new program ( you can learn more
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers Warned About Surge in Meal Kit Delivery Scams<a href="https://www.infosecurity-magazine.com:443/news/consumers-warned-surge-meal-kit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraudsters are increasingly impersonating meal kit delivery companies like Gousto
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of NoCry ransomware: A variant of the Judge ransomware<a href="https://securityaffairs.co/wordpress/118054/malware/nocry-ransomware-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Tesorion released a decryptor for Judge ransomware that also decrypts files encrypted by the NoCry ransomware.
+
+
+
+In January this year, we published a blog post on our analysis of the Judge ransomware. We announced a free decryptor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verdict is in: Forward-thinking security controls prepared Jersey Courts for COVID<a href="https://www.scmagazine.com/home/2021-rsa-conference/verdict-is-in-forward-thinking-security-controls-prepared-jersey-courts-for-covid/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jack McCarthy, CIO of the New Jersey Judiciary Court System, was on the golf course last March when he received a call from Jersey’s chief justice saying the courts would be shut down due to the pandemic. This immediately kicked off a sweeping business continuity and work-from-home initiative that emphasized user and data security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Adobe Exploits Top List of Crooks’ Wish List<a href="https://threatpost.com/top-microsoft-adobe-exploits-list/166241/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You can’t possibly patch all CVEs, so focus on the exploits crooks are willing to pay for, as tracked in a study of the underground exploit market.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Function in DarkSide Ransomware Variant Targets Disk Partitions<a href="https://www.fortinet.com/blog/threat-research/newly-discovered-function-in-darkside-ransomware-variant-targets-disk-partitions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the time of discovery, FortiGuard Labs researchers believed the ransomware was seeking out partitions to find possible hidden partitions setup by systems administrators to hide backup files.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Reveal Over 150 Ways to Steal Control of 58 Android Stalkerware Apps<a href="https://thehackernews.com/2021/05/experts-reveal-over-150-ways-to-steal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 158 privacy and security issues have been identified in 58 Android stalkware apps from various vendors that could enable a malicious actor to take control of a victim's device, hijack a stalker's account, intercept data, achieve remote code execution, and even frame the victim by uploading fabricated evidence.  The new findings, which come from an analysis of 86 stalkerware apps for the Android platform undertaken by Slovak cybersecurity firm ESET, highlight the unintended consequences of a practice that's not only unethical but in the process could also expose private and intimate information of the victims and leave them at risk of cyberattacks and fraud.  "Since there could be a close relationship between stalker and victim, the stalker's private information could also be exposed," ESET researcher Lukas Stefanko  said  in a Monday write-up. "During our research, we identified that some stalkerware keeps information about the stalkers using
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Families of Missing Persons Receive Fake Ransom Demands<a href="https://www.infosecurity-magazine.com:443/news/families-missing-persons-fake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI warns that extortion scams are increasing
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking Down the Ransomware Trends in 2021<a href="https://cyware.com/news/breaking-down-the-ransomware-trends-in-2021-e25a6a4c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is to be expected that threat actors are not going to keep up their end of the bargain, even after paying the ransom. All or some part of the exfiltrated data has ended up online even after payment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+70 European and South American Banks Under Attack By Bizarro Banking Malware<a href="https://thehackernews.com/2021/05/70-european-and-south-american-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cybercrime gang has unleashed a previously undocumented banking trojan, which can steal credentials from customers of 70 banks located in various European and South American countries.  Dubbed " Bizarro " by Kaspersky researchers, the Windows malware is "using affiliates or recruiting money mules to operationalize their attacks, cashing out or simply to helping [sic] with transfers."  The campaign consists of multiple moving parts, chief among them being the ability to trick users into entering two-factor authentication codes in fake pop-up windows that are then sent to the attackers, as well as its reliance on social engineering lures to convince visitors of banking websites into downloading a malicious smartphone app.   Bizarro, which uses compromised WordPress, Amazon, and Azure servers to host the malware, is distributed via MSI packages downloaded by victims from sketchy links in spam emails. Launching the package downloads a ZIP archiv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Renews Bid to Improve Diversity and Inclusion in Cyber<a href="https://www.infosecurity-magazine.com:443/news/ncsc-renews-bid-improve-diversity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Second annual survey will seek out areas for improvement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2 Bills Introduced in Wake of Colonial Pipeline Attack<a href="https://www.govinfosecurity.com/2-bills-introduced-in-wake-colonial-pipeline-attack-a-16666?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack on Colonial Pipeline Co. earlier this month has prompted lawmakers to introduce measures designed to address cybersecurity shortcomings in the nation's critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AXA Faces DDoS After Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/axa-faces-ddos-after-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon group warns of more damage ahead
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target South Korean and Aussie Users with Malicious Emails Disguised as Accounting Ledgers<a href="https://hotforsecurity.bitdefender.com/blog/threat-actors-target-south-korean-and-aussie-users-with-malicious-emails-disguised-as-accounting-ledgers-25835.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out of this, 98.34 percent of the attacks appear to have originated from IP addresses in Bangladesh, with 76.08% of targeted users in South Korea, 17% in Australia, and 1% in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish health service may take weeks to recover from ransomware attack<a href="https://www.reuters.com/article/us-ireland-cyber/irish-health-service-may-take-weeks-to-recover-from-ransomware-attack-idUSKCN2CY0ZQ?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“While it may take weeks to get all systems back, steady progress is being made, starting with services for the most urgent patients,” Health Minister Stephen Donnelly said on Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Discovery of Simps Botnet Leads To Ties to Keksec Group<a href="https://securityaffairs.co/wordpress/118050/malware/simps-botnet.html"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Discovery of Simps Botnet Leads To Ties to Keksec Group<a href="https://securityaffairs.co/wordpress/118050/malware/simps-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs' threat research team discovered a new botnet, tracked as Simps botnet, attributed to Keksec group, which is focused on DDOS activities
+
+
+
+Uptycs' threat research team has discovered a new Botnet named ‘Simps’ attributed to Keksec group primarily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Object Injection Vulnerability Affects WordPress Versions 3.7 to 5.7.1<a href="https://blog.sucuri.net/2021/05/object-injection-vulnerability-affects-wordpress-versions-3-7-to-5-7-1.html?&web_view=true"> Full Text</a>
 </p>
 <details>
