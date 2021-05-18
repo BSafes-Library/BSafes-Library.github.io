@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Analysis of NoCry ransomware: A variant of the Judge ransomware<a href="https://securityaffairs.co/wordpress/118054/malware/nocry-ransomware-analysis.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NoCry ransomware, which is very similar to Judge, creates a mutex to prevent multiple instances from running in parallel, provides sandbox detection, and deletes system restore points.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Japan to restrict private sector use of foreign equipment and tech: Report<a href="https://www.zdnet.com/article/japan-to-restrict-private-sector-use-of-foreign-equipment-and-tech-report/?&web_view=true"> Full Text</a>
 </p>
 <details>

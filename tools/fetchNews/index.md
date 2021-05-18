@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Japan to restrict private sector use of foreign equipment and tech: Report<a href="https://www.zdnet.com/article/japan-to-restrict-private-sector-use-of-foreign-equipment-and-tech-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Japanese government will reportedly introduce new regulations across 44 sectors to bolster national cyber defence, partly in response to the Colonial Pipeline hack that occurred last week.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 European Council extends sanctions against foreign threat actors<a href="https://securityaffairs.co/wordpress/118059/security/european-council-extends-sanctions.html"> Full Text</a>
 </p>
 <details>
