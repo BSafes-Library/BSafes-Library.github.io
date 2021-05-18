@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+70 European and South American Banks Under Attack By Bizarro Banking Malware<a href="https://thehackernews.com/2021/05/70-european-and-south-american-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cybercrime gang has unleashed a previously undocumented banking trojan, which can steal credentials from customers of 70 banks located in various European and South American countries.  Dubbed " Bizarro " by Kaspersky researchers, the Windows malware is "using affiliates or recruiting money mules to operationalize their attacks, cashing out or simply to helping [sic] with transfers."  The campaign consists of multiple moving parts, chief among them being the ability to trick users into entering two-factor authentication codes in fake pop-up windows that are then sent to the attackers, as well as its reliance on social engineering lures to convince visitors of banking websites into downloading a malicious smartphone app.   Bizarro, which uses compromised WordPress, Amazon, and Azure servers to host the malware, is distributed via MSI packages downloaded by victims from sketchy links in spam emails. Launching the package downloads a ZIP archiv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

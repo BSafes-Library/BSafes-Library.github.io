@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discovery of Simps Botnet Leads To Ties to Keksec Group<a href="https://securityaffairs.co/wordpress/118050/malware/simps-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs' threat research team discovered a new botnet, tracked as Simps botnet, attributed to Keksec group, which is focused on DDOS activities
+
+
+
+Uptycs' threat research team&nbsp;has discovered a new Botnet named ‘Simps’ attributed to Keksec group primarily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

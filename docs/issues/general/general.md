@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free "vCISO Clinic" offers Resource-Constrained InfoSec Leaders a Helping Hand<a href="https://thehackernews.com/2021/05/free-vciso-clinic-offers-resource.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders in the InfoSec field face a strange dilemma. On the one hand, there are hundreds of thousands of resources available to find online to read (or watch) if they have questions – that's a benefit of a digital-first field. On the other hand, most leaders face challenges that – while not entirely unique each time – tend to require a specific touch or solution.  For most, it would be great to have a sympathetic ear or a fresh perspective that has faced similar challenges. Where does the tip of the spear turn to for a helping hand?  One popular avenue is to turn to a virtual CISO (or vCISO), an external consultant who can offer strategic advice, suggestions and help find insights that can be instrumental in building better security systems.  For many organizations, having the benefits of a CISO, even on a temporary basis, can be incredibly helpful and valuable.  With that in mind, Chris Roberts, Cynet's chief security strategist, is offering a new program ( you can learn more
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verdict is in: Forward-thinking security controls prepared Jersey Courts for COVID<a href="https://www.scmagazine.com/home/2021-rsa-conference/verdict-is-in-forward-thinking-security-controls-prepared-jersey-courts-for-covid/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jack McCarthy, CIO of the New Jersey Judiciary Court System, was on the golf course last March when he received a call from Jersey’s chief justice saying the courts would be shut down due to the pandemic. This immediately kicked off a sweeping business continuity and work-from-home initiative that emphasized user and data security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Adobe Exploits Top List of Crooks’ Wish List<a href="https://threatpost.com/top-microsoft-adobe-exploits-list/166241/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You can’t possibly patch all CVEs, so focus on the exploits crooks are willing to pay for, as tracked in a study of the underground exploit market.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Reveal Over 150 Ways to Steal Control of 58 Android Stalkerware Apps<a href="https://thehackernews.com/2021/05/experts-reveal-over-150-ways-to-steal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 158 privacy and security issues have been identified in 58 Android stalkware apps from various vendors that could enable a malicious actor to take control of a victim's device, hijack a stalker's account, intercept data, achieve remote code execution, and even frame the victim by uploading fabricated evidence.  The new findings, which come from an analysis of 86 stalkerware apps for the Android platform undertaken by Slovak cybersecurity firm ESET, highlight the unintended consequences of a practice that's not only unethical but in the process could also expose private and intimate information of the victims and leave them at risk of cyberattacks and fraud.  "Since there could be a close relationship between stalker and victim, the stalker's private information could also be exposed," ESET researcher Lukas Stefanko&nbsp; said &nbsp;in a Monday write-up. "During our research, we identified that some stalkerware keeps information about the stalkers using
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Renews Bid to Improve Diversity and Inclusion in Cyber<a href="https://www.infosecurity-magazine.com:443/news/ncsc-renews-bid-improve-diversity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Second annual survey will seek out areas for improvement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Bruce Schneier Warns of the Coming AI Hackers<a href="https://www.infosecurity-magazine.com:443/news/rsac-bruce-schneier-warns-of-ai/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI hacking has the potential to reshape the cybersecurity landscape for good or for evil, Schneier warns in a grim RSA Conference keynote
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

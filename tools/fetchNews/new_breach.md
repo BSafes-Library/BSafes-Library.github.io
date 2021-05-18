@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov hackers gained access to Monday.com source code<a href="https://www.bleepingcomputer.com/news/security/codecov-hackers-gained-access-to-mondaycom-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monday.com has recently disclosed the impact of the&nbsp;Codecov supply-chain attack that affected multiple companies. As reported by BleepingComputer last month, popular code coverage tool&nbsp;Codecov&nbsp;had been a victim of a&nbsp;supply-chain attack that lasted for&nbsp;two months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7: Active Again with New Lizar Backdoor<a href="https://cyware.com/news/fin7-active-again-with-new-lizar-backdoor-53a4ef8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cybercrime gang behind the Carbanak RAT is spreading a backdoor called Lizar under the guise of a Windows pen-testing tool for ethical hackers. Experts say the group may be planning to further sharpen its tools and techniques to make its attacks stealthier and more effective.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Reappears with Expanded Malware Arsenal and TTPs<a href="https://cyware.com/news/transparent-tribe-reappears-with-expanded-malware-arsenal-and-ttps-03ec43ca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36 was found creating fake domains to impersonate military and defense firms and disseminate malware-laced documents to infect victims with ObliqueRAT and CrimsonRAT. Organizations are recommended to stay vigilant and implement adequate security measures proactively.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

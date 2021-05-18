@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers Warned About Surge in Meal Kit Delivery Scams<a href="https://www.infosecurity-magazine.com:443/news/consumers-warned-surge-meal-kit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraudsters are increasingly impersonating meal kit delivery companies like Gousto
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Families of Missing Persons Receive Fake Ransom Demands<a href="https://www.infosecurity-magazine.com:443/news/families-missing-persons-fake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI warns that extortion scams are increasing
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target South Korean and Aussie Users with Malicious Emails Disguised as Accounting Ledgers<a href="https://hotforsecurity.bitdefender.com/blog/threat-actors-target-south-korean-and-aussie-users-with-malicious-emails-disguised-as-accounting-ledgers-25835.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out of this, 98.34 percent of the attacks appear to have originated from IP addresses in Bangladesh, with 76.08% of targeted users in South Korea, 17% in Australia, and 1% in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

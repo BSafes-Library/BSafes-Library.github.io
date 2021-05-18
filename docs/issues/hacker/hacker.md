@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Deep Dive Into DarkSide Operations<a href="https://cyware.com/news/a-deep-dive-into-darkside-operations-fde44bdd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colonial Pipeline, which carries fuel along a path of 5,500 miles all the way from Texas to New Jersey, was hacked by DarkSide ransomware operators. This ended up being the largest impact on the U.S. energy system from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

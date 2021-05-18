@@ -11,6 +11,48 @@ nav_order: 900180
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware also targeted Ireland's Department of Health<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-also-targeted-irelands-department-of-health/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang failed to encrypt the systems of Ireland's Department of Health (DoH) despite breaching its network and dropping&nbsp;Cobalt Strike beacons to deploy their malware across the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware victim shows why transparency in attacks matters<a href="https://www.bleepingcomputer.com/news/security/ransomware-victim-shows-why-transparency-in-attacks-matters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As devastating ransomware attacks continue to have far-reaching consequences, companies still try to hide the attacks rather than be transparent. Below we highlight a company's response to an attack that should be used as a model for all future disclosures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ransomware Sites Go Dark and Three Major Hacking Forums Ban Ransomware Ads<a href="https://therecord.media/three-major-hacking-forums-ban-ransomware-ads-as-some-ransomware-gangs-shut-down/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three hacking forums have now banned ransomware ads, three ransomware leak sites have gone down, and two other ransomware groups have announced plans to stop operating in public and go “private.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Update: Conti ransomware demanded $20M ransom to Ireland Health Service Executive<a href="https://securityaffairs.co/wordpress/118001/cyber-crime/ireland-health-service-executive-conti-ransomware.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
