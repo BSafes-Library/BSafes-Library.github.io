@@ -189,7 +189,7 @@ This document from the National Highway Traffic Safety Administration (NHTSA) up
 November 30, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts [HTML](https://papers.bsafes.com/docs/docs/politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
+• Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts [HTML](https://papers.bsafes.com/docs/Politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
 </p>
 <details>
   <summary>Abstract</summary>
