@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Try This One Weird Trick Russian Hackers Hate – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital extortion gangs like DarkSide take great care to make their entire platforms geopolitical, because their malware is engineered to work only in certain parts of the world.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden Administration Plans to Spend Billions in Cybersecurity Funding to Protect Critical Infrastructure<a href="https://www.reuters.com/technology/biden-administration-eyes-cybersecurity-funding-after-attacks-2021-05-18/?&web_view=true"> Full Text</a>
 </p>
 <details>
