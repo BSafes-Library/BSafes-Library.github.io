@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Eldorado-based Shared Assessments acquired by national company OneTrust<a href="https://news.yahoo.com/eldorado-based-shared-assessments-acquired-150200574.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eldorado-based cybersecurity firm Shared Assessments has been acquired for an undisclosed price by one of its member organizations, OneTrust, at one time the fastest-growing company on the Inc. 5000.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attention CEOs: No news can be good news when investigating a breach<a href="https://www.scmagazine.com/home/2021-rsa-conference/attention-ceos-no-news-can-be-good-news-when-investigating-a-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David Estlick, CISO of Chipotle Mexican Grill joined James Christiansen, vice president and CSO of cloud security transformation at Netskope, to speak about managing corporate expectation post breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI receives record level of complaints for online scams, investment fraud<a href="https://www.zdnet.com/article/fbi-receives-record-level-of-complaints-for-online-scams-investment-fraud/?&web_view=true"> Full Text</a>
 </p>
 <details>
