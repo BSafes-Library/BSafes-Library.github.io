@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI receives record level of complaints for online scams, investment fraud<a href="https://www.zdnet.com/article/fbi-receives-record-level-of-complaints-for-online-scams-investment-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI says that complaints concerning online scams and investment fraud have now reached a record-breaking level. The FBI's IC3 received its six millionth complaint on May 15, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: McAfee CTO Calls for Risk Decisions Based on Science Not Headlines<a href="https://www.infosecurity-magazine.com:443/news/rsac-mcafee-cto-science-not/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee senior vice president and CTO, Steve Grobman, took to the virtual stage at RSA Conference on May 18 with a call to action: reconsider the perception of risk by looking at data, not headlines
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware made $90 million in just nine months<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-made-90-million-in-just-nine-months/"> Full Text</a>
 </p>
 <details>
