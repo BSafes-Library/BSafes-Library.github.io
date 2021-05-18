@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+European Council extends sanctions against foreign threat actors<a href="https://securityaffairs.co/wordpress/118059/security/european-council-extends-sanctions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European Council extended for one year the sanctions against foreign threat actors that threaten the European Union and its member states.
+
+
+
+The European Council announced that it will extend for one year the framework for sanctions against threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Try This One Weird Trick Russian Hackers Hate – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/?&web_view=true"> Full Text</a>
 </p>
 <details>
