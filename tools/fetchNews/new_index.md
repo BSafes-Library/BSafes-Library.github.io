@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Does the US Need a National Breach Reporting Law?<a href="https://www.infosecurity-magazine.com:443/news/rsac-does-us-need-national-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panelists at the RSA Conference 2021, including the FBI and US Department of Justice, make a case for a national standard for data breach reporting
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mozilla starts rolling out Site Isolation to all Firefox channels<a href="https://www.bleepingcomputer.com/news/security/mozilla-starts-rolling-out-site-isolation-to-all-firefox-channels/"> Full Text</a>
 </p>
 <details>
