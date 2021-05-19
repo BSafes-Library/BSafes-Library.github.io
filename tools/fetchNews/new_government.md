@@ -11,6 +11,62 @@ nav_order: 900075
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers press Biden to create plan to secure economy after Colonial Pipeline attack<a href="https://thehill.com//policy/cybersecurity/554189-lawmakers-press-biden-to-create-plan-to-secure-economy-after-colonial"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of the House Homeland Security Committee on Tuesday urged President Biden to ensure there is a plan in place to ensure the nation’s economy is not disrupted by a major cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Anne Neuberger Sets Out Biden Administration’s Plan to Modernize US Cyber-defenses<a href="https://www.infosecurity-magazine.com:443/news/biden-modernize-us-cyber-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anne Neuberger outlines three areas of focus for the Biden administration to enhance the US's cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan to restrict private sector use of foreign equipment and tech: Report<a href="https://www.zdnet.com/article/japan-to-restrict-private-sector-use-of-foreign-equipment-and-tech-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Japanese government will reportedly introduce new regulations across 44 sectors to bolster national cyber defence, partly in response to the Colonial Pipeline hack that occurred last week.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Plans to Spend Billions in Cybersecurity Funding to Protect Critical Infrastructure<a href="https://www.reuters.com/technology/biden-administration-eyes-cybersecurity-funding-after-attacks-2021-05-18/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Tuesday detailed how it wants to fund efforts to counter a wave of massive hacks in the wake of this month’s Colonial Pipeline ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russian spy chief denies responsibility for SolarWinds hack<a href="https://thehill.com//policy/cybersecurity/554032-russian-spy-chief-denies-responsibility-for-solarwinds-hack"> Full Text</a>
 </p>
 <details>

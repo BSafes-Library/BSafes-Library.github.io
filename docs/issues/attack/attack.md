@@ -11,6 +11,34 @@ nav_order: 900015
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline servers experiencing 'intermittent disruptions' days after ransomware attack<a href="https://thehill.com//policy/cybersecurity/554126-colonial-pipeline-servers-experiencing-intermittent-disruptions-days"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline announced Tuesday that its internal servers were experiencing “intermittent disruptions," but stressed the problem was separate from the devastating ransomware attack that disrupted operations earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Flattered' Russian spy chief denies SolarWinds attack<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds-russia/russian-spy-chief-denies-svr-was-behind-solarwinds-cyber-attack-bbc-idUSKCN2CZ0G0?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and Britain have blamed Russia’s Foreign Intelligence Service (SVR), for the hack which compromised nine U.S. federal agencies and hundreds of private sector companies.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 70 European and South American Banks Under Attack By Bizarro Banking Malware<a href="https://thehackernews.com/2021/05/70-european-and-south-american-banks.html"> Full Text</a>
 </p>
 <details>

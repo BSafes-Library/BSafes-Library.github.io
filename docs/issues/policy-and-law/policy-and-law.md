@@ -11,6 +11,52 @@ nav_order: 900163
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Legislation to secure critical systems against cyberattacks moves forward in the House<a href="https://thehill.com//policy/cybersecurity/554214-legislation-to-secure-critical-systems-against-cyberattacks-moves"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple bills meant to secure critical infrastructure against cyber threats were approved by the House Homeland Security Committee on Tuesday afternoon, just a week after a ransomware attack on the Colonial Pipeline caused fuel shortages across the nation.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Council extends sanctions against foreign threat actors<a href="https://securityaffairs.co/wordpress/118059/security/european-council-extends-sanctions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European Council extended for one year the sanctions against foreign threat actors that threaten the European Union and its member states.
+
+
+
+The European Council announced that it will extend for one year the framework for sanctions against threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oregonian Indicted Over International Streaming Fraud<a href="https://www.infosecurity-magazine.com:443/news/joyner-mcmahon-streaming-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AccountBot suspect allegedly stole and resold millions of customers’ login credentials
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 2 Bills Introduced in Wake of Colonial Pipeline Attack<a href="https://www.govinfosecurity.com/2-bills-introduced-in-wake-colonial-pipeline-attack-a-16666?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

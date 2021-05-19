@@ -8,6 +8,94 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of NoCry ransomware: A variant of the Judge ransomware<a href="https://securityaffairs.co/wordpress/118054/malware/nocry-ransomware-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Tesorion released a decryptor for Judge ransomware that also decrypts files encrypted by the NoCry ransomware.
+
+
+
+In January this year, we published a blog post on our analysis of the&nbsp;Judge ransomware. We announced a free decryptor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Function in DarkSide Ransomware Variant Targets Disk Partitions<a href="https://www.fortinet.com/blog/threat-research/newly-discovered-function-in-darkside-ransomware-variant-targets-disk-partitions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the time of discovery, FortiGuard Labs researchers believed the ransomware was seeking out partitions to find possible hidden partitions setup by systems administrators to hide backup files.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking Down the Ransomware Trends in 2021<a href="https://cyware.com/news/breaking-down-the-ransomware-trends-in-2021-e25a6a4c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is to be expected that threat actors are not going to keep up their end of the bargain, even after paying the ransom. All or some part of the exfiltrated data has ended up online even after payment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AXA Faces DDoS After Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/axa-faces-ddos-after-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon group warns of more damage ahead
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish health service may take weeks to recover from ransomware attack<a href="https://www.reuters.com/article/us-ireland-cyber/irish-health-service-may-take-weeks-to-recover-from-ransomware-attack-idUSKCN2CY0ZQ?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“While it may take weeks to get all systems back, steady progress is being made, starting with services for the most urgent patients,” Health Minister Stephen Donnelly said on Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz: A New Ransomware Making Rounds<a href="https://cyware.com/news/lorenz-a-new-ransomware-making-rounds-1f414774"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp;ransomware gang that began operating a month ago and shares similarity with ThunderCrypt operation has launched a double-extortion attack on its victims. Security agencies and professionals need to keep an eye on this threat and beef up defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

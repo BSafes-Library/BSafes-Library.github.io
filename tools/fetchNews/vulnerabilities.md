@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Object Injection Vulnerability Affects WordPress Versions 3.7 to 5.7.1<a href="https://blog.sucuri.net/2021/05/object-injection-vulnerability-affects-wordpress-versions-3-7-to-5-7-1.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There would need to be at least an additional vulnerability in another software component in place on the website – or an active compromise already taking place – for this to be an attack vector.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

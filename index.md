@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Democrats urge Facebook to abandon 'Instagram for kids' plan | 'Homework gap' likely to persist after pandemic<a href="https://thehill.com//policy/technology/overnights/554219-hillicon-valley-democrats-urge-facebook-to-abandon-instagram-for"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Solving the Ransomware Scourge Requires a Coordinated Effort<a href="https://www.infosecurity-magazine.com:443/news/rsac-solving-the-ransomware-scourge/"> Full Text</a>
@@ -66,7 +66,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Legislation to secure critical systems against cyberattacks moves forward in the House<a href="https://thehill.com//policy/cybersecurity/554214-legislation-to-secure-critical-systems-against-cyberattacks-moves"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘How would I feel if that was posted in Times Square?’ Lawyers warn to watch what you say about breaches<a href="https://www.scmagazine.com/home/security-news/data-breach/how-would-i-feel-if-that-was-posted-in-times-square-lawyers-warn-to-watch-what-you-say-about-breaches/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Pose as Meal-Kit Services to Steal Customer Data<a href="https://threatpost.com/scammers-meal-kit-services-customer-data/166282/"> Full Text</a>
@@ -114,7 +114,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers press Biden to create plan to secure economy after Colonial Pipeline attack<a href="https://thehill.com//policy/cybersecurity/554189-lawmakers-press-biden-to-create-plan-to-secure-economy-after-colonial"> Full Text</a>
@@ -130,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome now automatically fixes breached passwords on Android<a href="https://www.bleepingcomputer.com/news/security/chrome-now-automatically-fixes-breached-passwords-on-android/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Does the US Need a National Breach Reporting Law?<a href="https://www.infosecurity-magazine.com:443/news/rsac-does-us-need-national-breach/"> Full Text</a>
@@ -162,7 +162,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla starts rolling out Site Isolation to all Firefox channels<a href="https://www.bleepingcomputer.com/news/security/mozilla-starts-rolling-out-site-isolation-to-all-firefox-channels/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Anne Neuberger Sets Out Biden Administration’s Plan to Modernize US Cyber-defenses<a href="https://www.infosecurity-magazine.com:443/news/biden-modernize-us-cyber-defenses/"> Full Text</a>
@@ -194,7 +194,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stalkerware Apps Riddled with Security Bugs<a href="https://threatpost.com/stalkerware-apps-security-bugs/166274/"> Full Text</a>
@@ -210,7 +210,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of NoCry ransomware: A variant of the Judge ransomware<a href="https://securityaffairs.co/wordpress/118054/malware/nocry-ransomware-analysis.html?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan to restrict private sector use of foreign equipment and tech: Report<a href="https://www.zdnet.com/article/japan-to-restrict-private-sector-use-of-foreign-equipment-and-tech-report/?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Council extends sanctions against foreign threat actors<a href="https://securityaffairs.co/wordpress/118059/security/european-council-extends-sanctions.html"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Try This One Weird Trick Russian Hackers Hate – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Administration Plans to Spend Billions in Cybersecurity Funding to Protect Critical Infrastructure<a href="https://www.reuters.com/technology/biden-administration-eyes-cybersecurity-funding-after-attacks-2021-05-18/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline servers experiencing 'intermittent disruptions' days after ransomware attack<a href="https://thehill.com//policy/cybersecurity/554126-colonial-pipeline-servers-experiencing-intermittent-disruptions-days"> Full Text</a>
@@ -310,7 +310,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eldorado-based Shared Assessments acquired by national company OneTrust<a href="https://news.yahoo.com/eldorado-based-shared-assessments-acquired-150200574.html?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attention CEOs: No news can be good news when investigating a breach<a href="https://www.scmagazine.com/home/2021-rsa-conference/attention-ceos-no-news-can-be-good-news-when-investigating-a-breach/"> Full Text</a>
@@ -342,7 +342,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI receives record level of complaints for online scams, investment fraud<a href="https://www.zdnet.com/article/fbi-receives-record-level-of-complaints-for-online-scams-investment-fraud/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: McAfee CTO Calls for Risk Decisions Based on Science Not Headlines<a href="https://www.infosecurity-magazine.com:443/news/rsac-mcafee-cto-science-not/"> Full Text</a>
@@ -374,7 +374,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware made $90 million in just nine months<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-made-90-million-in-just-nine-months/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discovery of Simps Botnet Reveals Ties to Keksec Hacker Group<a href="https://securityaffairs.co/wordpress/118050/malware/simps-botnet.html?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI says cybercrime complaints more than doubled in 14 months<a href="https://www.bleepingcomputer.com/news/security/fbi-says-cybercrime-complaints-more-than-doubled-in-14-months/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Commercial third party code creating security blind spots<a href="https://www.helpnetsecurity.com/2021/05/18/commercial-third-party-code/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It’s Time to Prepare for a Rise in Insider Threats<a href="https://threatpost.com/prepare-rise-insider-threats/166272/"> Full Text</a>
@@ -454,7 +454,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over $80 million lost to cryptocurrency investment scams since October<a href="https://www.bleepingcomputer.com/news/cryptocurrency/over-80-million-lost-to-cryptocurrency-investment-scams-since-october/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Attackers Obfuscating IP Addresses Inside AWS Using  Amazon VPC Service<a href="https://www.helpnetsecurity.com/2021/05/18/detecting-attackers-inside-aws/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Q1 2021 Sees 2.9 Million DDoS Attacks Launched<a href="https://www.infosecurity-magazine.com:443/news/q1-2021-sees-millions-ddos-attacks/"> Full Text</a>
@@ -502,7 +502,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Flattered' Russian spy chief denies SolarWinds attack<a href="https://www.reuters.com/article/us-usa-cyber-solarwinds-russia/russian-spy-chief-denies-svr-was-behind-solarwinds-cyber-attack-bbc-idUSKCN2CZ0G0?&web_view=true"> Full Text</a>
@@ -518,7 +518,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oregonian Indicted Over International Streaming Fraud<a href="https://www.infosecurity-magazine.com:443/news/joyner-mcmahon-streaming-fraud/"> Full Text</a>
@@ -534,7 +534,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Double-extortion ransomware attacks on the rise<a href="https://www.helpnetsecurity.com/2021/05/18/double-extortion-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -550,7 +550,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unsuccessful Conti Ransomware Attack Still Packs Costly Punch<a href="https://threatpost.com/conti-ransomware-fail-costly/166263/"> Full Text</a>
@@ -566,7 +566,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM to Acquire Waeg<a href="https://www.infosecurity-magazine.com:443/news/ibm-to-acquire-waeg/"> Full Text</a>
@@ -582,7 +582,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2021
+May 18, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Apple Gave Chinese Government Access to iCloud Data and Censored Apps<a href="https://thehackernews.com/2021/05/how-apple-gave-chinese-government.html"> Full Text</a>

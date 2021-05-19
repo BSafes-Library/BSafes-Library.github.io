@@ -11,6 +11,48 @@ nav_order: 900180
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware made $90 million in just nine months<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-made-90-million-in-just-nine-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DarkSide ransomware gang has collected at least $90 million in ransoms paid by its victims over the past nine months to multiple Bitcoin wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-extortion ransomware attacks on the rise<a href="https://www.helpnetsecurity.com/2021/05/18/double-extortion-ransomware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the rewards that result from this type of crime increase, risks to government entities, company bottom lines, reputation, data integrity, customer confidence, and business continuity also grow.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsuccessful Conti Ransomware Attack Still Packs Costly Punch<a href="https://threatpost.com/conti-ransomware-fail-costly/166263/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Separate attacks last week on the country’s Department of Health and Health Service Executive forced the shutdown of networks and services that still haven’t been fully restored.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Analysis of NoCry ransomware: A variant of the Judge ransomware<a href="https://securityaffairs.co/wordpress/118054/malware/nocry-ransomware-analysis.html"> Full Text</a>
 </p>
 <details>

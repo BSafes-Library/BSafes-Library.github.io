@@ -11,6 +11,20 @@ nav_order: 900220
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Commercial third party code creating security blind spots<a href="https://www.helpnetsecurity.com/2021/05/18/commercial-third-party-code/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the fact that third party code in IoT projects has grown 17% in the past five years, only 56% of OEMs have formal policies for testing security, a VDC Research reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Object Injection Vulnerability Affects WordPress Versions 3.7 to 5.7.1<a href="https://blog.sucuri.net/2021/05/object-injection-vulnerability-affects-wordpress-versions-3-7-to-5-7-1.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

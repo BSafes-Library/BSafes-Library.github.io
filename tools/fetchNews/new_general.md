@@ -11,6 +11,118 @@ nav_order: 900072
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats urge Facebook to abandon 'Instagram for kids' plan | 'Homework gap' likely to persist after pandemic<a href="https://thehill.com//policy/technology/overnights/554219-hillicon-valley-democrats-urge-facebook-to-abandon-instagram-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of congressional Democrats on Tuesday called on Facebook to abandon a plan to create an Instagram for kids platform, further amplifying criticism of the plan. Meanwhile, advocates are expressing concerns that the “homework gap” created by digital learning during the COVID-19 pandemic may continue once students return to in-person classes, and Colonial Pipeline said it was experiencing some technical issues a week after service resumed after a devastating ransomware attack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Solving the Ransomware Scourge Requires a Coordinated Effort<a href="https://www.infosecurity-magazine.com:443/news/rsac-solving-the-ransomware-scourge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What is the current state of ransomware and what needs to be done to stop it? A panel of experts at the RSA Conference has a few ideas
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Does the US Need a National Breach Reporting Law?<a href="https://www.infosecurity-magazine.com:443/news/rsac-does-us-need-national-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panelists at the RSA Conference 2021, including the FBI and US Department of Justice, make a case for a national standard for data breach reporting
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attention CEOs: No news can be good news when investigating a breach<a href="https://www.scmagazine.com/home/2021-rsa-conference/attention-ceos-no-news-can-be-good-news-when-investigating-a-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David Estlick, CISO of Chipotle Mexican Grill joined James Christiansen, vice president and CSO of cloud security transformation at Netskope, to speak about managing corporate expectation post breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: McAfee CTO Calls for Risk Decisions Based on Science Not Headlines<a href="https://www.infosecurity-magazine.com:443/news/rsac-mcafee-cto-science-not/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee senior vice president and CTO, Steve Grobman, took to the virtual stage at RSA Conference on May 18 with a call to action: reconsider the perception of risk by looking at data, not headlines
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says cybercrime complaints more than doubled in 14 months<a href="https://www.bleepingcomputer.com/news/security/fbi-says-cybercrime-complaints-more-than-doubled-in-14-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI's Internet Crime Complaint Center (IC3) has seen a massive 100% in cybercrime complaints over the past 14 months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Time to Prepare for a Rise in Insider Threats<a href="https://threatpost.com/prepare-rise-insider-threats/166272/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anurag Kahol, CTO at Bitglass, discusses options for detecting malicious or dangerous activity from within an organization.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over $80 million lost to cryptocurrency investment scams since October<a href="https://www.bleepingcomputer.com/news/cryptocurrency/over-80-million-lost-to-cryptocurrency-investment-scams-since-october/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) says that over $80 million were lost to cryptocurrency investment scams, according to roughly 7,000 reports received since October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Free "vCISO Clinic" offers Resource-Constrained InfoSec Leaders a Helping Hand<a href="https://thehackernews.com/2021/05/free-vciso-clinic-offers-resource.html"> Full Text</a>
 </p>
 <details>

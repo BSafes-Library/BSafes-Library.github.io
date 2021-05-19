@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Invisible War of Internet Misinformation<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-invisible-war/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA Conference keynoter Theresa Payton outlines how misinformation works and what organizations can do to help combat it
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
