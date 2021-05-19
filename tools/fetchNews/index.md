@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UHS Data Breach Lawsuit Proceeds<a href="https://www.infosecurity-magazine.com:443/news/uhs-data-breach-lawsuit-proceeds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breach lawsuit against healthcare provider gets the go-ahead but only for one patient
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trailer maker Utility targeted in ransomware attack<a href="https://www.freightwaves.com/news/trailer-maker-utility-targeted-in-ransomware-attack?&web_view=true"> Full Text</a>
 </p>
 <details>
