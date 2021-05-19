@@ -93,6 +93,18 @@ Many online chat applications live in a grey area between the legitimate web and
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Impact of Information Breaches on Health Care Records [HTML](https://papers.bsafes.com/docs/breaches/impact-of-information-breaches-on-health-care-records/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Although there were almost 3.5 million reported information breaches of health care data in the first quarter of 2019, health care providers do not know the extent of digital and nondigital breaches of patient medical recordsi ...
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • PREVALENCE OF CYBERBULLYING AMONG TRADITIONAL UNDERGRADUATE STUDENTS ATTENDING FAITH-BASED UNIVERSITIES: A CAUSAL-COMPARATIVE STUDY [HTML](https://papers.bsafes.com/docs/internet/prevalence-of-cyberbullying-among-traditional-undergraduate-students-attending-faith-based-universities-a-causal-comparative-study/)
 </p>
 <details>
