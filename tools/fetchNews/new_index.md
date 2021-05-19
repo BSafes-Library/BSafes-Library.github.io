@@ -37,6 +37,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for vulnerable devices minutes after bug disclosure<a href="https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerable-devices-minutes-after-bug-disclosure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every hour, a threat actor starts a new scan on the public web for vulnerable systems, moving at a quicker pace than global enterprises when trying to identify serious vulnerabilities on their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerson Patches Several Vulnerabilities in X-STREAM Gas Analyzers<a href="https://www.securityweek.com/emerson-patches-several-vulnerabilities-x-stream-gas-analyzers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American industrial giant Emerson this week informed customers that it has released firmware updates for its Rosemount X-STREAM gas analyzers to address half a dozen vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School districts struggle to defend against rising ransomware attacks<a href="https://thehill.com//policy/cybersecurity/553506-school-districts-struggle-to-defend-against-rising-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals are stepping up their efforts to hack into vulnerable school districts, often launching ransomware attacks like the kind that shut down the Colonial Pipeline earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Ransomware Gang Extorted $90 Million from Several Victims in 9 Months<a href="https://thehackernews.com/2021/05/darkside-ransomware-gang-extorted-90.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide, the hacker group behind the  Colonial Pipeline ransomware attack  earlier this month, received $90 million in bitcoin payments following a nine-month ransomware spree, making it one of the most profitable cybercrime groups.  "In total, just over $90 million in bitcoin ransom payments were made to DarkSide, originating from 47 distinct wallets," blockchain analytics firm Elliptic  said . "According to  DarkTracer , 99 organisations have been infected with the DarkSide malware - suggesting that approximately 47% of victims paid a ransom, and that the average payment was $1.9 million."  Of the total $90 million haul, the DarkSide's developer is said to have received $15.5 million in bitcoins, while the remaining $74.7 million was split among its various affiliates. FireEye's research into DarkSide's affiliate program had  previously revealed  that its creators take a 25% cut for payments under $500,000 and 10% for ransoms above $5 million, with t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulator Fines QR Code Provider Which Spammed Customers<a href="https://www.infosecurity-magazine.com:443/news/regulator-fines-qr-code-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+St Albans company sent 84,000 nuisance emails
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the infotainment system used in Mercedes-Benz cars<a href="https://securityaffairs.co/wordpress/118081/hacking/mercedes-benz-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers identified five vulnerabilities in the infotainment system in Mercedes-Benz cars, four of them are remotely exploitable.
+
+
+
+Security researchers with Tencent Security Keen Lab identified five vulnerabilities, tracked as CVE-2021-23906,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows PoC Exploit Released for Wormable RCE<a href="https://threatpost.com/windows-exploit-wormable-rce/166289/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit pries open CVE-2021-31166, a bug with a CVSS score of 9.8 that was the baddest of the bad in Microsoft’s Patch Tuesday release last week.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest phones are great at thwarting Wi-Fi tracking. Other devices, not so much – study<a href="https://www.theregister.com/2021/05/18/wifi_tracking_failures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the paper indicates that mobile phones have become better at implementing MAC address randomization, it also highlights the lack of a standard approach has led to inconsistent implementations.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Begins Rolling Out 'Site Isolation' Security Feature to Firefox Browser<a href="https://thehackernews.com/2021/05/mozilla-begins-rolling-out-site.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has begun rolling out a new security feature for its Firefox browser in nightly and beta channels that aims to protect users against a new class of side-channel attacks from malicious sites.  Called "Site Isolation," the implementation loads each website separately in its own operating system process and, as a result, prevents untrusted code from a rogue website from accessing confidential information stored in other sites.  "This fundamental redesign of Firefox's Security architecture extends current security mechanisms by creating operating system process-level boundaries for all sites loaded in Firefox for Desktop," Mozilla  said  in a statement. "Isolating each site into a separate operating system process makes it even harder for malicious sites to read another site's secret or private data."   The motivation for Site Isolation can be traced all the way back to January 2018 when  Spectre and Meltdown vulnerabilities  were publicly dis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDP Hijacked for Lateral Movement in 69% of Attacks<a href="https://www.infosecurity-magazine.com:443/news/rdp-hijacked-for-lateral-movement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos report warns that dwell time is up to 11 days
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang also breached Ireland Department of Health (DoH)<a href="https://securityaffairs.co/wordpress/118074/cyber-crime/conti-ransomware-department-of-health.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware also breached the network of Ireland's Department of Health (DoH) but the ransomware failed to encrypt the systems.
+
+
+
+Last week, Conti ransomware gang targeted the Ireland’s Health Service Executive that was forced to shut down its IT systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WastedLoader Campaign Delivered Through RIG Exploit Kit<a href="https://labs.bitdefender.com/2021/05/new-wastedloader-campaign-delivered-through-rig-exploit-kit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In February 2021, Bitdefender researchers identified a new RIG Exploit Kit campaign exploiting two scripting engine vulnerabilities in unpatched Internet Explorer browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Bitdefender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Simple 1-Click Compromised Password Reset Feature Coming to Chrome Browser<a href="https://thehackernews.com/2021/05/a-simple-1-click-compromised-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday  announced  a new feature to its password manager that could be used to change a stolen password automatically with a single tap.  Automated password changes build on the tool's ability to  check the safety  of saved passwords. Thus when Chrome finds a password that may have been compromised as part of a data breach, it will prompt users with an alert containing a "Change Password" button, tapping which "Chrome will not only navigate to the site, but also go through the entire process of changing your password."   Enabling this in the background is Google's  Duplex  technology, which it debuted in 2018 and expanded in 2019 to support various functions in Google Assistant like booking a rental car, ordering food, and buying movie tickets. The search giant, however, noted that users could take over control at any point during the process and change the password manually.   The feature is currently being rolled out in Chrome for Android to al
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruiter’s Cloud Snafu Exposes 20,000 CVs and ID Documents<a href="https://www.infosecurity-magazine.com:443/news/recruiters-cloud-snafu-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured AWS bucket again to blame
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Styra, the startup behind Open Policy Agent, nabs $40M to expand its cloud-native authorization tools<a href="https://techcrunch.com/2021/05/18/styra-the-startup-behind-open-policy-agent-nabs-40m-to-expand-its-cloud-native-authorization-tools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Styra's Series B round of funding led by Battery Ventures. Also participating are previous backers A. Capital, Unusual Ventures and Accel; and new backers CapitalOne Ventures and Citi Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Target New Zealand District Hospitals, Causing Outages and Surgery Canellations<a href="https://www.theregister.com/2021/05/19/new_zealand_hospitals_taken_down/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's Waikato District Health Board (DHB) has been hit with a ransomware that took down most IT services Tuesday morning and drastically reduced services at six of its affiliate hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatLocker raises $20M to secure enterprise endpoints<a href="https://venturebeat.com/2021/05/18/threatlocker-raises-20m-to-secure-enterprise-endpoints/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLocker, a startup providing enterprise cybersecurity tools for servers and endpoints, today announced it has raised $20 million in a series B round led by Elephant.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Hackers Received $90 million in Bitcoin from Multiple Victims Before Shutting Down<a href="https://www.nbcnews.com/tech/security/colonial-pipeline-hackers-received-90-million-bitcoin-shutting-rcna959?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide, the group behind the recent Colonial Pipeline ransomware attack, received a total of $90 million in bitcoin ransom payments before shutting down last week, according to fresh research.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Impersonating Windows Defender to Push Malicious Windows Apps | McAfee Blogs<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/scammers-impersonating-windows-defender-to-push-malicious-windows-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly using Windows Push Notifications to impersonate legitimate alerts. Recent campaigns pose as a Windows Defender Update to target user and system information.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Payment App Scammers: Stay Aware and Learn to Avoid Them<a href="https://www.binarydefense.com/payment-app-scammers-stay-aware-and-learn-to-avoid-them/?&web_view=true"> Full Text</a>
 </p>
 <details>
