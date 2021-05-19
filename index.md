@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Keksec Cybergang Debuts Simps Botnet for Gaming DDoS<a href="https://threatpost.com/keksec-simps-botnet-gaming-ddos/166306/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly discovered malware infects IoT devices in tandem with the prolific Gafgyt botnet, using known security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Can Nanotech Secure IoT Devices From the Inside-Out?<a href="https://threatpost.com/nanotech-secure-iot-devices/166324/"> Full Text</a>
 </p>
 <details>
