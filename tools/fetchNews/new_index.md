@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+May Android security updates patch 4 zero-days exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/may-android-security-updates-patch-4-zero-days-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to info provided by Google's Project Zero team, four Android security vulnerabilities were exploited in the wild as zero-day bugs before being patched earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Gang Retires on $90m<a href="https://www.infosecurity-magazine.com:443/news/darkside-gang-retires-on-90m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wallet containing Bitcoin worth over $90m is reportedly ransomware gang’s ill-gotten gains
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #DTX: Security Pros Must Focus on Human Behaviors to Address Cyber-challenges<a href="https://www.infosecurity-magazine.com:443/news/dtx-security-pros-focus-human/"> Full Text</a>
 </p>
 <details>
