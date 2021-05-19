@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House Science panel requests briefing with Energy Dept. over Colonial hack<a href="https://thehill.com//policy/energy-environment/554442-house-science-panel-requests-briefing-with-energy-department-over"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders of the House Science, Space and Technology Committee are requesting a briefing with the Department of Energy on the ransomware attack that forced the Colonial Pipeline to shut down operations for nearly a week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As digital innovation accelerates, what is the next cyber investment unicorn?<a href="https://www.scmagazine.com/home/2021-rsa-conference/as-digital-innovation-accelerates-what-is-the-next-cyber-investment-unicorn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies poised to do well in the rapidly accelerated digital economy are those that can cater to concepts such as dynamic network infrastructure and securing edge computing. In particular, said Chenxi Wang of Rain Capital, the market is witnessing “great momentum in cloud security.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack | Facebook sets up 'special operations center' for content on Israeli-Palestinian conflict | Granholm expresses openness to pipeline cyber standards after<a href="https://thehill.com//policy/technology/overnights/554434-hillicon-valley-colonial-pipeline-ceo-says-company-paid-hackers"> Full Text</a>
 </p>
 <details>
