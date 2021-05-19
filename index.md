@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ready to move to the cloud? Here’s what you need to do when vetting service providers<a href="https://www.scmagazine.com/home/2021-rsa-conference/ready-to-move-to-the-cloud-heres-what-you-need-to-do-when-vetting-service-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the RSA Conference’s Cloud Security Summit this week, three speakers noted top priorities when making a cloud transition, all tied to establishing expectations of a cloud service provider up front, and ensuring in writing that the provider can and will adhere to specific standards for maintaining and securing data.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Keksec Cybergang Debuts Simps Botnet for Gaming DDoS<a href="https://threatpost.com/keksec-simps-botnet-gaming-ddos/166306/"> Full Text</a>
 </p>
 <details>
