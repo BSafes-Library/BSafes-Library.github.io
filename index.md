@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Trailer maker Utility targeted in ransomware attack<a href="https://www.freightwaves.com/news/trailer-maker-utility-targeted-in-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Utility Trailer Manufacturing, one of the largest U.S. producers of trailers for the trucking industry, was targeted in a ransomware attack that exposed personal information of numerous employees.
+</details>
+<div style="text-align: right" markdown="1">
+Freight Waves
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk to Acquire TruSTAR<a href="https://www.infosecurity-magazine.com:443/news/splunk-to-acquire-trustar/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+California tech company Splunk announces plan to snap up cloud-native security firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the ransomware explosion is reshaping the cyber insurance market<a href="https://www.scmagazine.com/home/security-news/ransomware/how-the-ransomware-explosion-is-reshaping-the-cyber-insurance-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the NotPetya attacks, insurance companies started applying far more scrutiny to efforts by customers to protect themselves from ransomware. In the wake of Colonial Pipeline and other recent incidents, more shifts in coverage could emerge  – and priorities of the insurers might not match up with those of victims.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cynerio Raises $30M in Series B Funding<a href="https://www.finsmes.com/2021/05/cynerio-raises-30m-in-series-b-funding.html?&web_view=true"> Full Text</a>
 </p>
 <details>
