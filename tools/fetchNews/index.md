@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#DTX: Security Pros Must Focus on Human Behaviors to Address Cyber-challenges<a href="https://www.infosecurity-magazine.com:443/news/dtx-security-pros-focus-human/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's more the industry can do to prevent social engineering attacks and scams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack<a href="https://thehill.com//policy/cybersecurity/554334-colonial-pipeline-ceo-says-company-paid-hackers-44-million-after"> Full Text</a>
 </p>
 <details>
