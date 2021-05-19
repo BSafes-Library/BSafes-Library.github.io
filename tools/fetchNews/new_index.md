@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Can Nanotech Secure IoT Devices From the Inside-Out?<a href="https://threatpost.com/nanotech-secure-iot-devices/166324/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Work’s being done with uber-lightweight nanoagents on every IoT device to stop malicious behavior, such as a scourge of botnet attacks, among other threats.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google Clouds Hijacked for Gobs of Phishing<a href="https://threatpost.com/microsoft-google-clouds-hijacked-phishing/166329/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers sent 52M malicious messages leveraging the likes of Office 365, Azure, OneDrive, SharePoint, G-Suite and Firebase storage in Q1 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Bizarro Trojan: Fiercely Stealing Banking Information<a href="https://cyware.com/news/bizarro-trojan-fiercely-stealing-banking-information-f935bb75"> Full Text</a>
 </p>
 <details>
