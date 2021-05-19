@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack<a href="https://thehill.com//policy/cybersecurity/554334-colonial-pipeline-ceo-says-company-paid-hackers-44-million-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Colonial Pipeline, hit by a ransomware attack that forced it to shut down operations for much of last week, confirmed publicly for the first time Wednesday that the company paid the hackers behind the attack so it could regain access to its systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Exploitable Remote Code Execution Vulnerabilities in Mercedes-Benz Cars<a href="https://www.securityweek.com/researchers-find-exploitable-bugs-mercedes-benz-cars?&web_view=true"> Full Text</a>
 </p>
 <details>
