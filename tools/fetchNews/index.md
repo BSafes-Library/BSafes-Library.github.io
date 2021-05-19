@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Qlocker ransomware shuts down after extorting hundreds of QNAP users<a href="https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qlocker ransomware gang has shut down their operation after earning $350,000 in a month by exploiting vulnerabilities in QNAP NAS devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Packaging vendor Ardagh admits cyber-attack disrupted operations<a href="https://portswigger.net/daily-swig/packaging-vendor-ardagh-admits-cyber-attack-disrupted-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement issued on May 17, the manufacturer said that the assault prompted it to institute “containment procedures, including pro-actively shutting down certain IT systems and applications”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Granholm expresses openness to pipeline cyber standards after Colonial attack<a href="https://thehill.com//policy/cybersecurity/554364-energy-secretary-granholm-expresses-openness-to-cyber-standards-for"> Full Text</a>
 </p>
 <details>
