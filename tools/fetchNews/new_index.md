@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cynerio Raises $30M in Series B Funding<a href="https://www.finsmes.com/2021/05/cynerio-raises-30m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was led by Alive Israel HealthTech Fund, with participation from existing investors Accelmed, RDC, MTIP, CBG London investment company owned by Vincent Tchenguiz, and UAE based investment group.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 May Android security updates patch 4 zero-days exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/may-android-security-updates-patch-4-zero-days-exploited-in-the-wild/"> Full Text</a>
 </p>
 <details>
