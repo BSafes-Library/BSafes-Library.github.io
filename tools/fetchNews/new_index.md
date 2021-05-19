@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack | Facebook sets up 'special operations center' for content on Israeli-Palestinian conflict | Granholm expresses openness to pipeline cyber standards after<a href="https://thehill.com//policy/technology/overnights/554434-hillicon-valley-colonial-pipeline-ceo-says-company-paid-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Colonial Pipeline on Wednesday gave his first interview since the company was hit by a ransomware attack earlier this month, confirming publicly that he approved the payment of $4.4 million to the hackers to regain access to IT systems. Meanwhile, Facebook has set up a special operations center to monitor content on its platforms involving the Israeli-Palestinian conflict, and Energy Secretary Jennifer GranholmJennifer GranholmOVERNIGHT ENERGY: IEA calls for no new investment in fossil fuels in net-zero plan | Biden frames EV goals as competition with China | US considering carbon import tax, Kerry says Biden administration to develop performance standards for federal buildings OVERNIGHT ENERGY: Gas shortages likely to linger for days | Biden administration issues second shipping waiver amid fuel shortages | EPA orders St. Croix refinery to shut down for 60 days due to 'imminent threat' to islanders' health MORE expressed some tentative support for mandatory security standards for pipelines. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DHS announces program to mitigate vulnerabilities below the operating system<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/dhs-announces-program-to-mitigate-vulnerabilities-below-the-operating-system/"> Full Text</a>
 </p>
 <details>
