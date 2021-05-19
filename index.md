@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+MountLocker ransomware uses Windows API to worm through networks<a href="https://www.bleepingcomputer.com/news/security/mountlocker-ransomware-uses-windows-api-to-worm-through-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MountLocker ransomware operation now uses enterprise Windows Active Directory APIs to worm through networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware made $90 million since October 2020<a href="https://securityaffairs.co/wordpress/118064/cyber-crime/darkside-ransomware-earnings.html"> Full Text</a>
 </p>
 <details>
