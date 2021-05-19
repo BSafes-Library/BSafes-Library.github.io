@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDP Hijacked for Lateral Movement in 69% of Attacks<a href="https://www.infosecurity-magazine.com:443/news/rdp-hijacked-for-lateral-movement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos report warns that dwell time is up to 11 days
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

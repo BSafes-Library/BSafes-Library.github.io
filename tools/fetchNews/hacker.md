@@ -11,6 +11,34 @@ nav_order: 900080
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Try This One Weird Trick Russian Hackers Hate – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital extortion gangs like DarkSide take great care to make their entire platforms geopolitical, because their malware is engineered to work only in certain parts of the world.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Attackers Obfuscating IP Addresses Inside AWS Using  Amazon VPC Service<a href="https://www.helpnetsecurity.com/2021/05/18/detecting-attackers-inside-aws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have documented an attack technique that may allow attackers to leverage a legitimate Amazon VPC feature to mask their use of stolen API credentials inside AWS.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A Deep Dive Into DarkSide Operations<a href="https://cyware.com/news/a-deep-dive-into-darkside-operations-fde44bdd"> Full Text</a>
 </p>
 <details>

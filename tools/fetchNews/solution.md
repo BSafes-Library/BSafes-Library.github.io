@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome now automatically fixes breached passwords on Android<a href="https://www.bleepingcomputer.com/news/security/chrome-now-automatically-fixes-breached-passwords-on-android/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is rolling out a new Chrome on Android feature to help users change passwords leaked online following data breaches with a single tap.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla starts rolling out Site Isolation to all Firefox channels<a href="https://www.bleepingcomputer.com/news/security/mozilla-starts-rolling-out-site-isolation-to-all-firefox-channels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has started rolling out the&nbsp;Site Isolation security feature to all Firefox channels, now also protecting users in&nbsp;the Beta and Release channels from attacks launched via malicious websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

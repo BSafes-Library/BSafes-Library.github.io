@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eldorado-based Shared Assessments acquired by national company OneTrust<a href="https://news.yahoo.com/eldorado-based-shared-assessments-acquired-150200574.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eldorado-based cybersecurity firm Shared Assessments has been acquired for an undisclosed price by one of its member organizations, OneTrust, at one time the fastest-growing company on the Inc. 5000.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM to Acquire Waeg<a href="https://www.infosecurity-magazine.com:443/news/ibm-to-acquire-waeg/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deal to acquire European Salesforce Consulting Partner expected to close this quarter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

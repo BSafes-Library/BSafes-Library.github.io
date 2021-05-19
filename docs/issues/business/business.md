@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Styra, the startup behind Open Policy Agent, nabs $40M to expand its cloud-native authorization tools<a href="https://techcrunch.com/2021/05/18/styra-the-startup-behind-open-policy-agent-nabs-40m-to-expand-its-cloud-native-authorization-tools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Styra's Series B round of funding led by Battery Ventures. Also participating are previous backers A. Capital, Unusual Ventures and Accel; and new backers CapitalOne Ventures and Citi Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatLocker raises $20M to secure enterprise endpoints<a href="https://venturebeat.com/2021/05/18/threatlocker-raises-20m-to-secure-enterprise-endpoints/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLocker, a startup providing enterprise cybersecurity tools for servers and endpoints, today announced it has raised $20 million in a series B round led by Elephant.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

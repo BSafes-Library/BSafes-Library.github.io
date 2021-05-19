@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Impersonating Windows Defender to Push Malicious Windows Apps | McAfee Blogs<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/scammers-impersonating-windows-defender-to-push-malicious-windows-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly using Windows Push Notifications to impersonate legitimate alerts. Recent campaigns pose as a Windows Defender Update to target user and system information.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment App Scammers: Stay Aware and Learn to Avoid Them<a href="https://www.binarydefense.com/payment-app-scammers-stay-aware-and-learn-to-avoid-them/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it is convenient and becoming more popular to use virtual wallets like Venmo, PayPal, and Cash App, there is a risk of potentially being scammed by someone who isn't who they say they are.
+</details>
+<div style="text-align: right" markdown="1">
+Binary Defense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

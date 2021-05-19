@@ -11,6 +11,20 @@ nav_order: 900029
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+‘How would I feel if that was posted in Times Square?’ Lawyers warn to watch what you say about breaches<a href="https://www.scmagazine.com/home/security-news/data-breach/how-would-i-feel-if-that-was-posted-in-times-square-lawyers-warn-to-watch-what-you-say-about-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law firm partner advises RSA Conference attendees to practice “communication hygiene” when emailing or messaging.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Codecov hackers gained access to Monday.com source code<a href="https://www.bleepingcomputer.com/news/security/codecov-hackers-gained-access-to-mondaycom-source-code/"> Full Text</a>
 </p>
 <details>

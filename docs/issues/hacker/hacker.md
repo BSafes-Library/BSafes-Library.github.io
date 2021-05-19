@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for vulnerable devices minutes after bug disclosure<a href="https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerable-devices-minutes-after-bug-disclosure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every hour, a threat actor starts a new scan on the public web for vulnerable systems, moving at a quicker pace than global enterprises when trying to identify serious vulnerabilities on their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Hackers Received $90 million in Bitcoin from Multiple Victims Before Shutting Down<a href="https://www.nbcnews.com/tech/security/colonial-pipeline-hackers-received-90-million-bitcoin-shutting-rcna959?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide, the group behind the recent Colonial Pipeline ransomware attack, received a total of $90 million in bitcoin ransom payments before shutting down last week, according to fresh research.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

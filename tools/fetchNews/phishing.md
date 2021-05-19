@@ -11,6 +11,34 @@ nav_order: 900160
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scammers Pose as Meal-Kit Services to Steal Customer Data<a href="https://threatpost.com/scammers-meal-kit-services-customer-data/166282/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are sending messages disguised as offers from meal-kit services, like HelloFresh.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI receives record level of complaints for online scams, investment fraud<a href="https://www.zdnet.com/article/fbi-receives-record-level-of-complaints-for-online-scams-investment-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI says that complaints concerning online scams and investment fraud have now reached a record-breaking level. The FBI's IC3 received its six millionth complaint on May 15, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Consumers Warned About Surge in Meal Kit Delivery Scams<a href="https://www.infosecurity-magazine.com:443/news/consumers-warned-surge-meal-kit/"> Full Text</a>
 </p>
 <details>
