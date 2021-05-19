@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google addresses 4 zero-day flaws in Android exploited in the wild<a href="https://securityaffairs.co/wordpress/118089/mobile-2/android-4-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released Android Security Bulletin for May 2021 security updates that address four zero-day vulnerabilities that were exploited in the wild.
+
+
+
+Android Security Bulletin for May 2021 security updates address four zero-day vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Impact of COVID-19 on Data Breach Landscape<a href="https://cyware.com/news/impact-of-covid-19-on-data-breach-landscape-c4616fc0"> Full Text</a>
 </p>
 <details>
