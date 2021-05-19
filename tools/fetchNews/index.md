@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Granholm expresses openness to pipeline cyber standards after Colonial attack<a href="https://thehill.com//policy/cybersecurity/554364-energy-secretary-granholm-expresses-openness-to-cyber-standards-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energy Secretary Jennifer Granholm on Wednesday threw her tentative support behind the idea of mandatory standards to secure pipelines in the wake of the debilitating ransomware attack on Colonial Pipeline earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UHS Data Breach Lawsuit Proceeds<a href="https://www.infosecurity-magazine.com:443/news/uhs-data-breach-lawsuit-proceeds/"> Full Text</a>
 </p>
 <details>
