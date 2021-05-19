@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US introduces bills to secure critical infrastructure from cyber attacks<a href="https://www.bleepingcomputer.com/news/security/us-introduces-bills-to-secure-critical-infrastructure-from-cyber-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US House Committee on Homeland Security has passed five bipartisan bills on Monday to bolster defense capabilities against cyber attacks targeting US organizations and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud CISO: Usability must be baked into design of security tools<a href="https://www.scmagazine.com/home/2021-rsa-conference/google-cloud-ciso-usability-must-be-baked-into-design-of-security-tools/"> Full Text</a>
 </p>
 <details>
