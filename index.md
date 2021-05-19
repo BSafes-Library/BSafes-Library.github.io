@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Impact of COVID-19 on Data Breach Landscape<a href="https://cyware.com/news/impact-of-covid-19-on-data-breach-landscape-c4616fc0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DBIR report from Verizon provides insights on the growing danger of phishing and ransomware attacks while digging into unique insights on the impact of the COVID-19 pandemic on the data breach landscape.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: SolarWinds CEO Provides New Details into Attack and Response<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-ceo-details-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sudhakar Ramakrishna gives details of investigations into the supply chain attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ReaQta Closes Series-A Round to Expand Commercial Operations<a href="https://finance.yahoo.com/news/reaqta-closes-series-round-expand-060000153.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReaQta will invest the Series A funding, led by Alpha Intelligence Capital, towards expanding its commercial operations and footprint, particularly across Europe and Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threats Hover Over Tor Users<a href="https://cyware.com/news/threats-hover-over-tor-users-2835fb5b"> Full Text</a>
 </p>
 <details>

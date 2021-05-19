@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threats Hover Over Tor Users<a href="https://cyware.com/news/threats-hover-over-tor-users-2835fb5b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two fresh waves of attacks including SSL-stripping attacks and scheme flooding have been observed crippling Tor users. Users are recommended to keep the web browser updated to fix any exploitable vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Qlocker ransomware shuts down after extorting hundreds of QNAP users<a href="https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/"> Full Text</a>
 </p>
 <details>
