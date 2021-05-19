@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 18, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats urge Facebook to abandon 'Instagram for kids' plan | 'Homework gap' likely to persist after pandemic<a href="https://thehill.com//policy/technology/overnights/554219-hillicon-valley-democrats-urge-facebook-to-abandon-instagram-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of congressional Democrats on Tuesday called on Facebook to abandon a plan to create an Instagram for kids platform, further amplifying criticism of the plan. Meanwhile, advocates are expressing concerns that the “homework gap” created by digital learning during the COVID-19 pandemic may continue once students return to in-person classes, and Colonial Pipeline said it was experiencing some technical issues a week after service resumed after a devastating ransomware attack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Solving the Ransomware Scourge Requires a Coordinated Effort<a href="https://www.infosecurity-magazine.com:443/news/rsac-solving-the-ransomware-scourge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What is the current state of ransomware and what needs to be done to stop it? A panel of experts at the RSA Conference has a few ideas
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Legislation to secure critical systems against cyberattacks moves forward in the House<a href="https://thehill.com//policy/cybersecurity/554214-legislation-to-secure-critical-systems-against-cyberattacks-moves"> Full Text</a>
 </p>
 <details>
