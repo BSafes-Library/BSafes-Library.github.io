@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pega Infinity patches authentication vulnerability - Malwarebytes Labs<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/05/pega-infinity-patches-authentication-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are several PoCs readily available, including complete videos on YouTube, so users of the Pega Infinity enterprise software platform are being advised to update their installations.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 European Union Extends Framework for Cyberattack Sanctions<a href="https://www.securityweek.com/european-union-extends-framework-cyberattack-sanctions?&web_view=true"> Full Text</a>
 </p>
 <details>
