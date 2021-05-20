@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Begins Rolling Out 'Site Isolation' Security Feature to Firefox Browser<a href="https://thehackernews.com/2021/05/mozilla-begins-rolling-out-site.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has begun rolling out a new security feature for its Firefox browser in nightly and beta channels that aims to protect users against a new class of side-channel attacks from malicious sites.  Called "Site Isolation," the implementation loads each website separately in its own operating system process and, as a result, prevents untrusted code from a rogue website from accessing confidential information stored in other sites.  "This fundamental redesign of Firefox's Security architecture extends current security mechanisms by creating operating system process-level boundaries for all sites loaded in Firefox for Desktop," Mozilla&nbsp; said &nbsp;in a statement. "Isolating each site into a separate operating system process makes it even harder for malicious sites to read another site's secret or private data."   The motivation for Site Isolation can be traced all the way back to January 2018 when&nbsp; Spectre and Meltdown vulnerabilities &nbsp;were publicly dis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Simple 1-Click Compromised Password Reset Feature Coming to Chrome Browser<a href="https://thehackernews.com/2021/05/a-simple-1-click-compromised-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday&nbsp; announced &nbsp;a new feature to its password manager that could be used to change a stolen password automatically with a single tap.  Automated password changes build on the tool's ability to&nbsp; check the safety &nbsp;of saved passwords. Thus when Chrome finds a password that may have been compromised as part of a data breach, it will prompt users with an alert containing a "Change Password" button, tapping which "Chrome will not only navigate to the site, but also go through the entire process of changing your password."   Enabling this in the background is Google's&nbsp; Duplex &nbsp;technology, which it debuted in 2018 and expanded in 2019 to support various functions in Google Assistant like booking a rental car, ordering food, and buying movie tickets. The search giant, however, noted that users could take over control at any point during the process and change the password manually.   The feature is currently being rolled out in Chrome for Android to al
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

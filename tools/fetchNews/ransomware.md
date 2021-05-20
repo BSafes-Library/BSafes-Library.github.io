@@ -8,6 +8,98 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School districts struggle to defend against rising ransomware attacks<a href="https://thehill.com//policy/cybersecurity/553506-school-districts-struggle-to-defend-against-rising-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals are stepping up their efforts to hack into vulnerable school districts, often launching ransomware attacks like the kind that shut down the Colonial Pipeline earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Ransomware Gang Extorted $90 Million from Several Victims in 9 Months<a href="https://thehackernews.com/2021/05/darkside-ransomware-gang-extorted-90.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide, the hacker group behind the&nbsp; Colonial Pipeline ransomware attack &nbsp;earlier this month, received $90 million in bitcoin payments following a nine-month ransomware spree, making it one of the most profitable cybercrime groups.  "In total, just over $90 million in bitcoin ransom payments were made to DarkSide, originating from 47 distinct wallets," blockchain analytics firm Elliptic&nbsp; said . "According to&nbsp; DarkTracer , 99 organisations have been infected with the DarkSide malware - suggesting that approximately 47% of victims paid a ransom, and that the average payment was $1.9 million."  Of the total $90 million haul, the DarkSide's developer is said to have received $15.5 million in bitcoins, while the remaining $74.7 million was split among its various affiliates. FireEye's research into DarkSide's affiliate program had&nbsp; previously revealed &nbsp;that its creators take a 25% cut for payments under $500,000 and 10% for ransoms above $5 million, with t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang also breached Ireland Department of Health (DoH)<a href="https://securityaffairs.co/wordpress/118074/cyber-crime/conti-ransomware-department-of-health.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware also breached the network of Ireland's Department of Health (DoH) but the ransomware failed to encrypt the systems.
+
+
+
+Last week, Conti ransomware gang targeted the Ireland’s Health Service Executive that was forced to shut&nbsp;down its IT systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Target New Zealand District Hospitals, Causing Outages and Surgery Canellations<a href="https://www.theregister.com/2021/05/19/new_zealand_hospitals_taken_down/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's Waikato District Health Board (DHB) has been hit with a ransomware that took down most IT services Tuesday morning and drastically reduced services at six of its affiliate hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MountLocker ransomware uses Windows API to worm through networks<a href="https://www.bleepingcomputer.com/news/security/mountlocker-ransomware-uses-windows-api-to-worm-through-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MountLocker ransomware operation now uses enterprise Windows Active Directory APIs to worm through networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware made $90 million since October 2020<a href="https://securityaffairs.co/wordpress/118064/cyber-crime/darkside-ransomware-earnings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from blockchain analysis firm Elliptic estimated that Darkside ransomware gang has made over $90 million from its attacks.
+
+
+
+Experts from blockchain analysis firm Elliptic estimated that the Darkside ransomware gang has earned over $90 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

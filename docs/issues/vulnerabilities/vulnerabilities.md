@@ -11,6 +11,66 @@ nav_order: 900220
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google addresses 4 zero-day flaws in Android exploited in the wild<a href="https://securityaffairs.co/wordpress/118089/mobile-2/android-4-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released Android Security Bulletin for May 2021 security updates that address four zero-day vulnerabilities that were exploited in the wild.
+
+
+
+Android Security Bulletin for May 2021 security updates address four zero-day vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threats Hover Over Tor Users<a href="https://cyware.com/news/threats-hover-over-tor-users-2835fb5b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two fresh waves of attacks including SSL-stripping attacks and scheme flooding have been observed crippling Tor users. Users are recommended to keep the web browser updated to fix any exploitable vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+May Android security updates patch 4 zero-days exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/may-android-security-updates-patch-4-zero-days-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to info provided by Google's Project Zero team, four Android security vulnerabilities were exploited in the wild as zero-day bugs before being patched earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Exploitable Remote Code Execution Vulnerabilities in Mercedes-Benz Cars<a href="https://www.securityweek.com/researchers-find-exploitable-bugs-mercedes-benz-cars?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following an eight-month audit of the code in the latest infotainment system in Mercedes-Benz cars, security researchers with Tencent Security Keen Lab identified five vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Emerson Patches Several Vulnerabilities in X-STREAM Gas Analyzers<a href="https://www.securityweek.com/emerson-patches-several-vulnerabilities-x-stream-gas-analyzers?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

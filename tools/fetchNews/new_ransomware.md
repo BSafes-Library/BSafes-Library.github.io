@@ -11,6 +11,34 @@ nav_order: 900180
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Qlocker ransomware shuts down after extorting hundreds of QNAP users<a href="https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qlocker ransomware gang has shut down their operation after earning $350,000 in a month by exploiting vulnerabilities in QNAP NAS devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the ransomware explosion is reshaping the cyber insurance market<a href="https://www.scmagazine.com/home/security-news/ransomware/how-the-ransomware-explosion-is-reshaping-the-cyber-insurance-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the NotPetya attacks, insurance companies started applying far more scrutiny to efforts by customers to protect themselves from ransomware. In the wake of Colonial Pipeline and other recent incidents, more shifts in coverage could emerge  – and priorities of the insurers might not match up with those of victims.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 School districts struggle to defend against rising ransomware attacks<a href="https://thehill.com//policy/cybersecurity/553506-school-districts-struggle-to-defend-against-rising-ransomware-attacks"> Full Text</a>
 </p>
 <details>

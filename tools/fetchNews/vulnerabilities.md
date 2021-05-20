@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerson Patches Several Vulnerabilities in X-STREAM Gas Analyzers<a href="https://www.securityweek.com/emerson-patches-several-vulnerabilities-x-stream-gas-analyzers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American industrial giant Emerson this week informed customers that it has released firmware updates for its Rosemount X-STREAM gas analyzers to address half a dozen vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the infotainment system used in Mercedes-Benz cars<a href="https://securityaffairs.co/wordpress/118081/hacking/mercedes-benz-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers identified five vulnerabilities in the infotainment system in Mercedes-Benz cars, four of them are remotely exploitable.
+
+
+
+Security researchers with Tencent Security Keen Lab identified five vulnerabilities, tracked as CVE-2021-23906,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows PoC Exploit Released for Wormable RCE<a href="https://threatpost.com/windows-exploit-wormable-rce/166289/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit pries open CVE-2021-31166, a bug with a CVSS score of 9.8 that was the baddest of the bad in Microsoft’s Patch Tuesday release last week.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest phones are great at thwarting Wi-Fi tracking. Other devices, not so much – study<a href="https://www.theregister.com/2021/05/18/wifi_tracking_failures/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the paper indicates that mobile phones have become better at implementing MAC address randomization, it also highlights the lack of a standard approach has led to inconsistent implementations.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

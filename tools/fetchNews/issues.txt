@@ -7,6 +7,7 @@
  -- [Breach](/docs/issues/breach/breach/)<br>
  -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
  -- [Criminals](/docs/issues/criminals/criminals/)<br>
+ -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
  -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
  -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
  -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>

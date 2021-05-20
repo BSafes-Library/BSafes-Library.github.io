@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US denies disrupting Russian cyber group behind Colonial pipeline hack<a href="https://thehill.com//policy/cybersecurity/554465-us-denies-disrupting-russian-cyber-group-behind-colonial-pipeline-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States&nbsp;did not take action against the cyber criminal group that was behind the ransomware attack on Colonial Pipeline earlier this month, officials told The Washington Post. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Science panel requests briefing with Energy Dept. over Colonial hack<a href="https://thehill.com//policy/energy-environment/554442-house-science-panel-requests-briefing-with-energy-department-over"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders of the House Science, Space and Technology Committee are requesting a briefing with the Department of Energy on the ransomware attack&nbsp;that forced&nbsp;the Colonial Pipeline to shut down operations for nearly a week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces program to mitigate vulnerabilities below the operating system<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/dhs-announces-program-to-mitigate-vulnerabilities-below-the-operating-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notable rise in firmware vulnerabilities comes at a time when more run-of-the-mill criminals have access. CISA proposed a multi-step approach to tackle the growing threat.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Granholm expresses openness to pipeline cyber standards after Colonial attack<a href="https://thehill.com//policy/cybersecurity/554364-energy-secretary-granholm-expresses-openness-to-cyber-standards-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energy Secretary Jennifer Granholm on Wednesday threw her tentative support behind the idea of mandatory standards to secure pipelines in the wake of the debilitating ransomware attack on Colonial Pipeline earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

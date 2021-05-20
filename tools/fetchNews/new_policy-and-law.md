@@ -11,6 +11,20 @@ nav_order: 900163
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US introduces bills to secure critical infrastructure from cyber attacks<a href="https://www.bleepingcomputer.com/news/security/us-introduces-bills-to-secure-critical-infrastructure-from-cyber-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US House Committee on Homeland Security has passed five bipartisan bills on Monday to bolster defense capabilities against cyber attacks targeting US organizations and critical&nbsp;infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Regulator Fines QR Code Provider Which Spammed Customers<a href="https://www.infosecurity-magazine.com:443/news/regulator-fines-qr-code-provider/"> Full Text</a>
 </p>
 <details>

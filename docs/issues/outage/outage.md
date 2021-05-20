@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Packaging vendor Ardagh admits cyber-attack disrupted operations<a href="https://portswigger.net/daily-swig/packaging-vendor-ardagh-admits-cyber-attack-disrupted-operations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement issued on May 17, the manufacturer said that the assault prompted it to institute “containment procedures, including pro-actively shutting down certain IT systems and applications”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

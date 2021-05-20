@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keksec Cybergang Debuts Simps Botnet for Gaming DDoS<a href="https://threatpost.com/keksec-simps-botnet-gaming-ddos/166306/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly discovered malware infects IoT devices in tandem with the prolific Gafgyt botnet, using known security vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

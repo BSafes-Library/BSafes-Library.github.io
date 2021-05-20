@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Lasting Impact of the COVID Pandemic on Privacy<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-lasting-impact-of-the/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year of lockdown, remote work and remote learning could well be the spark that helps to define a new era of user privacy, according to a panel of experts at the RSA Conference
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

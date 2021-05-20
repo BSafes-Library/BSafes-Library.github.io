@@ -11,6 +11,62 @@ nav_order: 900072
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack | Facebook sets up 'special operations center' for content on Israeli-Palestinian conflict | Granholm expresses openness to pipeline cyber standards after<a href="https://thehill.com//policy/technology/overnights/554434-hillicon-valley-colonial-pipeline-ceo-says-company-paid-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Colonial Pipeline on Wednesday gave his first interview since the company was hit by a ransomware attack earlier this month, confirming publicly that he approved the payment of $4.4 million to the hackers to regain access to IT systems. Meanwhile, Facebook has set up a special operations center to monitor content on its platforms involving the Israeli-Palestinian conflict, and Energy Secretary Jennifer GranholmJennifer GranholmOVERNIGHT ENERGY: IEA calls for no new investment in fossil fuels in net-zero plan | Biden frames EV goals as competition with China | US considering carbon import tax, Kerry says Biden administration to develop performance standards for federal buildings OVERNIGHT ENERGY: Gas shortages likely to linger for days | Biden administration issues second shipping waiver amid fuel shortages | EPA orders St. Croix refinery to shut down for 60 days due to 'imminent threat' to islanders' health MORE expressed some tentative support for mandatory security standards for pipelines.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ready to move to the cloud? Here’s what you need to do when vetting service providers<a href="https://www.scmagazine.com/home/2021-rsa-conference/ready-to-move-to-the-cloud-heres-what-you-need-to-do-when-vetting-service-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the RSA Conference’s Cloud Security Summit this week, three speakers noted top priorities when making a cloud transition, all tied to establishing expectations of a cloud service provider up front, and ensuring in writing that the provider can and will adhere to specific standards for maintaining and securing data.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#DTX: Security Pros Must Focus on Human Behaviors to Address Cyber-challenges<a href="https://www.infosecurity-magazine.com:443/news/dtx-security-pros-focus-human/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's more the industry can do to prevent social engineering attacks and scams
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud CISO: Usability must be baked into design of security tools<a href="https://www.scmagazine.com/home/2021-rsa-conference/google-cloud-ciso-usability-must-be-baked-into-design-of-security-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security and usability are not mutually exclusive, and effectively combining these concepts can help organizations overcome the cyber skills gap, according to Google Cloud Chief Information Security Officer Phil Venables, during an RSA Conference keynote session.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 RDP Hijacked for Lateral Movement in 69% of Attacks<a href="https://www.infosecurity-magazine.com:443/news/rdp-hijacked-for-lateral-movement/"> Full Text</a>
 </p>
 <details>

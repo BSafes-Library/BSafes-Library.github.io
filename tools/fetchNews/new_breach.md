@@ -11,6 +11,20 @@ nav_order: 900029
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UHS Data Breach Lawsuit Proceeds<a href="https://www.infosecurity-magazine.com:443/news/uhs-data-breach-lawsuit-proceeds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breach lawsuit against healthcare provider gets the go-ahead but only for one patient
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Recruiter’s Cloud Snafu Exposes 20,000 CVs and ID Documents<a href="https://www.infosecurity-magazine.com:443/news/recruiters-cloud-snafu-exposes/"> Full Text</a>
 </p>
 <details>

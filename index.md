@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: The Security Risks of Cryptocurrency<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-security-risks-of/"> Full Text</a>
@@ -50,7 +50,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: The Lasting Impact of the COVID Pandemic on Privacy<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-lasting-impact-of-the/"> Full Text</a>
@@ -66,7 +66,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US denies disrupting Russian cyber group behind Colonial pipeline hack<a href="https://thehill.com//policy/cybersecurity/554465-us-denies-disrupting-russian-cyber-group-behind-colonial-pipeline-hack"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House Science panel requests briefing with Energy Dept. over Colonial hack<a href="https://thehill.com//policy/energy-environment/554442-house-science-panel-requests-briefing-with-energy-department-over"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As digital innovation accelerates, what is the next cyber investment unicorn?<a href="https://www.scmagazine.com/home/2021-rsa-conference/as-digital-innovation-accelerates-what-is-the-next-cyber-investment-unicorn/"> Full Text</a>
@@ -114,7 +114,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack | Facebook sets up 'special operations center' for content on Israeli-Palestinian conflict | Granholm expresses openness to pipeline cyber standards after<a href="https://thehill.com//policy/technology/overnights/554434-hillicon-valley-colonial-pipeline-ceo-says-company-paid-hackers"> Full Text</a>
@@ -130,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS announces program to mitigate vulnerabilities below the operating system<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/dhs-announces-program-to-mitigate-vulnerabilities-below-the-operating-system/"> Full Text</a>
@@ -146,7 +146,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ready to move to the cloud? Here’s what you need to do when vetting service providers<a href="https://www.scmagazine.com/home/2021-rsa-conference/ready-to-move-to-the-cloud-heres-what-you-need-to-do-when-vetting-service-providers/"> Full Text</a>
@@ -162,7 +162,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keksec Cybergang Debuts Simps Botnet for Gaming DDoS<a href="https://threatpost.com/keksec-simps-botnet-gaming-ddos/166306/"> Full Text</a>
@@ -178,7 +178,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can Nanotech Secure IoT Devices From the Inside-Out?<a href="https://threatpost.com/nanotech-secure-iot-devices/166324/"> Full Text</a>
@@ -194,7 +194,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Google Clouds Hijacked for Gobs of Phishing<a href="https://threatpost.com/microsoft-google-clouds-hijacked-phishing/166329/"> Full Text</a>
@@ -210,7 +210,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bizarro Trojan: Fiercely Stealing Banking Information<a href="https://cyware.com/news/bizarro-trojan-fiercely-stealing-banking-information-f935bb75"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google addresses 4 zero-day flaws in Android exploited in the wild<a href="https://securityaffairs.co/wordpress/118089/mobile-2/android-4-zero-day-flaws.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Impact of COVID-19 on Data Breach Landscape<a href="https://cyware.com/news/impact-of-covid-19-on-data-breach-landscape-c4616fc0"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: SolarWinds CEO Provides New Details into Attack and Response<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-ceo-details-attack/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ReaQta Closes Series-A Round to Expand Commercial Operations<a href="https://finance.yahoo.com/news/reaqta-closes-series-round-expand-060000153.html?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threats Hover Over Tor Users<a href="https://cyware.com/news/threats-hover-over-tor-users-2835fb5b"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qlocker ransomware shuts down after extorting hundreds of QNAP users<a href="https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Packaging vendor Ardagh admits cyber-attack disrupted operations<a href="https://portswigger.net/daily-swig/packaging-vendor-ardagh-admits-cyber-attack-disrupted-operations?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Granholm expresses openness to pipeline cyber standards after Colonial attack<a href="https://thehill.com//policy/cybersecurity/554364-energy-secretary-granholm-expresses-openness-to-cyber-standards-for"> Full Text</a>
@@ -358,7 +358,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UHS Data Breach Lawsuit Proceeds<a href="https://www.infosecurity-magazine.com:443/news/uhs-data-breach-lawsuit-proceeds/"> Full Text</a>
@@ -374,7 +374,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trailer maker Utility targeted in ransomware attack<a href="https://www.freightwaves.com/news/trailer-maker-utility-targeted-in-ransomware-attack?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Freight Waves
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Splunk to Acquire TruSTAR<a href="https://www.infosecurity-magazine.com:443/news/splunk-to-acquire-trustar/"> Full Text</a>
@@ -406,7 +406,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the ransomware explosion is reshaping the cyber insurance market<a href="https://www.scmagazine.com/home/security-news/ransomware/how-the-ransomware-explosion-is-reshaping-the-cyber-insurance-market/"> Full Text</a>
@@ -422,7 +422,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cynerio Raises $30M in Series B Funding<a href="https://www.finsmes.com/2021/05/cynerio-raises-30m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 May Android security updates patch 4 zero-days exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/may-android-security-updates-patch-4-zero-days-exploited-in-the-wild/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Gang Retires on $90m<a href="https://www.infosecurity-magazine.com:443/news/darkside-gang-retires-on-90m/"> Full Text</a>
@@ -470,7 +470,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #DTX: Security Pros Must Focus on Human Behaviors to Address Cyber-challenges<a href="https://www.infosecurity-magazine.com:443/news/dtx-security-pros-focus-human/"> Full Text</a>
@@ -486,7 +486,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack<a href="https://thehill.com//policy/cybersecurity/554334-colonial-pipeline-ceo-says-company-paid-hackers-44-million-after"> Full Text</a>
@@ -502,7 +502,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Exploitable Remote Code Execution Vulnerabilities in Mercedes-Benz Cars<a href="https://www.securityweek.com/researchers-find-exploitable-bugs-mercedes-benz-cars?&web_view=true"> Full Text</a>
@@ -518,7 +518,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT’s Extended Credential Harvester Targets Cloud Services, Other Software<a href="https://www.trendmicro.com/en_us/research/21/e/teamtnt-extended-credential-harvester-targets-cloud-services-other-software.html?&web_view=true"> Full Text</a>
@@ -534,7 +534,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US introduces bills to secure critical infrastructure from cyber attacks<a href="https://www.bleepingcomputer.com/news/security/us-introduces-bills-to-secure-critical-infrastructure-from-cyber-attacks/"> Full Text</a>
@@ -550,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2021
+May 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud CISO: Usability must be baked into design of security tools<a href="https://www.scmagazine.com/home/2021-rsa-conference/google-cloud-ciso-usability-must-be-baked-into-design-of-security-tools/"> Full Text</a>
