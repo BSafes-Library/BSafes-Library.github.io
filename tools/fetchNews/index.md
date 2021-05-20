@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BazarCall: Call Centers Help Spread BazarLoader Malware<a href="https://unit42.paloaltonetworks.com/bazarloader-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In February, researchers began reporting a call center-based method of distributing BazarLoader. It utilizes trial subscription-themed emails that encourages potential victims to call a phone number.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Exchange Server Attackers Launched Scans Within Five Minutes of Disclosure<a href="https://www.infosecurity-magazine.com:443/news/exchange-server-attackers-scans/"> Full Text</a>
 </p>
 <details>
