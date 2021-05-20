@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watering Hole Attack Was Used to Target Florida Water Utilities<a href="https://thehackernews.com/2021/05/watering-hole-attack-was-used-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation undertaken in the aftermath of the&nbsp; Oldsmar water plant hack &nbsp;earlier this year has revealed that an infrastructure contractor in the U.S. state of Florida hosted malicious code on its website in what's known as a watering hole attack.  "This malicious code seemingly targeted water utilities, particularly in Florida, and more importantly, was visited by a browser from the city of Oldsmar on the same day of the poisoning event," Dragos researcher Kent Backman&nbsp; said &nbsp;in a write-up published on Tuesday.  The site, which belongs to a Florida-based general contractor involved in building water and wastewater treatment facilities, had no bearing on the intrusion, the American industrial cybersecurity firm said.   Watering hole attacks typically allow an adversary to compromise a specific group of end-users by compromising a carefully selected website, which members of that group are known to visit, with an intention to gain access to the victim's system an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

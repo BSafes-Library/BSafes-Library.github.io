@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+23 Android Apps Expose Over 100,000,000 Users' Personal Data<a href="https://thehackernews.com/2021/05/these-23-android-apps-expose-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigurations in multiple Android apps leaked sensitive data of more than 100 million users, potentially making them a lucrative target for malicious actors.  "By not following best-practices when configuring and integrating third-party cloud-services into applications, millions of users' private data was exposed," Check Point researchers said in an analysis published today and shared with The Hacker News.  "In some cases, this type of misuse only affects the users, however, the developers were also left vulnerable. The misconfigurations put users' personal data and developer's internal resources, such as access to update mechanisms, storage, and more at risk."  The findings come from a study of 23 Android applications available in the official Google Play Store, some of which have downloads ranging from 10,000 to 10 million, such as Astro Guru , iFax, Logo Maker , Screen Recorder , and T'Leva .   According to Check Point, the issues stem from m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A dozen Android apps exposed data of 100M+ users<a href="https://securityaffairs.co/wordpress/118112/mobile-2/android-apps-exposed-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point researchers found 23 Android apps that exposed the personal data of more than 100 million users.
+
+
+
+Security researchers from Check Point have discovered 23 Android applications that exposed the personal data of more than 100 million users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 100+ million Android users exposed via misconfigured cloud services<a href="https://www.bleepingcomputer.com/news/security/data-of-100-plus-million-android-users-exposed-via-misconfigured-cloud-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A banking trojan named Bizarro that originates from Brazil has crossed the borders and started to target customers of 70 banks in Europe and South America.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK recruitment firm exposed sensitive applicants data for months<a href="https://www.hackread.com/uk-recruitment-firm-exposed-applicants-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This data breach majorly affected the applicants whose CVs containing personal information were leaked due to misconfigured AWS S3 buckets, reports the research team at Website Planet.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

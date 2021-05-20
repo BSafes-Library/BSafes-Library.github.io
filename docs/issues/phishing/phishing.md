@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Domain Group Discloses Phishing Attack that Targete Site Users<a href="https://www.zdnet.com/article/domain-group-says-phishing-attack-targeted-site-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We have identified a scam that used a phishing attack to gain access to Domain's administrative systems to engage with people who have made rental property enquiries," the company's CEO told ZDNet.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail phish deploys evasion tricks to avoid analysis<a href="https://blog.malwarebytes.com/scams/2021/05/royal-mail-phish-deploys-evasion-tricks-to-avoid-analysis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When you click the link to visit the fake Royal Mail page, there’s a fair bit of code for detecting potential VM use. It tests for WebGL renders and whether site visitors have a display or not.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

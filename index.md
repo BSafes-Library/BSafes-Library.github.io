@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware gives HSE Ireland free decryptor, still selling data<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gives-hse-ireland-free-decryptor-still-selling-data/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Money-go-round: The booming cottage industry behind ransomware<a href="https://www.politico.eu/article/ransomware-attacks-booming-cottage-industry/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 23 Android Apps Expose Over 100,000,000 Users' Personal Data<a href="https://thehackernews.com/2021/05/these-23-android-apps-expose-over.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HMRC Investing Heavily in Cybersecurity Training for Staff, Official Figures Show<a href="https://www.infosecurity-magazine.com:443/news/hmrc-investing-cybersecurity/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It’s Time to Surge Resources Into Prosecuting Ransomware Gangs<a href="https://www.lawfareblog.com/its-time-surge-resources-prosecuting-ransomware-gangs"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A dozen Android apps exposed data of 100M+ users<a href="https://securityaffairs.co/wordpress/118112/mobile-2/android-apps-exposed-data.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 100+ million Android users exposed via misconfigured cloud services<a href="https://www.bleepingcomputer.com/news/security/data-of-100-plus-million-android-users-exposed-via-misconfigured-cloud-services/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK recruitment firm exposed sensitive applicants data for months<a href="https://www.hackread.com/uk-recruitment-firm-exposed-applicants-data/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Single Sign-On Enough to Secure Your SaaS Applications?<a href="https://thehackernews.com/2021/05/is-single-sign-on-enough-to-secure-your.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web App Bugs Drove Multiple Breaches Per Firm in 2020<a href="https://www.infosecurity-magazine.com:443/news/web-app-bugs-multiple-breaches-per/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy Concerns On Cookies Storing Personal Information<a href="https://securityaffairs.co/wordpress/118110/digital-id/privacy-concerns-cookies-usage.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This is how long hackers will hide in your network before deploying ransomware or being spotted<a href="https://www.zdnet.com/article/this-is-how-long-hackers-will-spend-in-your-network-before-deploying-ransomware-or-being-spotted/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watering Hole Attack Was Used to Target Florida Water Utilities<a href="https://thehackernews.com/2021/05/watering-hole-attack-was-used-to-target.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Microsoft Authenticator extension discovered in Chrome Store<a href="https://hotforsecurity.bitdefender.com/blog/fake-microsoft-authenticator-extension-discovered-in-chrome-store-25845.html?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Bitdefender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Domain Group Discloses Phishing Attack that Targete Site Users<a href="https://www.zdnet.com/article/domain-group-says-phishing-attack-targeted-site-users/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarCall: Call Centers Help Spread BazarLoader Malware<a href="https://unit42.paloaltonetworks.com/bazarloader-malware/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exchange Server Attackers Launched Scans Within Five Minutes of Disclosure<a href="https://www.infosecurity-magazine.com:443/news/exchange-server-attackers-scans/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pega Infinity patches authentication vulnerability - Malwarebytes Labs<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/05/pega-infinity-patches-authentication-vulnerability/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Union Extends Framework for Cyberattack Sanctions<a href="https://www.securityweek.com/european-union-extends-framework-cyberattack-sanctions?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial CEO Reportedly Confirms $4.4 Million Ransom Payment<a href="https://www.infosecurity-magazine.com:443/news/colonial-ceo-confirms-44-million/"> Full Text</a>
@@ -362,7 +362,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian citizen Anton Bogdanov sentenced to 5 years for cyber tax fraud scheme<a href="https://securityaffairs.co/wordpress/118106/cyber-crime/anton-bogdanov-sentenced-5-years.html"> Full Text</a>
@@ -382,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Mail phish deploys evasion tricks to avoid analysis<a href="https://blog.malwarebytes.com/scams/2021/05/royal-mail-phish-deploys-evasion-tricks-to-avoid-analysis/?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blind SQL Injection flaw in WP Statistics impacted 600K+ sites<a href="https://securityaffairs.co/wordpress/118099/hacking/wordpress-wp-statistics-flaw-2.html"> Full Text</a>

@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pega Infinity patches authentication vulnerability - Malwarebytes Labs<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/05/pega-infinity-patches-authentication-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are several PoCs readily available, including complete videos on YouTube, so users of the Pega Infinity enterprise software platform are being advised to update their installations.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind SQL Injection flaw in WP Statistics impacted 600K+ sites<a href="https://securityaffairs.co/wordpress/118099/hacking/wordpress-wp-statistics-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a Time-Based Blind SQL Injection vulnerability in the WP Statistics plugin which is installed on over 600,000 WordPress sites.
+
+
+
+Researchers from the Wordfence Threat Intelligence discovered a Time-Based Blind SQL Injection vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

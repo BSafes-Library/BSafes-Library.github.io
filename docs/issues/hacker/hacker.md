@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Server Attackers Launched Scans Within Five Minutes of Disclosure<a href="https://www.infosecurity-magazine.com:443/news/exchange-server-attackers-scans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cheap cloud services support threat actor efforts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
