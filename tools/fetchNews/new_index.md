@@ -37,6 +37,362 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Comcast now blocks BGP hijacking attacks and route leaks with RPKI<a href="https://www.bleepingcomputer.com/news/security/comcast-now-blocks-bgp-hijacking-attacks-and-route-leaks-with-rpki/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comcast, one of America's largest broadband providers, has now deployed RPKI on its network to defend against BGP route hijacks and leaks. Left unchecked, a BGP route hijack or leak can cause a drastic surge in internet traffic that now gets misdirected or stuck, leading to global congestion and a Denial of Service (DoS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AHK Rat Loader Delivers Multiple RATs<a href="https://cyware.com/news/ahk-rat-loader-delivers-multiple-rats-f9a1c941"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign that has been undergoing constant development in its toolsets since February now boasts of four different malware versions - all of which start with an AHK executable that leads to the different VBScripts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon facing lawsuits alleging racial, gender bias | Senate Commerce panel advances Biden's top science nominee | Colonial Pipeline CEO to testify on Capitol Hill in June<a href="https://thehill.com//policy/technology/overnights/554651-hillicon-valley-amazon-facing-lawsuits-alleging-racial-gender"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon this week found itself in more hot water, as multiple women at the company accused the company of racial and gender bias discrimination in lawsuits filed Wednesday. Meanwhile on Capitol Hill, the Senate Commerce Committee approved President BidenJoe BidenIsrael-Hamas ceasefire could come as soon as Friday: report US opposes UN resolution calling on Israel-Gaza ceasefire  Parents of 54 migrant children found after separation under Trump administration MORE’s nominee to lead the Office of Science and Technology Policy, and the House Homeland Security Committee announced that Colonial Pipeline CEO Joseph Blount will testify on the recent ransomware attack next month. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: What Makes a Security Program Measurably More Successful?<a href="https://www.infosecurity-magazine.com:443/news/rsac-what-makes-a-security-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wendy Nather and Wade Baker have a few data-driven ideas about which activities actually help to make security programs work and which ones have less impact
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STRRAT RAT spreads masquerading as ransomware<a href="https://securityaffairs.co/wordpress/118118/malware/strrat-rat-masquerading-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a malware campaign that is spreading a RAT dubbed named STRRAT masquerading as ransomware.
+
+
+
+Microsoft Security Intelligence researchers uncovered a malware campaign that is spreading a remote access trojan (RAT) tracked as STRRAT....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What makes North Korean hacking groups more creative?<a href="https://www.scmagazine.com/home/2021-rsa-conference/what-makes-north-korean-hacking-groups-more-creative/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From use of custom malware to pioneering strategies, North Korean hacking groups have shown an innovative spirit that helps them to punch above their weight.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Android Bugs Being Exploited in the Wild<a href="https://threatpost.com/android-bugs-exploited-wild/166347/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, Google quietly slipped updates into its May 3 Android security bulletin for bugs that its Project Zero group has confirmed are zero-days.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases SimuLand, a test lab for simulated cyberattacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-simuland-a-test-lab-for-simulated-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released SimuLand, an open-source lab environment to help test and improve Microsoft 365 Defender, Azure Defender, and Azure Sentinel defenses against real attack scenarios.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudsters Employ Amazon Voice Phishing Attacks in Fake Order Scams<a href="https://www.zdnet.com/article/fraudsters-employ-amazon-vishing-attacks-in-fake-order-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In case studies published by Armorblox, it highlighted two Amazon vishing attacks intent on stealing customer credit card details -- and how the use of voice messages can bypass existing spam filters.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline CEO to testify on Capitol Hill in June following cyberattack<a href="https://thehill.com//policy/national-security/554644-colonial-pipeline-ceo-to-testify-on-capitol-hill-in-june-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline CEO Joseph Blount will testify in June before the House Homeland Security Committee at a hearing one month after the company was forced to shut down operations due to a devastating ransomware attack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USPS Reportedly Uses Clearview AI to Spy on Americans<a href="https://www.infosecurity-magazine.com:443/news/usps-reportedly-uses-clearview-ai/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Postal Service reportedly uses facial recognition tech to identify unknown targets in investigations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 Attacker Dwell Time Trends and Best Defenses<a href="https://threatpost.com/2021-attacker-dwell-time-trends-and-best-defenses/166116/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The time that attackers stay hidden inside an organization’s networks is shifting, putting pressure on defenders and upping the need to detect and respond to threats in real-time.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spammers flood PyPI with pirated movie links and bogus packages<a href="https://www.bleepingcomputer.com/news/security/spammers-flood-pypi-with-pirated-movie-links-and-bogus-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official Python software package repository, PyPI, is getting flooded with spam packages, as seen by BleepingComputer. These packages are named after different movies in a style that is commonly associated with torrents and "warez" sites hosting pirated content.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GlobalPlatform expands TEE certification scheme<a href="https://www.helpnetsecurity.com/2021/05/20/globalplatform-tee-certification/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GlobalPlatform has expanded its Trusted Execution Environment (TEE) security certification scheme to enable evaluation of discrete technologies that come together to make up a complete TEE solution.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US insurer paid $40 million ransom after March cyber attack: report<a href="https://thehill.com//policy/cybersecurity/554635-us-insurer-paid-40-million-ransom-after-march-cyber-attack-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest insurance companies in the U.S. reportedly paid $40 million in ransom in March to regain control of its network following a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-bully Supermodel Dropped by 3 Stores<a href="https://www.infosecurity-magazine.com:443/news/cyber-bully-supermodel-dropped-by-3/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrissy Teigen’s apology for previous cyber-bullying not enough to stop retailers from ditching her products
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Exec Calls Level of Mac Malware ‘Unacceptable’<a href="https://threatpost.com/apple-mac-malware-unacceptable/166340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Company is using threat of attacks as defense in case brought against it by Epic Games after Fortnite was booted from the App Store for trying to circumvent developer fees.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind SQL Injection flaw in WP Statistics Plugin Impacted by Over 600,000 WordPress Sites<a href="https://securityaffairs.co/wordpress/118099/hacking/wordpress-wp-statistics-flaw-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Wordfence Threat Intelligence discovered a Time-Based Blind SQL Injection vulnerability in WP Statistics, which is a WordPress plugin with over 600,000 active installs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigeria Suspends Official Charged with Defrauding US<a href="https://www.infosecurity-magazine.com:443/news/aide-charged-unemployment-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Governor’s aide suspended following arrest over unemployment benefits fraud
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline confirms it paid $4.4m ransom to hacker gang after attack<a href="https://www.theguardian.com/technology/2021/may/19/colonial-pipeline-cyber-attack-ransom?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Blount, Colonial Pipeline’s CEO, told the Wall Street Journal he authorized the payment because the firm didn’t know the extent of the damage and wasn’t sure how long it would take to recover.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Makes It Easier to Update Compromised Passwords<a href="https://www.darkreading.com/mobile/google-chrome-makes-it-easier-to-update-compromised-passwords/d/d-id/1341071?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is launching a new capability in Chrome to alert users when a password is compromised and automate the process of updating to a new one. The feature runs on Google's Duplex technology.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information disclosure vulnerability spotted in macOS SMB server<a href="https://blog.talosintelligence.com/2021/05/vuln-spotlight-smb-information-disclosure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The integer overflow vulnerability exists in the way macOS SMB server processes SMB3 compounded packets. An attacker could exploit this vulnerability by sending a specially crafted packet.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware gives HSE Ireland free decryptor, still selling data<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gives-hse-ireland-free-decryptor-still-selling-data/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Money-go-round: The booming cottage industry behind ransomware<a href="https://www.politico.eu/article/ransomware-attacks-booming-cottage-industry/?&web_view=true"> Full Text</a>
@@ -66,7 +422,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 23 Android Apps Expose Over 100,000,000 Users' Personal Data<a href="https://thehackernews.com/2021/05/these-23-android-apps-expose-over.html"> Full Text</a>
@@ -82,7 +438,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HMRC Investing Heavily in Cybersecurity Training for Staff, Official Figures Show<a href="https://www.infosecurity-magazine.com:443/news/hmrc-investing-cybersecurity/"> Full Text</a>
@@ -98,7 +454,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It’s Time to Surge Resources Into Prosecuting Ransomware Gangs<a href="https://www.lawfareblog.com/its-time-surge-resources-prosecuting-ransomware-gangs"> Full Text</a>
@@ -114,7 +470,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A dozen Android apps exposed data of 100M+ users<a href="https://securityaffairs.co/wordpress/118112/mobile-2/android-apps-exposed-data.html"> Full Text</a>
@@ -134,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 100+ million Android users exposed via misconfigured cloud services<a href="https://www.bleepingcomputer.com/news/security/data-of-100-plus-million-android-users-exposed-via-misconfigured-cloud-services/"> Full Text</a>
@@ -150,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK recruitment firm exposed sensitive applicants data for months<a href="https://www.hackread.com/uk-recruitment-firm-exposed-applicants-data/?&web_view=true"> Full Text</a>
@@ -166,7 +522,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Single Sign-On Enough to Secure Your SaaS Applications?<a href="https://thehackernews.com/2021/05/is-single-sign-on-enough-to-secure-your.html"> Full Text</a>
@@ -182,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web App Bugs Drove Multiple Breaches Per Firm in 2020<a href="https://www.infosecurity-magazine.com:443/news/web-app-bugs-multiple-breaches-per/"> Full Text</a>
@@ -198,7 +554,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy Concerns On Cookies Storing Personal Information<a href="https://securityaffairs.co/wordpress/118110/digital-id/privacy-concerns-cookies-usage.html"> Full Text</a>
@@ -218,7 +574,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This is how long hackers will hide in your network before deploying ransomware or being spotted<a href="https://www.zdnet.com/article/this-is-how-long-hackers-will-spend-in-your-network-before-deploying-ransomware-or-being-spotted/?&web_view=true"> Full Text</a>
@@ -234,7 +590,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watering Hole Attack Was Used to Target Florida Water Utilities<a href="https://thehackernews.com/2021/05/watering-hole-attack-was-used-to-target.html"> Full Text</a>
@@ -250,7 +606,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Microsoft Authenticator extension discovered in Chrome Store<a href="https://hotforsecurity.bitdefender.com/blog/fake-microsoft-authenticator-extension-discovered-in-chrome-store-25845.html?&web_view=true"> Full Text</a>
@@ -266,7 +622,7 @@ Bitdefender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Domain Group Discloses Phishing Attack that Targete Site Users<a href="https://www.zdnet.com/article/domain-group-says-phishing-attack-targeted-site-users/?&web_view=true"> Full Text</a>
@@ -282,7 +638,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarCall: Call Centers Help Spread BazarLoader Malware<a href="https://unit42.paloaltonetworks.com/bazarloader-malware/?&web_view=true"> Full Text</a>
@@ -298,7 +654,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exchange Server Attackers Launched Scans Within Five Minutes of Disclosure<a href="https://www.infosecurity-magazine.com:443/news/exchange-server-attackers-scans/"> Full Text</a>
@@ -314,7 +670,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pega Infinity patches authentication vulnerability - Malwarebytes Labs<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/05/pega-infinity-patches-authentication-vulnerability/?&web_view=true"> Full Text</a>
@@ -330,7 +686,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Union Extends Framework for Cyberattack Sanctions<a href="https://www.securityweek.com/european-union-extends-framework-cyberattack-sanctions?&web_view=true"> Full Text</a>
@@ -346,7 +702,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial CEO Reportedly Confirms $4.4 Million Ransom Payment<a href="https://www.infosecurity-magazine.com:443/news/colonial-ceo-confirms-44-million/"> Full Text</a>
@@ -362,7 +718,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian citizen Anton Bogdanov sentenced to 5 years for cyber tax fraud scheme<a href="https://securityaffairs.co/wordpress/118106/cyber-crime/anton-bogdanov-sentenced-5-years.html"> Full Text</a>
@@ -382,7 +738,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Mail phish deploys evasion tricks to avoid analysis<a href="https://blog.malwarebytes.com/scams/2021/05/royal-mail-phish-deploys-evasion-tricks-to-avoid-analysis/?&web_view=true"> Full Text</a>
@@ -398,7 +754,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blind SQL Injection flaw in WP Statistics impacted 600K+ sites<a href="https://securityaffairs.co/wordpress/118099/hacking/wordpress-wp-statistics-flaw-2.html"> Full Text</a>
