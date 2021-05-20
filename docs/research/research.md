@@ -6,6 +6,30 @@ nav_order: 800
 
 ## Research 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Pending December 15, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Bullying in the C-Suite - A Nurse Leader Perspective [HTML](https://papers.bsafes.com/docs/behavior/bullying-in-the-c-suite-a-nurse-leader-perspective/#bullying-in-the-c-suite---a-nurse-leader-perspective)
+</p>
+<details>
+  <summary>Abstract</summary>
+An estimated 35% of American workers have experienced bullying, and in 80% of those situations, the perpetrator was a supervisor or boss. However, the reality is that bullying can come from anyone in the workplace, including subordinates. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Behavioral Skills Training to Teach Online Safety Responses to Youth with Autism Spectrum Disorder [HTML](https://papers.bsafes.com/docs/behavior/behavioral-sklls-training-to-teach-online-safety-responses-to-youth-with-autism-spectrum-disorder/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Youth with autism spectrum disorder (ASD) frequently play video games. Social deficits underlying the disorder make this population more vulnerable to safety threats online than neurotypical children.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
