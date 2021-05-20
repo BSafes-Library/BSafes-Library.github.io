@@ -34,6 +34,94 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Union Extends Framework for Cyberattack Sanctions<a href="https://www.securityweek.com/european-union-extends-framework-cyberattack-sanctions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the European Council announced its decision to extend for one year the framework for sanctions against cyberattacks that threaten the European Union and its member states.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial CEO Reportedly Confirms $4.4 Million Ransom Payment<a href="https://www.infosecurity-magazine.com:443/news/colonial-ceo-confirms-44-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firm speaks out about attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian citizen Anton Bogdanov sentenced to 5 years for cyber tax fraud scheme<a href="https://securityaffairs.co/wordpress/118106/cyber-crime/anton-bogdanov-sentenced-5-years.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hacker Anton Bogdanov was sentenced to 5 years' imprisonment for attempting to steal $1.5 million in tax refunds by hacking into tax preparation firms.
+
+
+
+The Russian citizen Anton Bogdanov (35), aka Kusok, was sentenced by a US Chief District...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail phish deploys evasion tricks to avoid analysis<a href="https://blog.malwarebytes.com/scams/2021/05/royal-mail-phish-deploys-evasion-tricks-to-avoid-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When you click the link to visit the fake Royal Mail page, there’s a fair bit of code for detecting potential VM use. It tests for WebGL renders and whether site visitors have a display or not.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind SQL Injection flaw in WP Statistics impacted 600K+ sites<a href="https://securityaffairs.co/wordpress/118099/hacking/wordpress-wp-statistics-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a Time-Based Blind SQL Injection vulnerability in the WP Statistics plugin which is installed on over 600,000 WordPress sites.
+
+
+
+Researchers from the Wordfence Threat Intelligence discovered a Time-Based Blind SQL Injection vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
