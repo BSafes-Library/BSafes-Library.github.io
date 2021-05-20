@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Gang Retires on $90m<a href="https://www.infosecurity-magazine.com:443/news/darkside-gang-retires-on-90m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wallet containing Bitcoin worth over $90m is reportedly ransomware gang’s ill-gotten gains
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

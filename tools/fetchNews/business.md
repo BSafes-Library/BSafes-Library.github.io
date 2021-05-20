@@ -11,6 +11,76 @@ nav_order: 900027
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+As digital innovation accelerates, what is the next cyber investment unicorn?<a href="https://www.scmagazine.com/home/2021-rsa-conference/as-digital-innovation-accelerates-what-is-the-next-cyber-investment-unicorn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies poised to do well in the rapidly accelerated digital economy are those that can cater to concepts such as dynamic network infrastructure and securing edge computing. In particular, said Chenxi Wang of Rain Capital, the market is witnessing “great momentum in cloud security.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ReaQta Closes Series-A Round to Expand Commercial Operations<a href="https://finance.yahoo.com/news/reaqta-closes-series-round-expand-060000153.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReaQta will invest the Series A funding, led by Alpha Intelligence Capital, towards expanding its commercial operations and footprint, particularly across Europe and Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk to Acquire TruSTAR<a href="https://www.infosecurity-magazine.com:443/news/splunk-to-acquire-trustar/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+California tech company Splunk announces plan to snap up cloud-native security firm
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynerio Raises $30M in Series B Funding<a href="https://www.finsmes.com/2021/05/cynerio-raises-30m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was led by Alive Israel HealthTech Fund, with participation from existing investors Accelmed, RDC, MTIP, CBG London investment company owned by Vincent Tchenguiz, and UAE based investment group.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline CEO says company paid hackers $4.4 million in ransomware attack<a href="https://thehill.com//policy/cybersecurity/554334-colonial-pipeline-ceo-says-company-paid-hackers-44-million-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Colonial Pipeline, hit by a ransomware attack that forced it to shut down operations for much of last week, confirmed publicly for the first time Wednesday that the company paid the hackers behind the attack&nbsp;so it could regain access to its systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Styra, the startup behind Open Policy Agent, nabs $40M to expand its cloud-native authorization tools<a href="https://techcrunch.com/2021/05/18/styra-the-startup-behind-open-policy-agent-nabs-40m-to-expand-its-cloud-native-authorization-tools/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Impact of COVID-19 on Data Breach Landscape<a href="https://cyware.com/news/impact-of-covid-19-on-data-breach-landscape-c4616fc0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DBIR report from Verizon provides insights on the growing danger of phishing and ransomware attacks while digging into unique insights on the impact of the COVID-19 pandemic on the data breach landscape.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

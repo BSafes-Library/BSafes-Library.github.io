@@ -11,6 +11,20 @@ nav_order: 900160
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google Clouds Hijacked for Gobs of Phishing<a href="https://threatpost.com/microsoft-google-clouds-hijacked-phishing/166329/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers sent 52M malicious messages leveraging the likes of Office 365, Azure, OneDrive, SharePoint, G-Suite and Firebase storage in Q1 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers Impersonating Windows Defender to Push Malicious Windows Apps | McAfee Blogs<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/scammers-impersonating-windows-defender-to-push-malicious-windows-apps/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

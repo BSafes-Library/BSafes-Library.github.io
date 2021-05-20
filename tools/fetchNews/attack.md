@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: SolarWinds CEO Provides New Details into Attack and Response<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-ceo-details-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sudhakar Ramakrishna gives details of investigations into the supply chain attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trailer maker Utility targeted in ransomware attack<a href="https://www.freightwaves.com/news/trailer-maker-utility-targeted-in-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Utility Trailer Manufacturing, one of the largest U.S. producers of trailers for the trucking industry, was targeted in a ransomware attack that exposed personal information of numerous employees.
+</details>
+<div style="text-align: right" markdown="1">
+Freight Waves
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

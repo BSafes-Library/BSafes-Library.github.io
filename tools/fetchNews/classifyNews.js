@@ -70,6 +70,12 @@ var issues = [
     title: '## Criminals'
 	},
 	{
+    name: 'Cryptocurrency',
+    label: '-- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)',
+    file: '../../docs/issues/cryptocurrency/cryptocurrency.md',
+    title: '## Cryptocurrency'
+	},
+	{
 		name: 'Deepfake',
 		label: '-- [Deepfake](/docs/issues/deepfake/deepfake/)',
     file: '../../docs/issues/deepfake/deepfake.md',
