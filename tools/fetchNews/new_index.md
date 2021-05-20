@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Security Risks of Cryptocurrency<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-security-risks-of/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it's not likely that cryptocurrency will replace the US dollar as a reserve currency in the short term, RSA Conference session details cryptocurrency security risks and mitigations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Lasting Impact of the COVID Pandemic on Privacy<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-lasting-impact-of-the/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year of lockdown, remote work and remote learning could well be the spark that helps to define a new era of user privacy, according to a panel of experts at the RSA Conference
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US denies disrupting Russian cyber group behind Colonial pipeline hack<a href="https://thehill.com//policy/cybersecurity/554465-us-denies-disrupting-russian-cyber-group-behind-colonial-pipeline-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States did not take action against the cyber criminal group that was behind the ransomware attack on Colonial Pipeline earlier this month, officials told The Washington Post. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
