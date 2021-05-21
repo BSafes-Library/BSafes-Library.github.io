@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Irish High Court issues injunction to prevent HSE data leak<a href="https://www.bleepingcomputer.com/news/security/irish-high-court-issues-injunction-to-prevent-hse-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The High Court of Ireland has issued an injunction against the Conti Ransomware gang, demanding that stolen HSE data be returned and not sold or published.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Arizona elections official says voting machines turned over to GOP recount should be replaced<a href="https://thehill.com//homenews/state-watch/554671-top-arizona-elections-official-says-voting-machines-turned-over-to-gop"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arizona Secretary of State Katie Hobbs (D) on Thursday advised Maricopa County officials to replace all voting machines that were turned over to the private contractor carrying out an audit of the 2020 presidential election.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Rise of the Chief Product Security Officer<a href="https://www.infosecurity-magazine.com:443/news/rsac-rise-of-chief-product/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at the RSA Conference outline the role, challenges and opportunities for the emerging job category of the chief product security officer (CPSO)
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Cyber-threat Landscape “the Worst It’s Ever Been” Due to Nation-State Behaviors<a href="https://www.infosecurity-magazine.com:443/news/cyber-worst-ever-been-nation-state/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran, Russia, North Korea and China are becoming increasingly reckless in their actions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Comcast now blocks BGP hijacking attacks and route leaks with RPKI<a href="https://www.bleepingcomputer.com/news/security/comcast-now-blocks-bgp-hijacking-attacks-and-route-leaks-with-rpki/"> Full Text</a>
 </p>
 <details>
