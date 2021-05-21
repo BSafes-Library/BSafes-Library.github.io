@@ -34,7 +34,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Most Dangerous New Attack Techniques<a href="https://www.infosecurity-magazine.com:443/news/rsac-most-dangerous-new-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Annual panel at the RSA Conference identifies a number of areas of concern, including improper session handling and an evolution of ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigurations may have exposed data on 100 million Android users<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/misconfigurations-may-have-exposed-data-on-100-million-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CheckPoint Research explained how the misuse of a real-time database, notification managers, and storage exposed the personal data of users, leaving corporate resources vulnerable to bad threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish High Court issues injunction to prevent HSE data leak<a href="https://www.bleepingcomputer.com/news/security/irish-high-court-issues-injunction-to-prevent-hse-data-leak/"> Full Text</a>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Arizona elections official says voting machines turned over to GOP recount should be replaced<a href="https://thehill.com//homenews/state-watch/554671-top-arizona-elections-official-says-voting-machines-turned-over-to-gop"> Full Text</a>
@@ -66,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: The Rise of the Chief Product Security Officer<a href="https://www.infosecurity-magazine.com:443/news/rsac-rise-of-chief-product/"> Full Text</a>
@@ -82,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: Cyber-threat Landscape “the Worst It’s Ever Been” Due to Nation-State Behaviors<a href="https://www.infosecurity-magazine.com:443/news/cyber-worst-ever-been-nation-state/"> Full Text</a>
@@ -98,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Comcast now blocks BGP hijacking attacks and route leaks with RPKI<a href="https://www.bleepingcomputer.com/news/security/comcast-now-blocks-bgp-hijacking-attacks-and-route-leaks-with-rpki/"> Full Text</a>
@@ -114,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AHK Rat Loader Delivers Multiple RATs<a href="https://cyware.com/news/ahk-rat-loader-delivers-multiple-rats-f9a1c941"> Full Text</a>
@@ -130,7 +162,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Amazon facing lawsuits alleging racial, gender bias | Senate Commerce panel advances Biden's top science nominee | Colonial Pipeline CEO to testify on Capitol Hill in June<a href="https://thehill.com//policy/technology/overnights/554651-hillicon-valley-amazon-facing-lawsuits-alleging-racial-gender"> Full Text</a>
@@ -146,7 +178,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: What Makes a Security Program Measurably More Successful?<a href="https://www.infosecurity-magazine.com:443/news/rsac-what-makes-a-security-program/"> Full Text</a>
@@ -162,7 +194,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 STRRAT RAT spreads masquerading as ransomware<a href="https://securityaffairs.co/wordpress/118118/malware/strrat-rat-masquerading-ransomware.html"> Full Text</a>
@@ -182,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What makes North Korean hacking groups more creative?<a href="https://www.scmagazine.com/home/2021-rsa-conference/what-makes-north-korean-hacking-groups-more-creative/"> Full Text</a>
@@ -198,7 +230,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four Android Bugs Being Exploited in the Wild<a href="https://threatpost.com/android-bugs-exploited-wild/166347/"> Full Text</a>
@@ -214,7 +246,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases SimuLand, a test lab for simulated cyberattacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-simuland-a-test-lab-for-simulated-cyberattacks/"> Full Text</a>
@@ -230,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraudsters Employ Amazon Voice Phishing Attacks in Fake Order Scams<a href="https://www.zdnet.com/article/fraudsters-employ-amazon-vishing-attacks-in-fake-order-scams/?&web_view=true"> Full Text</a>
@@ -246,7 +278,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline CEO to testify on Capitol Hill in June following cyberattack<a href="https://thehill.com//policy/national-security/554644-colonial-pipeline-ceo-to-testify-on-capitol-hill-in-june-following"> Full Text</a>
@@ -262,7 +294,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USPS Reportedly Uses Clearview AI to Spy on Americans<a href="https://www.infosecurity-magazine.com:443/news/usps-reportedly-uses-clearview-ai/"> Full Text</a>
@@ -278,7 +310,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2021 Attacker Dwell Time Trends and Best Defenses<a href="https://threatpost.com/2021-attacker-dwell-time-trends-and-best-defenses/166116/"> Full Text</a>
@@ -294,7 +326,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spammers flood PyPI with pirated movie links and bogus packages<a href="https://www.bleepingcomputer.com/news/security/spammers-flood-pypi-with-pirated-movie-links-and-bogus-packages/"> Full Text</a>
@@ -310,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GlobalPlatform expands TEE certification scheme<a href="https://www.helpnetsecurity.com/2021/05/20/globalplatform-tee-certification/?&web_view=true"> Full Text</a>
@@ -326,7 +358,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US insurer paid $40 million ransom after March cyber attack: report<a href="https://thehill.com//policy/cybersecurity/554635-us-insurer-paid-40-million-ransom-after-march-cyber-attack-report"> Full Text</a>
@@ -342,7 +374,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-bully Supermodel Dropped by 3 Stores<a href="https://www.infosecurity-magazine.com:443/news/cyber-bully-supermodel-dropped-by-3/"> Full Text</a>
@@ -358,7 +390,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Exec Calls Level of Mac Malware ‘Unacceptable’<a href="https://threatpost.com/apple-mac-malware-unacceptable/166340/"> Full Text</a>
@@ -374,7 +406,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blind SQL Injection flaw in WP Statistics Plugin Impacted by Over 600,000 WordPress Sites<a href="https://securityaffairs.co/wordpress/118099/hacking/wordpress-wp-statistics-flaw-2.html?&web_view=true"> Full Text</a>
@@ -390,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nigeria Suspends Official Charged with Defrauding US<a href="https://www.infosecurity-magazine.com:443/news/aide-charged-unemployment-fraud/"> Full Text</a>
@@ -406,7 +438,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline confirms it paid $4.4m ransom to hacker gang after attack<a href="https://www.theguardian.com/technology/2021/may/19/colonial-pipeline-cyber-attack-ransom?&web_view=true"> Full Text</a>
@@ -422,7 +454,7 @@ The Guardian
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome Makes It Easier to Update Compromised Passwords<a href="https://www.darkreading.com/mobile/google-chrome-makes-it-easier-to-update-compromised-passwords/d/d-id/1341071?&web_view=true"> Full Text</a>
@@ -438,7 +470,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Information disclosure vulnerability spotted in macOS SMB server<a href="https://blog.talosintelligence.com/2021/05/vuln-spotlight-smb-information-disclosure.html?&web_view=true"> Full Text</a>

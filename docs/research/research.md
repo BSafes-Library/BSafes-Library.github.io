@@ -18,6 +18,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Social Media Awareness: The Impact of Social Media on Mental Health [HTML](https://papers.bsafes.com/docs/social-media/social-media-awareness-the-impact-of-social-media-on-mental-health/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Communication technology, especially smartphones and the social media apps on them, has become a very large part of the modern world. People of all ages spend hours every day on social media either posting about their experiences or viewing other posts. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
