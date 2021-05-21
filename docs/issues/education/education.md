@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GlobalPlatform expands TEE certification scheme<a href="https://www.helpnetsecurity.com/2021/05/20/globalplatform-tee-certification/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GlobalPlatform has expanded its Trusted Execution Environment (TEE) security certification scheme to enable evaluation of discrete technologies that come together to make up a complete TEE solution.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

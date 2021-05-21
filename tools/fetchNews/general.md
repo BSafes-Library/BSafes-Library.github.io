@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HMRC Investing Heavily in Cybersecurity Training for Staff, Official Figures Show<a href="https://www.infosecurity-magazine.com:443/news/hmrc-investing-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Art of Hacking was the most popular course for HMRC security staff
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Single Sign-On Enough to Secure Your SaaS Applications?<a href="https://thehackernews.com/2021/05/is-single-sign-on-enough-to-secure-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If there's one thing all great SaaS platforms share in common, it's their focus on simplifying the lives of their end-users. Removing friction for users in a safe way is the mission of single sign-on (SSO) providers.  With SSO at the helm, users don't have to remember separate passwords for each app or hide the digital copies of the credentials in plain sight.  SSO also frees up the IT's bandwidth from handling recurring password reset requests while improving productivity for everyone in your organization. However, there is also a level of risk that comes with SSO capability.&nbsp;  How to protect against SSO fails  Real-Life Risks Involved in SSO&nbsp;  While SSO facilitates ease of access to a great extent, it also comes with some amount of imminent risk. SSO is a good enabler of efficiency, but not the end-all security solution with its own flaws that allow for bypass.  There's a specific class of vulnerability that Adam Roberts from the NCC Group detected in several SSO
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web App Bugs Drove Multiple Breaches Per Firm in 2020<a href="https://www.infosecurity-magazine.com:443/news/web-app-bugs-multiple-breaches-per/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda Networks claims bad bots are the main challenge
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

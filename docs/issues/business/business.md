@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline CEO to testify on Capitol Hill in June following cyberattack<a href="https://thehill.com//policy/national-security/554644-colonial-pipeline-ceo-to-testify-on-capitol-hill-in-june-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline CEO Joseph Blount will testify in June before the House Homeland Security Committee at a hearing one month after the company was forced to shut down operations due to a devastating ransomware attack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

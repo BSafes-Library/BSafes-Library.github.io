@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spammers flood PyPI with pirated movie links and bogus packages<a href="https://www.bleepingcomputer.com/news/security/spammers-flood-pypi-with-pirated-movie-links-and-bogus-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official Python software package repository, PyPI, is getting flooded with spam packages, as seen by BleepingComputer. These packages are named after different movies in a style that is commonly associated with&nbsp;torrents and "warez" sites hosting pirated content.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

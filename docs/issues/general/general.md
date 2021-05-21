@@ -11,6 +11,104 @@ nav_order: 900072
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Rise of the Chief Product Security Officer<a href="https://www.infosecurity-magazine.com:443/news/rsac-rise-of-chief-product/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at the RSA Conference outline the role, challenges and opportunities for the emerging job category of the chief product security officer (CPSO)
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: Cyber-threat Landscape “the Worst It’s Ever Been” Due to Nation-State Behaviors<a href="https://www.infosecurity-magazine.com:443/news/cyber-worst-ever-been-nation-state/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran, Russia, North Korea and China are becoming increasingly reckless in their actions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon facing lawsuits alleging racial, gender bias | Senate Commerce panel advances Biden's top science nominee | Colonial Pipeline CEO to testify on Capitol Hill in June<a href="https://thehill.com//policy/technology/overnights/554651-hillicon-valley-amazon-facing-lawsuits-alleging-racial-gender"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon this week found itself in more hot water, as multiple women at the company accused the company of racial and gender bias discrimination in lawsuits filed Wednesday. Meanwhile on Capitol Hill, the Senate Commerce Committee approved President BidenJoe BidenIsrael-Hamas ceasefire could come as soon as Friday: report US opposes UN resolution calling on Israel-Gaza ceasefire  Parents of 54 migrant children found after separation under Trump administration MORE’s nominee to lead the Office of Science and Technology Policy, and the House Homeland Security Committee announced that Colonial Pipeline CEO Joseph Blount will testify on the recent ransomware attack next month.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: What Makes a Security Program Measurably More Successful?<a href="https://www.infosecurity-magazine.com:443/news/rsac-what-makes-a-security-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wendy Nather and Wade Baker have a few data-driven ideas about which activities actually help to make security programs work and which ones have less impact
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 Attacker Dwell Time Trends and Best Defenses<a href="https://threatpost.com/2021-attacker-dwell-time-trends-and-best-defenses/166116/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The time that attackers stay hidden inside an organization’s networks is shifting, putting pressure on defenders and upping the need to detect and respond to threats in real-time.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-bully Supermodel Dropped by 3 Stores<a href="https://www.infosecurity-magazine.com:443/news/cyber-bully-supermodel-dropped-by-3/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrissy Teigen’s apology for previous cyber-bullying not enough to stop retailers from ditching her products
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind SQL Injection flaw in WP Statistics Plugin Impacted by Over 600,000 WordPress Sites<a href="https://securityaffairs.co/wordpress/118099/hacking/wordpress-wp-statistics-flaw-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Wordfence Threat Intelligence discovered a Time-Based Blind SQL Injection vulnerability in WP Statistics, which is a WordPress plugin with over 600,000 active installs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 HMRC Investing Heavily in Cybersecurity Training for Staff, Official Figures Show<a href="https://www.infosecurity-magazine.com:443/news/hmrc-investing-cybersecurity/"> Full Text</a>
 </p>
 <details>

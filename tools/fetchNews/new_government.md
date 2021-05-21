@@ -11,6 +11,20 @@ nav_order: 900075
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Top Arizona elections official says voting machines turned over to GOP recount should be replaced<a href="https://thehill.com//homenews/state-watch/554671-top-arizona-elections-official-says-voting-machines-turned-over-to-gop"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arizona Secretary of State Katie Hobbs (D) on Thursday advised Maricopa County officials to replace all voting machines that were turned over to the private contractor carrying out an audit of the 2020 presidential election.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 European Union Extends Framework for Cyberattack Sanctions<a href="https://www.securityweek.com/european-union-extends-framework-cyberattack-sanctions?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

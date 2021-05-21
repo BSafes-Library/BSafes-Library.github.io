@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comcast now blocks BGP hijacking attacks and route leaks with RPKI<a href="https://www.bleepingcomputer.com/news/security/comcast-now-blocks-bgp-hijacking-attacks-and-route-leaks-with-rpki/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comcast, one of America's largest broadband providers, has now deployed RPKI on its network to defend against BGP route hijacks and leaks. Left unchecked, a BGP route hijack or leak&nbsp;can cause a drastic surge in internet traffic that now gets misdirected or stuck, leading to&nbsp;global congestion and a Denial of Service (DoS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases SimuLand, a test lab for simulated cyberattacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-simuland-a-test-lab-for-simulated-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released SimuLand, an open-source lab environment to help test and improve Microsoft 365 Defender, Azure Defender, and Azure Sentinel defenses against real attack scenarios.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Makes It Easier to Update Compromised Passwords<a href="https://www.darkreading.com/mobile/google-chrome-makes-it-easier-to-update-compromised-passwords/d/d-id/1341071?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is launching a new capability in Chrome to alert users when a password is compromised and automate the process of updating to a new one. The feature runs on Google's Duplex technology.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

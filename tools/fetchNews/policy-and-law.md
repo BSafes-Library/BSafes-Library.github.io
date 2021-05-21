@@ -8,6 +8,42 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Concerns On Cookies Storing Personal Information<a href="https://securityaffairs.co/wordpress/118110/digital-id/privacy-concerns-cookies-usage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are privacy concerns on the way organizations collect personal information through the use of cookies?
+
+
+
+Data is constantly being tracked, stored and processed right under our noses, and it is quite frightening to know just how much data a company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian citizen Anton Bogdanov sentenced to 5 years for cyber tax fraud scheme<a href="https://securityaffairs.co/wordpress/118106/cyber-crime/anton-bogdanov-sentenced-5-years.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hacker Anton Bogdanov was sentenced to 5 years' imprisonment&nbsp;for attempting to steal $1.5 million in tax refunds by hacking into tax preparation firms.
+
+
+
+The Russian citizen Anton Bogdanov (35), aka Kusok, was sentenced by a US Chief District...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

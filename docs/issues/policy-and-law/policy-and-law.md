@@ -11,6 +11,34 @@ nav_order: 900163
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Irish High Court issues injunction to prevent HSE data leak<a href="https://www.bleepingcomputer.com/news/security/irish-high-court-issues-injunction-to-prevent-hse-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The High Court of Ireland has issued an injunction against the Conti Ransomware gang, demanding that stolen HSE data be returned and not sold or published.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigeria Suspends Official Charged with Defrauding US<a href="https://www.infosecurity-magazine.com:443/news/aide-charged-unemployment-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Governor’s aide suspended following arrest over unemployment benefits fraud
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Privacy Concerns On Cookies Storing Personal Information<a href="https://securityaffairs.co/wordpress/118110/digital-id/privacy-concerns-cookies-usage.html"> Full Text</a>
 </p>
 <details>

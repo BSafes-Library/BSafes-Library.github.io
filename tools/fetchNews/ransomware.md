@@ -8,6 +8,76 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gives HSE Ireland free decryptor, still selling data<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gives-hse-ireland-free-decryptor-still-selling-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang has released a free decryptor for Ireland's health service, the HSE, but warns that they will still sell or release the stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Money-go-round: The booming cottage industry behind ransomware<a href="https://www.politico.eu/article/ransomware-attacks-booming-cottage-industry/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As policymakers try to respond to incidents, they're finding out that the problem is larger than cybercriminals extorting corporations and governments to regain access to their own data.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Time to Surge Resources Into Prosecuting Ransomware Gangs<a href="https://www.lawfareblog.com/its-time-surge-resources-prosecuting-ransomware-gangs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department needs a “troop surge” of cyber prosecutors and agents to conduct long-term, proactive investigations into ransomware gangs and the organizations that enable them.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is how long hackers will hide in your network before deploying ransomware or being spotted<a href="https://www.zdnet.com/article/this-is-how-long-hackers-will-spend-in-your-network-before-deploying-ransomware-or-being-spotted/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers on average have 11 days after breaching a target network before they're being detected, according to Sophos – and often when they are spotted it's because they've deployed ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial CEO Reportedly Confirms $4.4 Million Ransom Payment<a href="https://www.infosecurity-magazine.com:443/news/colonial-ceo-confirms-44-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firm speaks out about attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
