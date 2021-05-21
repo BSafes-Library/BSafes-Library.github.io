@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Most Dangerous New Attack Techniques<a href="https://www.infosecurity-magazine.com:443/news/rsac-most-dangerous-new-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Annual panel at the RSA Conference identifies a number of areas of concern, including improper session handling and an evolution of ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigurations may have exposed data on 100 million Android users<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/misconfigurations-may-have-exposed-data-on-100-million-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CheckPoint Research explained how the misuse of a real-time database, notification managers, and storage exposed the personal data of users, leaving corporate resources vulnerable to bad threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
