@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+China internet watchdog cites 105 apps for improper data collection<a href="https://thehill.com//policy/international/china/554723-china-internet-watchdog-cites-105-apps-for-improper-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China’s internet watchdog on Friday cited 105 apps operating in its country, including Microsoft Bing and LinkedIn, over allegations of illegal data collection of users’ personal information. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 E-commerce giant suffers major data breach in Codecov incident<a href="https://www.bleepingcomputer.com/news/security/e-commerce-giant-suffers-major-data-breach-in-codecov-incident/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Toyota Subsidiaries Across Europe and the US Hit by Ransomware Attacks<a href="https://www.theregister.com/2021/05/21/toyota_cyber_attacks/?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Data Stealing Malware That Pretends to Be Ransomware<a href="https://thehackernews.com/2021/05/microsoft-warns-of-data-stealing.html"> Full Text</a>
@@ -82,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report Shows Global CISOs Failing to Practice What They Preach<a href="https://www.infosecurity-magazine.com:443/news/global-cisos-are-undermining/"> Full Text</a>
@@ -98,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoins of DarkSide ransomware gang still locked in hacker forum’s escrow<a href="https://securityaffairs.co/wordpress/118134/cyber-crime/darkside-ransomware-affiliates-bitcoins.html"> Full Text</a>
@@ -118,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide affiliates claim gang's bitcoins in deposit on hacker forum<a href="https://www.bleepingcomputer.com/news/security/darkside-affiliates-claim-gangs-bitcoins-in-deposit-on-hacker-forum/"> Full Text</a>
@@ -134,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CNA Financial Paid $40 Million in Ransom After March Cyberattack<a href="https://www.bloomberg.com/news/articles/2021-05-20/cna-financial-paid-40-million-in-ransom-after-march-cyberattack?&web_view=true"> Full Text</a>
@@ -150,7 +166,7 @@ Bloomberg
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Credential Stuffing Attempts Hit 193 Billion in 2020<a href="https://www.infosecurity-magazine.com:443/news/global-credential-stuffing-193/"> Full Text</a>
@@ -166,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft SimuLand, an open-source lab environment to simulate attack scenarios<a href="https://securityaffairs.co/wordpress/118125/hacking/microsoft-simuland-tool.html"> Full Text</a>
@@ -186,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Massive STRRAT Malware Campaign Delivering Fake Ransomware<a href="https://securityaffairs.co/wordpress/118118/malware/strrat-rat-masquerading-ransomware.html?&web_view=true"> Full Text</a>
@@ -202,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Misconfiguration Exposes 100M+ Android Users<a href="https://www.infosecurity-magazine.com:443/news/cloud-misconfiguration-exposes/"> Full Text</a>
@@ -218,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alaska Health Department Website Faces Outage Following Malware Attack<a href="https://www.govinfosecurity.com/alaska-health-department-services-affected-by-malware-attack-a-16708?&web_view=true"> Full Text</a>
@@ -234,7 +250,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple isn't happy about the amount of Mac malware out there<a href="https://www.zdnet.com/article/apple-isnt-happy-about-the-amount-of-mac-malware-out-there/?&web_view=true"> Full Text</a>
@@ -250,7 +266,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API security startup 42Crunch raises $17M Series A led by Energy Impact Partners<a href="https://techcrunch.com/2021/05/19/api-security-startup-42crunch-raises-17m-series-a-led-by-energy-impact-partners/?&web_view=true"> Full Text</a>
@@ -266,7 +282,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3.4 billion credential stuffing attacks hit financial services organizations<a href="https://www.helpnetsecurity.com/2021/05/20/financial-services-credential-stuffing/?&web_view=true"> Full Text</a>
@@ -282,7 +298,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: The Most Dangerous New Attack Techniques<a href="https://www.infosecurity-magazine.com:443/news/rsac-most-dangerous-new-attack/"> Full Text</a>
@@ -298,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2021
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigurations may have exposed data on 100 million Android users<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/misconfigurations-may-have-exposed-data-on-100-million-android-users/"> Full Text</a>
