@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-commerce giant suffers major data breach in Codecov incident<a href="https://www.bleepingcomputer.com/news/security/e-commerce-giant-suffers-major-data-breach-in-codecov-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce platform Mercari has disclosed a major data breach incident that occurred due to exposure from the Codecov supply-chain attack. Mercari is a publicly traded Japanese company and an online marketplace that has recently expanded its operations to the United States and&nbsp;the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Misconfiguration Exposes 100M+ Android Users<a href="https://www.infosecurity-magazine.com:443/news/cloud-misconfiguration-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point reveals series of mistakes by developers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigurations may have exposed data on 100 million Android users<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/misconfigurations-may-have-exposed-data-on-100-million-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CheckPoint Research explained how the misuse of a real-time database, notification managers, and storage exposed the personal data of users, leaving corporate resources vulnerable to bad threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

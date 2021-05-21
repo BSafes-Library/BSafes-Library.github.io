@@ -11,6 +11,34 @@ nav_order: 900180
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US insurer paid $40 million ransom after March cyber attack: report<a href="https://thehill.com//policy/cybersecurity/554635-us-insurer-paid-40-million-ransom-after-march-cyber-attack-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest insurance companies in the U.S. reportedly paid $40 million in ransom in March to regain control of its network following a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline confirms it paid $4.4m ransom to hacker gang after attack<a href="https://www.theguardian.com/technology/2021/may/19/colonial-pipeline-cyber-attack-ransom?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Blount, Colonial Pipeline’s CEO, told the Wall Street Journal he authorized the payment because the firm didn’t know the extent of the damage and wasn’t sure how long it would take to recover.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware gives HSE Ireland free decryptor, still selling data<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gives-hse-ireland-free-decryptor-still-selling-data/"> Full Text</a>
 </p>
 <details>

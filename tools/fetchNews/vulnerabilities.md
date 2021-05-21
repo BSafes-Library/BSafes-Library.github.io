@@ -11,6 +11,34 @@ nav_order: 900220
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Four Android Bugs Being Exploited in the Wild<a href="https://threatpost.com/android-bugs-exploited-wild/166347/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, Google quietly slipped updates into its May 3 Android security bulletin for bugs that its Project Zero group has confirmed are zero-days.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information disclosure vulnerability spotted in macOS SMB server<a href="https://blog.talosintelligence.com/2021/05/vuln-spotlight-smb-information-disclosure.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The integer overflow vulnerability exists in the way macOS SMB server processes SMB3 compounded packets. An attacker could exploit this vulnerability by sending a specially crafted packet.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pega Infinity patches authentication vulnerability - Malwarebytes Labs<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/05/pega-infinity-patches-authentication-vulnerability/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

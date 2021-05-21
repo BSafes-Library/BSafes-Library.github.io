@@ -11,6 +11,20 @@ nav_order: 900160
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fraudsters Employ Amazon Voice Phishing Attacks in Fake Order Scams<a href="https://www.zdnet.com/article/fraudsters-employ-amazon-vishing-attacks-in-fake-order-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In case studies published by Armorblox, it highlighted two Amazon vishing attacks intent on stealing customer credit card details -- and how the use of voice messages can bypass existing spam filters.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Domain Group Discloses Phishing Attack that Targete Site Users<a href="https://www.zdnet.com/article/domain-group-says-phishing-attack-targeted-site-users/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -34,6 +34,286 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-commerce giant suffers major data breach in Codecov incident<a href="https://www.bleepingcomputer.com/news/security/e-commerce-giant-suffers-major-data-breach-in-codecov-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce platform Mercari has disclosed a major data breach incident that occurred due to exposure from the Codecov supply-chain attack. Mercari is a publicly traded Japanese company and an online marketplace that has recently expanded its operations to the United States and the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Toyota Subsidiaries Across Europe and the US Hit by Ransomware Attacks<a href="https://www.theregister.com/2021/05/21/toyota_cyber_attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European operations of its subsidiary Daihatsu Diesel Company were hit by an attack, while the Toyota subsidiary Auto Parts Manufacturing Mississippi also revealed a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Data Stealing Malware That Pretends to Be Ransomware<a href="https://thehackernews.com/2021/05/microsoft-warns-of-data-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday warned of a "massive email campaign" that's pushing a Java-based STRRAT malware to steal confidential data from infected systems while disguising itself as a ransomware infection.  "This RAT is infamous for its ransomware-like behavior of appending the file name extension .crimson to files without actually encrypting them," the Microsoft Security Intelligence team  said  in a series of tweets.  The new wave of attacks, which the company spotted last week, commences with spam emails sent from compromised email accounts with "Outgoing Payments" in the subject line, luring the recipients into opening malicious PDF documents that claim to be remittances, but in reality, connect to a rogue domain to download the STRRAT malware.   Besides establishing connections to a command-and-control server during execution, the malware comes with a range of features that allow it to collect browser passwords, log keystrokes, and run remote command
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Shows Global CISOs Failing to Practice What They Preach<a href="https://www.infosecurity-magazine.com:443/news/global-cisos-are-undermining/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report reveals widespread risky behavior from IT security leaders
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoins of DarkSide ransomware gang still locked in hacker forum’s escrow<a href="https://securityaffairs.co/wordpress/118134/cyber-crime/darkside-ransomware-affiliates-bitcoins.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After DarkSide ransomware gang shut down operations, multiple affiliates have complained about not receiving the payments for successful breaches.
+
+
+
+The decision of the DarkSide ransomware gang to shut down operations is causing chaos among its network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide affiliates claim gang's bitcoins in deposit on hacker forum<a href="https://www.bleepingcomputer.com/news/security/darkside-affiliates-claim-gangs-bitcoins-in-deposit-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the DarkSide ransomware operation shut down a week ago, multiple affiliates have complained about not getting paid for past services and issued a claim for bitcoins in escrow at a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNA Financial Paid $40 Million in Ransom After March Cyberattack<a href="https://www.bloomberg.com/news/articles/2021-05-20/cna-financial-paid-40-million-in-ransom-after-march-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial, one of the largest U.S. insurance companies, paid $40 million in late March to regain control of its network after a ransomware attack, according to people familiar with the matter.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Credential Stuffing Attempts Hit 193 Billion in 2020<a href="https://www.infosecurity-magazine.com:443/news/global-credential-stuffing-193/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai claims web app attacks also surged to 6.3 billion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SimuLand, an open-source lab environment to simulate attack scenarios<a href="https://securityaffairs.co/wordpress/118125/hacking/microsoft-simuland-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released SimuLand, an open-source tool that can be used to build lab environments to simulate attacks and verify their detection.
+
+
+
+Microsoft has released SimuLand, an open-source lab environment that allows to reproduce the techniques used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Massive STRRAT Malware Campaign Delivering Fake Ransomware<a href="https://securityaffairs.co/wordpress/118118/malware/strrat-rat-masquerading-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Java-based STRRAT was distributed in a massive spam campaign, the malware shows ransomware-like behavior of appending the file name extension .crimson to files without actually encrypting them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Misconfiguration Exposes 100M+ Android Users<a href="https://www.infosecurity-magazine.com:443/news/cloud-misconfiguration-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point reveals series of mistakes by developers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alaska Health Department Website Faces Outage Following Malware Attack<a href="https://www.govinfosecurity.com/alaska-health-department-services-affected-by-malware-attack-a-16708?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alaska department's website was taken offline Monday evening and will be unavailable to the public until further details are known about the security incident, department officials say.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple isn't happy about the amount of Mac malware out there<a href="https://www.zdnet.com/article/apple-isnt-happy-about-the-amount-of-mac-malware-out-there/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Apple exec has said that Mac malware has now exceeded Apple's level of tolerance, and framed security as the reason for keeping iPhones locked to the App Store, during testimony is a lawsuit.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API security startup 42Crunch raises $17M Series A led by Energy Impact Partners<a href="https://techcrunch.com/2021/05/19/api-security-startup-42crunch-raises-17m-series-a-led-by-energy-impact-partners/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+42Crunch, an API security startup, has raised $17 million in its Series A funding round led by Energy Impact Partners. Adara Ventures also participated in this funding round.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3.4 billion credential stuffing attacks hit financial services organizations<a href="https://www.helpnetsecurity.com/2021/05/20/financial-services-credential-stuffing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2020, there were 193 billion credential stuffing attacks globally, with 3.4 billion hitting financial services organizations specifically – an increase of more than 45% YOY in the sector.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Most Dangerous New Attack Techniques<a href="https://www.infosecurity-magazine.com:443/news/rsac-most-dangerous-new-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Annual panel at the RSA Conference identifies a number of areas of concern, including improper session handling and an evolution of ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigurations may have exposed data on 100 million Android users<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/misconfigurations-may-have-exposed-data-on-100-million-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CheckPoint Research explained how the misuse of a real-time database, notification managers, and storage exposed the personal data of users, leaving corporate resources vulnerable to bad threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

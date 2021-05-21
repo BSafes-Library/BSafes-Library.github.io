@@ -11,6 +11,20 @@ nav_order: 900165
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+USPS Reportedly Uses Clearview AI to Spy on Americans<a href="https://www.infosecurity-magazine.com:443/news/usps-reportedly-uses-clearview-ai/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Postal Service reportedly uses facial recognition tech to identify unknown targets in investigations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #RSAC: The Lasting Impact of the COVID Pandemic on Privacy<a href="https://www.infosecurity-magazine.com:443/news/rsac-the-lasting-impact-of-the/"> Full Text</a>
 </p>
 <details>

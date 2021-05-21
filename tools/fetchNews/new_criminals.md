@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoins of DarkSide ransomware gang still locked in hacker forum’s escrow<a href="https://securityaffairs.co/wordpress/118134/cyber-crime/darkside-ransomware-affiliates-bitcoins.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After DarkSide ransomware gang shut down operations, multiple affiliates have complained about not receiving the payments for successful breaches.
+
+
+
+The decision of the DarkSide ransomware gang to shut down operations is causing chaos among its network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide affiliates claim gang's bitcoins in deposit on hacker forum<a href="https://www.bleepingcomputer.com/news/security/darkside-affiliates-claim-gangs-bitcoins-in-deposit-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the DarkSide ransomware operation shut down a week ago, multiple affiliates have complained about not getting paid for past services and issued a claim for bitcoins in escrow at a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
