@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Getting Taken to ‘Hackers’ Court’ For Not Paying Affiliates<a href="https://threatpost.com/darkside-hackers-court-paying-affiliates/166393/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A shadow court system for hackers shows how professional ransomware gangs have become.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building SIEM for Today’s Threat Landscape<a href="https://threatpost.com/building-siem-threat-landscape/166390/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sivan Tehila, cybersecurity strategist at Perimeter 81, discusses the elements involved in creating a modern SIEM strategy for remote work and cloud-everything.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

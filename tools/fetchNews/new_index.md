@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Getting Taken to ‘Hackers’ Court’ For Not Paying Affiliates<a href="https://threatpost.com/darkside-hackers-court-paying-affiliates/166393/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A shadow court system for hackers shows how professional ransomware gangs have become.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building SIEM for Today’s Threat Landscape<a href="https://threatpost.com/building-siem-threat-landscape/166390/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sivan Tehila, cybersecurity strategist at Perimeter 81, discusses the elements involved in creating a modern SIEM strategy for remote work and cloud-everything.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - May 21st 2021 - Healthcare under attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-21st-2021-healthcare-under-attack/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Flaws in Stalkerware Apps are a Growing Danger<a href="https://cyware.com/news/security-flaws-in-stalkerware-apps-are-a-growing-danger-00afc1cd"> Full Text</a>
@@ -66,7 +98,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tim Cook defends App Store rules during antitrust trial | Online school raises new concerns about cyberbullying | Dating apps adding vaccination badges to user profiles<a href="https://thehill.com//policy/technology/overnights/554828-hillicon-valley-cook-says-apple-app-store-rules-protect-user"> Full Text</a>
@@ -82,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance Firm CNA Financial Reportedly Paid Hackers $40 Million in Ransom<a href="https://thehackernews.com/2021/05/insurance-firm-cna-financial-reportedly.html"> Full Text</a>
@@ -98,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iC3 Logs Six Millionth Complaint<a href="https://www.infosecurity-magazine.com:443/news/ic3-logs-six-millionth-complaint/"> Full Text</a>
@@ -114,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: how cybercriminals abuse API keys to steal millions<a href="https://securityaffairs.co/wordpress/118155/hacking/api-keys.html"> Full Text</a>
@@ -138,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 79% of observed Microsoft Exchange Server exposures occurred in the cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/79-of-observed-microsoft-exchange-server-exposures-occurred-in-the-cloud/"> Full Text</a>
@@ -154,7 +186,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air India data breach impacts 4.5 million customers<a href="https://www.bleepingcomputer.com/news/security/air-india-data-breach-impacts-45-million-customers/"> Full Text</a>
@@ -170,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Actively Striking with Cobalt Strike<a href="https://cyware.com/news/attackers-actively-striking-with-cobalt-strike-26bca1a1"> Full Text</a>
@@ -186,7 +218,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telemarketing Fraudster Jailed for Ten Years<a href="https://www.infosecurity-magazine.com:443/news/telemarketing-fraudster-jailed-ten/"> Full Text</a>
@@ -202,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indonesia ‘s government confirms social security data breach for some citizens<a href="https://securityaffairs.co/wordpress/118148/data-breach/indonesia-social-security-data-breach.html"> Full Text</a>
@@ -222,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ServiceNow, Microsoft expand partnership, enable ‘virtual war room’ during cyber incidents<a href="https://www.scmagazine.com/home/security-news/cloud-security/servicenow-microsoft-enable-virtual-war-room-during-cyber-incidents/"> Full Text</a>
@@ -238,7 +270,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Conti ransomware attacked 16 US healthcare, first responder orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-conti-ransomware-attacked-16-us-healthcare-first-responder-orgs/"> Full Text</a>
@@ -254,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Simps Botnet Uses Gafgyt Modules<a href="https://cyware.com/news/simps-botnet-uses-gafgyt-modules-24184e05"> Full Text</a>
@@ -270,7 +302,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gang Gifts Decryption Tool to HSE<a href="https://www.infosecurity-magazine.com:443/news/ransomware-gang-gifts-decryption/"> Full Text</a>
@@ -286,7 +318,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance giant CNA Financial paid a $40 million ransom<a href="https://securityaffairs.co/wordpress/118142/cyber-crime/cna-financial-ransomware.html"> Full Text</a>
@@ -306,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP confirms Qlocker ransomware used HBS backdoor account<a href="https://www.bleepingcomputer.com/news/security/qnap-confirms-qlocker-ransomware-used-hbs-backdoor-account/"> Full Text</a>
@@ -322,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PHP Abused for Web Skimming Attacks<a href="https://cyware.com/news/php-abused-for-web-skimming-attacks-a326087d"> Full Text</a>
@@ -338,7 +370,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide affiliates claim gang's bitcoin deposit on hacker forum<a href="https://www.bleepingcomputer.com/news/security/darkside-affiliates-claim-gangs-bitcoin-deposit-on-hacker-forum/"> Full Text</a>
@@ -354,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Insurance Firm One Call Targeted by Darkside Ransomware Gang<a href="https://www.theregister.com/2021/05/21/darkside_ransomware_doncaster/?&web_view=true"> Full Text</a>
@@ -370,7 +402,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware-spreading Phorpiex Botnet Disables Security Solutions to Maintain Persistence<a href="https://www.zdnet.com/article/this-ransomware-spreading-malware-botnet-just-wont-go-away/?&web_view=true"> Full Text</a>
@@ -386,7 +418,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China internet watchdog cites 105 apps for improper data collection<a href="https://thehill.com//policy/international/china/554723-china-internet-watchdog-cites-105-apps-for-improper-data"> Full Text</a>
