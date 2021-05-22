@@ -11,6 +11,20 @@ nav_order: 900029
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Air India data breach impacts 4.5 million customers<a href="https://www.bleepingcomputer.com/news/security/air-india-data-breach-impacts-45-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air India disclosed a data breach after personal information belonging to roughly 4.5 million of its customers was leaked two months following the hack of Passenger Service System provider SITA in February 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 E-commerce giant suffers major data breach in Codecov incident<a href="https://www.bleepingcomputer.com/news/security/e-commerce-giant-suffers-major-data-breach-in-codecov-incident/"> Full Text</a>
 </p>
 <details>

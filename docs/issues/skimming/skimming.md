@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Abused for Web Skimming Attacks<a href="https://cyware.com/news/php-abused-for-web-skimming-attacks-a326087d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first week of May, security researchers raised an alarm about a decade-old supply chain flaw in the PHP package manager that could have put millions of websites at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Shows Global CISOs Failing to Practice What They Preach<a href="https://www.infosecurity-magazine.com:443/news/global-cisos-are-undermining/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report reveals widespread risky behavior from IT security leaders
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Credential Stuffing Attempts Hit 193 Billion in 2020<a href="https://www.infosecurity-magazine.com:443/news/global-credential-stuffing-193/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai claims web app attacks also surged to 6.3 billion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3.4 billion credential stuffing attacks hit financial services organizations<a href="https://www.helpnetsecurity.com/2021/05/20/financial-services-credential-stuffing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2020, there were 193 billion credential stuffing attacks globally, with 3.4 billion hitting financial services organizations specifically – an increase of more than 45% YOY in the sector.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

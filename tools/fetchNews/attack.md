@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Toyota Subsidiaries Across Europe and the US Hit by Ransomware Attacks<a href="https://www.theregister.com/2021/05/21/toyota_cyber_attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European operations of its subsidiary Daihatsu Diesel Company were hit by an attack, while the Toyota subsidiary Auto Parts Manufacturing Mississippi also revealed a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CNA Financial Paid $40 Million in Ransom After March Cyberattack<a href="https://www.bloomberg.com/news/articles/2021-05-20/cna-financial-paid-40-million-in-ransom-after-march-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial, one of the largest U.S. insurance companies, paid $40 million in late March to regain control of its network after a ransomware attack, according to people familiar with the matter.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#RSAC: The Most Dangerous New Attack Techniques<a href="https://www.infosecurity-magazine.com:443/news/rsac-most-dangerous-new-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Annual panel at the RSA Conference identifies a number of areas of concern, including improper session handling and an evolution of ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

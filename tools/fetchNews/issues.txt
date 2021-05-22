@@ -31,7 +31,7 @@
 
 Alerts:
 . https://threatpost.com/pipeline-biden-darkside-gas-bags/166112/
-
+. https://www.bleepingcomputer.com/news/security/fbi-conti-ransomware-attacked-16-us-healthcare-first-responder-orgs
 Law:
 
 APT

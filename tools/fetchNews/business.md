@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple isn't happy about the amount of Mac malware out there<a href="https://www.zdnet.com/article/apple-isnt-happy-about-the-amount-of-mac-malware-out-there/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Apple exec has said that Mac malware has now exceeded Apple's level of tolerance, and framed security as the reason for keeping iPhones locked to the App Store, during testimony is a lawsuit.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API security startup 42Crunch raises $17M Series A led by Energy Impact Partners<a href="https://techcrunch.com/2021/05/19/api-security-startup-42crunch-raises-17m-series-a-led-by-energy-impact-partners/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+42Crunch, an API security startup, has raised $17 million in its Series A funding round led by Energy Impact Partners. Adara Ventures also participated in this funding round.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

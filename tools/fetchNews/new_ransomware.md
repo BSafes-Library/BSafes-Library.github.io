@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 21st 2021 - Healthcare under attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-21st-2021-healthcare-under-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's ransomware news has been dominated by the attack on Ireland's Health Service Executive (HSE) that has severely disrupted Ireland's healthcare system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP confirms Qlocker ransomware used HBS backdoor account<a href="https://www.bleepingcomputer.com/news/security/qnap-confirms-qlocker-ransomware-used-hbs-backdoor-account/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP&nbsp;is advising customers to update the HBS 3 disaster recovery&nbsp;app to block Qlocker&nbsp;ransomware attacks targeting their Internet-exposed&nbsp;Network Attached Storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,56 @@ nav_order: 900031
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Report: how cybercriminals abuse API keys to steal millions<a href="https://securityaffairs.co/wordpress/118155/hacking/api-keys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found that crooks could abuse cryptocurrency exchange API keys and steal cryptocurrencies.
+
+
+
+Original post available here: https://cybernews.com/security/report-how-cybercriminals-abuse-api-keys-to-steal-millions/
+
+
+
+CyberNews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Gifts Decryption Tool to HSE<a href="https://www.infosecurity-magazine.com:443/news/ransomware-gang-gifts-decryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminals give Irish health system free decryption tool after crippling it with ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide affiliates claim gang's bitcoin deposit on hacker forum<a href="https://www.bleepingcomputer.com/news/security/darkside-affiliates-claim-gangs-bitcoin-deposit-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the DarkSide ransomware operation shut down a week ago, multiple affiliates have complained about not getting paid for past services and issued a claim for bitcoins in escrow at a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Bitcoins of DarkSide ransomware gang still locked in hacker forum’s escrow<a href="https://securityaffairs.co/wordpress/118134/cyber-crime/darkside-ransomware-affiliates-bitcoins.html"> Full Text</a>
 </p>
 <details>

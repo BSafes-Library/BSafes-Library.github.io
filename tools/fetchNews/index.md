@@ -34,7 +34,359 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 21st 2021 - Healthcare under attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-21st-2021-healthcare-under-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's ransomware news has been dominated by the attack on Ireland's Health Service Executive (HSE) that has severely disrupted Ireland's healthcare system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Flaws in Stalkerware Apps are a Growing Danger<a href="https://cyware.com/news/security-flaws-in-stalkerware-apps-are-a-growing-danger-00afc1cd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at ESET identified 158 privacy and security issues in 58 Android stalkerware apps that could lead to account and device hijacking, data manipulation, and remote code execution, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tim Cook defends App Store rules during antitrust trial | Online school raises new concerns about cyberbullying | Dating apps adding vaccination badges to user profiles<a href="https://thehill.com//policy/technology/overnights/554828-hillicon-valley-cook-says-apple-app-store-rules-protect-user"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s CEO Tim Took testified in defense of the App Store as part of the ongoing antitrust trial between Apple and Fortnite developer Epic Games. Meanwhile, concerns over the hate speech children face online is drawing rare bipartisan agreement. And, the White House is taking a new route to encourage Americans to get vaccinates — through dating apps. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance Firm CNA Financial Reportedly Paid Hackers $40 Million in Ransom<a href="https://thehackernews.com/2021/05/insurance-firm-cna-financial-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. insurance giant CNA Financial reportedly paid $40 million to a ransomware gang to recover access to its systems following an attack in March, making it one the most expensive ransoms paid to date.  The development was first  reported  by Bloomberg, citing "people with knowledge of the attack." The adversary that staged the intrusion is said to have allegedly demanded $60 million a week after the Chicago-based company began negotiations with the hackers, culminating in the payment two weeks following the theft of company data.  In a statement shared on May 12, CNA Financial  said  it had "no evidence to indicate that external customers were potentially at risk of infection due to the incident."   The attack has been attributed to new ransomware known as 'Phoenix CryptoLocker,' according to a  March report  from Bleeping Computer, with the strain believed to be an offshoot of  WastedLocker  and Hades, both of which have been utilized by  Evil Corp , a Ru
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iC3 Logs Six Millionth Complaint<a href="https://www.infosecurity-magazine.com:443/news/ic3-logs-six-millionth-complaint/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI’s Internet Crime Complaint Center passes complaint milestone
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: how cybercriminals abuse API keys to steal millions<a href="https://securityaffairs.co/wordpress/118155/hacking/api-keys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found that crooks could abuse cryptocurrency exchange API keys and steal cryptocurrencies.
+
+
+
+Original post available here: https://cybernews.com/security/report-how-cybercriminals-abuse-api-keys-to-steal-millions/
+
+
+
+CyberNews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+79% of observed Microsoft Exchange Server exposures occurred in the cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/79-of-observed-microsoft-exchange-server-exposures-occurred-in-the-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Said one expert, traditional configuration management database technologies haven’t made the leap to cloud native and can’t properly collect and continuously detect changes.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air India data breach impacts 4.5 million customers<a href="https://www.bleepingcomputer.com/news/security/air-india-data-breach-impacts-45-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air India disclosed a data breach after personal information belonging to roughly 4.5 million of its customers was leaked two months following the hack of Passenger Service System provider SITA in February 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Actively Striking with Cobalt Strike<a href="https://cyware.com/news/attackers-actively-striking-with-cobalt-strike-26bca1a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers claim that the Cobalt Strike penetration testing kit, along with the Metasploit framework, was abused to host over 25% of malicious C2 servers deployed in 2020. Do you have a prepared strategy to protect organizations from this threat?
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telemarketing Fraudster Jailed for Ten Years<a href="https://www.infosecurity-magazine.com:443/news/telemarketing-fraudster-jailed-ten/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammer partnered with Peruvian call centers to extort $3.5m from Spanish-speaking US residents
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesia ‘s government confirms social security data breach for some citizens<a href="https://securityaffairs.co/wordpress/118148/data-breach/indonesia-social-security-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indonesia has launched an investigation into a possible security incident that caused the leak of social security data for more than 270 million citizens.
+
+
+
+Indonesia's Communication and Information Ministry has confirmed a leak of social security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ServiceNow, Microsoft expand partnership, enable ‘virtual war room’ during cyber incidents<a href="https://www.scmagazine.com/home/security-news/cloud-security/servicenow-microsoft-enable-virtual-war-room-during-cyber-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the important features of the integrations is major security incident management, which can be described as “a war room” for handling major incidents and security breaches. The offering enables all teams across a company to coordinate response during a major security incident, like the recent Colonial Pipeline attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Conti ransomware attacked 16 US healthcare, first responder orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-conti-ransomware-attacked-16-us-healthcare-first-responder-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says the Conti ransomware gang has attempted to breach the networks of over a dozen US healthcare and first responder organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Simps Botnet Uses Gafgyt Modules<a href="https://cyware.com/news/simps-botnet-uses-gafgyt-modules-24184e05"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new botnet malware purposed for DDoS attacks on gaming and other sectors. The malware operators created a Discord server and YouTube channel for its demonstration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Gifts Decryption Tool to HSE<a href="https://www.infosecurity-magazine.com:443/news/ransomware-gang-gifts-decryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminals give Irish health system free decryption tool after crippling it with ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA Financial paid a $40 million ransom<a href="https://securityaffairs.co/wordpress/118142/cyber-crime/cna-financial-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US insurance giant CNA Financial reportedly paid a $40 million ransom to restore access to its files following a ransomware attack. 
+
+
+
+CNA Financial, one of the largest insurance companies in the US, reportedly paid a $40 ransom to restore...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP confirms Qlocker ransomware used HBS backdoor account<a href="https://www.bleepingcomputer.com/news/security/qnap-confirms-qlocker-ransomware-used-hbs-backdoor-account/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP is advising customers to update the HBS 3 disaster recovery app to block Qlocker ransomware attacks targeting their Internet-exposed Network Attached Storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Abused for Web Skimming Attacks<a href="https://cyware.com/news/php-abused-for-web-skimming-attacks-a326087d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first week of May, security researchers raised an alarm about a decade-old supply chain flaw in the PHP package manager that could have put millions of websites at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide affiliates claim gang's bitcoin deposit on hacker forum<a href="https://www.bleepingcomputer.com/news/security/darkside-affiliates-claim-gangs-bitcoin-deposit-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the DarkSide ransomware operation shut down a week ago, multiple affiliates have complained about not getting paid for past services and issued a claim for bitcoins in escrow at a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Insurance Firm One Call Targeted by Darkside Ransomware Gang<a href="https://www.theregister.com/2021/05/21/darkside_ransomware_doncaster/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on the Doncaster-based insurance company was just a few days after the Colonial Pipeline's initial compromise on May 7 and one day before the ransomware gang claimed to be shutting up shop.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-spreading Phorpiex Botnet Disables Security Solutions to Maintain Persistence<a href="https://www.zdnet.com/article/this-ransomware-spreading-malware-botnet-just-wont-go-away/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft notes that from December 2020 to February 2021, the Phorpiex bot loader was encountered in 160 countries, with Mexico, Kazakhstan, and Uzbekistan being the top targeted countries.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China internet watchdog cites 105 apps for improper data collection<a href="https://thehill.com//policy/international/china/554723-china-internet-watchdog-cites-105-apps-for-improper-data"> Full Text</a>
