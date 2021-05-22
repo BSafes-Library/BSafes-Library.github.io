@@ -11,6 +11,38 @@ nav_order: 900027
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ServiceNow, Microsoft expand partnership, enable ‘virtual war room’ during cyber incidents<a href="https://www.scmagazine.com/home/security-news/cloud-security/servicenow-microsoft-enable-virtual-war-room-during-cyber-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the important features of the integrations is major security incident management, which can be described as “a war room” for handling major incidents and security breaches. The offering enables all teams across a company to coordinate response during a major security incident, like the recent Colonial Pipeline attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA Financial paid a $40 million ransom<a href="https://securityaffairs.co/wordpress/118142/cyber-crime/cna-financial-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US insurance giant CNA Financial reportedly paid a $40 million ransom to restore access to its files following a ransomware attack.&nbsp;
+
+
+
+CNA Financial, one of the largest insurance companies in the US, reportedly paid a $40 ransom to restore...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Apple isn't happy about the amount of Mac malware out there<a href="https://www.zdnet.com/article/apple-isnt-happy-about-the-amount-of-mac-malware-out-there/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

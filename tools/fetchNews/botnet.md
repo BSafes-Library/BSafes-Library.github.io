@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Simps Botnet Uses Gafgyt Modules<a href="https://cyware.com/news/simps-botnet-uses-gafgyt-modules-24184e05"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new botnet malware purposed for DDoS attacks on gaming and other sectors. The malware operators created a Discord server and YouTube channel for its demonstration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-spreading Phorpiex Botnet Disables Security Solutions to Maintain Persistence<a href="https://www.zdnet.com/article/this-ransomware-spreading-malware-botnet-just-wont-go-away/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft notes that from December 2020 to February 2021, the Phorpiex bot loader was encountered in 160 countries, with Mexico, Kazakhstan, and Uzbekistan being the top targeted countries.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

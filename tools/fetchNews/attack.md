@@ -11,6 +11,48 @@ nav_order: 900015
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Insurance Firm CNA Financial Reportedly Paid Hackers $40 Million in Ransom<a href="https://thehackernews.com/2021/05/insurance-firm-cna-financial-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. insurance giant CNA Financial reportedly paid $40 million to a ransomware gang to recover access to its systems following an attack in March, making it one the most expensive ransoms paid to date.  The development was first&nbsp; reported &nbsp;by Bloomberg, citing "people with knowledge of the attack." The adversary that staged the intrusion is said to have allegedly demanded $60 million a week after the Chicago-based company began negotiations with the hackers, culminating in the payment two weeks following the theft of company data.  In a statement shared on May 12, CNA Financial&nbsp; said &nbsp;it had "no evidence to indicate that external customers were potentially at risk of infection due to the incident."   The attack has been attributed to new ransomware known as 'Phoenix CryptoLocker,' according to a&nbsp; March report &nbsp;from Bleeping Computer, with the strain believed to be an offshoot of&nbsp; WastedLocker &nbsp;and Hades, both of which have been utilized by&nbsp; Evil Corp , a Ru
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Actively Striking with Cobalt Strike<a href="https://cyware.com/news/attackers-actively-striking-with-cobalt-strike-26bca1a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers claim that the Cobalt Strike penetration testing kit, along with the Metasploit framework, was abused to host over 25% of malicious C2 servers deployed in 2020. Do you have a prepared strategy to protect organizations from this threat?
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Insurance Firm One Call Targeted by Darkside Ransomware Gang<a href="https://www.theregister.com/2021/05/21/darkside_ransomware_doncaster/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on the Doncaster-based insurance company was just a few days after the Colonial Pipeline's initial compromise on May 7 and one day before the ransomware gang claimed to be shutting up shop.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Two Toyota Subsidiaries Across Europe and the US Hit by Ransomware Attacks<a href="https://www.theregister.com/2021/05/21/toyota_cyber_attacks/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

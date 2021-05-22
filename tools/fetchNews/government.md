@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesia ‘s government confirms social security data breach for some citizens<a href="https://securityaffairs.co/wordpress/118148/data-breach/indonesia-social-security-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indonesia has launched an investigation into a possible security incident that caused the leak of social security data for more than 270 million citizens.
+
+
+
+Indonesia's Communication and Information Ministry has confirmed&nbsp;a leak of social security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Conti ransomware attacked 16 US healthcare, first responder orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-conti-ransomware-attacked-16-us-healthcare-first-responder-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says the Conti ransomware gang has attempted to breach the networks of over a dozen US&nbsp;healthcare and first responder organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China internet watchdog cites 105 apps for improper data collection<a href="https://thehill.com//policy/international/china/554723-china-internet-watchdog-cites-105-apps-for-improper-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China’s internet watchdog on Friday cited 105 apps operating in its country, including Microsoft Bing and LinkedIn, over allegations of illegal data collection of users’ personal information.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900031
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Getting Taken to ‘Hackers’ Court’ For Not Paying Affiliates<a href="https://threatpost.com/darkside-hackers-court-paying-affiliates/166393/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A shadow court system for hackers shows how professional ransomware gangs have become.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Report: how cybercriminals abuse API keys to steal millions<a href="https://securityaffairs.co/wordpress/118155/hacking/api-keys.html"> Full Text</a>
 </p>
 <details>

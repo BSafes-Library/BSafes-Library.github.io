@@ -11,6 +11,48 @@ nav_order: 900072
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tim Cook defends App Store rules during antitrust trial | Online school raises new concerns about cyberbullying | Dating apps adding vaccination badges to user profiles<a href="https://thehill.com//policy/technology/overnights/554828-hillicon-valley-cook-says-apple-app-store-rules-protect-user"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s CEO Tim Took testified in defense of the App Store as part of the ongoing antitrust trial between Apple and Fortnite developer Epic Games. Meanwhile,&nbsp;concerns over the hate speech children face online is drawing rare&nbsp;bipartisan agreement. And, the White House is taking a new route to encourage Americans to get vaccinates — through dating apps.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iC3 Logs Six Millionth Complaint<a href="https://www.infosecurity-magazine.com:443/news/ic3-logs-six-millionth-complaint/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI’s Internet Crime Complaint Center passes complaint milestone
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+79% of observed Microsoft Exchange Server exposures occurred in the cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/79-of-observed-microsoft-exchange-server-exposures-occurred-in-the-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Said one expert, traditional configuration management database technologies haven’t made the leap to cloud native and can’t properly collect and continuously detect changes.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Report Shows Global CISOs Failing to Practice What They Preach<a href="https://www.infosecurity-magazine.com:443/news/global-cisos-are-undermining/"> Full Text</a>
 </p>
 <details>
