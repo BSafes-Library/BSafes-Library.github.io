@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China internet watchdog cites 105 apps for improper data collection<a href="https://thehill.com//policy/international/china/554723-china-internet-watchdog-cites-105-apps-for-improper-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China’s internet watchdog on Friday cited 105 apps operating in its country, including Microsoft Bing and LinkedIn, over allegations of illegal data collection of users’ personal information. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
