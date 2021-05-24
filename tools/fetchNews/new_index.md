@@ -34,7 +34,387 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange admin portal blocked by expired SSL certificate<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-admin-portal-blocked-by-expired-ssl-certificate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Exchange admin portal is currently inaccessible from some browsers after Microsoft forgot to renew the SSL certificate for the website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pipeline shutdown shows need for tougher cybersecurity laws<a href="https://www.bostonglobe.com/2021/05/21/opinion/pipeline-shutdown-shows-need-tougher-cybersecurity-laws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colonial Pipeline incident revealed just how easy it was to bring a massive part of American infrastructure to a halt with a hack that, by cybersecurity standards, was about as sophisticated as a pickpocketing.
+</details>
+<div style="text-align: right" markdown="1">
+Boston Globe
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-31166 Windows HTTP flaw also impacts WinRM servers<a href="https://securityaffairs.co/wordpress/118189/security/cve-2021-31166-windows-http-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The wormable CVE-2021-31166 vulnerability in the HTTP Protocol Stack of the Windows IIS server also affects WinRM on Windows 10 and Server systems.
+
+
+
+Microsoft Patch Tuesday for May 2021 security updates addressed 55 vulnerabilities in Microsoft including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amex fined £90,000 for sending 4 million spam emails in a year<a href="https://www.bleepingcomputer.com/news/security/amex-fined-90-000-for-sending-4-million-spam-emails-in-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK data regulator has fined American Express (Amex) £90,000 for sending over 4 million spam emails to customers within one year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firm tracked DarkSide gang ransomware payments and the massive sums paid<a href="https://www.foxbusiness.com/technology/firm-tracked-darkside-gang-ransomware-payments-and-the-massive-sums-paid?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang’s wallet received a 75 BTC (bitcoin) payment, or roughly $5 million, made by Colonial Pipeline on May 8 following the cyberattack on its operations, according to a report from blockchain analytics firm Elliptic.
+</details>
+<div style="text-align: right" markdown="1">
+Fox Business
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 315<a href="https://securityaffairs.co/wordpress/118186/breaking-news/security-affairs-newsletter-round-315.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+Avaddon Ransomware gang hacked France-based Acer Finance and AXA AsiaMSBuild tool used to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack shows Canada must get serious about cybersecurity<a href="https://nationalpost.com/opinion/sabrina-maddeaux-colonial-pipeline-attack-shows-canada-must-get-serious-about-cybersecurity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks in Canada cost hundreds of millions of dollars in 2020 alone, with more than 4,000 attacks on our soil. In 2019, the official total was $2.3 billion, which is considered an extremely conservative estimate.
+</details>
+<div style="text-align: right" markdown="1">
+National Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A malware attack hit the Alaska Health Department<a href="https://securityaffairs.co/wordpress/118184/cyber-crime/alaska-health-department-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alaska health department website was forced offline by a malware attack, officials are investigating the incident.
+
+
+
+The website of the Alaska health department was forced offline this week by a malware attack. Local authorities launched an investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attacks on critical infrastructure: Is India ready?<a href="https://www.hindustantimes.com/opinion/cyber-attacks-on-critical-infrastructure-is-india-ready-101621514744151.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent years, attacks targeting critical infrastructure and businesses have surged. These include the 2017 WannaCry and NotPetya ransomware attacks, the 2015 attack on Ukrainian power grids, and 2010 Stuxnet attack on the Iranian nuclear reactor.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Analyst Charged With Stealing Counterterrorism and Cyber Threat Info<a href="https://thehackernews.com/2021/05/fbi-analyst-charged-with-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) indicted an employee of the Federal Bureau of Investigation (FBI) for illegally removing numerous national security documents and willfully retaining them at her personal residence during a 13-year period from June 2004 to December 2017.   The federal indictment charged Kendra Kingsbury, 48, with two counts of having unauthorized possession of documents relating to the national defense, according to an  unsealed indictment  that was made public on Friday. Kingsbury worked as an intelligence analyst in the FBI's Kansas City Division for more than 12 years, until her suspension in 2017.  "The breadth and depth of classified national security information retained by the defendant for more than a decade is simply astonishing,"  said  Alan E. Kohler, Jr. Assistant Director of the FBI's Counterintelligence Division, in a statement.   Stating that Kingsbury knew she was not authorized to remove and retain access to these sensitive govern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Conti Ransomware Hit 16 U.S. Health and Emergency Services<a href="https://thehackernews.com/2021/05/fbi-warns-conti-ransomware-hit-16-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary behind Conti ransomware targeted no fewer than 16 healthcare and first responder networks in the U.S. within the past year, totally victimizing over 400 organizations worldwide, 290 of which are situated in the country.  That's according to a new  flash alert  issued by the U.S. Federal Bureau of Investigation (FBI) on Thursday.  "The FBI identified at least 16 Conti ransomware attacks targeting U.S. healthcare and first responder networks, including law enforcement agencies, emergency medical services, 9-1-1 dispatch centers, and municipalities within the last year," the agency said.   Ransomware attacks have worsened over the years, with recent targets as varied as state and local governments, hospitals, police departments, and critical infrastructure.  Conti  is one of many ransomware strains that have capitulated on that trend, commencing its operations in July 2020 as a private Ransomware-as-a-Service (RaaS), in addition to jumping on the double extort
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bizarro banking malware targets 70 banks in Europe and South America<a href="https://www.bleepingcomputer.com/news/security/bizarro-banking-malware-targets-70-banks-in-europe-and-south-america/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A banking trojan named Bizarro that originates from Brazil has crossed the borders and started to target customers of 70 banks in Europe and South America.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable Windows HTTP vulnerability also affects WinRM servers<a href="https://www.bleepingcomputer.com/news/security/wormable-windows-http-vulnerability-also-affects-winrm-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wormable remote code execution (RCE) vulnerability in the Windows IIS server can also be used to attack unpatched Windows 10 and Server systems publicly exposing the WinRM (Windows Remote Management) service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qlocker ransomware leverages HBS flaw to infect QNAP NAS devices<a href="https://securityaffairs.co/wordpress/118179/malware/qlocker-ransomware-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns customers of updating the HBS 3 disaster recovery app to prevent Qlocker ransomware attack.
+
+
+
+Taiwanese vendor QNAP is warning its customers of updating the HBS 3 disaster recovery app running on their Network Attached Storage (NAS) devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says Conti Ransomware Gang has Hit 16 U.S. Health and Emergency Networks<a href="https://www.reuters.com/technology/fbi-says-conti-ransomware-gang-has-hit-16-us-health-emergency-networks-2021-05-21/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation said that the same group of online extortionists blamed for striking the Irish health system last week have also hit at least 16 U.S. medical and first response networks in the past year.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign hackers breached Russian federal agencies, said FSB<a href="https://securityaffairs.co/wordpress/118169/intelligence/fsb-says-russian-agencies-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FSB National Coordination Center for Computer Incidents (NKTsKI) revealed that foreign hackers have breached networks of Russian federal agencies.
+
+
+
+A joint report published by Rostelecom-Solar and the FSB National Coordination Center for Computer Incidents...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Chinese hacking competition may have given Beijing new ways to spy on the Uyghurs<a href="https://theconversation.com/a-chinese-hacking-competition-may-have-given-beijing-new-ways-to-spy-on-the-uyghurs-161226?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the advent of the Tianfu Cup, China appears to have access to a new talent pool of expert hackers, motivated by the competition’s prize money to produce potentially harmful hacks that Beijing may be willing to use both at home and abroad.
+</details>
+<div style="text-align: right" markdown="1">
+The Conversation
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware hit 16 US health and emergency Services, said FBI<a href="https://securityaffairs.co/wordpress/118167/cyber-crime/conti-ransomware-flash-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware targeted over 400 organizations worldwide, 290 in the US, and at least 16 healthcare and first responder networks.
+
+
+
+The Federal Bureau of Investigation (FBI) revealed that the Conti ransomware gang has hit at least 16 healthcare and first...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Targets Insurer AXA with Ransomware<a href="https://blog.avast.com/avaddon-targets-insurer-axa-with-ransomware-avast?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon ransomware group targeted Asia-based insurer AXA with DDoS attacks and ransomware just a week after the insurance company announced it was dropping support for ransomware payments in France.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air India suffered a data breach, 4.5 million customers impacted<a href="https://securityaffairs.co/wordpress/118162/data-breach/air-india-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air India disclosed a data breach that impacted roughly 4.5 million of its customers, two months after its Passenger Service System provider SITA was hacked.
+
+
+
+Air India has disclosed a data breach that impacted 4.5 million of its customers, exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile App Developers Exposed 100 Million Android Users' Data<a href="https://heimdalsecurity.com/blog/mobile-app-developers-exposed-100-million-android-users-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Check Point Research team has recently discovered that in the last few months, mobile app developers potentially exposed the private data of over 100 million Android users, by not following best security practices.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air India Hack Exposes Credit Card and Passport Info of 4.5 Million Passengers<a href="https://thehackernews.com/2021/05/indias-flag-carrier-airline-air-india.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's flag carrier airline, Air India, has  disclosed  a data breach affecting 4.5 million of its customers over a period stretching nearly 10 years after its Passenger Service System (PSS) provider SITA fell victim to a cyber attack earlier this year.  The breach involves personal data registered between Aug. 26, 2011 and Feb. 3, 2021, including details such as names, dates of birth, contact information, passport information, ticket information, Star Alliance, and Air India frequent flyer data as well as credit card data. But Air India said neither CVV/CVC numbers associated with the credit cards nor passwords were affected.   The airline had previously  acknowledged  the breach on March 19, stating that "its Passenger Service System provider has informed about a sophisticated cyber attack it was subjected to in the last week of February 2021."  In March, Swiss aviation information technology company SITA  disclosed  it suffered a "highly sophisticated attack&quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Getting Taken to ‘Hackers’ Court’ For Not Paying Affiliates<a href="https://threatpost.com/darkside-hackers-court-paying-affiliates/166393/"> Full Text</a>
@@ -50,7 +430,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2021
+May 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Building SIEM for Today’s Threat Landscape<a href="https://threatpost.com/building-siem-threat-landscape/166390/"> Full Text</a>
