@@ -34,6 +34,366 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers behind CryptoCore multi-million dollar heists<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-behind-cryptocore-multi-million-dollar-heists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers piecing together evidence from multiple attacks on cryptocurrency exchanges, attributed to a threat actor they named CryptoCore have established a strong connection to the North Korean state-sponsored group Lazarus.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium approves new cyber strategy with emphasis on essential institutions<a href="https://therecord.media/belgium-approves-new-cyber-strategy-with-emphasis-on-essential-institutions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two weeks after Belgium’s parliament and scientific institutions were hit by a cyberattack, the National Security Council approved a new cybersecurity strategy to shore up its digital defenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What To Do When Your Business Is Hacked<a href="https://thehackernews.com/2021/05/what-to-do-when-your-business-is-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As businesses move to a remote workforce, hackers have increased their activity to capitalize on new security holes. Cybercriminals often use unsophisticated methods that continue to be extremely successful.  These include phishing emails to harvest credentials and gain easy access to business-critical environments.  Hackers are also using ransomware to hold your data hostage, demanding a ransom payment in exchange for a decryption key that unlocks your stolen data.   When dealing with a cyberattack, there are practical steps you want to follow.  What do these steps include?   Quickly contain and isolate critical systems  Report the hack to your customers and business stakeholders  Engage the help of law enforcement  Enact your disaster recovery and business continuity plans  Analyze the attack, and remediate   Quickly contain and isolate critical systems  This first step is necessary: quickly contain and isolate critical systems. There is a chance that if you discover ransomware or o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Michigan Man Admits Selling UPMC Employee Data<a href="https://www.infosecurity-magazine.com:443/news/michigan-man-admits-selling-upmc/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"TheDearthStar" hacker confesses to stealing and selling PII of more than 65,000 medical center employees
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+13 flaws in Nagios IT Monitoring Software pose serious risk to orgs<a href="https://securityaffairs.co/wordpress/118207/hacking/nagios-it-monitoring-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed details about 13 vulnerabilities in the Nagios network monitoring application that could be exploited for malicious purposes. 
+
+
+
+Cybersecurity researchers from Skylight Cyber disclosed technical details about 13 vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynerio raises $30 million to protect medical IoT<a href="https://www.scmagazine.com/home/security-news/iot/cynerio-raises-30-million-to-protect-medical-iot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IoT security is bad mostly everywhere, but threats against medical devices bring some of the most worrying potential for damage against health care organizations and their patients.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Asks Victims of 2017 EtherDelta Hack to Come Forward<a href="https://www.securityweek.com/us-government-asks-victims-2017-etherdelta-hack-come-forward?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is hoping to obtain additional information on the 2017 hacker attack targeting the EtherDelta crypto trading platform and it has asked victims of the incident to come forward.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amex Fined After Sending Over Four Million Spam Emails<a href="https://www.infosecurity-magazine.com:443/news/amex-fined-sending-four-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ICO claims customers did not consent to receiving marketing messages
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Bitcoin Scams Demonstrate Power of Social Engineering Triggers<a href="https://www.securityweek.com/ongoing-bitcoin-scams-demonstrate-power-social-engineering-triggers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 17, 2021, the US Federal Trade Commission announced, “Since October 2020, reports have skyrocketed, with nearly 7,000 people reporting losses of more than $80 million on these scams.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air India: Supplier Breach Hit 4.5 Million Passengers<a href="https://www.infosecurity-magazine.com:443/news/air-india-supplier-breach-45/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fallout from the SITA incident in March continues
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia-based TPG TrustedCloud Hosting Service Discloses Unauthorized Access to Two Customers’ Data<a href="https://www.zdnet.com/article/a-pair-of-tpg-trustedcloud-customers-were-breached/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TPG Telecom said on Monday that it had the data of two customers accessed on its legacy TrustedCloud hosting service. It added it did not believe any other customers were impacted by the breach.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+User Information Linked to 180 Million Orders from Domino’s India Leaked Online<a href="https://ciso.economictimes.indiatimes.com/news/user-info-linked-to-18cr-dominos-orders-leaked/82899181?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major data leak, customer information related to 180 million orders placed with Domino’s India has been made public by a hacker who claims to have breached the pizza major’s servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government has warned 222 apps to remove data slurping code<a href="https://therecord.media/chinese-governments-has-warned-222-apps-to-remove-data-slurping-code/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three weeks after a data privacy protection law has entered into effect in China, the Beijing government has begun warning mobile app developers to remove intrusive data slurping code from their apps.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesia’s National Health Insurance Scheme Potentially Leaks One Million Citizens' Records<a href="https://www.theregister.com/2021/05/24/indonesia_health_data_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A post on Raidforums offered to sell a million records leaked from the Badan Penyelenggara Jaminan Sosial (BPJS), an agency that runs national health insurance scheme Jaminan Kesehatan Nasional (JKN).
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers achieved persistent shell access on a Boeing 747<a href="https://www.theregister.com/2021/05/21/boeing_747_ife_windows_nt4_shell_access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Pen Test Partners established a persistent shell on an in-flight entertainment (IFE) system from a Boeing 747 airliner after exploiting a vulnerability dating back to 1999.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance Giant Reportedly Paid $40 Million Ransom<a href="https://www.infosecurity-magazine.com:443/news/insurance-giant-paid-40-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial was struck in March this year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FSB NKTsKI: Foreign 'cyber mercenaries' breached Russian federal agencies<a href="https://therecord.media/fsb-nktski-foreign-cyber-mercenaries-breached-russian-federal-agencies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rostelecom and NKTsKI said the attackers used spear-phishing, vulnerabilities in web applications, and targeted the IT infrastructure of government contractors to breach Russian federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish court issues injunction against Conti hackers to stop health service data exposure, sale<a href="https://www.zdnet.com/article/irish-court-issues-injunction-against-conti-ransomware-group-to-stop-health-service-data-exposure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The injunction would make it illegal for information stolen during the ransomware attack against the Health Service Executive (HSE) from being shared, processed, sold, or otherwise published online.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: This new open source tool helps you test your defences again hacker attacks<a href="https://www.zdnet.com/article/microsoft-this-new-open-source-tool-helps-you-test-your-defences-again-hacker-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released SimuLand, an open-source project which aims to help security teams reproduce known attack scenarios - and test just how good Microsoft's core security products are.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed On Critical Flaws Affecting Nagios IT Monitoring Software<a href="https://thehackernews.com/2021/05/details-disclosed-on-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers disclosed details about 13 vulnerabilities in the Nagios network monitoring application that could be abused by an adversary to hijack the infrastructure without any operator intervention.  "In a telco setting, where a telco is monitoring thousands of sites, if a customer site is fully compromised, an attacker can use the vulnerabilities to compromise the telco, and then every other monitored customer site," Adi Ashkenazy, CEO of Australian cybersecurity firm Skylight Cyber, told The Hacker News via email.  Nagios is an open-source IT infrastructure tool analogous to SolarWinds Network Performance Monitor (NPM) that offers monitoring and alerting services for servers, network cards, applications, and services.  The issues, which consist of a mix of authenticated remote code execution (RCE) and privilege escalation flaws, were discovered and reported to Nagios in October 2020, following which they were  remediated  in  November .   Chief among them i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeppelin ransomware comes back to life with updated versions<a href="https://www.bleepingcomputer.com/news/security/zeppelin-ransomware-comes-back-to-life-with-updated-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers of Zeppelin ransomware have resumed their activity after a period of relative silence that started last Fall and started to advertise new versions of the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anker fixed an issue that caused access to Eufy video camera feeds to random users<a href="https://securityaffairs.co/wordpress/118197/security/eufy-video-camera-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfiguration issue in the software used by the Eufy video camera exposed private information and video streams of customers.
+
+
+
+Chinese electronics vendor Anker has recently addressed a bug that mistakenly exposed private information and video...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 23, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

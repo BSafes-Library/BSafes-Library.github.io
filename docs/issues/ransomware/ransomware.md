@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeppelin ransomware comes back to life with updated versions<a href="https://www.bleepingcomputer.com/news/security/zeppelin-ransomware-comes-back-to-life-with-updated-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers of Zeppelin ransomware have resumed their activity after a period of relative silence that started last Fall&nbsp;and started to advertise new versions of the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

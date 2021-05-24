@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers behind CryptoCore multi-million dollar heists<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-behind-cryptocore-multi-million-dollar-heists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers piecing together evidence from multiple attacks on cryptocurrency exchanges, attributed to a threat actor they named CryptoCore have established a strong connection to the North Korean state-sponsored group Lazarus.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers achieved persistent shell access on a Boeing 747<a href="https://www.theregister.com/2021/05/21/boeing_747_ife_windows_nt4_shell_access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Pen Test Partners established a persistent shell on an in-flight entertainment (IFE) system from a Boeing 747 airliner after exploiting a vulnerability dating back to 1999.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium approves new cyber strategy with emphasis on essential institutions<a href="https://therecord.media/belgium-approves-new-cyber-strategy-with-emphasis-on-essential-institutions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two weeks after Belgium’s parliament and scientific institutions were hit by a cyberattack, the National Security Council approved a new cybersecurity strategy to shore up its digital defenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Asks Victims of 2017 EtherDelta Hack to Come Forward<a href="https://www.securityweek.com/us-government-asks-victims-2017-etherdelta-hack-come-forward?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is hoping to obtain additional information on the 2017 hacker attack targeting the EtherDelta crypto trading platform and it has asked victims of the incident to come forward.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,98 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firm tracked DarkSide gang ransomware payments and the massive sums paid<a href="https://www.foxbusiness.com/technology/firm-tracked-darkside-gang-ransomware-payments-and-the-massive-sums-paid?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang’s wallet received a 75 BTC (bitcoin) payment, or roughly $5 million, made by Colonial Pipeline on May 8 following the cyberattack on its operations, according to a report from blockchain analytics firm Elliptic.
+</details>
+<div style="text-align: right" markdown="1">
+Fox Business
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Conti Ransomware Hit 16 U.S. Health and Emergency Services<a href="https://thehackernews.com/2021/05/fbi-warns-conti-ransomware-hit-16-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary behind Conti ransomware targeted no fewer than 16 healthcare and first responder networks in the U.S. within the past year, totally victimizing over 400 organizations worldwide, 290 of which are situated in the country.  That's according to a new&nbsp; flash alert &nbsp;issued by the U.S. Federal Bureau of Investigation (FBI) on Thursday.  "The FBI identified at least 16 Conti ransomware attacks targeting U.S. healthcare and first responder networks, including law enforcement agencies, emergency medical services, 9-1-1 dispatch centers, and municipalities within the last year," the agency said.   Ransomware attacks have worsened over the years, with recent targets as varied as state and local governments, hospitals, police departments, and critical infrastructure.&nbsp; Conti &nbsp;is one of many ransomware strains that have capitulated on that trend, commencing its operations in July 2020 as a private Ransomware-as-a-Service (RaaS), in addition to jumping on the double extort
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qlocker ransomware leverages HBS flaw to infect QNAP NAS devices<a href="https://securityaffairs.co/wordpress/118179/malware/qlocker-ransomware-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns customers of updating the HBS 3 disaster recovery app to prevent Qlocker ransomware attack.
+
+
+
+Taiwanese vendor QNAP is warning its customers of updating the HBS 3 disaster recovery app running on their Network Attached Storage (NAS) devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says Conti Ransomware Gang has Hit 16 U.S. Health and Emergency Networks<a href="https://www.reuters.com/technology/fbi-says-conti-ransomware-gang-has-hit-16-us-health-emergency-networks-2021-05-21/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation said that the same group of online extortionists blamed for striking the Irish health system last week have also hit at least 16 U.S. medical and first response networks in the past year.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware hit 16 US health and emergency Services, said FBI<a href="https://securityaffairs.co/wordpress/118167/cyber-crime/conti-ransomware-flash-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware targeted over 400 organizations worldwide, 290 in the US, and at least 16 healthcare and first responder networks.
+
+
+
+The Federal Bureau of Investigation (FBI) revealed that the Conti ransomware gang has hit at least 16 healthcare and first...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Targets Insurer AXA with Ransomware<a href="https://blog.avast.com/avaddon-targets-insurer-axa-with-ransomware-avast?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avaddon ransomware group targeted Asia-based insurer AXA with DDoS attacks and ransomware just a week after the insurance company announced it was dropping support for ransomware payments in France.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

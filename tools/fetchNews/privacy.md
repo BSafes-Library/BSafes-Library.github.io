@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Chinese hacking competition may have given Beijing new ways to spy on the Uyghurs<a href="https://theconversation.com/a-chinese-hacking-competition-may-have-given-beijing-new-ways-to-spy-on-the-uyghurs-161226?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the advent of the Tianfu Cup, China appears to have access to a new talent pool of expert hackers, motivated by the competition’s prize money to produce potentially harmful hacks that Beijing may be willing to use both at home and abroad.
+</details>
+<div style="text-align: right" markdown="1">
+The Conversation
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air India: Supplier Breach Hit 4.5 Million Passengers<a href="https://www.infosecurity-magazine.com:443/news/air-india-supplier-breach-45/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fallout from the SITA incident in March continues
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia-based TPG TrustedCloud Hosting Service Discloses Unauthorized Access to Two Customers’ Data<a href="https://www.zdnet.com/article/a-pair-of-tpg-trustedcloud-customers-were-breached/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TPG Telecom said on Monday that it had the data of two customers accessed on its legacy TrustedCloud hosting service. It added it did not believe any other customers were impacted by the breach.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+User Information Linked to 180 Million Orders from Domino’s India Leaked Online<a href="https://ciso.economictimes.indiatimes.com/news/user-info-linked-to-18cr-dominos-orders-leaked/82899181?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major data leak, customer information related to 180 million orders placed with Domino’s India has been made public by a hacker who claims to have breached the pizza major’s servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesia’s National Health Insurance Scheme Potentially Leaks One Million Citizens' Records<a href="https://www.theregister.com/2021/05/24/indonesia_health_data_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A post on Raidforums offered to sell a million records leaked from the Badan Penyelenggara Jaminan Sosial (BPJS), an agency that runs national health insurance scheme Jaminan Kesehatan Nasional (JKN).
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FSB NKTsKI: Foreign 'cyber mercenaries' breached Russian federal agencies<a href="https://therecord.media/fsb-nktski-foreign-cyber-mercenaries-breached-russian-federal-agencies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rostelecom and NKTsKI said the attackers used spear-phishing, vulnerabilities in web applications, and targeted the IT infrastructure of government contractors to breach Russian federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

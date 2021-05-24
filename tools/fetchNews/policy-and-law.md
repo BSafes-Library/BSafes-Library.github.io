@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pipeline shutdown shows need for tougher cybersecurity laws<a href="https://www.bostonglobe.com/2021/05/21/opinion/pipeline-shutdown-shows-need-tougher-cybersecurity-laws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colonial Pipeline incident revealed just how easy it was to bring a massive part of American infrastructure to a halt with a hack that, by cybersecurity standards, was about as sophisticated as a pickpocketing.
+</details>
+<div style="text-align: right" markdown="1">
+Boston Globe
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amex fined £90,000 for sending 4 million spam emails in a year<a href="https://www.bleepingcomputer.com/news/security/amex-fined-90-000-for-sending-4-million-spam-emails-in-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK data regulator has fined American Express (Amex) £90,000 for sending over 4 million spam emails to customers within one year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

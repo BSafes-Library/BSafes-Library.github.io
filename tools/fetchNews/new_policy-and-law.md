@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amex Fined After Sending Over Four Million Spam Emails<a href="https://www.infosecurity-magazine.com:443/news/amex-fined-sending-four-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ICO claims customers did not consent to receiving marketing messages
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish court issues injunction against Conti hackers to stop health service data exposure, sale<a href="https://www.zdnet.com/article/irish-court-issues-injunction-against-conti-ransomware-group-to-stop-health-service-data-exposure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The injunction would make it illegal for information stolen during the ransomware attack against the Health Service Executive (HSE) from being shared, processed, sold, or otherwise published online.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

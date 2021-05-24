@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+13 flaws in Nagios IT Monitoring Software pose serious risk to orgs<a href="https://securityaffairs.co/wordpress/118207/hacking/nagios-it-monitoring-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed details about 13 vulnerabilities in the Nagios network monitoring application that could be exploited for malicious purposes. 
+
+
+
+Cybersecurity researchers from Skylight Cyber disclosed technical details about 13 vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed On Critical Flaws Affecting Nagios IT Monitoring Software<a href="https://thehackernews.com/2021/05/details-disclosed-on-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers disclosed details about 13 vulnerabilities in the Nagios network monitoring application that could be abused by an adversary to hijack the infrastructure without any operator intervention.  "In a telco setting, where a telco is monitoring thousands of sites, if a customer site is fully compromised, an attacker can use the vulnerabilities to compromise the telco, and then every other monitored customer site," Adi Ashkenazy, CEO of Australian cybersecurity firm Skylight Cyber, told The Hacker News via email.  Nagios is an open-source IT infrastructure tool analogous to SolarWinds Network Performance Monitor (NPM) that offers monitoring and alerting services for servers, network cards, applications, and services.  The issues, which consist of a mix of authenticated remote code execution (RCE) and privilege escalation flaws, were discovered and reported to Nagios in October 2020, following which they were&nbsp; remediated &nbsp;in&nbsp; November .   Chief among them i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anker fixed an issue that caused access to Eufy video camera feeds to random users<a href="https://securityaffairs.co/wordpress/118197/security/eufy-video-camera-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfiguration issue in the software used by the Eufy video camera exposed private information and video streams of customers.
+
+
+
+Chinese electronics vendor Anker has recently addressed a bug that mistakenly exposed private information and video...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
