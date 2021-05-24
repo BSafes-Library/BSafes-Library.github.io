@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign hackers breached Russian federal agencies, said FSB<a href="https://securityaffairs.co/wordpress/118169/intelligence/fsb-says-russian-agencies-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FSB National Coordination Center for Computer Incidents (NKTsKI) revealed that foreign hackers have breached networks of Russian federal agencies.
+
+
+
+A joint report published by Rostelecom-Solar and the FSB National Coordination Center for Computer Incidents...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air India suffered a data breach, 4.5 million customers impacted<a href="https://securityaffairs.co/wordpress/118162/data-breach/air-india-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air India disclosed a data breach that impacted roughly 4.5 million of its customers, two months after its Passenger Service System provider SITA was hacked.
+
+
+
+Air India has&nbsp;disclosed&nbsp;a data breach that impacted 4.5 million of its customers, exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile App Developers Exposed 100 Million Android Users' Data<a href="https://heimdalsecurity.com/blog/mobile-app-developers-exposed-100-million-android-users-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Check Point Research team has recently discovered that in the last few months, mobile app developers potentially exposed the private data of over 100 million Android users, by not following best security practices.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air India Hack Exposes Credit Card and Passport Info of 4.5 Million Passengers<a href="https://thehackernews.com/2021/05/indias-flag-carrier-airline-air-india.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's flag carrier airline, Air India, has&nbsp; disclosed &nbsp;a data breach affecting 4.5 million of its customers over a period stretching nearly 10 years after its Passenger Service System (PSS) provider SITA fell victim to a cyber attack earlier this year.  The breach involves personal data registered between Aug. 26, 2011 and Feb. 3, 2021, including details such as names, dates of birth, contact information, passport information, ticket information, Star Alliance, and Air India frequent flyer data as well as credit card data. But Air India said neither CVV/CVC numbers associated with the credit cards nor passwords were affected.   The airline had previously&nbsp; acknowledged &nbsp;the breach on March 19, stating that "its Passenger Service System provider has informed about a sophisticated cyber attack it was subjected to in the last week of February 2021."  In March, Swiss aviation information technology company SITA&nbsp; disclosed &nbsp;it suffered a "highly sophisticated attack&amp;quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

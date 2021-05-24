@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline attack shows Canada must get serious about cybersecurity<a href="https://nationalpost.com/opinion/sabrina-maddeaux-colonial-pipeline-attack-shows-canada-must-get-serious-about-cybersecurity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks in Canada cost hundreds of millions of dollars in 2020 alone, with more than 4,000 attacks on our soil. In 2019, the official total was $2.3 billion, which is considered an extremely conservative estimate.
+</details>
+<div style="text-align: right" markdown="1">
+National Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

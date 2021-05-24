@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Analyst Charged With Stealing Counterterrorism and Cyber Threat Info<a href="https://thehackernews.com/2021/05/fbi-analyst-charged-with-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) indicted an employee of the Federal Bureau of Investigation (FBI) for illegally removing numerous national security documents and willfully retaining them at her personal residence during a 13-year period from June 2004 to December 2017.&nbsp;  The federal indictment charged Kendra Kingsbury, 48, with two counts of having unauthorized possession of documents relating to the national defense, according to an&nbsp; unsealed indictment &nbsp;that was made public on Friday. Kingsbury worked as an intelligence analyst in the FBI's Kansas City Division for more than 12 years, until her suspension in 2017.  "The breadth and depth of classified national security information retained by the defendant for more than a decade is simply astonishing,"&nbsp; said &nbsp;Alan E. Kohler, Jr. Assistant Director of the FBI's Counterintelligence Division, in a statement.   Stating that Kingsbury knew she was not authorized to remove and retain access to these sensitive govern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

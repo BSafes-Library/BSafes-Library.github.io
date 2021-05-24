@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange admin portal blocked by expired SSL certificate<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-admin-portal-blocked-by-expired-ssl-certificate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Exchange admin portal is currently inaccessible from some browsers after Microsoft forgot to renew the SSL certificate for the website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

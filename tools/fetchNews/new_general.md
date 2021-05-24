@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 315<a href="https://securityaffairs.co/wordpress/118186/breaking-news/security-affairs-newsletter-round-315.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+Avaddon Ransomware gang hacked France-based Acer Finance and AXA AsiaMSBuild tool used to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attacks on critical infrastructure: Is India ready?<a href="https://www.hindustantimes.com/opinion/cyber-attacks-on-critical-infrastructure-is-india-ready-101621514744151.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent years, attacks targeting critical infrastructure and businesses have surged. These include the 2017 WannaCry and NotPetya ransomware attacks, the 2015 attack on Ukrainian power grids, and 2010 Stuxnet attack on the Iranian nuclear reactor.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

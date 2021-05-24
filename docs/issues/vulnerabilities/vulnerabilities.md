@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-31166 Windows HTTP flaw also impacts WinRM servers<a href="https://securityaffairs.co/wordpress/118189/security/cve-2021-31166-windows-http-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The wormable CVE-2021-31166 vulnerability in the HTTP Protocol Stack of the Windows IIS server also affects WinRM on Windows 10 and Server systems.
+
+
+
+Microsoft Patch Tuesday for May 2021 security updates addressed 55 vulnerabilities in Microsoft including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable Windows HTTP vulnerability also affects WinRM servers<a href="https://www.bleepingcomputer.com/news/security/wormable-windows-http-vulnerability-also-affects-winrm-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wormable&nbsp;remote code execution (RCE) vulnerability in the Windows IIS server can also be used to attack unpatched Windows 10 and Server systems publicly exposing the WinRM (Windows Remote Management) service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

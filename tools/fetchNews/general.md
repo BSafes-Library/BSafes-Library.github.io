@@ -11,6 +11,20 @@ nav_order: 900072
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Building SIEM for Today’s Threat Landscape<a href="https://threatpost.com/building-siem-threat-landscape/166390/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sivan Tehila, cybersecurity strategist at Perimeter 81, discusses the elements involved in creating a modern SIEM strategy for remote work and cloud-everything.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tim Cook defends App Store rules during antitrust trial | Online school raises new concerns about cyberbullying | Dating apps adding vaccination badges to user profiles<a href="https://thehill.com//policy/technology/overnights/554828-hillicon-valley-cook-says-apple-app-store-rules-protect-user"> Full Text</a>
 </p>
 <details>
