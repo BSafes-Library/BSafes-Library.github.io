@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed On Critical Flaws Affecting Nagios IT Monitoring Software<a href="https://thehackernews.com/2021/05/details-disclosed-on-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers disclosed details about 13 vulnerabilities in the Nagios network monitoring application that could be abused by an adversary to hijack the infrastructure without any operator intervention.  "In a telco setting, where a telco is monitoring thousands of sites, if a customer site is fully compromised, an attacker can use the vulnerabilities to compromise the telco, and then every other monitored customer site," Adi Ashkenazy, CEO of Australian cybersecurity firm Skylight Cyber, told The Hacker News via email.  Nagios is an open-source IT infrastructure tool analogous to SolarWinds Network Performance Monitor (NPM) that offers monitoring and alerting services for servers, network cards, applications, and services.  The issues, which consist of a mix of authenticated remote code execution (RCE) and privilege escalation flaws, were discovered and reported to Nagios in October 2020, following which they were  remediated  in  November .   Chief among them i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Zeppelin ransomware comes back to life with updated versions<a href="https://www.bleepingcomputer.com/news/security/zeppelin-ransomware-comes-back-to-life-with-updated-versions/"> Full Text</a>
 </p>
 <details>
