@@ -30,9 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://threatpost.com/pipeline-biden-darkside-gas-bags/166112/
-. https://www.bleepingcomputer.com/news/security/fbi-conti-ransomware-attacked-16-us-healthcare-first-responder-orgs
-. https://thehackernews.com/2021/05/fbi-warns-conti-ransomware-hit-16-us.html
 
 Law:
 
