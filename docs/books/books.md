@@ -15,6 +15,7 @@ nav_order: 400
 * [DIGITAL DOMINION:How the Syrian regime’s mass digital surveillance violates human rights](https://papers.bsafes.com/docs/privacy/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
 * [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
 * [Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts](https://papers.bsafes.com/docs/Politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
+* [Grief is love with nowhere to go, by Sara Sampson](https://papers.bsafes.com/docs/behavior/grief-is-love-with-nowhere-to-go/)
 * [Jack Voltaic 3.0 Cyber Research Report, by United States Military Academy](https://papers.bsafes.com/docs/internet/jack-voltaic-3-0-cyber-research-report/)
 * [Impact of Information Breaches on Health Care Records](https://papers.bsafes.com/docs/breaches/impact-of-information-breaches-on-health-care-records/)
 * [NESCOR Guide to Penetration Testing for Electric Utilities, by National Electric Sector Cybersecurity Organization Resource (NESCOR)](https://papers.bsafes.com/docs/infrastructure/nescor-guide-to-penetration-testing-for-electric-utilities/#abstract)
