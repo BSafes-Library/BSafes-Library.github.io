@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Audio maker Bose discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/audio-maker-bose-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bose Corporation (Bose) has disclosed a data breach following a ransomware attack that hit the company's systems in early March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 American Express Fined for Sending Millions of Spam Messages<a href="https://threatpost.com/american-express-fined-spam/166412/"> Full Text</a>
 </p>
 <details>
