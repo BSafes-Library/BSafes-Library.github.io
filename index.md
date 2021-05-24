@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesian govt blocks access to RaidForums hacking forum after data leak<a href="https://www.bleepingcomputer.com/news/security/indonesian-govt-blocks-access-to-raidforums-hacking-forum-after-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indonesian government is blocking access to the RaidForums hacking forum after the alleged personal information of Indonesian citizens was posted online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
