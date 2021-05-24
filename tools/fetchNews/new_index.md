@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Zeppelin ransomware comes back to life with updated versions<a href="https://www.bleepingcomputer.com/news/security/zeppelin-ransomware-comes-back-to-life-with-updated-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers of Zeppelin ransomware have resumed their activity after a period of relative silence that started last Fall and started to advertise new versions of the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Anker fixed an issue that caused access to Eufy video camera feeds to random users<a href="https://securityaffairs.co/wordpress/118197/security/eufy-video-camera-flaw.html"> Full Text</a>
 </p>
 <details>
