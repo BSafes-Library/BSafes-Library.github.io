@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers behind CryptoCore multi-million dollar heists<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-behind-cryptocore-multi-million-dollar-heists/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgium approves new cyber strategy with emphasis on essential institutions<a href="https://therecord.media/belgium-approves-new-cyber-strategy-with-emphasis-on-essential-institutions/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What To Do When Your Business Is Hacked<a href="https://thehackernews.com/2021/05/what-to-do-when-your-business-is-hacked.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Michigan Man Admits Selling UPMC Employee Data<a href="https://www.infosecurity-magazine.com:443/news/michigan-man-admits-selling-upmc/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 13 flaws in Nagios IT Monitoring Software pose serious risk to orgs<a href="https://securityaffairs.co/wordpress/118207/hacking/nagios-it-monitoring-flaws.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cynerio raises $30 million to protect medical IoT<a href="https://www.scmagazine.com/home/security-news/iot/cynerio-raises-30-million-to-protect-medical-iot/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Government Asks Victims of 2017 EtherDelta Hack to Come Forward<a href="https://www.securityweek.com/us-government-asks-victims-2017-etherdelta-hack-come-forward?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amex Fined After Sending Over Four Million Spam Emails<a href="https://www.infosecurity-magazine.com:443/news/amex-fined-sending-four-million/"> Full Text</a>
@@ -166,7 +166,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Bitcoin Scams Demonstrate Power of Social Engineering Triggers<a href="https://www.securityweek.com/ongoing-bitcoin-scams-demonstrate-power-social-engineering-triggers?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air India: Supplier Breach Hit 4.5 Million Passengers<a href="https://www.infosecurity-magazine.com:443/news/air-india-supplier-breach-45/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia-based TPG TrustedCloud Hosting Service Discloses Unauthorized Access to Two Customers’ Data<a href="https://www.zdnet.com/article/a-pair-of-tpg-trustedcloud-customers-were-breached/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 User Information Linked to 180 Million Orders from Domino’s India Leaked Online<a href="https://ciso.economictimes.indiatimes.com/news/user-info-linked-to-18cr-dominos-orders-leaked/82899181?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese government has warned 222 apps to remove data slurping code<a href="https://therecord.media/chinese-governments-has-warned-222-apps-to-remove-data-slurping-code/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indonesia’s National Health Insurance Scheme Potentially Leaks One Million Citizens' Records<a href="https://www.theregister.com/2021/05/24/indonesia_health_data_breach/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers achieved persistent shell access on a Boeing 747<a href="https://www.theregister.com/2021/05/21/boeing_747_ife_windows_nt4_shell_access/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance Giant Reportedly Paid $40 Million Ransom<a href="https://www.infosecurity-magazine.com:443/news/insurance-giant-paid-40-million/"> Full Text</a>
@@ -294,7 +294,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FSB NKTsKI: Foreign 'cyber mercenaries' breached Russian federal agencies<a href="https://therecord.media/fsb-nktski-foreign-cyber-mercenaries-breached-russian-federal-agencies/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish court issues injunction against Conti hackers to stop health service data exposure, sale<a href="https://www.zdnet.com/article/irish-court-issues-injunction-against-conti-ransomware-group-to-stop-health-service-data-exposure/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: This new open source tool helps you test your defences again hacker attacks<a href="https://www.zdnet.com/article/microsoft-this-new-open-source-tool-helps-you-test-your-defences-again-hacker-attacks/?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Details Disclosed On Critical Flaws Affecting Nagios IT Monitoring Software<a href="https://thehackernews.com/2021/05/details-disclosed-on-critical-flaws.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zeppelin ransomware comes back to life with updated versions<a href="https://www.bleepingcomputer.com/news/security/zeppelin-ransomware-comes-back-to-life-with-updated-versions/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anker fixed an issue that caused access to Eufy video camera feeds to random users<a href="https://securityaffairs.co/wordpress/118197/security/eufy-video-camera-flaw.html"> Full Text</a>
