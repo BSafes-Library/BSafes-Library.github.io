@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Insurance Giant Reportedly Paid $40 Million Ransom<a href="https://www.infosecurity-magazine.com:443/news/insurance-giant-paid-40-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial was struck in March this year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FSB NKTsKI: Foreign 'cyber mercenaries' breached Russian federal agencies<a href="https://therecord.media/fsb-nktski-foreign-cyber-mercenaries-breached-russian-federal-agencies/?&web_view=true"> Full Text</a>
 </p>
 <details>
