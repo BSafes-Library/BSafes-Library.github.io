@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Irish court issues injunction against Conti hackers to stop health service data exposure, sale<a href="https://www.zdnet.com/article/irish-court-issues-injunction-against-conti-ransomware-group-to-stop-health-service-data-exposure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The injunction would make it illegal for information stolen during the ransomware attack against the Health Service Executive (HSE) from being shared, processed, sold, or otherwise published online.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: This new open source tool helps you test your defences again hacker attacks<a href="https://www.zdnet.com/article/microsoft-this-new-open-source-tool-helps-you-test-your-defences-again-hacker-attacks/?&web_view=true"> Full Text</a>
 </p>
 <details>
