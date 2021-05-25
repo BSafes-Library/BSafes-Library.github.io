@@ -66,6 +66,18 @@ Your absence has gone through me Like thread through a needle. Everything I do i
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Unfriending Tinker : The Third Circuit Holds Schools Cannot Regulate Off-Campus Social Media Speech [HTML](https://papers.bsafes.com/docs/law/unfriending-tinker-the-third-circuit-holds-schools-cannot-regulate-off-campus-social-media-speech/)
+</p>
+<details>
+  <summary>Abstract</summary>
+After coming across sexually explicit messages between sixteen-yearold Channing Smith and another male student, a peer shared the images to their public Instagram and Snapchat stories.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
