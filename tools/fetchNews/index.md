@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Bluetooth Flaws Let Attackers Impersonate Legitimate Devices<a href="https://thehackernews.com/2021/05/new-bluetooth-flaws-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries could exploit newly discovered security weaknesses in Bluetooth Core and Mesh Profile Specifications to masquerade as legitimate devices and carry out man-in-the-middle (MitM) attacks.  "Devices supporting the Bluetooth  Core  and  Mesh Specifications  are vulnerable to impersonation attacks and AuthValue disclosure that could allow an attacker to impersonate a legitimate device during pairing," the Carnegie Mellon CERT Coordination Center  said  in an advisory published Monday.  The two Bluetooth specifications define the standard that allows for many-to-many communication over Bluetooth to facilitate data transfer between devices in an ad-hoc network.   The Bluetooth Impersonation AttackS, aka BIAS , enable a malicious actor to establish a secure connection with a victim, without having to know and authenticate the long-term key shared between the victims, thus effectively bypassing Bluetooth's authentication mechanism.  "The BIAS attacks are the first
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Apple‌ Issues Patches to Combat Ongoing 0-Day Attacks on macOS, tvOS<a href="https://thehackernews.com/2021/05/apple-issues-patches-to-combat-ongoing.html"> Full Text</a>
 </p>
 <details>
