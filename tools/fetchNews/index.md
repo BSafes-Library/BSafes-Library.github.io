@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US banks are giving facial recognition a go; EU tightens regulations, FTC updates AI guidelines<a href="https://securityaffairs.co/wordpress/118230/security/us-banks-facial-recognition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US banks are giving the green light to the adoption of facial recognition technology, while authorities provide regulations and updates guidelines
+
+
+
+Many among the US biggest banks are trying their luck with facial recognition technology.The FTC issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How Hacking Became a Professional Service in Russia<a href="https://www.newyorker.com/news/news-desk/how-hacking-became-a-professional-service-in-russia?&web_view=true"> Full Text</a>
 </p>
 <details>
