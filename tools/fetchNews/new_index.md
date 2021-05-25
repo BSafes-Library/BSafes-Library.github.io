@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical bug affecting all vCenter Server installs<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-bug-affecting-all-vcenter-server-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware urges customers to patch a critical remote code execution (RCE) vulnerability in the Virtual SAN Health Check plug-in and impacting all vCenter Server deployments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Apps Exposing Personal Data of Millions of Users<a href="https://cyware.com/news/mobile-apps-exposing-personal-data-of-millions-of-users-bebe5774"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insecure data storage is the most common security flaw in Android apps. Recently, security analysts listed down 23 Android applications leaking personal data of over 100 million users due to misconfigurations in third-party cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 E-tailers See Surge in Automated Fraud<a href="https://www.infosecurity-magazine.com:443/news/etailers-see-surge-in-automated/"> Full Text</a>
 </p>
 <details>
