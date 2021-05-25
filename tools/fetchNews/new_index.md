@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hit: Tulsa Promises Recovery, Not Ransom Paying<a href="https://www.inforisktoday.com/blogs/ransomware-hit-tulsa-promises-recovery-ransom-paying-p-3047?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Restoration work is continuing. "All of our computer systems - with a few exceptions - are down right now," Michael Derringer, the city's CIO, said at a press conference on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Only Two-Fifths of UK Firms Report Data Breaches On Time<a href="https://www.infosecurity-magazine.com:443/news/only-twofifths-firms-report-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On third GDPR anniversary, widespread confusion still reigns
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Report: how cybercriminals abuse API keys to steal millions<a href="https://cybernews.com/security/report-how-cybercriminals-abuse-api-keys-to-steal-millions/?&web_view=true"> Full Text</a>
 </p>
 <details>
