@@ -37,6 +37,258 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hack, Disinform, Deny: Russia's Cybersecurity Strategy<a href="https://www.securityweek.com/hack-disinform-deny-russias-cybersecurity-strategy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past, Moscow has faced numerous allegations of cyberattacks that resulted in multiple sanctions and the expulsion of its diplomats. The term "hacker" has almost become synonymous with Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Download Ultimate 'Security for Management' Presentation Template<a href="https://thehackernews.com/2020/01/cybersecurity-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a person in every organization that is the direct owner of breach protection. His or her task is to oversee and govern the process of design, build, maintain, and continuously enhance the security level of the organization.   Title-wise, this person is most often either the CIO, CISO, or Directory of IT. For convenience, we'll refer to this individual as the CISO.   This person is the subject-matter expert in understanding the standard set of active cyber risks, benchmarking to what degree the organization's exposure influences potential impact. They then take appropriate steps to ensure the major risks are addressed.   On top of being engaged 24/7 in the organization's actual breach protection activity, the CISO has another critical task: to articulate the risks, potential impacts and appropriate steps to take to the company's management – or in other words, they must effectively translate security issues for non-security-savvy executives in a clear and busi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of CISOs Predict Another SolarWinds-Style Attack<a href="https://www.infosecurity-magazine.com:443/news/three-quarters-of-cisos-predict/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk warns that cloud complexity is a major threat
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: Is Apple Storing Its Dorian Gray Portrait Behind the Great Firewall?<a href="https://www.lawfareblog.com/cyberlaw-podcast-apple-storing-its-dorian-gray-portrait-behind-great-firewall"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paul Rosenzweig kicks off the news roundup by laying out the New York Times’s brutal overview of the many compromises Tim Cook’s Apple has made with an increasingly oppressive Chinese government. There is no way to square Apple’s aggressive opposition to U.S. national security measures with its quiet surrender to much more demanding Chinese measures.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes 3 flaws in Home Network Security Devices<a href="https://securityaffairs.co/wordpress/118249/security/trend-micro-fixes-3-flaws-in-home-network-security-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro fixed some flaws in Trend Micro Home Network Security devices that could be exploited to elevate privileges or achieve arbitrary authentication.
+
+
+
+Trend Micro fixed three vulnerabilities in Home Network Security devices that could be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Low sophistication OT breaches on the rise, with hackers learning from easy wins<a href="https://www.scmagazine.com/home/security-news/iot/low-sophistication-ot-breaches-on-the-rise-with-hackers-learning-from-easy-wins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with minimal experience and technical expertise are increasingly targeting industrial networks, driving a new wave of low sophistication OT breaches that researchers tells SC Media is a strong learning opportunity for criminals looking to monetize their work. The low sophistication attacks, which are outlined by Mandiant in a new blog post released Tuesday, encompass…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How data manipulation could be used to trick fraud detection algorithms on e-commerce sites<a href="https://www.helpnetsecurity.com/2021/05/24/fraud-detection-algorithms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data poisoning attack aims to modify a machine learning model’s training set by inserting incorrectly labeled data with the goal of tricking it into making incorrect predictions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Insurance Premiums Surged by Up to 30% in 2020<a href="https://www.infosecurity-magazine.com:443/news/cyberinsurance-premiums-surged-30/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GAO report warns of lower coverage limits for some verticals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addresses three zero-day flaws actively exploited in the wild<a href="https://securityaffairs.co/wordpress/118227/breaking-news/apple-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has addressed three zero-day vulnerabilities in macOS and tvOS actively exploited in the wild by threat actors.
+
+
+
+Apple has released security updates to address three zero-day vulnerabilities affecting macOS and tvOS which have been exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+13 Million Users’ Personal Details Leaked Online After DailyQuiz Data Breach<a href="https://therecord.media/8-3-million-plaintext-passwords-exposed-in-dailyquiz-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal details of 13 million DailyQuiz users have been leaked online earlier this year after a hacker breached the quiz builder’s database and stole its content, which he later put up for sale.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GDPR Anniversary: Security Leaders More Concerned About Litigation Than Fines<a href="https://www.infosecurity-magazine.com:443/news/litigation-regulatory-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+90% of security leaders are concerned about data breach litigation because of GDPR
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Audio equipment maker Bose Corporation discloses a ransomware attack<a href="https://securityaffairs.co/wordpress/118234/malware/bose-corporation-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The audio equipment manufacturer Bose Corporation said it was the victim of a ransomware attack that took place earlier this year, on March 7.
+
+
+
+Bose Corporation has announced it was the victim of a ransomware attack that took place earlier this year,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open source ecosystem ripe for dependency confusion attacks, research finds<a href="https://portswigger.net/daily-swig/open-source-ecosystem-ripe-for-dependency-confusion-attacks-research-finds?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 1,000 organizations whose GitHub accounts were analyzed by a researcher, more than one in five – 212 – contained at least one dependency confusion-related misconfiguration in their codebase.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Thunderbird was saving OpenPGP keys in plaintext after encryption snafu<a href="https://www.theregister.com/2021/05/24/mozilla_thunderbird_openpgp_plaintext_keys/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2021-29956 and assessed as “low” impact by Mozilla, existed in the free open-source Thunderbird email client between version 78.8.1 and version 78.10.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Vulnerabilities in Home Network Security Devices<a href="https://www.securityweek.com/trend-micro-patches-vulnerabilities-home-network-security-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities identified by security researchers with Cisco’s Talos unit in Trend Micro Home Network Security devices could be exploited to elevate privileges or achieve arbitrary authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hit: Tulsa Promises Recovery, Not Ransom Paying<a href="https://www.inforisktoday.com/blogs/ransomware-hit-tulsa-promises-recovery-ransom-paying-p-3047?&web_view=true"> Full Text</a>
 </p>
 <details>
