@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Iranian hacking group targets Israel with wiper disguised as ransomware<a href="https://www.bleepingcomputer.com/news/security/iranian-hacking-group-targets-israel-with-wiper-disguised-as-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian hacking group has been observed camouflaging destructive attacks against Israeli targets as ransomware attacks while maintaining access to victims' networks for months in what looks like an extensive espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bose Admits Ransomware Hit: Employee Data Accessed<a href="https://threatpost.com/bose-ransomware-employee-data/166443/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The consumer-electronics stalwart was able to recover without paying a ransom, it said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPNs Get Quick Fix for Critical RCE<a href="https://threatpost.com/pulse-secure-vpns-critical-rce/166437/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the workaround XML files automatically deactivates protection from an earlier workaround: a potential path to older vulnerabilities being opened again.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Evolution of JSWorm ransomware<a href="https://securelist.com/evolution-of-jsworm-ransomware/102428/?&web_view=true"> Full Text</a>
 </p>
 <details>
