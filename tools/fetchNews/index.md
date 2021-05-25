@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple‌ Issues Patches to Combat Ongoing 0-Day Attacks on macOS, tvOS<a href="https://thehackernews.com/2021/05/apple-issues-patches-to-combat-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday rolled out security updates for  iOS ,  macOS ,  tvOS ,  watchOS , and  Safari  web browser to fix multiple vulnerabilities, including an actively exploited zero-day flaw in macOS Big Sur and expand patches for two previously disclosed zero-day flaws.   Tracked as CVE-2021-30713, the zero-day concerns a permissions issue in Apple's Transparency, Consent, and Control ( TCC ) framework in macOS that maintains a database of each user's consents. The iPhone maker acknowledged that the issue may have been exploited in the wild but stopped short of sharing specifics.   The company noted that it rectified the problem with improved validation.  However, in a separate report, mobile device management company Jamf said the bypass flaw was being actively exploited by XCSSET, a malware that's been out in the wild since August 2020 and known to propagate via modified  Xcode IDE projects  hosted on GitHub repositories and plant malicious packages into legitimate apps ins
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
