@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixes high severity flaw in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/118257/security/pulse-connect-secure-vpn-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Pulse Connect Secure VPN could allow an authenticated remote attacker to execute arbitrary code with elevated privileges.
+
+
+
+Ivanti addressed a high severity Buffer Overflow vulnerability in Secure VPN appliances that could allow a remote authenticated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Average losses from compromised cloud accounts is more than $500,000 a year<a href="https://www.scmagazine.com/home/security-news/cloud-security/average-losses-from-compromised-cloud-accounts-is-more-than-500000-a-year/"> Full Text</a>
 </p>
 <details>
