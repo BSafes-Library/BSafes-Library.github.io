@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hacking Attack on Japanese Dating App Omiai Puts 1.71 Million Users at Risk<a href="https://www.japantimes.co.jp/news/2021/05/22/business/tech/omiai-dating-app-hack-japan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese dating app operator Net Marketing Co. said Friday personal data of 1.71 million users, including names and face photos, was likely leaked due to unauthorized access to its server.
+</details>
+<div style="text-align: right" markdown="1">
+The Japan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian hacking group targets Israel with wiper disguised as ransomware<a href="https://www.bleepingcomputer.com/news/security/iranian-hacking-group-targets-israel-with-wiper-disguised-as-ransomware/"> Full Text</a>
 </p>
 <details>
