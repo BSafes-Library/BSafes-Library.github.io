@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US to Regulate Pipeline Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/us-to-regulate-pipeline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Department of Homeland Security to issue first cybersecurity regulations for pipelines after Colonial cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Domino's India discloses data breach after hackers sell data online<a href="https://www.bleepingcomputer.com/news/security/dominos-india-discloses-data-breach-after-hackers-sell-data-online/"> Full Text</a>
 </p>
 <details>
