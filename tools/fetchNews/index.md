@@ -37,6 +37,71 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Iranian hacking group Agrius pretends to encrypt files for a ransom, destroys them instead<a href="https://www.zdnet.com/article/iranian-hacking-group-agrius-pretends-to-encrypt-files-for-a-ransom-destroys-it-instead/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group uses a combination of its own custom toolsets and readily available offensive security software to deploy either a destructive wiper or a custom wiper-turned-ransomware variant.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coast Guard to Create Red Team<a href="https://www.infosecurity-magazine.com:443/news/coast-guard-to-create-red-team/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Coast Guard to establish Cyber Operational Assessments Branch and form first red team
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STRRAT - The RAT that Wants to be a Ransomware<a href="https://cyware.com/news/strrat-the-rat-that-wants-to-be-a-ransomware-55762f6b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning against a malware campaign by STRRAT, a RAT first spotted in June 2020. It camouflages as ransomware and supports various features such as logging keystrokes, collecting browser passwords, and running remote commands and PowerShell. Organizations should stay alert and offer tra ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov Supply Chain Attack Still Haunts Organizations<a href="https://cyware.com/news/codecov-supply-chain-attack-still-haunts-organizations-c24300d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Does the CodeCov supply chain attack has echoes of SolarWinds? More victims surface with time in yet another months-long ripple effect of a supply chain attack. Users of Codecov are suggested to perform a thorough scan of their CI-CD pipelines and change their secret keys and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Healthcare Non-Profit RMCHCS Reports Data Breach Affecting 200,000 Patients, Employees<a href="https://portswigger.net/daily-swig/us-healthcare-non-profit-reports-data-breach-impacting-200-000-patients-employees?&web_view=true"> Full Text</a>
 </p>
 <details>
