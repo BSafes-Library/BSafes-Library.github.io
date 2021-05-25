@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Report: how cybercriminals abuse API keys to steal millions<a href="https://cybernews.com/security/report-how-cybercriminals-abuse-api-keys-to-steal-millions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It appears that stolen API keys for cryptocurrency trading apps are being used by cybercriminals to easily empty their victims’ accounts on all major cryptocurrency exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DeepSloth: Researchers find denial-of-service equivalent against machine learning systems<a href="https://portswigger.net/daily-swig/deepsloth-researchers-find-denial-of-service-equivalent-against-machine-learning-systems?&web_view=true"> Full Text</a>
 </p>
 <details>
