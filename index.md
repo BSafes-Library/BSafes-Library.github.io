@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Healthcare Non-Profit RMCHCS Reports Data Breach Affecting 200,000 Patients, Employees<a href="https://portswigger.net/daily-swig/us-healthcare-non-profit-reports-data-breach-impacting-200-000-patients-employees?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potentially exposed information includes names, dates of birth, postal addresses, telephone numbers, and email addresses, SSNs, driver’s license, passport, and tribal ID numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS to require pipeline companies to report cyberattacks<a href="https://thehill.com//policy/cybersecurity/555297-dhs-to-issue-directive-requiring-pipeline-companies-to-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) will issue a directive later this week requiring all pipeline companies to report cyber incidents to federal authorities in the wake of a devastating ransomware attack on Colonial Pipeline that forced a shutdown of operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro Bugs Threaten Home Network Security<a href="https://threatpost.com/trend-micro-bugs-home-network-security/166453/"> Full Text</a>
 </p>
 <details>
