@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Post-quantum cryptographic standards to be finalized later this year<a href="https://www.scmagazine.com/home/government/post-quantum-cryptographic-standards-to-be-finalized-later-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new cryptographic standards will likely underpin IT design and guide industrial purchasing decisions for decades to come.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: DC attorney general files antitrust lawsuit against Amazon | DHS to require pipeline companies to report cyberattacks | Activists, parents urge Facebook to drop Instagram for kids plan<a href="https://thehill.com//policy/technology/overnights/555406-hillicon-valley-dc-attorney-general-files-antitrust-lawsuit"> Full Text</a>
 </p>
 <details>
