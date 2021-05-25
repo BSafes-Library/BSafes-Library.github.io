@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Zero-Day Flaw in MacOS that Allows for Sneaky Screenshots<a href="https://threatpost.com/apple-patches-zero-day-flaw-in-macos-that-allows-for-sneaky-screenshots/166428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Jamf discovered the XCSSET malware exploiting the vulnerability, patched in Big Sur 11.4, to take photos of people’s computer screens without their knowing.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US to Regulate Pipeline Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/us-to-regulate-pipeline/"> Full Text</a>
 </p>
 <details>

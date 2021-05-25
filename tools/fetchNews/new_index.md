@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor ‘Agrius’ Emerges to Launch Wiper Attacks Against Israeli Targets<a href="https://threatpost.com/agrius-wiper-attacks-israeli-targets/166474/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is using ransomware intended to make its espionage and destruction efforts appear financially motivated.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Apple Patches Zero-Day Flaw in MacOS that Allows for Sneaky Screenshots<a href="https://threatpost.com/apple-patches-zero-day-flaw-in-macos-that-allows-for-sneaky-screenshots/166428/"> Full Text</a>
 </p>
 <details>
