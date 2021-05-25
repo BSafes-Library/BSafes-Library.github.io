@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyberlaw Podcast: Is Apple Storing Its Dorian Gray Portrait Behind the Great Firewall?<a href="https://www.lawfareblog.com/cyberlaw-podcast-apple-storing-its-dorian-gray-portrait-behind-great-firewall"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paul Rosenzweig kicks off the news roundup by laying out the New York Times’s brutal overview of the many compromises Tim Cook’s Apple has made with an increasingly oppressive Chinese government. There is no way to square Apple’s aggressive opposition to U.S. national security measures with its quiet surrender to much more demanding Chinese measures.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

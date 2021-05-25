@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack, Disinform, Deny: Russia's Cybersecurity Strategy<a href="https://www.securityweek.com/hack-disinform-deny-russias-cybersecurity-strategy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past, Moscow has faced numerous allegations of cyberattacks that resulted in multiple sanctions and the expulsion of its diplomats. The term "hacker" has almost become synonymous with Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Biden’s American Jobs Plan Seeks To Increase Cybersecurity<a href="https://www.forbes.com/sites/edwardsegal/2021/05/18/how-bidens-american-jobs-plan-seeks-to-increase-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House, highlighting cybersecurity as "one of the preeminent challenges of our time," underscored how President Joe Biden’s American Jobs Plan would increase the country’s cyber defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

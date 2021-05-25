@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Employee Indicted Over Illegal Document Removal<a href="https://www.infosecurity-magazine.com:443/news/fbi-analyst-takes-secrets-home/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence analyst allegedly took secret national security documents home for more than a decade
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

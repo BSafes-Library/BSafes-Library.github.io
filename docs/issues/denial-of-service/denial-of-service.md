@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepSloth: Researchers find denial-of-service equivalent against machine learning systems<a href="https://portswigger.net/daily-swig/deepsloth-researchers-find-denial-of-service-equivalent-against-machine-learning-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Presented at the International Conference on Learning Representations (ICLR), the technique neutralizes optimization techniques that speed up the operation of deep neural networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

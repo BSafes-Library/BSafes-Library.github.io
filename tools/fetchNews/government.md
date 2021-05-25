@@ -11,6 +11,20 @@ nav_order: 900075
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Indonesian govt blocks access to RaidForums hacking forum after data leak<a href="https://www.bleepingcomputer.com/news/security/indonesian-govt-blocks-access-to-raidforums-hacking-forum-after-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indonesian government is blocking access to the RaidForums hacking forum after the alleged personal information of Indonesian citizens was posted online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Belgium approves new cyber strategy with emphasis on essential institutions<a href="https://therecord.media/belgium-approves-new-cyber-strategy-with-emphasis-on-essential-institutions/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

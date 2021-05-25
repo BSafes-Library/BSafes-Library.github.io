@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Audio equipment maker Bose Corporation discloses a ransomware attack<a href="https://securityaffairs.co/wordpress/118234/malware/bose-corporation-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The audio equipment manufacturer Bose Corporation said it was the victim of a ransomware attack that took place earlier this year, on March 7.
+
+
+
+Bose Corporation has announced it was the victim of a ransomware attack that took place earlier this year,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hit: Tulsa Promises Recovery, Not Ransom Paying<a href="https://www.inforisktoday.com/blogs/ransomware-hit-tulsa-promises-recovery-ransom-paying-p-3047?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Restoration work is continuing. "All of our computer systems - with a few exceptions - are down right now," Michael Derringer, the city's CIO, said at a press conference on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
