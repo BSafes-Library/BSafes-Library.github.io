@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Evolution of JSWorm ransomware<a href="https://securelist.com/evolution-of-jsworm-ransomware/102428/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several versions of JSWorm were released as part of each “rebranded” variant that altered different aspects of the code, renamed file extensions, cryptographic schemes, and encryption keys.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hack, Disinform, Deny: Russia's Cybersecurity Strategy<a href="https://www.securityweek.com/hack-disinform-deny-russias-cybersecurity-strategy?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Download Ultimate 'Security for Management' Presentation Template<a href="https://thehackernews.com/2020/01/cybersecurity-management.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three-Quarters of CISOs Predict Another SolarWinds-Style Attack<a href="https://www.infosecurity-magazine.com:443/news/three-quarters-of-cisos-predict/"> Full Text</a>
@@ -82,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Cyberlaw Podcast: Is Apple Storing Its Dorian Gray Portrait Behind the Great Firewall?<a href="https://www.lawfareblog.com/cyberlaw-podcast-apple-storing-its-dorian-gray-portrait-behind-great-firewall"> Full Text</a>
@@ -98,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro fixes 3 flaws in Home Network Security Devices<a href="https://securityaffairs.co/wordpress/118249/security/trend-micro-fixes-3-flaws-in-home-network-security-devices.html"> Full Text</a>
@@ -118,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Low sophistication OT breaches on the rise, with hackers learning from easy wins<a href="https://www.scmagazine.com/home/security-news/iot/low-sophistication-ot-breaches-on-the-rise-with-hackers-learning-from-easy-wins/"> Full Text</a>
@@ -134,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How data manipulation could be used to trick fraud detection algorithms on e-commerce sites<a href="https://www.helpnetsecurity.com/2021/05/24/fraud-detection-algorithms/?&web_view=true"> Full Text</a>
@@ -150,7 +166,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Insurance Premiums Surged by Up to 30% in 2020<a href="https://www.infosecurity-magazine.com:443/news/cyberinsurance-premiums-surged-30/"> Full Text</a>
@@ -166,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple addresses three zero-day flaws actively exploited in the wild<a href="https://securityaffairs.co/wordpress/118227/breaking-news/apple-zero-day-flaws.html"> Full Text</a>
@@ -186,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 13 Million Users’ Personal Details Leaked Online After DailyQuiz Data Breach<a href="https://therecord.media/8-3-million-plaintext-passwords-exposed-in-dailyquiz-data-breach/?&web_view=true"> Full Text</a>
@@ -202,7 +218,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GDPR Anniversary: Security Leaders More Concerned About Litigation Than Fines<a href="https://www.infosecurity-magazine.com:443/news/litigation-regulatory-data-breaches/"> Full Text</a>
@@ -218,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Audio equipment maker Bose Corporation discloses a ransomware attack<a href="https://securityaffairs.co/wordpress/118234/malware/bose-corporation-ransomware-attack.html"> Full Text</a>
@@ -238,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open source ecosystem ripe for dependency confusion attacks, research finds<a href="https://portswigger.net/daily-swig/open-source-ecosystem-ripe-for-dependency-confusion-attacks-research-finds?&web_view=true"> Full Text</a>
@@ -254,7 +270,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Thunderbird was saving OpenPGP keys in plaintext after encryption snafu<a href="https://www.theregister.com/2021/05/24/mozilla_thunderbird_openpgp_plaintext_keys/?&web_view=true"> Full Text</a>
@@ -270,7 +286,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro Patches Vulnerabilities in Home Network Security Devices<a href="https://www.securityweek.com/trend-micro-patches-vulnerabilities-home-network-security-devices?&web_view=true"> Full Text</a>
@@ -286,7 +302,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hit: Tulsa Promises Recovery, Not Ransom Paying<a href="https://www.inforisktoday.com/blogs/ransomware-hit-tulsa-promises-recovery-ransom-paying-p-3047?&web_view=true"> Full Text</a>
@@ -302,7 +318,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Only Two-Fifths of UK Firms Report Data Breaches On Time<a href="https://www.infosecurity-magazine.com:443/news/only-twofifths-firms-report-data/"> Full Text</a>
@@ -318,7 +334,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: how cybercriminals abuse API keys to steal millions<a href="https://cybernews.com/security/report-how-cybercriminals-abuse-api-keys-to-steal-millions/?&web_view=true"> Full Text</a>
@@ -334,7 +350,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepSloth: Researchers find denial-of-service equivalent against machine learning systems<a href="https://portswigger.net/daily-swig/deepsloth-researchers-find-denial-of-service-equivalent-against-machine-learning-systems?&web_view=true"> Full Text</a>
@@ -350,7 +366,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Biden’s American Jobs Plan Seeks To Increase Cybersecurity<a href="https://www.forbes.com/sites/edwardsegal/2021/05/18/how-bidens-american-jobs-plan-seeks-to-increase-cybersecurity/?&web_view=true"> Full Text</a>
@@ -366,7 +382,7 @@ Forbes
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New High-Severity Vulnerability Reported in Pulse Connect Secure VPN<a href="https://thehackernews.com/2021/05/new-high-severity-vulnerability.html"> Full Text</a>
@@ -382,7 +398,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US banks are giving facial recognition a go; EU tightens regulations, FTC updates AI guidelines<a href="https://securityaffairs.co/wordpress/118230/security/us-banks-facial-recognition.html"> Full Text</a>
@@ -402,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Hacking Became a Professional Service in Russia<a href="https://www.newyorker.com/news/news-desk/how-hacking-became-a-professional-service-in-russia?&web_view=true"> Full Text</a>
@@ -418,7 +434,7 @@ New Yorker
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bluetooth Flaws Let Attackers Impersonate Legitimate Devices<a href="https://thehackernews.com/2021/05/new-bluetooth-flaws-let-attackers.html"> Full Text</a>
@@ -434,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple‌ Issues Patches to Combat Ongoing 0-Day Attacks on macOS, tvOS<a href="https://thehackernews.com/2021/05/apple-issues-patches-to-combat-ongoing.html"> Full Text</a>
