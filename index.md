@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Average losses from compromised cloud accounts is more than $500,000 a year<a href="https://www.scmagazine.com/home/security-news/cloud-security/average-losses-from-compromised-cloud-accounts-is-more-than-500000-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report also noted that 68% of respondents believe cloud account takeovers present a significant security risk to their organizations – and more than 50% indicated that the frequency and severity of cloud account compromises increased over the past year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor ‘Agrius’ Emerges to Launch Wiper Attacks Against Israeli Targets<a href="https://threatpost.com/agrius-wiper-attacks-israeli-targets/166474/"> Full Text</a>
 </p>
 <details>
