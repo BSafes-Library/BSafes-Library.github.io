@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DDoS hacking attempts drop in Q1 2021: Report<a href="https://ciso.economictimes.indiatimes.com/news/ddos-hacking-attempts-drop-in-q1-2021-report/82899135?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first quarter of 2021, the number of DDoS attacks dropped by 29% compared to the same period in 2020, but increased by 47% compared to the fourth quarter in 2020, says a Kaspersky report.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacking Attack on Japanese Dating App Omiai Puts 1.71 Million Users at Risk<a href="https://www.japantimes.co.jp/news/2021/05/22/business/tech/omiai-dating-app-hack-japan/?&web_view=true"> Full Text</a>
 </p>
 <details>
