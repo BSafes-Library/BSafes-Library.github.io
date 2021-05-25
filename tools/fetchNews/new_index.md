@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: DC attorney general files antitrust lawsuit against Amazon | DHS to require pipeline companies to report cyberattacks | Activists, parents urge Facebook to drop Instagram for kids plan<a href="https://thehill.com//policy/technology/overnights/555406-hillicon-valley-dc-attorney-general-files-antitrust-lawsuit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon found itself in hot water on Tuesday, with the Washington, D.C. attorney general filing an antitrust lawsuit against it, and over 600 Amazon tech workers separately calling on the company to address pollution levels concentrated in communities of color. Meanwhile, two branches of the Department of Homeland will soon issue guidance requiring pipeline companies to report cybersecurity incidents to federal authorities following the Colonial Pipeline hack, and thousands of activists and parents are calling on Facebook to drop its plans for an Instagram for kids. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers request investigation into Postal Service's covert operations program<a href="https://thehill.com//policy/cybersecurity/555397-lawmakers-request-investigation-into-postal-services-covert-operations"> Full Text</a>
 </p>
 <details>
