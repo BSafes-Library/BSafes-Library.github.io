@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government has warned 222 apps to remove data slurping code<a href="https://therecord.media/chinese-governments-has-warned-222-apps-to-remove-data-slurping-code/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three weeks after a data privacy protection law has entered into effect in China, the Beijing government has begun warning mobile app developers to remove intrusive data slurping code from their apps.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

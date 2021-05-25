@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Cybercrimes spiral during second surge of Covid, 197 cases this month<a href="https://ciso.economictimes.indiatimes.com/news/cyber-crimes-spiral-during-second-surge-of-covid-197-cases-this-month/82899294?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been an exponential rise in the number of cyber crimes during the ongoing corona pandemic. Along with fraud, there are extortion cases that have also increased.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

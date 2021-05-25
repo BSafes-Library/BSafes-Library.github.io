@@ -11,6 +11,34 @@ nav_order: 900029
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Audio maker Bose discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/audio-maker-bose-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bose Corporation (Bose) has disclosed a data breach following a ransomware attack that hit the company's systems in early March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logistics giant exposes customer data for over five months<a href="https://www.hackread.com/logistics-giant-leaks-data-lolz-when-alerted/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the company’s data has been exposed on an Elasticsearch server and comprises two sectors including login credentials and shipment details (including PII).
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Air India: Supplier Breach Hit 4.5 Million Passengers<a href="https://www.infosecurity-magazine.com:443/news/air-india-supplier-breach-45/"> Full Text</a>
 </p>
 <details>

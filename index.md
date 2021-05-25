@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Audio maker Bose discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/audio-maker-bose-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Express Fined for Sending Millions of Spam Messages<a href="https://threatpost.com/american-express-fined-spam/166412/"> Full Text</a>
@@ -66,7 +66,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Dearthy Star' pleads guilty to selling info of 65K health care employees<a href="https://www.bleepingcomputer.com/news/security/dearthy-star-pleads-guilty-to-selling-info-of-65k-health-care-employees/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MountLocker Using Windows API to Spread as Worm<a href="https://cyware.com/news/mountlocker-using-windows-api-to-spread-as-worm-9e105567"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Huawei to move toward software development in wake of US restrictions | DeSantis signs bill to fine tech companies for banning politicians | Twitter to rollout ticketed Spaces to limited group of users<a href="https://thehill.com//policy/technology/overnights/555163-hillicon-valley-huawei-to-move-toward-software-development-in"> Full Text</a>
@@ -114,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Link CryptoCore Attacks On Cryptocurrency Exchanges to North Korea<a href="https://thehackernews.com/2021/05/researchers-link-cryptocore-attacks-on.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Employee Indicted Over Illegal Document Removal<a href="https://www.infosecurity-magazine.com:443/news/fbi-analyst-takes-secrets-home/"> Full Text</a>
@@ -146,7 +146,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French intel found flaws in Bluetooth Core and Mesh specs<a href="https://securityaffairs.co/wordpress/118219/hacking/bluetooth-core-mesh-specs-flaws.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As market for cyber insurance booms, watchdog calls for better data<a href="https://www.scmagazine.com/home/security-news/data-breach/as-market-for-cyber-insurance-booms-watchdog-calls-for-better-data/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes three zero-days, one abused by XCSSET macOS malware<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-three-zero-days-one-abused-by-xcsset-macos-malware/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Double Extortion Becomes Old, Triple Extortion is the New Threat<a href="https://cyware.com/news/double-extortion-becomes-old-triple-extortion-is-the-new-threat-947f592c"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huawei to move toward software development in wake of US restrictions<a href="https://thehill.com//policy/cybersecurity/555125-huawei-to-move-towards-software-development-in-wake-of-us-restrictions"> Full Text</a>
@@ -230,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Lecturer Wins Lloyd’s Science of Risk Prize<a href="https://www.infosecurity-magazine.com:443/news/kimberely-tam-wins-lloyds-science/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zeppelin ransomware gang is back after a temporary pause<a href="https://securityaffairs.co/wordpress/118215/cyber-crime/zeppelin-ransomware-return.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI identifies 16 Conti ransomware attacks on US health care and first responder networks<a href="https://www.scmagazine.com/home/security-news/fbi-identifies-16-conti-ransomware-attacks-on-us-health-care-and-first-responder-networks/"> Full Text</a>
@@ -282,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluetooth flaws allow attackers to impersonate legitimate devices<a href="https://www.bleepingcomputer.com/news/security/bluetooth-flaws-allow-attackers-to-impersonate-legitimate-devices/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Application Attacks Witnessed a Surge with Remote Working<a href="https://cyware.com/news/application-attacks-witnessed-a-surge-with-remote-working-0c715171"> Full Text</a>
@@ -314,7 +314,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EY and CrowdStrike partner to deliver cloud-based security services<a href="https://www.scmagazine.com/home/security-news/cloud-security/ey-and-crowdstrike-partner-to-deliver-cloud-based-security-services/"> Full Text</a>
@@ -330,7 +330,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Cybercrimes spiral during second surge of Covid, 197 cases this month<a href="https://ciso.economictimes.indiatimes.com/news/cyber-crimes-spiral-during-second-surge-of-covid-197-cases-this-month/82899294?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Logistics giant exposes customer data for over five months<a href="https://www.hackread.com/logistics-giant-leaks-data-lolz-when-alerted/?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2021
+May 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indonesian govt blocks access to RaidForums hacking forum after data leak<a href="https://www.bleepingcomputer.com/news/security/indonesian-govt-blocks-access-to-raidforums-hacking-forum-after-data-leak/"> Full Text</a>

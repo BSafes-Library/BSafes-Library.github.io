@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Bitcoin Scams Demonstrate Power of Social Engineering Triggers<a href="https://www.securityweek.com/ongoing-bitcoin-scams-demonstrate-power-social-engineering-triggers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 17, 2021, the US Federal Trade Commission announced, “Since October 2020, reports have skyrocketed, with nearly 7,000 people reporting losses of more than $80 million on these scams.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,24 @@ nav_order: 900031
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Zeppelin ransomware gang is back after a temporary pause<a href="https://securityaffairs.co/wordpress/118215/cyber-crime/zeppelin-ransomware-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators behind the Zeppelin ransomware-as-a-service (RaaS) have resumed their operations after a temporary interruption.
+
+
+
+Researchers from BleepingComputer reported that operators behind the Zeppelin ransomware-as-a-service (RaaS), aka Buran, have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Michigan Man Admits Selling UPMC Employee Data<a href="https://www.infosecurity-magazine.com:443/news/michigan-man-admits-selling-upmc/"> Full Text</a>
 </p>
 <details>

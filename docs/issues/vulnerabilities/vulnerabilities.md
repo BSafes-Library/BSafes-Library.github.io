@@ -11,6 +11,52 @@ nav_order: 900220
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+French intel found flaws in Bluetooth Core and Mesh specs<a href="https://securityaffairs.co/wordpress/118219/hacking/bluetooth-core-mesh-specs-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could exploit a set of Bluetooth vulnerabilities, affecting the&nbsp;Core and Mesh Profile&nbsp;specifications, to conduct man-in-the-middle (MitM) attacks.
+
+
+
+Researchers at the french intelligence agency ANSSI discovered multiple flaws in the&nbsp;Bluetooth&nbsp;Core&nbsp;and&nbsp;Mesh...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes three zero-days, one abused by XCSSET macOS malware<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-three-zero-days-one-abused-by-xcsset-macos-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to patch three macOS and tvOS zero-day vulnerabilities attackers exploited in the wild, with the former being abused by the XCSSET&nbsp;malware to bypass macOS privacy protections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluetooth flaws allow attackers to impersonate legitimate devices<a href="https://www.bleepingcomputer.com/news/security/bluetooth-flaws-allow-attackers-to-impersonate-legitimate-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could abuse vulnerabilities discovered in the&nbsp;Bluetooth&nbsp;Core and Mesh Profile&nbsp;specifications to impersonate legitimate devices during the pairing process and launch&nbsp;man-in-the-middle (MitM) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 13 flaws in Nagios IT Monitoring Software pose serious risk to orgs<a href="https://securityaffairs.co/wordpress/118207/hacking/nagios-it-monitoring-flaws.html"> Full Text</a>
 </p>
 <details>

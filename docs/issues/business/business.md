@@ -11,6 +11,34 @@ nav_order: 900027
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Huawei to move toward software development in wake of US restrictions<a href="https://thehill.com//policy/cybersecurity/555125-huawei-to-move-towards-software-development-in-wake-of-us-restrictions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese telecommunications giant Huawei’s leadership is moving the company toward software development in the face of crippling pushback by many Western nations against use of the company’s hardware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EY and CrowdStrike partner to deliver cloud-based security services<a href="https://www.scmagazine.com/home/security-news/cloud-security/ey-and-crowdstrike-partner-to-deliver-cloud-based-security-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alliance combines CrowdStrike’s Falcon security platform and incident response – including digital forensics and investigations – with EY’s consulting and risk management services.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 What To Do When Your Business Is Hacked<a href="https://thehackernews.com/2021/05/what-to-do-when-your-business-is-hacked.html"> Full Text</a>
 </p>
 <details>

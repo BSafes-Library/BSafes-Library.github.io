@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Lecturer Wins Lloyd’s Science of Risk Prize<a href="https://www.infosecurity-magazine.com:443/news/kimberely-tam-wins-lloyds-science/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University of Plymouth lecturer scoops prize for work on maritime cybersecurity research
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

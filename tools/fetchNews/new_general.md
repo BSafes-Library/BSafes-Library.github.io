@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Huawei to move toward software development in wake of US restrictions | DeSantis signs bill to fine tech companies for banning politicians | Twitter to rollout ticketed Spaces to limited group of users<a href="https://thehill.com//policy/technology/overnights/555163-hillicon-valley-huawei-to-move-toward-software-development-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Huawei is moving towards a software development-driven future after years of nations including the U.S. cracking down on its 5G hardware due to security concerns. Meanwhile, Florida Gov. Ron DeSantisRon DeSantisIf Biden-Harris falters, who would be the strongest Democrat for 2024? Arizona fails to pass ban on 'vaccine passports' On The Money: White House counters with .7 trillion infrastructure proposal, GOP unimpressed | USDA to start loan forgiveness for thousands of minority farmers MORE (R) signed a bill that will fine social media platforms for banning politicians, and Twitter will roll out ticketed options for its audio room feature.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As market for cyber insurance booms, watchdog calls for better data<a href="https://www.scmagazine.com/home/security-news/data-breach/as-market-for-cyber-insurance-booms-watchdog-calls-for-better-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of companies opting for cyber insurance has doubled in recent years, but costs may continue to rise as insurer payouts get bigger.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

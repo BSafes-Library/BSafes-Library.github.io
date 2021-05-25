@@ -11,6 +11,20 @@ nav_order: 900180
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Double Extortion Becomes Old, Triple Extortion is the New Threat<a href="https://cyware.com/news/double-extortion-becomes-old-triple-extortion-is-the-new-threat-947f592c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This technique involves third parties linked to the victims, including service providers, company clients, and external colleagues, as they are massively impacted by data breaches resulting from ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Zeppelin ransomware comes back to life with updated versions<a href="https://www.bleepingcomputer.com/news/security/zeppelin-ransomware-comes-back-to-life-with-updated-versions/"> Full Text</a>
 </p>
 <details>

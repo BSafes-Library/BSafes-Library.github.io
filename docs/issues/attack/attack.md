@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link CryptoCore Attacks On Cryptocurrency Exchanges to North Korea<a href="https://thehackernews.com/2021/05/researchers-link-cryptocore-attacks-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored hackers affiliated with North Korea have been behind a slew of attacks on cryptocurrency exchanges  over the past three years, new evidence has revealed.  Attributing the attack with "medium-high" likelihood to the Lazarus Group (aka APT38 or Hidden Cobra), researchers from Israeli cybersecurity firm ClearSky said the campaign, dubbed " CryptoCore ," targeted crypto exchanges in Israel, Japan, Europe, and the U.S., resulting in the theft of millions of dollars worth of virtual currencies.   The&nbsp; findings &nbsp;are a consequence of piecing together artifacts from a series of isolated but similar reports detailed by&nbsp; F-Secure , Japanese CERT&nbsp; JPCERT/CC , and&nbsp; NTT Security &nbsp;over the past few months.  Since emerging on the scene in 2009,&nbsp; Hidden Cobra &nbsp;actors have used their offensive cyber capabilities to carry out espionage and cyber cryptocurrency heists against businesses and critical infrastructure. The adversary's targeting aligns with North Korean
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI identifies 16 Conti ransomware attacks on US health care and first responder networks<a href="https://www.scmagazine.com/home/security-news/fbi-identifies-16-conti-ransomware-attacks-on-us-health-care-and-first-responder-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the FBI, these health care and first responder networks are among the more than 400 organizations worldwide victimized by Conti – and over 290 are located in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Application Attacks Witnessed a Surge with Remote Working<a href="https://cyware.com/news/application-attacks-witnessed-a-surge-with-remote-working-0c715171"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the NTT 2021 Global Threat Intelligence Report web application and application-specific attacks accounted for 67% of attacks in 2020. The data has been collected from January 1, 2020, to December 30, 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

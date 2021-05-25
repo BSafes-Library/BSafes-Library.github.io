@@ -11,6 +11,34 @@ nav_order: 900163
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+American Express Fined for Sending Millions of Spam Messages<a href="https://threatpost.com/american-express-fined-spam/166412/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British regulators ruled that Amex sent 4 million nuisance emails to opted-out customers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Dearthy Star' pleads guilty to selling info of 65K health care employees<a href="https://www.bleepingcomputer.com/news/security/dearthy-star-pleads-guilty-to-selling-info-of-65k-health-care-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justin Sean Johnson, a 30-year-old from Detroit, Michigan, has pleaded guilty to stealing&nbsp;the&nbsp;personally identifiable information (PII) of 65,000 employees of health care provider and insurer University of Pittsburgh Medical Center (UPMC) and selling it on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Amex Fined After Sending Over Four Million Spam Emails<a href="https://www.infosecurity-magazine.com:443/news/amex-fined-sending-four-million/"> Full Text</a>
 </p>
 <details>

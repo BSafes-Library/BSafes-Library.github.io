@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Michigan Man Admits Selling UPMC Employee Data<a href="https://www.infosecurity-magazine.com:443/news/michigan-man-admits-selling-upmc/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"TheDearthStar" hacker confesses to stealing and selling PII of more than 65,000 medical center employees
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
