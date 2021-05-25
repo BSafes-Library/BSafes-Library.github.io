@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How Biden’s American Jobs Plan Seeks To Increase Cybersecurity<a href="https://www.forbes.com/sites/edwardsegal/2021/05/18/how-bidens-american-jobs-plan-seeks-to-increase-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House, highlighting cybersecurity as "one of the preeminent challenges of our time," underscored how President Joe Biden’s American Jobs Plan would increase the country’s cyber defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New High-Severity Vulnerability Reported in Pulse Connect Secure VPN<a href="https://thehackernews.com/2021/05/new-high-severity-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti, the company behind Pulse Secure VPN appliances, has published a security advisory for a high severity vulnerability that may allow an authenticated remote attacker to execute arbitrary code with elevated privileges.  "Buffer Overflow in Windows File Resource Profiles in 9.X allows a remote authenticated user with privileges to browse SMB shares to execute arbitrary code as the root user," the company  said  in an alert published on May 14. "As of version 9.1R3, this permission is not enabled by default."  The flaw, identified as CVE-2021-22908, has a CVSS score of 8.5 out of a maximum of 10 and impacts Pulse Connect Secure versions 9.0Rx and 9.1Rx. In a report detailing the vulnerability, the CERT Coordination Center said the issue stems from the gateway's ability to connect to Windows file shares through a number of CGI endpoints that could be leveraged to carry out the attack.   "When specifying a long server name for some SMB operations, the 
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US banks are giving facial recognition a go; EU tightens regulations, FTC updates AI guidelines<a href="https://securityaffairs.co/wordpress/118230/security/us-banks-facial-recognition.html"> Full Text</a>
 </p>
 <details>
