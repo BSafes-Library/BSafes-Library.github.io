@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Targets Kubernetes Clusters and Infiltrates Nearly 50,000 IPs in Worm-like Attack<a href="https://www.trendmicro.com/en_us/research/21/e/teamtnt-targets-kubernetes--nearly-50-000-ips-compromised.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of the compromised nodes were from China and the United States — identified in the ISP list, which had Chinese and US-based providers as the highest hits, including some CSPs.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Normal<a href="https://www.scmagazine.com/home/sponsor-content/the-new-normal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As governments start loosening the restrictions due to COVID-19, we are starting to see a change in attack vectors. In fact, the new normal for cyber attacks is starting to look a lot like the old normal. FortiGuard Labs provides its insights in the changes it is seeing in attack vectors and provides insights into…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DDoS hacking attempts drop in Q1 2021: Report<a href="https://ciso.economictimes.indiatimes.com/news/ddos-hacking-attempts-drop-in-q1-2021-report/82899135?&web_view=true"> Full Text</a>
 </p>
 <details>
