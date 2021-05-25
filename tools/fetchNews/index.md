@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex Botnet is Still Active and Thriving<a href="https://cyware.com/news/phorpiex-botnet-is-still-active-and-thriving-41c2997b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decade-old botnets continue to adapt to the current threat landscape, as seen in the case of wide-ranging malicious activities of the resilient Phorpiex botnet. Though, for many years, the Phopiex botnet has had the same internal infrastructure with C2 mechanisms and source code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian hacking group Agrius pretends to encrypt files for a ransom, destroys them instead<a href="https://www.zdnet.com/article/iranian-hacking-group-agrius-pretends-to-encrypt-files-for-a-ransom-destroys-it-instead/?&web_view=true"> Full Text</a>
 </p>
 <details>
