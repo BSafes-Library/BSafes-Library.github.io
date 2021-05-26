@@ -11,6 +11,62 @@ nav_order: 900029
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Domino's India discloses data breach after hackers sell data online<a href="https://www.bleepingcomputer.com/news/security/dominos-india-discloses-data-breach-after-hackers-sell-data-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Domino's India has disclosed a data breach after a threat actor hacked their systems and sold their stolen data on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Apps Exposing Personal Data of Millions of Users<a href="https://cyware.com/news/mobile-apps-exposing-personal-data-of-millions-of-users-bebe5774"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insecure data storage is the most common security flaw in Android apps. Recently, security analysts listed down 23 Android applications leaking personal data of over 100 million users due to misconfigurations in third-party cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Healthcare Non-Profit RMCHCS Reports Data Breach Affecting 200,000 Patients, Employees<a href="https://portswigger.net/daily-swig/us-healthcare-non-profit-reports-data-breach-impacting-200-000-patients-employees?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potentially exposed information includes names, dates of birth, postal addresses, telephone numbers, and email addresses, SSNs, driver’s license, passport, and tribal ID numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bose Admits Ransomware Hit: Employee Data Accessed<a href="https://threatpost.com/bose-ransomware-employee-data/166443/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The consumer-electronics stalwart was able to recover without paying a ransom, it said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 13 Million Users’ Personal Details Leaked Online After DailyQuiz Data Breach<a href="https://therecord.media/8-3-million-plaintext-passwords-exposed-in-dailyquiz-data-breach/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

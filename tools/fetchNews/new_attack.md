@@ -11,6 +11,62 @@ nav_order: 900015
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor ‘Agrius’ Emerges to Launch Wiper Attacks Against Israeli Targets<a href="https://threatpost.com/agrius-wiper-attacks-israeli-targets/166474/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is using ransomware intended to make its espionage and destruction efforts appear financially motivated.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov Supply Chain Attack Still Haunts Organizations<a href="https://cyware.com/news/codecov-supply-chain-attack-still-haunts-organizations-c24300d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Does the CodeCov supply chain attack has echoes of SolarWinds? More victims surface with time in yet another months-long ripple effect of a supply chain attack. Users of Codecov are suggested to perform a thorough scan of their CI-CD pipelines and change their secret keys and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Targets Kubernetes Clusters and Infiltrates Nearly 50,000 IPs in Worm-like Attack<a href="https://www.trendmicro.com/en_us/research/21/e/teamtnt-targets-kubernetes--nearly-50-000-ips-compromised.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of the compromised nodes were from China and the United States — identified in the ISP list, which had Chinese and US-based providers as the highest hits, including some CSPs.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Attack on Japanese Dating App Omiai Puts 1.71 Million Users at Risk<a href="https://www.japantimes.co.jp/news/2021/05/22/business/tech/omiai-dating-app-hack-japan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese dating app operator Net Marketing Co. said Friday personal data of 1.71 million users, including names and face photos, was likely leaked due to unauthorized access to its server.
+</details>
+<div style="text-align: right" markdown="1">
+The Japan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Audio equipment maker Bose Corporation discloses a ransomware attack<a href="https://securityaffairs.co/wordpress/118234/malware/bose-corporation-ransomware-attack.html"> Full Text</a>
 </p>
 <details>

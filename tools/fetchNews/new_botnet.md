@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex Botnet is Still Active and Thriving<a href="https://cyware.com/news/phorpiex-botnet-is-still-active-and-thriving-41c2997b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decade-old botnets continue to adapt to the current threat landscape, as seen in the case of wide-ranging malicious activities of the resilient Phorpiex botnet. Though, for many years, the Phopiex botnet has had the same internal infrastructure with C2 mechanisms and source code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

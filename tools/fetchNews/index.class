@@ -34,6 +34,507 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security pros rely on peer groups and open communication for help with stress<a href="https://www.scmagazine.com/home/security-news/security-pros-rely-on-peer-groups-and-open-communication-for-help-with-stress/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than ever, it’s vital that infosec colleagues and company leadership lend a sympathetic ear and establish a trusting relationship.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post-quantum cryptographic standards to be finalized later this year<a href="https://www.scmagazine.com/home/government/post-quantum-cryptographic-standards-to-be-finalized-later-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new cryptographic standards will likely underpin IT design and guide industrial purchasing decisions for decades to come.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: DC attorney general files antitrust lawsuit against Amazon | DHS to require pipeline companies to report cyberattacks | Activists, parents urge Facebook to drop Instagram for kids plan<a href="https://thehill.com//policy/technology/overnights/555406-hillicon-valley-dc-attorney-general-files-antitrust-lawsuit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon found itself in hot water on Tuesday, with the Washington, D.C. attorney general filing an antitrust lawsuit against it, and over 600 Amazon tech workers separately calling on the company to address pollution levels concentrated in communities of color. Meanwhile, two branches of the Department of Homeland will soon issue guidance requiring pipeline companies to report cybersecurity incidents to federal authorities following the Colonial Pipeline hack, and thousands of activists and parents are calling on Facebook to drop its plans for an Instagram for kids. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers request investigation into Postal Service's covert operations program<a href="https://thehill.com//policy/cybersecurity/555397-lawmakers-request-investigation-into-postal-services-covert-operations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of the House Oversight and Reform Committee on Tuesday requested an investigation into a branch of the U.S. Postal Service in the wake of reports that it carried out online surveillance of Americans’ social media posts. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixes high severity flaw in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/118257/security/pulse-connect-secure-vpn-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Pulse Connect Secure VPN could allow an authenticated remote attacker to execute arbitrary code with elevated privileges.
+
+
+
+Ivanti addressed a high severity Buffer Overflow vulnerability in Secure VPN appliances that could allow a remote authenticated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average losses from compromised cloud accounts is more than $500,000 a year<a href="https://www.scmagazine.com/home/security-news/cloud-security/average-losses-from-compromised-cloud-accounts-is-more-than-500000-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report also noted that 68% of respondents believe cloud account takeovers present a significant security risk to their organizations – and more than 50% indicated that the frequency and severity of cloud account compromises increased over the past year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor ‘Agrius’ Emerges to Launch Wiper Attacks Against Israeli Targets<a href="https://threatpost.com/agrius-wiper-attacks-israeli-targets/166474/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is using ransomware intended to make its espionage and destruction efforts appear financially motivated.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Zero-Day Flaw in MacOS that Allows for Sneaky Screenshots<a href="https://threatpost.com/apple-patches-zero-day-flaw-in-macos-that-allows-for-sneaky-screenshots/166428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Jamf discovered the XCSSET malware exploiting the vulnerability, patched in Big Sur 11.4, to take photos of people’s computer screens without their knowing.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US to Regulate Pipeline Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/us-to-regulate-pipeline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Department of Homeland Security to issue first cybersecurity regulations for pipelines after Colonial cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Domino's India discloses data breach after hackers sell data online<a href="https://www.bleepingcomputer.com/news/security/dominos-india-discloses-data-breach-after-hackers-sell-data-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Domino's India has disclosed a data breach after a threat actor hacked their systems and sold their stolen data on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical bug affecting all vCenter Server installs<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-bug-affecting-all-vcenter-server-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware urges customers to patch a critical remote code execution (RCE) vulnerability in the Virtual SAN Health Check plug-in and impacting all vCenter Server deployments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Apps Exposing Personal Data of Millions of Users<a href="https://cyware.com/news/mobile-apps-exposing-personal-data-of-millions-of-users-bebe5774"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insecure data storage is the most common security flaw in Android apps. Recently, security analysts listed down 23 Android applications leaking personal data of over 100 million users due to misconfigurations in third-party cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-tailers See Surge in Automated Fraud<a href="https://www.infosecurity-magazine.com:443/news/etailers-see-surge-in-automated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research into 2020 automated e-commerce fraud finds higher volume, frequency and sophistication
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex Botnet is Still Active and Thriving<a href="https://cyware.com/news/phorpiex-botnet-is-still-active-and-thriving-41c2997b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decade-old botnets continue to adapt to the current threat landscape, as seen in the case of wide-ranging malicious activities of the resilient Phorpiex botnet. Though, for many years, the Phopiex botnet has had the same internal infrastructure with C2 mechanisms and source code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hacking group Agrius pretends to encrypt files for a ransom, destroys them instead<a href="https://www.zdnet.com/article/iranian-hacking-group-agrius-pretends-to-encrypt-files-for-a-ransom-destroys-it-instead/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group uses a combination of its own custom toolsets and readily available offensive security software to deploy either a destructive wiper or a custom wiper-turned-ransomware variant.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coast Guard to Create Red Team<a href="https://www.infosecurity-magazine.com:443/news/coast-guard-to-create-red-team/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Coast Guard to establish Cyber Operational Assessments Branch and form first red team
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STRRAT - The RAT that Wants to be a Ransomware<a href="https://cyware.com/news/strrat-the-rat-that-wants-to-be-a-ransomware-55762f6b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning against a malware campaign by STRRAT, a RAT first spotted in June 2020. It camouflages as ransomware and supports various features such as logging keystrokes, collecting browser passwords, and running remote commands and PowerShell. Organizations should stay alert and offer tra ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov Supply Chain Attack Still Haunts Organizations<a href="https://cyware.com/news/codecov-supply-chain-attack-still-haunts-organizations-c24300d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Does the CodeCov supply chain attack has echoes of SolarWinds? More victims surface with time in yet another months-long ripple effect of a supply chain attack. Users of Codecov are suggested to perform a thorough scan of their CI-CD pipelines and change their secret keys and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Healthcare Non-Profit RMCHCS Reports Data Breach Affecting 200,000 Patients, Employees<a href="https://portswigger.net/daily-swig/us-healthcare-non-profit-reports-data-breach-impacting-200-000-patients-employees?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potentially exposed information includes names, dates of birth, postal addresses, telephone numbers, and email addresses, SSNs, driver’s license, passport, and tribal ID numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS to require pipeline companies to report cyberattacks<a href="https://thehill.com//policy/cybersecurity/555297-dhs-to-issue-directive-requiring-pipeline-companies-to-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) will issue a directive later this week requiring all pipeline companies to report cyber incidents to federal authorities in the wake of a devastating ransomware attack on Colonial Pipeline that forced a shutdown of operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Bugs Threaten Home Network Security<a href="https://threatpost.com/trend-micro-bugs-home-network-security/166453/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security vendor’s network management and threat protection station can open the door to code execution, DoS and potential PC takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security startup Tessian, which uses AI to fight social engineering, trousers $65M<a href="https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C round was led by March Capital. Existing investors Accel, Balderton Capital, Latitude, and Sequoia Capital also participated, along with new investor Schroder Adveq.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victims lose millions to healthcare related eCrime<a href="https://www.helpnetsecurity.com/2021/05/25/healthcare-related-ecrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victim losses from healthcare-related eCrime in the U.S. rose by 2,473 percent during 2020 as the COVID-19 pandemic swept through the nation and world, CrowdStrike reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Targets Kubernetes Clusters and Infiltrates Nearly 50,000 IPs in Worm-like Attack<a href="https://www.trendmicro.com/en_us/research/21/e/teamtnt-targets-kubernetes--nearly-50-000-ips-compromised.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of the compromised nodes were from China and the United States — identified in the ISP list, which had Chinese and US-based providers as the highest hits, including some CSPs.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Normal<a href="https://www.scmagazine.com/home/sponsor-content/the-new-normal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As governments start loosening the restrictions due to COVID-19, we are starting to see a change in attack vectors. In fact, the new normal for cyber attacks is starting to look a lot like the old normal. FortiGuard Labs provides its insights in the changes it is seeing in attack vectors and provides insights into…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS hacking attempts drop in Q1 2021: Report<a href="https://ciso.economictimes.indiatimes.com/news/ddos-hacking-attempts-drop-in-q1-2021-report/82899135?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first quarter of 2021, the number of DDoS attacks dropped by 29% compared to the same period in 2020, but increased by 47% compared to the fourth quarter in 2020, says a Kaspersky report.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Attack on Japanese Dating App Omiai Puts 1.71 Million Users at Risk<a href="https://www.japantimes.co.jp/news/2021/05/22/business/tech/omiai-dating-app-hack-japan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese dating app operator Net Marketing Co. said Friday personal data of 1.71 million users, including names and face photos, was likely leaked due to unauthorized access to its server.
+</details>
+<div style="text-align: right" markdown="1">
+The Japan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hacking group targets Israel with wiper disguised as ransomware<a href="https://www.bleepingcomputer.com/news/security/iranian-hacking-group-targets-israel-with-wiper-disguised-as-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian hacking group has been observed camouflaging destructive attacks against Israeli targets as ransomware attacks while maintaining access to victims' networks for months in what looks like an extensive espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bose Admits Ransomware Hit: Employee Data Accessed<a href="https://threatpost.com/bose-ransomware-employee-data/166443/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The consumer-electronics stalwart was able to recover without paying a ransom, it said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPNs Get Quick Fix for Critical RCE<a href="https://threatpost.com/pulse-secure-vpns-critical-rce/166437/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the workaround XML files automatically deactivates protection from an earlier workaround: a potential path to older vulnerabilities being opened again.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolution of JSWorm ransomware<a href="https://securelist.com/evolution-of-jsworm-ransomware/102428/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several versions of JSWorm were released as part of each “rebranded” variant that altered different aspects of the code, renamed file extensions, cryptographic schemes, and encryption keys.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

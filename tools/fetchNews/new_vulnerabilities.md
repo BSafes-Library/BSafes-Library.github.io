@@ -11,6 +11,80 @@ nav_order: 900220
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixes high severity flaw in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/118257/security/pulse-connect-secure-vpn-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Pulse Connect Secure VPN could allow an authenticated remote attacker to execute arbitrary code with elevated privileges.
+
+
+
+Ivanti addressed a high severity Buffer Overflow vulnerability in Secure VPN appliances that could allow a remote authenticated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Zero-Day Flaw in MacOS that Allows for Sneaky Screenshots<a href="https://threatpost.com/apple-patches-zero-day-flaw-in-macos-that-allows-for-sneaky-screenshots/166428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Jamf discovered the XCSSET malware exploiting the vulnerability, patched in Big Sur 11.4, to take photos of people’s computer screens without their knowing.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical bug affecting all vCenter Server installs<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-bug-affecting-all-vcenter-server-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware urges customers to patch a critical remote code execution (RCE) vulnerability in the Virtual SAN Health Check plug-in and impacting all vCenter Server deployments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Bugs Threaten Home Network Security<a href="https://threatpost.com/trend-micro-bugs-home-network-security/166453/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security vendor’s network management and threat protection station can open the door to code execution, DoS and potential PC takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPNs Get Quick Fix for Critical RCE<a href="https://threatpost.com/pulse-secure-vpns-critical-rce/166437/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the workaround XML files automatically deactivates protection from an earlier workaround: a potential path to older vulnerabilities being opened again.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro fixes 3 flaws in Home Network Security Devices<a href="https://securityaffairs.co/wordpress/118249/security/trend-micro-fixes-3-flaws-in-home-network-security-devices.html"> Full Text</a>
 </p>
 <details>

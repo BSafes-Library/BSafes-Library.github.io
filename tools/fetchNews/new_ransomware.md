@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hacking group Agrius pretends to encrypt files for a ransom, destroys them instead<a href="https://www.zdnet.com/article/iranian-hacking-group-agrius-pretends-to-encrypt-files-for-a-ransom-destroys-it-instead/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group uses a combination of its own custom toolsets and readily available offensive security software to deploy either a destructive wiper or a custom wiper-turned-ransomware variant.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hacking group targets Israel with wiper disguised as ransomware<a href="https://www.bleepingcomputer.com/news/security/iranian-hacking-group-targets-israel-with-wiper-disguised-as-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian hacking group has been observed camouflaging destructive attacks against Israeli targets as ransomware attacks while maintaining access to victims' networks for months in what looks like an extensive espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolution of JSWorm ransomware<a href="https://securelist.com/evolution-of-jsworm-ransomware/102428/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several versions of JSWorm were released as part of each “rebranded” variant that altered different aspects of the code, renamed file extensions, cryptographic schemes, and encryption keys.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

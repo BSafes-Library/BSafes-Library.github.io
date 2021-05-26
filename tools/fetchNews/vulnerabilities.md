@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes 3 flaws in Home Network Security Devices<a href="https://securityaffairs.co/wordpress/118249/security/trend-micro-fixes-3-flaws-in-home-network-security-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro fixed some flaws in Trend Micro Home Network Security devices that could be exploited to elevate privileges or achieve arbitrary authentication.
+
+
+
+Trend Micro fixed three vulnerabilities in Home Network Security devices that could be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How data manipulation could be used to trick fraud detection algorithms on e-commerce sites<a href="https://www.helpnetsecurity.com/2021/05/24/fraud-detection-algorithms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data poisoning attack aims to modify a machine learning model’s training set by inserting incorrectly labeled data with the goal of tricking it into making incorrect predictions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addresses three zero-day flaws actively exploited in the wild<a href="https://securityaffairs.co/wordpress/118227/breaking-news/apple-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has addressed three zero-day vulnerabilities in macOS and tvOS actively exploited in the wild by threat actors.
+
+
+
+Apple has released security updates to address three zero-day vulnerabilities affecting macOS and tvOS which have been exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Thunderbird was saving OpenPGP keys in plaintext after encryption snafu<a href="https://www.theregister.com/2021/05/24/mozilla_thunderbird_openpgp_plaintext_keys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2021-29956 and assessed as “low” impact by Mozilla, existed in the free open-source Thunderbird email client between version 78.8.1 and version 78.10.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Vulnerabilities in Home Network Security Devices<a href="https://www.securityweek.com/trend-micro-patches-vulnerabilities-home-network-security-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities identified by security researchers with Cisco’s Talos unit in Trend Micro Home Network Security devices could be exploited to elevate privileges or achieve arbitrary authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New High-Severity Vulnerability Reported in Pulse Connect Secure VPN<a href="https://thehackernews.com/2021/05/new-high-severity-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti, the company behind Pulse Secure VPN appliances, has published a security advisory for a high severity vulnerability that may allow an authenticated remote attacker to execute arbitrary code with elevated privileges.  "Buffer Overflow in Windows File Resource Profiles in 9.X allows a remote authenticated user with privileges to browse SMB shares to execute arbitrary code as the root user," the company&nbsp; said &nbsp;in an alert published on May 14. "As of version 9.1R3, this permission is not enabled by default."  The flaw, identified as CVE-2021-22908, has a CVSS score of 8.5 out of a maximum of 10 and impacts Pulse Connect Secure versions 9.0Rx and 9.1Rx. In a report detailing the vulnerability, the CERT Coordination Center said the issue stems from the gateway's ability to connect to Windows file shares through a number of CGI endpoints that could be leveraged to carry out the attack.   "When specifying a long server name for some SMB operations, the 
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bluetooth Flaws Let Attackers Impersonate Legitimate Devices<a href="https://thehackernews.com/2021/05/new-bluetooth-flaws-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries could exploit newly discovered security weaknesses in Bluetooth Core and Mesh Profile Specifications to masquerade as legitimate devices and carry out man-in-the-middle (MitM) attacks.  "Devices supporting the Bluetooth&nbsp; Core &nbsp;and&nbsp; Mesh Specifications &nbsp;are vulnerable to impersonation attacks and AuthValue disclosure that could allow an attacker to impersonate a legitimate device during pairing," the Carnegie Mellon CERT Coordination Center&nbsp; said &nbsp;in an advisory published Monday.  The two Bluetooth specifications define the standard that allows for many-to-many communication over Bluetooth to facilitate data transfer between devices in an ad-hoc network.   The Bluetooth Impersonation AttackS, aka BIAS , enable a malicious actor to establish a secure connection with a victim, without having to know and authenticate the long-term key shared between the victims, thus effectively bypassing Bluetooth's authentication mechanism.  "The BIAS attacks are the first
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple‌ Issues Patches to Combat Ongoing 0-Day Attacks on macOS, tvOS<a href="https://thehackernews.com/2021/05/apple-issues-patches-to-combat-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday rolled out security updates for&nbsp; iOS ,&nbsp; macOS ,&nbsp; tvOS ,&nbsp; watchOS , and&nbsp; Safari &nbsp;web browser to fix multiple vulnerabilities, including an actively exploited zero-day flaw in macOS Big Sur and expand patches for two previously disclosed zero-day flaws.&nbsp;  Tracked as CVE-2021-30713, the zero-day concerns a permissions issue in Apple's Transparency, Consent, and Control ( TCC ) framework in macOS that maintains a database of each user's consents. The iPhone maker acknowledged that the issue may have been exploited in the wild but stopped short of sharing specifics.   The company noted that it rectified the problem with improved validation.  However, in a separate report, mobile device management company Jamf said the bypass flaw was being actively exploited by XCSSET, a malware that's been out in the wild since August 2020 and known to propagate via modified&nbsp; Xcode IDE projects &nbsp;hosted on GitHub repositories and plant malicious packages into legitimate apps ins
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

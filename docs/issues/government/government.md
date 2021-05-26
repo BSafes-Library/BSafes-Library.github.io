@@ -11,6 +11,48 @@ nav_order: 900075
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US to Regulate Pipeline Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/us-to-regulate-pipeline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Department of Homeland Security to issue first cybersecurity regulations for pipelines after Colonial cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coast Guard to Create Red Team<a href="https://www.infosecurity-magazine.com:443/news/coast-guard-to-create-red-team/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Coast Guard to establish Cyber Operational Assessments Branch and form first red team
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS to require pipeline companies to report cyberattacks<a href="https://thehill.com//policy/cybersecurity/555297-dhs-to-issue-directive-requiring-pipeline-companies-to-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) will issue a directive later this week requiring all pipeline companies to report cyber incidents to federal authorities in the wake of a devastating ransomware attack on Colonial Pipeline that forced a shutdown of operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hack, Disinform, Deny: Russia's Cybersecurity Strategy<a href="https://www.securityweek.com/hack-disinform-deny-russias-cybersecurity-strategy?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

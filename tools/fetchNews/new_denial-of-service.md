@@ -11,6 +11,20 @@ nav_order: 900042
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DDoS hacking attempts drop in Q1 2021: Report<a href="https://ciso.economictimes.indiatimes.com/news/ddos-hacking-attempts-drop-in-q1-2021-report/82899135?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first quarter of 2021, the number of DDoS attacks dropped by 29% compared to the same period in 2020, but increased by 47% compared to the fourth quarter in 2020, says a Kaspersky report.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DeepSloth: Researchers find denial-of-service equivalent against machine learning systems<a href="https://portswigger.net/daily-swig/deepsloth-researchers-find-denial-of-service-equivalent-against-machine-learning-systems?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
