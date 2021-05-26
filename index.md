@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Europe’s Top Human Rights Court Rules UK Mass Surveillance Illegal<a href="https://www.infosecurity-magazine.com:443/news/europes-court-rules-uk-mass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Case could pave way for challenges to Snooper’s Charter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Not as complex as we thought: Cyberattacks on operational technology are on the rise<a href="https://www.zdnet.com/article/not-as-complex-as-we-thought-cyberattacks-on-operational-technology-are-on-the-rise/?&web_view=true"> Full Text</a>
 </p>
 <details>
