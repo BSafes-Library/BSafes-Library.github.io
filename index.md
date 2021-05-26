@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Security pros rely on peer groups and open communication for help with stress<a href="https://www.scmagazine.com/home/security-news/security-pros-rely-on-peer-groups-and-open-communication-for-help-with-stress/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than ever, it’s vital that infosec colleagues and company leadership lend a sympathetic ear and establish a trusting relationship.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Post-quantum cryptographic standards to be finalized later this year<a href="https://www.scmagazine.com/home/government/post-quantum-cryptographic-standards-to-be-finalized-later-this-year/"> Full Text</a>
 </p>
 <details>
