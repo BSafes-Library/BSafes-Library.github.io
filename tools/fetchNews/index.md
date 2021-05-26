@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agrius group targets Israel with data-wipers disguised as ransomware<a href="https://securityaffairs.co/wordpress/118263/apt/agrius-wipers-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iran-linked threat actor tracked as Agrius employed data-wipers disguised as ransomware to destroy targeted IT infrastructure.
+
+
+
+Researchers from cyber-security firm SentinelOne discovered a new Iran-linked threat actor, tracked as Agrius, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
