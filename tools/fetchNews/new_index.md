@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DHS to issue first cybersecurity regulations for pipelines after Colonial hack<a href="https://www.washingtonpost.com/business/2021/05/25/colonial-hack-pipeline-dhs-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration will issue a security directive this week requiring pipeline companies to report cyber incidents to federal authorities, senior DHS officials said.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarMarker Backdoor Pretends to be Legit PDFescape Installer<a href="https://www.cyren.com/blog/articles/solarmarker-backdoor-pretends-to-be-legit-pdfescape-installer/?&web_view=true"> Full Text</a>
 </p>
 <details>

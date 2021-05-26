@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarMarker Backdoor Pretends to be Legit PDFescape Installer<a href="https://www.cyren.com/blog/articles/solarmarker-backdoor-pretends-to-be-legit-pdfescape-installer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarMarker backdoor pretends to be a legit PDFescape installer. It creates an encoded file and then executes a Power Shell Script command to decode and execute the malicious script.
+</details>
+<div style="text-align: right" markdown="1">
+Cyren
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Agrius group targets Israel with data-wipers disguised as ransomware<a href="https://securityaffairs.co/wordpress/118263/apt/agrius-wipers-attacks.html"> Full Text</a>
 </p>
 <details>
