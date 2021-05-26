@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Found in VMware vCenter Server — Patch Now!<a href="https://thehackernews.com/2021/05/critical-rce-vulnerability-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has rolled out patches to address a critical security vulnerability in vCenter Server that could be leveraged by an adversary to execute arbitrary code on the server.  Tracked as CVE-2021-21985 (CVSS score 9.8), the issue stems from a lack of input validation in the Virtual SAN ( vSAN ) Health Check plug-in, which is enabled by default in the vCenter Server. "A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server," VMware  said  in its advisory.   VMware vCenter Server is a server management utility that's used to control virtual machines, ESXi hosts, and other dependent components from a single centralized location. The flaw affects vCenter Server versions 6.5, 6.7, and 7.0 and Cloud Foundation versions 3.x and 4.x. VMware credited Ricter Z of 360 Noah Lab for reporting the vulnerability.  The patch release also rectifies an authenticati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
