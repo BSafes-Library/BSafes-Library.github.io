@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russian Hydra DarkNet Market Made Over $1.3 Billion in 2020<a href="https://thehackernews.com/2021/05/russian-hydra-darknet-market-made-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-language dark web marketplace Hydra has emerged as a hotspot for illicit activities, pulling in a whopping $1.37 billion worth of cryptocurrencies in 2020, up from $9.4 million in 2016.  The "blistering growth" in annual transaction volumes marks a staggering 624% year-over-year jump over a three-year period from 2018 to 2020.  "Further buoying Hydra's growth is its ability—or its good fortune—to remain running and unscathed against competitor attacks or  law enforcement scrutiny ; its only downtime of note occurred during a short time period at the beginning of the COVID-19 global pandemic in late March 2020," threat intelligence firm Flashpoint  said  in a report jointly published with blockchain analysis firm Chainalysis.   Active since 2015, Hydra opened as a competitor to the now-defunct Russian Anonymous Marketplace (aka RAMP), primarily facilitating narcotics trade, before becoming a bazaar for all things criminal, including offering BTC cash-out
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Found in VMware vCenter Server — Patch Now!<a href="https://thehackernews.com/2021/05/critical-rce-vulnerability-found-in.html"> Full Text</a>
 </p>
 <details>
