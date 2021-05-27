@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Bugs in VSCode Extensions Could Lead to Supply Chain Attacks<a href="https://thehackernews.com/2021/05/newly-discovered-bugs-in-vscode.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Severe security flaws uncovered in popular Visual Studio Code extensions could enable attackers to compromise local machines as well as build and deployment systems through a developer's integrated development environment (IDE).  The vulnerable extensions could be exploited to run arbitrary code on a developer's system remotely, in what could ultimately pave the way for supply chain attacks.  Some of the extensions in question are "LaTeX Workshop," "Rainbow Fart," "Open in Default Browser," and "Instant Markdown," all of which have cumulatively racked up about two million installations between them.  "Developer machines usually hold significant credentials, allowing them (directly or indirectly) to interact with many parts of the product," researchers from open-source security platform Synk  said  in a deep-dive published on May 26. "Leaking a developer's private key can allow a malicious stakeholder to clone important
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
