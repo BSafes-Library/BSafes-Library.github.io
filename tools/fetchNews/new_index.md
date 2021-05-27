@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+M1RACLES, the unpatchable bug that impacts new Apple M1 chips<a href="https://securityaffairs.co/wordpress/118310/security/apple-m1-chips-m1racles-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security expert has discovered a vulnerability in Apple M1 chips, dubbed M1RACLES, that cannot be fixed.
+
+
+
+Software engineer Hector Martin from Asahi Linux has discovered a vulnerability in the new Apple M1 chips, tracked as CVE-2021-30747, that was named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Japanese government agencies suffer data breaches after Fujitsu hack<a href="https://www.bleepingcomputer.com/news/security/japanese-government-agencies-suffer-data-breaches-after-fujitsu-hack/"> Full Text</a>
 </p>
 <details>
