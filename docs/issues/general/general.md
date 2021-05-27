@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Activists tackle shareholder meetings | Amazon to acquire MGM | EU updates disinformation rules<a href="https://thehill.com//policy/technology/overnights/555630-hillicon-valley-activists-tackle-shareholder-meetings-amazon-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy Wednesday! Shareholder meetings are providing activists an opportunity to push tech giants on issues including civil rights violations, hate speech and whistleblower protections. In other news, Amazon announced its intention to acquire MGM Studios in a move sure to heighten already elevated antitrust scrutiny against the e-commerce giant.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI's IC3 Logs 1 Million Scam Complaints in 14 Months<a href="https://cyware.com/news/fbis-ic3-logs-1-million-scam-complaints-in-14-months-152603f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While these numbers point to the fact that people are more aware and thus, are logging their complaints, they also signify that a greater number of people are being impacted by online scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not as complex as we thought: Cyberattacks on operational technology are on the rise<a href="https://www.zdnet.com/article/not-as-complex-as-we-thought-cyberattacks-on-operational-technology-are-on-the-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past few years, the researchers have observed OT assets becoming compromised through a variety of methods, including remote access services and virtual network computing (VNC).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hydra DarkNet Market Made Over $1.3 Billion in 2020<a href="https://thehackernews.com/2021/05/russian-hydra-darknet-market-made-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-language dark web marketplace Hydra has emerged as a hotspot for illicit activities, pulling in a whopping $1.37 billion worth of cryptocurrencies in 2020, up from $9.4 million in 2016.  The "blistering growth" in annual transaction volumes marks a staggering 624% year-over-year jump over a three-year period from 2018 to 2020.  "Further buoying Hydra's growth is its ability—or its good fortune—to remain running and unscathed against competitor attacks or&nbsp; law enforcement scrutiny ; its only downtime of note occurred during a short time period at the beginning of the COVID-19 global pandemic in late March 2020," threat intelligence firm Flashpoint&nbsp; said &nbsp;in a report jointly published with blockchain analysis firm Chainalysis.   Active since 2015, Hydra opened as a competitor to the now-defunct Russian Anonymous Marketplace (aka RAMP), primarily facilitating narcotics trade, before becoming a bazaar for all things criminal, including offering BTC cash-out
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

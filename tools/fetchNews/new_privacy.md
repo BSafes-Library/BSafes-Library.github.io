@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS to Share Patient Data with Third Parties, Fueling Privacy and Security Fears<a href="https://www.infosecurity-magazine.com:443/news/nhs-share-patient-data-third/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sensitive data will be made available to academic and commercial third parties for research and planning
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

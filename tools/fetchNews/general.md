@@ -11,6 +11,90 @@ nav_order: 900072
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Security pros rely on peer groups and open communication for help with stress<a href="https://www.scmagazine.com/home/security-news/security-pros-rely-on-peer-groups-and-open-communication-for-help-with-stress/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than ever, it’s vital that infosec colleagues and company leadership lend a sympathetic ear and establish a trusting relationship.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: DC attorney general files antitrust lawsuit against Amazon | DHS to require pipeline companies to report cyberattacks | Activists, parents urge Facebook to drop Instagram for kids plan<a href="https://thehill.com//policy/technology/overnights/555406-hillicon-valley-dc-attorney-general-files-antitrust-lawsuit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon found itself in hot water on Tuesday, with the Washington, D.C. attorney general filing an antitrust lawsuit against it, and over 600 Amazon tech workers separately calling on the company to address pollution levels concentrated in communities of color. Meanwhile, two branches of the Department of Homeland will soon issue guidance requiring pipeline companies to report cybersecurity incidents to federal authorities following the Colonial Pipeline hack, and thousands of activists and parents are calling on Facebook to drop its plans for an Instagram for kids.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average losses from compromised cloud accounts is more than $500,000 a year<a href="https://www.scmagazine.com/home/security-news/cloud-security/average-losses-from-compromised-cloud-accounts-is-more-than-500000-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report also noted that 68% of respondents believe cloud account takeovers present a significant security risk to their organizations – and more than 50% indicated that the frequency and severity of cloud account compromises increased over the past year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-tailers See Surge in Automated Fraud<a href="https://www.infosecurity-magazine.com:443/news/etailers-see-surge-in-automated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research into 2020 automated e-commerce fraud finds higher volume, frequency and sophistication
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victims lose millions to healthcare related eCrime<a href="https://www.helpnetsecurity.com/2021/05/25/healthcare-related-ecrime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victim losses from healthcare-related eCrime in the U.S. rose by 2,473 percent during 2020 as the COVID-19 pandemic swept through the nation and world, CrowdStrike reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Normal<a href="https://www.scmagazine.com/home/sponsor-content/the-new-normal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As governments start loosening the restrictions due to COVID-19, we are starting to see a change in attack vectors. In fact, the new normal for cyber attacks is starting to look a lot like the old normal. FortiGuard Labs provides its insights in the changes it is seeing in attack vectors and provides insights into…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Download Ultimate 'Security for Management' Presentation Template<a href="https://thehackernews.com/2020/01/cybersecurity-management.html"> Full Text</a>
 </p>
 <details>

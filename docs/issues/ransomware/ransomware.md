@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Peek Inside the Underground Ransomware Economy<a href="https://threatpost.com/inside-ransomware-economy/166471/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters weigh in on how the business of ransomware, the complex relationships between cybercriminals, and how they work together and hawk their wares on the Dark Web.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double Encryption: A New Ransomware Trend<a href="https://cyware.com/news/double-encryption-a-new-ransomware-trend-f1ef6324"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is not the first time researchers spotted double encryption. It usually happens when two distinct ransomware groups compromise the same victim at the same time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

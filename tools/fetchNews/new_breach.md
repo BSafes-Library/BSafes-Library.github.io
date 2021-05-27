@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 50,000 IPs compromised in Kubernetes clusters by TeamTNT<a href="https://securityaffairs.co/wordpress/118306/digital-id/kubernetes-clusters-teamtnt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered about 50,000 IPs across multiple Kubernetes clusters that were compromised by the TeamTNT.threat actors.
+
+
+
+Researchers from Trend Micro&nbsp;reported that about 50,000 IPs were compromised across multiple Kubernetes clusters in a cryptojacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Police Suffered Thousands of Data Breaches in 2020<a href="https://www.infosecurity-magazine.com:443/news/uk-police-suffered-thousands-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lancashire Constabulary was the worst offender
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

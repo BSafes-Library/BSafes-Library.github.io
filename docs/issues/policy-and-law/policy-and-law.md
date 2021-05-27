@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French police seized dark web marketplace Le Monde Parallèle<a href="https://securityaffairs.co/wordpress/118295/deep-web/le-monde-parallele-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, French authorities have seized the dark web marketplace Le Monde Parallèle, it is another success of national police in the fight against cybercrime. 
+
+
+
+French authorities seized the dark web marketplace Le Monde Parallèle, the operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe’s Top Human Rights Court Rules UK Mass Surveillance Illegal<a href="https://www.infosecurity-magazine.com:443/news/europes-court-rules-uk-mass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Case could pave way for challenges to Snooper’s Charter
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Sues Indian Government Over New Privacy Threatening Internet Law<a href="https://thehackernews.com/2021/05/whatsapp-sues-indian-government-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp on Wednesday fired a legal salvo against the Indian government to block new regulations that would require messaging apps to trace the "first originator" of messages shared on the platform, thus effectively breaking encryption protections.  "Requiring messaging apps to 'trace' chats is the equivalent of asking us to keep a fingerprint of every single message sent on WhatsApp, which would break end-to-end encryption and fundamentally undermines people's right to privacy," a WhatsApp spokesperson told The Hacker News via email. "We have consistently joined civil society and experts around the world in opposing requirements that would violate the privacy of our users."  With over 450 million active users, India is WhatsApp's biggest market by users.&nbsp;   The lawsuit, filed by the Facebook-owned messaging service in the Delhi High Court, seeks to bar new internet rules that come into force effective May 26. Called the Intermediary Guide
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

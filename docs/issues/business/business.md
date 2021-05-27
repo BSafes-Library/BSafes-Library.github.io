@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Salt Security Raises $70 Million To Strengthen API Security<a href="https://www.crn.com/news/security/salt-security-raises-70-million-to-strengthen-api-security?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salt Security closed a $70 million Series C funding round led by Advent International to scale the company’s sales organization globally and enhance security earlier in the development lifecycle.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity monitoring and threat prevention startup Uptycs raises $50M<a href="https://venturebeat.com/2021/05/26/cybersecurity-monitoring-and-threat-prevention-startup-uptycs-raises-50m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security analytics platform Uptycs today announced it has raised $50 million in a Series C funding round led by Norwest Venture Partners, bringing the company’s total raised to $93 million.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

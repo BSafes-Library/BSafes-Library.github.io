@@ -8,6 +8,60 @@ nav_order: 900015
 
 ## Attack
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discovered a new variant of Rowhammer attack dubbed Half-Double<a href="https://securityaffairs.co/wordpress/118284/hacking/rowhammer-variant-dubbed-half-double.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google experts discovered a new variant of Rowhammer attack against RAM memory cards that bypasses all current defenses
+
+
+
+Google researchers discovered a new variant of Rowhammer attacks, dubbed "Half-Double," that allows bypassing all current defenses.
+
+
+
+In...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium Interior Ministry said it was hit by a sophisticated cyber attack<a href="https://securityaffairs.co/wordpress/118275/breaking-news/belgium-interior-ministry-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belgian interior ministry was targeted by a "sophisticated" cyber attack, a spokesman told RTBF public television on Tuesday.&nbsp;
+
+
+
+The Belgian interior ministry was hit by a "sophisticated" cyber-espionage attack, the news was confirmed by a spokesman...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bose Reveals Ransomware Attack Impacting Staff<a href="https://www.infosecurity-magazine.com:443/news/bose-reveals-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors accessed sensitive personal information
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

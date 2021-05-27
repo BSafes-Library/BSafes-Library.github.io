@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline, Microsoft, crypto crackdowns: Feds point to critical cyber moments<a href="https://www.scmagazine.com/home/security-news/cybercrime/colonial-pipeline-microsoft-crypto-crackdowns-feds-point-to-critical-cyber-moments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three law enforcement officials reflect on what was, to them, the biggest cybercrime stories or developments over the past year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NASA Intends to Reorganize its Cybersecurity Strategy<a href="https://news.softpedia.com/news/nasa-intends-to-reorganize-its-cybersecurity-strategy-533018.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a report issued by NASA's inspector general, "Attacks on NASA networks are not a new phenomenon, although attempts to steal critical information are increasing in both complexity and severity".
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS to issue first cybersecurity regulations for pipelines after Colonial hack<a href="https://www.washingtonpost.com/business/2021/05/25/colonial-hack-pipeline-dhs-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration will issue a security directive this week requiring pipeline companies to report cyber incidents to federal authorities, senior DHS officials said.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

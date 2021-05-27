@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploiting API Keys to Steal Cryptocurrency<a href="https://cyware.com/news/cybercriminals-exploiting-api-keys-to-steal-cryptocurrency-6e52b50b"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Activists tackle shareholder meetings | Amazon to acquire MGM | EU updates disinformation rules<a href="https://thehill.com//policy/technology/overnights/555630-hillicon-valley-activists-tackle-shareholder-meetings-amazon-to"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Wiper Malware Disguised As Ransomware Targets Israeli Entities<a href="https://thehackernews.com/2021/05/data-wiper-malware-disguised-as.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Influencers Offered Money to Vilify Vaccine<a href="https://www.infosecurity-magazine.com:443/news/influencers-offered-money-to/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 50,000 IPs compromised in Kubernetes clusters by TeamTNT<a href="https://securityaffairs.co/wordpress/118306/digital-id/kubernetes-clusters-teamtnt.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline, Microsoft, crypto crackdowns: Feds point to critical cyber moments<a href="https://www.scmagazine.com/home/security-news/cybercrime/colonial-pipeline-microsoft-crypto-crackdowns-feds-point-to-critical-cyber-moments/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Peek Inside the Underground Ransomware Economy<a href="https://threatpost.com/inside-ransomware-economy/166471/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI's IC3 Logs 1 Million Scam Complaints in 14 Months<a href="https://cyware.com/news/fbis-ic3-logs-1-million-scam-complaints-in-14-months-152603f7"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers release patient data stolen from New Zealand health systems<a href="https://thehill.com//policy/cybersecurity/555567-hackers-release-patient-data-stolen-from-new-zealand-health-systems"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-criminal Gang Targets Texas Unemployment System<a href="https://www.infosecurity-magazine.com:443/news/scattered-canary-targets-texas/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French police seized dark web marketplace Le Monde Parallèle<a href="https://securityaffairs.co/wordpress/118295/deep-web/le-monde-parallele-dark-web.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware used zero-day exploit to take screenshots of victims’ Macs<a href="https://www.scmagazine.com/home/security-news/malware/malware-used-zero-day-exploit-to-take-screenshots-of-victims-macs/"> Full Text</a>
@@ -234,7 +234,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Double Encryption: A New Ransomware Trend<a href="https://cyware.com/news/double-encryption-a-new-ransomware-trend-f1ef6324"> Full Text</a>
@@ -250,7 +250,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 22 Americans Indicted Over Card-Skimming Scam<a href="https://www.infosecurity-magazine.com:443/news/22-americans-indicted-over-card/"> Full Text</a>
@@ -266,7 +266,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google discovered a new variant of Rowhammer attack dubbed Half-Double<a href="https://securityaffairs.co/wordpress/118284/hacking/rowhammer-variant-dubbed-half-double.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 91 features 32 security fixes, enhancements for Linux<a href="https://www.scmagazine.com/home/security-news/cloud-security/chrome-91-features-32-security-fixes-enhancements-for-linux/"> Full Text</a>
@@ -306,7 +306,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NASA Intends to Reorganize its Cybersecurity Strategy<a href="https://news.softpedia.com/news/nasa-intends-to-reorganize-its-cybersecurity-strategy-533018.shtml?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS to Share Patient Data with Third Parties, Fueling Privacy and Security Fears<a href="https://www.infosecurity-magazine.com:443/news/nhs-share-patient-data-third/"> Full Text</a>
@@ -338,7 +338,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgium Interior Ministry said it was hit by a sophisticated cyber attack<a href="https://securityaffairs.co/wordpress/118275/breaking-news/belgium-interior-ministry-cyber-attack.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 M1RACLES bug impacts Apple M1 chips, but no need to panic<a href="https://therecord.media/m1racles-bug-impacts-apple-m1-chips-but-no-need-to-panic/?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Police Suffered Thousands of Data Breaches in 2020<a href="https://www.infosecurity-magazine.com:443/news/uk-police-suffered-thousands-data/"> Full Text</a>
@@ -390,7 +390,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another critical bug impacts all VMware vCenter Server installs<a href="https://securityaffairs.co/wordpress/118271/security/vmware-vcenter-server-cve-2021-21985.html"> Full Text</a>
@@ -410,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Salt Security Raises $70 Million To Strengthen API Security<a href="https://www.crn.com/news/security/salt-security-raises-70-million-to-strengthen-api-security?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bose Reveals Ransomware Attack Impacting Staff<a href="https://www.infosecurity-magazine.com:443/news/bose-reveals-ransomware-attack/"> Full Text</a>
@@ -442,7 +442,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Chrome Extensions Found Tampering with Security Headers<a href="https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity monitoring and threat prevention startup Uptycs raises $50M<a href="https://venturebeat.com/2021/05/26/cybersecurity-monitoring-and-threat-prevention-startup-uptycs-raises-50m/?&web_view=true"> Full Text</a>
@@ -474,7 +474,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europe’s Top Human Rights Court Rules UK Mass Surveillance Illegal<a href="https://www.infosecurity-magazine.com:443/news/europes-court-rules-uk-mass/"> Full Text</a>
@@ -490,7 +490,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Not as complex as we thought: Cyberattacks on operational technology are on the rise<a href="https://www.zdnet.com/article/not-as-complex-as-we-thought-cyberattacks-on-operational-technology-are-on-the-rise/?&web_view=true"> Full Text</a>
@@ -506,7 +506,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Sues Indian Government Over New Privacy Threatening Internet Law<a href="https://thehackernews.com/2021/05/whatsapp-sues-indian-government-over.html"> Full Text</a>
@@ -522,7 +522,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS to issue first cybersecurity regulations for pipelines after Colonial hack<a href="https://www.washingtonpost.com/business/2021/05/25/colonial-hack-pipeline-dhs-cybersecurity/?&web_view=true"> Full Text</a>
@@ -538,7 +538,7 @@ Washington Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarMarker Backdoor Pretends to be Legit PDFescape Installer<a href="https://www.cyren.com/blog/articles/solarmarker-backdoor-pretends-to-be-legit-pdfescape-installer/?&web_view=true"> Full Text</a>
@@ -554,7 +554,7 @@ Cyren
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agrius group targets Israel with data-wipers disguised as ransomware<a href="https://securityaffairs.co/wordpress/118263/apt/agrius-wipers-attacks.html"> Full Text</a>
@@ -574,7 +574,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hydra DarkNet Market Made Over $1.3 Billion in 2020<a href="https://thehackernews.com/2021/05/russian-hydra-darknet-market-made-over.html"> Full Text</a>
@@ -590,7 +590,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2021
+May 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Found in VMware vCenter Server — Patch Now!<a href="https://thehackernews.com/2021/05/critical-rce-vulnerability-found-in.html"> Full Text</a>

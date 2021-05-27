@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploiting API Keys to Steal Cryptocurrency<a href="https://cyware.com/news/cybercriminals-exploiting-api-keys-to-steal-cryptocurrency-6e52b50b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stolen API keys are being increasingly sold on hacker forums. Cyber adversaries are exploiting cryptocurrency exchange API keys and using them to steal cryptocurrencies from victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers release patient data stolen from New Zealand health systems<a href="https://thehill.com//policy/cybersecurity/555567-hackers-release-patient-data-stolen-from-new-zealand-health-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers&nbsp;sent patient data&nbsp;stolen during&nbsp;an attack on New Zealand’s Waikato District health system to local media outlets on Wednesday, with the outlets declining to publish the sensitive information.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-criminal Gang Targets Texas Unemployment System<a href="https://www.infosecurity-magazine.com:443/news/scattered-canary-targets-texas/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scattered Canary shares 13-page tutorial on how to commit fraud via Texas Workforce Commission website
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

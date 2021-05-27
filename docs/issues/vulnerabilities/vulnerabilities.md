@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 91 features 32 security fixes, enhancements for Linux<a href="https://www.scmagazine.com/home/security-news/cloud-security/chrome-91-features-32-security-fixes-enhancements-for-linux/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s high-severity fixes address weaknesses that could potentially allow a remote attacker to execute arbitrary code on an unknowing target.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+M1RACLES bug impacts Apple M1 chips, but no need to panic<a href="https://therecord.media/m1racles-bug-impacts-apple-m1-chips-but-no-need-to-panic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered by Hector Martin, a software engineer at Asahi Linux, a project that works on porting Linux for Mac hardware, the vulnerability was codenamed M1RACLES and tracked as CVE-2021-30747.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another critical bug impacts all VMware vCenter Server installs<a href="https://securityaffairs.co/wordpress/118271/security/vmware-vcenter-server-cve-2021-21985.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addresses a critical remote code execution (RCE) flaw in the Virtual SAN Health Check plug-in that impacts all vCenter Server installs.
+
+
+
+VMware has released security updates to address a remote code execution (RCE) flaw in vCenter Server that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Chrome Extensions Found Tampering with Security Headers<a href="https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Google Chrome extensions available on the official Chrome Web Store are tampering with security headers on popular websites, putting users at risk of a wide range of web-based attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Found in VMware vCenter Server — Patch Now!<a href="https://thehackernews.com/2021/05/critical-rce-vulnerability-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has rolled out patches to address a critical security vulnerability in vCenter Server that could be leveraged by an adversary to execute arbitrary code on the server.  Tracked as CVE-2021-21985 (CVSS score 9.8), the issue stems from a lack of input validation in the Virtual SAN ( vSAN ) Health Check plug-in, which is enabled by default in the vCenter Server. "A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server," VMware&nbsp; said &nbsp;in its advisory.   VMware vCenter Server is a server management utility that's used to control virtual machines, ESXi hosts, and other dependent components from a single centralized location. The flaw affects vCenter Server versions 6.5, 6.7, and 7.0 and Cloud Foundation versions 3.x and 4.x. VMware credited Ricter Z of 360 Noah Lab for reporting the vulnerability.  The patch release also rectifies an authenticati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
