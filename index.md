@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber attacks on banks can trigger more rating action, warns S&P<a href="https://ciso.economictimes.indiatimes.com/news/cyber-attacks-on-banks-can-trigger-more-rating-action-warns-sp/82972924?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks can harm credit ratings mainly through reputational damage and potential monetary losses, the ratings agency said in a report titled 'Cyber Risk In A New Era: The Effect On Bank Ratings.'
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 M1RACLES, the unpatchable bug that impacts new Apple M1 chips<a href="https://securityaffairs.co/wordpress/118310/security/apple-m1-chips-m1racles-flaw.html"> Full Text</a>
 </p>
 <details>
