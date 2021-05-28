@@ -34,6 +34,402 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall urges customers to 'immediately' patch NSM On-Prem bug<a href="https://www.bleepingcomputer.com/news/security/sonicwall-urges-customers-to-immediately-patch-nsm-on-prem-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urges customers to 'immediately' patch a post-authentication vulnerability impacting on-premises versions of the Network Security Manager (NSM) multi-tenant firewall management solution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAM Seamless Snags $20M Series B As Network Threats Grow<a href="https://news.crunchbase.com/news/sam-seamless-snags-20m-series-b-as-network-threats-grow/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel-based SAM Seamless Network raised a $20 million Series B as the cybersecurity company readies itself for the perfect storm of an expanding network attack surface and the coming of 5G.
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers seized email system used by State Department aid agency, human rights groups<a href="https://thehill.com//policy/cybersecurity/555893-russian-hackers-seized-email-system-used-by-state-department-aid-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers seized the email system used by the State Department’s international agency and other human rights groups, Microsoft announced.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Facefish Backdoor Spreading Linux Rootkits<a href="https://thehackernews.com/2021/05/researchers-warn-of-facefish-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new backdoor program capable of stealing user login credentials, device information and executing arbitrary commands on Linux systems.  The malware dropper has been dubbed " Facefish " by Qihoo 360 NETLAB team owing its capabilities to deliver different rootkits at different times and the use of  Blowfish  cipher to encrypt communications to the attacker-controlled server.  "Facefish consists of 2 parts, Dropper and Rootkit, and its main function is determined by the Rootkit module, which works at the  Ring 3  layer and is loaded using the  LD_PRELOAD  feature to steal user login credentials by hooking ssh/sshd program related functions, and it also supports some backdoor functions," the researchers  said .   The NETLAB research builds on a previous analysis  published  by Juniper Networks on April 26, which documented an attack chain targeting Control Web Panel (CWP, formerly CentOS Web Panel) to inject an SSH implant wit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Pros to Take Part in Charity Challenge to Help Fight Online Crime<a href="https://www.infosecurity-magazine.com:443/news/cyber-pros-charity-challenge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The challenge will see 25 infosec pros walk 19,000 miles over the next six months
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT groups targets orgs via Pulse Secure VPN devices<a href="https://securityaffairs.co/wordpress/118358/hacking/pulse-secure-vpn-china-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from FireEye warn that China-linked APT groups continue to target Pulse Secure VPN devices to compromise networks.
+
+
+
+Cybersecurity researchers from FireEye warn once again that Chinese APT groups continue to target Pulse Secure VPN devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Fixes Critical Zero-Day in Server Management Software<a href="https://threatpost.com/hpe-fixes-critical-zero-day-sim/166543/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug in HPE SIM makes it easy as pie for attackers to remotely trigger code, no user interaction necessary. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs' slow decryptors prompt victims to seek alternatives<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-slow-decryptors-prompt-victims-to-seek-alternatives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, two highly publicized ransomware victims received a decryptor that was too slow to make it effective in quickly restoring the victim's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DataDome raises $35M to defend ecommerce from bot attacks<a href="https://venturebeat.com/2021/05/26/datadome-raises-35m-to-defend-ecommerce-from-bot-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bot defense startup DataDome today announced it has raised $35 million in a Series B round led by Elephant. It aims to use the funds to invest in R&D as it looks to expand its customer base.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Khanna, Mace introduce bill to strengthen federal cyber workforce following major hacks<a href="https://thehill.com//policy/cybersecurity/555863-khanna-mace-introduce-bill-to-strengthen-federal-cyber-workforce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reps. Ro Khanna (D-Calif.) and Nancy MaceNancy MaceGOP leaders face new calls to boot Greene House Republican offers flowchart for Marjorie Taylor Greene Joe Cunningham to enter race for South Carolina governor  MORE (R-S.C.) on Friday introduced legislation to strengthen the federal workforce in the wake of a year of escalating cyber threats and attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hackers Target Think Tanks With New 'NativeZone' Backdoor<a href="https://thehackernews.com/2021/05/solarwinds-hackers-target-think-tanks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed that the threat actor behind the  SolarWinds supply chain hack  returned to the threat landscape to target government agencies, think tanks, consultants, and non-governmental organizations located across 24 countries, including the U.S.  "This wave of attacks targeted approximately 3,000 email accounts at more than 150 different organizations," Tom Burt, Microsoft's Corporate Vice President for Customer Security and Trust,  said . "At least a quarter of the targeted organizations were involved in international development, humanitarian, and human rights work."  Microsoft attributed the intrusions to the Russian threat actor it tracks as Nobelium, and by the wider cybersecurity community under the monikers APT29, UNC2452 (FireEye), SolarStorm (Unit 42), StellarParticle (Crowdstrike), and Dark Halo (Volexity).   The latest wave  in a series of intrusions is said to have begun on Jan. 28, 2021, before reaching a new level of escalat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Act Now to Protect Streaming Accounts<a href="https://www.infosecurity-magazine.com:443/news/ncsc-act-now-to-protect-streaming/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automatic updates and password changes are required
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft details new sophisticated spear-phishing attacks from NOBELIUM<a href="https://securityaffairs.co/wordpress/118352/apt/spear-phishing-attacks-nobelium.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft experts uncovered a wide-scale malicious email campaign operated by NOBELIUM, the threat actor behind  SolarWinds hack.
+
+
+
+Microsoft Threat Intelligence Center (MSTIC) has uncovered a wide-scale malicious email campaign conducted by NOBELIUM...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building Multilayered Security for Modern Threats<a href="https://threatpost.com/multilayered-security-modern-threats/166457/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justin Jett, director of audit and compliance for Plixer, discusses the elements of a successful advanced security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: SolarWinds hackers target govt agencies from 24 countries<a href="https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-target-govt-agencies-from-24-countries/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Threat Intelligence Center (MSTIC) has discovered that the Russian-based SolarWinds hackers are behind an ongoing phishing campaign targeting government agencies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based Epsilon Red Ransomware Leverages PowerShell Scripts for Malicious Objectives<a href="https://news.sophos.com/en-us/2021/05/28/epsilonred/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware was delivered as the final executable payload in a hand-controlled attack against a US-based business in the hospitality industry with early-stage components in form of PowerShell scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyber Espionage Hackers Continue to Target Pulse Secure VPN Devices<a href="https://thehackernews.com/2021/05/chinese-cyber-espionage-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from FireEye unmasked additional tactics, techniques, and procedures (TTPs) adopted by Chinese threat actors who were recently found abusing Pulse Secure VPN devices to drop malicious web shells and exfiltrate sensitive information from enterprise networks.  FireEye's Mandiant threat intelligence team, which is tracking the cyberespionage activity under two threat clusters UNC2630 and UNC2717,  said  the intrusions line up with key Chinese government priorities, adding "many compromised organizations operate in verticals and industries aligned with Beijing's strategic objectives outlined in China's recent  14th Five Year Plan ."   On April 20, the cybersecurity firm  disclosed  12 different malware families, including STEADYPULSE and LOCKPICK, that have been designed with the express intent to infect Pulse Secure VPN appliances and put to use by several cyberespionage groups believed to be affiliated with the Chinese government.   UNC263
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert Overload Distressing 70% of SecOps Teams<a href="https://www.infosecurity-magazine.com:443/news/threequarters-secops-stress-alert/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stress leads many to walk away from their computer or switch off alerts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Post disclosed a ransomware attack on a third-party service provider<a href="https://securityaffairs.co/wordpress/118346/data-breach/canada-post-disclosed-a-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada Post disclosed a ransomware attack on a third-party service provider that exposed shipping information for their customers.
+
+
+
+Canada Post announced that a ransomware attack on a third-party service provider exposed shipping information for their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI to share compromised passwords with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/fbi-to-share-compromised-passwords-with-have-i-been-pwned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI will soon begin to share compromised passwords with Have I Been Pwned's 'Password Pwned' service that were discovered during law enforcement investigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updates on Chinese APT Actors Compromising Pulse Secure VPN Devices<a href="https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant identified 16 malware families exclusively designed to infect Pulse Secure VPN appliances and used by several cyberespionage groups which are believed to be linked to the Chinese government.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Infosec Pros Concerned About Next SolarWinds<a href="https://www.infosecurity-magazine.com:443/news/threequarters-infosec-pros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain risk a major worry, finds Infosecurity Europe poll
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Suspects Russia’s Cozy Bear APT Behind Attack Against U.S. Aid Agency<a href="https://www.nytimes.com/2021/05/28/us/politics/russia-hack-usaid.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By breaching the systems of a supplier used by the federal government, the hackers sent out genuine-looking emails to more than 3,000 accounts across more than 150 organizations linked to USAID.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Token Resistance: Tackling the New NFT Threat Landscape<a href="https://securityintelligence.com/articles/new-threat-landscape-nfts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beyond the massive cost for many of these crypto tokens, there’s also the issue of theft; if accounts are compromised and NFTs stolen, they could be sold to the highest bidder.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
