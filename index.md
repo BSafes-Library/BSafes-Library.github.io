@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA-FireEye: 16 malware families from China infect Pulse Secure VPN appliances<a href="https://www.scmagazine.com/home/security-news/malware/cisa-fireeye-16-malware-families-from-china-infect-pulse-secure-vpn-appliances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye Mandiant, working in in tandem with Cybersecurity and Infrastructure Security Agency and Ivanti, reported details of 16 malware families exclusively designed to infect Ivanti Pulse Connect Secure VPN appliances, and used by several cyber espionage groups believed to be affiliated with the Chinese government. The blog post by Mandiant was an update to the…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds attackers leveraged trust in Constant Contact email marketing, USAID, to launch campaign<a href="https://www.scmagazine.com/home/security-news/phishing/solarwinds-attackers-leveraged-trust-in-constant-contact-email-marketing-usaid-to-launch-campaign/"> Full Text</a>
 </p>
 <details>
