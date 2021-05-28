@@ -81,6 +81,18 @@ After coming across sexually explicit messages between sixteen-yearold Channing 
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Artificial Intelligence and the Ethics Behind It [HTML](https://papers.bsafes.com/docs/ai/artificial-intelligence-and-the-ethics-behind-it/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Artificial intelligence (AI) has been a widely used buzzword for the past couple of years. If there is a technology that works without human interaction, it is labeled as AI. But what is AI, and should individuals be concerned? The following research aims to define what artificial intelligence is, specifically machine learning (ML) and neural networks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • DIGITAL DOMINION: How the Syrian regime’s mass digital surveillance violates human rights [HTML](https://papers.bsafes.com/docs/privacy/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
 </p>
 <details>

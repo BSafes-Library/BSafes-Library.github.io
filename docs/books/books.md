@@ -8,6 +8,7 @@ nav_order: 400
 
 * [1984, By George Orwell](https://book-1984.bsafes.com)
 * [2020, INTERNET CRIME REPORT, FEDERAL BUREAU OF INVESTIGATION, INTERNET CRIME COMPLAINT CENTER](https://publications.bsafes.com/docs/fbi/internet-crime-report-2020/)
+* [Artificial Intelligence and the Ethics Behind It](https://papers.bsafes.com/docs/ai/artificial-intelligence-and-the-ethics-behind-it/)
 * [Behavioral Skills Training to Teach Online Safety Responses to Youth with Autism Spectrum Disorder](https://papers.bsafes.com/docs/behavior/behavioral-sklls-training-to-teach-online-safety-responses-to-youth-with-autism-spectrum-disorder/)
 * [Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus](https://papers.bsafes.com/docs/cybercrime/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
 * [Blockchain-mediated Licensing - Legal Engineering for Artist Empowerment, by Charles Adjovu; Ewa Fabian](https://papers.bsafes.com/docs/cryptocurrency/blockchain-mediated-licensing/)
