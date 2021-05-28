@@ -37,6 +37,598 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Canada Post hit by data breach after supplier ransomware attack<a href="https://www.bleepingcomputer.com/news/security/canada-post-hit-by-data-breach-after-supplier-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada Post has informed 44 of its large commercial customers that a ransomware attack on a third-party service provider exposed shipping information for their customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How North Korean Threat Actors Pulled Off Multimillion-Dollar Heists?<a href="https://cyware.com/news/how-north-korean-threat-actors-pulled-off-multimillion-dollar-heists-e40b507b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ClearSky attributed multiple attacks on cryptocurrency exchanges to a threat actor, dubbed CryptoCore, and linked its activities with Lazarus. It swindled hundreds of millions of dollars from the U.S., Israel, Europe, and Japan over the past three years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: TSA formally directs pipeline companies to report cybersecurity incidents in wake of Colonial attack | Tech trade groups sue Florida over new social media law<a href="https://thehill.com//policy/technology/overnights/555848-hillicon-valley-tsa-formally-directs-pipeline-companies-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration issued a security directive Thursday to strengthen federal cybersecurity oversight of pipelines following the attack on the Colonial Pipeline. Meanwhile, the Senate Judiciary antitrust subcommittee announced a series of hearings slated for the summer, and tech trade groups are suing Florida over a bill that aims to prohibit social media companies from banning politicians. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising Campaign On Google Distributed Trojanized AnyDesk Installer<a href="https://thehackernews.com/2021/05/malvertising-campaign-on-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday publicized the disruption of a "clever" malvertising network targeting AnyDesk that delivered a weaponized installer of the remote desktop software via rogue Google ads that appeared in the search engine results pages.  The campaign, which is believed to have begun as early as April 21, 2021, involves a malicious file that masquerades as a setup executable for AnyDesk (AnyDeskSetup.exe), which, upon execution, downloads a PowerShell implant to amass and exfiltrate system information.  "The script had some obfuscation and multiple functions that resembled an implant as well as a hardcoded domain (zoomstatistic[.]com) to 'POST' reconnaissance information such as user name, hostname, operating system, IP address and the current process name," researchers from Crowdstrike  said  in an analysis.   AnyDesk's remote desktop access solution has been  downloaded  by more than 300 million users worldwide, according to the co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Who Targeted Cops Gets Jail Time<a href="https://www.infosecurity-magazine.com:443/news/hacker-who-targeted-cops-gets-jail/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Hampshire hacker behind bars after targeting Auburn Police Department
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ransomware Problem Is a Bitcoin Problem<a href="https://www.lawfareblog.com/ransomware-problem-bitcoin-problem"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The best way to deal with this new era of big-game ransomware will involve not just securing computer systems or prosecuting criminals, but  disrupting the one payment channel capable of moving millions at a time outside of money laundering laws: Bitcoin and other cryptocurrencies.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT hacked a US municipal government via an unpatched Fortinet VPN<a href="https://securityaffairs.co/wordpress/118338/apt/fortinet-vpn-us-municipal-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI revealed that foreign hackers compromised the network of a local US municipal government by exploiting flaws in an unpatched Fortinet VPN.
+
+
+
+The Federal Bureau of Investigation (FBI) reported that an APT group had breached the network of a local...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is the attack on Fujitsu’s ProjectWEB SaaS platform the next big supply chain attack?<a href="https://www.scmagazine.com/home/security-news/data-breach/is-the-attack-on-fujitsus-projectweb-saas-platform-the-next-big-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it’s still early, some researchers view the reported hacking into Fujitsu’s ProjectWEB software-as-a-service (SaaS) platform as as a nation-state attack not unlike the one that targeted the SolarWinds supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted AnyDesk Ads on Google Served Up Weaponized App<a href="https://threatpost.com/ad-malicious-version-anydesk/166525/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious ad campaign was able to rank higher in searches than legitimate AnyDesk ads.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: APT hackers breached US local govt by exploiting Fortinet bugs<a href="https://www.bleepingcomputer.com/news/security/fbi-apt-hackers-breached-us-local-govt-by-exploiting-fortinet-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says the webserver of a US municipal government was breached by state-sponsored attackers after hacking a Fortinet appliance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeppelin Ransomware Begins a New Ride<a href="https://cyware.com/news/zeppelin-ransomware-begins-a-new-ride-90732250"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a hiatus, Zeppelin ransomware, a possible variant of the Vega Ransomware-as-a-Service (RaaS), is active again. Without stepping into the trend of double extortion, it can still cause serious damage to victims' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 GOP senators come out against Biden intelligence nominee over Huawei ties<a href="https://thehill.com//policy/national-security/555714-3-gop-senators-come-out-against-biden-intelligence-nominee-over-work"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Republican senators say they won’t back President Biden’s nominee to serve as the top lawyer for the intelligence community because of his past experience working for a Chinese company accused of intellectual property theft.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Fake Foundations to Target Uyghur Minority in China<a href="https://thehackernews.com/2021/05/hackers-using-fake-foundations-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uyghur community located in China and Pakistan has been the subject of an ongoing espionage campaign aiming to trick the targets into downloading a Windows backdoor to amass sensitive information from their systems.  "Considerable effort was put into disguising the payloads, whether by creating delivery documents that appear to be originating from the United Nations using up to date related themes, or by setting up websites for non-existing organizations claiming to fund charity groups," according to joint research published by Check Point Research  and Kaspersky today.  The Uyghurs are a Turkic ethnic minority group originating from Central and East Asia and are recognized as native to the Xinjiang Uyghur Autonomous Region in Northwest China. At least since 2015, government authorities have placed the region under tight surveillance, putting hundreds of thousands into prisons and internment camps that the government calls "Vocational Education and Training Centers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn DarkSide May Not Stay Dark<a href="https://www.infosecurity-magazine.com:443/news/feds-warn-darkside-may-not-stay/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials warn disbanded cyber-criminal gang may return soon under a new alias
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces security measures for critical pipeline industry<a href="https://securityaffairs.co/wordpress/118332/security/dhs-critical-pipeline-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Homeland Security (DHS) has announced new cybersecurity requirements for critical pipeline owners and operators.
+
+
+
+The Colonial pipeline incident continues to have a serious impact on the critical infrastructure sector. The US Department...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud and security departments converge on battle against ‘synthetic identities’<a href="https://www.scmagazine.com/home/security-news/fraud-and-security-departments-converge-on-battle-against-synthetic-identities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Reserve recently produced a formal definition for synthetic identity fraud, a process that involved a committee of a dozen outside experts convening over nine months. So what is it? And why should CISOs care?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BazaFlix attack pushes BazarLoader malware via fake movie site<a href="https://www.bleepingcomputer.com/news/security/new-bazaflix-attack-pushes-bazarloader-malware-via-fake-movie-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a new BazarCall email phishing campaign that manages to bypass automated threat detection systems to deliver the BazarLoader malware used by the TrickBot gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Devices Bombarded by Cyberattacks<a href="https://cyware.com/news/qnap-devices-bombarded-by-cyberattacks-7af9e3bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks on Taiwan-based QNAP continue to turn ugly. It is now advising its clients to update the HBS 3 disaster recovery app to block Qlocker ransomware actors who now use a backdoor that exploits a hard-coded credentials vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA formally directs pipeline companies to report cybersecurity incidents in wake of Colonial attack<a href="https://thehill.com//policy/cybersecurity/555660-tsa-formally-directs-pipeline-companies-to-report-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) will formally issue a security directive Thursday to strengthen federal cybersecurity oversight of pipelines, weeks after a ransomware attack on Colonial Pipeline led to fuel shortages in multiple states. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Canada Post<a href="https://www.infosecurity-magazine.com:443/news/data-breach-at-canada-post/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware attack on third-party supplier leads to data breach at Canada Post
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NASA identified 1,785 cyber incidents in 2020<a href="https://securityaffairs.co/wordpress/118323/reports/nasa-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NASA identified more than 6,000 cyber-related incidents in the last four years, according to a report published by its Office of Inspector General.
+
+
+
+The U.S. National Aeronautics and Space Administration (NASA) has identified more than 6,000 cyber-related...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Florida water attack investigators avoided an embarrassing misattribution<a href="https://www.scmagazine.com/home/security-news/malware/how-florida-water-attack-investigators-avoided-an-embarrassing-misattribution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dragos limited initial disclosure to only relevant parties, after discovering a watering-hole malware attack that later turned out to be unrelated.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Klarna mobile app bug let users log into other customers' accounts<a href="https://www.bleepingcomputer.com/news/security/klarna-mobile-app-bug-let-users-log-into-other-customers-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Klarna Bank suffered a severe technical issue this morning that allowed mobile app users to log into other customers' accounts and see their stored information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French authorities seize their third dark web marketplace<a href="https://therecord.media/french-authorities-seize-their-third-dark-web-marketplace/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French authorities have dismantled their third dark web marketplace over the last four years after they seized control of “Le Monde Parallèle” (The Parallel World) last week.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uyghurs targeted by fake human rights emails<a href="https://thehill.com//policy/cybersecurity/555627-uyghurs-targeted-by-fake-human-rights-emails"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the Uyghur Muslim community in China and abroad are being targeted in a surveillance efforts by likely "Chinese-speaking" hackers through the use of fake emails from the United Nations (U.N.) and a human rights group, cybersecurity researchers announced Thursday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Phishing Attack Targets High-Profile Uyghurs<a href="https://www.infosecurity-magazine.com:443/news/chinese-phishing-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky and Check Point team up to reveal latest espionage campaign
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised Japanese government offices via Fujitsu ‘s ProjectWEB tool<a href="https://securityaffairs.co/wordpress/118318/data-breach/fujitsu-projectweb-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have compromised offices of multiple Japanese agencies via Fujitsu 's ProjectWEB information sharing tool.
+
+
+
+Threat actors have breached the offices of multiple Japanese agencies after they have gained access to projects that uses the Fujitsu...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS issues cyber order to pipeline operators in first move to regulate critical infrastructure sectors<a href="https://www.scmagazine.com/home/government/dhs-issues-cybersecurity-order-to-pipeline-operators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TSA order marks the first mandatory cybersecurity practices for pipelines, and what some expect will be the first of more standards that the government puts in place to regulate how critical infrastructure operators protect networks and systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US announces new security directive after critical pipeline hack<a href="https://www.bleepingcomputer.com/news/security/us-announces-new-security-directive-after-critical-pipeline-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Homeland Security (DHS) has announced new pipeline cybersecurity requirements after the largest fuel pipeline in the United States was forced to shut down operations in early May following a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Human Rights Organization, UN Branding Used by Chinese Threat Actor to Target Uyghurs in Ongoing Cyberattacks<a href="https://www.zdnet.com/article/fake-human-rights-organization-un-branding-used-to-target-uyghurs-in-ongoing-cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potential victims are sent phishing documents branded with the UNHRC logo. Named UgyhurApplicationList.docx, this document contains decoy material relating to discussions of human rights violations.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Number of Breached Records Soars 224% Annually<a href="https://www.infosecurity-magazine.com:443/news/number-of-breached-records-soars/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva warns of gap between security and digital adoption
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE fixes critical zero-day vulnerability disclosed in December<a href="https://www.bleepingcomputer.com/news/security/hpe-fixes-critical-zero-day-vulnerability-disclosed-in-december/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett Packard Enterprise (HPE) has released a security update to address a zero-day remote code execution vulnerability disclosed last year, in December.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Post Among 44 Organizations Linked to 950,000 Customers Impacted by Malware Attack at Crown Corporation<a href="https://globalnews.ca/news/7894760/canada-post-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware attack on Crown Corporation has caused a data breach affecting 44 of the company’s large business clients and their 950,000 receiving customers, the postal agency confirmed Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Global News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Third of #COVID19 Fraud Victims Go Hungry<a href="https://www.infosecurity-magazine.com:443/news/a-third-of-covid19-fraud-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ITRC report claims many don’t have money for food or utilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Expects Russian Cyberattacks on Tokyo Summer Olympics<a href="https://news.softpedia.com/news/japan-expects-russian-cyberattacks-on-tokyo-summer-olympics-533044.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Masatoshi Fujitani, president of the Tokyo-based Japan Forum for Strategic Studies (JFSS), the Summer Olympics in Tokyo are likely to be targeted by cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Intelligence Agency FSB Reports Hacking Campaign Aimed at Government Agencies<a href="https://www.usnews.com/news/technology/articles/2021-05-26/russias-fsb-reports-unprecedented-hacking-campaign-aimed-at-government-agencies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report also mentioned that hackers had used the cloud storage facilities of Russia's leading technology firms, Yandex and Mail.ru, to help exfiltrate data stolen from the government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+US News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Melting Ice - Tracking IcedID Servers with a few simple steps<a href="https://research.checkpoint.com/2021/melting-ice-tracking-icedid-servers-with-a-few-simple-steps/?&web_view=true"> Full Text</a>
 </p>
 <details>
