@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds attackers leveraged trust in Constant Contact email marketing, USAID, to launch campaign<a href="https://www.scmagazine.com/home/security-news/phishing/solarwinds-attackers-leveraged-trust-in-constant-contact-email-marketing-usaid-to-launch-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using a hijacked Constant Contact email marketing account of USAID, the adversaries sent phishing emails to roughly 3,000 accounts at more than 150 different organizations. About 25 percent of these targets were international development, humanitarian and human rights organizations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI Issues Fortinet Flash Warning<a href="https://www.infosecurity-magazine.com:443/news/fbi-issues-fortinet-flash-warning/"> Full Text</a>
 </p>
 <details>
