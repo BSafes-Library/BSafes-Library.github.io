@@ -8,6 +8,122 @@ nav_order: 900075
 
 ## Government
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 GOP senators come out against Biden intelligence nominee over Huawei ties<a href="https://thehill.com//policy/national-security/555714-3-gop-senators-come-out-against-biden-intelligence-nominee-over-work"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Republican senators say they won’t back President Biden’s nominee to serve as the top lawyer for the intelligence community&nbsp;because of his past experience working for a Chinese company accused of intellectual property theft.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn DarkSide May Not Stay Dark<a href="https://www.infosecurity-magazine.com:443/news/feds-warn-darkside-may-not-stay/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials warn disbanded cyber-criminal gang may return soon under a new alias
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces security measures for critical pipeline industry<a href="https://securityaffairs.co/wordpress/118332/security/dhs-critical-pipeline-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Department of Homeland Security (DHS) has announced new cybersecurity requirements for critical pipeline owners and operators.
+
+
+
+The Colonial pipeline incident continues to have a serious impact on the critical infrastructure sector. The US&nbsp;Department...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud and security departments converge on battle against ‘synthetic identities’<a href="https://www.scmagazine.com/home/security-news/fraud-and-security-departments-converge-on-battle-against-synthetic-identities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Reserve recently produced a formal definition for synthetic identity fraud, a process that involved a committee of a dozen outside experts convening over nine months. So what is it? And why should CISOs care?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS issues cyber order to pipeline operators in first move to regulate critical infrastructure sectors<a href="https://www.scmagazine.com/home/government/dhs-issues-cybersecurity-order-to-pipeline-operators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TSA order marks the first mandatory cybersecurity practices for pipelines, and what some expect will be the first of more standards that the government puts in place to regulate how critical infrastructure operators protect networks and systems.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US announces new security directive after critical pipeline hack<a href="https://www.bleepingcomputer.com/news/security/us-announces-new-security-directive-after-critical-pipeline-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Department of Homeland Security (DHS) has announced new pipeline cybersecurity requirements&nbsp;after the largest fuel pipeline in the United States was forced to shut down operations in early May following a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Expects Russian Cyberattacks on Tokyo Summer Olympics<a href="https://news.softpedia.com/news/japan-expects-russian-cyberattacks-on-tokyo-summer-olympics-533044.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Masatoshi Fujitani, president of the Tokyo-based Japan Forum for Strategic Studies (JFSS), the Summer Olympics in Tokyo are likely to be targeted by cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Intelligence Agency FSB Reports Hacking Campaign Aimed at Government Agencies<a href="https://www.usnews.com/news/technology/articles/2021-05-26/russias-fsb-reports-unprecedented-hacking-campaign-aimed-at-government-agencies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report also mentioned that hackers had used the cloud storage facilities of Russia's leading technology firms, Yandex and Mail.ru, to help exfiltrate data stolen from the government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+US News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

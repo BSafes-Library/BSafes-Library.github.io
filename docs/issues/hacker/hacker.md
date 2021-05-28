@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Fake Foundations to Target Uyghur Minority in China<a href="https://thehackernews.com/2021/05/hackers-using-fake-foundations-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uyghur community located in China and Pakistan has been the subject of an ongoing espionage campaign aiming to trick the targets into downloading a Windows backdoor to amass sensitive information from their systems.  "Considerable effort was put into disguising the payloads, whether by creating delivery documents that appear to be originating from the United Nations using up to date related themes, or by setting up websites for non-existing organizations claiming to fund charity groups," according to joint research published by Check Point Research  and Kaspersky today.  The Uyghurs are a Turkic ethnic minority group originating from Central and East Asia and are recognized as native to the Xinjiang Uyghur Autonomous Region in Northwest China. At least since 2015, government authorities have placed the region under tight surveillance, putting hundreds of thousands into prisons and internment camps that the government calls "Vocational Education and Training Centers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

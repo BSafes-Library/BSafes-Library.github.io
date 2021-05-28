@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Who Targeted Cops Gets Jail Time<a href="https://www.infosecurity-magazine.com:443/news/hacker-who-targeted-cops-gets-jail/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Hampshire hacker behind bars after targeting Auburn Police Department
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French authorities seize their third dark web marketplace<a href="https://therecord.media/french-authorities-seize-their-third-dark-web-marketplace/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French authorities have dismantled their third dark web marketplace over the last four years after they seized control of “Le Monde Parallèle” (The Parallel World) last week.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

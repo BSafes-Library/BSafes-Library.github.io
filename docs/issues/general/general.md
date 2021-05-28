@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: TSA formally directs pipeline companies to report cybersecurity incidents in wake of Colonial attack | Tech trade groups sue Florida over new social media law<a href="https://thehill.com//policy/technology/overnights/555848-hillicon-valley-tsa-formally-directs-pipeline-companies-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration issued a security directive Thursday to strengthen federal cybersecurity oversight of pipelines following the attack on the Colonial Pipeline. Meanwhile, the Senate Judiciary antitrust subcommittee announced a series of hearings slated for the summer, and tech trade groups are suing Florida over a bill that aims to prohibit social media companies from banning politicians.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA formally directs pipeline companies to report cybersecurity incidents in wake of Colonial attack<a href="https://thehill.com//policy/cybersecurity/555660-tsa-formally-directs-pipeline-companies-to-report-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) will formally issue a security directive Thursday to strengthen federal cybersecurity oversight of pipelines, weeks after a ransomware attack on Colonial Pipeline led to fuel shortages in multiple states.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NASA identified 1,785 cyber incidents in 2020<a href="https://securityaffairs.co/wordpress/118323/reports/nasa-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NASA identified more than 6,000 cyber-related incidents in the last four years, according to a report published by its Office of Inspector General.
+
+
+
+The U.S. National Aeronautics and Space Administration (NASA) has identified more than 6,000 cyber-related...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Number of Breached Records Soars 224% Annually<a href="https://www.infosecurity-magazine.com:443/news/number-of-breached-records-soars/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva warns of gap between security and digital adoption
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attacks on banks can trigger more rating action, warns S&amp;P<a href="https://ciso.economictimes.indiatimes.com/news/cyber-attacks-on-banks-can-trigger-more-rating-action-warns-sp/82972924?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks can harm credit ratings mainly through reputational damage and potential monetary losses, the ratings agency said in a report titled 'Cyber Risk In A New Era: The Effect On Bank Ratings.'
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

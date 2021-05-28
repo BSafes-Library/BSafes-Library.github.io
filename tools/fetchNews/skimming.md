@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22 Americans Indicted Over Card-Skimming Scam<a href="https://www.infosecurity-magazine.com:443/news/22-americans-indicted-over-card/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly two dozen individuals charged with purchasing and using payment cards stolen from national retail chain
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

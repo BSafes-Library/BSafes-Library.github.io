@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uyghurs targeted by fake human rights emails<a href="https://thehill.com//policy/cybersecurity/555627-uyghurs-targeted-by-fake-human-rights-emails"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the Uyghur Muslim community in China and abroad are being targeted in a surveillance efforts by likely "Chinese-speaking" hackers through the use of fake emails from the United Nations (U.N.) and a human rights group, cybersecurity researchers announced Thursday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Phishing Attack Targets High-Profile Uyghurs<a href="https://www.infosecurity-magazine.com:443/news/chinese-phishing-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky and Check Point team up to reveal latest espionage campaign
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeppelin Ransomware Begins a New Ride<a href="https://cyware.com/news/zeppelin-ransomware-begins-a-new-ride-90732250"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a hiatus, Zeppelin ransomware, a possible variant of the Vega Ransomware-as-a-Service (RaaS), is active again. Without stepping into the trend of double extortion, it can still cause serious damage to victims' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

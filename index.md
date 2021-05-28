@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada Post hit by data breach after supplier ransomware attack<a href="https://www.bleepingcomputer.com/news/security/canada-post-hit-by-data-breach-after-supplier-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How North Korean Threat Actors Pulled Off Multimillion-Dollar Heists?<a href="https://cyware.com/news/how-north-korean-threat-actors-pulled-off-multimillion-dollar-heists-e40b507b"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: TSA formally directs pipeline companies to report cybersecurity incidents in wake of Colonial attack | Tech trade groups sue Florida over new social media law<a href="https://thehill.com//policy/technology/overnights/555848-hillicon-valley-tsa-formally-directs-pipeline-companies-to"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertising Campaign On Google Distributed Trojanized AnyDesk Installer<a href="https://thehackernews.com/2021/05/malvertising-campaign-on-google.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Who Targeted Cops Gets Jail Time<a href="https://www.infosecurity-magazine.com:443/news/hacker-who-targeted-cops-gets-jail/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Ransomware Problem Is a Bitcoin Problem<a href="https://www.lawfareblog.com/ransomware-problem-bitcoin-problem"> Full Text</a>
@@ -130,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT hacked a US municipal government via an unpatched Fortinet VPN<a href="https://securityaffairs.co/wordpress/118338/apt/fortinet-vpn-us-municipal-government.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is the attack on Fujitsu’s ProjectWEB SaaS platform the next big supply chain attack?<a href="https://www.scmagazine.com/home/security-news/data-breach/is-the-attack-on-fujitsus-projectweb-saas-platform-the-next-big-supply-chain-attack/"> Full Text</a>
@@ -166,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Targeted AnyDesk Ads on Google Served Up Weaponized App<a href="https://threatpost.com/ad-malicious-version-anydesk/166525/"> Full Text</a>
@@ -182,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: APT hackers breached US local govt by exploiting Fortinet bugs<a href="https://www.bleepingcomputer.com/news/security/fbi-apt-hackers-breached-us-local-govt-by-exploiting-fortinet-bugs/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zeppelin Ransomware Begins a New Ride<a href="https://cyware.com/news/zeppelin-ransomware-begins-a-new-ride-90732250"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 GOP senators come out against Biden intelligence nominee over Huawei ties<a href="https://thehill.com//policy/national-security/555714-3-gop-senators-come-out-against-biden-intelligence-nominee-over-work"> Full Text</a>
@@ -230,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Fake Foundations to Target Uyghur Minority in China<a href="https://thehackernews.com/2021/05/hackers-using-fake-foundations-to.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Warn DarkSide May Not Stay Dark<a href="https://www.infosecurity-magazine.com:443/news/feds-warn-darkside-may-not-stay/"> Full Text</a>
@@ -262,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS announces security measures for critical pipeline industry<a href="https://securityaffairs.co/wordpress/118332/security/dhs-critical-pipeline-industry.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraud and security departments converge on battle against ‘synthetic identities’<a href="https://www.scmagazine.com/home/security-news/fraud-and-security-departments-converge-on-battle-against-synthetic-identities/"> Full Text</a>
@@ -298,7 +298,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BazaFlix attack pushes BazarLoader malware via fake movie site<a href="https://www.bleepingcomputer.com/news/security/new-bazaflix-attack-pushes-bazarloader-malware-via-fake-movie-site/"> Full Text</a>
@@ -314,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Devices Bombarded by Cyberattacks<a href="https://cyware.com/news/qnap-devices-bombarded-by-cyberattacks-7af9e3bc"> Full Text</a>
@@ -330,7 +330,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TSA formally directs pipeline companies to report cybersecurity incidents in wake of Colonial attack<a href="https://thehill.com//policy/cybersecurity/555660-tsa-formally-directs-pipeline-companies-to-report-cybersecurity"> Full Text</a>
@@ -346,7 +346,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at Canada Post<a href="https://www.infosecurity-magazine.com:443/news/data-breach-at-canada-post/"> Full Text</a>
@@ -362,7 +362,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NASA identified 1,785 cyber incidents in 2020<a href="https://securityaffairs.co/wordpress/118323/reports/nasa-cyber-attacks.html"> Full Text</a>
@@ -382,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Florida water attack investigators avoided an embarrassing misattribution<a href="https://www.scmagazine.com/home/security-news/malware/how-florida-water-attack-investigators-avoided-an-embarrassing-misattribution/"> Full Text</a>
@@ -398,7 +398,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Klarna mobile app bug let users log into other customers' accounts<a href="https://www.bleepingcomputer.com/news/security/klarna-mobile-app-bug-let-users-log-into-other-customers-accounts/"> Full Text</a>
@@ -414,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French authorities seize their third dark web marketplace<a href="https://therecord.media/french-authorities-seize-their-third-dark-web-marketplace/?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uyghurs targeted by fake human rights emails<a href="https://thehill.com//policy/cybersecurity/555627-uyghurs-targeted-by-fake-human-rights-emails"> Full Text</a>
@@ -446,7 +446,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Phishing Attack Targets High-Profile Uyghurs<a href="https://www.infosecurity-magazine.com:443/news/chinese-phishing-targets/"> Full Text</a>
@@ -462,7 +462,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers compromised Japanese government offices via Fujitsu ‘s ProjectWEB tool<a href="https://securityaffairs.co/wordpress/118318/data-breach/fujitsu-projectweb-hack.html"> Full Text</a>
@@ -482,7 +482,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS issues cyber order to pipeline operators in first move to regulate critical infrastructure sectors<a href="https://www.scmagazine.com/home/government/dhs-issues-cybersecurity-order-to-pipeline-operators/"> Full Text</a>
@@ -498,7 +498,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US announces new security directive after critical pipeline hack<a href="https://www.bleepingcomputer.com/news/security/us-announces-new-security-directive-after-critical-pipeline-hack/"> Full Text</a>
@@ -514,7 +514,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Human Rights Organization, UN Branding Used by Chinese Threat Actor to Target Uyghurs in Ongoing Cyberattacks<a href="https://www.zdnet.com/article/fake-human-rights-organization-un-branding-used-to-target-uyghurs-in-ongoing-cyberattacks/?&web_view=true"> Full Text</a>
@@ -530,7 +530,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Number of Breached Records Soars 224% Annually<a href="https://www.infosecurity-magazine.com:443/news/number-of-breached-records-soars/"> Full Text</a>
@@ -546,7 +546,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HPE fixes critical zero-day vulnerability disclosed in December<a href="https://www.bleepingcomputer.com/news/security/hpe-fixes-critical-zero-day-vulnerability-disclosed-in-december/"> Full Text</a>
@@ -562,7 +562,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada Post Among 44 Organizations Linked to 950,000 Customers Impacted by Malware Attack at Crown Corporation<a href="https://globalnews.ca/news/7894760/canada-post-data-breach/?&web_view=true"> Full Text</a>
@@ -578,7 +578,7 @@ Global News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Third of #COVID19 Fraud Victims Go Hungry<a href="https://www.infosecurity-magazine.com:443/news/a-third-of-covid19-fraud-victims/"> Full Text</a>
@@ -594,7 +594,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan Expects Russian Cyberattacks on Tokyo Summer Olympics<a href="https://news.softpedia.com/news/japan-expects-russian-cyberattacks-on-tokyo-summer-olympics-533044.shtml?&web_view=true"> Full Text</a>
@@ -610,7 +610,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Intelligence Agency FSB Reports Hacking Campaign Aimed at Government Agencies<a href="https://www.usnews.com/news/technology/articles/2021-05-26/russias-fsb-reports-unprecedented-hacking-campaign-aimed-at-government-agencies?&web_view=true"> Full Text</a>
@@ -626,7 +626,7 @@ US News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Melting Ice - Tracking IcedID Servers with a few simple steps<a href="https://research.checkpoint.com/2021/melting-ice-tracking-icedid-servers-with-a-few-simple-steps/?&web_view=true"> Full Text</a>
@@ -642,7 +642,7 @@ Check Point Research
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber attacks on banks can trigger more rating action, warns S&P<a href="https://ciso.economictimes.indiatimes.com/news/cyber-attacks-on-banks-can-trigger-more-rating-action-warns-sp/82972924?&web_view=true"> Full Text</a>
@@ -658,7 +658,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 M1RACLES, the unpatchable bug that impacts new Apple M1 chips<a href="https://securityaffairs.co/wordpress/118310/security/apple-m1-chips-m1racles-flaw.html"> Full Text</a>
@@ -678,7 +678,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2021
+May 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese government agencies suffer data breaches after Fujitsu hack<a href="https://www.bleepingcomputer.com/news/security/japanese-government-agencies-suffer-data-breaches-after-fujitsu-hack/"> Full Text</a>
@@ -694,7 +694,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2021
+May 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Discovered Bugs in VSCode Extensions Could Lead to Supply Chain Attacks<a href="https://thehackernews.com/2021/05/newly-discovered-bugs-in-vscode.html"> Full Text</a>
