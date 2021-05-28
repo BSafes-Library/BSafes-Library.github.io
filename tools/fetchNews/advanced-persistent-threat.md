@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT hacked a US municipal government via an unpatched Fortinet VPN<a href="https://securityaffairs.co/wordpress/118338/apt/fortinet-vpn-us-municipal-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI revealed that foreign hackers compromised the network of a local US municipal government by exploiting flaws in an unpatched Fortinet VPN.
+
+
+
+The Federal Bureau of Investigation (FBI) reported that an APT group had breached the network of a local...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: APT hackers breached US local govt by exploiting Fortinet bugs<a href="https://www.bleepingcomputer.com/news/security/fbi-apt-hackers-breached-us-local-govt-by-exploiting-fortinet-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Federal Bureau of Investigation (FBI) says the webserver of a US municipal government was breached by state-sponsored attackers after hacking a Fortinet appliance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

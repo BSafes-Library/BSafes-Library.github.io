@@ -8,6 +8,90 @@ nav_order: 900015
 
 ## Attack
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is the attack on Fujitsu’s ProjectWEB SaaS platform the next big supply chain attack?<a href="https://www.scmagazine.com/home/security-news/data-breach/is-the-attack-on-fujitsus-projectweb-saas-platform-the-next-big-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it’s still early, some researchers view the reported hacking into Fujitsu’s ProjectWEB software-as-a-service (SaaS) platform as as a nation-state attack not unlike the one that targeted the SolarWinds supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BazaFlix attack pushes BazarLoader malware via fake movie site<a href="https://www.bleepingcomputer.com/news/security/new-bazaflix-attack-pushes-bazarloader-malware-via-fake-movie-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a new BazarCall email phishing campaign that manages to bypass automated threat detection systems to deliver the BazarLoader malware used by the TrickBot gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Devices Bombarded by Cyberattacks<a href="https://cyware.com/news/qnap-devices-bombarded-by-cyberattacks-7af9e3bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks on Taiwan-based QNAP continue to turn ugly. It is now advising its clients to update the HBS 3 disaster recovery app to block Qlocker ransomware actors who now use a backdoor that exploits a hard-coded credentials vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Florida water attack investigators avoided an embarrassing misattribution<a href="https://www.scmagazine.com/home/security-news/malware/how-florida-water-attack-investigators-avoided-an-embarrassing-misattribution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dragos limited initial disclosure to only relevant parties, after discovering a watering-hole malware attack that later turned out to be unrelated.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Human Rights Organization, UN Branding Used by Chinese Threat Actor to Target Uyghurs in Ongoing Cyberattacks<a href="https://www.zdnet.com/article/fake-human-rights-organization-un-branding-used-to-target-uyghurs-in-ongoing-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potential victims are sent phishing documents branded with the UNHRC logo. Named UgyhurApplicationList.docx, this document contains decoy material relating to discussions of human rights violations.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Post Among 44 Organizations Linked to 950,000 Customers Impacted by Malware Attack at Crown Corporation<a href="https://globalnews.ca/news/7894760/canada-post-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware attack on Crown Corporation has caused a data breach affecting 44 of the company’s large business clients and their 950,000 receiving customers, the postal agency confirmed Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Global News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

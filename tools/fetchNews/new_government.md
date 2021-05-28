@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI to share compromised passwords with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/fbi-to-share-compromised-passwords-with-have-i-been-pwned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI will soon begin to share compromised passwords with Have I Been Pwned's 'Password Pwned' service that were discovered during law enforcement investigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

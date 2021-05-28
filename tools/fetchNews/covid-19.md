@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Third of #COVID19 Fraud Victims Go Hungry<a href="https://www.infosecurity-magazine.com:443/news/a-third-of-covid19-fraud-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ITRC report claims many don’t have money for food or utilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

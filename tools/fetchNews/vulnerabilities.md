@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Klarna mobile app bug let users log into other customers' accounts<a href="https://www.bleepingcomputer.com/news/security/klarna-mobile-app-bug-let-users-log-into-other-customers-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Klarna Bank suffered a severe technical issue this morning that allowed mobile app users to log into other customers' accounts and see their stored information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE fixes critical zero-day vulnerability disclosed in December<a href="https://www.bleepingcomputer.com/news/security/hpe-fixes-critical-zero-day-vulnerability-disclosed-in-december/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett Packard Enterprise (HPE) has released a security update to address a zero-day remote code execution vulnerability disclosed last year, in December.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+M1RACLES, the unpatchable bug that impacts new Apple M1 chips<a href="https://securityaffairs.co/wordpress/118310/security/apple-m1-chips-m1racles-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security expert has discovered a vulnerability in Apple M1 chips, dubbed M1RACLES, that cannot be fixed.
+
+
+
+Software engineer Hector Martin from Asahi Linux has discovered a vulnerability in the new Apple M1 chips, tracked as CVE-2021-30747, that was named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Bugs in VSCode Extensions Could Lead to Supply Chain Attacks<a href="https://thehackernews.com/2021/05/newly-discovered-bugs-in-vscode.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Severe security flaws uncovered in popular Visual Studio Code extensions could enable attackers to compromise local machines as well as build and deployment systems through a developer's integrated development environment (IDE).  The vulnerable extensions could be exploited to run arbitrary code on a developer's system remotely, in what could ultimately pave the way for supply chain attacks.  Some of the extensions in question are "LaTeX Workshop," "Rainbow Fart," "Open in Default Browser," and "Instant Markdown," all of which have cumulatively racked up about two million installations between them.  "Developer machines usually hold significant credentials, allowing them (directly or indirectly) to interact with many parts of the product," researchers from open-source security platform Synk&nbsp; said &nbsp;in a deep-dive published on May 26. "Leaking a developer's private key can allow a malicious stakeholder to clone important
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Post hit by data breach after supplier ransomware attack<a href="https://www.bleepingcomputer.com/news/security/canada-post-hit-by-data-breach-after-supplier-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada Post has informed 44 of its large commercial customers that a ransomware attack on a third-party service provider exposed shipping information for their customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Canada Post<a href="https://www.infosecurity-magazine.com:443/news/data-breach-at-canada-post/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware attack on third-party supplier leads to data breach at Canada Post
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised Japanese government offices via Fujitsu ‘s ProjectWEB tool<a href="https://securityaffairs.co/wordpress/118318/data-breach/fujitsu-projectweb-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have compromised offices of multiple Japanese agencies via Fujitsu 's ProjectWEB information sharing tool.
+
+
+
+Threat actors have breached the offices of multiple Japanese agencies after they have gained access to projects that uses the Fujitsu...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese government agencies suffer data breaches after Fujitsu hack<a href="https://www.bleepingcomputer.com/news/security/japanese-government-agencies-suffer-data-breaches-after-fujitsu-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offices of multiple Japanese agencies were breached via Fujitsu's "ProjectWEB" information sharing tool. Fujitsu states&nbsp;that attackers&nbsp;gained unauthorized access to projects that used ProjectWEB, and stole some&nbsp;customer data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

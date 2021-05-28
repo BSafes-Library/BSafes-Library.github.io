@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers seized email system used by State Department aid agency, human rights groups<a href="https://thehill.com//policy/cybersecurity/555893-russian-hackers-seized-email-system-used-by-state-department-aid-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers seized the email system used by the State Department’s international agency and other human rights groups, Microsoft announced.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

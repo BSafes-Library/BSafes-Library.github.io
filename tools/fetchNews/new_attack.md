@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Post disclosed a ransomware attack on a third-party service provider<a href="https://securityaffairs.co/wordpress/118346/data-breach/canada-post-disclosed-a-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada Post disclosed a ransomware attack on a third-party service provider that exposed shipping information for their customers.
+
+
+
+Canada Post announced that a ransomware attack on a third-party service provider exposed shipping information for their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Khanna, Mace introduce bill to strengthen federal cyber workforce following major hacks<a href="https://thehill.com//policy/cybersecurity/555863-khanna-mace-introduce-bill-to-strengthen-federal-cyber-workforce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reps. Ro Khanna (D-Calif.) and Nancy MaceNancy MaceGOP leaders face new calls to boot Greene House Republican offers flowchart for Marjorie Taylor Greene Joe Cunningham to enter race for South Carolina governor  MORE (R-S.C.) on Friday introduced legislation to strengthen the federal workforce in the wake of a year of escalating cyber threats and attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hackers Target Think Tanks With New 'NativeZone' Backdoor<a href="https://thehackernews.com/2021/05/solarwinds-hackers-target-think-tanks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed that the threat actor behind the&nbsp; SolarWinds supply chain hack &nbsp;returned to the threat landscape to target government agencies, think tanks, consultants, and non-governmental organizations located across 24 countries, including the U.S.  "This wave of attacks targeted approximately 3,000 email accounts at more than 150 different organizations," Tom Burt, Microsoft's Corporate Vice President for Customer Security and Trust,&nbsp; said . "At least a quarter of the targeted organizations were involved in international development, humanitarian, and human rights work."  Microsoft attributed the intrusions to the Russian threat actor it tracks as Nobelium, and by the wider cybersecurity community under the monikers APT29, UNC2452 (FireEye), SolarStorm (Unit 42), StellarParticle (Crowdstrike), and Dark Halo (Volexity).   The latest wave  in a series of intrusions is said to have begun on Jan. 28, 2021, before reaching a new level of escalat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: SolarWinds hackers target govt agencies from 24 countries<a href="https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-target-govt-agencies-from-24-countries/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Microsoft Threat Intelligence Center (MSTIC) has discovered that the Russian-based SolarWinds hackers are behind an ongoing phishing campaign targeting government agencies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

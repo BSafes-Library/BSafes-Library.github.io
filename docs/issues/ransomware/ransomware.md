@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs' slow decryptors prompt victims to seek alternatives<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-slow-decryptors-prompt-victims-to-seek-alternatives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, two highly publicized ransomware victims received a decryptor that was too slow to make it effective in quickly restoring the victim's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based Epsilon Red Ransomware Leverages PowerShell Scripts for Malicious Objectives<a href="https://news.sophos.com/en-us/2021/05/28/epsilonred/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware was delivered as the final executable payload in a hand-controlled attack against a US-based business in the hospitality industry with early-stage components in form of PowerShell scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
