@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CVE-2020-15782 flaw in Siemens PLCs allows remote hack<a href="https://securityaffairs.co/wordpress/118367/ics-scada/cve-2020-15782-siemens-plcs-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity firm Claroty discovered a new flaw in Siemens PLCs that can be exploited by a remote and unauthenticated attacker to hack the devices.
+
+
+
+Researchers at industrial cybersecurity firm Claroty have discovered a high-severity vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Post-COVID Return to Offices<a href="https://threatpost.com/hackers-exploit-covid-office/166550/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spoofed CIO ‘pandemic guideline’ emails being used to steal credentials. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Myths versus reality: Three takeaways from the Colonial Pipeline attack<a href="https://www.scmagazine.com/home/security-news/ransomware/myths-versus-reality-three-takeaways-from-the-colonial-pipeline-attack/"> Full Text</a>
 </p>
 <details>
