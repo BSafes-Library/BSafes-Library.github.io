@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese cyberspies are targeting US, EU orgs with new malware<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-are-targeting-us-eu-orgs-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese threat groups continue to deploy new malware strains on the compromised network of dozens of US and EU organizations after exploiting vulnerable Pulse Secure VPN appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pharma Sector Increasingly Susceptible to Ransomware Attacks<a href="https://cyware.com/news/pharma-sector-increasingly-susceptible-to-ransomware-attacks-9e5b9c3c"> Full Text</a>
 </p>
 <details>
