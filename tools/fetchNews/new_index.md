@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden budget includes $750M to help agencies recover from SolarWinds hack in proposed budget<a href="https://thehill.com//policy/cybersecurity/556034-biden-includes-750-million-to-help-agencies-recover-from-solarwinds-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden’s proposed budget for the upcoming fiscal year includes $750 million to address the ongoing fallout from the SolarWinds hack, even as lawmakers continue to press the administration to include more funding for a key cyber agency. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ‘OMG it’s a bug!’ Beware the bells and whistles around vulnerability disclosures<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/omg-its-a-bug-beware-the-bells-and-whistles-around-vulnerability-disclosures/"> Full Text</a>
 </p>
 <details>
