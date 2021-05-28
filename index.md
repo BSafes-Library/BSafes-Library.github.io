@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mexico walls off national lottery sites after ransomware DDoS threat<a href="https://www.bleepingcomputer.com/news/security/mexico-walls-off-national-lottery-sites-after-ransomware-ddos-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Access to Mexico's Lotería Nacional and Pronósticos lottery websites are now blocked to IP addresses outside of Mexico after a ransomware gang threatened to perform denial of service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Flash Alert Against Conti Ransomware<a href="https://cyware.com/news/fbi-issues-flash-alert-against-conti-ransomware-2618b25b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has identified at least 16 Conti ransomware attacks targeting U.S. healthcare and first responder networks, such as emergency medical services, law enforcement agencies, municipalities, and 911 dispatch centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hackers Go Phishing<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-hackers-go-phishing/"> Full Text</a>
 </p>
 <details>
