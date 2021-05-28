@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Jails Telemarketing Fraudster<a href="https://www.infosecurity-magazine.com:443/news/us-jails-telemarketing-fraudster/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal prison for fraudster who tricked Americans into thinking their computers were under attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mexico walls off national lottery sites after ransomware DDoS threat<a href="https://www.bleepingcomputer.com/news/security/mexico-walls-off-national-lottery-sites-after-ransomware-ddos-threat/"> Full Text</a>
 </p>
 <details>
