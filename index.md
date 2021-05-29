@@ -34,6 +34,154 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Bizarro Streaming Site That Hackers Built From Scratch<a href="https://www.wired.com/story/bravomovies-fake-streaming-site-bazaloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BravoMovies campaign, spotted by researchers at security firm ProofPoint, has been around since at least early May. While many of its elements seem absurd at a glance, it shows just how far hackers are willing to go to ensnare their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate 2 New Hacks to Modify Certified PDF Documents<a href="https://thehackernews.com/2021/05/researchers-demonstrate-2-new-hacks-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed two new attack techniques on certified PDF documents that could potentially enable an attacker to alter a document's visible content by displaying malicious content over the certiﬁed content without invalidating its signature.  "The attack idea exploits the flexibility of PDF certification, which allows signing or adding annotations to certified documents under different permission levels,"  said  researchers from Ruhr-University Bochum, who have  systematically   analyzed  the security of the PDF specification over the years.  The findings were presented at the 42nd IEEE Symposium on Security and Privacy ( IEEE S&P 2021 ) held this week.  The two attacks — dubbed  Evil Annotation and Sneaky Signature attacks  — hinge on manipulating the PDF certification process by exploiting flaws in the specification that governs the implementation of digital signatures (aka approval signature) and its more flexible variant called certifica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes an NSM On-Prem bug, patch it asap!<a href="https://securityaffairs.co/wordpress/118372/security/sonicwall-nsm-on-prem-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urges customers to address a post-authentication flaw that affects on-premises versions of the Network Security Manager (NSM).
+
+
+
+SonicWall urges customers to 'immediately' address a post-authentication vulnerability, tracked as CVE-2021-20026,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes an NSM On-Prem bug, patch it asap!<a href="https://securityaffairs.co/wordpress/118372/security/sonicwall-nsm-on-prem-bug.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urged customers to ‘immediately’ address a post-authentication vulnerability, tracked as CVE-2021-20026, impacting on-premises versions of the Network Security Manager (NSM).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget sets aside $750 million for SolarWinds response<a href="https://www.reuters.com/article/us-usa-biden-budget-solarwinds/biden-budget-sets-aside-750-million-for-solarwinds-response-idUSKCN2D92IB?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden’s proposed budget includes $750 million for the government agencies hit by the SolarWinds hack to pay for cybersecurity improvements to prevent another attack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Patches Major PLC Flaw that Bypasses Its 'Sandbox' Protection<a href="https://www.darkreading.com/physical-security/siemens-patches-major-plc-flaw-that-bypasses-its-sandbox-protection/d/d-id/1341161?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published details on a serious vulnerability they found in Siemens SIMATIC S7-1200 and S7-1500 PLCs that could allow an attacker to gain remote access to protected memory areas of the popular programmable logic controllers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Groups Continue to Pound Away on Pulse Secure VPNs<a href="https://www.darkreading.com/attacks-breaches/chinese-apt-groups-continue-to-pound-away-on-pulse-secure-vpns/d/d-id/1341174?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat groups believed to be working in support of China's long-term economic interests are continuing to hammer away at networks belonging to organizations in the US and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Flaw That Allows Sneaky Screenshots<a href="https://blog.avast.com/apple-patches-flaw-that-allows-sneaky-screenshots-avast?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s Big Sur 11.4 patches a security flaw that could be exploited to take screenshots, record audio and video, and access files on someone else’s Mac without their knowing.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian SVR hackers target govt agencies from 24 countries<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-svr-hackers-target-govt-agencies-from-24-countries/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Threat Intelligence Center (MSTIC) has discovered that the Russian-backed hackers behind the SolarWinds supply-chain attack are now coordinating an ongoing phishing campaign targeting government agencies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
