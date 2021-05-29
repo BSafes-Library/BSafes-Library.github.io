@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyber Espionage Hackers Continue to Target Pulse Secure VPN Devices<a href="https://thehackernews.com/2021/05/chinese-cyber-espionage-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from FireEye unmasked additional tactics, techniques, and procedures (TTPs) adopted by Chinese threat actors who were recently found abusing Pulse Secure VPN devices to drop malicious web shells and exfiltrate sensitive information from enterprise networks.  FireEye's Mandiant threat intelligence team, which is tracking the cyberespionage activity under two threat clusters UNC2630 and UNC2717,&nbsp; said &nbsp;the intrusions line up with key Chinese government priorities, adding "many compromised organizations operate in verticals and industries aligned with Beijing's strategic objectives outlined in China's recent&nbsp; 14th Five Year Plan ."   On April 20, the cybersecurity firm&nbsp; disclosed &nbsp;12 different malware families, including STEADYPULSE and LOCKPICK, that have been designed with the express intent to infect Pulse Secure VPN appliances and put to use by several cyberespionage groups believed to be affiliated with the Chinese government.   UNC263
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

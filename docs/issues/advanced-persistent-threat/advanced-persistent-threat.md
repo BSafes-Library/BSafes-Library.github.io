@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Groups Continue to Pound Away on Pulse Secure VPNs<a href="https://www.darkreading.com/attacks-breaches/chinese-apt-groups-continue-to-pound-away-on-pulse-secure-vpns/d/d-id/1341174?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat groups believed to be working in support of China's long-term economic interests are continuing to hammer away at networks belonging to organizations in the US and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

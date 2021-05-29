@@ -34,7 +34,155 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Bizarro Streaming Site That Hackers Built From Scratch<a href="https://www.wired.com/story/bravomovies-fake-streaming-site-bazaloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BravoMovies campaign, spotted by researchers at security firm ProofPoint, has been around since at least early May. While many of its elements seem absurd at a glance, it shows just how far hackers are willing to go to ensnare their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate 2 New Hacks to Modify Certified PDF Documents<a href="https://thehackernews.com/2021/05/researchers-demonstrate-2-new-hacks-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed two new attack techniques on certified PDF documents that could potentially enable an attacker to alter a document's visible content by displaying malicious content over the certiﬁed content without invalidating its signature.  "The attack idea exploits the flexibility of PDF certification, which allows signing or adding annotations to certified documents under different permission levels,"  said  researchers from Ruhr-University Bochum, who have  systematically   analyzed  the security of the PDF specification over the years.  The findings were presented at the 42nd IEEE Symposium on Security and Privacy ( IEEE S&P 2021 ) held this week.  The two attacks — dubbed  Evil Annotation and Sneaky Signature attacks  — hinge on manipulating the PDF certification process by exploiting flaws in the specification that governs the implementation of digital signatures (aka approval signature) and its more flexible variant called certifica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes an NSM On-Prem bug, patch it asap!<a href="https://securityaffairs.co/wordpress/118372/security/sonicwall-nsm-on-prem-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urges customers to address a post-authentication flaw that affects on-premises versions of the Network Security Manager (NSM).
+
+
+
+SonicWall urges customers to 'immediately' address a post-authentication vulnerability, tracked as CVE-2021-20026,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes an NSM On-Prem bug, patch it asap!<a href="https://securityaffairs.co/wordpress/118372/security/sonicwall-nsm-on-prem-bug.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urged customers to ‘immediately’ address a post-authentication vulnerability, tracked as CVE-2021-20026, impacting on-premises versions of the Network Security Manager (NSM).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget sets aside $750 million for SolarWinds response<a href="https://www.reuters.com/article/us-usa-biden-budget-solarwinds/biden-budget-sets-aside-750-million-for-solarwinds-response-idUSKCN2D92IB?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden’s proposed budget includes $750 million for the government agencies hit by the SolarWinds hack to pay for cybersecurity improvements to prevent another attack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Patches Major PLC Flaw that Bypasses Its 'Sandbox' Protection<a href="https://www.darkreading.com/physical-security/siemens-patches-major-plc-flaw-that-bypasses-its-sandbox-protection/d/d-id/1341161?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published details on a serious vulnerability they found in Siemens SIMATIC S7-1200 and S7-1500 PLCs that could allow an attacker to gain remote access to protected memory areas of the popular programmable logic controllers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Groups Continue to Pound Away on Pulse Secure VPNs<a href="https://www.darkreading.com/attacks-breaches/chinese-apt-groups-continue-to-pound-away-on-pulse-secure-vpns/d/d-id/1341174?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat groups believed to be working in support of China's long-term economic interests are continuing to hammer away at networks belonging to organizations in the US and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Flaw That Allows Sneaky Screenshots<a href="https://blog.avast.com/apple-patches-flaw-that-allows-sneaky-screenshots-avast?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s Big Sur 11.4 patches a security flaw that could be exploited to take screenshots, record audio and video, and access files on someone else’s Mac without their knowing.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian SVR hackers target govt agencies from 24 countries<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-svr-hackers-target-govt-agencies-from-24-countries/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Threat Intelligence Center (MSTIC) has discovered that the Russian-backed hackers behind the SolarWinds supply-chain attack are now coordinating an ongoing phishing campaign targeting government agencies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook to resume some political donations | Microsoft says Russian hackers utilized email system used by USAID to target other groups | Senate confirms Biden's top scientist<a href="https://thehill.com//policy/cybersecurity/overnights/556046-hillicon-valley-facebook-to-resume-some-political-donations"> Full Text</a>
@@ -50,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden budget includes $750M to help agencies recover from SolarWinds hack in proposed budget<a href="https://thehill.com//policy/cybersecurity/556034-biden-includes-750-million-to-help-agencies-recover-from-solarwinds-hack"> Full Text</a>
@@ -66,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘OMG it’s a bug!’ Beware the bells and whistles around vulnerability disclosures<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/omg-its-a-bug-beware-the-bells-and-whistles-around-vulnerability-disclosures/"> Full Text</a>
@@ -82,7 +230,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Have I Been Pwned teams with FBI, gives open-source access to code<a href="https://www.scmagazine.com/password-management/have-i-been-pwned-teams-with-fbi-gives-open-source-access-to-code/"> Full Text</a>
@@ -98,7 +246,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2020-15782 flaw in Siemens PLCs allows remote hack<a href="https://securityaffairs.co/wordpress/118367/ics-scada/cve-2020-15782-siemens-plcs-flaw.html"> Full Text</a>
@@ -118,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Post-COVID Return to Offices<a href="https://threatpost.com/hackers-exploit-covid-office/166550/"> Full Text</a>
@@ -134,7 +282,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Myths versus reality: Three takeaways from the Colonial Pipeline attack<a href="https://www.scmagazine.com/home/security-news/ransomware/myths-versus-reality-three-takeaways-from-the-colonial-pipeline-attack/"> Full Text</a>
@@ -150,7 +298,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA-FireEye: 16 malware families from China infect Pulse Secure VPN appliances<a href="https://www.scmagazine.com/home/security-news/malware/cisa-fireeye-16-malware-families-from-china-infect-pulse-secure-vpn-appliances/"> Full Text</a>
@@ -166,7 +314,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds attackers leveraged trust in Constant Contact email marketing, USAID, to launch campaign<a href="https://www.scmagazine.com/home/security-news/phishing/solarwinds-attackers-leveraged-trust-in-constant-contact-email-marketing-usaid-to-launch-campaign/"> Full Text</a>
@@ -182,7 +330,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Issues Fortinet Flash Warning<a href="https://www.infosecurity-magazine.com:443/news/fbi-issues-fortinet-flash-warning/"> Full Text</a>
@@ -198,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It’s Time We Talk About JSWorm Ransomware<a href="https://cyware.com/news/its-time-we-talk-about-jsworm-ransomware-32787a6b"> Full Text</a>
@@ -214,7 +362,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Jails Telemarketing Fraudster<a href="https://www.infosecurity-magazine.com:443/news/us-jails-telemarketing-fraudster/"> Full Text</a>
@@ -230,7 +378,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mexico walls off national lottery sites after ransomware DDoS threat<a href="https://www.bleepingcomputer.com/news/security/mexico-walls-off-national-lottery-sites-after-ransomware-ddos-threat/"> Full Text</a>
@@ -246,7 +394,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Issues Flash Alert Against Conti Ransomware<a href="https://cyware.com/news/fbi-issues-flash-alert-against-conti-ransomware-2618b25b"> Full Text</a>
@@ -262,7 +410,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hackers Go Phishing<a href="https://www.infosecurity-magazine.com:443/news/solarwinds-hackers-go-phishing/"> Full Text</a>
@@ -278,7 +426,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Salesforce Leads $120 Million Round in Israeli Cyber Startup Wiz<a href="https://finance.yahoo.com/news/salesforce-leads-120-million-round-090604432.html?&web_view=true"> Full Text</a>
@@ -294,7 +442,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese cyberspies are targeting US, EU orgs with new malware<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-are-targeting-us-eu-orgs-with-new-malware/"> Full Text</a>
@@ -310,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2021
+May 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pharma Sector Increasingly Susceptible to Ransomware Attacks<a href="https://cyware.com/news/pharma-sector-increasingly-susceptible-to-ransomware-attacks-9e5b9c3c"> Full Text</a>

@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes an NSM On-Prem bug, patch it asap!<a href="https://securityaffairs.co/wordpress/118372/security/sonicwall-nsm-on-prem-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urges customers to address a post-authentication flaw that affects on-premises versions of the Network Security Manager (NSM).
+
+
+
+SonicWall urges customers to 'immediately' address a post-authentication vulnerability, tracked as&nbsp;CVE-2021-20026,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes an NSM On-Prem bug, patch it asap!<a href="https://securityaffairs.co/wordpress/118372/security/sonicwall-nsm-on-prem-bug.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urged customers to ‘immediately’ address a post-authentication vulnerability, tracked as CVE-2021-20026, impacting on-premises versions of the Network Security Manager (NSM).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Patches Major PLC Flaw that Bypasses Its 'Sandbox' Protection<a href="https://www.darkreading.com/physical-security/siemens-patches-major-plc-flaw-that-bypasses-its-sandbox-protection/d/d-id/1341161?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published details on a serious vulnerability they found in Siemens SIMATIC S7-1200 and S7-1500 PLCs that could allow an attacker to gain remote access to protected memory areas of the popular programmable logic controllers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Flaw That Allows Sneaky Screenshots<a href="https://blog.avast.com/apple-patches-flaw-that-allows-sneaky-screenshots-avast?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s Big Sur 11.4 patches a security flaw that could be exploited to take screenshots, record audio and video, and access files on someone else’s Mac without their knowing.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘OMG it’s a bug!’ Beware the bells and whistles around vulnerability disclosures<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/omg-its-a-bug-beware-the-bells-and-whistles-around-vulnerability-disclosures/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability disclosure shows how splashy websites, catchy names and a healthy dose of FUD can make any vulnerability sound scary.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2020-15782 flaw in Siemens PLCs allows remote hack<a href="https://securityaffairs.co/wordpress/118367/ics-scada/cve-2020-15782-siemens-plcs-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity firm Claroty discovered a new flaw in Siemens PLCs that can be exploited by a remote and unauthenticated attacker to hack the devices.
+
+
+
+Researchers at industrial cybersecurity firm Claroty have discovered a high-severity vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

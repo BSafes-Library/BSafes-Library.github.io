@@ -11,6 +11,48 @@ nav_order: 900072
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook to resume some political donations | Microsoft says Russian hackers utilized email system used by USAID to target other groups | Senate confirms Biden's top scientist<a href="https://thehill.com//policy/cybersecurity/overnights/556046-hillicon-valley-facebook-to-resume-some-political-donations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook said it’s resuming political donations after pausing in the wake of the Capitol insurrection, but will keep the ban in place for Republicans who voted against certifying the results of the election. Meanwhile, Microsoft said Russian hackers utilized an email system used by the State Department to target other organizations, and the Senate confirmed President BidenJoe BidenPaul Ryan: Voters won't be impressed by 'yes-men and flatterers flocking to Mar-a-Lago'  Intelligence told White House they have unexamined evidence on coronavirus origins: report Milley says U.S. planning for potential evacuation of Afghan translators from region MORE’s top scientist after he faced pushback over some controversial comments and past meetings.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned teams with FBI, gives open-source access to code<a href="https://www.scmagazine.com/password-management/have-i-been-pwned-teams-with-fbi-gives-open-source-access-to-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI will provide breached passwords to Have I Been Pwned when they are discovered during investigations, in an effort to better inform victims of cybercrime of compromise.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pharma Sector Increasingly Susceptible to Ransomware Attacks<a href="https://cyware.com/news/pharma-sector-increasingly-susceptible-to-ransomware-attacks-9e5b9c3c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 12% of pharmaceutical vendors are susceptible to suffering a ransomware attack, according to a survey by Black Kite. The average cost of cyberattacks on pharma companies per year is $31.1 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber Pros to Take Part in Charity Challenge to Help Fight Online Crime<a href="https://www.infosecurity-magazine.com:443/news/cyber-pros-charity-challenge/"> Full Text</a>
 </p>
 <details>

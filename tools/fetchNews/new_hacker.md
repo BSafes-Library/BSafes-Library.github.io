@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Bizarro Streaming Site That Hackers Built From Scratch<a href="https://www.wired.com/story/bravomovies-fake-streaming-site-bazaloader/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BravoMovies campaign, spotted by researchers at security firm ProofPoint, has been around since at least early May. While many of its elements seem absurd at a glance, it shows just how far hackers are willing to go to ensnare their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate 2 New Hacks to Modify Certified PDF Documents<a href="https://thehackernews.com/2021/05/researchers-demonstrate-2-new-hacks-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed two new attack techniques on certified PDF documents that could potentially enable an attacker to alter a document's visible content by displaying malicious content over the certiﬁed content without invalidating its signature.  "The attack idea exploits the flexibility of PDF certification, which allows signing or adding annotations to certified documents under different permission levels,"&nbsp; said &nbsp;researchers from Ruhr-University Bochum, who have&nbsp; systematically &nbsp; analyzed &nbsp;the security of the PDF specification over the years.  The findings were presented at the 42nd IEEE Symposium on Security and Privacy ( IEEE S&amp;P 2021 ) held this week.  The two attacks — dubbed&nbsp; Evil Annotation and Sneaky Signature attacks &nbsp;— hinge on manipulating the PDF certification process by exploiting flaws in the specification that governs the implementation of digital signatures (aka approval signature) and its more flexible variant called certifica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian SVR hackers target govt agencies from 24 countries<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-svr-hackers-target-govt-agencies-from-24-countries/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Microsoft Threat Intelligence Center (MSTIC) has discovered that the Russian-backed hackers behind the SolarWinds supply-chain attack are now coordinating an ongoing phishing campaign targeting government agencies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

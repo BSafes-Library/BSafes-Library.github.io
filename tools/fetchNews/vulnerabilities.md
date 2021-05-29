@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall urges customers to 'immediately' patch NSM On-Prem bug<a href="https://www.bleepingcomputer.com/news/security/sonicwall-urges-customers-to-immediately-patch-nsm-on-prem-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall urges customers to 'immediately' patch a post-authentication vulnerability impacting on-premises versions of the Network Security Manager (NSM) multi-tenant firewall management solution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Fixes Critical Zero-Day in Server Management Software<a href="https://threatpost.com/hpe-fixes-critical-zero-day-sim/166543/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug in HPE SIM makes it easy as pie for attackers to remotely trigger code, no user interaction necessary. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

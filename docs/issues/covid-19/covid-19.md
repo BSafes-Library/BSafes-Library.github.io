@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Post-COVID Return to Offices<a href="https://threatpost.com/hackers-exploit-covid-office/166550/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spoofed CIO ‘pandemic guideline’ emails being used to steal credentials. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

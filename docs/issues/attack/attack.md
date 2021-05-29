@@ -11,6 +11,34 @@ nav_order: 900015
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Myths versus reality: Three takeaways from the Colonial Pipeline attack<a href="https://www.scmagazine.com/home/security-news/ransomware/myths-versus-reality-three-takeaways-from-the-colonial-pipeline-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some saw Colonial Pipeline as a typical ransomware attack, albeit on a vulnerable target. Others saw this as reflective of weaknesses in the security posture of the nation’s critical infrastructure. And others felt the incident showcased inadequacies in the existing framework for public-private partnership. Here we offer a rundown of some notable characteristics and outcomes.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds attackers leveraged trust in Constant Contact email marketing, USAID, to launch campaign<a href="https://www.scmagazine.com/home/security-news/phishing/solarwinds-attackers-leveraged-trust-in-constant-contact-email-marketing-usaid-to-launch-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using a hijacked Constant Contact email marketing account of USAID, the adversaries sent phishing emails to roughly 3,000 accounts at more than 150 different organizations. About 25 percent of these targets were international development, humanitarian and human rights organizations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Canada Post disclosed a ransomware attack on a third-party service provider<a href="https://securityaffairs.co/wordpress/118346/data-breach/canada-post-disclosed-a-data-breach.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Pros to Take Part in Charity Challenge to Help Fight Online Crime<a href="https://www.infosecurity-magazine.com:443/news/cyber-pros-charity-challenge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The challenge will see 25 infosec pros walk 19,000 miles over the next six months
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC: Act Now to Protect Streaming Accounts<a href="https://www.infosecurity-magazine.com:443/news/ncsc-act-now-to-protect-streaming/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automatic updates and password changes are required
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building Multilayered Security for Modern Threats<a href="https://threatpost.com/multilayered-security-modern-threats/166457/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justin Jett, director of audit and compliance for Plixer, discusses the elements of a successful advanced security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert Overload Distressing 70% of SecOps Teams<a href="https://www.infosecurity-magazine.com:443/news/threequarters-secops-stress-alert/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stress leads many to walk away from their computer or switch off alerts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Infosec Pros Concerned About Next SolarWinds<a href="https://www.infosecurity-magazine.com:443/news/threequarters-infosec-pros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain risk a major worry, finds Infosecurity Europe poll
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Token Resistance: Tackling the New NFT Threat Landscape<a href="https://securityintelligence.com/articles/new-threat-landscape-nfts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beyond the massive cost for many of these crypto tokens, there’s also the issue of theft; if accounts are compromised and NFTs stolen, they could be sold to the highest bidder.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

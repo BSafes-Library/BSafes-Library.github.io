@@ -11,6 +11,20 @@ nav_order: 900163
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Jails Telemarketing Fraudster<a href="https://www.infosecurity-magazine.com:443/news/us-jails-telemarketing-fraudster/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal prison for fraudster who tricked Americans into thinking their computers were under attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Khanna, Mace introduce bill to strengthen federal cyber workforce following major hacks<a href="https://thehill.com//policy/cybersecurity/555863-khanna-mace-introduce-bill-to-strengthen-federal-cyber-workforce"> Full Text</a>
 </p>
 <details>

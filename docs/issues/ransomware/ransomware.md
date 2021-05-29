@@ -11,6 +11,20 @@ nav_order: 900180
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+It’s Time We Talk About JSWorm Ransomware<a href="https://cyware.com/news/its-time-we-talk-about-jsworm-ransomware-32787a6b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First discovered in 2019, the JSWorm ransomware gained infamy under several other names such as Nemty, Offwhite, and Nefilim, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs' slow decryptors prompt victims to seek alternatives<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-slow-decryptors-prompt-victims-to-seek-alternatives/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mexico walls off national lottery sites after ransomware DDoS threat<a href="https://www.bleepingcomputer.com/news/security/mexico-walls-off-national-lottery-sites-after-ransomware-ddos-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Access to Mexico's Lotería Nacional and Pronósticos&nbsp;lottery websites are now blocked to IP addresses outside of Mexico after a ransomware gang threatened to perform denial of service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

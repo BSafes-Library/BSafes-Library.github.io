@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAM Seamless Snags $20M Series B As Network Threats Grow<a href="https://news.crunchbase.com/news/sam-seamless-snags-20m-series-b-as-network-threats-grow/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel-based SAM Seamless Network raised a $20 million Series B as the cybersecurity company readies itself for the perfect storm of an expanding network attack surface and the coming of 5G.
+</details>
+<div style="text-align: right" markdown="1">
+CrunchBase News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DataDome raises $35M to defend ecommerce from bot attacks<a href="https://venturebeat.com/2021/05/26/datadome-raises-35m-to-defend-ecommerce-from-bot-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bot defense startup DataDome today announced it has raised $35 million in a Series B round led by Elephant. It aims to use the funds to invest in R&amp;D as it looks to expand its customer base.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

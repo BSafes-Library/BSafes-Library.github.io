@@ -8,6 +8,52 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT groups targets orgs via Pulse Secure VPN devices<a href="https://securityaffairs.co/wordpress/118358/hacking/pulse-secure-vpn-china-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from FireEye warn that China-linked APT groups continue to target Pulse Secure VPN devices to compromise networks.
+
+
+
+Cybersecurity researchers from FireEye warn once again that Chinese APT groups continue to target Pulse Secure VPN devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updates on Chinese APT Actors Compromising Pulse Secure VPN Devices<a href="https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant identified 16 malware families exclusively designed to infect Pulse Secure VPN appliances and used by several cyberespionage groups which are believed to be linked to the Chinese government.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Suspects Russia’s Cozy Bear APT Behind Attack Against U.S. Aid Agency<a href="https://www.nytimes.com/2021/05/28/us/politics/russia-hack-usaid.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By breaching the systems of a supplier used by the federal government, the hackers sent out genuine-looking emails to more than 3,000 accounts across more than 150 organizations linked to USAID.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
