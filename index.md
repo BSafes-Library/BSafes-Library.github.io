@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DeepSloth: An Adversarial Attack on Machine Learning Systems<a href="https://cyware.com/news/deepsloth-an-adversarial-attack-on-machine-learning-systems-dbfc5b2e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scientists working at the University of Maryland developed a new adversarial attack that can force machine learning systems to slow down and cause critical failures.&nbsp;Although this technique is not yet harmful, more such devastating slowdown attacks can be discovered in the future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 – Phishing attacks target employees that come back to the office<a href="https://securityaffairs.co/wordpress/118421/cyber-crime/post-covid-19-phishing.html"> Full Text</a>
 </p>
 <details>
