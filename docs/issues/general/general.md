@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can Your Business Email Be Spoofed? Check Your Domain Security Now!<a href="https://thehackernews.com/2021/05/can-your-business-email-be-spoofed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you aware of how secure your domain is? In most organizations, there is an assumption that their domains are secure and within a few months, but the truth soon dawns on them that it isn't.  Spotting someone spoofing your domain name is one way to determine if your security is unsatisfactory - this means that someone is impersonating you (or confusing some of your recipients) and releasing false information. You may ask, "But why should I care?" Because these spoofing activities can potentially endanger your reputation.  With so many companies being targeted by domain impersonators, email domain spoofing shouldn't be taken lightly. By doing so, they could put themselves, as well as their clients, at risk.&nbsp;  Your domain's security rating can make a huge difference in whether or not you get targeted by phishers looking to make money quickly or to use your domain and brand to spread ransomware without you knowing it!  Check your domain's security rating with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

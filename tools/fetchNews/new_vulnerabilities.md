@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts devised a new attack to bypass Microsoft PatchGuard<a href="https://securityaffairs.co/wordpress/118427/hacking/microsoft-patchguard-kpp-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered a bug in PatchGuard Windows security feature that can allow loading unsigned malicious code into the Windows kernel.
+
+
+
+Japanese researcher Kento Oki has discovered a bug in PatchGuard that could be exploited by an attacker...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Bug in Siemens PLCs Could Let Hackers Run Malicious Code Remotely<a href="https://thehackernews.com/2021/05/a-new-bug-in-siemens-plcs-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens on Friday shipped firmed updates to address a severe vulnerability in SIMATIC S7-1200 and S7-1500 programmable logic controllers (PLCs) that could be exploited by a malicious actor to remotely gain access to protected areas of the memory and achieve unrestricted and undetected code execution, in what the researchers describe as an attacker's "holy grail."  The memory protection bypass vulnerability, tracked as CVE-2020-15782 (CVSS score: 8.1), was discovered by operational technology security company Claroty by reverse-engineering the MC7 / MC7+ bytecode language used to execute PLC programs in the microprocessor. There's no evidence that the weakness was abused in the wild.   In an&nbsp; advisory &nbsp;issued by Siemens, the German industrial automation firm said an unauthenticated, remote attacker with network access to TCP port 102 could potentially write arbitrary data and code to protected memory areas or read sensitive data to launch further attacks.  "Achie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

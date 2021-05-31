@@ -8,6 +8,34 @@ nav_order: 900190
 
 ## Skimming
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WooCommerce Credit Card Skimmer Hides in Plain Sight<a href="https://blog.sucuri.net/2021/05/woocommerce-credit-card-skimmer.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use what appears to be a Google Tag Manager script, a popular service used on many websites, to hide their malicious content, while using base64 encoding for obfuscation.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobileInter: A Popular Magecart Skimmer Redesigned&nbsp;For Your Phone<a href="https://www.riskiq.com/blog/external-threat-management/mobile-inter/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With nearly three out of every four dollars spent online done via a mobile device, it's no wonder Magecart operators are looking to target this lucrative landscape using MobileInter.
+</details>
+<div style="text-align: right" markdown="1">
+Risk IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

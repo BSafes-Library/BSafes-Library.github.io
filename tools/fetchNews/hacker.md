@@ -11,6 +11,20 @@ nav_order: 900080
 May 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian hackers used 4 new malware in USAID phishing<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft states that a Russian hacking group used four new malware families in recent phishing attacks impersonating the United States Agency for International Development (USAID).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Bizarro Streaming Site That Hackers Built From Scratch<a href="https://www.wired.com/story/bravomovies-fake-streaming-site-bazaloader/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

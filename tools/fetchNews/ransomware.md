@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Epsilon Red ransomware hunts unpatched Microsoft Exchange servers<a href="https://www.bleepingcomputer.com/news/security/new-epsilon-red-ransomware-hunts-unpatched-microsoft-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware threat calling itself&nbsp;Red Epsilon has been seen leveraging Microsoft Exchange server vulnerabilities to encrypt machines across the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

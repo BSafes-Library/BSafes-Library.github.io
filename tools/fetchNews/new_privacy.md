@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your Amazon Devices to Automatically Share Your Wi-Fi With Neighbors<a href="https://thehackernews.com/2021/05/your-amazon-devices-to-automatically.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting June 8, Amazon will automatically enable a feature on your Alexa, Echo, or other Amazon device that will share   some   of   your   Internet   bandwidth  with   your neighbors—unless   you   choose   to   opt   out.  Amazon intends to register its family of hardware devices that are operational in the U.S.—including Echo speakers, Ring Video Doorbells, Ring Floodlight Cams, and Ring Spotlight Cams—into Sidewalk as it readies to roll out the shared mesh network in the country next week.  Initially&nbsp; announced &nbsp;in September 2019,&nbsp; Sidewalk &nbsp;is part of Amazon's efforts to build a long-range wireless network that leverages Bluetooth, 900 MHz spectrum ( FSK ), and other frequencies to help Echo, Ring, Tile trackers Sidewalk-enabled devices communicate over the internet without Wi-Fi.  Amazon is expected to flip the switch on Sidewalk in the U.S. for all capable devices by default&nbsp; come June 8 , co-opting millions of devices into the network and providing near-ubiquitous connect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

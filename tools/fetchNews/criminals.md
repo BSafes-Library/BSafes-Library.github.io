@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol has intercepted $83 million from financial cyber crimes<a href="https://securityaffairs.co/wordpress/118414/cyber-crime/interpol-financial-cyber-crimes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has intercepted $83 million in illicit funds transferred from victims to the accounts used by crooks.
+
+
+
+An operation conducted by Interpol, codenamed HAECHI-I, conducted by more than 40 officers in the Asia Pacific region over six months period...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol intercepts $83 million fighting financial cyber crime<a href="https://www.bleepingcomputer.com/news/security/interpol-intercepts-83-million-fighting-financial-cyber-crime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The INTERPOL (short for International Criminal Police Organisation) has intercepted $83 million belonging to victims of online financial crime from being transferred to the accounts of their attackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

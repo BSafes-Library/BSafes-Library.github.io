@@ -34,7 +34,139 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Ransomware Attack Leads to Downtime at JBS Meat Processing<a href="https://www.abc.net.au/news/2021-05-31/cyber-attack-shuts-down-global-meat-processing-giant-jbs/100178310?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world's largest meat processing company, JBS Foods, has fallen victim to cyber attacks that have shut down production around the world, including in North America, South America, and Australia.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Insiders
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your Amazon Devices to Automatically Share Your Wi-Fi With Neighbors<a href="https://thehackernews.com/2021/05/your-amazon-devices-to-automatically.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting June 8, Amazon will automatically enable a feature on your Alexa, Echo, or other Amazon device that will share   some   of   your   Internet   bandwidth  with   your neighbors—unless   you   choose   to   opt   out.  Amazon intends to register its family of hardware devices that are operational in the U.S.—including Echo speakers, Ring Video Doorbells, Ring Floodlight Cams, and Ring Spotlight Cams—into Sidewalk as it readies to roll out the shared mesh network in the country next week.  Initially  announced  in September 2019,  Sidewalk  is part of Amazon's efforts to build a long-range wireless network that leverages Bluetooth, 900 MHz spectrum ( FSK ), and other frequencies to help Echo, Ring, Tile trackers Sidewalk-enabled devices communicate over the internet without Wi-Fi.  Amazon is expected to flip the switch on Sidewalk in the U.S. for all capable devices by default  come June 8 , co-opting millions of devices into the network and providing near-ubiquitous connect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts devised a new attack to bypass Microsoft PatchGuard<a href="https://securityaffairs.co/wordpress/118427/hacking/microsoft-patchguard-kpp-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered a bug in PatchGuard Windows security feature that can allow loading unsigned malicious code into the Windows kernel.
+
+
+
+Japanese researcher Kento Oki has discovered a bug in PatchGuard that could be exploited by an attacker...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facefish Backdoor delivers rootkits to Linux x64 systems<a href="https://securityaffairs.co/wordpress/118388/malware/facefish-backdoor.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from Qihoo 360 NETLAB published details about a new backdoor, dubbed Facefish, which can be used by threat actors to steal login credentials and executing arbitrary commands on Linux systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can Your Business Email Be Spoofed? Check Your Domain Security Now!<a href="https://thehackernews.com/2021/05/can-your-business-email-be-spoofed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you aware of how secure your domain is? In most organizations, there is an assumption that their domains are secure and within a few months, but the truth soon dawns on them that it isn't.  Spotting someone spoofing your domain name is one way to determine if your security is unsatisfactory - this means that someone is impersonating you (or confusing some of your recipients) and releasing false information. You may ask, "But why should I care?" Because these spoofing activities can potentially endanger your reputation.  With so many companies being targeted by domain impersonators, email domain spoofing shouldn't be taken lightly. By doing so, they could put themselves, as well as their clients, at risk.   Your domain's security rating can make a huge difference in whether or not you get targeted by phishers looking to make money quickly or to use your domain and brand to spread ransomware without you knowing it!  Check your domain's security rating with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Ransomware Adversaries Reacted to the DarkSide Attack<a href="https://www.crowdstrike.com/blog/how-ransomware-adversaries-reacted-to-the-darkside-pipeline-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers attributes the operation of the DarkSide RaaS to CARBON SPIDER, and is a skilled eCrime (ECX) group, highly likely Eastern Europe- or Russia-based.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Streaming Service Spreads BazarLoader<a href="https://cyware.com/news/fake-streaming-service-spreads-bazarloader-f8bdeeab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers have noted how subscriptions to online streaming services during the COVID-19 pandemic have skyrocketed.&nbsp;Proofpoint researchers expose a malspam campaign using a fake movie streaming service called BravoMovies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steal Web Session Cookies From Facebook in Chrome<a href="https://gbhackers.com/how-hackers-steal-web-session-cookies-from-facebook-in-chrome/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cookies are simply small pieces of data that the web browser uses to for a better web surfing experience. Cookies are stored in memory and the hard drive of users' computers.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agrius Masquerades as Ransomware in Attacks Against Israel<a href="https://cyware.com/news/agrius-masquerades-as-ransomware-in-attacks-against-israel-0af6853e"> Full Text</a>
@@ -50,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WooCommerce Credit Card Skimmer Hides in Plain Sight<a href="https://blog.sucuri.net/2021/05/woocommerce-credit-card-skimmer.html?&web_view=true"> Full Text</a>
@@ -66,7 +198,7 @@ Sucuri
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MobileInter: A Popular Magecart Skimmer Redesigned For Your Phone<a href="https://www.riskiq.com/blog/external-threat-management/mobile-inter/?&web_view=true"> Full Text</a>
@@ -82,7 +214,7 @@ Risk IQ
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Bug in Siemens PLCs Could Let Hackers Run Malicious Code Remotely<a href="https://thehackernews.com/2021/05/a-new-bug-in-siemens-plcs-could-let.html"> Full Text</a>
@@ -98,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepSloth: An Adversarial Attack on Machine Learning Systems<a href="https://cyware.com/news/deepsloth-an-adversarial-attack-on-machine-learning-systems-dbfc5b2e"> Full Text</a>
@@ -114,7 +246,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 – Phishing attacks target employees that come back to the office<a href="https://securityaffairs.co/wordpress/118421/cyber-crime/post-covid-19-phishing.html"> Full Text</a>
