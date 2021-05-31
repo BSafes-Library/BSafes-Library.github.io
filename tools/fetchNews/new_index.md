@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WooCommerce Credit Card Skimmer Hides in Plain Sight<a href="https://blog.sucuri.net/2021/05/woocommerce-credit-card-skimmer.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use what appears to be a Google Tag Manager script, a popular service used on many websites, to hide their malicious content, while using base64 encoding for obfuscation.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 MobileInter: A Popular Magecart Skimmer Redesigned For Your Phone<a href="https://www.riskiq.com/blog/external-threat-management/mobile-inter/?&web_view=true"> Full Text</a>
 </p>
 <details>
