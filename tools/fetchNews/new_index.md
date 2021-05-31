@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Denmark intel helped US NSA to spy on European politicians<a href="https://securityaffairs.co/wordpress/118434/intelligence/us-nsa-spy-european-politicians.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Denmark’s foreign secret service allowed the US NSA to spy on European politicians through a Danish telecommunications hub.
+
+
+
+Journalists from Danish broadcaster DR recently received a document titled the Dunhammer Report, which included the findings...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Swedish Health Agency shuts down SmiNet after hacking attempts<a href="https://www.bleepingcomputer.com/news/security/swedish-health-agency-shuts-down-sminet-after-hacking-attempts/"> Full Text</a>
 </p>
 <details>
