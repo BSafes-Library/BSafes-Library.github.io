@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+May 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out: These unsubscribe emails only lead to further spam<a href="https://www.bleepingcomputer.com/news/security/watch-out-these-unsubscribe-emails-only-lead-to-further-spam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers use fake 'unsubscribe' spam emails to confirm valid email accounts to be used in future phishing and spam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 316<a href="https://securityaffairs.co/wordpress/118400/breaking-news/security-affairs-newsletter-round-316.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+A malware attack hit the Alaska Health DepartmentCVE-2021-31166 Windows HTTP flaw also impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

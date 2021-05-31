@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+May 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Russian hacks spark calls for tougher Biden actions<a href="https://thehill.com//policy/cybersecurity/556051-new-russian-hacks-spark-calls-for-tougher-biden-actions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials are calling for harsher measures against Russia following Microsoft’s assessment by that hackers behind the devastating SolarWinds hack were continuing to launch cyberattacks against U.S. government agencies and other organizations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI will share compromised passwords with HIBP Pwned Passwords<a href="https://securityaffairs.co/wordpress/118377/security/fbi-passwords-hibp-pwned-passwords.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is going to share compromised passwords discovered during investigations with Have I Been Pwned (HIBP)'s 'Pwned Passwords' service.
+
+
+
+The FBI will share compromised passwords that were discovered during investigations with the 'Pwned Passwords'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

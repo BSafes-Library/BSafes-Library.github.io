@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Walmart phishing attack says your package was not delivered<a href="https://www.bleepingcomputer.com/news/security/beware-walmart-phishing-attack-says-your-package-was-not-delivered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Walmart phishing campaign is underway that attempts to steal your personal information and verifies your email for further phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

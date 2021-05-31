@@ -11,6 +11,20 @@ nav_order: 900027
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Salesforce Leads $120 Million Round in Israeli Cyber Startup Wiz<a href="https://finance.yahoo.com/news/salesforce-leads-120-million-round-090604432.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salesforce led a new funding round in the Wiz, according to a person familiar with the matter. Existing investors include Greenoaks Capital, Advent International, Sequoia, and Insight Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SAM Seamless Snags $20M Series B As Network Threats Grow<a href="https://news.crunchbase.com/news/sam-seamless-snags-20m-series-b-as-network-threats-grow/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

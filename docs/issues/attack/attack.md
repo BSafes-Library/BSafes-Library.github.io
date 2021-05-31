@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+May 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These 2 attacks allow to alter certified PDF Documents<a href="https://securityaffairs.co/wordpress/118404/hacking/altering-signed-pdf-documents.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed two new attack techniques that allow modifying visible content on certified PDF documents without invalidating the digital signature.
+
+
+
+Researchers from Ruhr-University Bochum have disclosed two new attack techniques, dubbed Evil...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

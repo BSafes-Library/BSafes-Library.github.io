@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+May 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget sets aside $750 million for SolarWinds response<a href="https://www.reuters.com/article/us-usa-biden-budget-solarwinds/biden-budget-sets-aside-750-million-for-solarwinds-response-idUSKCN2D92IB?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden’s proposed budget includes $750 million for the government agencies hit by the SolarWinds hack to pay for cybersecurity improvements to prevent another attack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget includes $750M to help agencies recover from SolarWinds hack in proposed budget<a href="https://thehill.com//policy/cybersecurity/556034-biden-includes-750-million-to-help-agencies-recover-from-solarwinds-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden’s proposed budget for the upcoming fiscal year includes $750 million to address the ongoing fallout from the SolarWinds hack, even as lawmakers continue to press the administration to include more funding for a key cyber agency.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA-FireEye: 16 malware families from China infect Pulse Secure VPN appliances<a href="https://www.scmagazine.com/home/security-news/malware/cisa-fireeye-16-malware-families-from-china-infect-pulse-secure-vpn-appliances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye Mandiant, working in in tandem with Cybersecurity and Infrastructure Security Agency and Ivanti, reported details of 16 malware families exclusively designed to infect Ivanti Pulse Connect Secure VPN appliances, and used by several cyber espionage groups believed to be affiliated with the Chinese government. The blog post by Mandiant was an update to the…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Fortinet Flash Warning<a href="https://www.infosecurity-magazine.com:443/news/fbi-issues-fortinet-flash-warning/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI: APT actors exploiting Fortinet vulnerabilities to gain access for malicious activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Flash Alert Against Conti Ransomware<a href="https://cyware.com/news/fbi-issues-flash-alert-against-conti-ransomware-2618b25b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has identified at least 16 Conti ransomware attacks targeting U.S. healthcare and first responder networks, such as emergency medical services, law enforcement agencies, municipalities, and 911 dispatch centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
