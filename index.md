@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden budget seeks $750 million to respond to SolarWinds compromises, plus billions more for cyber<a href="https://www.cyberscoop.com/biden-budget-750-million-solarwinds-fiscal-2022/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden’s fiscal 2022 budget blueprint released Friday proposes $750m for the federal government to implement lessons learned from the SolarWinds hack that compromised nine agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US nuclear weapon bunker security secrets spill from online flashcards since 2013<a href="https://www.theregister.com/2021/05/28/flashcards_military_nuclear/?&web_view=true"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US nuclear weapon bunker security secrets spill from online flashcards since 2013<a href="https://www.theregister.com/2021/05/28/flashcards_military_nuclear/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak was revealed by investigative journalism website Bellingcat, which described the findings after “simply searching online for terms publicly known to be associated with nuclear weapons.”
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Using Fake Reviews to Find Dangerous Extensions – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/?&web_view=true"> Full Text</a>
 </p>
 <details>
