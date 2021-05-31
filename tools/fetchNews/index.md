@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fighting, screaming as alleged ATM scammer known as ‘The Shark’ is arrested in Mexico<a href="https://www.cyberscoop.com/mexico-atm-scam-florian-tudor-shark/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities in Mexico arrested the alleged head of a financial fraud operation that used infected ATMs to steal more than $1 billion from tourists in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden budget seeks $750 million to respond to SolarWinds compromises, plus billions more for cyber<a href="https://www.cyberscoop.com/biden-budget-750-million-solarwinds-fiscal-2022/?&web_view=true"> Full Text</a>
 </p>
 <details>
