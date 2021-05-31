@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PoC published for new Microsoft PatchGuard (KPP) bypass<a href="https://therecord.media/poc-published-for-new-microsoft-patchguard-kpp-bypass/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has discovered a bug in PatchGuard––a crucial Windows security feature––that can allow threat actors to load unsigned (malicious) code into the Windows operating system kernel.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Suspected Ransomware Attack Leads to Downtime at JBS Meat Processing<a href="https://www.abc.net.au/news/2021-05-31/cyber-attack-shuts-down-global-meat-processing-giant-jbs/100178310?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ Cybersecurity Insiders
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Your Amazon Devices to Automatically Share Your Wi-Fi With Neighbors<a href="https://thehackernews.com/2021/05/your-amazon-devices-to-automatically.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts devised a new attack to bypass Microsoft PatchGuard<a href="https://securityaffairs.co/wordpress/118427/hacking/microsoft-patchguard-kpp-bypass.html"> Full Text</a>
@@ -86,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facefish Backdoor delivers rootkits to Linux x64 systems<a href="https://securityaffairs.co/wordpress/118388/malware/facefish-backdoor.html?&web_view=true"> Full Text</a>
@@ -102,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can Your Business Email Be Spoofed? Check Your Domain Security Now!<a href="https://thehackernews.com/2021/05/can-your-business-email-be-spoofed.html"> Full Text</a>
@@ -118,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Ransomware Adversaries Reacted to the DarkSide Attack<a href="https://www.crowdstrike.com/blog/how-ransomware-adversaries-reacted-to-the-darkside-pipeline-attack/?&web_view=true"> Full Text</a>
@@ -134,7 +150,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Streaming Service Spreads BazarLoader<a href="https://cyware.com/news/fake-streaming-service-spreads-bazarloader-f8bdeeab"> Full Text</a>
@@ -150,7 +166,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steal Web Session Cookies From Facebook in Chrome<a href="https://gbhackers.com/how-hackers-steal-web-session-cookies-from-facebook-in-chrome/?&web_view=true"> Full Text</a>
@@ -166,7 +182,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agrius Masquerades as Ransomware in Attacks Against Israel<a href="https://cyware.com/news/agrius-masquerades-as-ransomware-in-attacks-against-israel-0af6853e"> Full Text</a>
@@ -182,7 +198,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WooCommerce Credit Card Skimmer Hides in Plain Sight<a href="https://blog.sucuri.net/2021/05/woocommerce-credit-card-skimmer.html?&web_view=true"> Full Text</a>
@@ -198,7 +214,7 @@ Sucuri
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MobileInter: A Popular Magecart Skimmer Redesigned For Your Phone<a href="https://www.riskiq.com/blog/external-threat-management/mobile-inter/?&web_view=true"> Full Text</a>
@@ -214,7 +230,7 @@ Risk IQ
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Bug in Siemens PLCs Could Let Hackers Run Malicious Code Remotely<a href="https://thehackernews.com/2021/05/a-new-bug-in-siemens-plcs-could-let.html"> Full Text</a>
@@ -230,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepSloth: An Adversarial Attack on Machine Learning Systems<a href="https://cyware.com/news/deepsloth-an-adversarial-attack-on-machine-learning-systems-dbfc5b2e"> Full Text</a>
@@ -246,7 +262,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 – Phishing attacks target employees that come back to the office<a href="https://securityaffairs.co/wordpress/118421/cyber-crime/post-covid-19-phishing.html"> Full Text</a>
