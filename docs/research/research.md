@@ -90,6 +90,18 @@ After coming across sexually explicit messages between sixteen-yearold Channing 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Bumble Bill: A Critical Analysis on Texas’s New Law Taking Indecent Exposure Regulations Online [HTML](https://papers.bsafes.com/docs/law/the-bumble-bill-a-critical-analysis-on-texass-new-law-taking-indecent-exposure-regulations-online/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The year is 2021. Meeting people, dating, and talking to people online is not as frowned upon as it was years ago. Many find meeting others online— either for friendship or romantic relationships—is more convenient and less time-consuming than venturing into the real world for these initial connections. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
