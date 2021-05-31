@@ -34,6 +34,222 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out: These unsubscribe emails only lead to further spam<a href="https://www.bleepingcomputer.com/news/security/watch-out-these-unsubscribe-emails-only-lead-to-further-spam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers use fake 'unsubscribe' spam emails to confirm valid email accounts to be used in future phishing and spam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Russian hacks spark calls for tougher Biden actions<a href="https://thehill.com//policy/cybersecurity/556051-new-russian-hacks-spark-calls-for-tougher-biden-actions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials are calling for harsher measures against Russia following Microsoft’s assessment by that hackers behind the devastating SolarWinds hack were continuing to launch cyberattacks against U.S. government agencies and other organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol has intercepted $83 million from financial cyber crimes<a href="https://securityaffairs.co/wordpress/118414/cyber-crime/interpol-financial-cyber-crimes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has intercepted $83 million in illicit funds transferred from victims to the accounts used by crooks.
+
+
+
+An operation conducted by Interpol, codenamed HAECHI-I, conducted by more than 40 officers in the Asia Pacific region over six months period...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol intercepts $83 million fighting financial cyber crime<a href="https://www.bleepingcomputer.com/news/security/interpol-intercepts-83-million-fighting-financial-cyber-crime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The INTERPOL (short for International Criminal Police Organisation) has intercepted $83 million belonging to victims of online financial crime from being transferred to the accounts of their attackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These 2 attacks allow to alter certified PDF Documents<a href="https://securityaffairs.co/wordpress/118404/hacking/altering-signed-pdf-documents.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed two new attack techniques that allow modifying visible content on certified PDF documents without invalidating the digital signature.
+
+
+
+Researchers from Ruhr-University Bochum have disclosed two new attack techniques, dubbed Evil...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 316<a href="https://securityaffairs.co/wordpress/118400/breaking-news/security-affairs-newsletter-round-316.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+A malware attack hit the Alaska Health DepartmentCVE-2021-31166 Windows HTTP flaw also impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facefish Backdoor delivers rootkits to Linux x64 systems<a href="https://securityaffairs.co/wordpress/118388/malware/facefish-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qihoo 360 NETLAB spotted a new backdoor dubbed Facefish that could allow attackers to take over Linux systems and steal sensitive data.
+
+
+
+Cybersecurity experts from Qihoo 360 NETLAB published details about a new backdoor, dubbed Facefish, which can be used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Walmart phishing attack says your package was not delivered<a href="https://www.bleepingcomputer.com/news/security/beware-walmart-phishing-attack-says-your-package-was-not-delivered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Walmart phishing campaign is underway that attempts to steal your personal information and verifies your email for further phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian hackers used 4 new malware in USAID phishing<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft states that a Russian hacking group used four new malware families in recent phishing attacks impersonating the United States Agency for International Development (USAID).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Epsilon Red ransomware hunts unpatched Microsoft Exchange servers<a href="https://www.bleepingcomputer.com/news/security/new-epsilon-red-ransomware-hunts-unpatched-microsoft-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware threat calling itself Red Epsilon has been seen leveraging Microsoft Exchange server vulnerabilities to encrypt machines across the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI will share compromised passwords with HIBP Pwned Passwords<a href="https://securityaffairs.co/wordpress/118377/security/fbi-passwords-hibp-pwned-passwords.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is going to share compromised passwords discovered during investigations with Have I Been Pwned (HIBP)'s 'Pwned Passwords' service.
+
+
+
+The FBI will share compromised passwords that were discovered during investigations with the 'Pwned Passwords'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Search is a Browser Hijacker – How to Remove it Now?<a href="https://securityaffairs.co/wordpress/118380/security/how-remove-secured-search.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secured Search is a browser hijacker that changes your browser's settings to promote securedsearch.com, let's remove it.
+
+
+
+Secured Search is the same piece of software as ByteFence Secure Browsing. It's supposedly a tool that improves browsing security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
