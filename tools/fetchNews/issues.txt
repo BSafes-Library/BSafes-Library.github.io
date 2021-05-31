@@ -30,10 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.bleepingcomputer.com/news/security/fbi-apt-hackers-breached-us-local-govt-by-exploiting-fortinet-bugs/
-. https://www.scmagazine.com/home/security-news/malware/cisa-fireeye-16-malware-families-from-china-infect-pulse-secure-vpn-appliances/
-. https://www.infosecurity-magazine.com:443/news/fbi-issues-fortinet-flash-warning/
-. https://cyware.com/news/fbi-issues-flash-alert-against-conti-ransomware-2618b25b
 
 Law:
 

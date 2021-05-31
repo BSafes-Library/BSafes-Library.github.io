@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Actors Exploiting Fortinet Vulnerabilities to Gain Access for Malicious Activity <a href="https://publications.bsafes.com/docs/fbi/flash-2021-0527-apt-actors-exploiting-fortinet-vulnerabilities-to-gain-access-for-malicious-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is continuing to warn about Advanced Persistent Threat (APT) actors exploiting Fortinet vulnerabilities. As of at least May 2021, an APT actor group almost certainly exploited a Fortigate appliance to access a webserver hosting the domain for a U.S. municipal government. The APT actors likely created an account with the username “elie” to further enable malicious activity on the network.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

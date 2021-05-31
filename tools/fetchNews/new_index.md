@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2021
+May 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out: These unsubscribe emails only lead to further spam<a href="https://www.bleepingcomputer.com/news/security/watch-out-these-unsubscribe-emails-only-lead-to-further-spam/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2021
+May 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Russian hacks spark calls for tougher Biden actions<a href="https://thehill.com//policy/cybersecurity/556051-new-russian-hacks-spark-calls-for-tougher-biden-actions"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2021
+May 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol has intercepted $83 million from financial cyber crimes<a href="https://securityaffairs.co/wordpress/118414/cyber-crime/interpol-financial-cyber-crimes.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2021
+May 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol intercepts $83 million fighting financial cyber crime<a href="https://www.bleepingcomputer.com/news/security/interpol-intercepts-83-million-fighting-financial-cyber-crime/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2021
+May 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These 2 attacks allow to alter certified PDF Documents<a href="https://securityaffairs.co/wordpress/118404/hacking/altering-signed-pdf-documents.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2021
+May 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 316<a href="https://securityaffairs.co/wordpress/118400/breaking-news/security-affairs-newsletter-round-316.html"> Full Text</a>
@@ -142,7 +142,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2021
+May 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facefish Backdoor delivers rootkits to Linux x64 systems<a href="https://securityaffairs.co/wordpress/118388/malware/facefish-backdoor.html"> Full Text</a>
@@ -162,7 +162,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2021
+May 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Walmart phishing attack says your package was not delivered<a href="https://www.bleepingcomputer.com/news/security/beware-walmart-phishing-attack-says-your-package-was-not-delivered/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2021
+May 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russian hackers used 4 new malware in USAID phishing<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/"> Full Text</a>
@@ -194,7 +194,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2021
+May 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Epsilon Red ransomware hunts unpatched Microsoft Exchange servers<a href="https://www.bleepingcomputer.com/news/security/new-epsilon-red-ransomware-hunts-unpatched-microsoft-exchange-servers/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2021
+May 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI will share compromised passwords with HIBP Pwned Passwords<a href="https://securityaffairs.co/wordpress/118377/security/fbi-passwords-hibp-pwned-passwords.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2021
+May 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secure Search is a Browser Hijacker – How to Remove it Now?<a href="https://securityaffairs.co/wordpress/118380/security/how-remove-secured-search.html"> Full Text</a>
