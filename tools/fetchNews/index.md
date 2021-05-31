@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phishing for Credentials: New Tactics as COVID’s Grip Eases<a href="https://cofense.com/blog/phishing-credentials-covid/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cofense Phishing Defense Center (PDC) has observed a phishing campaign that attempts to gather login credentials from employees by acting as the Chief Information Officer (CIO).
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Deadshot: Open source DevOps tool stops sensitive data from being uploaded to GitHub<a href="https://portswigger.net/daily-swig/deadshot-open-source-devops-tool-stops-sensitive-data-from-being-uploaded-to-github?&web_view=true"> Full Text</a>
 </p>
 <details>
