@@ -54,6 +54,18 @@ Youth with autism spectrum disorder (ASD) frequently play video games. Social de
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• When Does a Cyber Crime Become an Act of Cyber Warfare [HTML](https://papers.bsafes.com/docs/cybercrime/when-does-a-cyber-crime-become-an-act-of-cyber-warfare/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the existence of the online world, cyber attacks have been a threat. As the online world has developed and evolved so have the attacks on them. The advancement of technology has meant the advancement and increased complexity of cyber attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 29, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
