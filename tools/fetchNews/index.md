@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+EUCC receives first EU cybersecurity certification scheme<a href="https://www.helpnetsecurity.com/2021/06/01/eu-cybersecurity-certification-scheme/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2019, the EUCC was the first candidate cybersecurity certification scheme request received by the EU Agency for Cybersecurity (ENISA) under the Cybersecurity Act.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Convicts “King of Fraud”<a href="https://www.infosecurity-magazine.com:443/news/us-convicts-king-of-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminal who scammed US companies out of millions is convicted by federal jury
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The human cost of understaffed SOCs<a href="https://www.helpnetsecurity.com/2021/06/01/human-cost-understaffed-socs/?&web_view=true"> Full Text</a>
 </p>
 <details>
