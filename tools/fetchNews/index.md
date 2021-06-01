@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: World's largest beef producer JBS was hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/us-worlds-largest-beef-producer-jbs-was-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House has confirmed today that JBS, the world's largest beef producer, was hit by a ransomware attack over the weekend coordinated by a group likely from Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
