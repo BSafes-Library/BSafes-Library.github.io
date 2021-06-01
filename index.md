@@ -37,6 +37,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Nobelium Active Again With New Phishing Campaign<a href="https://cyware.com/news/nobelium-active-again-with-new-phishing-campaign-30bf4eee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobelium is now gaining access to the infrastructure of genuine technology providers and targeting their customers.&nbsp;The Russian gang behind SolarWinds’ supply chain attack, recently infiltrating the accounts of the United States Agency for International Development’s (USAID) on an email market ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhode Islander Charged with Phishing Political Candidates<a href="https://www.infosecurity-magazine.com:443/news/lebeau-phishing-political/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Woman allegedly spoofed Microsoft in attempt to steal political candidates’ credentials
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulatory Alchemy: Turning Cybersecurity Guidelines Into Rules<a href="https://www.lawfareblog.com/regulatory-alchemy-turning-cybersecurity-guidelines-rules"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new directive on pipeline security issued by the TSA may signal a wider change in the government’s approach to cybersecurity policy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Where Bug Bounty Programs Fall Flat<a href="https://threatpost.com/bug-bounty-fall-flat/166568/"> Full Text</a>
 </p>
 <details>
