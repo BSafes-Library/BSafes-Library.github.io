@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brazil approves stricter legislation to tackle online crime<a href="https://www.zdnet.com/article/brazil-approves-stricter-legislation-to-tackle-online-crime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law also relates to theft through fraud via an electronic device, with or without the violation of security mechanisms in place, or through use of malicious software, or by any other means.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Redacted comes out of stealth with $60M in funding and a new take on fighting cybercrime<a href="https://techcrunch.com/2021/06/01/redacted-comes-out-of-stealth-with-60m-in-funding-and-a-new-take-on-fighting-cybercrime/?&web_view=true"> Full Text</a>
 </p>
 <details>
