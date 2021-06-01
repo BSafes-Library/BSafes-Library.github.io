@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Redacted comes out of stealth with $60M in funding and a new take on fighting cybercrime<a href="https://techcrunch.com/2021/06/01/redacted-comes-out-of-stealth-with-60m-in-funding-and-a-new-take-on-fighting-cybercrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding is being led by Ten Eleven Ventures, with participation from Valor Equity Partners and SVB Capital. It brings the total raised by Redacted to $60 million.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Model Sues Law Firm Over Data Breach<a href="https://www.infosecurity-magazine.com:443/news/model-sues-law-firm-over-data/"> Full Text</a>
 </p>
 <details>
