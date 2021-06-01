@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The human cost of understaffed SOCs<a href="https://www.helpnetsecurity.com/2021/06/01/human-cost-understaffed-socs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SOC and IT security teams are suffering from high levels of stress outside of the working day – with alert overload a prime culprit, a recent Trend Micro research reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Epsilon Red: A New Ransomware in the Threat Landscape<a href="https://cyware.com/news/epsilon-red-a-new-ransomware-in-the-threat-landscape-007b3621"> Full Text</a>
 </p>
 <details>
