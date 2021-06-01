@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Model Sues Law Firm Over Data Breach<a href="https://www.infosecurity-magazine.com:443/news/model-sues-law-firm-over-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Goldberg Segalla accused of leaking fashion model’s personal information on PACER
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American food processing giant JBS Foods halts production after cyberattack<a href="https://securityaffairs.co/wordpress/118474/security/jbs-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American food processing company and meat producer JBS Foods was forced to shut down production at multiple sites worldwide following a cyberattack.
+
+
+
+The American food processing giant JBS Foods, the world's largest processor of fresh beef, was forced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
