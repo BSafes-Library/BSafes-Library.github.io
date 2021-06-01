@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 10's package manager flooded with duplicate, malformed apps<a href="https://www.bleepingcomputer.com/news/security/windows-10s-package-manager-flooded-with-duplicate-malformed-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Windows 10 package manager Winget's GitHub has been flooded with duplicate apps and malformed manifest files raising concerns among developers with regards to the integrity of apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Firefox now blocks cross-site tracking by default in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-in-private-browsing/"> Full Text</a>
 </p>
 <details>
