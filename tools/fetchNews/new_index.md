@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes domains used by APT29 in recent USAID phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-seizes-domains-used-by-apt29-in-recent-usaid-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has seized two Internet domains used in recent phishing attacks impersonating the U.S. Agency for International Development (USAID) to distribute malware and gain access to internal networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Insurance Fuels Ransomware Payment Surge<a href="https://threatpost.com/cyber-insurance-ransomware-payments/166580/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies relying on their cyber insurance policies to pay off ransomware criminals is being blamed for a recent uptick in ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
