@@ -11,6 +11,20 @@ nav_order: 900160
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phishing for Credentials: New Tactics as COVID’s Grip Eases<a href="https://cofense.com/blog/phishing-credentials-covid/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cofense Phishing Defense Center (PDC) has observed a phishing campaign that attempts to gather login credentials from employees by acting as the Chief Information Officer (CIO).
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 – Phishing attacks target employees that come back to the office<a href="https://securityaffairs.co/wordpress/118421/cyber-crime/post-covid-19-phishing.html"> Full Text</a>
 </p>
 <details>

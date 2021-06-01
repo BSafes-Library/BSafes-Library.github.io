@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus and Grief – two new emerging ransomware gangs targeting enterprises. Mexican Government data is published for sale.<a href="https://securityaffairs.co/wordpress/118446/cyber-crime/prometheus-grief-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Prometheus" and "Grief" - a multi-billion dollar ransomware market obtained two new emerging players.
+
+
+
+In today's world, information and data means money and the people that are stealing the information have now reached new levels of sophistication....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus and Grief Ransomware Gangs Release Data From Mexican Government and Private Firm for Sale<a href="https://securityaffairs.co/wordpress/118446/cyber-crime/prometheus-grief-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prometheus published a stolen data allegedly belonging to the Mexican Government, possibly becoming the first cybercriminal group that has touched a major state in Latin America on such a level.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

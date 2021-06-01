@@ -11,6 +11,34 @@ nav_order: 900220
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Patches Command Injection Flaw in Firewall Management Application<a href="https://www.securityweek.com/sonicwall-patches-command-injection-flaw-firewall-management-application?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-20026 and featuring a CVSS score of 8.8, the recently patched vulnerability impacts on-premises versions of SonicWall NSM, but does not affect NSM SaaS versions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC published for new Microsoft PatchGuard (KPP) bypass<a href="https://therecord.media/poc-published-for-new-microsoft-patchguard-kpp-bypass/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has discovered a bug in PatchGuard––a crucial Windows security feature––that can allow threat actors to load unsigned (malicious) code into the Windows operating system kernel.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Experts devised a new attack to bypass Microsoft PatchGuard<a href="https://securityaffairs.co/wordpress/118427/hacking/microsoft-patchguard-kpp-bypass.html"> Full Text</a>
 </p>
 <details>

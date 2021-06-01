@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Mobile Ad Fraud has Evolved in the Year of the Pandemic<a href="https://threatpost.com/how-mobile-ad-fraud-has-evolved-in-the-year-of-the-pandemic/166430/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile ad fraud has always been a challenge for network operators in all parts of the globe, but the pandemic has made users more vulnerable than ever before due to the sheer amount of time they now spend with their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

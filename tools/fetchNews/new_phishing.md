@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$7 Million Digital Advertising Scam: Russian Man Convicted<a href="https://www.inforisktoday.com/7-million-digital-advertising-scam-russian-man-convicted-a-16772?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang allegedly referred to its scheme as "Metan" - the Russian word for methane - although it's also been referred to as Methbot by the FBI and prosecutors, and later as Media Methane.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hackers Used Constant Contact Email Service In Phishing Attack<a href="https://www.crn.com/news/security/solarwinds-hackers-used-constant-contact-email-service-in-phishing-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobelium launched this week’s attacks not through the SolarWinds Orion network monitoring tool but by gaining access to the Constant Contact account of the USAID, Microsoft said.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

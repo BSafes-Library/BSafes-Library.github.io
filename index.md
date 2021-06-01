@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity startup Exabeam raises $200 mln, valued at $2.4 bln<a href="https://www.reuters.com/breakingviews/cybersecurity-startup-exabeam-raises-200-mln-valued-24-bln-2021-06-01/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major meat producer JBS USA hit by cyberattack<a href="https://thehill.com//policy/cybersecurity/556265-major-meat-producer-jbs-usa-hit-by-cyberattack"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Can Use This Trick to Bypass Ransomware Defense in Antivirus Solutions<a href="https://thehackernews.com/2021/06/malware-can-use-this-trick-to-bypass.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Convenes Asia Pacific Info-Sharing Council<a href="https://www.infosecurity-magazine.com:443/news/microsoft-infosharing-council-asia/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hacker Pavel Sitnikov arrested for distributing malware via Telegram<a href="https://securityaffairs.co/wordpress/118464/cyber-crime/pavel-sitnikov-arrested.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House bill would require federal contractors to put in place vulnerability disclosure programs<a href="https://www.scmagazine.com/home/government/bill-would-require-contractors-to-have-vulnerability-disclosure-programs/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Mobile Ad Fraud has Evolved in the Year of the Pandemic<a href="https://threatpost.com/how-mobile-ad-fraud-has-evolved-in-the-year-of-the-pandemic/166430/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EPUB Vulnerabilities in Electronic Reading Systems Lead to Risk of User Data Exposure<a href="https://portswigger.net/daily-swig/epub-vulnerabilities-electronic-reading-systems-riddled-with-browser-like-flaws?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Danish Secret Service Helped NSA Spy On European Politicians<a href="https://thehackernews.com/2021/06/report-danish-secret-service-helped-nsa.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meat Processing Giant JBS Pulls IT Plug After Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/meat-processing-jbs-pulls-plug/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometheus and Grief – two new emerging ransomware gangs targeting enterprises. Mexican Government data is published for sale.<a href="https://securityaffairs.co/wordpress/118446/cyber-crime/prometheus-grief-ransomware.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revisiting the NSIS-based crypter<a href="https://blog.malwarebytes.com/threat-analysis/2021/05/revisiting-the-nsis-based-crypter/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Seizes $83 Million Headed for Online Scammers<a href="https://www.infosecurity-magazine.com:443/news/interpol-seizes-83-million-headed/"> Full Text</a>
@@ -250,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometheus and Grief Ransomware Gangs Release Data From Mexican Government and Private Firm for Sale<a href="https://securityaffairs.co/wordpress/118446/cyber-crime/prometheus-grief-ransomware.html?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $7 Million Digital Advertising Scam: Russian Man Convicted<a href="https://www.inforisktoday.com/7-million-digital-advertising-scam-russian-man-convicted-a-16772?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zeeland's Reserve Bank Taking Action to Respond to Data Breach Reports<a href="https://news.softpedia.com/news/new-zeeland-s-reserve-bank-taking-action-to-respond-to-data-breach-reports-533074.shtml?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hackers Used Constant Contact Email Service In Phishing Attack<a href="https://www.crn.com/news/security/solarwinds-hackers-used-constant-contact-email-service-in-phishing-attack?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global meat processor JBS shuts part of operation to blunt cyberattack fallout<a href="https://www.scmagazine.com/home/security-news/data-breach/jbs-hit-by-cyberattack-warns-suppliers-and-customers-of-potential-impact/"> Full Text</a>

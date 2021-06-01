@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Exabeam raises $200 mln, valued at $2.4 bln<a href="https://www.reuters.com/breakingviews/cybersecurity-startup-exabeam-raises-200-mln-valued-24-bln-2021-06-01/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exabeam, a startup that helps companies automate the analysis and monitoring of their cybersecurity data, said it raised $200 million in its latest funding round which valued it at $2.4 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Convenes Asia Pacific Info-Sharing Council<a href="https://www.infosecurity-magazine.com:443/news/microsoft-infosharing-council-asia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative aims to build a strong response against cyberattacks across seven markets in the region
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

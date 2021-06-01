@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meat Processing Giant JBS Pulls IT Plug After Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/meat-processing-jbs-pulls-plug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JBS has been forced to cut its servers after an organized cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global meat processor JBS shuts part of operation to blunt cyberattack fallout<a href="https://www.scmagazine.com/home/security-news/data-breach/jbs-hit-by-cyberattack-warns-suppliers-and-customers-of-potential-impact/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company confirmed that the incident could impact customers and the supply chain, in the latest attack to target critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

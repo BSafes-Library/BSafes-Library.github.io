@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Danish Secret Service Helped NSA Spy On European Politicians<a href="https://thehackernews.com/2021/06/report-danish-secret-service-helped-nsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) used a partnership with Denmark's foreign and military intelligence service to eavesdrop on top politicians and high-ranking officials in Germany, Sweden, Norway, and France by tapping into Danish underwater internet cables between 2012 and 2014.  Details of the covert wiretapping were&nbsp; broken &nbsp;by Copenhagen-based public broadcaster DR over the weekend based on interviews with nine unnamed sources, all of whom are said to have access to classified information held by the Danish Defence Intelligence Service (Forsvarets Efterretningstjeneste or FE).  German Chancellor Angela Merkel, the then-German Foreign Minister Frank-Walter Steinmeier, and the opposition leader at the time, Peer Steinbrück, are said to have been targeted through the Danish-American pact.   Using the telephone numbers of politicians as search parameters, the report alleged that the NSA "intercepted everything from text messages to phone calls that passed through the ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
