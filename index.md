@@ -34,6 +34,302 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Exabeam raises $200 mln, valued at $2.4 bln<a href="https://www.reuters.com/breakingviews/cybersecurity-startup-exabeam-raises-200-mln-valued-24-bln-2021-06-01/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exabeam, a startup that helps companies automate the analysis and monitoring of their cybersecurity data, said it raised $200 million in its latest funding round which valued it at $2.4 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major meat producer JBS USA hit by cyberattack<a href="https://thehill.com//policy/cybersecurity/556265-major-meat-producer-jbs-usa-hit-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest meat suppliers in the country was hit on Sunday by a cyberattack that impacted operations, with the attack coming just weeks after Colonial Pipeline was forced to temporarily shut down operations due to a similar attack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Can Use This Trick to Bypass Ransomware Defense in Antivirus Solutions<a href="https://thehackernews.com/2021/06/malware-can-use-this-trick-to-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed significant security weaknesses in popular software applications that could be abused to deactivate their protections and take control of allow-listed applications to perform nefarious operations on behalf of the malware to defeat anti-ransomware defenses.  The twin attacks,  detailed  by academics from the University of Luxembourg and the University of London, are aimed at circumventing the protected folder feature offered by antivirus programs to encrypt files (aka "Cut-and-Mouse") and disabling their real-time protection by simulating mouse "click" events (aka "Ghost Control").  "Antivirus software providers always offer high levels of security, and they are an essential element in the everyday struggle against criminals,"  said  Prof. Gabriele Lenzini, chief scientist at the Interdisciplinary Center for Security, Reliability, and Trust at the University of Luxembourg. "But they are competing with criminals whi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Convenes Asia Pacific Info-Sharing Council<a href="https://www.infosecurity-magazine.com:443/news/microsoft-infosharing-council-asia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative aims to build a strong response against cyberattacks across seven markets in the region
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacker Pavel Sitnikov arrested for distributing malware via Telegram<a href="https://securityaffairs.co/wordpress/118464/cyber-crime/pavel-sitnikov-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Russian hacker Pavel Sitnikov was arrested by Russian authorities on charges of distributing malware via his Telegram channel.
+
+
+
+Pavel Sitnikov (@Flatl1ne), a prominent figure of the hacking underground, was arrested earlier this month by Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House bill would require federal contractors to put in place vulnerability disclosure programs<a href="https://www.scmagazine.com/home/government/bill-would-require-contractors-to-have-vulnerability-disclosure-programs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though contracts would not require remediation of vulnerabilities brought in through the programs, the government would be able to not renew contracts with companies whose handling of vulnerabilities raised researchers’ ire.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Mobile Ad Fraud has Evolved in the Year of the Pandemic<a href="https://threatpost.com/how-mobile-ad-fraud-has-evolved-in-the-year-of-the-pandemic/166430/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile ad fraud has always been a challenge for network operators in all parts of the globe, but the pandemic has made users more vulnerable than ever before due to the sheer amount of time they now spend with their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EPUB Vulnerabilities in Electronic Reading Systems Lead to Risk of User Data Exposure<a href="https://portswigger.net/daily-swig/epub-vulnerabilities-electronic-reading-systems-riddled-with-browser-like-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EPUB format relies primarily on XHTML and CSS to construct e-books, with browser engines often used to render their contents, which leads to browser-like vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Danish Secret Service Helped NSA Spy On European Politicians<a href="https://thehackernews.com/2021/06/report-danish-secret-service-helped-nsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) used a partnership with Denmark's foreign and military intelligence service to eavesdrop on top politicians and high-ranking officials in Germany, Sweden, Norway, and France by tapping into Danish underwater internet cables between 2012 and 2014.  Details of the covert wiretapping were  broken  by Copenhagen-based public broadcaster DR over the weekend based on interviews with nine unnamed sources, all of whom are said to have access to classified information held by the Danish Defence Intelligence Service (Forsvarets Efterretningstjeneste or FE).  German Chancellor Angela Merkel, the then-German Foreign Minister Frank-Walter Steinmeier, and the opposition leader at the time, Peer Steinbrück, are said to have been targeted through the Danish-American pact.   Using the telephone numbers of politicians as search parameters, the report alleged that the NSA "intercepted everything from text messages to phone calls that passed through the ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meat Processing Giant JBS Pulls IT Plug After Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/meat-processing-jbs-pulls-plug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JBS has been forced to cut its servers after an organized cyber-attack
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus and Grief – two new emerging ransomware gangs targeting enterprises. Mexican Government data is published for sale.<a href="https://securityaffairs.co/wordpress/118446/cyber-crime/prometheus-grief-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Prometheus" and "Grief" - a multi-billion dollar ransomware market obtained two new emerging players.
+
+
+
+In today's world, information and data means money and the people that are stealing the information have now reached new levels of sophistication....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revisiting the NSIS-based crypter<a href="https://blog.malwarebytes.com/threat-analysis/2021/05/revisiting-the-nsis-based-crypter/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is a free and powerful tool, making the distribution of software easier. Unfortunately, its qualities are known not only to legitimate developers but also to malware distributors.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Seizes $83 Million Headed for Online Scammers<a href="https://www.infosecurity-magazine.com:443/news/interpol-seizes-83-million-headed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APAC’s six-month HAECHI-I operation branded a success
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus and Grief Ransomware Gangs Release Data From Mexican Government and Private Firm for Sale<a href="https://securityaffairs.co/wordpress/118446/cyber-crime/prometheus-grief-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prometheus published a stolen data allegedly belonging to the Mexican Government, possibly becoming the first cybercriminal group that has touched a major state in Latin America on such a level.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$7 Million Digital Advertising Scam: Russian Man Convicted<a href="https://www.inforisktoday.com/7-million-digital-advertising-scam-russian-man-convicted-a-16772?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang allegedly referred to its scheme as "Metan" - the Russian word for methane - although it's also been referred to as Methbot by the FBI and prosecutors, and later as Media Methane.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zeeland's Reserve Bank Taking Action to Respond to Data Breach Reports<a href="https://news.softpedia.com/news/new-zeeland-s-reserve-bank-taking-action-to-respond-to-data-breach-reports-533074.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Reserve Bank of New Zealand has announced the findings of two independent investigations into an illegal data breach related to a third-party application and the handling of sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hackers Used Constant Contact Email Service In Phishing Attack<a href="https://www.crn.com/news/security/solarwinds-hackers-used-constant-contact-email-service-in-phishing-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobelium launched this week’s attacks not through the SolarWinds Orion network monitoring tool but by gaining access to the Constant Contact account of the USAID, Microsoft said.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global meat processor JBS shuts part of operation to blunt cyberattack fallout<a href="https://www.scmagazine.com/home/security-news/data-breach/jbs-hit-by-cyberattack-warns-suppliers-and-customers-of-potential-impact/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company confirmed that the incident could impact customers and the supply chain, in the latest attack to target critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
