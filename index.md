@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swedish Health Agency discloses hacking attempts<a href="https://securityaffairs.co/wordpress/118440/hacking/swedish-health-agency-cyberattacks.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Denmark intel helped US NSA to spy on European politicians<a href="https://securityaffairs.co/wordpress/118434/intelligence/us-nsa-spy-european-politicians.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swedish Health Agency shuts down SmiNet after hacking attempts<a href="https://www.bleepingcomputer.com/news/security/swedish-health-agency-shuts-down-sminet-after-hacking-attempts/"> Full Text</a>
@@ -90,7 +90,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fighting, screaming as alleged ATM scammer known as ‘The Shark’ is arrested in Mexico<a href="https://www.cyberscoop.com/mexico-atm-scam-florian-tudor-shark/?&web_view=true"> Full Text</a>
@@ -106,7 +106,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden budget seeks $750 million to respond to SolarWinds compromises, plus billions more for cyber<a href="https://www.cyberscoop.com/biden-budget-750-million-solarwinds-fiscal-2022/?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US nuclear weapon bunker security secrets spill from online flashcards since 2013<a href="https://www.theregister.com/2021/05/28/flashcards_military_nuclear/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using Fake Reviews to Find Dangerous Extensions – Krebs on Security<a href="https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing for Credentials: New Tactics as COVID’s Grip Eases<a href="https://cofense.com/blog/phishing-credentials-covid/?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Cofense
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deadshot: Open source DevOps tool stops sensitive data from being uploaded to GitHub<a href="https://portswigger.net/daily-swig/deadshot-open-source-devops-tool-stops-sensitive-data-from-being-uploaded-to-github?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Food giant JBS Foods shuts down production after cyberattack<a href="https://www.bleepingcomputer.com/news/security/food-giant-jbs-foods-shuts-down-production-after-cyberattack/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Says Agencies Largely Fended Off Latest Russian Hack<a href="https://www.securityweek.com/us-says-agencies-largely-fended-latest-russian-hack?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Patches Command Injection Flaw in Firewall Management Application<a href="https://www.securityweek.com/sonicwall-patches-command-injection-flaw-firewall-management-application?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2021
+May 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC published for new Microsoft PatchGuard (KPP) bypass<a href="https://therecord.media/poc-published-for-new-microsoft-patchguard-kpp-bypass/?&web_view=true"> Full Text</a>

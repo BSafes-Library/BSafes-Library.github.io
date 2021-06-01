@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Ransomware Adversaries Reacted to the DarkSide Attack<a href="https://www.crowdstrike.com/blog/how-ransomware-adversaries-reacted-to-the-darkside-pipeline-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers attributes the operation of the DarkSide RaaS to CARBON SPIDER, and is a skilled eCrime (ECX) group, highly likely Eastern Europe- or Russia-based.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepSloth: An Adversarial Attack on Machine Learning Systems<a href="https://cyware.com/news/deepsloth-an-adversarial-attack-on-machine-learning-systems-dbfc5b2e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scientists working at the University of Maryland developed a new adversarial attack that can force machine learning systems to slow down and cause critical failures.&nbsp;Although this technique is not yet harmful, more such devastating slowdown attacks can be discovered in the future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

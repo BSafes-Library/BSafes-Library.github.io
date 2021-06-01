@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deadshot: Open source DevOps tool stops sensitive data from being uploaded to GitHub<a href="https://portswigger.net/daily-swig/deadshot-open-source-devops-tool-stops-sensitive-data-from-being-uploaded-to-github?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deadshot monitors GitHub pull requests in real-time. The open-source tool flags the potential inclusion of sensitive data in any code, as well as “changes to sensitive functionality”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

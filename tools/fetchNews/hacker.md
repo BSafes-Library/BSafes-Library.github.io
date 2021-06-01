@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steal Web Session Cookies From Facebook in Chrome<a href="https://gbhackers.com/how-hackers-steal-web-session-cookies-from-facebook-in-chrome/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cookies are simply small pieces of data that the web browser uses to for a better web surfing experience. Cookies are stored in memory and the hard drive of users' computers.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

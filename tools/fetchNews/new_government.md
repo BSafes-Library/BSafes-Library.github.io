@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Denmark intel helped US NSA to spy on European politicians<a href="https://securityaffairs.co/wordpress/118434/intelligence/us-nsa-spy-european-politicians.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Denmark’s foreign secret service allowed the US NSA to spy on European politicians through a Danish telecommunications hub.
+
+
+
+Journalists from&nbsp;Danish broadcaster DR&nbsp;recently received a document titled the Dunhammer Report, which included the findings...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden budget seeks $750 million to respond to SolarWinds compromises, plus billions more for cyber<a href="https://www.cyberscoop.com/biden-budget-750-million-solarwinds-fiscal-2022/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden’s fiscal 2022 budget blueprint released Friday proposes $750m for the federal government to implement lessons learned from the SolarWinds hack that compromised nine agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Says Agencies Largely Fended Off Latest Russian Hack<a href="https://www.securityweek.com/us-says-agencies-largely-fended-latest-russian-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials described the cyberattack as “basic phishing” in which hackers used malware-laden emails to target the systems of U.S. and foreign government agencies, think tanks, and humanitarian groups.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

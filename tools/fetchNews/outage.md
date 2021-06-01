@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Ransomware Attack Leads to Downtime at JBS Meat Processing<a href="https://www.abc.net.au/news/2021-05-31/cyber-attack-shuts-down-global-meat-processing-giant-jbs/100178310?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world's largest meat processing company, JBS Foods, has fallen victim to cyber attacks that have shut down production around the world, including in North America, South America, and Australia.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Insiders
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

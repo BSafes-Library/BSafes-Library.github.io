@@ -11,6 +11,38 @@ nav_order: 900015
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Swedish Health Agency discloses hacking attempts<a href="https://securityaffairs.co/wordpress/118440/hacking/swedish-health-agency-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish Public Health Agency has shut down the country's infectious diseases database, SmiNet, last week after multiple hacking attempts.
+
+
+
+The Swedish Public Health Agency was forced to shut down its infectious diseases database, named SmiNet,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swedish Health Agency shuts down SmiNet after hacking attempts<a href="https://www.bleepingcomputer.com/news/security/swedish-health-agency-shuts-down-sminet-after-hacking-attempts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish Public Health Agency has shut down SmiNet, the country's infectious diseases database, on Thursday after it was targeted in several hacking attempts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How Ransomware Adversaries Reacted to the DarkSide Attack<a href="https://www.crowdstrike.com/blog/how-ransomware-adversaries-reacted-to-the-darkside-pipeline-attack/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
