@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red: A New Ransomware in the Threat Landscape<a href="https://cyware.com/news/epsilon-red-a-new-ransomware-in-the-threat-landscape-007b3621"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts are warning about new ransomware written in the Go language called Epsilon Red. It reportedly targeted a U.S.-based business in the hospitality industry.&nbsp;It is expected to expand to other countries and sectors as well.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Brazil approves stricter legislation to tackle online crime<a href="https://www.zdnet.com/article/brazil-approves-stricter-legislation-to-tackle-online-crime/?&web_view=true"> Full Text</a>
 </p>
 <details>
