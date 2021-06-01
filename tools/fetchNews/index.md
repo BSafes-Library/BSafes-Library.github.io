@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ seizes domains used to launch malicious emails posing as USAID<a href="https://thehill.com//policy/cybersecurity/556379-us-seizes-domains-used-to-launch-malicious-emails-posing-as-usaid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) on Tuesday announced that the U.S. has obtained court orders to seize control of two online domains used by suspected Russian hackers to send malicious emails to organizations posing as the U.S. Agency for International Development (USAID). 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SOAR company led by former Facebook exec lands $35 million in Series B funding<a href="https://www.scmagazine.com/home/security-news/cloud-security/soar-company-led-by-former-facebook-exec-lands-35-million-in-series-b-funding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Max Kelly, co-founder and CEO of [redacted], explained that the company’s unified SOAR platform and services handle the whole spectrum of security needs from attack prevention, detection and response to damage mitigation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
