@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes 2 domains used by APT29 in a recent phishing campaign<a href="https://securityaffairs.co/wordpress/118495/apt/doj-seized-apt29-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ seized two domains used by APT29 group in recent attacks impersonating the U.S. USAID to spread malware.
+
+
+
+The US Department of Justice (DoJ) and the Federal Bureau of Investigation have seized two domains used by the Russia-linked APT29...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Continues to Target South Korean Government Using AppleSeed Backdoor<a href="https://blog.malwarebytes.com/threat-analysis/2021/06/kimsuky-apt-continues-to-target-south-korean-government-using-appleseed-backdoor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kimsuky APT—also known as Thallium, Black Banshee, and Velvet Chollima—is a North Korean threat actor that has been active since 2012. It conducts cyber espionage operations against South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

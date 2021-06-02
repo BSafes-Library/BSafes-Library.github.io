@@ -11,6 +11,34 @@ nav_order: 900015
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+All JBS beef plants in US forced to halt production after cyberattack<a href="https://thehill.com//policy/cybersecurity/overnights/556412-all-jbs-beef-plants-forced-to-halt-production-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All JBS beef plants in the U.S. were forced to shut down production&nbsp;following a cyberattack on the meat producer over the weekend, a union representing workers at the facilities said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: World's largest beef producer JBS was hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/us-worlds-largest-beef-producer-jbs-was-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House has confirmed today that JBS, the world's largest beef producer, was hit by a ransomware attack over the weekend coordinated by a group likely from Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Major meat producer JBS USA hit by cyberattack<a href="https://thehill.com//policy/cybersecurity/556265-major-meat-producer-jbs-usa-hit-by-cyberattack"> Full Text</a>
 </p>
 <details>

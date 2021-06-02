@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds lawsuit claims private equity owners ‘sacrificed cybersecurity to boost short-term profits’<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-lawsuit-claims-private-equity-owners-sacrificed-cybersecurity-to-boost-short-term-profits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The class action lawsuit and its claims highlight the role that top-down, short-term business strategies from investors, particularly in the private equity space, play in the cybersecurity investments that companies make.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Seizes Domains Used by SolarWinds Hackers in Cyber Espionage Attacks<a href="https://thehackernews.com/2021/06/us-seizes-domains-used-by-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after&nbsp; Microsoft ,&nbsp; Secureworks , and&nbsp; Volexity &nbsp;shed light on a new spear-phishing activity unleashed by the Russian hackers who breached SolarWinds IT management software, the U.S. Department of Justice (DoJ) Tuesday said it intervened to take control of two command-and-control (C2) and malware distribution domains used in the campaign.  The court-authorized domain seizure 1m took place on May 28, the DoJ said, adding the action was aimed at disrupting the threat actors' follow-on exploitation of victims as well as block their ability to compromise new systems. The department, however, cautioned that the adversary might have deployed additional backdoor accesses in the interim period between when the initial compromises occurred, and the seizures took place last week.   "[The] action is a continued demonstration of the Department's commitment to proactively disrupt hacking activity prior to the conclusion of a criminal investigation,"&nbsp; said &nbsp;Assistant Attorney
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

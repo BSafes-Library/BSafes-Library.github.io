@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Fraud up 159% as Transactions Hit Pre-Pandemic Volumes<a href="https://www.infosecurity-magazine.com:443/news/banking-fraud-up-159-transactions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banking fraud attempts soared in 2021 as scammers sought to hide their attack in legitimate online activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the advancement of theft: Black hat cons issue call for papers as part of criminal forum<a href="https://www.scmagazine.com/home/security-news/cybercrime/black-hat-cons-issue-call-for-papers-as-part-of-criminal-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers called the move a sign that criminal hackers as lone wolves is long over. Instead, defenders are up against hacker ecosystems working in concert.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Incident Response Plan - Preparing for a Rainy Day<a href="https://thehackernews.com/2021/06/the-incident-response-plan-preparing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unfortunate truth is that while companies are investing more in cyber defenses and taking cybersecurity more seriously than ever, successful breaches and ransomware attacks are on the rise. While a successful breach is not inevitable, it is becoming more likely despite best efforts to prevent it from happening.&nbsp;  Just as it wasn't raining when Noah built the ark, companies must face the fact that they need to prepare - and educate the organization on - a well-thought-out response plan if a successful cyberattack does occur. Obviously, the worst time to plan your response to a cyberattack is when it happens.  With so many companies falling victim to cyberattacks, an entire cottage industry of Incident Response (IR) services has arisen. Thousands of IR engagements have helped surface best practices and preparedness guides to help those that have yet to fall victim to a cyberattack.&nbsp;  Recently, cybersecurity company Cynet provided an&nbsp; Incident Response plan Word template &nbsp;to help com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

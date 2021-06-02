@@ -11,6 +11,34 @@ nav_order: 900027
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SOAR company led by former Facebook exec lands $35 million in Series B funding<a href="https://www.scmagazine.com/home/security-news/cloud-security/soar-company-led-by-former-facebook-exec-lands-35-million-in-series-b-funding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Max Kelly, co-founder and CEO of [redacted], explained that the company’s unified SOAR platform and services handle the whole spectrum of security needs from attack prevention, detection and response to damage mitigation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Redacted comes out of stealth with $60M in funding and a new take on fighting cybercrime<a href="https://techcrunch.com/2021/06/01/redacted-comes-out-of-stealth-with-60m-in-funding-and-a-new-take-on-fighting-cybercrime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding is being led by Ten Eleven Ventures, with participation from Valor Equity Partners and SVB Capital. It brings the total raised by Redacted to $60 million.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity startup Exabeam raises $200 mln, valued at $2.4 bln<a href="https://www.reuters.com/breakingviews/cybersecurity-startup-exabeam-raises-200-mln-valued-24-bln-2021-06-01/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

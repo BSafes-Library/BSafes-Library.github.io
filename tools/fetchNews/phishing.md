@@ -11,6 +11,21 @@ nav_order: 900160
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Nobelium Active Again With New Phishing Campaign<a href="https://cyware.com/news/nobelium-active-again-with-new-phishing-campaign-30bf4eee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobelium is now gaining access to the infrastructure of genuine technology providers and targeting their customers.&nbsp;The Russian gang behind SolarWinds’ supply chain attack, recently infiltrating the accounts of the United States Agency for International Development’s (USAID) on an email market ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 $7 Million Digital Advertising Scam: Russian Man Convicted<a href="https://www.inforisktoday.com/7-million-digital-advertising-scam-russian-man-convicted-a-16772?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

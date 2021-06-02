@@ -8,6 +8,62 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ seizes domains used to launch malicious emails posing as USAID<a href="https://thehill.com//policy/cybersecurity/556379-us-seizes-domains-used-to-launch-malicious-emails-posing-as-usaid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) on Tuesday announced that the U.S. has obtained court orders to seize control of two online domains used by suspected Russian hackers to send malicious emails to organizations posing as the U.S. Agency for International Development (USAID).&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhode Islander Charged with Phishing Political Candidates<a href="https://www.infosecurity-magazine.com:443/news/lebeau-phishing-political/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Woman allegedly spoofed Microsoft in attempt to steal political candidates’ credentials
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Convicts “King of Fraud”<a href="https://www.infosecurity-magazine.com:443/news/us-convicts-king-of-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminal who scammed US companies out of millions is convicted by federal jury
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil approves stricter legislation to tackle online crime<a href="https://www.zdnet.com/article/brazil-approves-stricter-legislation-to-tackle-online-crime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law also relates to theft through fraud via an electronic device, with or without the violation of security mechanisms in place, or through use of malicious software, or by any other means.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

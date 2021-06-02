@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Ransomware Attacks Impeding Criminal Prosecutions?<a href="https://www.govinfosecurity.com/are-ransomware-attacks-impeding-criminal-prosecutions-a-16781?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any information related to a criminal investigation that is stolen and publicly posted not only endangers those involved but can result in failed prosecutions, says Brett Callow, analyst at Emsisoft.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
