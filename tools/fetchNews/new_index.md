@@ -34,7 +34,351 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Switches From Several Vendors Affected by Same Vulnerabilities<a href="https://www.securityweek.com/industrial-switches-several-vendors-affected-same-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker with network access to the targeted device can make unauthorized changes to its configuration, cause it to enter a DoS condition, and obtain sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Hold $115,000-Prize Contest to Find New Cryptocurrency Hacks<a href="https://thehackernews.com/2021/06/cybercriminals-hold-115000-prize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Russian-language underground forum has been running a "contest" for the past month, calling on its community to submit "unorthodox" ways to conduct cryptocurrency attacks.  The forum's administrator, in an announcement made on April 20, 2021, invited members to submit papers that assess the possibility of targeting cryptocurrency-related technology, including the theft of private keys and wallets, in addition to covering unusual cryptocurrency mining software, smart contracts, and non-fungible tokens (NFTs).  The  contest , which is likely to continue till September 1, will see total prize money of $115,000 awarded to the best research.   "So far, the top candidates (according to forum member voting) include topics like generating a fake blockchain front-end website that captures sensitive information such as private keys and balances, creating a new cryptocurrency blockchain from scratch, increasing the hash rate speed of mining farms and botnets, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Fraud up 159% as Transactions Hit Pre-Pandemic Volumes<a href="https://www.infosecurity-magazine.com:443/news/banking-fraud-up-159-transactions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banking fraud attempts soared in 2021 as scammers sought to hide their attack in legitimate online activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit broker Zerodium is looking for Pidgin 0day exploits<a href="https://securityaffairs.co/wordpress/118500/breaking-news/zerodium-pidgin-0day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium is looking for 0day exploits affecting the IM client tool Pidgin on Windows and Linux. 
+
+
+
+Zero-day exploit broker Zerodium announced it is looking for 0day exploits affecting the IM client tool Pidgin on Windows and Linux....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the advancement of theft: Black hat cons issue call for papers as part of criminal forum<a href="https://www.scmagazine.com/home/security-news/cybercrime/black-hat-cons-issue-call-for-papers-as-part-of-criminal-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers called the move a sign that criminal hackers as lone wolves is long over. Instead, defenders are up against hacker ecosystems working in concert.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenPGP library RNP updates after Thunderbird decrypt-no-recrypt bug squashed<a href="https://www.theregister.com/2021/06/02/openpgp_rnp_library/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenPGP project RNP has patched its flagship product in the newest version 0.15.1, after Mozilla Thunderbird, a major user, was found to be saving users’ private keys in plain text.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Hacking Operations Targeting Government Entities in South Korea<a href="https://thehackernews.com/2021/06/researchers-uncover-hacking-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean threat actor active since 2012 has been behind a new espionage campaign targeting high-profile government officials associated with its southern counterpart to install an Android and Windows backdoor for collecting sensitive information.  Cybersecurity firm Malwarebytes  attributed  the activity to a threat actor tracked as Kimsuky, with the targeted entities comprising of the Korea Internet and Security Agency (KISA), Ministry of Foreign Affairs, Ambassador of the Embassy of Sri Lanka to the State, International Atomic Energy Agency (IAEA) Nuclear Security Officer, Deputy Consul General at Korean Consulate General in Hong Kong, Seoul National University, and Daishin Securities.   The development is only the latest in a series of surveillance efforts aimed at South Korea. Believed to be operating on behalf of the North Korean regime, Kimsuky (aka Velvet Chollima, Black Banshee, and Thallium) has a track record of singling out South Korean entities while expanding their
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zero-Day in WordPress Plugin Under Active Attack<a href="https://www.infosecurity-magazine.com:443/news/critical-zeroday-wordpress-plugin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability in Fancy Product Designer could enable full site takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes 2 domains used by APT29 in a recent phishing campaign<a href="https://securityaffairs.co/wordpress/118495/apt/doj-seized-apt29-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ seized two domains used by APT29 group in recent attacks impersonating the U.S. USAID to spread malware.
+
+
+
+The US Department of Justice (DoJ) and the Federal Bureau of Investigation have seized two domains used by the Russia-linked APT29...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Lasso Library Impacts Products From Cisco, Akamai<a href="https://www.securityweek.com/vulnerability-lasso-library-impacts-products-cisco-akamai?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability discovered recently in an open source library named Lasso has been found to impact products from Cisco and Akamai, as well as Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Incident Response Plan - Preparing for a Rainy Day<a href="https://thehackernews.com/2021/06/the-incident-response-plan-preparing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unfortunate truth is that while companies are investing more in cyber defenses and taking cybersecurity more seriously than ever, successful breaches and ransomware attacks are on the rise. While a successful breach is not inevitable, it is becoming more likely despite best efforts to prevent it from happening.   Just as it wasn't raining when Noah built the ark, companies must face the fact that they need to prepare - and educate the organization on - a well-thought-out response plan if a successful cyberattack does occur. Obviously, the worst time to plan your response to a cyberattack is when it happens.  With so many companies falling victim to cyberattacks, an entire cottage industry of Incident Response (IR) services has arisen. Thousands of IR engagements have helped surface best practices and preparedness guides to help those that have yet to fall victim to a cyberattack.   Recently, cybersecurity company Cynet provided an  Incident Response plan Word template  to help com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Battle for the Galaxy: 6 Million Gamers Hit by Data Leak<a href="https://www.infosecurity-magazine.com:443/news/battle-galaxy-gamers-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1.5TB of data exposed, including users’ email addresses, IP addresses, Facebook data, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Outfit Linked to Russia Is Behind JBS Cyberattack<a href="https://www.bloomberg.com/news/articles/2021-06-02/hacking-outfit-linked-to-russia-is-behind-jbs-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil, a notorious Russia-linked hacking group is behind the cyberattack against JBS SA, according to four people familiar with the assault who were not authorized to speak publicly on the matter.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers‌ ‌Actively‌ ‌Exploiting‌ ‌0-Day‌ ‌in WordPress Plugin Installed on Over ‌17,000‌ ‌Sites<a href="https://thehackernews.com/2021/06/hackers-actively-exploiting-0-day-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fancy Product Designer, a WordPress plugin installed on over 17,000 sites, has been discovered to contain a critical file upload vulnerability that's being actively exploited in the wild to upload malware onto sites that have the plugin installed.  Wordfence's threat intelligence team, which discovered the flaw, said it reported the issue to the plugin's developer on May 31. While the flaw has been acknowledged, it's yet to be addressed.  Fancy Product Designer is a tool that enables businesses to offer customizable products, allowing customers to design any kind of item ranging from T-shirts to phone cases by offering the ability to upload images and PDF files that can be added to the products.   "Unfortunately, while the plugin had some checks in place to prevent malicious files from being uploaded, these checks were insufficient and could easily be bypassed, allowing attackers to upload executable PHP files to any site with the plugin installed," Wordfence
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky: Exploits for MS Office Flaws Most Popular in Q1 2021<a href="https://www.securityweek.com/kaspersky-exploits-ms-office-flaws-most-popular-q1-2021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploits for vulnerabilities in Microsoft’s Office suite were the most popular among cyber-attackers during the first quarter of this year, according to a new Kaspersky report.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poisoned Installers Discovered During Analysis of SolarWinds Hackers Toolkit<a href="https://www.securityweek.com/poisoned-installers-found-solarwinds-hackers-toolkit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing multi-vendor investigations into the SolarWinds mega-hack took another twist this week with the discovery of new malware artifacts that could be used in future supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Ransomware Attacks Impeding Criminal Prosecutions?<a href="https://www.govinfosecurity.com/are-ransomware-attacks-impeding-criminal-prosecutions-a-16781?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any information related to a criminal investigation that is stolen and publicly posted not only endangers those involved but can result in failed prosecutions, says Brett Callow, analyst at Emsisoft.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Continues to Target South Korean Government Using AppleSeed Backdoor<a href="https://blog.malwarebytes.com/threat-analysis/2021/06/kimsuky-apt-continues-to-target-south-korean-government-using-appleseed-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kimsuky APT—also known as Thallium, Black Banshee, and Velvet Chollima—is a North Korean threat actor that has been active since 2012. It conducts cyber espionage operations against South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium acquiring zero-days in Pidgin, an IM client popular with cybercriminals<a href="https://therecord.media/zerodium-acquiring-zero-days-in-pidgin-an-im-client-popular-with-cybercriminals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals preferred it as they could register an XMPP/Jabber ID on a secure server that did not save logs and use it to reach out and talk to each other to arrange operations or business deas.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds lawsuit claims private equity owners ‘sacrificed cybersecurity to boost short-term profits’<a href="https://www.scmagazine.com/home/solarwinds-hack/solarwinds-lawsuit-claims-private-equity-owners-sacrificed-cybersecurity-to-boost-short-term-profits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The class action lawsuit and its claims highlight the role that top-down, short-term business strategies from investors, particularly in the private equity space, play in the cybersecurity investments that companies make.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Seizes Domains Used by SolarWinds Hackers in Cyber Espionage Attacks<a href="https://thehackernews.com/2021/06/us-seizes-domains-used-by-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after  Microsoft ,  Secureworks , and  Volexity  shed light on a new spear-phishing activity unleashed by the Russian hackers who breached SolarWinds IT management software, the U.S. Department of Justice (DoJ) Tuesday said it intervened to take control of two command-and-control (C2) and malware distribution domains used in the campaign.  The court-authorized domain seizure 1m took place on May 28, the DoJ said, adding the action was aimed at disrupting the threat actors' follow-on exploitation of victims as well as block their ability to compromise new systems. The department, however, cautioned that the adversary might have deployed additional backdoor accesses in the interim period between when the initial compromises occurred, and the seizures took place last week.   "[The] action is a continued demonstration of the Department's commitment to proactively disrupt hacking activity prior to the conclusion of a criminal investigation,"  said  Assistant Attorney
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 All JBS beef plants in US forced to halt production after cyberattack<a href="https://thehill.com//policy/cybersecurity/overnights/556412-all-jbs-beef-plants-forced-to-halt-production-after"> Full Text</a>
@@ -50,7 +394,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Meat producer JBS USA hit by cyberattack | White House says JBS hack likely from Russia | Report finds Amazon injury rate above warehouse standard<a href="https://thehill.com//policy/cybersecurity/overnights/556392-hillicon-valley-meat-producer-jbs-usa-hit-by-cyberattack"> Full Text</a>
@@ -66,7 +410,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JBS attack has likely a Russian origin<a href="https://securityaffairs.co/wordpress/118490/cyber-crime/jbs-attack-russian-origin.html"> Full Text</a>
@@ -86,7 +430,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ seizes domains used to launch malicious emails posing as USAID<a href="https://thehill.com//policy/cybersecurity/556379-us-seizes-domains-used-to-launch-malicious-emails-posing-as-usaid"> Full Text</a>
@@ -102,7 +446,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOAR company led by former Facebook exec lands $35 million in Series B funding<a href="https://www.scmagazine.com/home/security-news/cloud-security/soar-company-led-by-former-facebook-exec-lands-35-million-in-series-b-funding/"> Full Text</a>
@@ -118,7 +462,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoD needs carrots rather than sticks to garner support for contractor threat hunting program<a href="https://www.scmagazine.com/home/security-news/government-and-defense/dod-needs-carrots-rather-than-sticks-to-garner-support-for-contractor-threat-hunting-program/"> Full Text</a>
@@ -134,7 +478,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US seizes domains used by APT29 in recent USAID phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-seizes-domains-used-by-apt29-in-recent-usaid-phishing-attacks/"> Full Text</a>
@@ -150,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Insurance Fuels Ransomware Payment Surge<a href="https://threatpost.com/cyber-insurance-ransomware-payments/166580/"> Full Text</a>
@@ -166,7 +510,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline led to a cyber order for sector operators. Will JBS lead to more?<a href="https://www.scmagazine.com/home/government/colonial-pipeline-led-to-a-cyber-order-will-jbs-lead-to-more/"> Full Text</a>
@@ -182,7 +526,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US: Russian threat actors likely behind JBS ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-russian-threat-actors-likely-behind-jbs-ransomware-attack/"> Full Text</a>
@@ -198,7 +542,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US: World's largest beef producer JBS was hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/us-worlds-largest-beef-producer-jbs-was-hit-by-ransomware/"> Full Text</a>
@@ -214,7 +558,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Epsilon Red Ransomware appears in the threat landscape<a href="https://securityaffairs.co/wordpress/118481/malware/epsilon-red-ransomware.html"> Full Text</a>
@@ -234,7 +578,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft adds Automatic HTTPS in Edge for secure browsing<a href="https://www.bleepingcomputer.com/news/security/microsoft-adds-automatic-https-in-edge-for-secure-browsing/"> Full Text</a>
@@ -250,7 +594,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House says cyberattack on meat producer JBS likely from Russia<a href="https://thehill.com//policy/cybersecurity/556329-white-house-engaging-with-russian-government-to-respond-to-jbs"> Full Text</a>
@@ -266,7 +610,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nobelium Active Again With New Phishing Campaign<a href="https://cyware.com/news/nobelium-active-again-with-new-phishing-campaign-30bf4eee"> Full Text</a>
@@ -283,7 +627,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhode Islander Charged with Phishing Political Candidates<a href="https://www.infosecurity-magazine.com:443/news/lebeau-phishing-political/"> Full Text</a>
@@ -299,7 +643,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regulatory Alchemy: Turning Cybersecurity Guidelines Into Rules<a href="https://www.lawfareblog.com/regulatory-alchemy-turning-cybersecurity-guidelines-rules"> Full Text</a>
@@ -315,7 +659,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Where Bug Bounty Programs Fall Flat<a href="https://threatpost.com/bug-bounty-fall-flat/166568/"> Full Text</a>
@@ -331,7 +675,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privateers: A New Type of Ransomware Syndicate<a href="https://cyware.com/news/privateers-a-new-type-of-ransomware-syndicate-e4693626"> Full Text</a>
@@ -348,7 +692,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical WordPress plugin zero-day under active exploitation<a href="https://www.bleepingcomputer.com/news/security/critical-wordpress-plugin-zero-day-under-active-exploitation/"> Full Text</a>
@@ -364,7 +708,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EUCC receives first EU cybersecurity certification scheme<a href="https://www.helpnetsecurity.com/2021/06/01/eu-cybersecurity-certification-scheme/?&web_view=true"> Full Text</a>
@@ -380,7 +724,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Convicts “King of Fraud”<a href="https://www.infosecurity-magazine.com:443/news/us-convicts-king-of-fraud/"> Full Text</a>
@@ -396,7 +740,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The human cost of understaffed SOCs<a href="https://www.helpnetsecurity.com/2021/06/01/human-cost-understaffed-socs/?&web_view=true"> Full Text</a>
@@ -412,7 +756,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Epsilon Red: A New Ransomware in the Threat Landscape<a href="https://cyware.com/news/epsilon-red-a-new-ransomware-in-the-threat-landscape-007b3621"> Full Text</a>
@@ -428,7 +772,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazil approves stricter legislation to tackle online crime<a href="https://www.zdnet.com/article/brazil-approves-stricter-legislation-to-tackle-online-crime/?&web_view=true"> Full Text</a>
@@ -444,7 +788,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Redacted comes out of stealth with $60M in funding and a new take on fighting cybercrime<a href="https://techcrunch.com/2021/06/01/redacted-comes-out-of-stealth-with-60m-in-funding-and-a-new-take-on-fighting-cybercrime/?&web_view=true"> Full Text</a>
@@ -460,7 +804,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Model Sues Law Firm Over Data Breach<a href="https://www.infosecurity-magazine.com:443/news/model-sues-law-firm-over-data/"> Full Text</a>
@@ -476,7 +820,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2021
+June 1, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American food processing giant JBS Foods halts production after cyberattack<a href="https://securityaffairs.co/wordpress/118474/security/jbs-cyberattack.html"> Full Text</a>
@@ -496,7 +840,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10's package manager flooded with duplicate, malformed apps<a href="https://www.bleepingcomputer.com/news/security/windows-10s-package-manager-flooded-with-duplicate-malformed-apps/"> Full Text</a>
@@ -512,7 +856,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2021
+June 01, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox now blocks cross-site tracking by default in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-in-private-browsing/"> Full Text</a>
