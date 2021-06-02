@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All JBS beef plants in US forced to halt production after cyberattack<a href="https://thehill.com//policy/cybersecurity/overnights/556412-all-jbs-beef-plants-forced-to-halt-production-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All JBS beef plants in the U.S. were forced to shut down production following a cyberattack on the meat producer over the weekend, a union representing workers at the facilities said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Meat producer JBS USA hit by cyberattack | White House says JBS hack likely from Russia | Report finds Amazon injury rate above warehouse standard<a href="https://thehill.com//policy/cybersecurity/overnights/556392-hillicon-valley-meat-producer-jbs-usa-hit-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest beef supplier in the U.S. was hit by a ransomware attack over the weekend that disrupted operations in North America and Australia, with the White House announcing Tuesday that the company believes Russian-based hackers to be responsible. Meanwhile, a new report concluded that injury rates at Amazon were nearly double those at other warehouses over the past few years, and a Defense Department report concluded that drones made by a Chinese group were not as much of a threat as some officials have feared. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
