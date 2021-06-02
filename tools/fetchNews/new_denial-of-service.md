@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoD needs carrots rather than sticks to garner support for contractor threat hunting program<a href="https://www.scmagazine.com/home/security-news/government-and-defense/dod-needs-carrots-rather-than-sticks-to-garner-support-for-contractor-threat-hunting-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies that participate in a potential Pentagon program to conduct threat hunting across the defense industrial base should be protected from legal liability and be given additional financial or technical support to ensure small businesses aren’t crowded out.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

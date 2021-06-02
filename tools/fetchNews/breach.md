@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zeeland's Reserve Bank Taking Action to Respond to Data Breach Reports<a href="https://news.softpedia.com/news/new-zeeland-s-reserve-bank-taking-action-to-respond-to-data-breach-reports-533074.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Reserve Bank of New Zealand has announced the findings of two independent investigations into an illegal data breach related to a third-party application and the handling of sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

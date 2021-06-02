@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House says cyberattack on meat producer JBS likely from Russia<a href="https://thehill.com//policy/cybersecurity/556329-white-house-engaging-with-russian-government-to-respond-to-jbs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House said Tuesday that a cyberattack on major meat producer JBS USA this week likely originated from Russia, saying it is engaging with Moscow to hold accountable the hackers believed to be responsible for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

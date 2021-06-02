@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House bill would require federal contractors to put in place vulnerability disclosure programs<a href="https://www.scmagazine.com/home/government/bill-would-require-contractors-to-have-vulnerability-disclosure-programs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though contracts would not require remediation of vulnerabilities brought in through the programs, the government would be able to not renew contracts with companies whose handling of vulnerabilities raised researchers’ ire.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EPUB Vulnerabilities in Electronic Reading Systems Lead to Risk of User Data Exposure<a href="https://portswigger.net/daily-swig/epub-vulnerabilities-electronic-reading-systems-riddled-with-browser-like-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EPUB format relies primarily on XHTML and CSS to construct e-books, with browser engines often used to render their contents, which leads to browser-like vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

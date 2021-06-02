@@ -11,6 +11,20 @@ nav_order: 900165
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Firefox now blocks cross-site tracking by default in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-in-private-browsing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla says that Firefox&nbsp;users will be protected against cross-site tracking automatically while browsing the Internet in Private Browsing mode.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Report: Danish Secret Service Helped NSA Spy On European Politicians<a href="https://thehackernews.com/2021/06/report-danish-secret-service-helped-nsa.html"> Full Text</a>
 </p>
 <details>

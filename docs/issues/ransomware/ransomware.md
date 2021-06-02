@@ -8,6 +8,53 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Epsilon Red Ransomware appears in the threat landscape<a href="https://securityaffairs.co/wordpress/118481/malware/epsilon-red-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new piece of ransomware named Epsilon Red that was employed at least in an attack against a US company.
+
+
+
+Researchers from Sophos spotted a new piece of ransomware, named Epsilon Red, that infected at least one organization in the hospitality...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privateers: A New Type of Ransomware Syndicate<a href="https://cyware.com/news/privateers-a-new-type-of-ransomware-syndicate-e4693626"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified a new type of cybercrime groups, dubbed privateers, that have partial support from global governments as they remain financially motivated and act upon their own agendas. Though these groups fall below those tier1 APT groups sponsored by governments, they have the potential t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red: A New Ransomware in the Threat Landscape<a href="https://cyware.com/news/epsilon-red-a-new-ransomware-in-the-threat-landscape-007b3621"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts are warning about new ransomware written in the Go language called Epsilon Red. It reportedly targeted a U.S.-based business in the hospitality industry.&nbsp;It is expected to expand to other countries and sectors as well.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

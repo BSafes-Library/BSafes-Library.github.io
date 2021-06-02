@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major meat producer JBS USA hit by cyberattack<a href="https://thehill.com//policy/cybersecurity/556265-major-meat-producer-jbs-usa-hit-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest meat suppliers in the country&nbsp;was hit on Sunday by a cyberattack that impacted operations, with the attack coming just weeks after Colonial Pipeline was forced to temporarily shut down operations due to a similar attack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WordPress plugin zero-day under active exploitation<a href="https://www.bleepingcomputer.com/news/security/critical-wordpress-plugin-zero-day-under-active-exploitation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are scanning for sites running the Fancy Product Designer plug-in to exploit a zero-day bug allowing them to&nbsp;upload malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10's package manager flooded with duplicate, malformed apps<a href="https://www.bleepingcomputer.com/news/security/windows-10s-package-manager-flooded-with-duplicate-malformed-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Windows 10 package manager Winget's GitHub has been flooded with duplicate apps and malformed manifest files raising concerns among developers with regards to the integrity of apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

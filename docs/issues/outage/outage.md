@@ -11,6 +11,24 @@ nav_order: 900140
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+American food processing giant JBS Foods halts production after cyberattack<a href="https://securityaffairs.co/wordpress/118474/security/jbs-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American food processing company&nbsp;and meat producer JBS Foods was forced to shut down production at multiple sites worldwide following a cyberattack.
+
+
+
+The American food processing giant JBS Foods, the world's largest processor of fresh beef, was forced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Meat Processing Giant JBS Pulls IT Plug After Cyber-Attack<a href="https://www.infosecurity-magazine.com:443/news/meat-processing-jbs-pulls-plug/"> Full Text</a>
 </p>
 <details>

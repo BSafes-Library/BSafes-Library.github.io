@@ -8,6 +8,122 @@ nav_order: 900072
 
 ## General
 ---
+June 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Meat producer JBS USA hit by cyberattack | White House says JBS hack likely from Russia | Report finds Amazon injury rate above warehouse standard<a href="https://thehill.com//policy/cybersecurity/overnights/556392-hillicon-valley-meat-producer-jbs-usa-hit-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest beef supplier in the U.S. was hit by a ransomware attack over the weekend that disrupted operations in North America and Australia, with the White House announcing Tuesday that the company believes Russian-based hackers to be responsible. Meanwhile, a new report concluded that injury rates at Amazon were nearly double those at other warehouses over the past few years, and a Defense Department report concluded that drones made by a Chinese group were not as much of a threat as some officials have feared.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS attack has likely a Russian origin<a href="https://securityaffairs.co/wordpress/118490/cyber-crime/jbs-attack-russian-origin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House spokeswoman speculates threat actors behind the JBS ransomware attack have a Russian origin.
+
+
+
+The American food processing giant JBS Foods, the world’s largest processor of fresh beef, was forced to shut down production at multiple sites...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Insurance Fuels Ransomware Payment Surge<a href="https://threatpost.com/cyber-insurance-ransomware-payments/166580/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies relying on their cyber insurance policies to pay off ransomware criminals is being blamed for a recent uptick in ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline led to a cyber order for sector operators. Will JBS lead to more?<a href="https://www.scmagazine.com/home/government/colonial-pipeline-led-to-a-cyber-order-will-jbs-lead-to-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The string of incidents leaves many in both public and private sector questioning how government and industry alike can better tackle increasingly glaring security gaps throughout critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulatory Alchemy: Turning Cybersecurity Guidelines Into Rules<a href="https://www.lawfareblog.com/regulatory-alchemy-turning-cybersecurity-guidelines-rules"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new directive on pipeline security issued by the TSA may signal a wider change in the government’s approach to cybersecurity policy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where Bug Bounty Programs Fall Flat<a href="https://threatpost.com/bug-bounty-fall-flat/166568/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some criminals package exploits into bundles to sell on cybercriminal forums years after they were zero days, while others say bounties aren’t enough .
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EUCC receives first EU cybersecurity certification scheme<a href="https://www.helpnetsecurity.com/2021/06/01/eu-cybersecurity-certification-scheme/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2019, the EUCC was the first candidate cybersecurity certification scheme request received by the EU Agency for Cybersecurity (ENISA) under the Cybersecurity Act.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The human cost of understaffed SOCs<a href="https://www.helpnetsecurity.com/2021/06/01/human-cost-understaffed-socs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SOC and IT security teams are suffering from high levels of stress outside of the working day – with alert overload a prime culprit, a recent Trend Micro research reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

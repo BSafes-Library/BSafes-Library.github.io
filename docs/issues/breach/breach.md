@@ -11,6 +11,20 @@ nav_order: 900029
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Model Sues Law Firm Over Data Breach<a href="https://www.infosecurity-magazine.com:443/news/model-sues-law-firm-over-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Goldberg Segalla accused of leaking fashion model’s personal information on PACER
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Zeeland's Reserve Bank Taking Action to Respond to Data Breach Reports<a href="https://news.softpedia.com/news/new-zeeland-s-reserve-bank-taking-action-to-respond-to-data-breach-reports-533074.shtml?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
