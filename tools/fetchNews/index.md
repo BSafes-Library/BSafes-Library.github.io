@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers used Pulse Secure zero day vulnerability to infiltrate MTA systems<a href="https://www.scmagazine.com/home/security-news/data-breach/chinese-hackers-used-pulse-secure-zero-day-vulnerability-to-infiltrate-mta-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers used vulnerabilities in the Pulse Secure VPN to plant web shells on servers in MTA’s environment.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
