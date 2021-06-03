@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome now warns you of extensions from untrusted devs<a href="https://www.bleepingcomputer.com/news/security/google-chrome-now-warns-you-of-extensions-from-untrusted-devs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has added new protection capabilities for Enhanced Safe Browsing users in Chrome, warning them when installing untrusted extensions and allowing them to request more in-depth scans of downloaded files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Necro Python Malware Upgrades With New Exploits and Crypto Mining Capabilities<a href="https://thehackernews.com/2021/06/necro-python-malware-upgrades-with-new.html"> Full Text</a>
 </p>
 <details>
