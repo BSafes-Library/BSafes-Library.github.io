@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 02, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI: REvil cybergang behind the JBS ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fbi-revil-cybergang-behind-the-jbs-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigations has officially stated that the REvil operation, aka Sodinokibi, is behind the ransomware attack targeting JBS, the world's largest meat producer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York subway system was targeted by Chinese-linked hackers in April<a href="https://thehill.com//policy/cybersecurity/556598-new-york-subway-system-was-targeted-by-chinese-linked-hackers-in-april"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York’s subway system was targeted by hackers with links to the Chinese government in April, according to an MTA document reported on by The New York Times.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FUJIFILM shuts down network after suspected ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/"> Full Text</a>
 </p>
 <details>
