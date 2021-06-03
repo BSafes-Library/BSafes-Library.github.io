@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+White House Issues Open Letter on Ransomware<a href="https://www.infosecurity-magazine.com:443/news/white-house-issues-open-letter-on/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US companies urged to take ransomware threat more seriously after deluge of cyber-attacks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cyberspies UNC2630 Targeting US and EU Organizations<a href="https://cyware.com/news/chinese-cyberspies-unc2630-targeting-us-and-eu-organizations-d94ac724"> Full Text</a>
 </p>
 <details>
