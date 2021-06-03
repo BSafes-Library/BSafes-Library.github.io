@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Maloney grills Colonial Pipeline on decision to pay ransom to hackers<a href="https://thehill.com//policy/cybersecurity/556774-maloney-grills-colonial-pipeline-cna-on-decisions-to-pay-ransom-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Oversight and Reform Committee Chairwoman Carolyn Maloney (D-N.Y.) on Thursday grilled Colonial Pipeline and insurance group CNA Financial Corporation for their recent decisions to pay hackers in order to regain access to their networks following ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams calls are getting end-to-end encryption in July<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-calls-are-getting-end-to-end-encryption-in-july/"> Full Text</a>
 </p>
 <details>
