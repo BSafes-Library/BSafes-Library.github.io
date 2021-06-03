@@ -37,6 +37,40 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies UNC2630 Targeting US and EU Organizations<a href="https://cyware.com/news/chinese-cyberspies-unc2630-targeting-us-and-eu-organizations-d94ac724"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts laid bare the tactics adopted by Chinese threat actors to consistently exploit Pulse Secure VPN devices and drop malware to exfiltrate sensitive information.&nbsp;Looking at the scenario, security agencies need to buckle up for more challenging events and detect such threats to stay protect ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half-Double - A New Variant of Rowhammer Attack<a href="https://cyware.com/news/half-double-a-new-variant-of-rowhammer-attack-eeb20e50"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers detail Half-Double, another Rowhammer attack technique, that could help criminals bypass current defenses and steal or manipulate data stored in memory.&nbsp;This recent study on the new Rowhammer bug variant is expected to help both researchers and industry partners to work toge ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes High-severity issues in Webex, SD-WAN, ASR 5000 software<a href="https://securityaffairs.co/wordpress/118564/security/cisco-webex-player-sd-wan-asr-5000-flaws.html"> Full Text</a>
 </p>
 <details>
