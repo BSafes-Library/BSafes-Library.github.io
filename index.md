@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes High-severity issues in Webex, SD-WAN, ASR 5000 software<a href="https://securityaffairs.co/wordpress/118564/security/cisco-webex-player-sd-wan-asr-5000-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed multiple security flaws, including high-severity vulnerabilities, in Webex Player, SD-WAN software, and ASR 5000 series software.
+
+
+
+Cisco has addressed multiple vulnerabilities in its products, including high-risk flaws in Webex Player,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google PPC Ads Used to Deliver Infostealers<a href="https://threatpost.com/google-ppc-ads-used-to-deliver-infostealers/166644/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The crooks pay top dollar for Google search results for the popular AnyDesk, Dropbox & Telegram apps that lead to a malicious, infostealer-packed website.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
