@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Museum Website Vandalized with X-Rated Ads<a href="https://www.infosecurity-magazine.com:443/news/museum-website-vandalized-with/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminals take over Scottish tourism site and flood it with pornographic adware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Missing Toddler Chat Group Banned<a href="https://www.infosecurity-magazine.com:443/news/missing-toddler-chat-group-banned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parents of vanished boy reach partial settlement in Facebook chat group cyber-bullying case
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 White House Issues Open Letter on Ransomware<a href="https://www.infosecurity-magazine.com:443/news/white-house-issues-open-letter-on/"> Full Text</a>
 </p>
 <details>
