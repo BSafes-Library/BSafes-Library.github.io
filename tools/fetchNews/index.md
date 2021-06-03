@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UF Health Florida hospitals back to pen and paper after cyberattack<a href="https://www.bleepingcomputer.com/news/security/uf-health-florida-hospitals-back-to-pen-and-paper-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UF Health Central Florida has suffered a reported ransomware attack that forced two hospitals to shut down portions of their IT network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Dept. to give ransomware attacks same priority as terrorism<a href="https://thehill.com//policy/national-security/556739-justice-dept-to-give-ransomware-attacks-same-priority-as-terrorism"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department announced this week that it will begin elevating ransomware investigations to a similar level of priority as terrorist attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
