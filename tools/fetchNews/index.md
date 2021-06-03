@@ -34,6 +34,74 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda Cyber Espionage Group Plants Malware Backdoor on Myanmar President’s Website<a href="https://therecord.media/backdoor-malware-found-on-the-myanmar-presidents-website-again/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-espionage hacking group is believed to have hacked the website of the Myanmar president’s office and planted a backdoor trojan inside a localized Myanmar font package.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant to Re-Emerge After $1.2 Billion FireEye Sale<a href="https://www.infosecurity-magazine.com:443/news/mandiant-to-reemerge-fireeye/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will see STG acquire FireEye’s network, email, endpoint and cloud security products
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Realtek RTL8170C Wi-Fi module allow hijacking wireless communications<a href="https://securityaffairs.co/wordpress/118558/security/realtek-rtl8170c-wi-fi-module-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found multiple flaws in the Realtek RTL8170C Wi-Fi module that could be exploited to elevate privileges and hijack wireless communications.
+
+
+
+Researchers from Israeli IoT security firm Vdoo found multiple vulnerabilities in the Realtek RTL8170C...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise Mobile Security Startup Hypori Raises $20 Million<a href="https://www.securityweek.com/enterprise-mobile-security-startup-hypori-raises-20-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2013, the Austin, Texas-based company provides organizations with security and management solutions to keep corporate apps and data protected on employees’ personal mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
