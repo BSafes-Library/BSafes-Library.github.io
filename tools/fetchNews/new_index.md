@@ -34,7 +34,75 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda Cyber Espionage Group Plants Malware Backdoor on Myanmar President’s Website<a href="https://therecord.media/backdoor-malware-found-on-the-myanmar-presidents-website-again/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-espionage hacking group is believed to have hacked the website of the Myanmar president’s office and planted a backdoor trojan inside a localized Myanmar font package.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant to Re-Emerge After $1.2 Billion FireEye Sale<a href="https://www.infosecurity-magazine.com:443/news/mandiant-to-reemerge-fireeye/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will see STG acquire FireEye’s network, email, endpoint and cloud security products
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Realtek RTL8170C Wi-Fi module allow hijacking wireless communications<a href="https://securityaffairs.co/wordpress/118558/security/realtek-rtl8170c-wi-fi-module-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found multiple flaws in the Realtek RTL8170C Wi-Fi module that could be exploited to elevate privileges and hijack wireless communications.
+
+
+
+Researchers from Israeli IoT security firm Vdoo found multiple vulnerabilities in the Realtek RTL8170C...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise Mobile Security Startup Hypori Raises $20 Million<a href="https://www.securityweek.com/enterprise-mobile-security-startup-hypori-raises-20-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2013, the Austin, Texas-based company provides organizations with security and management solutions to keep corporate apps and data protected on employees’ personal mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House urges businesses to "take ransomware crime seriously"<a href="https://www.bleepingcomputer.com/news/security/white-house-urges-businesses-to-take-ransomware-crime-seriously/"> Full Text</a>
@@ -50,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1 Indian firm paying average $75,000 after ransomware attack<a href="https://ciso.economictimes.indiatimes.com/news/1-indian-firm-paying-average-rs-55-lakh-after-ransom-attack/83164271?&web_view=true"> Full Text</a>
@@ -66,7 +134,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House sends out memo to private sector on cyber attack protections<a href="https://thehill.com//policy/cybersecurity/556625-white-house-sends-out-recommendations-to-private-sector-on-protections"> Full Text</a>
@@ -82,7 +150,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Vulnerabilities of the Past Are the Vulnerabilities of the Future<a href="https://thehackernews.com/2021/06/the-vulnerabilities-of-past-are.html"> Full Text</a>
@@ -98,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secureworks Appoints Wendy Thomas as CEO as Michael Cote Announces Retirement<a href="https://www.infosecurity-magazine.com:443/news/secureworks-appoints-ceo-wendy/"> Full Text</a>
@@ -114,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI confirmed that JBS was hit by the REvil ransomware gang<a href="https://securityaffairs.co/wordpress/118554/cyber-crime/jbs-revil-ransomware.html"> Full Text</a>
@@ -134,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Then and Now: Securing Privileged Access Within Healthcare Orgs<a href="https://threatpost.com/securing-privileged-access-healthcare/166477/"> Full Text</a>
@@ -150,7 +218,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massachusetts' largest ferry service hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/massachusetts-largest-ferry-service-hit-by-ransomware-attack/"> Full Text</a>
@@ -166,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujifilm Faces Network Outage After Suspected Ransomware Attack<a href="https://news.softpedia.com/news/fujifilm-shuts-down-network-after-suspected-ransomware-attack-533110.shtml?&web_view=true"> Full Text</a>
@@ -182,7 +250,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden steps up pressure on Russia to go after cyber criminals<a href="https://thehill.com//policy/cybersecurity/556601-biden-steps-up-pressure-on-russia-to-go-after-cyber-criminals"> Full Text</a>
@@ -198,7 +266,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Critical Bugs Affecting Realtek Wi-Fi Module<a href="https://thehackernews.com/2021/06/researchers-warn-of-critical-bugs.html"> Full Text</a>
@@ -214,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Disrupts Largest Ferry Service in Massachusetts<a href="https://www.infosecurity-magazine.com:443/news/ransomware-massachusetts-largest/"> Full Text</a>
@@ -230,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMT Games data breach: Millions of Users’ Messages, Account IDs, and IP Addresses Exposed<a href="https://securityaffairs.co/wordpress/118529/data-breach/amt-games-data-leak.html"> Full Text</a>
@@ -250,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 03, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ARIN will take down its RPKI for 30 minutes to test your BGP routes<a href="https://www.bleepingcomputer.com/news/security/arin-will-take-down-its-rpki-for-30-minutes-to-test-your-bgp-routes/"> Full Text</a>
@@ -266,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Email spoofing: how attackers impersonate legitimate senders<a href="https://securelist.com/email-spoofing-types/102703/?&web_view=true"> Full Text</a>
@@ -282,7 +350,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2021
+June 03, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Yet Another Chinese Spying Campaign Aimed at Southeast Asia<a href="https://thehackernews.com/2021/06/experts-uncover-yet-another-chinese.html"> Full Text</a>
@@ -298,7 +366,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three-Quarters of Security Leaders Report Increase in Cyber-Attacks in Past Year<a href="https://www.infosecurity-magazine.com:443/news/three-quarters-leaders-increase/"> Full Text</a>
@@ -314,7 +382,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Defense Magazine – June 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/118536/breaking-news/cyber-defense-magazine-june-2021.html"> Full Text</a>
@@ -350,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Database, Source Code of Bulletproof Hosting Service DDoS-Guard Allegedly Posted on Cybercrime Forum<a href="https://securityaffairs.co/wordpress/118508/hacking/bulletproof-hosting-database-leak.html?&web_view=true"> Full Text</a>
@@ -366,7 +434,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: REvil Ransomware Group Behind JBS Attack<a href="https://www.infosecurity-magazine.com:443/news/fbi-revil-ransomware-jbs-attack/"> Full Text</a>
@@ -382,7 +450,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware-related attacks jump by 54%<a href="https://www.helpnetsecurity.com/2021/06/03/malware-related-attacks/?&web_view=true"> Full Text</a>
@@ -398,7 +466,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York’s Metropolitan Transportation Authority Breached by China-linked Hackers<a href="https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html?&web_view=true"> Full Text</a>
@@ -414,7 +482,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Groups Launching Backdoor Attacks to Spy on Southeast Asian Governments<a href="https://www.zdnet.com/article/chinese-cybercriminals-spent-three-years-creating-a-new-backdoor-to-spy-on-governments/?&web_view=true"> Full Text</a>
@@ -430,7 +498,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FireEye is selling its products business and name for $1.2 billion<a href="https://www.cnbc.com/2021/06/02/fireeye-selling-products-business-and-name-for-1point2-billion.html?&web_view=true"> Full Text</a>
@@ -446,7 +514,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Largest meat producer getting back online after cyberattack<a href="https://www.nbcnews.com/tech/security/largest-meat-producer-getting-back-online-after-cyberattack-n1269455?&web_view=true"> Full Text</a>
@@ -462,7 +530,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2021
+June 3, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google PPC Ads Deliver Redline, Taurus, and mini-Redline Infostealers<a href="https://blog.morphisec.com/google-ppc-ads-deliver-redline-taurus-and-mini-redline-infostealers?&web_view=true"> Full Text</a>
@@ -478,7 +546,7 @@ Morphisec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2021
+June 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Ground Down JBS: Sources<a href="https://threatpost.com/revil-ransomware-ground-down-jbs-sources/166597/"> Full Text</a>
