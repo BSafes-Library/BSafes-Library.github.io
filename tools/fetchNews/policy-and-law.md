@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sextortion Lands Inmate in Federal Prison<a href="https://www.infosecurity-magazine.com:443/news/sextortion-lands-inmate-in-federal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Carolina inmate sentenced over deadly sextortion scheme targeting military members
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen Crashes Florida School District’s Network<a href="https://www.infosecurity-magazine.com:443/news/teen-crashes-florida-school/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High school hacker facing felony charges after knocking 145 schools offline
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

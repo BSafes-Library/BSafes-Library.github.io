@@ -11,6 +11,20 @@ nav_order: 900010
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Another APT Group Piercing into U.S. Local Government Networks<a href="https://cyware.com/news/another-apt-group-piercing-into-us-local-government-networks-610974d1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foreign hackers made their way into the webserver of a local U.S. municipal government after exploiting vulnerabilities in an unpatched Fortinet VPN appliance. The FBI shared IOCs for the same.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US seizes 2 domains used by APT29 in a recent phishing campaign<a href="https://securityaffairs.co/wordpress/118495/apt/doj-seized-apt29-domains.html"> Full Text</a>
 </p>
 <details>

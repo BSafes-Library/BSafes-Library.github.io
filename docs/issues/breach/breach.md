@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Disrupts Largest Ferry Service in Massachusetts<a href="https://www.infosecurity-magazine.com:443/news/ransomware-massachusetts-largest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wednesday's attack is the latest cyber assault affecting logistics and services in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMT Games data breach: Millions of Users’ Messages, Account IDs, and IP Addresses Exposed<a href="https://securityaffairs.co/wordpress/118529/data-breach/amt-games-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WizCase’s&nbsp;security team discovered an unsecured ElasticSearch server owned by AMT Games which exposed 1.47 TB of data.
+
+
+
+This leak exposed users’ email addresses, IP addresses, Facebook data, and more to potential attack.&nbsp;The leaked data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York’s Metropolitan Transportation Authority Breached by China-linked Hackers<a href="https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers did not gain access to systems that control train cars and rider safety was not at risk, transit officials said, adding that the intrusion appeared to have done little, if any, damage.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

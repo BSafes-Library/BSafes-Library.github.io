@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How ransomware actors are adding DDoS attacks to their arsenals<a href="https://www.techrepublic.com/article/how-ransomware-actors-are-adding-ddos-attacks-to-their-arsenals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many cybercriminals who sell ransomware-as-a-service campaigns offer a DDoS attack as an extra service. "It's a little bit ransom, a little bit DDoS extortion, and a lot of trouble," NETSCOUT said.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blizzard Experiences High Latency and Disconnections Due to Massive DDoS Attack<a href="https://news.softpedia.com/news/blizzard-experiencing-ddos-attack-possible-high-latency-and-disconnections-533100.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Blizzard, they are under massive DDoS attack, which may cause significant latency and disconnections for some gamers. The company also says that it's working hard to address this issue.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

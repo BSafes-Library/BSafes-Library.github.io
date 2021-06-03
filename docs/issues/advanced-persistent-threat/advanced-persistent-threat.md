@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Groups Launching Backdoor Attacks to Spy on Southeast Asian Governments<a href="https://www.zdnet.com/article/chinese-cybercriminals-spent-three-years-creating-a-new-backdoor-to-spy-on-governments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research said that the backdoor has been designed, developed, tested, and deployed over the past three years to compromise a Southeast Asian nation's Ministry of Foreign Affairs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Vulnerabilities of the Past Are the Vulnerabilities of the Future<a href="https://thehackernews.com/2021/06/the-vulnerabilities-of-past-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major software vulnerabilities are a fact of life, as illustrated by the fact that Microsoft has patched between 55 and 110 vulnerabilities each month this year – with 7% to 17% of those vulnerabilities being critical.  May had the fewest vulnerabilities, with a total of 55 and only four considered critical. The problem is that the critical vulnerabilities are things we have seen for many years, like remote code execution and privilege escalation.  Microsoft isn't the only big name regularly patching major vulnerabilities: We see monthly security updates coming from Apple, Adobe, Google, Cisco, and others.  Everything old is new again  With major vulnerabilities in so many applications, is there any hope for a secure future? The answer is, of course, yes, but that does not mean there won't be challenges getting there.  The vulnerabilities being seen may not be new to those of us who have been defending against attackers  for years or even decades, but the adversaries continual
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Critical Bugs Affecting Realtek Wi-Fi Module<a href="https://thehackernews.com/2021/06/researchers-warn-of-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of critical vulnerabilities has been disclosed in the Realtek RTL8170C Wi-Fi module that an adversary could abuse to gain elevated privileges on a device and hijack wireless communications.  "Successful exploitation would lead to complete control of the Wi-Fi module and potential root access on the OS (such as Linux or Android) of the embedded device that uses this module," researchers from Israeli IoT security firm Vdoo&nbsp; said &nbsp;in a write-up published yesterday.  The Realtek&nbsp; RTL8710C &nbsp;Wi-Fi SoC underpins Ameba, an Arduino-compatible programmable platform equipped with peripheral interfaces for building a variety of IoT applications by devices spanning across agriculture, automotive, energy, healthcare, industrial, security, and smart home sectors.   The flaws affect all embedded and IoT devices that use the component to connect to Wi-Fi networks and would require an attacker to be on the same Wi-Fi network as the devices that use the RTL8710C module or know the ne
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirmed that JBS was hit by the REvil ransomware gang<a href="https://securityaffairs.co/wordpress/118554/cyber-crime/jbs-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US FBI announced that REvil ransomware gang (also known as Sodinokibi) is behind the attack that hit JBS Foods.
+
+
+
+On May 30, the American food processing giant JBS Foods, the world’s largest processor of fresh beef,&nbsp;was forced to shut down production&nbsp;at...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: REvil Ransomware Group Behind JBS Attack<a href="https://www.infosecurity-magazine.com:443/news/fbi-revil-ransomware-jbs-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI said it would be working to bring the REvil group to justice for the hack on JBS
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Ground Down JBS: Sources<a href="https://threatpost.com/revil-ransomware-ground-down-jbs-sources/166597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Responsible nations don’t harbor cybercrooks, the Biden administration admonished Russia, home to the gang that reportedly froze the global food distributor’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

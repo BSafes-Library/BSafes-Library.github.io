@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber certification program for SMBs emphasizes leadership, reducing risk<a href="https://www.scmagazine.com/home/security-news/cyber-certification-program-for-smbs-emphasizes-leadership-reducing-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Program will focus on challenges that small businesses have in distilling key cyber risk information “and making it relevant and accessible.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

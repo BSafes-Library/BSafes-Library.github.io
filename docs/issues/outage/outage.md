@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm Faces Network Outage After Suspected Ransomware Attack<a href="https://news.softpedia.com/news/fujifilm-shuts-down-network-after-suspected-ransomware-attack-533110.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it has been aware of the possibility of a ransomware attack since the late evening of June 1, 2021, and that they have taken steps to suspend all affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

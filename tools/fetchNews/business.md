@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FireEye to split from Mandiant in $1.2B deal<a href="https://www.scmagazine.com/home/security-news/fireeye-to-split-from-mandiant-in-1-2b-deal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye announced its products and name will be sold to a consortium led by private equity firm Symphony Technology Group in a $1.2 billion dollar acquisition announced June 2.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft acquires firmware analysis company ReFirm, eying edge IoT security<a href="https://www.scmagazine.com/home/security-news/cloud-security/microsoft-acquires-firmware-analysis-company-refirm-eying-edge-iot-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReFirm provides drag-and-drop automated firmware analysis, which Microsoft hopes will provide security insight for industrial IoT products, where security personnel often struggle to look inside built-in hardware.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

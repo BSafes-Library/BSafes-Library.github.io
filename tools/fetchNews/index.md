@@ -34,6 +34,466 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House urges businesses to "take ransomware crime seriously"<a href="https://www.bleepingcomputer.com/news/security/white-house-urges-businesses-to-take-ransomware-crime-seriously/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has urged business leaders and corporate executives to "take ransomware crime seriously" in a letter issued by Anne Neuberger, the National Security Council's chief cybersecurity adviser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1 Indian firm paying average $75,000 after ransomware attack<a href="https://ciso.economictimes.indiatimes.com/news/1-indian-firm-paying-average-rs-55-lakh-after-ransom-attack/83164271?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recovery cost of a ransomware attack tripled from $1.1m in 2020 to $3.38m in 2021 as India topped the list of 30 countries worldwide for ransomware attacks, a new report said on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House sends out memo to private sector on cyber attack protections<a href="https://thehill.com//policy/cybersecurity/556625-white-house-sends-out-recommendations-to-private-sector-on-protections"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has sent out recommendations to the private sector over how to protect themselves from cyber intrusions after a series of attacks left companies and government agencies vulnerable. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Vulnerabilities of the Past Are the Vulnerabilities of the Future<a href="https://thehackernews.com/2021/06/the-vulnerabilities-of-past-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major software vulnerabilities are a fact of life, as illustrated by the fact that Microsoft has patched between 55 and 110 vulnerabilities each month this year – with 7% to 17% of those vulnerabilities being critical.  May had the fewest vulnerabilities, with a total of 55 and only four considered critical. The problem is that the critical vulnerabilities are things we have seen for many years, like remote code execution and privilege escalation.  Microsoft isn't the only big name regularly patching major vulnerabilities: We see monthly security updates coming from Apple, Adobe, Google, Cisco, and others.  Everything old is new again  With major vulnerabilities in so many applications, is there any hope for a secure future? The answer is, of course, yes, but that does not mean there won't be challenges getting there.  The vulnerabilities being seen may not be new to those of us who have been defending against attackers  for years or even decades, but the adversaries continual
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secureworks Appoints Wendy Thomas as CEO as Michael Cote Announces Retirement<a href="https://www.infosecurity-magazine.com:443/news/secureworks-appoints-ceo-wendy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current CEO Michael Cote will retire on September 3, 2021, following nearly 20 years at the company.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirmed that JBS was hit by the REvil ransomware gang<a href="https://securityaffairs.co/wordpress/118554/cyber-crime/jbs-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US FBI announced that REvil ransomware gang (also known as Sodinokibi) is behind the attack that hit JBS Foods.
+
+
+
+On May 30, the American food processing giant JBS Foods, the world’s largest processor of fresh beef, was forced to shut down production at...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Then and Now: Securing Privileged Access Within Healthcare Orgs<a href="https://threatpost.com/securing-privileged-access-healthcare/166477/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, chief security scientist and advisory CISO at ThycoticCentrify, discusses best practices for securing healthcare data against the modern threat landscape. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts' largest ferry service hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/massachusetts-largest-ferry-service-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Steamship Authority, Massachusetts' largest ferry service, was hit by a ransomware attack that led to ticketing and reservation disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm Faces Network Outage After Suspected Ransomware Attack<a href="https://news.softpedia.com/news/fujifilm-shuts-down-network-after-suspected-ransomware-attack-533110.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it has been aware of the possibility of a ransomware attack since the late evening of June 1, 2021, and that they have taken steps to suspend all affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden steps up pressure on Russia to go after cyber criminals<a href="https://thehill.com//policy/cybersecurity/556601-biden-steps-up-pressure-on-russia-to-go-after-cyber-criminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attacks on meatpacker JBS and Colonial Pipeline are prompting the Biden administration to confront nations like Russia and China on harboring hackers who cause major disruptions overseas.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Critical Bugs Affecting Realtek Wi-Fi Module<a href="https://thehackernews.com/2021/06/researchers-warn-of-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of critical vulnerabilities has been disclosed in the Realtek RTL8170C Wi-Fi module that an adversary could abuse to gain elevated privileges on a device and hijack wireless communications.  "Successful exploitation would lead to complete control of the Wi-Fi module and potential root access on the OS (such as Linux or Android) of the embedded device that uses this module," researchers from Israeli IoT security firm Vdoo  said  in a write-up published yesterday.  The Realtek  RTL8710C  Wi-Fi SoC underpins Ameba, an Arduino-compatible programmable platform equipped with peripheral interfaces for building a variety of IoT applications by devices spanning across agriculture, automotive, energy, healthcare, industrial, security, and smart home sectors.   The flaws affect all embedded and IoT devices that use the component to connect to Wi-Fi networks and would require an attacker to be on the same Wi-Fi network as the devices that use the RTL8710C module or know the ne
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Disrupts Largest Ferry Service in Massachusetts<a href="https://www.infosecurity-magazine.com:443/news/ransomware-massachusetts-largest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wednesday's attack is the latest cyber assault affecting logistics and services in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMT Games data breach: Millions of Users’ Messages, Account IDs, and IP Addresses Exposed<a href="https://securityaffairs.co/wordpress/118529/data-breach/amt-games-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WizCase’s security team discovered an unsecured ElasticSearch server owned by AMT Games which exposed 1.47 TB of data.
+
+
+
+This leak exposed users’ email addresses, IP addresses, Facebook data, and more to potential attack. The leaked data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ARIN will take down its RPKI for 30 minutes to test your BGP routes<a href="https://www.bleepingcomputer.com/news/security/arin-will-take-down-its-rpki-for-30-minutes-to-test-your-bgp-routes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ARIN plans on performing unannounced maintenance of its RPKI, sometime in July, for about thirty minutes to check if networks are adhering to BGP best practices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email spoofing: how attackers impersonate legitimate senders<a href="https://securelist.com/email-spoofing-types/102703/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SMTP (Simple Mail Transfer Protocol, the main email transmission protocol in TCP/IP networks) offers no protection against spoofing, so it is fairly easy to spoof the sender’s address.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Yet Another Chinese Spying Campaign Aimed at Southeast Asia<a href="https://thehackernews.com/2021/06/experts-uncover-yet-another-chinese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyber-espionage operation with suspected ties to China has been found targeting a Southeast Asian government to deploy spyware on Windows systems while staying under the radar for more than three years.  "In this campaign, the attackers utilized the set of Microsoft Office exploits and loaders with anti-analysis and anti-debugging techniques to install a previously unknown backdoor on victim's machines," researchers from Check Point  Research said in a report published today.  The infection chain works by sending decoy documents, impersonating other entities within the government, to multiple members of the Ministry of Foreign Affairs, which, when opened, retrieves a next-stage payload from the attacker's server that contains an encrypted downloader. The downloader, in turn, gathers and exfiltrates system information to a remote server that subsequently responds back with a shellcode loader.   The use of weaponized copies of legitimate-looking official doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Security Leaders Report Increase in Cyber-Attacks in Past Year<a href="https://www.infosecurity-magazine.com:443/news/three-quarters-leaders-increase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four out of five security leaders suffered a breach in the past 12 months
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – June 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/118536/breaking-news/cyber-defense-magazine-june-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine June 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with over 129 pages of excellent content.
+
+
+
+Cyber Defense Magazine June 2021
+
+
+
+
+
+
+
+
+
+
+
+129 PAGES
+
+
+
+GRAB THIS VERSION TO HELP FUND OUR OPERATIONS:CLICK...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Database, Source Code of Bulletproof Hosting Service DDoS-Guard Allegedly Posted on Cybercrime Forum<a href="https://securityaffairs.co/wordpress/118508/hacking/bulletproof-hosting-database-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB has discovered a database and source code allegedly belonging to a bulletproof hosting provider named DDoS-Guard posted for sale on a cybercrime forum on May 26.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: REvil Ransomware Group Behind JBS Attack<a href="https://www.infosecurity-magazine.com:443/news/fbi-revil-ransomware-jbs-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI said it would be working to bring the REvil group to justice for the hack on JBS
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware-related attacks jump by 54%<a href="https://www.helpnetsecurity.com/2021/06/03/malware-related-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The total number of incidents grew by 51% since 2019. Seven out of 10 attacks were targeted. The most popular targets were governments (19%), industrial companies (12%), and medical institutions (9%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York’s Metropolitan Transportation Authority Breached by China-linked Hackers<a href="https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers did not gain access to systems that control train cars and rider safety was not at risk, transit officials said, adding that the intrusion appeared to have done little, if any, damage.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Groups Launching Backdoor Attacks to Spy on Southeast Asian Governments<a href="https://www.zdnet.com/article/chinese-cybercriminals-spent-three-years-creating-a-new-backdoor-to-spy-on-governments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research said that the backdoor has been designed, developed, tested, and deployed over the past three years to compromise a Southeast Asian nation's Ministry of Foreign Affairs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FireEye is selling its products business and name for $1.2 billion<a href="https://www.cnbc.com/2021/06/02/fireeye-selling-products-business-and-name-for-1point2-billion.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye said Wednesday it’s selling its products business, including the FireEye name, to a consortium led by private-equity firm Symphony Technology Group for $1.2 billion in cash.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Largest meat producer getting back online after cyberattack<a href="https://www.nbcnews.com/tech/security/largest-meat-producer-getting-back-online-after-cyberattack-n1269455?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world’s largest meat processing company has resumed most production after a weekend cyberattack, but experts say the vulnerabilities exposed by this attack and others are far from resolved.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google PPC Ads Deliver Redline, Taurus, and mini-Redline Infostealers<a href="https://blog.morphisec.com/google-ppc-ads-deliver-redline-taurus-and-mini-redline-infostealers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PPC ads targeted specific IP ranges in the US and probably some other countries. Non-targeted IPs are redirected to legitimate pages that download the correct applications.
+</details>
+<div style="text-align: right" markdown="1">
+Morphisec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Ground Down JBS: Sources<a href="https://threatpost.com/revil-ransomware-ground-down-jbs-sources/166597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Responsible nations don’t harbor cybercrooks, the Biden administration admonished Russia, home to the gang that reportedly froze the global food distributor’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 02, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

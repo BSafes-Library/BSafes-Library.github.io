@@ -8,6 +8,110 @@ nav_order: 900072
 
 ## General
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1 Indian firm paying average $75,000 after ransomware attack<a href="https://ciso.economictimes.indiatimes.com/news/1-indian-firm-paying-average-rs-55-lakh-after-ransom-attack/83164271?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recovery cost of a ransomware attack tripled from $1.1m in 2020 to $3.38m in 2021 as India topped the list of 30 countries worldwide for ransomware attacks, a new report said on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Then and Now: Securing Privileged Access Within Healthcare Orgs<a href="https://threatpost.com/securing-privileged-access-healthcare/166477/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, chief security scientist and advisory CISO at ThycoticCentrify, discusses best practices for securing healthcare data against the modern threat landscape. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Yet Another Chinese Spying Campaign Aimed at Southeast Asia<a href="https://thehackernews.com/2021/06/experts-uncover-yet-another-chinese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyber-espionage operation with suspected ties to China has been found targeting a Southeast Asian government to deploy spyware on Windows systems while staying under the radar for more than three years.  "In this campaign, the attackers utilized the set of Microsoft Office exploits and loaders with anti-analysis and anti-debugging techniques to install a previously unknown backdoor on victim's machines," researchers from Check Point  Research said in a report published today.  The infection chain works by sending decoy documents, impersonating other entities within the government, to multiple members of the Ministry of Foreign Affairs, which, when opened, retrieves a next-stage payload from the attacker's server that contains an encrypted downloader. The downloader, in turn, gathers and exfiltrates system information to a remote server that subsequently responds back with a shellcode loader.   The use of weaponized copies of legitimate-looking official doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Security Leaders Report Increase in Cyber-Attacks in Past Year<a href="https://www.infosecurity-magazine.com:443/news/three-quarters-leaders-increase/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four out of five security leaders suffered a breach in the past 12 months
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – June 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/118536/breaking-news/cyber-defense-magazine-june-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine June 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with over 129 pages of excellent content.
+
+
+
+Cyber Defense Magazine June 2021
+
+
+
+
+
+
+
+
+
+
+
+129 PAGES
+
+
+
+GRAB THIS VERSION TO HELP FUND OUR OPERATIONS:CLICK...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware-related attacks jump by 54%<a href="https://www.helpnetsecurity.com/2021/06/03/malware-related-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The total number of incidents grew by 51% since 2019. Seven out of 10 attacks were targeted. The most popular targets were governments (19%), industrial companies (12%), and medical institutions (9%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

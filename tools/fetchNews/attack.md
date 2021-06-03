@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts Steamship Authority hit by ransomware attack<a href="https://www.wcvb.com/article/massachusetts-steamship-authority-hit-by-ransomware-attack/36607299?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Steamship Authority said a team of IT professionals was assessing the impact of the attack. "Additional information will be provided upon completion of the initial assessment," the company said.
+</details>
+<div style="text-align: right" markdown="1">
+WCVB
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
