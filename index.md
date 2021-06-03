@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Necro Python Malware Upgrades With New Exploits and Crypto Mining Capabilities<a href="https://thehackernews.com/2021/06/necro-python-malware-upgrades-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New upgrades have been made to a Python-based "self-replicating, polymorphic bot" called Necro in what's seen as an attempt to improve its chances of infecting vulnerable systems and evading detection.  "Although the bot was originally discovered earlier this year, the latest activity shows numerous changes to the bot, ranging from different command-and-control (C2) communications and the addition of new exploits for spreading, most notably vulnerabilities in VMWare vSphere, SCO OpenServer, Vesta Control Panel and SMB-based exploits that were not present in the earlier iterations of the code," researchers from Cisco Talos  said  in a deep-dive published today.   Said to be in development as far back as 2015,  Necro  (aka N3Cr0m0rPh) targets both Linux and Windows devices, with heightened activity observed at the start of the year as part of a malware campaign dubbed " FreakOut " that was found exploiting  vulnerabilities  in network-attached storage (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
