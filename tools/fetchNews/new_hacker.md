@@ -11,6 +11,48 @@ nav_order: 900080
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New York subway system was targeted by Chinese-linked hackers in April<a href="https://thehill.com//policy/cybersecurity/556598-new-york-subway-system-was-targeted-by-chinese-linked-hackers-in-april"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York’s subway system was targeted by hackers with links to the Chinese government in April, according to an MTA document reported on by The New York Times.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker forum contest gives $100K for new ways to steal digital assets<a href="https://www.bleepingcomputer.com/news/security/hacker-forum-contest-gives-100k-for-new-ways-to-steal-digital-assets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The administrator of a Russian-speaking&nbsp;cybercriminal forum has held a contest for the community to share uncommon methods to target cryptocurrency-related technology.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is how attackers bypass AMSI anti-malware scanning protection<a href="https://www.zdnet.com/article/this-is-how-attackers-bypass-microsoft-antimalware-scan-software-amsi/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMSI's integration with Office 365 was recently upgraded to include Excel 4.0 (XLM) macro scanning to try and combat the increase of malicious macros as an infection vector.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Hacking Operations Targeting Government Entities in South Korea<a href="https://thehackernews.com/2021/06/researchers-uncover-hacking-operations.html"> Full Text</a>
 </p>
 <details>

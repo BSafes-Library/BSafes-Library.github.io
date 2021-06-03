@@ -11,6 +11,20 @@ nav_order: 900031
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI: REvil cybergang behind the JBS ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fbi-revil-cybergang-behind-the-jbs-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigations has officially stated that the REvil operation, aka&nbsp;Sodinokibi, is behind the ransomware attack targeting JBS, the world's largest meat producer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Hold $115,000-Prize Contest to Find New Cryptocurrency Hacks<a href="https://thehackernews.com/2021/06/cybercriminals-hold-115000-prize.html"> Full Text</a>
 </p>
 <details>

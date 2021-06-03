@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Hold $115,000-Prize Contest to Find New Cryptocurrency Hacks<a href="https://thehackernews.com/2021/06/cybercriminals-hold-115000-prize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Russian-language underground forum has been running a "contest" for the past month, calling on its community to submit "unorthodox" ways to conduct cryptocurrency attacks.  The forum's administrator, in an announcement made on April 20, 2021, invited members to submit papers that assess the possibility of targeting cryptocurrency-related technology, including the theft of private keys and wallets, in addition to covering unusual cryptocurrency mining software, smart contracts, and non-fungible tokens (NFTs).  The&nbsp; contest , which is likely to continue till September 1, will see total prize money of $115,000 awarded to the best research.   "So far, the top candidates (according to forum member voting) include topics like generating a fake blockchain front-end website that captures sensitive information such as private keys and balances, creating a new cryptocurrency blockchain from scratch, increasing the hash rate speed of mining farms and botnets, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Outfit Linked to Russia Is Behind JBS Cyberattack<a href="https://www.bloomberg.com/news/articles/2021-06-02/hacking-outfit-linked-to-russia-is-behind-jbs-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil, a notorious Russia-linked hacking group is behind the cyberattack against JBS SA, according to four people familiar with the assault who were not authorized to speak publicly on the matter.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

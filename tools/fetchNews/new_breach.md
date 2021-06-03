@@ -11,6 +11,52 @@ nav_order: 900029
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scripps Notifying 147K People of Data Breach<a href="https://www.infosecurity-magazine.com:443/news/scripps-notifying-147k-people-of/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare provider shares news of ransomware attack that exposed patient data
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Database, source code allegedly related to bulletproof hosting, once Parler’s service provider, up for sale on hacker forum<a href="https://securityaffairs.co/wordpress/118508/hacking/bulletproof-hosting-database-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB discovered a database allegedly belonging to a bulletproof hosting provider DDoS-Guard posted for sale on a cybercrime forum.
+
+
+
+Group-IB, a global threat hunting and adversary-centric cyber intelligence company specializing in investigating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Scripps begins notifying more than 147,000 people of ransomware records breach<a href="https://www.sandiegouniontribune.com/news/health/story/2021-06-01/scripps-begins-notifying-more-than-147-000-people-of-ransomware-records-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scripps Health announced that it has begun notifying nearly 150,000 individuals that their personal information was stolen by hackers during the ransomware attack on May 1.
+</details>
+<div style="text-align: right" markdown="1">
+San Diego Union Tribune
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Battle for the Galaxy: 6 Million Gamers Hit by Data Leak<a href="https://www.infosecurity-magazine.com:443/news/battle-galaxy-gamers-data-leak/"> Full Text</a>
 </p>
 <details>

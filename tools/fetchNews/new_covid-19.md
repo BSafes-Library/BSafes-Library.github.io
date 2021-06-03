@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Attacks Surge Along with Post-COVID Economy<a href="https://threatpost.com/banking-attacks-surge-along-with-post-covid-economy/166612/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FinTech fraud spikes 159 percent in Q1 2021 along with stimulus spending. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,62 @@ nav_order: 900072
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DarkSide - The RaaS Threat That Created Ripples Globally<a href="https://cyware.com/news/darkside-the-raas-threat-that-created-ripples-globally-f4ff69c4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkSide’s attack on Colonial Pipeline did not just thrust the gang onto the international stage but also cast a spotlight on a rapidly expanding criminal industry based primarily in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Only 17% of organizations encrypt at least half of their sensitive cloud data<a href="https://www.scmagazine.com/home/security-news/only-17-of-organizations-encrypt-at-least-half-of-their-sensitive-cloud-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research by Thales on security trends one year into the pandemic found that about half of businesses store more than 40% of their data in external cloud environments. The percentages for encryption of sensitive data in the cloud is less encouraging however.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Massachusetts ferry operator hit by ransomware attack | Trump blog page is permanently shut down | Amazon takes big step in e-book deal with libraries, but activists seek more<a href="https://thehill.com//policy/technology/overnights/556572-hillicon-valley-massachusetts-ferry-operator-hit-by-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the largest ferry service operator to Martha’s Vineyard and Nantucket. Meanwhile, former President TrumpDonald TrumpRNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton, lab-leak theory National Enquirer publisher fined for breaking law with McDougal payment: WSJ MORE’s blog permanently shut down after its 29-day run, and Amazon agreed to a deal to license the books it publishes to libraries but activists say the deal doesn't go far enough.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Effective Adoption of SASE in 2021<a href="https://threatpost.com/effective-adoption-of-sase-in-2021/166605/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this Threatpost podcast, Forcepoint’s SASE and Zero Trust director describes how the pandemic jump-started SASE adoption.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Banking Fraud up 159% as Transactions Hit Pre-Pandemic Volumes<a href="https://www.infosecurity-magazine.com:443/news/banking-fraud-up-159-transactions/"> Full Text</a>
 </p>
 <details>

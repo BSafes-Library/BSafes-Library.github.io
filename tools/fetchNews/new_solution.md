@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2021.2 released with new tools, improvements, and themes<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20212-released-with-new-tools-improvements-and-themes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Kali Linux 2021.2 was released today by Offensive Security and includes new themes and features, such as access to privileged ports, new tools, and a console-based configuration utility.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

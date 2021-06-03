@@ -8,6 +8,52 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norton 360 antivirus now lets you mine Ethereum cryptocurrency<a href="https://www.bleepingcomputer.com/news/cryptocurrency/norton-360-antivirus-now-lets-you-mine-ethereum-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NortonLifelock has added the ability to mine Ethereum cryptocurrency directly within its Norton 360 antivirus program as a way to "protect" users from malicious mining software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$280 million stolen per month from crypto transactions<a href="https://securityaffairs.co/wordpress/118512/hacking/280-million-stolen-per-month-from-crypto-transactions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found that front-runners are abusing decentralized cryptocurrency exchanges by draining hundreds of millions in crypto from trader transactions on the Ethereum network. 
+
+
+
+Unsuspecting traders can lose as much as $280 million to front-runners...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking -  The Most Common Cloud Threat<a href="https://cyware.com/news/cryptojacking-the-most-common-cloud-threat-7a13ad63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured Docker daemon is a well-known security issue.  Palo Alto Networks deployed a honeypot mimicking a misconfigured Docker daemon and found that three-fourth of attacks were cryptojacking attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

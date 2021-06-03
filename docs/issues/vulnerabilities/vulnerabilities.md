@@ -11,6 +11,38 @@ nav_order: 900220
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical 0day in the Fancy Product Designer WordPress plugin actively exploited<a href="https://securityaffairs.co/wordpress/118522/hacking/fancy-product-designer-wordpress-plugin-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability in the Fancy Product Designer WordPress plugin exposes more than 17,000 websites to attacks.
+
+
+
+Researchers from the Wordfence team at WordPress security company Defiant warn that a critical zero-day vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huawei USB LTE dongles are vulnerable to privilege escalation attacks<a href="https://www.bleepingcomputer.com/news/security/huawei-usb-lte-dongles-are-vulnerable-to-privilege-escalation-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, a Trustwave security researcher disclosed a privilege escalation flaw in Huawei's USB LTE dongles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Industrial Switches From Several Vendors Affected by Same Vulnerabilities<a href="https://www.securityweek.com/industrial-switches-several-vendors-affected-same-vulnerabilities?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

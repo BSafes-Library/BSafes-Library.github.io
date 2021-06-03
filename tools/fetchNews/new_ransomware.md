@@ -11,6 +11,34 @@ nav_order: 900180
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Podcast: The State of Ransomware<a href="https://threatpost.com/podcast-state-of-ransomware/166624/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this Threatpost podcast, Fortinet’s top researcher sketches out the ransom landscape, with takeaways from the DarkSide attack on Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts ferry operator hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/556489-massachusetts-ferry-operator-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest ferry service operator to Martha’s Vineyard and Nantucket was hit by a ransomware attack Wednesday that hampered some operations, the latest in a string of cyberattacks in recent weeks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Are Ransomware Attacks Impeding Criminal Prosecutions?<a href="https://www.govinfosecurity.com/are-ransomware-attacks-impeding-criminal-prosecutions-a-16781?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

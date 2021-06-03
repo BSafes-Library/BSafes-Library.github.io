@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Switches From Several Vendors Affected by Same Vulnerabilities<a href="https://www.securityweek.com/industrial-switches-several-vendors-affected-same-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker with network access to the targeted device can make unauthorized changes to its configuration, cause it to enter a DoS condition, and obtain sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit broker Zerodium is looking for Pidgin 0day exploits<a href="https://securityaffairs.co/wordpress/118500/breaking-news/zerodium-pidgin-0day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium is looking for 0day exploits affecting the IM client tool Pidgin on Windows and Linux. 
+
+
+
+Zero-day exploit broker Zerodium announced it is looking for 0day exploits affecting the IM client tool Pidgin on Windows and Linux....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenPGP library RNP updates after Thunderbird decrypt-no-recrypt bug squashed<a href="https://www.theregister.com/2021/06/02/openpgp_rnp_library/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenPGP project RNP has patched its flagship product in the newest version 0.15.1, after Mozilla Thunderbird, a major user, was found to be saving users’ private keys in plain text.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zero-Day in WordPress Plugin Under Active Attack<a href="https://www.infosecurity-magazine.com:443/news/critical-zeroday-wordpress-plugin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability in Fancy Product Designer could enable full site takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Lasso Library Impacts Products From Cisco, Akamai<a href="https://www.securityweek.com/vulnerability-lasso-library-impacts-products-cisco-akamai?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability discovered recently in an open source library named Lasso has been found to impact products from Cisco and Akamai, as well as Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers‌ ‌Actively‌ ‌Exploiting‌ ‌0-Day‌ ‌in WordPress Plugin Installed on Over ‌17,000‌ ‌Sites<a href="https://thehackernews.com/2021/06/hackers-actively-exploiting-0-day-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fancy Product Designer, a WordPress plugin installed on over 17,000 sites, has been discovered to contain a critical file upload vulnerability that's being actively exploited in the wild to upload malware onto sites that have the plugin installed.  Wordfence's threat intelligence team, which discovered the flaw, said it reported the issue to the plugin's developer on May 31. While the flaw has been acknowledged, it's yet to be addressed.  Fancy Product Designer is a tool that enables businesses to offer customizable products, allowing customers to design any kind of item ranging from T-shirts to phone cases by offering the ability to upload images and PDF files that can be added to the products.   "Unfortunately, while the plugin had some checks in place to prevent malicious files from being uploaded, these checks were insufficient and could easily be bypassed, allowing attackers to upload executable PHP files to any site with the plugin installed," Wordfence
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky: Exploits for MS Office Flaws Most Popular in Q1 2021<a href="https://www.securityweek.com/kaspersky-exploits-ms-office-flaws-most-popular-q1-2021?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploits for vulnerabilities in Microsoft’s Office suite were the most popular among cyber-attackers during the first quarter of this year, according to a new Kaspersky report.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium acquiring zero-days in Pidgin, an IM client popular with cybercriminals<a href="https://therecord.media/zerodium-acquiring-zero-days-in-pidgin-an-im-client-popular-with-cybercriminals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals preferred it as they could register an XMPP/Jabber ID on a secure server that did not save logs and use it to reach out and talk to each other to arrange operations or business deas.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

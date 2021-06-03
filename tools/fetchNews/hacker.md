@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Hacking Operations Targeting Government Entities in South Korea<a href="https://thehackernews.com/2021/06/researchers-uncover-hacking-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean threat actor active since 2012 has been behind a new espionage campaign targeting high-profile government officials associated with its southern counterpart to install an Android and Windows backdoor for collecting sensitive information.  Cybersecurity firm Malwarebytes&nbsp; attributed &nbsp;the activity to a threat actor tracked as Kimsuky, with the targeted entities comprising of the Korea Internet and Security Agency (KISA), Ministry of Foreign Affairs, Ambassador of the Embassy of Sri Lanka to the State, International Atomic Energy Agency (IAEA) Nuclear Security Officer, Deputy Consul General at Korean Consulate General in Hong Kong, Seoul National University, and Daishin Securities.   The development is only the latest in a series of surveillance efforts aimed at South Korea. Believed to be operating on behalf of the North Korean regime, Kimsuky (aka Velvet Chollima, Black Banshee, and Thallium) has a track record of singling out South Korean entities while expanding their
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
