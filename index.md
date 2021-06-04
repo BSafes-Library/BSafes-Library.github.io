@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Suspected in Cox TV and Radio Outages<a href="https://threatpost.com/cyberattack-cox-outage-tv-radio/166680/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cox Media Group tv, radio station streams affected by a reported ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ‘Gatekeeper’ Google aims for safer extension installs, fewer phishing attacks<a href="https://www.scmagazine.com/home/security-news/cloud-security/gatekeeper-google-aims-for-safer-extension-installs-fewer-phishing-attacks/"> Full Text</a>
 </p>
 <details>
