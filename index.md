@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI director draws 'parallels' between ransomware attacks and 9/11<a href="https://thehill.com//policy/cybersecurity/556915-fbi-director-draws-parallels-between-ransomware-attacks-and-9-11"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray is comparing the increasing ransomware hacks on critical U.S. companies to the September 11, 2001 terrorist attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Phishing uses Colonial Pipeline ransomware lures to infect victims<a href="https://www.bleepingcomputer.com/news/security/phishing-uses-colonial-pipeline-ransomware-lures-to-infect-victims/"> Full Text</a>
 </p>
 <details>
