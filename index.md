@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptoscammers target ICO investors in Discord<a href="https://www.kaspersky.com/blog/cryptoscam-in-discord-fake-ico/40165/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the helicopter money and fake cryptocurrency exchange scams, the Discord scam saga continues, this time with cybercriminals targeting online ICO investor communities.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use Colonial pipeline ransomware news for phishing attack<a href="https://www.zdnet.com/article/hackers-use-colonial-pipeline-ransomware-news-for-phishing-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers are now using the notoriety of the Colonial Pipeline ransomware attack to leverage further phishing attacks, according to the findings of a cybersecurity company.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
