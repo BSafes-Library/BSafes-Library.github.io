@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Attackers are scanning for vulnerable VMware servers, patch now!<a href="https://www.bleepingcomputer.com/news/security/attackers-are-scanning-for-vulnerable-vmware-servers-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively scanning for Internet-exposed VMware vCenter servers unpatched against a critical remote code execution (RCE) vulnerability impacting all vCenter deployments and patched by VMware ten days ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for VMware vCenter servers vulnerable to CVE-2021-21985 RCE<a href="https://securityaffairs.co/wordpress/118594/hacking/hackers-vmware-vcenter-cve-2021-21985.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively scanning the Internet for VMware vCenter servers vulnerable against a critical RCE flaw recently fixed by VMware.
+
+
+
+Threat actors are actively scanning the Internet for VMware vCenter servers affected by a critical remote code execution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US charges Latvian for helping develop the Trickbot malware<a href="https://www.bleepingcomputer.com/news/security/us-charges-latvian-for-helping-develop-the-trickbot-malware/"> Full Text</a>
 </p>
 <details>
