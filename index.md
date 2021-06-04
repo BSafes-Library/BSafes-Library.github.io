@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Supreme Court Limits Scope of Controversial Hacking Law<a href="https://threatpost.com/court-limits-scope-hacking-law/166672/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Judges rule that Georgia police officer did not violate CFAA when he accessed law-enforcement data in exchange for bribe money, a ruling that takes heat off ethical hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colorado-based Cybersecurity Company Coalfire Acquires Denim Group<a href="https://www.bizjournals.com/sanantonio/news/2021/06/01/denim-group-acquired-by-coalfire.html?&web_view=true"> Full Text</a>
 </p>
 <details>

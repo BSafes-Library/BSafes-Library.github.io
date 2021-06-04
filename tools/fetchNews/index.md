@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colorado-based Cybersecurity Company Coalfire Acquires Denim Group<a href="https://www.bizjournals.com/sanantonio/news/2021/06/01/denim-group-acquired-by-coalfire.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company is keeping all employees on staff and moving forward with the continued leadership of Denim Group's Principals John Dickson, Dan Cornell, and Sheridan Chambers.
+</details>
+<div style="text-align: right" markdown="1">
+coalfire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cryptoscammers target ICO investors in Discord<a href="https://www.kaspersky.com/blog/cryptoscam-in-discord-fake-ico/40165/?&web_view=true"> Full Text</a>
 </p>
 <details>
