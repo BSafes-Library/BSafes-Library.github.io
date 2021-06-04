@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All global JBS facilities up and running following ransomware attack<a href="https://thehill.com//policy/cybersecurity/556783-all-global-jbs-facilities-up-and-running-following-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JBS USA and Pilgrim’s on Thursday afternoon announced that all global facilities were functioning normally, days after JBS was hit by a ransomware attack believed to have been carried out by Russia-based hackers.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maloney grills Colonial Pipeline on decision to pay ransom to hackers<a href="https://thehill.com//policy/cybersecurity/556774-maloney-grills-colonial-pipeline-cna-on-decisions-to-pay-ransom-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Oversight and Reform Committee Chairwoman Carolyn Maloney (D-N.Y.) on Thursday grilled Colonial Pipeline and insurance group CNA Financial Corporation for their recent decisions to pay hackers&nbsp;in order to regain access to their networks following ransomware attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant to Re-Emerge After $1.2 Billion FireEye Sale<a href="https://www.infosecurity-magazine.com:443/news/mandiant-to-reemerge-fireeye/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will see STG acquire FireEye’s network, email, endpoint and cloud security products
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise Mobile Security Startup Hypori Raises $20 Million<a href="https://www.securityweek.com/enterprise-mobile-security-startup-hypori-raises-20-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2013, the Austin, Texas-based company provides organizations with security and management solutions to keep corporate apps and data protected on employees’ personal mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

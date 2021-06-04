@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Supreme Court restricts broad scope of CFAA law<a href="https://www.bleepingcomputer.com/news/security/us-supreme-court-restricts-broad-scope-of-cfaa-law/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the US Supreme Court restricted the scope of the federal Computer Fraud and Abuse Act after overturning the conviction of a Georgia police officer who searched a police database for money.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Dept. to give ransomware attacks same priority as terrorism<a href="https://thehill.com//policy/national-security/556739-justice-dept-to-give-ransomware-attacks-same-priority-as-terrorism"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department announced this week that it will begin elevating ransomware&nbsp;investigations to&nbsp;a similar&nbsp;level of priority as terrorist attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,63 @@ nav_order: 900015
 June 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UF Health Florida hospitals back to pen and paper after cyberattack<a href="https://www.bleepingcomputer.com/news/security/uf-health-florida-hospitals-back-to-pen-and-paper-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UF Health Central Florida has suffered a reported ransomware attack that forced two hospitals to shut down portions of their IT network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Museum Website Vandalized with X-Rated Ads<a href="https://www.infosecurity-magazine.com:443/news/museum-website-vandalized-with/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-criminals take over Scottish tourism site and flood it with pornographic adware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half-Double - A New Variant of Rowhammer Attack<a href="https://cyware.com/news/half-double-a-new-variant-of-rowhammer-attack-eeb20e50"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers detail Half-Double, another Rowhammer attack technique, that could help criminals bypass current defenses and steal or manipulate data stored in memory.&nbsp;This recent study on the new Rowhammer bug variant is expected to help both researchers and industry partners to work toge ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese threat actors hacked NYC MTA using Pulse Secure zero-day<a href="https://www.bleepingcomputer.com/news/security/chinese-threat-actors-hacked-nyc-mta-using-pulse-secure-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-backed threat actors breached New York City's Metropolitan Transportation Authority (MTA) network in April using a Pulse Secure zero-day. Still, they failed to cause any data loss or gain access to systems controlling the transportation fleet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Massachusetts' largest ferry service hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/massachusetts-largest-ferry-service-hit-by-ransomware-attack/"> Full Text</a>
 </p>
 <details>

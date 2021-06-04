@@ -11,6 +11,48 @@ nav_order: 900029
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+‘Battle for the Galaxy’ Mobile Game Leaks 6M Gamer Profiles<a href="https://threatpost.com/battle-for-the-galaxy-leaks/166659/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unprotected server exposes AMT Games server containing user emails and purchase information.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scripps Health notifies patients of data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/scripps-health-notifies-patients-of-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Nonprofit healthcare provider, Scripps Health in San Diego, has disclosed a data breach exposing patient information after suffering a ransomware attack last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Customer Data from Electronics Retailer Audio House Reports Possibly Stolen by Hackers<a href="https://www.straitstimes.com/tech/tech-news/audio-house-customer-data-possibly-stolen-by-hackers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Altdos hacker group claimed to have accessed the retailer's membership database, stolen information from it, and used the data to blackmail Audio House, the retailer added.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Disrupts Largest Ferry Service in Massachusetts<a href="https://www.infosecurity-magazine.com:443/news/ransomware-massachusetts-largest/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,49 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supreme Court narrows interpretation of CFAA, to the relief of ethical hackers<a href="https://www.scmagazine.com/home/security-news/legal-security-news/supreme-court-narrows-interpretation-of-cfaa-to-the-relief-of-ethical-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individuals do not exceed authorized computer access if they obtain data to which they are entitled for improper reasons, 6-3 majority rules.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies UNC2630 Targeting US and EU Organizations<a href="https://cyware.com/news/chinese-cyberspies-unc2630-targeting-us-and-eu-organizations-d94ac724"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts laid bare the tactics adopted by Chinese threat actors to consistently exploit Pulse Secure VPN devices and drop malware to exfiltrate sensitive information.&nbsp;Looking at the scenario, security agencies need to buckle up for more challenging events and detect such threats to stay protect ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SkinnyBoy malware used by Russian hackers to breach sensitive orgs<a href="https://www.bleepingcomputer.com/news/security/new-skinnyboy-malware-used-by-russian-hackers-to-breach-sensitive-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new piece of malware called SkinnyBoy that was used in spear-phishing campaigns attributed to Russian-speaking hacking group APT28.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

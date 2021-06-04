@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House urges businesses to "take ransomware crime seriously"<a href="https://www.bleepingcomputer.com/news/security/white-house-urges-businesses-to-take-ransomware-crime-seriously/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has urged business leaders and corporate executives to "take ransomware crime seriously" in a letter issued by Anne Neuberger,&nbsp;the National Security Council's chief&nbsp;cybersecurity adviser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House sends out memo to private sector on cyber attack protections<a href="https://thehill.com//policy/cybersecurity/556625-white-house-sends-out-recommendations-to-private-sector-on-protections"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has sent out recommendations to the private sector over how to protect themselves from cyber intrusions after a series of attacks left companies and government agencies vulnerable.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden steps up pressure on Russia to go after cyber criminals<a href="https://thehill.com//policy/cybersecurity/556601-biden-steps-up-pressure-on-russia-to-go-after-cyber-criminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attacks on meatpacker JBS and Colonial Pipeline are prompting the Biden administration to confront nations like Russia and China on harboring hackers who cause major disruptions overseas.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

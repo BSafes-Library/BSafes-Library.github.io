@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secureworks Appoints Wendy Thomas as CEO as Michael Cote Announces Retirement<a href="https://www.infosecurity-magazine.com:443/news/secureworks-appoints-ceo-wendy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current CEO Michael Cote will retire on September 3, 2021, following nearly 20 years at the company.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ARIN will take down its RPKI for 30 minutes to test your BGP routes<a href="https://www.bleepingcomputer.com/news/security/arin-will-take-down-its-rpki-for-30-minutes-to-test-your-bgp-routes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ARIN plans on performing unannounced maintenance of its RPKI, sometime in July, for about thirty minutes to check if networks are adhering to BGP best practices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FireEye is selling its products business and name for $1.2 billion<a href="https://www.cnbc.com/2021/06/02/fireeye-selling-products-business-and-name-for-1point2-billion.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye said Wednesday it’s selling its products business, including the FireEye name, to a consortium led by private-equity firm Symphony Technology Group for $1.2 billion in cash.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Largest meat producer getting back online after cyberattack<a href="https://www.nbcnews.com/tech/security/largest-meat-producer-getting-back-online-after-cyberattack-n1269455?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world’s largest meat processing company has resumed most production after a weekend cyberattack, but experts say the vulnerabilities exposed by this attack and others are far from resolved.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

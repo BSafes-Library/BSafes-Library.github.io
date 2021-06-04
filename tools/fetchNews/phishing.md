@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email spoofing: how attackers impersonate legitimate senders<a href="https://securelist.com/email-spoofing-types/102703/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SMTP (Simple Mail Transfer Protocol, the main email transmission protocol in TCP/IP networks) offers no protection against spoofing, so it is fairly easy to spoof the sender’s address.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google PPC Ads Deliver Redline, Taurus, and mini-Redline Infostealers<a href="https://blog.morphisec.com/google-ppc-ads-deliver-redline-taurus-and-mini-redline-infostealers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PPC ads targeted specific IP ranges in the US and probably some other countries. Non-targeted IPs are redirected to legitimate pages that download the correct applications.
+</details>
+<div style="text-align: right" markdown="1">
+Morphisec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
