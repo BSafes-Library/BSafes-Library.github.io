@@ -114,6 +114,18 @@ The year is 2021. Meeting people, dating, and talking to people online is not as
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Threat of Social Media to Society and National Security: A Call for Social Media Policy and Legislation [HTML](https://papers.bsafes.com/docs/social-media/the-threat-of-social-media-to-society-and-national-security/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media is a growing existential threat. In the Constitution, We the People affirm ourselves to domestic tranquility, our common defense and general welfare to secure the blessings of Liberty.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
