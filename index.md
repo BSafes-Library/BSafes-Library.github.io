@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges Latvian for helping develop the Trickbot malware<a href="https://www.bleepingcomputer.com/news/security/us-charges-latvian-for-helping-develop-the-trickbot-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice announced today that a Latvian national was charged for her alleged role as a malware developer in the Trickbot transnational cybercrime organization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook suspending Trump until at least 2023 | FBI director draws 'parallels' between ransomware attacks and 9/11 | Reports: Cox Media Group websites hacked in ransomware attack<a href="https://thehill.com//policy/technology/overnights/556936-hillicon-valley-facebook-suspending-trump-until-at-least-2023"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former President TrumpDonald TrumpFacebook to end policy shielding politicians from content moderation rules: reports US government found no evidence that Navy UFO sightings were alien spacecraft: report More than a dozen police officers still on medical leave from Jan. 6 injuries MORE will not be allowed back on Facebook for at least two years, according to the company’s Friday announcement that also included new enforcement protocol. Meanwhile, FBI Director Christopher Wray compared the increasing ransomware hacks to the Sept. 11, 2001 terrorist attacks. And Facebook was hit with new antitrust probes abroad from the European Union and the United Kingdom. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
