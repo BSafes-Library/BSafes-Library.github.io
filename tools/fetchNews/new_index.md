@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 4th 2021 - Where's the beef?<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-4th-2021-wheres-the-beef/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has continued to be part of the 24-hour news cycle as another significant attack against critical infrastructure took place this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Attackers are scanning for vulnerable VMware servers, patch now!<a href="https://www.bleepingcomputer.com/news/security/attackers-are-scanning-for-vulnerable-vmware-servers-patch-now/"> Full Text</a>
 </p>
 <details>
