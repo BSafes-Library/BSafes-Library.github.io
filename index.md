@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More US Kids Warned About Internet Than Unsafe Sex<a href="https://www.infosecurity-magazine.com:443/news/internet-more-dangerous-than-sex/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American parents prioritize internet safety education ahead of sexual safety awareness
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing security in the spotlight: TikTok’s CSO Roland Cloutier to kick off InfoSec World<a href="https://www.scmagazine.com/home/sc-events-update/managing-security-in-the-spotlight-tiktoks-cso-roland-cloutier-to-kick-off-infosec-world/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The opening keynote for InfoSec World 2021 will feature Roland Cloutier, chief security officer of TikTok, who will share specific strategies to gain and maintain consumer trust – particularly following security mishaps and political turmoil.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
