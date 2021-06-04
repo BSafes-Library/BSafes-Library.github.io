@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Self-service tool claims to execute cloud-based data access in five minutes<a href="https://www.scmagazine.com/home/security-news/cloud-security/self-service-tool-claims-to-execute-cloud-based-data-access-in-five-minutes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevSecOps company Satori announced a self-service data access capability that it says cuts down cloud-based data access from a manual, three-week process that requires database administrators to a five-minute task that any business user can do.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams calls are getting end-to-end encryption in July<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-calls-are-getting-end-to-end-encryption-in-july/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Teams is getting better security and privacy next month with the addition of end-to-end encrypted 1:1 voice calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

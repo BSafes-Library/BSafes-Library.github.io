@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden steps up pressure on Russia to go after cyber criminals | All JBS facilities up and running after ransomware attack | Justice Dept. gives ransomware same priority as terrorism<a href="https://thehill.com//policy/cybersecurity/overnights/556788-hillicon-valley-biden-steps-up-pressure-on-russia-to-go-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is taking&nbsp;more steps to confront Russia and other nations harboring malicious hackers following increasing ransomware attacks. These include the attack on JBS USA, and&nbsp;the company&nbsp;announced Thursday that all U.S. facilities&nbsp;are back up and running, while the White House outlined how the private sector can protect itself against future attacks, and the Justice Department elevated the priority level of ransomware investigations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

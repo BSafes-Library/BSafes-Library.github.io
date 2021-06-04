@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 Critical Flaws Found in CODESYS Industrial Automation Software<a href="https://thehackernews.com/2021/06/10-critical-flaws-found-in-codesys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed as many as ten critical vulnerabilities impacting CODESYS automation software that could be exploited to remote code execution on programmable logic controllers (PLCs).  "To exploit the vulnerabilities, an attacker does not need a username or password; having network access to the industrial controller is enough," researchers from Positive Technologies&nbsp; said . "The main cause of the vulnerabilities is insufficient verification of input data, which may itself be caused by failure to comply with the secure development recommendations."  The Russian cybersecurity firm noted that it detected the vulnerabilities on a PLC offered by WAGO, which, among other automation technology companies such as Beckhoff, Kontron, Moeller, Festo, Mitsubishi, and HollySys, use CODESYS software for&nbsp; programming and configuring &nbsp;the controllers.  CODESYS offers a development environment for programming controller applications for use in indus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro details CVE-2021-30724 privilege escalation flaw in macOS, iOS<a href="https://securityaffairs.co/wordpress/118570/security/cve-2021-30724-privilege-escalation-macos-ios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro disclosed technical details of a patched privilege escalation issue, tracked as CVE-2021-30724, that impacts macOS, iOS and iPadOS.
+
+
+
+Trend Micro researchers disclosed technical details of a patched privilege escalation vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Pulsar bug allowed account takeovers in certain configurations<a href="https://portswigger.net/daily-swig/apache-pulsar-bug-allowed-account-takeovers-in-certain-configurations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug was initially reported as high severity. But Sijie Guo, a member of the Apache Pulsar Project Management Committee (PMC), told The Daily Swig that the real-world impact of the bug is minimal.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

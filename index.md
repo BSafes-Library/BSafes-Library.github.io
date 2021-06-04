@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujifilm confirms ransomware attack disrupted business operations<a href="https://www.bleepingcomputer.com/news/security/fujifilm-confirms-ransomware-attack-disrupted-business-operations/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes High-severity issues in Webex, SD-WAN, ASR 5000 software<a href="https://securityaffairs.co/wordpress/118564/security/cisco-webex-player-sd-wan-asr-5000-flaws.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 Critical Flaws Found in CODESYS Industrial Automation Software<a href="https://thehackernews.com/2021/06/10-critical-flaws-found-in-codesys.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs Agree That Traditional Application Security Measures Don't Work<a href="https://www.infosecurity-magazine.com:443/news/cisos-agree-traditional-security/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked attackers breached Metropolitan Transportation Authority (MTA) using Pulse Secure zero-day<a href="https://securityaffairs.co/wordpress/118579/apt/metropolitan-transportation-authority-hack.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FreakOut malware worms its way into vulnerable VMware servers<a href="https://www.bleepingcomputer.com/news/security/freakout-malware-worms-its-way-into-vulnerable-vmware-servers/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Live Streams Suffer Downtime Across Cox Radio & TV Stations After Potential Ransomware Attack<a href="https://therecord.media/live-streams-go-down-across-cox-radio-tv-stations-in-apparent-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Campaigners Request Meeting with Home Secretary as Part of Computer Misuse Act Review<a href="https://www.infosecurity-magazine.com:443/news/campaigners-home-sec-cma-review/"> Full Text</a>
@@ -166,7 +166,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The dark web index 2021, report<a href="https://securityaffairs.co/wordpress/118574/cyber-crime/dark-web-price-index.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meat giant JBS now fully operational after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/meat-giant-jbs-now-fully-operational-after-ransomware-attack/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Retailer Furniture Village Discloses Cyberattack Behind Week-long Systems Outage<a href="https://www.theregister.com/2021/06/04/furniture_village_confirms_cyberattack/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DNS Attacks on the Rise, Costing $1 Million Each<a href="https://www.infosecurity-magazine.com:443/news/dns-attacks-on-rise/"> Full Text</a>
@@ -234,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro details CVE-2021-30724 privilege escalation flaw in macOS, iOS<a href="https://securityaffairs.co/wordpress/118570/security/cve-2021-30724-privilege-escalation-macos-ios.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Department of Justice to Give Ransomware Investigations Similar Priority as Terrorism<a href="https://www.reuters.com/technology/exclusive-us-give-ransomware-hacks-similar-priority-terrorism-official-says-2021-06-03/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Actors Reportedly Breached America's Largest Transport Network<a href="https://www.infosecurity-magazine.com:443/news/chinese-actors-breached-mta-pulse/"> Full Text</a>
@@ -286,7 +286,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health Data for Millions Deleted From Cloud Bucket<a href="https://www.inforisktoday.com/health-data-for-millions-deleted-from-cloud-bucket-a-16787?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Pulsar bug allowed account takeovers in certain configurations<a href="https://portswigger.net/daily-swig/apache-pulsar-bug-allowed-account-takeovers-in-certain-configurations?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Team of romance scammers defrauded US victims out of $2.5M since 2016, DOJ says<a href="https://www.cyberscoop.com/romance-scam-us-costs-doj/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Special Forces soldiers' personal data was floating around WhatsApp in a leaked Army spreadsheet<a href="https://www.theregister.com/2021/06/02/uk_special_forces_data_breach_whatsapp/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breached companies facing higher interest rates and steeper collateral requirements<a href="https://www.zdnet.com/article/breached-companies-facing-higher-interest-rates-and-steeper-collateral-requirements/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NFTs Give Rise to New Crypto-Security Risks<a href="https://cyware.com/news/nfts-give-rise-to-new-crypto-security-risks-2ed4e98f"> Full Text</a>

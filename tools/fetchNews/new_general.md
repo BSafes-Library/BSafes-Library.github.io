@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Agree That Traditional Application Security Measures Don't Work<a href="https://www.infosecurity-magazine.com:443/news/cisos-agree-traditional-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alert overload and legacy tooling cited as major DevSecOps challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campaigners Request Meeting with Home Secretary as Part of Computer Misuse Act Review<a href="https://www.infosecurity-magazine.com:443/news/campaigners-home-sec-cma-review/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many argue that the cyber and technology landscape has changed substantially since the act was introduced in 1990
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The dark web index 2021, report<a href="https://securityaffairs.co/wordpress/118574/cyber-crime/dark-web-price-index.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PrivacyAffairs released the Dark Web Index 2021, the document provides the prices for illegal services/products available in the black marketplaces.
+
+
+
+Over the last couple of years, we've all had our attention fixed on one of two things: the global...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNS Attacks on the Rise, Costing $1 Million Each<a href="https://www.infosecurity-magazine.com:443/news/dns-attacks-on-rise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attacks using DNS channels have grown in volume and cost throughout the pandemic
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breached companies facing higher interest rates and steeper collateral requirements<a href="https://www.zdnet.com/article/breached-companies-facing-higher-interest-rates-and-steeper-collateral-requirements/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Henry Huang, the co-author of the study and an associate professor of accounting at Yeshiva University, said he wanted to find a way of quantifying the financial consequences of breaches.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

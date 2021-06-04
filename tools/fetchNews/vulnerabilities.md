@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers used Pulse Secure zero day vulnerability to infiltrate MTA systems<a href="https://www.scmagazine.com/home/security-news/data-breach/chinese-hackers-used-pulse-secure-zero-day-vulnerability-to-infiltrate-mta-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers used vulnerabilities in the Pulse Secure VPN to plant web shells on servers in MTA’s environment.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress force installs Jetpack security update on 5 million sites<a href="https://www.bleepingcomputer.com/news/security/wordpress-force-installs-jetpack-security-update-on-5-million-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automattic, the company behind the WordPress content management system, force deploys a security update on over five million websites running the Jetpack WordPress plug-in.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes High-severity issues in Webex, SD-WAN, ASR 5000 software<a href="https://securityaffairs.co/wordpress/118564/security/cisco-webex-player-sd-wan-asr-5000-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed multiple security flaws, including high-severity vulnerabilities, in Webex Player, SD-WAN software, and ASR 5000 series software.
+
+
+
+Cisco has addressed multiple vulnerabilities in its products, including high-risk flaws in Webex Player,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Realtek RTL8170C Wi-Fi module allow hijacking wireless communications<a href="https://securityaffairs.co/wordpress/118558/security/realtek-rtl8170c-wi-fi-module-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found multiple flaws in the Realtek RTL8170C Wi-Fi module that could be exploited to elevate privileges and hijack wireless communications.
+
+
+
+Researchers from Israeli IoT security firm Vdoo found multiple vulnerabilities in the Realtek RTL8170C...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

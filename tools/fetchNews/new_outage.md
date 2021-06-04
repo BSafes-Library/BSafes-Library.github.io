@@ -8,6 +8,48 @@ nav_order: 900140
 
 ## Outage
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm confirms ransomware attack disrupted business operations<a href="https://www.bleepingcomputer.com/news/security/fujifilm-confirms-ransomware-attack-disrupted-business-operations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Japanese multinational conglomerate Fujifilm officially confirmed that they had suffered a ransomware attack earlier this week that disrupted business operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live Streams Suffer Downtime Across Cox Radio &amp; TV Stations After Potential Ransomware Attack<a href="https://therecord.media/live-streams-go-down-across-cox-radio-tv-stations-in-apparent-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Live streams for some of the impacted TV stations have returned online, according to checks performed by The Record, but most of the Cox radio streams are still offline at the time of writing.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Retailer Furniture Village Discloses Cyberattack Behind Week-long Systems Outage<a href="https://www.theregister.com/2021/06/04/furniture_village_confirms_cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Furniture Village – the UK's largest independent furniture retailer with 54 stores nationwide – has been hit by a disruptive cyberattack, the company confirmed to The Register.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

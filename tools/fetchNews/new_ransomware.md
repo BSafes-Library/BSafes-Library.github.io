@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meat giant JBS now fully operational after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/meat-giant-jbs-now-fully-operational-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JBS, the world's largest beef producer, has confirmed that all its global facilities are fully operational and operate at normal capacity after the REvil ransomware attack that hit its systems last weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

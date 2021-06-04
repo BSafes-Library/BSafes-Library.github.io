@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post Colonial and JBS, Biden presses Russia to stop harboring ransomware gangs<a href="https://www.scmagazine.com/home/security-news/ransomware/post-colonial-and-jbs-biden-presses-russia-to-stop-harboring-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comments Wednesday were the most coordinated and forceful the White House has been about Russia allowing cybercrime within its borders. Cybersecurity leaders see this as progress toward more formidable moves from the administration.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Issues Open Letter on Ransomware<a href="https://www.infosecurity-magazine.com:443/news/white-house-issues-open-letter-on/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US companies urged to take ransomware threat more seriously after deluge of cyber-attacks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
