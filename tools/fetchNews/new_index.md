@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Employees rely too much on threat hunting teams to protect their own inboxes<a href="https://www.scmagazine.com/home/email-security/do-employees-rely-too-much-on-threat-hunting-teams-to-protect-their-own-inboxes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research finds 67.6% of email security incidents are discovered by internal threat hunting teams, while 24% are found and reported by employees.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Will feds mandate third-party code reviews? Developers and cyber experts are skeptical<a href="https://www.scmagazine.com/application-security/mandating-third-party-code-reviews-software-developers-and-cyber-experts-are-skeptical/"> Full Text</a>
 </p>
 <details>
