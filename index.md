@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Will feds mandate third-party code reviews? Developers and cyber experts are skeptical<a href="https://www.scmagazine.com/application-security/mandating-third-party-code-reviews-software-developers-and-cyber-experts-are-skeptical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some industry groups are warning the U.S. government that third-party testing or review would be overly intrusive and might not add much benefit, especially if the focus is on source code or earlier stages of the development process.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Suspected in Cox TV and Radio Outages<a href="https://threatpost.com/cyberattack-cox-outage-tv-radio/166680/"> Full Text</a>
 </p>
 <details>
