@@ -30,6 +30,18 @@ Communication technology, especially smartphones and the social media apps on th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Handle with Care: Domestic Violence Safety Planning in the Age of Data Privacy Laws [HTML](https://papers.bsafes.com/docs/law/handle-with-care-domestic-violence-safety-planning-in-the-age-of-data-privacy-law/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Domestic violence is a pervasive and persistent public health crisis endangering many within our own communities, affecting about one in four women and nearly one in ten men and incurring a lifetime economic cost of $3.6 trillion.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Supreme Court restricts broad scope of CFAA law<a href="https://www.bleepingcomputer.com/news/security/us-supreme-court-restricts-broad-scope-of-cfaa-law/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the US Supreme Court restricted the scope of the federal Computer Fraud and Abuse Act after overturning the conviction of a Georgia police officer who searched a police database for money.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden steps up pressure on Russia to go after cyber criminals | All JBS facilities up and running after ransomware attack | Justice Dept. gives ransomware same priority as terrorism<a href="https://thehill.com//policy/cybersecurity/overnights/556788-hillicon-valley-biden-steps-up-pressure-on-russia-to-go-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is taking more steps to confront Russia and other nations harboring malicious hackers following increasing ransomware attacks. These include the attack on JBS USA, and the company announced Thursday that all U.S. facilities are back up and running, while the White House outlined how the private sector can protect itself against future attacks, and the Justice Department elevated the priority level of ransomware investigations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supreme Court narrows interpretation of CFAA, to the relief of ethical hackers<a href="https://www.scmagazine.com/home/security-news/legal-security-news/supreme-court-narrows-interpretation-of-cfaa-to-the-relief-of-ethical-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individuals do not exceed authorized computer access if they obtain data to which they are entitled for improper reasons, 6-3 majority rules.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All global JBS facilities up and running following ransomware attack<a href="https://thehill.com//policy/cybersecurity/556783-all-global-jbs-facilities-up-and-running-following-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JBS USA and Pilgrim’s on Thursday afternoon announced that all global facilities were functioning normally, days after JBS was hit by a ransomware attack believed to have been carried out by Russia-based hackers. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Self-service tool claims to execute cloud-based data access in five minutes<a href="https://www.scmagazine.com/home/security-news/cloud-security/self-service-tool-claims-to-execute-cloud-based-data-access-in-five-minutes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevSecOps company Satori announced a self-service data access capability that it says cuts down cloud-based data access from a manual, three-week process that requires database administrators to a five-minute task that any business user can do.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -18,6 +18,7 @@ nav_order: 400
 * [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
 * [Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts](https://papers.bsafes.com/docs/Politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
 * [Grief is love with nowhere to go, by Sara Sampson](https://papers.bsafes.com/docs/behavior/grief-is-love-with-nowhere-to-go/)
+* [Handle with Care: Domestic Violence Safety Planning in the Age of Data Privacy Laws, by Jenny Wu](https://papers.bsafes.com/docs/law/handle-with-care-domestic-violence-safety-planning-in-the-age-of-data-privacy-law/)
 * [Jack Voltaic 3.0 Cyber Research Report, by United States Military Academy](https://papers.bsafes.com/docs/internet/jack-voltaic-3-0-cyber-research-report/)
 * [Impact of Information Breaches on Health Care Records](https://papers.bsafes.com/docs/breaches/impact-of-information-breaches-on-health-care-records/)
 * [NESCOR Guide to Penetration Testing for Electric Utilities, by National Electric Sector Cybersecurity Organization Resource (NESCOR)](https://papers.bsafes.com/docs/infrastructure/nescor-guide-to-penetration-testing-for-electric-utilities/#abstract)
