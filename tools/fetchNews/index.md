@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Let Android Users Opt-Out to Stop Ads From Tracking Them<a href="https://thehackernews.com/2021/06/google-to-let-android-users-opt-out-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is tightening the privacy practices that could make it harder for apps on Android phones and tablets to track users who have opted out of receiving personalized interest-based ads. The change will go into effect sometime in late 2021.  The development, which mirrors Apple's move to enable iPhone and iPad users to opt-out of ad tracking, was first  reported  by the Financial Times.   Once the revised policy goes live, Google is expected to completely cut off developers' access to the so-called "Advertising IDs," showing a "string of zeros" in its place. The Google Advertising ID (AAID), analogous to Apple's  IDFA , is a unique device identifier that can be used by app developers to track users as they move between apps to target ads better and measure the effectiveness of marketing campaigns.   "Starting in late 2021, when a user opts out of interest-based advertising or ads personalization, the advertising identifier will not be available,&q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Artificial Intelligence Act: What Is the European Approach for AI?<a href="https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission has unveiled its Artificial Intelligence Act. What's in it?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
