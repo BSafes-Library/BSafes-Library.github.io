@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google announces new experimental Abuse Research Grants Program<a href="https://www.bleepingcomputer.com/news/security/google-announces-new-experimental-abuse-research-grants-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced a new experimental Abuse Research Grants Program for abuse-related issues and tactics outside the scope of existing Vulnerability Research Grants and the Vulnerability Reward Program (VRP).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Expands Trump’s Investment Ban on Chinese Firms<a href="https://www.infosecurity-magazine.com:443/news/biden-expands-trump-china-ban/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US entities barred from investing in PRC companies with alleged defense and surveillance tech links
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google to Let Android Users Opt-Out to Stop Ads From Tracking Them<a href="https://thehackernews.com/2021/06/google-to-let-android-users-opt-out-to.html"> Full Text</a>
 </p>
 <details>
