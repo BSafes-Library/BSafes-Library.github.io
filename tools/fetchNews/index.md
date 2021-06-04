@@ -34,6 +34,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers scan for unpatched VMware vCenter servers, PoC exploit available<a href="https://www.bleepingcomputer.com/news/security/attackers-scan-for-unpatched-vmware-vcenter-servers-poc-exploit-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively scanning for Internet-exposed VMware vCenter servers unpatched against a critical remote code execution (RCE) vulnerability impacting all vCenter deployments and patched by VMware ten days ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Necro Python bot now enhanced with new VMWare, server exploits<a href="https://securityaffairs.co/wordpress/118584/malware/necro-python-bot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators behind the Necro Python botnet have added new features to their bot, including VMWare and server exploits.
+
+
+
+Experts from Cisco Talos have recently observed a new Necro Python bot campaign and noticed that its developers have improved its capabilities.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
