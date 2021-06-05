@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Operations Actively Enumerating Cloud Environments<a href="https://unit42.paloaltonetworks.com/teamtnt-operations-cloud-environments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT operations have targeted and, after compromise, exfiltrated AWS credentials, targeted Kubernetes clusters, and created new malware called Black-T that integrates open source cloud-native tools to assist in their cryptojacking operations.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The rise of cybersecurity debt<a href="https://techcrunch.com/2021/06/04/the-rise-of-cybersecurity-debt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once again, amid this flurry of malicious cyber activity, we must ask or answer a fundamental question about the state of our cybersecurity defense: Why does this keep happening?
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity issues close Des Moines Area Community College<a href="https://www.kcci.com/article/cybersecurity-issue-closes-des-moines-area-community-college/36632266?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Des Moines Area Community College closed Friday following a cybersecurity issue impacting its IT system. According to an update on the DMACC Facebook page, a “security incident” on Wednesday caused the school to shut down parts of its network.
+</details>
+<div style="text-align: right" markdown="1">
+KCCI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TV news stations become apparent target in next cyberattack<a href="https://www.nbcnews.com/tech/security/tv-news-stations-become-apparent-target-next-cyberattack-n1269662?&web_view=true"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for VMware vCenter servers vulnerable to CVE-2021-21985 RCE<a href="https://securityaffairs.co/wordpress/118594/hacking/hackers-vmware-vcenter-cve-2021-21985.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw is caused by the lack of input validation in the Virtual SAN (vSAN) Health Check plug-in, which is enabled by default in the vCenter Server. The vulnerability has received a CVSS score of 9.8 and impacts vCenter Server 6.5, 6.7, and 7.0.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German cooperative banks hit by DDoS hack attack on IT provider<a href="https://www.reuters.com/article/us-germany-banks-cyber/german-cooperative-banks-hit-by-ddos-hack-attack-on-it-provider-idUSKCN2DG0N4?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A German company that operates technology for the nation’s cooperative banks said on Friday that a cyber attack disrupting more than 800 financial institutions appeared to be easing.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Operations Actively Enumerating Cloud Environments<a href="https://unit42.paloaltonetworks.com/teamtnt-operations-cloud-environments/?&web_view=true"> Full Text</a>
 </p>
 <details>
