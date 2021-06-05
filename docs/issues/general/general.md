@@ -8,6 +8,118 @@ nav_order: 900072
 
 ## General
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The rise of cybersecurity debt<a href="https://techcrunch.com/2021/06/04/the-rise-of-cybersecurity-debt/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once again, amid this flurry of malicious cyber activity, we must ask or answer a fundamental question about the state of our cybersecurity defense: Why does this keep happening?
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TV news stations become apparent target in next cyberattack<a href="https://www.nbcnews.com/tech/security/tv-news-stations-become-apparent-target-next-cyberattack-n1269662?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABC affiliate WFTV in Orlando, Florida, and NBC affiliate WPXI in Pittsburgh, which are both owned by the Cox Media Group, were told Thursday by managers to shut down company computers and phones.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook suspending Trump until at least 2023 | FBI director draws 'parallels' between ransomware attacks and 9/11 | Reports: Cox Media Group websites hacked in ransomware attack<a href="https://thehill.com//policy/technology/overnights/556936-hillicon-valley-facebook-suspending-trump-until-at-least-2023"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former President TrumpDonald TrumpFacebook to end policy shielding politicians from content moderation rules: reports US government found no evidence that Navy UFO sightings were alien spacecraft: report More than a dozen police officers still on medical leave from Jan. 6 injuries MORE will not be allowed back on Facebook for at least two years, according to the company’s Friday announcement that also included new enforcement protocol. Meanwhile, FBI Director Christopher Wray compared the increasing ransomware hacks to the Sept. 11, 2001 terrorist attacks. And Facebook was hit with new antitrust probes abroad from the European Union and the United Kingdom.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employees rely too much on threat hunting teams to protect their own inboxes<a href="https://www.scmagazine.com/home/email-security/do-employees-rely-too-much-on-threat-hunting-teams-to-protect-their-own-inboxes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research finds 67.6% of email security incidents are discovered by internal threat hunting teams, while 24% are found and reported by employees.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Will feds mandate third-party code reviews? Developers and cyber experts are skeptical<a href="https://www.scmagazine.com/application-security/mandating-third-party-code-reviews-software-developers-and-cyber-experts-are-skeptical/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some industry groups are warning the U.S. government that third-party testing or review would be overly intrusive and might not add much benefit, especially if the focus is on source code or earlier stages of the development process.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More US Kids Warned About Internet Than Unsafe Sex<a href="https://www.infosecurity-magazine.com:443/news/internet-more-dangerous-than-sex/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American parents prioritize internet safety education ahead of sexual safety awareness
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing security in the spotlight: TikTok’s CSO Roland Cloutier to kick off InfoSec World<a href="https://www.scmagazine.com/home/sc-events-update/managing-security-in-the-spotlight-tiktoks-cso-roland-cloutier-to-kick-off-infosec-world/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The opening keynote for InfoSec World 2021 will feature Roland Cloutier, chief security officer of TikTok, who will share specific strategies to gain and maintain consumer trust – particularly following security mishaps and political turmoil.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Artificial Intelligence Act: What Is the European Approach for AI?<a href="https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission has unveiled its&nbsp;Artificial Intelligence Act. What's in it?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

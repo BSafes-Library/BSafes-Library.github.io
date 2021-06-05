@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing uses Colonial Pipeline ransomware lures to infect victims<a href="https://www.bleepingcomputer.com/news/security/phishing-uses-colonial-pipeline-ransomware-lures-to-infect-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent ransomware attack on Colonial Pipeline inspired a threat actor to create create a new phishing lure to trick victims into downloading malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use Colonial pipeline ransomware news for phishing attack<a href="https://www.zdnet.com/article/hackers-use-colonial-pipeline-ransomware-news-for-phishing-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers are now using the notoriety of the Colonial Pipeline ransomware attack to leverage further phishing attacks, according to the findings of a cybersecurity company.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

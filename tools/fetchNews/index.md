@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers scan for VMware vCenter servers vulnerable to CVE-2021-21985 RCE<a href="https://securityaffairs.co/wordpress/118594/hacking/hackers-vmware-vcenter-cve-2021-21985.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German cooperative banks hit by DDoS hack attack on IT provider<a href="https://www.reuters.com/article/us-germany-banks-cyber/german-cooperative-banks-hit-by-ddos-hack-attack-on-it-provider-idUSKCN2DG0N4?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Operations Actively Enumerating Cloud Environments<a href="https://unit42.paloaltonetworks.com/teamtnt-operations-cloud-environments/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The rise of cybersecurity debt<a href="https://techcrunch.com/2021/06/04/the-rise-of-cybersecurity-debt/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity issues close Des Moines Area Community College<a href="https://www.kcci.com/article/cybersecurity-issue-closes-des-moines-area-community-college/36632266?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ KCCI
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TV news stations become apparent target in next cyberattack<a href="https://www.nbcnews.com/tech/security/tv-news-stations-become-apparent-target-next-cyberattack-n1269662?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 4th 2021 - Where's the beef?<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-4th-2021-wheres-the-beef/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are scanning for vulnerable VMware servers, patch now!<a href="https://www.bleepingcomputer.com/news/security/attackers-are-scanning-for-vulnerable-vmware-servers-patch-now/"> Full Text</a>
@@ -162,7 +162,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers scan for VMware vCenter servers vulnerable to CVE-2021-21985 RCE<a href="https://securityaffairs.co/wordpress/118594/hacking/hackers-vmware-vcenter-cve-2021-21985.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US charges Latvian for helping develop the Trickbot malware<a href="https://www.bleepingcomputer.com/news/security/us-charges-latvian-for-helping-develop-the-trickbot-malware/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook suspending Trump until at least 2023 | FBI director draws 'parallels' between ransomware attacks and 9/11 | Reports: Cox Media Group websites hacked in ransomware attack<a href="https://thehill.com//policy/technology/overnights/556936-hillicon-valley-facebook-suspending-trump-until-at-least-2023"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Employees rely too much on threat hunting teams to protect their own inboxes<a href="https://www.scmagazine.com/home/email-security/do-employees-rely-too-much-on-threat-hunting-teams-to-protect-their-own-inboxes/"> Full Text</a>
@@ -230,7 +230,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Will feds mandate third-party code reviews? Developers and cyber experts are skeptical<a href="https://www.scmagazine.com/application-security/mandating-third-party-code-reviews-software-developers-and-cyber-experts-are-skeptical/"> Full Text</a>
@@ -246,7 +246,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Suspected in Cox TV and Radio Outages<a href="https://threatpost.com/cyberattack-cox-outage-tv-radio/166680/"> Full Text</a>
@@ -262,7 +262,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Gatekeeper’ Google aims for safer extension installs, fewer phishing attacks<a href="https://www.scmagazine.com/home/security-news/cloud-security/gatekeeper-google-aims-for-safer-extension-installs-fewer-phishing-attacks/"> Full Text</a>
@@ -278,7 +278,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI director draws 'parallels' between ransomware attacks and 9/11<a href="https://thehill.com//policy/cybersecurity/556915-fbi-director-draws-parallels-between-ransomware-attacks-and-9-11"> Full Text</a>
@@ -294,7 +294,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing uses Colonial Pipeline ransomware lures to infect victims<a href="https://www.bleepingcomputer.com/news/security/phishing-uses-colonial-pipeline-ransomware-lures-to-infect-victims/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US to Treat Ransomware Like Terrorism<a href="https://www.infosecurity-magazine.com:443/news/us-to-treat-ransomware-like/"> Full Text</a>
@@ -326,7 +326,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers scan for unpatched VMware vCenter servers, PoC exploit available<a href="https://www.bleepingcomputer.com/news/security/attackers-scan-for-unpatched-vmware-vcenter-servers-poc-exploit-available/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Necro Python bot now enhanced with new VMWare, server exploits<a href="https://securityaffairs.co/wordpress/118584/malware/necro-python-bot.html"> Full Text</a>
@@ -366,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujifilm confirms ransomware attack on systems in Japan<a href="https://www.scmagazine.com/home/security-news/ransomware/fujifilm-confirms-ransomware-attack-on-systems-in-japan/"> Full Text</a>
@@ -382,7 +382,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More US Kids Warned About Internet Than Unsafe Sex<a href="https://www.infosecurity-magazine.com:443/news/internet-more-dangerous-than-sex/"> Full Text</a>
@@ -398,7 +398,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Managing security in the spotlight: TikTok’s CSO Roland Cloutier to kick off InfoSec World<a href="https://www.scmagazine.com/home/sc-events-update/managing-security-in-the-spotlight-tiktoks-cso-roland-cloutier-to-kick-off-infosec-world/"> Full Text</a>
@@ -414,7 +414,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google announces new experimental Abuse Research Grants Program<a href="https://www.bleepingcomputer.com/news/security/google-announces-new-experimental-abuse-research-grants-program/"> Full Text</a>
@@ -430,7 +430,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Expands Trump’s Investment Ban on Chinese Firms<a href="https://www.infosecurity-magazine.com:443/news/biden-expands-trump-china-ban/"> Full Text</a>
@@ -446,7 +446,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Let Android Users Opt-Out to Stop Ads From Tracking Them<a href="https://thehackernews.com/2021/06/google-to-let-android-users-opt-out-to.html"> Full Text</a>
@@ -462,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Artificial Intelligence Act: What Is the European Approach for AI?<a href="https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai"> Full Text</a>
@@ -478,7 +478,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supreme Court Limits Scope of Controversial Hacking Law<a href="https://threatpost.com/court-limits-scope-hacking-law/166672/"> Full Text</a>
@@ -494,7 +494,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colorado-based Cybersecurity Company Coalfire Acquires Denim Group<a href="https://www.bizjournals.com/sanantonio/news/2021/06/01/denim-group-acquired-by-coalfire.html?&web_view=true"> Full Text</a>
@@ -510,7 +510,7 @@ coalfire
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptoscammers target ICO investors in Discord<a href="https://www.kaspersky.com/blog/cryptoscam-in-discord-fake-ico/40165/?&web_view=true"> Full Text</a>
@@ -526,7 +526,7 @@ Kaspersky Lab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2021
+June 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use Colonial pipeline ransomware news for phishing attack<a href="https://www.zdnet.com/article/hackers-use-colonial-pipeline-ransomware-news-for-phishing-attack/?&web_view=true"> Full Text</a>
@@ -542,7 +542,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2021
+June 04, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reports: Cox Media Group websites hacked in ransomware attack<a href="https://thehill.com//homenews/media/556855-reports-cox-media-group-websites-hacked-in-ransomware-attack"> Full Text</a>

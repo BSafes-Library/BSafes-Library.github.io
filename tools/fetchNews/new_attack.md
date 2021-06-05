@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German cooperative banks hit by DDoS hack attack on IT provider<a href="https://www.reuters.com/article/us-germany-banks-cyber/german-cooperative-banks-hit-by-ddos-hack-attack-on-it-provider-idUSKCN2DG0N4?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A German company that operates technology for the nation’s cooperative banks said on Friday that a cyber attack disrupting more than 800 financial institutions appeared to be easing.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

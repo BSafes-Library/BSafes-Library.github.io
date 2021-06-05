@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for VMware vCenter servers vulnerable to CVE-2021-21985 RCE<a href="https://securityaffairs.co/wordpress/118594/hacking/hackers-vmware-vcenter-cve-2021-21985.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw is caused by the lack of input validation in the Virtual SAN (vSAN) Health Check plug-in, which is enabled by default in the vCenter Server. The vulnerability has received a CVSS score of 9.8 and impacts vCenter Server 6.5, 6.7, and 7.0.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are scanning for vulnerable VMware servers, patch now!<a href="https://www.bleepingcomputer.com/news/security/attackers-are-scanning-for-vulnerable-vmware-servers-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively scanning for Internet-exposed VMware vCenter servers unpatched against a critical remote code execution (RCE) vulnerability impacting all vCenter&nbsp;deployments and&nbsp;patched by VMware ten days ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for VMware vCenter servers vulnerable to CVE-2021-21985 RCE<a href="https://securityaffairs.co/wordpress/118594/hacking/hackers-vmware-vcenter-cve-2021-21985.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively scanning the Internet for VMware vCenter servers vulnerable against a critical RCE flaw recently fixed by VMware.
+
+
+
+Threat actors are actively scanning the Internet for VMware vCenter servers affected by a critical remote code execution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers scan for unpatched VMware vCenter servers, PoC exploit available<a href="https://www.bleepingcomputer.com/news/security/attackers-scan-for-unpatched-vmware-vcenter-servers-poc-exploit-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively scanning for Internet-exposed VMware vCenter servers unpatched against a critical remote code execution (RCE) vulnerability impacting all vCenter&nbsp;deployments and&nbsp;patched by VMware ten days ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

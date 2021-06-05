@@ -8,6 +8,28 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Necro Python bot now enhanced with new VMWare, server exploits<a href="https://securityaffairs.co/wordpress/118584/malware/necro-python-bot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators behind the Necro Python botnet have added new features to their bot, including VMWare and server exploits.
+
+
+
+Experts from Cisco Talos have recently observed a new Necro Python bot campaign and noticed that its developers have improved its capabilities.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900033
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cryptoscammers target ICO investors in Discord<a href="https://www.kaspersky.com/blog/cryptoscam-in-discord-fake-ico/40165/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the helicopter money and fake cryptocurrency exchange scams, the Discord scam saga continues, this time with cybercriminals targeting online ICO investor communities.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NFTs Give Rise to New Crypto-Security Risks<a href="https://cyware.com/news/nfts-give-rise-to-new-crypto-security-risks-2ed4e98f"> Full Text</a>
 </p>
 <details>

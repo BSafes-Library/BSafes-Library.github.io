@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Gatekeeper’ Google aims for safer extension installs, fewer phishing attacks<a href="https://www.scmagazine.com/home/security-news/cloud-security/gatekeeper-google-aims-for-safer-extension-installs-fewer-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As one researcher warned, being in the gatekeeper position of determining what’s trustworthy gives tremendous influence to an organization that owns more than three-quarters of browser market.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

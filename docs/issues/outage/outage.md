@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity issues close Des Moines Area Community College<a href="https://www.kcci.com/article/cybersecurity-issue-closes-des-moines-area-community-college/36632266?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Des Moines Area Community College closed Friday following a cybersecurity issue impacting its IT system. According to an update on the DMACC Facebook page, a “security incident” on Wednesday caused the school to shut down parts of its network.
+</details>
+<div style="text-align: right" markdown="1">
+KCCI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Suspected in Cox TV and Radio Outages<a href="https://threatpost.com/cyberattack-cox-outage-tv-radio/166680/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cox Media Group tv, radio station streams affected by a reported ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFTs Give Rise to New Crypto-Security Risks<a href="https://cyware.com/news/nfts-give-rise-to-new-crypto-security-risks-2ed4e98f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a very short time, NFTs have gained huge popularity and have become one of the most promising utilizations of blockchain technology. However, they come with significant security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announces new experimental Abuse Research Grants Program<a href="https://www.bleepingcomputer.com/news/security/google-announces-new-experimental-abuse-research-grants-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced a new experimental Abuse Research Grants Program for abuse-related issues and tactics outside the scope of existing Vulnerability Research Grants and the Vulnerability Reward Program (VRP).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado-based Cybersecurity Company Coalfire Acquires Denim Group<a href="https://www.bizjournals.com/sanantonio/news/2021/06/01/denim-group-acquired-by-coalfire.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company is keeping all employees on staff and moving forward with the continued leadership of Denim Group's Principals John Dickson, Dan Cornell, and Sheridan Chambers.
+</details>
+<div style="text-align: right" markdown="1">
+coalfire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reports: Cox Media Group websites hacked in ransomware attack<a href="https://thehill.com//homenews/media/556855-reports-cox-media-group-websites-hacked-in-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cox Media Group, which owns television and radio stations in 20 media markets around the U.S., was the victim of a ransomware hack Thursday, according to several reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

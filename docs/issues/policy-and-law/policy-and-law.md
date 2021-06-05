@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges Latvian for helping develop the Trickbot malware<a href="https://www.bleepingcomputer.com/news/security/us-charges-latvian-for-helping-develop-the-trickbot-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice announced today that a Latvian national was charged for her alleged role as a malware developer in the Trickbot transnational cybercrime organization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supreme Court Limits Scope of Controversial Hacking Law<a href="https://threatpost.com/court-limits-scope-hacking-law/166672/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Judges rule that Georgia police officer did not violate CFAA when he accessed law-enforcement data in exchange for bribe money, a ruling that takes heat off ethical hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
