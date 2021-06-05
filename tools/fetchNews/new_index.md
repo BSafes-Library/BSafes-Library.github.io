@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TV news stations become apparent target in next cyberattack<a href="https://www.nbcnews.com/tech/security/tv-news-stations-become-apparent-target-next-cyberattack-n1269662?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABC affiliate WFTV in Orlando, Florida, and NBC affiliate WPXI in Pittsburgh, which are both owned by the Cox Media Group, were told Thursday by managers to shut down company computers and phones.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
