@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Feds recover $2.3 million from Colonial Pipeline ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/feds-recover-2-3-million-from-colonial-pipeline-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The announcement is compelling, as the public and private sector alike struggle to manage the response to a recent surge of ransomware attacks. More frequent recovery of funds after a ransom payment could shift the risk dynamic associated with these attacks for the business community, while also removing the financial incentive for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI Claws Back Millions of DarkSide’s Ransom Profits<a href="https://threatpost.com/fbi-claws-back-millions-darksides-ransom/166705/"> Full Text</a>
 </p>
 <details>
