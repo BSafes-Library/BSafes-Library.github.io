@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+California City Hid Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/california-city-hid-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azusa kept quiet about ransomware attack that netted cyber-criminals $65K
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Siloscape malware targets Windows containers and highlights security pitfalls<a href="https://www.scmagazine.com/featured/new-siloscape-malware-targets-windows-containers-and-highlights-security-pitfalls/"> Full Text</a>
 </p>
 <details>
