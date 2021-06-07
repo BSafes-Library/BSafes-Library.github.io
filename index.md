@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US truck and military vehicle maker Navistar discloses data breach<a href="https://www.bleepingcomputer.com/news/security/us-truck-and-military-vehicle-maker-navistar-discloses-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Navistar International Corporation (Navistar), a US-based maker of trucks and military vehicles, says that unknown attackers have stolen data from its network following a cybersecurity incident discovered at the end of last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSW Health confirms data breached due to Accellion vulnerability<a href="https://www.zdnet.com/article/nsw-health-confirms-data-breached-due-to-accellion-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Accellion FTA file sharing system was widely used to share and store files by organizations around the world, including NSW Health, the government entity said on Friday afternoon.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudQuest Acquired by Deloitte<a href="https://www.infosecurity-magazine.com:443/news/cloudquest-acquired-by-deloitte/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deloitte snaps up Silicon Valley–based security posture management provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
