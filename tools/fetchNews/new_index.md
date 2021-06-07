@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers millions in cryptocurrency paid to Colonial Pipeline hackers: report<a href="https://thehill.com//policy/cybersecurity/557185-us-recovers-millions-in-cryptocurrency-paid-to-colonial-pipeline-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. investigators have recovered millions of dollars in cryptocurrency that Colonial Pipeline paid hackers last month to end a ransomware attack on its systems, according to CNN.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siloscape, first known malware that drops a backdoor into Kubernetes clusters<a href="https://securityaffairs.co/wordpress/118690/cyber-crime/siloscape-backdoor-kubernetes-clusters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siloscape is a new strain of malware that targets Windows Server containers to execute code on the underlying node and spread in the Kubernetes cluster.
+
+
+
+Researchers from Palo Alto Networks have spotted a piece of malware that targets Windows Server...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
