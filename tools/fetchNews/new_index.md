@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New grant program will split $3M in cyber services among six US school districts<a href="https://www.scmagazine.com/home/security-news/ransomware/new-grant-program-will-split-3m-in-cyber-services-among-six-us-school-districts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fifty percent of the districts that applied for the grant said they have less than $100,000 allocated annually toward cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
