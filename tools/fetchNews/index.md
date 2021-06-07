@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency recovered from Colonial deal | Google settles French ad case | Republicans under pressure over tech donations<a href="https://thehill.com//policy/technology/overnights/557227-hillicon-valley-cryptocurrency-recovered-from-colonial-deal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of dollars in cryptocurrency paid out by Colonial Pipeline have been recovered, American authorities announced Monday; reports have suggested that roughly $2.3 million were gotten back from the DarkSide network. In other news, Google settled an antitrust case with French authorities over its ad market dominance.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
