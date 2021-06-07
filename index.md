@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Siloscape malware targets Windows containers and highlights security pitfalls<a href="https://www.scmagazine.com/featured/new-siloscape-malware-targets-windows-containers-and-highlights-security-pitfalls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Palo Alto Unit 42 have discovered what they think is the first malware strain known to target Windows cloud containers. In new research unveiled June 7, senior security researcher Daniel Prizmant wrote that the malware, called Siloscape, attacks misconfigured Kubernetes clusters and allows for the creation of malicious containers that a threat actor…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Organizations Hit by Massive Russian Spear-Phishing Campaign<a href="https://therecord.media/ukraine-warns-of-massive-russian-spear-phishing-campaign/?&web_view=true"> Full Text</a>
 </p>
 <details>
