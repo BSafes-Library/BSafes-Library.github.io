@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows Container Malware Targets Kubernetes Clusters<a href="https://threatpost.com/windows-containers-malware-targets-kubernetes/166692/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Siloscape”, the first malware to target Windows containers, breaks out of Kubernetes clusters to plant backdoors and raid nodes for credentials. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The cost of ransomware attacks worldwide will go beyond $265 billion in the next decade<a href="https://www.zdnet.com/article/the-cost-of-ransomware-around-the-globe-to-go-beyond-265-billion-in-the-next-decade/?&web_view=true"> Full Text</a>
 </p>
 <details>
