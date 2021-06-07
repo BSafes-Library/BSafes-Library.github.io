@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Organizations Hit by Massive Russian Spear-Phishing Campaign<a href="https://therecord.media/ukraine-warns-of-massive-russian-spear-phishing-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spear-phishing attack campaign took place in early June last week, according to alerts published by the Ukrainian Secret Service, Ukrainian Cyber Police, and CERT Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shifting the focus from reactive to proactive, with human-led secure coding<a href="https://thehackernews.com/2021/06/shifting-focus-from-reactive-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The same 10 software vulnerabilities have caused more security breaches in the last 20+ years than any others. And yet, many businesses still opt for post-breach, post-event remediation, muddling through the human and business ramifications of it all. But now,  a new research study  points to a new, human-led direction.  ‍ The following discusses insights derived from a study conducted by Secure Code Warrior with Evans Data Corp titled 'Shifting from reaction to prevention: The changing face of application security' (2021) exploring developers attitudes towards secure coding, secure code practices, and security operations.  Read the report.  ‍‍In the study, developers and development managers were asked about their common secure coding practices. The top three methods highlighted were:   Scanning applications for irregularities or vulnerabilities after they are deployed  Scrutinizing write code to inspect for irregularities or vulnerabilities  The reuse of pre-approved code th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Finally! A Cybersecurity Safety Review Board<a href="https://www.lawfareblog.com/finally-cybersecurity-safety-review-board"> Full Text</a>
 </p>
 <details>
