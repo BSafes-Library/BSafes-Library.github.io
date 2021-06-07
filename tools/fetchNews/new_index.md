@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US recovers most of Colonial Pipeline's $4.4M ransomware payment<a href="https://www.bleepingcomputer.com/news/security/us-recovers-most-of-colonial-pipelines-44m-ransomware-payment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has recovered the majority of the $4.4 million ransom payment paid by Colonial Pipeline to the DarkSide ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Group Gunning for Musk<a href="https://www.infosecurity-magazine.com:443/news/hacker-group-gunning-for-musk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous blasts billionaire for “superiority complex” and alleged Bitcoin trolling
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US recovers millions in cryptocurrency paid to Colonial Pipeline hackers: report<a href="https://thehill.com//policy/cybersecurity/557185-us-recovers-millions-in-cryptocurrency-paid-to-colonial-pipeline-hackers"> Full Text</a>
 </p>
 <details>
