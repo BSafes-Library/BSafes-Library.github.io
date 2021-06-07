@@ -37,6 +37,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+RockYou2021: largest password compilation of all time leaked online with 8.4 billion entries<a href="https://securityaffairs.co/wordpress/118696/data-breach/rockyou2021-largest-password-compilation-of-all-time-leaked-online-with-8-4-billion-entries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RockYou2021, the largest password compilation of all time has been leaked on a popular hacker forum, it contains 8.4 billion entries of passwords. 
+
+
+
+Original post at: https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked/
+
+
+
+What...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT attacks IAM credentials of AWS and Google Cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/teamtnt-attacks-iam-credentials-of-aws-and-google-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors that targeted AWS cloud environments are now also targeting the credentials of 16 additional applications, including the AWS apps as well as Google Cloud credentials.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Feds recover $2.3 million from Colonial Pipeline ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/feds-recover-2-3-million-from-colonial-pipeline-ransom/"> Full Text</a>
 </p>
 <details>
