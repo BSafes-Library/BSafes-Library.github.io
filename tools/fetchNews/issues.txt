@@ -31,6 +31,7 @@
 
 Alerts:
 . https://www.infosecurity-magazine.com:443/news/white-house-issues-open-letter-on/
+. https://securityaffairs.co/wordpress/118600/security/cisa-mitre-attck-guide.html
 
 Law:
 

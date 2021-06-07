@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breached Colonial Pipeline Using Compromised Password<a href="https://www.bloombergquint.com/business/hackers-breached-colonial-pipeline-using-compromised-password?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack that took down the largest fuel pipeline in the U.S. and led to shortages across the East Coast was the result of a single compromised password, according to a cybersecurity consultant who responded to the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Quint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

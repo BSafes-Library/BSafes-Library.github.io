@@ -8,6 +8,42 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US arrested Latvian woman who developed part of Trickbot malware<a href="https://securityaffairs.co/wordpress/118629/cyber-crime/trickbot-member-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice (DOJ) announced the arrest of a Latvian woman for her alleged role in the development of the Trickbot malware.
+
+
+
+The US Department of Justice (DOJ) announced the arrest of Alla Witte (aka Max), a Latvian woman that was charged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ: Investigations into ransomware attacks must have similar priority as terrorism<a href="https://securityaffairs.co/wordpress/118609/laws-and-regulations/ransomware-attacks-doj-terrorism.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice was to assign investigation on ransomware attacks the same priority as terrorism in the wake of the Colonial Pipeline hack.
+
+
+
+The U.S. Department of Justice plans to equate investigations into ransomware attacks with investigations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

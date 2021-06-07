@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Break Into Ethical Hacking With 18 Training Courses For Just $42.99<a href="https://thehackernews.com/2021/06/break-into-ethical-hacking-with-18.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is predicted that 3.5 million jobs will be unfilled in the field of cybersecurity by the end of this year. Several of these jobs pay very well, and in most cases, you don't even need a college degree to get hired.  The most important thing is to have the skills and certifications. &nbsp;The All-In-One 2021 Super-Sized Ethical Hacking Bundle &nbsp;helps you gain both, with 18 courses covering all aspects of cybersecurity. Normally, you pay $3,284 for this training, but you can get it now for only $42.99 via The Hacker New Deals.  The purpose of ethical hacking is to find weaknesses in the system that a malicious hacker may exploit. A certified expert can work either full-time or freelance, earning up to $149,000 a year, according to PayScale.  This bundle would be perfect for anyone interested in the field of cybersecurity, offering the opportunity to start off on the right foot.   Starting with the fundamentals, the beginner-friendly instruction will take you all the way to high-level te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

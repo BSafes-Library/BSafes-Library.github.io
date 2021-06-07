@@ -8,6 +8,84 @@ nav_order: 900072
 
 ## General
 ---
+June 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are We Waiting for Everyone to Get Hacked?<a href="https://www.nytimes.com/2021/06/05/business/leon-panetta-cyber-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In just the past few months, hackers — we still don’t know who — were caught messing with the chemical controls at a water treatment plant in Florida, in what appeared to be an attempt to contaminate the water supply just ahead of Super Bowl weekend.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warner: Debate on making it illegal to pay ransoms 'worth having'<a href="https://thehill.com//policy/cybersecurity/557040-warner-debate-on-making-it-illegal-to-pay-ransoms-worth-having"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Mark Warner (D-Va.), the chairman of the Senate Intelligence Committee, said on Sunday that it is worth debating whether to make paying ransoms illegal after cyberattacks&nbsp;disrupted&nbsp;operations at energy and meat production firms in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks are closing schools, delaying chemotherapy and derailing everyday life<a href="https://www.adn.com/nation-world/2021/06/05/ransomware-attacks-are-closing-schools-delaying-chemotherapy-and-derailing-everyday-life/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are not new. The money at stake has changed drastically, however, inflating from thousands to millions of dollars, and the targets are more sophisticated as well.
+</details>
+<div style="text-align: right" markdown="1">
+Anchorage Daily News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 317<a href="https://securityaffairs.co/wordpress/118649/breaking-news/security-affairs-newsletter-round-317.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe&nbsp;here.
+
+
+
+Facefish Backdoor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans face mounting risk of hackers taking over brokerage accounts, regulators say<a href="https://www.marketwatch.com/story/americans-face-mounting-risk-of-hackers-taking-over-brokerage-accounts-regulators-say-11622826205?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Financial Industry Regulatory Authority said in a recent notice that it has “received an increasing number of reports regarding customer account takeover incidents, which involve bad actors using compromised customer information.”
+</details>
+<div style="text-align: right" markdown="1">
+Market Watch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

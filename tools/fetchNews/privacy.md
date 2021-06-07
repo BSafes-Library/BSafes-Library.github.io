@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Let Android Users Opt-Out to Stop Ads From Tracking Them<a href="https://thehackernews.com/2021/06/google-to-let-android-users-opt-out-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is tightening the privacy practices that could make it harder for apps on Android phones and tablets to track users who have opted out of receiving personalized interest-based ads. The change will go into effect sometime in late 2021.  The development, which mirrors Apple's move to enable iPhone and iPad users to opt-out of ad tracking, was first&nbsp; reported &nbsp;by the Financial Times.&nbsp;  Once the revised policy goes live, Google is expected to completely cut off developers' access to the so-called "Advertising IDs," showing a "string of zeros" in its place. The Google Advertising ID (AAID), analogous to Apple's&nbsp; IDFA , is a unique device identifier that can be used by app developers to track users as they move between apps to target ads better and measure the effectiveness of marketing campaigns.   "Starting in late 2021, when a user opts out of interest-based advertising or ads personalization, the advertising identifier will not be available,&amp;q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

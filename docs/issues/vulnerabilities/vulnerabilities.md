@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALERT: Critical RCE Bug in VMware vCenter Server Under Active Attack<a href="https://thehackernews.com/2021/06/alert-critical-rce-bug-in-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are actively mass scanning the internet for vulnerable VMware vCenter servers that are unpatched against a critical remote code execution flaw, which the company addressed late last month.  The ongoing activity was detected by Bad Packets on June 3 and corroborated&nbsp; yesterday &nbsp;by security researcher Kevin Beaumont. "Mass scanning activity detected from 104.40.252.159 checking for VMware vSphere hosts vulnerable to remote code execution,"&nbsp; tweeted &nbsp;Troy Mursch, chief research officer at Bad Packets.   The development follows the publication of a proof-of-concept  (PoC) RCE exploit code targeting the VMware vCenter bug.  Tracked as&nbsp; CVE-2021-21985 &nbsp;(CVSS score 9.8), the issue is a consequence of a lack of input validation in the Virtual SAN (vSAN) Health Check plug-in, which could be abused by an attacker to execute commands with unrestricted privileges on the underlying operating system that hosts the vCenter Server.   Although the flaw was rectified by VMwar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

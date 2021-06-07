@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google, Microsoft, and Mozilla work together on better browser extensions<a href="https://www.bleepingcomputer.com/news/security/google-microsoft-and-mozilla-work-together-on-better-browser-extensions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google, Microsoft, Apple, and Mozilla have launched the WebExtensions Community Group (WECG) to collaborate on standardizing browser extensions to enhance both security and performance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

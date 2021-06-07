@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2021
+June 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Evil Corp ransomware mimics PayloadBin gang to evade US sanctions<a href="https://www.bleepingcomputer.com/news/security/new-evil-corp-ransomware-mimics-payloadbin-gang-to-evade-us-sanctions/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2021
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are We Waiting for Everyone to Get Hacked?<a href="https://www.nytimes.com/2021/06/05/business/leon-panetta-cyber-attacks.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2021
+June 06, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warner: Debate on making it illegal to pay ransoms 'worth having'<a href="https://thehill.com//policy/cybersecurity/557040-warner-debate-on-making-it-illegal-to-pay-ransoms-worth-having"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2021
+June 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese SharpPanda APT developed a new backdoor in the last 3 years<a href="https://securityaffairs.co/wordpress/118652/apt/sharppanda-apt-backdoor.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2021
+June 06, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal app safety numbers do not always change — here's why<a href="https://www.bleepingcomputer.com/news/security/signal-app-safety-numbers-do-not-always-change-heres-why/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2021
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks are closing schools, delaying chemotherapy and derailing everyday life<a href="https://www.adn.com/nation-world/2021/06/05/ransomware-attacks-are-closing-schools-delaying-chemotherapy-and-derailing-everyday-life/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Anchorage Daily News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2021
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 317<a href="https://securityaffairs.co/wordpress/118649/breaking-news/security-affairs-newsletter-round-317.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2021
+June 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google, Microsoft, and Mozilla work together on better browser extensions<a href="https://www.bleepingcomputer.com/news/security/google-microsoft-and-mozilla-work-together-on-better-browser-extensions/"> Full Text</a>
@@ -174,7 +174,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2021
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Americans face mounting risk of hackers taking over brokerage accounts, regulators say<a href="https://www.marketwatch.com/story/americans-face-mounting-risk-of-hackers-taking-over-brokerage-accounts-regulators-say-11622826205?&web_view=true"> Full Text</a>
@@ -190,7 +190,7 @@ Market Watch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2021
+June 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware spokesman releases an interview on recent attacks<a href="https://securityaffairs.co/wordpress/118639/cyber-crime/revil-ransomware-interview.html"> Full Text</a>
@@ -210,7 +210,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2021
+June 06, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon to share your Internet with neighbors on Tuesday - How to opt out<a href="https://www.bleepingcomputer.com/news/technology/amazon-to-share-your-internet-with-neighbors-on-tuesday-how-to-opt-out/"> Full Text</a>
@@ -226,7 +226,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2021
+June 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A favor from Russian ransomware hackers<a href="https://edition.cnn.com/2021/06/04/opinions/russian-ransomware-hackers-cybersecurity-putin-ghitis/index.html?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2021
+June 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Updates Policy to Remove Exploit Code When Used in Active Attacks<a href="https://thehackernews.com/2021/06/github-updates-policy-to-remove-exploit.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2021
+June 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate sergeant at arms says cyberattack more worrisome than repeat of Jan. 6 insurrection<a href="https://thehill.com//policy/national-security/557007-senate-sergeant-at-arms-says-cyberattack-more-worrisome-than-repeat"> Full Text</a>
@@ -274,7 +274,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2021
+June 05, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Break Into Ethical Hacking With 18 Training Courses For Just $42.99<a href="https://thehackernews.com/2021/06/break-into-ethical-hacking-with-18.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2021
+June 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Quietly Updated Its Privacy Policy to Collect Users' Biometric Data<a href="https://thehackernews.com/2021/06/tiktok-quietly-updated-its-privacy.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2021
+June 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALERT: Critical RCE Bug in VMware vCenter Server Under Active Attack<a href="https://thehackernews.com/2021/06/alert-critical-rce-bug-in-vmware.html"> Full Text</a>
@@ -322,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US arrested Latvian woman who developed part of Trickbot malware<a href="https://securityaffairs.co/wordpress/118629/cyber-crime/trickbot-member-arrested.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2021
+June 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub's new policies allow removal of PoC exploits used in attacks<a href="https://www.bleepingcomputer.com/news/security/githubs-new-policies-allow-removal-of-poc-exploits-used-in-attacks/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeaBot and FluBot - Thugs in Banker’s Disguise<a href="https://cyware.com/news/teabot-and-flubot-thugs-in-bankers-disguise-f77d5a50"> Full Text</a>
@@ -375,7 +375,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCocaine Ransomware, a new malware in the threat landscape<a href="https://securityaffairs.co/wordpress/118617/malware/blackcocaine-ransomware.html"> Full Text</a>
@@ -395,7 +395,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2021
+June 05, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out: These online casino emails never pay what they promise<a href="https://www.bleepingcomputer.com/news/security/watch-out-these-online-casino-emails-never-pay-what-they-promise/"> Full Text</a>
@@ -411,7 +411,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Target Retail Chains and Food Joints<a href="https://cyware.com/news/cybercriminals-target-retail-chains-and-food-joints-360577f4"> Full Text</a>
@@ -428,7 +428,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ: Investigations into ransomware attacks must have similar priority as terrorism<a href="https://securityaffairs.co/wordpress/118609/laws-and-regulations/ransomware-attacks-doj-terrorism.html"> Full Text</a>
@@ -448,7 +448,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Techniques Allow Malware to Bypass Antivirus Defenses<a href="https://cyware.com/news/new-techniques-allow-malware-to-bypass-antivirus-defenses-26350bdf"> Full Text</a>
@@ -465,7 +465,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA published a guide to better use the MITRE ATT&CK framework<a href="https://securityaffairs.co/wordpress/118600/security/cisa-mitre-attck-guide.html"> Full Text</a>
@@ -485,7 +485,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2021
+June 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Breached Colonial Pipeline Using Compromised Password<a href="https://www.bloombergquint.com/business/hackers-breached-colonial-pipeline-using-compromised-password?&web_view=true"> Full Text</a>

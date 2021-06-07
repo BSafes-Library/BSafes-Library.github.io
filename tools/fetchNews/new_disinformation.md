@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+June 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out: These online casino emails never pay what they promise<a href="https://www.bleepingcomputer.com/news/security/watch-out-these-online-casino-emails-never-pay-what-they-promise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spammers are abusing affiliate programs to promote online casinos, such as Raging Bull Casino, Sports and Casino, Ducky Luck, and Royal Ace Casino, with misleading emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

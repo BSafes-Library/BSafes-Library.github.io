@@ -34,6 +34,473 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evil Corp ransomware mimics PayloadBin gang to evade US sanctions<a href="https://www.bleepingcomputer.com/news/security/new-evil-corp-ransomware-mimics-payloadbin-gang-to-evade-us-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new PayloadBIN ransomware has been attributed to the Evil Corp cybercrime gang, rebranding to evade sanctions imposed by the US Treasury Department's Office of Foreign Assets Control (OFAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are We Waiting for Everyone to Get Hacked?<a href="https://www.nytimes.com/2021/06/05/business/leon-panetta-cyber-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In just the past few months, hackers — we still don’t know who — were caught messing with the chemical controls at a water treatment plant in Florida, in what appeared to be an attempt to contaminate the water supply just ahead of Super Bowl weekend.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warner: Debate on making it illegal to pay ransoms 'worth having'<a href="https://thehill.com//policy/cybersecurity/557040-warner-debate-on-making-it-illegal-to-pay-ransoms-worth-having"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Mark Warner (D-Va.), the chairman of the Senate Intelligence Committee, said on Sunday that it is worth debating whether to make paying ransoms illegal after cyberattacks disrupted operations at energy and meat production firms in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese SharpPanda APT developed a new backdoor in the last 3 years<a href="https://securityaffairs.co/wordpress/118652/apt/sharppanda-apt-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research (CPR) said that the Chinese APT group SharpPanda spent three years developing a new backdoor to spy on Asian governments.  
+
+
+
+Researchers from Check Point Research (CPR) discovered a new backdoor while investigating a cyber espionage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal app safety numbers do not always change — here's why<a href="https://www.bleepingcomputer.com/news/security/signal-app-safety-numbers-do-not-always-change-heres-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, security researchers have steered attention towards an interesting finding while using Signal apps across multiple platforms. When you or your contact reinstall the Signal app or switch over to a new device, the Signal safety number between you two does not always change.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks are closing schools, delaying chemotherapy and derailing everyday life<a href="https://www.adn.com/nation-world/2021/06/05/ransomware-attacks-are-closing-schools-delaying-chemotherapy-and-derailing-everyday-life/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are not new. The money at stake has changed drastically, however, inflating from thousands to millions of dollars, and the targets are more sophisticated as well.
+</details>
+<div style="text-align: right" markdown="1">
+Anchorage Daily News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 317<a href="https://securityaffairs.co/wordpress/118649/breaking-news/security-affairs-newsletter-round-317.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Facefish Backdoor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google, Microsoft, and Mozilla work together on better browser extensions<a href="https://www.bleepingcomputer.com/news/security/google-microsoft-and-mozilla-work-together-on-better-browser-extensions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google, Microsoft, Apple, and Mozilla have launched the WebExtensions Community Group (WECG) to collaborate on standardizing browser extensions to enhance both security and performance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans face mounting risk of hackers taking over brokerage accounts, regulators say<a href="https://www.marketwatch.com/story/americans-face-mounting-risk-of-hackers-taking-over-brokerage-accounts-regulators-say-11622826205?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Financial Industry Regulatory Authority said in a recent notice that it has “received an increasing number of reports regarding customer account takeover incidents, which involve bad actors using compromised customer information.”
+</details>
+<div style="text-align: right" markdown="1">
+Market Watch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware spokesman releases an interview on recent attacks<a href="https://securityaffairs.co/wordpress/118639/cyber-crime/revil-ransomware-interview.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators said in an interview on the "Russian OSINT" Telegram channel that they accidentally targeted United States-based firms.
+
+
+
+The recent attack against JBS Foods conducted by REvil ransomware gang (aka Sodinokibi) triggered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon to share your Internet with neighbors on Tuesday - How to opt out<a href="https://www.bleepingcomputer.com/news/technology/amazon-to-share-your-internet-with-neighbors-on-tuesday-how-to-opt-out/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon will be launching the Amazon Sidewalk service on Tuesday that automatically opts-in your Echo and Ring devices into a new feature that shares your Internet with your neighbors. Here's more about this new feature and how to opt-out of sharing your bandwidth with other Amazon devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A favor from Russian ransomware hackers<a href="https://edition.cnn.com/2021/06/04/opinions/russian-ransomware-hackers-cybersecurity-putin-ghitis/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When President Joe Biden meets with Russian President Vladimir Putin later this month, he will undoubtedly bring up -- as he should -- the matter of repeated ransomware attacks against US targets by Russian-based hackers.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Updates Policy to Remove Exploit Code When Used in Active Attacks<a href="https://thehackernews.com/2021/06/github-updates-policy-to-remove-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code-hosting platform GitHub Friday officially announced a series of updates to the  site's policies  that delve into how the company deals with malware and exploit code uploaded to its service.  "We explicitly permit dual-use security technologies and content related to research into vulnerabilities, malware, and exploits," the Microsoft-owned company  said . "We understand that many security research projects on GitHub are dual-use and broadly beneficial to the security community. We assume positive intention and use of these projects to promote and drive improvements across the ecosystem."   Stating that it will not allow the use of GitHub in direct support of unlawful attacks or malware campaigns that cause technical harm, the company said it may take steps to disrupt ongoing attacks that leverage the platform as an exploit or a malware content delivery network (CDN).  To that end, users are refrained from uploading, posting, hosting, or transmitting any co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate sergeant at arms says cyberattack more worrisome than repeat of Jan. 6 insurrection<a href="https://thehill.com//policy/national-security/557007-senate-sergeant-at-arms-says-cyberattack-more-worrisome-than-repeat"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Sergeant at Arms Karen Gibson said Saturday she is more concerned about a cyberattack on the government than another insurrection like the one that rocked Capitol Hill on Jan. 6.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Break Into Ethical Hacking With 18 Training Courses For Just $42.99<a href="https://thehackernews.com/2021/06/break-into-ethical-hacking-with-18.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is predicted that 3.5 million jobs will be unfilled in the field of cybersecurity by the end of this year. Several of these jobs pay very well, and in most cases, you don't even need a college degree to get hired.  The most important thing is to have the skills and certifications.  The All-In-One 2021 Super-Sized Ethical Hacking Bundle  helps you gain both, with 18 courses covering all aspects of cybersecurity. Normally, you pay $3,284 for this training, but you can get it now for only $42.99 via The Hacker New Deals.  The purpose of ethical hacking is to find weaknesses in the system that a malicious hacker may exploit. A certified expert can work either full-time or freelance, earning up to $149,000 a year, according to PayScale.  This bundle would be perfect for anyone interested in the field of cybersecurity, offering the opportunity to start off on the right foot.   Starting with the fundamentals, the beginner-friendly instruction will take you all the way to high-level te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Quietly Updated Its Privacy Policy to Collect Users' Biometric Data<a href="https://thehackernews.com/2021/06/tiktok-quietly-updated-its-privacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular short-form video-sharing service TikTok quietly revised its privacy policy in the U.S., allowing it to automatically collect biometric information such as faceprints and voiceprints from the content its users post on the platform.  The policy change, first spotted by TechCrunch , went into effect on June 2. TikTok users who reside in the European Economic Area (EEA), the U.K., Switzerland, and other geographies (excluding India) where the service operates are exempted from the changes.   "We may collect biometric identifiers and biometric information as defined under U.S. laws, such as faceprints and voiceprints, from your User Content. Where required by law, we will seek any required permissions from you prior to any such collection," the ByteDance-owned company  said  in a newly introduced section called "Image and Audio Information."  On top of this, the company's privacy policy also notes that it may collect information about "the nature of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALERT: Critical RCE Bug in VMware vCenter Server Under Active Attack<a href="https://thehackernews.com/2021/06/alert-critical-rce-bug-in-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are actively mass scanning the internet for vulnerable VMware vCenter servers that are unpatched against a critical remote code execution flaw, which the company addressed late last month.  The ongoing activity was detected by Bad Packets on June 3 and corroborated  yesterday  by security researcher Kevin Beaumont. "Mass scanning activity detected from 104.40.252.159 checking for VMware vSphere hosts vulnerable to remote code execution,"  tweeted  Troy Mursch, chief research officer at Bad Packets.   The development follows the publication of a proof-of-concept  (PoC) RCE exploit code targeting the VMware vCenter bug.  Tracked as  CVE-2021-21985  (CVSS score 9.8), the issue is a consequence of a lack of input validation in the Virtual SAN (vSAN) Health Check plug-in, which could be abused by an attacker to execute commands with unrestricted privileges on the underlying operating system that hosts the vCenter Server.   Although the flaw was rectified by VMwar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US arrested Latvian woman who developed part of Trickbot malware<a href="https://securityaffairs.co/wordpress/118629/cyber-crime/trickbot-member-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice (DOJ) announced the arrest of a Latvian woman for her alleged role in the development of the Trickbot malware.
+
+
+
+The US Department of Justice (DOJ) announced the arrest of Alla Witte (aka Max), a Latvian woman that was charged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub's new policies allow removal of PoC exploits used in attacks<a href="https://www.bleepingcomputer.com/news/security/githubs-new-policies-allow-removal-of-poc-exploits-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub announced on Friday their updated community guidelines that explain how the company will deal with exploits and malware samples hosted on their service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot and FluBot - Thugs in Banker’s Disguise<a href="https://cyware.com/news/teabot-and-flubot-thugs-in-bankers-disguise-f77d5a50"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found a new batch of malicious Android applications trying to lure victims by impersonating popular applications. The targeted applications were mostly from renowned financial institutions while spreading TeaBot and FluBot trojans. The use of fake or lookalike malicious a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCocaine Ransomware, a new malware in the threat landscape<a href="https://securityaffairs.co/wordpress/118617/malware/blackcocaine-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers investigated a recent attack on an India-based IT firm that was hit by the BlackCocaine Ransomware gang.  
+
+
+
+Recently Cyber researchers for Cyble investigated an attack suffered by on May 30, 2021,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out: These online casino emails never pay what they promise<a href="https://www.bleepingcomputer.com/news/security/watch-out-these-online-casino-emails-never-pay-what-they-promise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spammers are abusing affiliate programs to promote online casinos, such as Raging Bull Casino, Sports and Casino, Ducky Luck, and Royal Ace Casino, with misleading emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Retail Chains and Food Joints<a href="https://cyware.com/news/cybercriminals-target-retail-chains-and-food-joints-360577f4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost all retail businesses today depend on the internet for most of their operations. While they invest in state-of-the-art platforms, meeting adequate security protocols appears to be a blockage.&nbsp;Retail firms are recommended to invest regularly in their existing security solutions and stay  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ: Investigations into ransomware attacks must have similar priority as terrorism<a href="https://securityaffairs.co/wordpress/118609/laws-and-regulations/ransomware-attacks-doj-terrorism.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice was to assign investigation on ransomware attacks the same priority as terrorism in the wake of the Colonial Pipeline hack.
+
+
+
+The U.S. Department of Justice plans to equate investigations into ransomware attacks with investigations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Techniques Allow Malware to Bypass Antivirus Defenses<a href="https://cyware.com/news/new-techniques-allow-malware-to-bypass-antivirus-defenses-26350bdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academics from two European universities devised Cut-and-Mouse and Ghost Control attack techniques that affect the protected folder feature offered by antivirus programs. Malware authors are continuously attempting to sneak past security defenses and the discovery of attack scenarios like these can ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA published a guide to better use the MITRE ATT&CK framework<a href="https://securityaffairs.co/wordpress/118600/security/cisa-mitre-attck-guide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA announced the availability of a new guide for cyber threat intelligence experts on the use of the MITRE ATT&CK framework.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week released a new guide for cyber threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breached Colonial Pipeline Using Compromised Password<a href="https://www.bloombergquint.com/business/hackers-breached-colonial-pipeline-using-compromised-password?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack that took down the largest fuel pipeline in the U.S. and led to shortages across the East Coast was the result of a single compromised password, according to a cybersecurity consultant who responded to the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Quint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

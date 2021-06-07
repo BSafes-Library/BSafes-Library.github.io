@@ -8,6 +8,76 @@ nav_order: 900027
 
 ## Business
 ---
+June 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal app safety numbers do not always change — here's why<a href="https://www.bleepingcomputer.com/news/security/signal-app-safety-numbers-do-not-always-change-heres-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, security&nbsp;researchers have steered attention towards&nbsp;an interesting finding while using Signal apps across multiple platforms. When you or your contact&nbsp;reinstall&nbsp;the Signal app or switch over to a new device, the Signal safety number between you two&nbsp;does not always change.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon to share your Internet with neighbors on Tuesday - How to opt out<a href="https://www.bleepingcomputer.com/news/technology/amazon-to-share-your-internet-with-neighbors-on-tuesday-how-to-opt-out/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon will be launching the Amazon Sidewalk service on Tuesday that automatically opts-in your Echo and Ring devices into a new feature that shares your Internet with your neighbors. Here's more about this new feature and how to opt-out of sharing your bandwidth with other Amazon devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Updates Policy to Remove Exploit Code When Used in Active Attacks<a href="https://thehackernews.com/2021/06/github-updates-policy-to-remove-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code-hosting platform GitHub Friday officially announced a series of updates to the&nbsp; site's policies &nbsp;that delve into how the company deals with malware and exploit code uploaded to its service.  "We explicitly permit dual-use security technologies and content related to research into vulnerabilities, malware, and exploits," the Microsoft-owned company&nbsp; said . "We understand that many security research projects on GitHub are dual-use and broadly beneficial to the security community. We assume positive intention and use of these projects to promote and drive improvements across the ecosystem."   Stating that it will not allow the use of GitHub in direct support of unlawful attacks or malware campaigns that cause technical harm, the company said it may take steps to disrupt ongoing attacks that leverage the platform as an exploit or a malware content delivery network (CDN).  To that end, users are refrained from uploading, posting, hosting, or transmitting any co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Quietly Updated Its Privacy Policy to Collect Users' Biometric Data<a href="https://thehackernews.com/2021/06/tiktok-quietly-updated-its-privacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular short-form video-sharing service TikTok quietly revised its privacy policy in the U.S., allowing it to automatically collect biometric information such as faceprints and voiceprints from the content its users post on the platform.  The policy change, first spotted by TechCrunch , went into effect on June 2. TikTok users who reside in the European Economic Area (EEA), the U.K., Switzerland, and other geographies (excluding India) where the service operates are exempted from the changes.   "We may collect biometric identifiers and biometric information as defined under U.S. laws, such as faceprints and voiceprints, from your User Content. Where required by law, we will seek any required permissions from you prior to any such collection," the ByteDance-owned company&nbsp; said &nbsp;in a newly introduced section called "Image and Audio Information."  On top of this, the company's privacy policy also notes that it may collect information about "the nature of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub's new policies allow removal of PoC exploits used in attacks<a href="https://www.bleepingcomputer.com/news/security/githubs-new-policies-allow-removal-of-poc-exploits-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub announced on Friday their updated community guidelines that explain how the company will deal with exploits and malware samples hosted on their service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

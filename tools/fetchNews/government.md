@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI director draws 'parallels' between ransomware attacks and 9/11<a href="https://thehill.com//policy/cybersecurity/556915-fbi-director-draws-parallels-between-ransomware-attacks-and-9-11"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray is comparing the increasing ransomware hacks&nbsp;on critical U.S. companies to the September 11, 2001 terrorist attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US to Treat Ransomware Like Terrorism<a href="https://www.infosecurity-magazine.com:443/news/us-to-treat-ransomware-like/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Department of Justice says ransomware attacks to be prioritized similarly to terrorist strikes
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Expands Trump’s Investment Ban on Chinese Firms<a href="https://www.infosecurity-magazine.com:443/news/biden-expands-trump-china-ban/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US entities barred from investing in PRC companies with alleged defense and surveillance tech links
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Operations Actively Enumerating Cloud Environments<a href="https://unit42.paloaltonetworks.com/teamtnt-operations-cloud-environments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT operations have targeted and, after compromise, exfiltrated AWS credentials, targeted Kubernetes clusters, and created new malware called Black-T that integrates open source cloud-native tools to assist in their cryptojacking operations.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

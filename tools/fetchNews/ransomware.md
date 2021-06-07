@@ -11,6 +11,34 @@ nav_order: 900180
 June 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 4th 2021 - Where's the beef?<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-4th-2021-wheres-the-beef/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has continued to be part of the 24-hour news cycle as another significant attack against critical infrastructure took place this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm confirms ransomware attack on systems in Japan<a href="https://www.scmagazine.com/home/security-news/ransomware/fujifilm-confirms-ransomware-attack-on-systems-in-japan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement today, the company also said that the impact of the unauthorized access was confined to a specific network in Japan and that they had started to bring network, servers and computers confirmed as safe back into operation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Meat giant JBS now fully operational after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/meat-giant-jbs-now-fully-operational-after-ransomware-attack/"> Full Text</a>
 </p>
 <details>
