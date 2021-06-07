@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STUN Servers Increasingly Exploited for DDoS-for-Hire Services<a href="https://www.securityweek.com/organizations-warned-stun-servers-increasingly-abused-ddos-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NETSCOUT warned organizations that STUN servers have been increasingly abused for DDoS attacks, and there are tens of thousands of servers that could be abused for such attacks by malicious actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

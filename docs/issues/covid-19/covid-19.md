@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Covid vaccine SMS scam targets Indian users<a href="https://ciso.economictimes.indiatimes.com/news/this-is-the-new-covid-vaccine-sms-scam-you-need-to-be-careful-of/83224186?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware is spreading through SMS by luring people to click on a link impersonating a free registration website for the COVID-19 vaccination program in India.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

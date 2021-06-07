@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot and FluBot - Thugs in Banker’s Disguise<a href="https://cyware.com/news/teabot-and-flubot-thugs-in-bankers-disguise-f77d5a50"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found a new batch of malicious Android applications trying to lure victims by impersonating popular applications. The targeted applications were mostly from renowned financial institutions while spreading TeaBot and FluBot trojans. The use of fake or lookalike malicious a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

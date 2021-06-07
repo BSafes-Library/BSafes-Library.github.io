@@ -8,6 +8,70 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evil Corp ransomware mimics PayloadBin gang to evade US sanctions<a href="https://www.bleepingcomputer.com/news/security/new-evil-corp-ransomware-mimics-payloadbin-gang-to-evade-us-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new PayloadBIN ransomware has been attributed to the Evil Corp cybercrime gang, rebranding to evade sanctions imposed by the US Treasury Department's Office of Foreign Assets Control (OFAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware spokesman releases an interview on recent attacks<a href="https://securityaffairs.co/wordpress/118639/cyber-crime/revil-ransomware-interview.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators said in an interview on the "Russian OSINT" Telegram channel that they accidentally targeted United States-based firms.
+
+
+
+The recent attack against JBS Foods conducted by REvil ransomware gang (aka Sodinokibi) triggered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A favor from Russian ransomware hackers<a href="https://edition.cnn.com/2021/06/04/opinions/russian-ransomware-hackers-cybersecurity-putin-ghitis/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When President Joe Biden meets with Russian President Vladimir Putin later this month, he will undoubtedly bring up -- as he should -- the matter of repeated ransomware attacks against US targets by Russian-based hackers.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCocaine Ransomware, a new malware in the threat landscape<a href="https://securityaffairs.co/wordpress/118617/malware/blackcocaine-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble&nbsp;researchers investigated a recent attack on an India-based IT firm that was hit by the&nbsp;BlackCocaine&nbsp;Ransomware&nbsp;gang.&nbsp;&nbsp;
+
+
+
+Recently Cyber researchers for Cyble investigated an attack suffered by on&nbsp;May 30,&nbsp;2021,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

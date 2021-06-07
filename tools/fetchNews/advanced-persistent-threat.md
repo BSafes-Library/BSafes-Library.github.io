@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese SharpPanda APT developed a new backdoor in the last 3 years<a href="https://securityaffairs.co/wordpress/118652/apt/sharppanda-apt-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research (CPR) said that the Chinese APT group SharpPanda spent three years developing a new backdoor to spy on Asian governments. &nbsp;
+
+
+
+Researchers from Check Point Research (CPR) discovered a new backdoor while investigating a cyber espionage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

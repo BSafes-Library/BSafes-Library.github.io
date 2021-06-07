@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Group is Evolving; A Matter to be Worried About<a href="https://cyware.com/news/kimsuky-apt-group-is-evolving-a-matter-to-be-worried-about-4d6e5f76"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean APT group Kimsuky, also known as Thallium, Black Banshee, and Velvet Chollim, has been found adopting new TTPs as it continues to launch espionage attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

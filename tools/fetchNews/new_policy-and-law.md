@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latvian Woman Charged for Her Role in Creating Trickbot Banking Malware<a href="https://thehackernews.com/2021/06/latvian-woman-charged-for-her-role-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Friday charged a Latvian woman for her alleged role as a programmer in a cybercrime gang that helped develop TrickBot malware.  The woman in question, Alla Witte , aka Max, 55, who resided in Paramaribo, Suriname, was arrested in Miami, Florida on February 6. Witte has been charged with 19 counts, including conspiracy to commit computer fraud and aggravated identity theft, wire and bank fraud affecting a financial institution, and money laundering.  According to heavily redacted court documents released by the DoJ, Witte and 16 other unnamed cohorts have been accused of running a transnational criminal organization to develop and deploy a digital suite of malware tools with an aim to target businesses and individuals worldwide for theft and ransom.   Since its origin as a banking Trojan in late 2015,&nbsp; TrickBot &nbsp;has evolved into a " crimeware-as-a-service " capable of pilfering valuable personal and financial information and even droppi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latvian Woman Charged with Developing Malware for Trickbot<a href="https://www.infosecurity-magazine.com:443/news/latvian-woman-charged-developing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The indictment claimed that Alla Witte helped to develop code related to the control, deployment and payments of ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

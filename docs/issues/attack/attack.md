@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Incident Sparks 'Help Desk' Phishing Attacks<a href="https://www.infosecurity-magazine.com:443/news/colonial-pipeline-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers are now using the notoriety of the Colonial Pipeline ransomware attack to wage further phishing campagns
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

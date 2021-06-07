@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breached Colonial Pipeline Using Compromised VPN Password<a href="https://thehackernews.com/2021/06/hackers-breached-colonial-pipeline.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware cartel that masterminded the&nbsp; Colonial Pipeline attack &nbsp;early last month crippled the pipeline operator's network using a compromised virtual private network (VPN) account password, the latest investigation into the incident has revealed.  The development, which was&nbsp; reported &nbsp;by Bloomberg on Friday, involved gaining an initial foothold into the networks as early as April 29 through the VPN account, which allowed employees to access the company's networks remotely.  The VPN login was unused but active at the time of the attack, the report said, adding the password has since been discovered inside a batch of leaked passwords on the dark web, suggesting that an employee of the company may have reused the same password on another account that was previously breached.  It's, however, unclear how the password was obtained, Charles Carmakal, senior vice president at the cybersecurity firm Mandiant, was quoted as saying to the publication. The FireEye-owned subsidi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

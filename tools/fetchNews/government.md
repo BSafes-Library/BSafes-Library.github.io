@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+June 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate sergeant at arms says cyberattack more worrisome than repeat of Jan. 6 insurrection<a href="https://thehill.com//policy/national-security/557007-senate-sergeant-at-arms-says-cyberattack-more-worrisome-than-repeat"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Sergeant at Arms Karen Gibson said Saturday she is more concerned about a cyberattack on the government than another insurrection like the one that rocked Capitol Hill on Jan. 6.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA published a guide to better use the MITRE ATT&amp;CK framework<a href="https://securityaffairs.co/wordpress/118600/security/cisa-mitre-attck-guide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA announced the availability of a new guide for cyber threat intelligence experts on the use of the MITRE ATT&amp;CK framework.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week released a new guide for cyber threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

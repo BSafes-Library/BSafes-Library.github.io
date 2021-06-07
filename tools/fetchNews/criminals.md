@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Retail Chains and Food Joints<a href="https://cyware.com/news/cybercriminals-target-retail-chains-and-food-joints-360577f4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost all retail businesses today depend on the internet for most of their operations. While they invest in state-of-the-art platforms, meeting adequate security protocols appears to be a blockage.&nbsp;Retail firms are recommended to invest regularly in their existing security solutions and stay  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

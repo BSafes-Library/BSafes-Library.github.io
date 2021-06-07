@@ -34,6 +34,338 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Kubernetes malware backdoors clusters via Windows containers<a href="https://www.bleepingcomputer.com/news/security/new-kubernetes-malware-backdoors-clusters-via-windows-containers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New malware active for more than a year is compromising Windows containers to compromise Kubernetes clusters with the end goal of backdooring them and paving the way for attackers to abuse them in other malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity verification company Trulioo lands $394M<a href="https://venturebeat.com/2021/06/07/identity-verification-company-trulioo-lands-394m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online identity verification platform Trulioo has closed a $394 million series D round of funding at a $1.75 billion valuation. The round was led by growth equity firm TCV.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover First Known Malware Targeting Windows Containers<a href="https://thehackernews.com/2021/06/researchers-discover-first-known.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered the first known malware, dubbed " Siloscope ," targeting Windows Server containers to infect Kubernetes clusters in cloud environments.  "Siloscape is heavily obfuscated malware targeting Kubernetes clusters through Windows containers,"  said  Unit 42 researcher Daniel Prizmant. "Its main purpose is to open a backdoor into poorly configured Kubernetes clusters in order to run malicious containers such as, but not limited to, cryptojackers."   Siloscape, first detected in March 2021, is characterized by several techniques, including targeting common cloud applications such as web servers to gain an initial foothold via known vulnerabilities, following which it leverages Windows container escape techniques to break out of the confines of the container and gain remote code execution on the underlying node.  A container is an  isolated, lightweight silo  for running an application on the host operating system. The malware&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualys Announces Passing of Philippe Courtot, it's CEO of the Past 20 Years<a href="https://www.infosecurity-magazine.com:443/news/qualys-passing-philippe-courtot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Courtot became CEO of Qualys in 2001, leading its global expansion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia behind a massive spear-phishing campaign that hit Ukraine<a href="https://securityaffairs.co/wordpress/118675/apt/ukraine-hit-russia-spear-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine warned of a “massive” spear-phishing campaign carried out by Russia-linked threat actors against its government and private businesses.
+
+
+
+Three Ukrainian cybersecurity agencies (Ukrainian Secret Service, Ukrainian Cyber Police, and CERT...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical zero-day vulnerabilities found in ‘unsupported’ Fedena school management software<a href="https://portswigger.net/daily-swig/critical-zero-day-vulnerabilities-found-in-unsupported-fedena-school-management-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fedena, an open-source school and college management system, contains seven security vulnerabilities, including two critical vulnerabilities that can be exploited without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breached Colonial Pipeline Using Compromised VPN Password<a href="https://thehackernews.com/2021/06/hackers-breached-colonial-pipeline.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware cartel that masterminded the  Colonial Pipeline attack  early last month crippled the pipeline operator's network using a compromised virtual private network (VPN) account password, the latest investigation into the incident has revealed.  The development, which was  reported  by Bloomberg on Friday, involved gaining an initial foothold into the networks as early as April 29 through the VPN account, which allowed employees to access the company's networks remotely.  The VPN login was unused but active at the time of the attack, the report said, adding the password has since been discovered inside a batch of leaked passwords on the dark web, suggesting that an employee of the company may have reused the same password on another account that was previously breached.  It's, however, unclear how the password was obtained, Charles Carmakal, senior vice president at the cybersecurity firm Mandiant, was quoted as saying to the publication. The FireEye-owned subsidi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Incident Sparks 'Help Desk' Phishing Attacks<a href="https://www.infosecurity-magazine.com:443/news/colonial-pipeline-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers are now using the notoriety of the Colonial Pipeline ransomware attack to wage further phishing campagns
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found an RCE vulnerability in QNAP Q’center<a href="https://securityaffairs.co/wordpress/118668/hacking/qnap-qcenter-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at cybersecurity firm Shielder discovered a remote code execution on QNAP Q’center through a manipulated QPKG installation package.
+
+
+
+Researchers at cybersecurity firm Shielder discovered a remote code execution flaw on QNAP Q’center...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australians spent $20.5m in cryptocurrency to pay scammers in 2020<a href="https://www.zdnet.com/article/australians-spent-au26-5m-in-cryptocurrency-to-pay-scammers-in-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australians in 2020 reported losses to scams totaled $660 million, with $99.36 million lost to BEC, $6.52 million classed as remote access scams, and $2.41 million as a result of identity theft.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latvian Woman Charged for Her Role in Creating Trickbot Banking Malware<a href="https://thehackernews.com/2021/06/latvian-woman-charged-for-her-role-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Friday charged a Latvian woman for her alleged role as a programmer in a cybercrime gang that helped develop TrickBot malware.  The woman in question, Alla Witte , aka Max, 55, who resided in Paramaribo, Suriname, was arrested in Miami, Florida on February 6. Witte has been charged with 19 counts, including conspiracy to commit computer fraud and aggravated identity theft, wire and bank fraud affecting a financial institution, and money laundering.  According to heavily redacted court documents released by the DoJ, Witte and 16 other unnamed cohorts have been accused of running a transnational criminal organization to develop and deploy a digital suite of malware tools with an aim to target businesses and individuals worldwide for theft and ransom.   Since its origin as a banking Trojan in late 2015,  TrickBot  has evolved into a " crimeware-as-a-service " capable of pilfering valuable personal and financial information and even droppi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latvian Woman Charged with Developing Malware for Trickbot<a href="https://www.infosecurity-magazine.com:443/news/latvian-woman-charged-developing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The indictment claimed that Alla Witte helped to develop code related to the control, deployment and payments of ransomware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybercrime forums launch contests for cryptocurrency hacks<a href="https://securityaffairs.co/wordpress/118661/hacking/cryptocurrency-hacks-contests.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals in Russian underground forums have been invited to take part in competitions for hacking cryptocurrency and NFT.
+
+
+
+Several Russian underground forums have launched competitions for hacking cryptocurrency schema and Non-fungible token...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks 'are here to stay,' Commerce secretary says<a href="https://www.politico.com/news/2021/06/06/ransomware-attacks-commerce-secretary-492005?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Commerce Secretary Gina Raimondo argued that the good news in all this was that businesses can make relatively simple changes to protect themselves against such attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning of New Ransomware Surge in Education Sector<a href="https://www.infosecurity-magazine.com:443/news/warning-new-ransomware-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has led to the loss of student coursework, school financial records and data relating to COVID-19 testing
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Justice Department accuses Latvian national of deploying Trickbot malware<a href="https://www.zdnet.com/article/us-justice-department-accuses-latvian-national-of-creating-and-deploying-trickbot-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoJ charged a Latvian woman for her alleged role in creating and deploying Trickbot, the computer banking trojan that has evolved to become a highly popular form of malware among cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STUN Servers Increasingly Exploited for DDoS-for-Hire Services<a href="https://www.securityweek.com/organizations-warned-stun-servers-increasingly-abused-ddos-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NETSCOUT warned organizations that STUN servers have been increasingly abused for DDoS attacks, and there are tens of thousands of servers that could be abused for such attacks by malicious actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EpsilonRed Ransomware Group Targets India-based Financial Software Provider Nucleus Software Exports<a href="https://therecord.media/epsilonred-ransomware-group-hits-one-of-indias-financial-software-powerhouses/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Indian company that provides lending software to banks and retail stores suffered a major ransomware attack that crippled some of its internal networks and encrypted sensitive business information.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Group is Evolving; A Matter to be Worried About<a href="https://cyware.com/news/kimsuky-apt-group-is-evolving-a-matter-to-be-worried-about-4d6e5f76"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean APT group Kimsuky, also known as Thallium, Black Banshee, and Velvet Chollim, has been found adopting new TTPs as it continues to launch espionage attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Covid vaccine SMS scam targets Indian users<a href="https://ciso.economictimes.indiatimes.com/news/this-is-the-new-covid-vaccine-sms-scam-you-need-to-be-careful-of/83224186?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware is spreading through SMS by luring people to click on a link impersonating a free registration website for the COVID-19 vaccination program in India.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

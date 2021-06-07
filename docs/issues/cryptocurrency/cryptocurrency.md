@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybercrime forums launch contests for cryptocurrency hacks<a href="https://securityaffairs.co/wordpress/118661/hacking/cryptocurrency-hacks-contests.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals in Russian underground forums have been invited to take part in competitions for hacking cryptocurrency and NFT.
+
+
+
+Several Russian underground forums have launched competitions for hacking cryptocurrency schema and Non-fungible token...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
