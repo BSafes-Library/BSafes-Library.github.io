@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI Claws Back Millions of DarkSide’s Ransom Profits<a href="https://threatpost.com/fbi-claws-back-millions-darksides-ransom/166705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tables have been turned, the FBI & DOJ said after announcing the use of blockchain technology to track down the contents of DarkSide’s cryptocurrency wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New grant program will split $3M in cyber services among six US school districts<a href="https://www.scmagazine.com/home/security-news/ransomware/new-grant-program-will-split-3m-in-cyber-services-among-six-us-school-districts/"> Full Text</a>
 </p>
 <details>
