@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Attempting to Reign on Cloud-based Platforms<a href="https://cyware.com/news/teamtnt-attempting-to-reign-on-cloud-based-platforms-bc305642"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT is targeting the credentials of 16 cloud-based platforms, including AWS and Google Cloud, which it uses for its illegitimate cryptojacking operations.&nbsp;Organizations are recommended to proactively block the network connections and C2 endpoints associated with TeamTNT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoviePass Operators Settle Data Security Allegations<a href="https://www.infosecurity-magazine.com:443/news/moviepass-settles-ftc-allegations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators of defunct app settle alleged fraud and data security failures with FTC
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
