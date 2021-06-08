@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SystemBC Malware Hides Behind Socks5 Proxy<a href="https://blog.minerva-labs.com/systembc-malware-hides-behind-socks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The injector used by the malware is also obfuscated with a compiler-based technique named control flow flattening, which modifies the normal flow of the program and makes static analysis impossible.
+</details>
+<div style="text-align: right" markdown="1">
+Minerva Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois County Stricken with Grief<a href="https://www.infosecurity-magazine.com:443/news/illinois-county-stricken-with-grief/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grief ransomware gang claims to have stolen 2.5GB of personal data from St. Clair
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 States Bolster Data Security Technology in Response to Covid-19, Survey Finds<a href="https://www.nextgov.com/cybersecurity/2021/06/states-add-new-security-data-protection-technology-response-pandemic-survey-finds/174539/?&web_view=true"> Full Text</a>
 </p>
 <details>
