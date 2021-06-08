@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers vs. lawyers: Security research stifled in key situations<a href="https://searchsecurity.techtarget.com/feature/Hackers-vs-lawyers-Security-research-stifled-in-key-situations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many in the security research community continue to be frustrated with the legal walls that prevent them from sharing their findings with both other companies and the outside world.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline CEO grilled over ransomware attack<a href="https://thehill.com//policy/energy-environment/557381-colonial-pipeline-ceo-grilled-over-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline President and CEO Joseph Blount was grilled by lawmakers Tuesday on his decision to pay hackers in a ransomware attack that forced a temporary shutdown of operations — and led to gas shortages in parts of the country.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Attempting to Reign on Cloud-based Platforms<a href="https://cyware.com/news/teamtnt-attempting-to-reign-on-cloud-based-platforms-bc305642"> Full Text</a>
 </p>
 <details>
