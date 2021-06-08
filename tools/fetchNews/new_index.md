@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe issues security updates for 41 vulnerabilities in 10 products<a href="https://www.bleepingcomputer.com/news/security/adobe-issues-security-updates-for-41-vulnerabilities-in-10-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a giant Patch Tuesday security update release that fixes vulnerabilities in ten applications, including Adobe Acrobat, Reader, and Photoshop.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FreakOut Reloaded with New Exploits to Target its Victims<a href="https://cyware.com/news/freakout-reloaded-with-new-exploits-to-target-its-victims-bee54fe8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FreakOut, the multi-platform Python-based malware that targets Windows and Linux devices, has been updated. The malware is now upgraded to worm its way into publicly exposed unpatched VMware servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
