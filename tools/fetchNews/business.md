@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity verification company Trulioo lands $394M<a href="https://venturebeat.com/2021/06/07/identity-verification-company-trulioo-lands-394m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online identity verification platform Trulioo has closed a $394 million series D round of funding at a $1.75 billion valuation. The round was led by growth equity firm TCV.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualys Announces Passing of Philippe Courtot, it's CEO of the Past 20 Years<a href="https://www.infosecurity-magazine.com:443/news/qualys-passing-philippe-courtot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Courtot became CEO of Qualys in 2001, leading its global expansion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

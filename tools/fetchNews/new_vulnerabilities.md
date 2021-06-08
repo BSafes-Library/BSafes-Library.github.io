@@ -11,6 +11,20 @@ nav_order: 900220
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NSW Health confirms data breached due to Accellion vulnerability<a href="https://www.zdnet.com/article/nsw-health-confirms-data-breached-due-to-accellion-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Accellion FTA file sharing system was widely used to share and store files by organizations around the world, including NSW Health, the government entity said on Friday afternoon.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical zero-day vulnerabilities found in ‘unsupported’ Fedena school management software<a href="https://portswigger.net/daily-swig/critical-zero-day-vulnerabilities-found-in-unsupported-fedena-school-management-software?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

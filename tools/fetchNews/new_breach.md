@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RockYou2021: largest password compilation of all time leaked online with 8.4 billion entries<a href="https://securityaffairs.co/wordpress/118696/data-breach/rockyou2021-largest-password-compilation-of-all-time-leaked-online-with-8-4-billion-entries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RockYou2021, the largest password compilation of all time has been leaked on a popular hacker forum, it contains 8.4 billion entries of passwords.&nbsp;
+
+
+
+Original post at: https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked/
+
+
+
+What...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US truck and military vehicle maker Navistar discloses data breach<a href="https://www.bleepingcomputer.com/news/security/us-truck-and-military-vehicle-maker-navistar-discloses-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Navistar International Corporation (Navistar), a US-based maker of trucks and military vehicles, says that unknown attackers have stolen data&nbsp;from its network following a cybersecurity incident discovered at the end of last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

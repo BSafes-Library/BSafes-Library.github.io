@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers most of Colonial Pipeline's $4.4M ransomware payment<a href="https://www.bleepingcomputer.com/news/security/us-recovers-most-of-colonial-pipelines-44m-ransomware-payment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has recovered the majority of the $4.4 million ransom payment paid by Colonial Pipeline to the DarkSide ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California City Hid Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/california-city-hid-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azusa kept quiet about ransomware attack that netted cyber-criminals $65K
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

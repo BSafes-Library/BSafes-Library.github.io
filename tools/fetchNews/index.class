@@ -34,6 +34,402 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency recovered from Colonial deal | Google settles French ad case | Republicans under pressure over tech donations<a href="https://thehill.com//policy/technology/overnights/557227-hillicon-valley-cryptocurrency-recovered-from-colonial-deal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of dollars in cryptocurrency paid out by Colonial Pipeline have been recovered, American authorities announced Monday; reports have suggested that roughly $2.3 million were gotten back from the DarkSide network. In other news, Google settled an antitrust case with French authorities over its ad market dominance.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RockYou2021: largest password compilation of all time leaked online with 8.4 billion entries<a href="https://securityaffairs.co/wordpress/118696/data-breach/rockyou2021-largest-password-compilation-of-all-time-leaked-online-with-8-4-billion-entries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RockYou2021, the largest password compilation of all time has been leaked on a popular hacker forum, it contains 8.4 billion entries of passwords. 
+
+
+
+Original post at: https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked/
+
+
+
+What...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT attacks IAM credentials of AWS and Google Cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/teamtnt-attacks-iam-credentials-of-aws-and-google-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors that targeted AWS cloud environments are now also targeting the credentials of 16 additional applications, including the AWS apps as well as Google Cloud credentials.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds recover $2.3 million from Colonial Pipeline ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/feds-recover-2-3-million-from-colonial-pipeline-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The announcement is compelling, as the public and private sector alike struggle to manage the response to a recent surge of ransomware attacks. More frequent recovery of funds after a ransom payment could shift the risk dynamic associated with these attacks for the business community, while also removing the financial incentive for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Claws Back Millions of DarkSide’s Ransom Profits<a href="https://threatpost.com/fbi-claws-back-millions-darksides-ransom/166705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tables have been turned, the FBI & DOJ said after announcing the use of blockchain technology to track down the contents of DarkSide’s cryptocurrency wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New grant program will split $3M in cyber services among six US school districts<a href="https://www.scmagazine.com/home/security-news/ransomware/new-grant-program-will-split-3m-in-cyber-services-among-six-us-school-districts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fifty percent of the districts that applied for the grant said they have less than $100,000 allocated annually toward cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers most of Colonial Pipeline's $4.4M ransomware payment<a href="https://www.bleepingcomputer.com/news/security/us-recovers-most-of-colonial-pipelines-44m-ransomware-payment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has recovered the majority of the $4.4 million ransom payment paid by Colonial Pipeline to the DarkSide ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Group Gunning for Musk<a href="https://www.infosecurity-magazine.com:443/news/hacker-group-gunning-for-musk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous blasts billionaire for “superiority complex” and alleged Bitcoin trolling
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers millions in cryptocurrency paid to Colonial Pipeline hackers: report<a href="https://thehill.com//policy/cybersecurity/557185-us-recovers-millions-in-cryptocurrency-paid-to-colonial-pipeline-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. investigators have recovered millions of dollars in cryptocurrency that Colonial Pipeline paid hackers last month to end a ransomware attack on its systems, according to CNN.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siloscape, first known malware that drops a backdoor into Kubernetes clusters<a href="https://securityaffairs.co/wordpress/118690/cyber-crime/siloscape-backdoor-kubernetes-clusters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siloscape is a new strain of malware that targets Windows Server containers to execute code on the underlying node and spread in the Kubernetes cluster.
+
+
+
+Researchers from Palo Alto Networks have spotted a piece of malware that targets Windows Server...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel ‘Victory’ Backdoor Spotted in Chinese APT Campaign<a href="https://threatpost.com/victory-backdoor-apt-campaign/166700/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers said the malware has been under development for at least three years.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands on with Norton antivirus Ethereum mining: The good and the bad<a href="https://www.bleepingcomputer.com/news/cryptocurrency/hands-on-with-norton-antivirus-ethereum-mining-the-good-and-the-bad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, NortonLifelock announced that the Norton 360 antivirus suite would soon be able to mine Ethereum cryptocurrency while the computer is idle. In this article, we go hands-on with the new 'Norton Crypto' feature to show what's good about it and what's bad.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Container Malware Targets Kubernetes Clusters<a href="https://threatpost.com/windows-containers-malware-targets-kubernetes/166692/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Siloscape”, the first malware to target Windows containers, breaks out of Kubernetes clusters to plant backdoors and raid nodes for credentials. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The cost of ransomware attacks worldwide will go beyond $265 billion in the next decade<a href="https://www.zdnet.com/article/the-cost-of-ransomware-around-the-globe-to-go-beyond-265-billion-in-the-next-decade/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is one of the most potentially damaging and very popular types of malware. The cost of ransomware incidents worldwide is expected to spiral out of control, exceeding $265 billion by 2031.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's FLoC: Privacy Gone Amok?<a href="https://www.infosecurity-magazine.com:443/news/googles-floc-privacy-gone-amok/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s cookie replacement, FLoC, is coming under heavy criticism from privacy experts.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US truck and military vehicle maker Navistar discloses data breach<a href="https://www.bleepingcomputer.com/news/security/us-truck-and-military-vehicle-maker-navistar-discloses-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Navistar International Corporation (Navistar), a US-based maker of trucks and military vehicles, says that unknown attackers have stolen data from its network following a cybersecurity incident discovered at the end of last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSW Health confirms data breached due to Accellion vulnerability<a href="https://www.zdnet.com/article/nsw-health-confirms-data-breached-due-to-accellion-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Accellion FTA file sharing system was widely used to share and store files by organizations around the world, including NSW Health, the government entity said on Friday afternoon.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudQuest Acquired by Deloitte<a href="https://www.infosecurity-magazine.com:443/news/cloudquest-acquired-by-deloitte/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deloitte snaps up Silicon Valley–based security posture management provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California City Hid Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/california-city-hid-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azusa kept quiet about ransomware attack that netted cyber-criminals $65K
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Siloscape malware targets Windows containers and highlights security pitfalls<a href="https://www.scmagazine.com/featured/new-siloscape-malware-targets-windows-containers-and-highlights-security-pitfalls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Palo Alto Unit 42 have discovered what they think is the first malware strain known to target Windows cloud containers. In new research unveiled June 7, senior security researcher Daniel Prizmant wrote that the malware, called Siloscape, attacks misconfigured Kubernetes clusters and allows for the creation of malicious containers that a threat actor…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Organizations Hit by Massive Russian Spear-Phishing Campaign<a href="https://therecord.media/ukraine-warns-of-massive-russian-spear-phishing-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spear-phishing attack campaign took place in early June last week, according to alerts published by the Ukrainian Secret Service, Ukrainian Cyber Police, and CERT Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shifting the focus from reactive to proactive, with human-led secure coding<a href="https://thehackernews.com/2021/06/shifting-focus-from-reactive-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The same 10 software vulnerabilities have caused more security breaches in the last 20+ years than any others. And yet, many businesses still opt for post-breach, post-event remediation, muddling through the human and business ramifications of it all. But now,  a new research study  points to a new, human-led direction.  ‍ The following discusses insights derived from a study conducted by Secure Code Warrior with Evans Data Corp titled 'Shifting from reaction to prevention: The changing face of application security' (2021) exploring developers attitudes towards secure coding, secure code practices, and security operations.  Read the report.  ‍‍In the study, developers and development managers were asked about their common secure coding practices. The top three methods highlighted were:   Scanning applications for irregularities or vulnerabilities after they are deployed  Scrutinizing write code to inspect for irregularities or vulnerabilities  The reuse of pre-approved code th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finally! A Cybersecurity Safety Review Board<a href="https://www.lawfareblog.com/finally-cybersecurity-safety-review-board"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The creation of the Cyber Safety Review Board is a good first step, but additional action can magnify the value the board offers.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea Under Major Cyberattacks in Pandemic's Era<a href="https://news.softpedia.com/news/south-korea-under-major-cyberattacks-in-pandemic-s-online-era-533147.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea Ransomware attacks have escalated over the past year in South Korea, crippling hospitals and shopping malls, as the coronavirus outbreak has increased Internet activity, according to Ciso.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

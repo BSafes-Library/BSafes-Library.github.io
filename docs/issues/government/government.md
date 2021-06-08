@@ -11,6 +11,20 @@ nav_order: 900075
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI Claws Back Millions of DarkSide’s Ransom Profits<a href="https://threatpost.com/fbi-claws-back-millions-darksides-ransom/166705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tables have been turned, the FBI &amp; DOJ said after announcing the use of blockchain technology to track down the contents of DarkSide’s cryptocurrency wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks 'are here to stay,' Commerce secretary says<a href="https://www.politico.com/news/2021/06/06/ransomware-attacks-commerce-secretary-492005?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

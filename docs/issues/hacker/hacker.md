@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT attacks IAM credentials of AWS and Google Cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/teamtnt-attacks-iam-credentials-of-aws-and-google-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors that targeted AWS cloud environments are now also targeting the credentials of 16 additional applications, including the AWS apps as well as Google Cloud credentials.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Group Gunning for Musk<a href="https://www.infosecurity-magazine.com:443/news/hacker-group-gunning-for-musk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous blasts billionaire for “superiority complex” and alleged Bitcoin trolling
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

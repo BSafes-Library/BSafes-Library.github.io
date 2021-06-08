@@ -11,6 +11,20 @@ nav_order: 900030
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+South Korea Under Major Cyberattacks in Pandemic's Era<a href="https://news.softpedia.com/news/south-korea-under-major-cyberattacks-in-pandemic-s-online-era-533147.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea Ransomware attacks have escalated over the past year in South Korea, crippling hospitals and shopping malls, as the coronavirus outbreak has increased Internet activity, according to Ciso.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Covid vaccine SMS scam targets Indian users<a href="https://ciso.economictimes.indiatimes.com/news/this-is-the-new-covid-vaccine-sms-scam-you-need-to-be-careful-of/83224186?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands on with Norton antivirus Ethereum mining: The good and the bad<a href="https://www.bleepingcomputer.com/news/cryptocurrency/hands-on-with-norton-antivirus-ethereum-mining-the-good-and-the-bad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, NortonLifelock announced that the Norton 360 antivirus suite would soon be able to mine Ethereum cryptocurrency while the computer is idle. In this article, we go hands-on with the new 'Norton Crypto' feature to show what's good about it and what's bad.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

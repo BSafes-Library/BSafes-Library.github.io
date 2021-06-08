@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical zero-day vulnerabilities found in ‘unsupported’ Fedena school management software<a href="https://portswigger.net/daily-swig/critical-zero-day-vulnerabilities-found-in-unsupported-fedena-school-management-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fedena, an open-source school and college management system, contains seven security vulnerabilities, including two critical vulnerabilities that can be exploited without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found an RCE vulnerability in QNAP Q’center<a href="https://securityaffairs.co/wordpress/118668/hacking/qnap-qcenter-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at cybersecurity firm Shielder discovered a remote code execution on QNAP Q’center through a manipulated QPKG installation package.
+
+
+
+Researchers at cybersecurity firm Shielder discovered a remote code execution flaw on QNAP Q’center...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

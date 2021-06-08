@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning of New Ransomware Surge in Education Sector<a href="https://www.infosecurity-magazine.com:443/news/warning-new-ransomware-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has led to the loss of student coursework, school financial records and data relating to COVID-19 testing
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EpsilonRed Ransomware Group Targets India-based Financial Software Provider Nucleus Software Exports<a href="https://therecord.media/epsilonred-ransomware-group-hits-one-of-indias-financial-software-powerhouses/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Indian company that provides lending software to banks and retail stores suffered a major ransomware attack that crippled some of its internal networks and encrypted sensitive business information.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

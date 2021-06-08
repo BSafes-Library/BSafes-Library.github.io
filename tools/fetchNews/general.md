@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australians spent $20.5m in cryptocurrency to pay scammers in 2020<a href="https://www.zdnet.com/article/australians-spent-au26-5m-in-cryptocurrency-to-pay-scammers-in-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australians in 2020 reported losses to scams totaled $660 million, with $99.36 million lost to BEC, $6.52 million classed as remote access scams, and $2.41 million as a result of identity theft.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
