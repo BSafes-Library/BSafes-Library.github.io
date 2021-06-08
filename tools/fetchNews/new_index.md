@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial Pipeline CEO grilled over ransomware attack | Senate debates sweeping Chinese competitiveness bill | Ohio files lawsuit to declare Google a public utility<a href="https://thehill.com//policy/cybersecurity/overnights/557436-hillicon-valley-colonial-pipeline-ceo-grilled-over-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline’s top executive appeared on Capitol Hill Tuesday at the first of two hearings on the recent ransomware attack that forced the company to shut down operations and led to gas shortages. Meanwhile, the Senate debated approving the massive bipartisan U.S. Innovation and Competition Act, and Ohio Attorney General Dave Yost (R) filed a lawsuit to classify Google as a public utility and make it subject to government regulation. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
