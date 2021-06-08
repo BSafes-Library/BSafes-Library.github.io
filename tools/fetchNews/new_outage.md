@@ -8,6 +8,52 @@ nav_order: 900140
 
 ## Outage
 ---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackOverflow, Twitch, Reddit, others down in Fastly CDN outage<a href="https://www.bleepingcomputer.com/news/security/stackoverflow-twitch-reddit-others-down-in-fastly-cdn-outage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major websites around the world are either completely down or not loading properly in a global outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Parts of Internet Offline Today Following Cloud Provider Issue<a href="https://www.infosecurity-magazine.com:443/news/internet-offline-cloud-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A failure in Fastly's CDN system led to a number of major websites going offline earlier today
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spotify, PayPal, GitHub, and other major websites down due to Fastly CDN outage<a href="https://securityaffairs.co/wordpress/118732/breaking-news/fastly-cdn-outage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large number of popular websites including Reddit, Spotify, PayPal, GitHub, gov.uk, CNN, and the BBC are currently facing problems due to a glitch at&nbsp;Fastly CDN provider.
+
+
+
+A large number of popular websites, including BCC, CNN, GitHub, gov.uk, HBO Max,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

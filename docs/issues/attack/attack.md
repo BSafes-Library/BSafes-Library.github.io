@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Military Vehicles Maker Navistar Reports Data-Theft Cyberattack<a href="https://www.securityweek.com/military-vehicles-maker-navistar-reports-data-theft-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Form 8-K filing with the Securities and Exchange Commission (SEC), Navistar said it learned of a credible potential cybersecurity threat to its information technology system on May 20, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900160
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Organizations Hit by Massive Russian Spear-Phishing Campaign<a href="https://therecord.media/ukraine-warns-of-massive-russian-spear-phishing-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spear-phishing attack campaign took place in early June last week, according to alerts published by the Ukrainian Secret Service, Ukrainian Cyber Police, and CERT Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russia behind a massive spear-phishing campaign that hit Ukraine<a href="https://securityaffairs.co/wordpress/118675/apt/ukraine-hit-russia-spear-phishing.html"> Full Text</a>
 </p>
 <details>

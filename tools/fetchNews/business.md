@@ -11,6 +11,20 @@ nav_order: 900027
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CloudQuest Acquired by Deloitte<a href="https://www.infosecurity-magazine.com:443/news/cloudquest-acquired-by-deloitte/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deloitte snaps up Silicon Valley–based security posture management provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Identity verification company Trulioo lands $394M<a href="https://venturebeat.com/2021/06/07/identity-verification-company-trulioo-lands-394m/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

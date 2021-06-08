@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security vulnerability in Hyperkitty could expose private data<a href="https://portswigger.net/daily-swig/security-vulnerability-in-hyperkitty-could-expose-private-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyperkitty, a web interface for the popular open source mailing list and newsletter management service Mailman, has patched a critical bug that revealed private mailing lists while importing them.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UAF Vulnerability Affecting Microsoft Office to be Patched Today<a href="https://thehackernews.com/2021/06/new-uaf-vulnerability-affecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four security vulnerabilities discovered in the Microsoft Office suite, including Excel and Office online, could be potentially abused by bad actors to deliver attack code via Word and Excel documents.  "Rooted from legacy code, the vulnerabilities could have granted an attacker the ability to execute code on targets via malicious Office documents, such as Word, Excel and Outlook," researchers from Check Point research said in a report published  today.  Three of the four flaws — tracked as CVE-2021-31174, CVE-2021-31178, CVE-2021-31179 — have been fixed by Microsoft as part of its Patch Tuesday update  for May 2021, with the fourth patch (CVE-2021-31939) to be issued in June's update rolling out later today.   In a hypothetical attack scenario, the researchers said the vulnerability could be triggered as simply as opening a malicious Excel (.XLS) file that's served via a download link or an email.  Arising out of parsing mistakes made in legacy code found in Excel 9
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

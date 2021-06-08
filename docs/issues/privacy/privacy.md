@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Privacy and Security Features Apple Announced at WWDC 2021<a href="https://thehackernews.com/2021/06/top-10-privacy-and-security-features.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday announced a number of&nbsp; privacy and security-centric features &nbsp;to its upcoming versions of&nbsp; iOS &nbsp;and&nbsp; macOS &nbsp;at its all-online Worldwide Developers Conference.  Here is a quick look at some of the big-ticket changes that are expected to debut later this fall:  1&nbsp; — Just Patches, Not Entire OS Update Every Time: &nbsp;As&nbsp; rumored before , users now have a choice between two software update versions in the Settings app. Users can either opt to update to the latest version of iOS 15 for all the latest features and most complete set of security updates or continue on iOS 14 and still get important security updates until they are ready to migrate to the next major version.  2&nbsp; —&nbsp; Built-in 2-Factor Authenticator: &nbsp;The new versions of iOS and macOS come with new options that allow users to generate two-factor authentication codes for each of the online accounts saved to iCloud Keychain (Settings &gt; Passwords) without the need for downloading additional apps like Google Authentica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

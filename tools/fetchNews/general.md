@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency recovered from Colonial deal | Google settles French ad case | Republicans under pressure over tech donations<a href="https://thehill.com//policy/technology/overnights/557227-hillicon-valley-cryptocurrency-recovered-from-colonial-deal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of dollars in cryptocurrency paid out by Colonial Pipeline have been recovered, American authorities announced Monday; reports have suggested that roughly $2.3 million were gotten back from the DarkSide network. In other news, Google settled an antitrust case with French authorities over its ad market dominance.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New grant program will split $3M in cyber services among six US school districts<a href="https://www.scmagazine.com/home/security-news/ransomware/new-grant-program-will-split-3m-in-cyber-services-among-six-us-school-districts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fifty percent of the districts that applied for the grant said they have less than $100,000 allocated annually toward cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers millions in cryptocurrency paid to Colonial Pipeline hackers: report<a href="https://thehill.com//policy/cybersecurity/557185-us-recovers-millions-in-cryptocurrency-paid-to-colonial-pipeline-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. investigators have recovered millions of dollars in cryptocurrency that Colonial Pipeline paid hackers last month to end a ransomware attack on its systems,&nbsp;according to CNN.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The cost of ransomware attacks worldwide will go beyond $265 billion in the next decade<a href="https://www.zdnet.com/article/the-cost-of-ransomware-around-the-globe-to-go-beyond-265-billion-in-the-next-decade/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is one of the most potentially damaging and very popular types of malware. The cost of ransomware incidents worldwide is expected to spiral out of control, exceeding $265 billion by 2031.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shifting the focus from reactive to proactive, with human-led secure coding<a href="https://thehackernews.com/2021/06/shifting-focus-from-reactive-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The same 10 software vulnerabilities have caused more security breaches in the last 20+ years than any others. And yet, many businesses still opt for post-breach, post-event remediation, muddling through the human and business ramifications of it all. But now,&nbsp; a new research study &nbsp;points to a new, human-led direction.  ‍ The following discusses insights derived from a study conducted by Secure Code Warrior with Evans Data Corp titled 'Shifting from reaction to prevention: The changing face of application security' (2021) exploring developers attitudes towards secure coding, secure code practices, and security operations.&nbsp; Read the report.  ‍‍In the study, developers and development managers were asked about their common secure coding practices. The top three methods highlighted were:   Scanning applications for irregularities or vulnerabilities after they are deployed  Scrutinizing write code to inspect for irregularities or vulnerabilities  The reuse of pre-approved code th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finally! A Cybersecurity Safety Review Board<a href="https://www.lawfareblog.com/finally-cybersecurity-safety-review-board"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The creation of the Cyber Safety Review Board is a good first step, but additional action can magnify the value the board offers.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

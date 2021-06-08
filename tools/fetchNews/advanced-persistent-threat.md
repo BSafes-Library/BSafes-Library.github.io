@@ -11,6 +11,20 @@ nav_order: 900010
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Novel ‘Victory’ Backdoor Spotted in Chinese APT Campaign<a href="https://threatpost.com/victory-backdoor-apt-campaign/166700/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers said the malware has been under development for at least three years.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky APT Group is Evolving; A Matter to be Worried About<a href="https://cyware.com/news/kimsuky-apt-group-is-evolving-a-matter-to-be-worried-about-4d6e5f76"> Full Text</a>
 </p>
 <details>
