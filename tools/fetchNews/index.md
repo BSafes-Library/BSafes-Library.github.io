@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office MSGraph vulnerability could lead to code execution<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-msgraph-vulnerability-could-lead-to-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today will release a patch for a vulnerability affecting the Microsoft Office MSGraph component, responsible for displaying graphics and charts, that could be exploited to execute code on a target machine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations without vulnerability disclosure policies failing to address researchers’ security warnings<a href="https://portswigger.net/daily-swig/get-the-message-organizations-without-vulnerability-disclosure-policies-failing-to-address-researchers-security-warnings?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Up to a third of all security flaws reported to organizations with no vulnerability disclosure policy (VDP) are not being patched due to failings in the disclosure process, a new report suggests.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horizon3.ai looks to expand NodeZero tech with new funding<a href="https://www.scmagazine.com/home/security-news/horizon3-ai-looks-to-expand-nodezero-tech-with-new-funding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3.ai wants to change the way companies address cyberattacks through automation, announcing a new round of funding of $8.5 million led by SignalFire. The cash infusion is a combination of two rounds of funding – a seed funding of $3 million and Series A funding of $5.5 million. According to Antani, the funding will be…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and AFP created a fake encrypted chat platform to catch criminals<a href="https://www.bleepingcomputer.com/news/security/fbi-and-afp-created-a-fake-encrypted-chat-platform-to-catch-criminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the largest and most sophisticated law enforcement operations to date, a joint international law enforcement created a fake end-to-end encrypted chat platform designed solely to catch criminals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York City’s Law Department Suffers Network Outage Following Ransomware Attack<a href="https://www.nytimes.com/2021/06/07/nyregion/cyberattack-law-department-nyc.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+City officials said they had disconnected the Law Department computers from the city’s larger network on Sunday afternoon. It remained unclear who was behind the incident, according to an official.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
