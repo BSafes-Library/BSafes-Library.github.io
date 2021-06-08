@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 targeted by PuzzleMaker hackers using Chrome zero-days<a href="https://www.bleepingcomputer.com/news/security/windows-10-targeted-by-puzzlemaker-hackers-using-chrome-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky security researchers discovered a new threat actor dubbed PuzzleMaker, who has used a chain of Google Chrome and Windows 10 zero-day exploits in highly-targeted attacks against multiple companies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
