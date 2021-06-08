@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Proofpoint rolls out full-featured, cloud-native security platform<a href="https://www.scmagazine.com/home/security-news/cloud-security/proofpoint-rolls-out-full-featured-cloud-native-security-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s new cloud platform was developed from its extensive experience managing and analyzing email traffic. Proofpoint claims that every day it analyzes more than 2.2 billion email messages, 35 billion URLs, 200 million attachments, and 35 million cloud accounts.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday Fixes 6 In-The-Wild Exploits, 50 Flaws<a href="https://threatpost.com/microsoft-patch-tuesday-in-the-wild-exploits/166724/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a highly targeted malware campaign launched in April, in which a new, unknown threat actor used two of the vulnerabilities that Microsoft said are under active attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 2021 Women in IT Security: Call for nominations<a href="https://www.scmagazine.com/women-in-it-security/2021-women-in-it-security-call-for-nominations/"> Full Text</a>
 </p>
 <details>
