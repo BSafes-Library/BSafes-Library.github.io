@@ -34,7 +34,435 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2021
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackOverflow, Twitch, Reddit, others down in Fastly CDN outage<a href="https://www.bleepingcomputer.com/news/security/stackoverflow-twitch-reddit-others-down-in-fastly-cdn-outage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major websites around the world are either completely down or not loading properly in a global outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security vulnerability in Hyperkitty could expose private data<a href="https://portswigger.net/daily-swig/security-vulnerability-in-hyperkitty-could-expose-private-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyperkitty, a web interface for the popular open source mailing list and newsletter management service Mailman, has patched a critical bug that revealed private mailing lists while importing them.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five key parts of the Senate's sweeping China competitiveness bill<a href="https://thehill.com//policy/technology/557257-five-key-parts-of-the-senates-sweeping-china-competitiveness-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate is poised to approve bipartisan legislation Tuesday afternoon that would invest billions to put the U.S. on more even footing with China on a range of emerging technology issues, including addressing the semiconductor shortage and funding critical research.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UAF Vulnerability Affecting Microsoft Office to be Patched Today<a href="https://thehackernews.com/2021/06/new-uaf-vulnerability-affecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four security vulnerabilities discovered in the Microsoft Office suite, including Excel and Office online, could be potentially abused by bad actors to deliver attack code via Word and Excel documents.  "Rooted from legacy code, the vulnerabilities could have granted an attacker the ability to execute code on targets via malicious Office documents, such as Word, Excel and Outlook," researchers from Check Point research said in a report published  today.  Three of the four flaws — tracked as CVE-2021-31174, CVE-2021-31178, CVE-2021-31179 — have been fixed by Microsoft as part of its Patch Tuesday update  for May 2021, with the fourth patch (CVE-2021-31939) to be issued in June's update rolling out later today.   In a hypothetical attack scenario, the researchers said the vulnerability could be triggered as simply as opening a malicious Excel (.XLS) file that's served via a download link or an email.  Arising out of parsing mistakes made in legacy code found in Excel 9
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Parts of Internet Offline Today Following Cloud Provider Issue<a href="https://www.infosecurity-magazine.com:443/news/internet-offline-cloud-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A failure in Fastly's CDN system led to a number of major websites going offline earlier today
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spotify, PayPal, GitHub, and other major websites down due to Fastly CDN outage<a href="https://securityaffairs.co/wordpress/118732/breaking-news/fastly-cdn-outage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large number of popular websites including Reddit, Spotify, PayPal, GitHub, gov.uk, CNN, and the BBC are currently facing problems due to a glitch at Fastly CDN provider.
+
+
+
+A large number of popular websites, including BCC, CNN, GitHub, gov.uk, HBO Max,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS chooses companies to run civilian agency vulnerability disclosure programs<a href="https://www.scmagazine.com/home/security-news/government-and-defense/dhs-chooses-companies-to-run-civilian-agency-vulnerability-disclosure-programs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security announced Tuesday that it will partner with vulnerability disclosure platform Bugcrowd and government technology, environmental and safety services contractor EnDyna to provide a civilian agency vulnerability disclosure program platform.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billions of Compromised Records and Counting: Why the Application Layer is Still the Front Door for Data Breaches<a href="https://threatpost.com/billions-of-compromised-records-and-counting/166633/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams should brace for an unsettling and unprecedented year, as we’re on pace to see 40 billion records compromised by the end of 2021. Imperva’s Terry Ray explains what security teams need to do to bolster their defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seattle cybersecurity startup ExtraHop to be acquired by private equity firms in $900M deal<a href="https://www.geekwire.com/2021/seattle-cybersecurity-startup-extrahop-acquired-private-equity-firms-900m-deal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ExtraHop uses machine learning to help companies prevent, detect, and eliminate threats on their networks, operating in a sector of cybersecurity called “network detection and response.”
+</details>
+<div style="text-align: right" markdown="1">
+Geek Wire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capitol Hill vendor hit by ransomware attack: report<a href="https://thehill.com//policy/cybersecurity/557272-capitol-hill-vendor-hit-by-ransomware-attack-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A tech vendor used by dozens of House offices on Capitol Hill for constituent outreach services has reportedly been hit by a ransomware attack, becoming the latest victim in a series of cyberattacks to target U.S.-based entities.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Privacy and Security Features Apple Announced at WWDC 2021<a href="https://thehackernews.com/2021/06/top-10-privacy-and-security-features.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday announced a number of  privacy and security-centric features  to its upcoming versions of  iOS  and  macOS  at its all-online Worldwide Developers Conference.  Here is a quick look at some of the big-ticket changes that are expected to debut later this fall:  1  — Just Patches, Not Entire OS Update Every Time:  As  rumored before , users now have a choice between two software update versions in the Settings app. Users can either opt to update to the latest version of iOS 15 for all the latest features and most complete set of security updates or continue on iOS 14 and still get important security updates until they are ready to migrate to the next major version.  2  —  Built-in 2-Factor Authenticator:  The new versions of iOS and macOS come with new options that allow users to generate two-factor authentication codes for each of the online accounts saved to iCloud Keychain (Settings > Passwords) without the need for downloading additional apps like Google Authentica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Rebrands Ransomware to Escape Sanctions<a href="https://www.infosecurity-magazine.com:443/news/evil-corp-rebrands-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notorious threat group copies name of new Babuk "PayloadBin" leak site
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojan Shield, the biggest ever police operation against encrypted communications<a href="https://securityaffairs.co/wordpress/118706/cyber-crime/trojan-shield-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojan Shield operation: The FBI and Australian Federal Police ran an encrypted chat platform that was used by crime gangs and intercepted their communications. 
+
+
+
+The US Federal Bureau of Investigation (FBI), the Dutch National Police (Politie), and the Swedish...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Impersonates PayloadBin Group to Avoid Federal Sanctions<a href="https://threatpost.com/evil-corp-impersonates-payloadbin/166710/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercriminals try to pin new ransomware on Babuk Locker in an effort to fly under the radar of an ongoing FBI investigation.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit: the cautious Trojan<a href="https://securelist.com/gootkit-the-cautious-trojan/102731/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initially, it was distributed via spam and exploits kits such as Spelevo and RIG. Using spam campaigns, attackers later switched to compromised sites which trick victims into downloading the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News, social media sites hit by global internet outage<a href="https://thehill.com//policy/cybersecurity/557269-news-sites-reddit-sites-hit-by-internet-outage"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple news and social media websites were unavailable Tuesday morning, with some reports suggesting a global internet outage may have forced the sites offline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Recovers $2.3 Million Ransom Paid to Colonial Pipeline Hackers<a href="https://thehackernews.com/2021/06/us-recovers-23-million-ransom-paid-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major blow, the U.S. Department of Justice on Monday said it has recovered 63.7 bitcoins (currently valued at $2.3 million) paid by Colonial Pipeline to the DarkSide ransomware extortionists on May 8, pursuant to a seizure warrant that was authorized by the Northern District of California.  The  ransomware attack  also hobbled the pipeline company's fuel supply, prompting the government to issue an  emergency declaration , even as the company shelled out a ransom amount of approximately  75 bitcoins  ($4.4 million as of May 8) to regain access to its systems.   A week after the highly publicized incident, the ransomware-as-a-service syndicate disbanded with a May 14 farewell message to affiliates, stating that its internet servers and cryptocurrency stash were  seized  by unknown law enforcement entities. While DarkSide's announcement was perceived as an exit scam, the latest move from DoJ confirms earlier speculations of law enforcement involvement.   Stating that "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Antitrust Regulator Slaps $268 Million Fine on Google<a href="https://www.infosecurity-magazine.com:443/news/french-antitrust-regulator-google/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech giant has been fined for favoring its own Google Ad Manager technologies
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US authorities recovered most of the ransom paid by Colonial Pipeline<a href="https://securityaffairs.co/wordpress/118699/cyber-crime/us-authorities-recovered-colonial-pipeline-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US officials announced to have recovered most of the $4.3 million ransom that Colonial Pipeline paid to the DarkSide ransomware gang last month.
+
+
+
+During a video press conference, US officials announced to have recovered most of the $4.3 million ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Military Vehicles Maker Navistar Reports Data-Theft Cyberattack<a href="https://www.securityweek.com/military-vehicles-maker-navistar-reports-data-theft-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Form 8-K filing with the Securities and Exchange Commission (SEC), Navistar said it learned of a credible potential cybersecurity threat to its information technology system on May 20, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ Seizes Millions in Ransom Paid by Colonial Pipeline to Darkside Hackers<a href="https://www.infosecurity-magazine.com:443/news/department-justice-seizes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department recovered roughly $2.3 million of the $4.4 million reportedly paid to the Russian group
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy Chief Cites Risk of Cyberattacks Crippling Power Grid<a href="https://www.securityweek.com/energy-chief-cites-risk-cyberattacks-crippling-power-grid?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energy Secretary Jennifer Granholm called for more public-private cooperation on cyber defenses and said adversaries already are capable of using cyber intrusions to shut down the U.S. power grid.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and Australian police ran an encrypted chat platform to catch criminal gangs<a href="https://therecord.media/fbi-and-australian-police-ran-an-encrypted-chat-platform-to-catch-criminal-gangs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Australian Federal Police ran an encrypted chat platform and intercepted secret messages between criminal gang members from all over the world for more than three years.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Publish Largest Ever Password Compilation with 8.4 Billion Entries on Hacker Forum<a href="https://securityaffairs.co/wordpress/118696/data-breach/rockyou2021-largest-password-compilation-of-all-time-leaked-online-with-8-4-billion-entries.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since most people reuse their passwords across multiple apps and websites, the number of accounts affected by credential stuffing and password spraying attacks in the wake of this leak is likely huge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Operators Struck Another Pipeline Firm LineStar Integrity Services and Leaked 70GB of Data<a href="https://www.wired.com/story/linestar-pipeline-ransomware-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xing Team posted to its dark web site a collection of files stolen from LineStar Integrity Services, which provides auditing, compliance, maintenance, and technology services to pipeline customers.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Casino Users Receive Deceptive Emails Saying They Won The Big Prize<a href="https://heimdalsecurity.com/blog/online-casino-users-receive-deceptive-emails/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, the spammers are exploiting affiliate programs to advertise online casinos such as Ducky Luck, Raging Bull Casino, Sports and Casino, using deceptive emails.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Cryptocurrency recovered from Colonial deal | Google settles French ad case | Republicans under pressure over tech donations<a href="https://thehill.com//policy/technology/overnights/557227-hillicon-valley-cryptocurrency-recovered-from-colonial-deal"> Full Text</a>
@@ -50,7 +478,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RockYou2021: largest password compilation of all time leaked online with 8.4 billion entries<a href="https://securityaffairs.co/wordpress/118696/data-breach/rockyou2021-largest-password-compilation-of-all-time-leaked-online-with-8-4-billion-entries.html"> Full Text</a>
@@ -74,7 +502,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT attacks IAM credentials of AWS and Google Cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/teamtnt-attacks-iam-credentials-of-aws-and-google-cloud/"> Full Text</a>
@@ -90,7 +518,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds recover $2.3 million from Colonial Pipeline ransom<a href="https://www.scmagazine.com/home/security-news/ransomware/feds-recover-2-3-million-from-colonial-pipeline-ransom/"> Full Text</a>
@@ -106,7 +534,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Claws Back Millions of DarkSide’s Ransom Profits<a href="https://threatpost.com/fbi-claws-back-millions-darksides-ransom/166705/"> Full Text</a>
@@ -122,7 +550,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New grant program will split $3M in cyber services among six US school districts<a href="https://www.scmagazine.com/home/security-news/ransomware/new-grant-program-will-split-3m-in-cyber-services-among-six-us-school-districts/"> Full Text</a>
@@ -138,7 +566,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2021
+June 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US recovers most of Colonial Pipeline's $4.4M ransomware payment<a href="https://www.bleepingcomputer.com/news/security/us-recovers-most-of-colonial-pipelines-44m-ransomware-payment/"> Full Text</a>
@@ -154,7 +582,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Group Gunning for Musk<a href="https://www.infosecurity-magazine.com:443/news/hacker-group-gunning-for-musk/"> Full Text</a>
@@ -170,7 +598,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2021
+June 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US recovers millions in cryptocurrency paid to Colonial Pipeline hackers: report<a href="https://thehill.com//policy/cybersecurity/557185-us-recovers-millions-in-cryptocurrency-paid-to-colonial-pipeline-hackers"> Full Text</a>
@@ -186,7 +614,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siloscape, first known malware that drops a backdoor into Kubernetes clusters<a href="https://securityaffairs.co/wordpress/118690/cyber-crime/siloscape-backdoor-kubernetes-clusters.html"> Full Text</a>
@@ -206,7 +634,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel ‘Victory’ Backdoor Spotted in Chinese APT Campaign<a href="https://threatpost.com/victory-backdoor-apt-campaign/166700/"> Full Text</a>
@@ -222,7 +650,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2021
+June 07, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hands on with Norton antivirus Ethereum mining: The good and the bad<a href="https://www.bleepingcomputer.com/news/cryptocurrency/hands-on-with-norton-antivirus-ethereum-mining-the-good-and-the-bad/"> Full Text</a>
@@ -238,7 +666,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Container Malware Targets Kubernetes Clusters<a href="https://threatpost.com/windows-containers-malware-targets-kubernetes/166692/"> Full Text</a>
@@ -254,7 +682,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The cost of ransomware attacks worldwide will go beyond $265 billion in the next decade<a href="https://www.zdnet.com/article/the-cost-of-ransomware-around-the-globe-to-go-beyond-265-billion-in-the-next-decade/?&web_view=true"> Full Text</a>
@@ -270,7 +698,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google's FLoC: Privacy Gone Amok?<a href="https://www.infosecurity-magazine.com:443/news/googles-floc-privacy-gone-amok/"> Full Text</a>
@@ -286,7 +714,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2021
+June 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US truck and military vehicle maker Navistar discloses data breach<a href="https://www.bleepingcomputer.com/news/security/us-truck-and-military-vehicle-maker-navistar-discloses-data-breach/"> Full Text</a>
@@ -302,7 +730,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSW Health confirms data breached due to Accellion vulnerability<a href="https://www.zdnet.com/article/nsw-health-confirms-data-breached-due-to-accellion-vulnerability/?&web_view=true"> Full Text</a>
@@ -318,7 +746,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CloudQuest Acquired by Deloitte<a href="https://www.infosecurity-magazine.com:443/news/cloudquest-acquired-by-deloitte/"> Full Text</a>
@@ -334,7 +762,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California City Hid Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/california-city-hid-cyberattack/"> Full Text</a>
@@ -350,7 +778,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Siloscape malware targets Windows containers and highlights security pitfalls<a href="https://www.scmagazine.com/featured/new-siloscape-malware-targets-windows-containers-and-highlights-security-pitfalls/"> Full Text</a>
@@ -366,7 +794,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Organizations Hit by Massive Russian Spear-Phishing Campaign<a href="https://therecord.media/ukraine-warns-of-massive-russian-spear-phishing-campaign/?&web_view=true"> Full Text</a>
@@ -382,7 +810,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2021
+June 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shifting the focus from reactive to proactive, with human-led secure coding<a href="https://thehackernews.com/2021/06/shifting-focus-from-reactive-to.html"> Full Text</a>
@@ -398,7 +826,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finally! A Cybersecurity Safety Review Board<a href="https://www.lawfareblog.com/finally-cybersecurity-safety-review-board"> Full Text</a>
@@ -414,7 +842,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2021
+June 7, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea Under Major Cyberattacks in Pandemic's Era<a href="https://news.softpedia.com/news/south-korea-under-major-cyberattacks-in-pandemic-s-online-era-533147.shtml?&web_view=true"> Full Text</a>
