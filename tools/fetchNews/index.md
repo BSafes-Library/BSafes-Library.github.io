@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+4 issues in Microsoft Office component allow weaponizing docs<a href="https://securityaffairs.co/wordpress/118741/breaking-news/microsoft-office-component-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found four security flaws in the Microsoft Office suite that cloud allow attackers to weaponize Word and Excel docs.
+
+
+
+Experts from Check Point discovered four security vulnerabilities in the Microsoft Office suite that an attacker could exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Coder Faces Decades in Prison<a href="https://threatpost.com/trickbot-coder-decades-prison/166732/"> Full Text</a>
 </p>
 <details>
