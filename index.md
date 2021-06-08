@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Secretly Ran a Fake Encrypted Chat App and Busted Over 800 Criminals<a href="https://thehackernews.com/2021/06/feds-secretly-ran-fake-encrypted-chat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a huge sting operation, the U.S. Federal Bureau of Investigation (FBI) and Australian Federal Police (AFP) ran an "encrypted chat" service called  ANoM  for almost 3 years to intercept 27 million messages between criminal gang members globally.  Dubbed  Operation Ironside  (AFP),  Operation Greenlight  (Europol), and  Operation Trojan Shield  (FBI), the long-term covert probe into transnational and serious organized crime culminated in the arrests of 224 offenders on 526 charges in Australia, with 55 luxury vehicles, eight tons of cocaine, 22 tons of cannabis and cannabis resin, 250 firearms, and more than $48 million in various currencies and cryptocurrencies seized in raids around the world.   A total of more than 800 arrests have been reported across 18 countries, including New Zealand, Germany, and Sweden. Europol  called  it the "biggest ever law enforcement operation against encrypted communication."   The communications allegedly involved plots to kill, m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
