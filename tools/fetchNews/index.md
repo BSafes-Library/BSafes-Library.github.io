@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unauthorized access accounts for 43% of all breaches globally<a href="https://www.helpnetsecurity.com/2021/06/08/unauthorized-access-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been a 450% surge in breaches containing usernames and passwords globally and unauthorized access accounted for 43% of all breaches globally, according to a ForgeRock report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

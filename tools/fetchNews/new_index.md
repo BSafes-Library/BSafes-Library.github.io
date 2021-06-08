@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2021 Patch Tuesday fixes 6 exploited zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2021-patch-tuesday-fixes-6-exploited-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's June 2021 Patch Tuesday, and with it comes seven zero-day vulnerabilities, so Windows admins will be scrambling to get devices secured.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SteamHide: Hiding Malware in Plain Sight<a href="https://www.gdatasoftware.com/blog/steamhide-malware-in-profile-images?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SteamHide abuses the gaming platform Steam to serve payloads for malware downloaders. Malware operators can also update already infected machines by adding new profile images to Steam.
+</details>
+<div style="text-align: right" markdown="1">
+G-Data Security Blog
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attack on NYC Law Department<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-nyc-law-department/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI is investigating unauthorized access into New York City Law Department’s IT system
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
