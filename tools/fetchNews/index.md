@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2021 Patch Tuesday fixes 6 exploited zero-days, 50 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2021-patch-tuesday-fixes-6-exploited-zero-days-50-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's June 2021 Patch Tuesday, and with it comes fixes for seven zero-day vulnerabilities and a total of 50 flaws, so Windows admins will be scrambling to get devices secured.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks on Transportation and Logistics System Witness a Surge<a href="https://cyware.com/news/cyberattacks-on-transportation-and-logistics-system-witness-a-surge-10d94d2b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past few months, organizations in the transportation and logistics sector&nbsp;saw several cyberattacks seeking disruption of operations and services. Metropolitan Transit Authority (MTA) became the most recent victim of such an attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft June 2021 Patch Tuesday fixes 6 exploited zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2021-patch-tuesday-fixes-6-exploited-zero-days/"> Full Text</a>
 </p>
 <details>
