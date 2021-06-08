@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WAGO Controller Flaws Can Allow Hackers to Disrupt Industrial Processes<a href="https://www.securityweek.com/wago-controller-flaws-can-allow-hackers-disrupt-industrial-processes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two flaws discovered in WAGO industrial controllers can be exploited to disrupt technological processes, which in some cases could lead to industrial accidents, according to Positive Technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘An0m’ Encrypted-Chat Sting Leads to Arrest of 800<a href="https://threatpost.com/an0m-encrypted-chat-sting-arrest-800/166716/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Australian law enforcement set up the encrypted chat service and ran it for over 3 years, seizing weapons, drugs and over $48m in cash.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
