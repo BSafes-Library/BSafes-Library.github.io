@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US brokerage firms warned of ongoing phishing with penalty threats<a href="https://www.bleepingcomputer.com/news/security/us-brokerage-firms-warned-of-ongoing-phishing-with-penalty-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FINRA, the US securities industry regulator, has warned brokerage firms of an ongoing phishing campaign threatening recipients with penalties unless they provide the information requested by the attackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking space: How to pwn a satellite<a href="https://www.welivesecurity.com/2021/06/07/hacking-space-how-pwn-satellite/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first bad thing that can make lots of other bad things happen is to block communication to the device, since it makes it unusually difficult to fly up to troubleshoot on the remote end.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial CEO apologizes for pipeline attack's impact<a href="https://thehill.com//policy/energy-environment/557324-colonial-ceo-apologizes-for-pipeline-attacks-impact"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline CEO Joseph Blount apologized on Tuesday for the impact of a cyberattack that shut down the major fuel provider last month. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly Two Percent of Top-Grossing Apps on App Store Found Siphoning Off $48 Million From Users<a href="https://www.washingtonpost.com/technology/2021/06/06/apple-app-store-scams-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the highest 1,000 grossing apps on the App Store, nearly two percent are scams, according to an analysis by The Washington Post. These apps have resulted in $48 million worth of losses for users.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office MSGraph vulnerability could lead to code execution<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-msgraph-vulnerability-could-lead-to-code-execution/"> Full Text</a>
 </p>
 <details>
