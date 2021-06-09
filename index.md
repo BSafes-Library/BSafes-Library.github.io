@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Colonial Pipeline CEO grilled over ransomware attack | Senate debates sweeping Chinese competitiveness bill | Ohio files lawsuit to declare Google a public utility<a href="https://thehill.com//policy/cybersecurity/overnights/557436-hillicon-valley-colonial-pipeline-ceo-grilled-over-ransomware"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proofpoint rolls out full-featured, cloud-native security platform<a href="https://www.scmagazine.com/home/security-news/cloud-security/proofpoint-rolls-out-full-featured-cloud-native-security-platform/"> Full Text</a>
@@ -66,7 +66,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday Fixes 6 In-The-Wild Exploits, 50 Flaws<a href="https://threatpost.com/microsoft-patch-tuesday-in-the-wild-exploits/166724/"> Full Text</a>
@@ -82,7 +82,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2021 Women in IT Security: Call for nominations<a href="https://www.scmagazine.com/women-in-it-security/2021-women-in-it-security-call-for-nominations/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 issues in Microsoft Office component allow weaponizing docs<a href="https://securityaffairs.co/wordpress/118741/breaking-news/microsoft-office-component-flaws.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Coder Faces Decades in Prison<a href="https://threatpost.com/trickbot-coder-decades-prison/166732/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel fixes 73 vulnerabilities in June 2021 Platform Update<a href="https://www.bleepingcomputer.com/news/security/intel-fixes-73-vulnerabilities-in-june-2021-platform-update/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Critical Android RCE Bug<a href="https://threatpost.com/android-critical-rce-bug/166723/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10 targeted by PuzzleMaker hackers using Chrome zero-days<a href="https://www.bleepingcomputer.com/news/security/windows-10-targeted-by-puzzlemaker-hackers-using-chrome-zero-days/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers vs. lawyers: Security research stifled in key situations<a href="https://searchsecurity.techtarget.com/feature/Hackers-vs-lawyers-Security-research-stifled-in-key-situations?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline CEO grilled over ransomware attack<a href="https://thehill.com//policy/energy-environment/557381-colonial-pipeline-ceo-grilled-over-ransomware-attack"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Attempting to Reign on Cloud-based Platforms<a href="https://cyware.com/news/teamtnt-attempting-to-reign-on-cloud-based-platforms-bc305642"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MoviePass Operators Settle Data Security Allegations<a href="https://www.infosecurity-magazine.com:443/news/moviepass-settles-ftc-allegations/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft June 2021 Patch Tuesday fixes 6 exploited zero-days, 50 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2021-patch-tuesday-fixes-6-exploited-zero-days-50-flaws/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks on Transportation and Logistics System Witness a Surge<a href="https://cyware.com/news/cyberattacks-on-transportation-and-logistics-system-witness-a-surge-10d94d2b"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft June 2021 Patch Tuesday fixes 6 exploited zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2021-patch-tuesday-fixes-6-exploited-zero-days/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SteamHide: Hiding Malware in Plain Sight<a href="https://www.gdatasoftware.com/blog/steamhide-malware-in-profile-images?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ G-Data Security Blog
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-attack on NYC Law Department<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-nyc-law-department/"> Full Text</a>
@@ -326,7 +326,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unauthorized access accounts for 43% of all breaches globally<a href="https://www.helpnetsecurity.com/2021/06/08/unauthorized-access-breaches/?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Computer memory maker ADATA hit by Ragnar Locker ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-memory-maker-adata-hit-by-ragnar-locker-ransomware/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WAGO Controller Flaws Can Allow Hackers to Disrupt Industrial Processes<a href="https://www.securityweek.com/wago-controller-flaws-can-allow-hackers-disrupt-industrial-processes?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘An0m’ Encrypted-Chat Sting Leads to Arrest of 800<a href="https://threatpost.com/an0m-encrypted-chat-sting-arrest-800/166716/"> Full Text</a>
@@ -390,7 +390,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe issues security updates for 41 vulnerabilities in 10 products<a href="https://www.bleepingcomputer.com/news/security/adobe-issues-security-updates-for-41-vulnerabilities-in-10-products/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FreakOut Reloaded with New Exploits to Target its Victims<a href="https://cyware.com/news/freakout-reloaded-with-new-exploits-to-target-its-victims-bee54fe8"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #Infosec21: Cybersecurity to Become a "Matter of Life and Death"<a href="https://www.infosecurity-magazine.com:443/news/hypponen-cyber-matter-life-death/"> Full Text</a>
@@ -438,7 +438,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SystemBC Malware Hides Behind Socks5 Proxy<a href="https://blog.minerva-labs.com/systembc-malware-hides-behind-socks?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Minerva Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Illinois County Stricken with Grief<a href="https://www.infosecurity-magazine.com:443/news/illinois-county-stricken-with-grief/"> Full Text</a>
@@ -470,7 +470,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 States Bolster Data Security Technology in Response to Covid-19, Survey Finds<a href="https://www.nextgov.com/cybersecurity/2021/06/states-add-new-security-data-protection-technology-response-pandemic-survey-finds/174539/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Secretly Ran a Fake Encrypted Chat App and Busted Over 800 Criminals<a href="https://thehackernews.com/2021/06/feds-secretly-ran-fake-encrypted-chat.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SkinnyBoy Malware Linked with APT28<a href="https://cyware.com/news/new-skinnyboy-malware-linked-with-apt28-3b38a8a1"> Full Text</a>
@@ -519,7 +519,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US brokerage firms warned of ongoing phishing with penalty threats<a href="https://www.bleepingcomputer.com/news/security/us-brokerage-firms-warned-of-ongoing-phishing-with-penalty-threats/"> Full Text</a>
@@ -535,7 +535,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking space: How to pwn a satellite<a href="https://www.welivesecurity.com/2021/06/07/hacking-space-how-pwn-satellite/?&web_view=true"> Full Text</a>
@@ -551,7 +551,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial CEO apologizes for pipeline attack's impact<a href="https://thehill.com//policy/energy-environment/557324-colonial-ceo-apologizes-for-pipeline-attacks-impact"> Full Text</a>
@@ -567,7 +567,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly Two Percent of Top-Grossing Apps on App Store Found Siphoning Off $48 Million From Users<a href="https://www.washingtonpost.com/technology/2021/06/06/apple-app-store-scams-fraud/?&web_view=true"> Full Text</a>
@@ -583,7 +583,7 @@ Washington Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office MSGraph vulnerability could lead to code execution<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-msgraph-vulnerability-could-lead-to-code-execution/"> Full Text</a>
@@ -599,7 +599,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations without vulnerability disclosure policies failing to address researchers’ security warnings<a href="https://portswigger.net/daily-swig/get-the-message-organizations-without-vulnerability-disclosure-policies-failing-to-address-researchers-security-warnings?&web_view=true"> Full Text</a>
@@ -615,7 +615,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Horizon3.ai looks to expand NodeZero tech with new funding<a href="https://www.scmagazine.com/home/security-news/horizon3-ai-looks-to-expand-nodezero-tech-with-new-funding/"> Full Text</a>
@@ -631,7 +631,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI and AFP created a fake encrypted chat platform to catch criminals<a href="https://www.bleepingcomputer.com/news/security/fbi-and-afp-created-a-fake-encrypted-chat-platform-to-catch-criminals/"> Full Text</a>
@@ -647,7 +647,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2021
+June 8, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York City’s Law Department Suffers Network Outage Following Ransomware Attack<a href="https://www.nytimes.com/2021/06/07/nyregion/cyberattack-law-department-nyc.html?&web_view=true"> Full Text</a>

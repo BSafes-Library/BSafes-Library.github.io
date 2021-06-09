@@ -8,6 +8,66 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojan Shield, the biggest ever police operation against encrypted communications<a href="https://securityaffairs.co/wordpress/118706/cyber-crime/trojan-shield-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojan Shield operation: The FBI and Australian Federal Police ran an encrypted chat platform that was used by crime gangs and intercepted their communications. 
+
+
+
+The US Federal Bureau of Investigation (FBI), the Dutch National Police (Politie), and the Swedish...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Recovers $2.3 Million Ransom Paid to Colonial Pipeline Hackers<a href="https://thehackernews.com/2021/06/us-recovers-23-million-ransom-paid-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major blow, the U.S. Department of Justice on Monday said it has recovered 63.7 bitcoins (currently valued at $2.3 million) paid by Colonial Pipeline to the DarkSide ransomware extortionists on May 8, pursuant to a seizure warrant that was authorized by the Northern District of California.  The&nbsp; ransomware attack &nbsp;also hobbled the pipeline company's fuel supply, prompting the government to issue an&nbsp; emergency declaration , even as the company shelled out a ransom amount of approximately&nbsp; 75 bitcoins &nbsp;($4.4 million as of May 8) to regain access to its systems.   A week after the highly publicized incident, the ransomware-as-a-service syndicate disbanded with a May 14 farewell message to affiliates, stating that its internet servers and cryptocurrency stash were&nbsp; seized &nbsp;by unknown law enforcement entities. While DarkSide's announcement was perceived as an exit scam, the latest move from DoJ confirms earlier speculations of law enforcement involvement.   Stating that "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Antitrust Regulator Slaps $268 Million Fine on Google<a href="https://www.infosecurity-magazine.com:443/news/french-antitrust-regulator-google/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech giant has been fined for favoring its own Google Ad Manager technologies
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and Australian police ran an encrypted chat platform to catch criminal gangs<a href="https://therecord.media/fbi-and-australian-police-ran-an-encrypted-chat-platform-to-catch-criminal-gangs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Australian Federal Police ran an encrypted chat platform and intercepted secret messages between criminal gang members from all over the world for more than three years.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

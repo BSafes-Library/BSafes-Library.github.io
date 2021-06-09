@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proofpoint rolls out full-featured, cloud-native security platform<a href="https://www.scmagazine.com/home/security-news/cloud-security/proofpoint-rolls-out-full-featured-cloud-native-security-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s new cloud platform was developed from its extensive experience managing and analyzing email traffic. Proofpoint claims that every day it analyzes more than 2.2 billion email messages, 35 billion URLs, 200 million attachments, and 35 million cloud accounts.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,104 @@ nav_order: 900072
 
 ## General
 ---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Colonial Pipeline CEO grilled over ransomware attack | Senate debates sweeping Chinese competitiveness bill | Ohio files lawsuit to declare Google a public utility<a href="https://thehill.com//policy/cybersecurity/overnights/557436-hillicon-valley-colonial-pipeline-ceo-grilled-over-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline’s top executive appeared on Capitol Hill Tuesday at the first of two hearings on the recent ransomware attack that forced the company to shut down operations and led to gas shortages. Meanwhile, the Senate debated approving the massive bipartisan U.S. Innovation and Competition Act, and Ohio Attorney General Dave Yost (R) filed a lawsuit to classify Google as a public utility and make it subject to government regulation.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 Women in IT Security: Call for nominations<a href="https://www.scmagazine.com/women-in-it-security/2021-women-in-it-security-call-for-nominations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SC Media is pleased to announce that we are accepting nominations for our Women in IT Security program, now in its eighth year, honoring those that demonstrate through their own expertise, commitment, influence and resilience the power of gender diversity across the cybersecurity community.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers vs. lawyers: Security research stifled in key situations<a href="https://searchsecurity.techtarget.com/feature/Hackers-vs-lawyers-Security-research-stifled-in-key-situations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many in the security research community continue to be frustrated with the legal walls that prevent them from sharing their findings with both other companies and the outside world.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks on Transportation and Logistics System Witness a Surge<a href="https://cyware.com/news/cyberattacks-on-transportation-and-logistics-system-witness-a-surge-10d94d2b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past few months, organizations in the transportation and logistics sector&nbsp;saw several cyberattacks seeking disruption of operations and services. Metropolitan Transit Authority (MTA) became the most recent victim of such an attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unauthorized access accounts for 43% of all breaches globally<a href="https://www.helpnetsecurity.com/2021/06/08/unauthorized-access-breaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been a 450% surge in breaches containing usernames and passwords globally and unauthorized access accounted for 43% of all breaches globally, according to a ForgeRock report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#Infosec21: Cybersecurity to Become a "Matter of Life and Death"<a href="https://www.infosecurity-magazine.com:443/news/hypponen-cyber-matter-life-death/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mikko Hypponen warns that cybersecurity will become a matter of life and death due to growing reliance on the internet
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US brokerage firms warned of ongoing phishing with penalty threats<a href="https://www.bleepingcomputer.com/news/security/us-brokerage-firms-warned-of-ongoing-phishing-with-penalty-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FINRA, the US securities industry regulator, has&nbsp;warned brokerage firms of an ongoing phishing campaign threatening recipients with penalties unless they provide the information requested by the attackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

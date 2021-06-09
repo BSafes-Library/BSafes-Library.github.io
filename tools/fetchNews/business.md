@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billions of Compromised Records and Counting: Why the Application Layer is Still the Front Door for Data Breaches<a href="https://threatpost.com/billions-of-compromised-records-and-counting/166633/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams should brace for an unsettling and unprecedented year, as we’re on pace to see 40 billion records compromised by the end of 2021. Imperva’s Terry Ray explains what security teams need to do to bolster their defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seattle cybersecurity startup ExtraHop to be acquired by private equity firms in $900M deal<a href="https://www.geekwire.com/2021/seattle-cybersecurity-startup-extrahop-acquired-private-equity-firms-900m-deal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ExtraHop uses machine learning to help companies prevent, detect, and eliminate threats on their networks, operating in a sector of cybersecurity called “network detection and response.”
+</details>
+<div style="text-align: right" markdown="1">
+Geek Wire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

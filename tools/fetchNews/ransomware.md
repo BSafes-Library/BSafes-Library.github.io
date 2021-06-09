@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capitol Hill vendor hit by ransomware attack: report<a href="https://thehill.com//policy/cybersecurity/557272-capitol-hill-vendor-hit-by-ransomware-attack-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A tech vendor used by dozens of&nbsp;House offices on Capitol Hill for constituent outreach services has reportedly been hit by a ransomware attack, becoming the latest victim in a series of cyberattacks to target U.S.-based entities.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

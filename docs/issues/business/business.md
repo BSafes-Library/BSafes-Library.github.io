@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline CEO grilled over ransomware attack<a href="https://thehill.com//policy/energy-environment/557381-colonial-pipeline-ceo-grilled-over-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline President and CEO Joseph Blount was grilled by lawmakers Tuesday on his decision to pay hackers in a ransomware attack that forced a temporary shutdown of operations — and led to gas shortages in parts of the country.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial CEO apologizes for pipeline attack's impact<a href="https://thehill.com//policy/energy-environment/557324-colonial-ceo-apologizes-for-pipeline-attacks-impact"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline CEO Joseph Blount apologized on Tuesday for the impact of a cyberattack that shut down the major&nbsp;fuel provider last month.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horizon3.ai looks to expand NodeZero tech with new funding<a href="https://www.scmagazine.com/home/security-news/horizon3-ai-looks-to-expand-nodezero-tech-with-new-funding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3.ai wants to change the way companies address cyberattacks through automation, announcing a new round of funding of $8.5 million led by SignalFire. The cash infusion is a combination of two rounds of funding – a seed funding of $3 million and Series A funding of $5.5 million. According to Antani, the funding will be…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

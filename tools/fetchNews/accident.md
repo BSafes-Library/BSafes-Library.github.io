@@ -8,6 +8,20 @@ nav_order: 900005
 
 ## Accident
 ---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News, social media sites hit by global internet outage<a href="https://thehill.com//policy/cybersecurity/557269-news-sites-reddit-sites-hit-by-internet-outage"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple news and&nbsp;social media websites were unavailable Tuesday morning, with some reports&nbsp;suggesting&nbsp;a global internet outage may have forced the sites offline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five key parts of the Senate's sweeping China competitiveness bill<a href="https://thehill.com//policy/technology/557257-five-key-parts-of-the-senates-sweeping-china-competitiveness-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate is poised to approve bipartisan legislation Tuesday afternoon that would invest billions to put the U.S. on more even footing with China on a range of emerging technology issues, including addressing the semiconductor shortage and funding critical research.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS chooses companies to run civilian agency vulnerability disclosure programs<a href="https://www.scmagazine.com/home/security-news/government-and-defense/dhs-chooses-companies-to-run-civilian-agency-vulnerability-disclosure-programs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security announced Tuesday that it will partner with vulnerability disclosure platform Bugcrowd and government technology, environmental and safety services contractor EnDyna to provide a civilian agency vulnerability disclosure program platform.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US authorities recovered most of the ransom paid by Colonial Pipeline<a href="https://securityaffairs.co/wordpress/118699/cyber-crime/us-authorities-recovered-colonial-pipeline-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US officials announced to have recovered most of the $4.3 million ransom that Colonial Pipeline paid to the DarkSide ransomware gang last month.
+
+
+
+During a video press conference, US officials announced to have recovered most of the $4.3 million ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy Chief Cites Risk of Cyberattacks Crippling Power Grid<a href="https://www.securityweek.com/energy-chief-cites-risk-cyberattacks-crippling-power-grid?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energy Secretary Jennifer Granholm called for more public-private cooperation on cyber defenses and said adversaries already are capable of using cyber intrusions to shut down the U.S. power grid.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

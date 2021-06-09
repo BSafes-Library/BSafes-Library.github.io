@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Casino Users Receive Deceptive Emails Saying They Won The Big Prize<a href="https://heimdalsecurity.com/blog/online-casino-users-receive-deceptive-emails/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, the spammers are exploiting affiliate programs to advertise online casinos such as Ducky Luck, Raging Bull Casino, Sports and Casino, using deceptive emails.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

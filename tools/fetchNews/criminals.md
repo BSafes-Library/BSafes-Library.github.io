@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Rebrands Ransomware to Escape Sanctions<a href="https://www.infosecurity-magazine.com:443/news/evil-corp-rebrands-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notorious threat group copies name of new Babuk "PayloadBin" leak site
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Publish Largest Ever Password Compilation with 8.4 Billion Entries on Hacker Forum<a href="https://securityaffairs.co/wordpress/118696/data-breach/rockyou2021-largest-password-compilation-of-all-time-leaked-online-with-8-4-billion-entries.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since most people reuse their passwords across multiple apps and websites, the number of accounts affected by credential stuffing and password spraying attacks in the wake of this leak is likely huge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

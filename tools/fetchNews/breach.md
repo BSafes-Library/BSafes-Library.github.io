@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Operators Struck Another Pipeline Firm LineStar Integrity Services and Leaked 70GB of Data<a href="https://www.wired.com/story/linestar-pipeline-ransomware-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xing Team posted to its dark web site a collection of files stolen from LineStar Integrity Services, which provides auditing, compliance, maintenance, and technology services to pipeline customers.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

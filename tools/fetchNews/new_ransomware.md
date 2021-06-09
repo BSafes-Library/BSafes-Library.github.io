@@ -11,6 +11,20 @@ nav_order: 900180
 June 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Computer memory maker ADATA hit by Ragnar Locker ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-memory-maker-adata-hit-by-ragnar-locker-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based leading memory and storage manufacturer ADATA says that a ransomware attack forced it to take systems offline after hitting its network in late May.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Capitol Hill vendor hit by ransomware attack: report<a href="https://thehill.com//policy/cybersecurity/557272-capitol-hill-vendor-hit-by-ransomware-attack-report"> Full Text</a>
 </p>
 <details>

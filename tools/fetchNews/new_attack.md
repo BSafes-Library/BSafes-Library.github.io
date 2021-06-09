@@ -11,6 +11,34 @@ nav_order: 900015
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attack on NYC Law Department<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-on-nyc-law-department/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI is investigating unauthorized access into New York City Law Department’s IT system
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois County Stricken with Grief<a href="https://www.infosecurity-magazine.com:443/news/illinois-county-stricken-with-grief/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grief ransomware gang claims to have stolen 2.5GB of personal data from St. Clair
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Military Vehicles Maker Navistar Reports Data-Theft Cyberattack<a href="https://www.securityweek.com/military-vehicles-maker-navistar-reports-data-theft-cyberattack?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

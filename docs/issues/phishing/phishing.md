@@ -11,6 +11,20 @@ nav_order: 900160
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Nearly Two Percent of Top-Grossing Apps on App Store Found Siphoning Off $48 Million From Users<a href="https://www.washingtonpost.com/technology/2021/06/06/apple-app-store-scams-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the highest 1,000 grossing apps on the App Store, nearly two percent are scams, according to an analysis by The Washington Post. These apps have resulted in $48 million worth of losses for users.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Online Casino Users Receive Deceptive Emails Saying They Won The Big Prize<a href="https://heimdalsecurity.com/blog/online-casino-users-receive-deceptive-emails/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
