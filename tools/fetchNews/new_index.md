@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare Sector Gasps due to Ransomware Attacks<a href="https://cyware.com/news/healthcare-sector-gasps-due-to-ransomware-attacks-1da007a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to IC3 data analysis by Crowdstrike, healthcare-related losses for victims in the U.S. surged by a whopping 2,473% during 2020 as the COVID-19 pandemic swept through the world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
