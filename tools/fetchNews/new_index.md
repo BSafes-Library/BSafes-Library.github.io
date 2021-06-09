@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Windows Computers to Patch 6 New In-the-Wind Zero-Day Bugs<a href="https://thehackernews.com/2021/06/update-your-windows-computers-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday released another round of  security updates  for Windows operating systems and other supported software, squashing 50 vulnerabilities, including 6 zero-days that are said to be under active attack.  The flaws were identified and resolved in Microsoft Windows, .NET Core and Visual Studio, Microsoft Office, Microsoft Edge (Chromium-based and EdgeHTML), SharePoint Server, Hyper-V, Visual Studio Code - Kubernetes Tools, Windows HTML Platform, and Windows Remote Desktop.   Of these 50 bugs, five are rated Critical, and 45 are rated Important in severity, with three of the issues publicly known at the time of release. The vulnerabilities that being actively exploited are listed below -   CVE-2021-33742  (CVSS score: 7.5) - Windows MSHTML Platform Remote Code Execution Vulnerability  CVE-2021-33739  (CVSS score: 8.4) - Microsoft DWM Core Library Elevation of Privilege Vulnerability  CVE-2021-31199  (CVSS score: 5.2) - Microsoft Enhanced Cryptographic Provider Elevation o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
