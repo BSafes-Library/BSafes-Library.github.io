@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meat processor JBS paid $11 million in ransom to hackers<a href="https://www.nytimes.com/2021/06/09/business/jbs-cyberattack-ransom.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The F.B.I. said last week that it believed REvil, a Russian-based group that is one of the most prolific ransomware organizations, was responsible for the attack on the meat processing giant.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS Admits Paying REvil Ransomware Group $11 Million<a href="https://www.infosecurity-magazine.com:443/news/jbs-admits-paying-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The meat processing giant claims to have paid Russian-speaking hackers millions in bitcoin to restore services
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RSA Security spins out its Fraud &amp; Risk Intelligence business into standalone company called Outseer<a href="https://www.zdnet.com/article/rsa-security-spins-out-its-fraud-risk-intelligence-business-into-standalone-company-called-outseer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA Security is spinning out its anti-fraud and payments security business into a new standalone company called Outseer. The new organization will be led by CEO Reed Taussig.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beef Supplier JBS Paid Hackers $11 Million Ransom After Cyberattack<a href="https://thehackernews.com/2021/06/beef-supplier-jbs-paid-hackers-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meat processing company JBS on Wednesday confirmed it paid extortionists $11 million in bitcoins to regain access to its systems following a destructive ransomware attack late last month.  "In consultation with internal IT professionals and third-party cybersecurity experts, the company made the decision to mitigate any unforeseen issues related to the attack and ensure no data was exfiltrated," JBS USA&nbsp; said &nbsp;in a statement, with CEO Andre Nogueira adding the firm made the "very difficult decision" to prevent any potential risk for its customers.  Stating that third-party forensic investigations into the incident are still ongoing, the company noted that no company, customer, or employee data was compromised as a consequence of the breach. The FBI officially discourages victims from paying ransoms because doing so can establish a profitable criminal marketplace.  JBS, the world's largest meat company by sales, on May 30&nbsp; disclosed &nbsp;it fell prey to an "org
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

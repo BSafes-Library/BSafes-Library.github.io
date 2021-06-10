@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Known as Max Is a 55-Year-Old Woman, Prosecutors Say<a href="https://www.bloomberg.com/news/articles/2021-06-09/hacker-known-as-max-is-55-year-old-woman-from-russia-u-s-says?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alla Witte, now 55, assumed the identity “Max” and started writing illicit code, according to a federal indictment unsealed on February 8 after she was detained in Miami.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is how fast a password leaked on the web will be tested out by hackers<a href="https://www.zdnet.com/article/this-is-how-fast-a-password-leaked-on-the-web-will-be-tested-out-by-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new study, Agari researchers found that the accounts are actively accessed within hours of the login credentials being posted online on phishing websites and forums.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

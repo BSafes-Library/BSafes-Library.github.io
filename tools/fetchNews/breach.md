@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Probe into Leak of Cuomo Accuser’s Personnel File<a href="https://www.infosecurity-magazine.com:443/news/probe-into-boylan-file-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Attorney General’s Office investigating legality of releasing Lindsey Boylan’s records
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nebraska Medicine Data Breach Settlement Approved<a href="https://www.infosecurity-magazine.com:443/news/nebraska-medicine-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Judge approves preliminary settlement in data breach lawsuit brought against Nebraska Medicine
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

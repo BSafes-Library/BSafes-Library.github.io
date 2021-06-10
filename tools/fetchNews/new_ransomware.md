@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS paid $11 million to REvil ransomware, $22.5M first demanded<a href="https://www.bleepingcomputer.com/news/security/jbs-paid-11-million-to-revil-ransomware-225m-first-demanded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JBS, the world's largest beef producer, has confirmed that they paid an $11 million ransom after the REvil ransomware operation initially demanded $22.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerging Ransomware Targets Dozens of Businesses Worldwide<a href="https://thehackernews.com/2021/06/emerging-ransomware-targets-dozens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging ransomware strain in the threat landscape claims to have breached 30 organizations in just four months since it went operational, riding on the coattails of a notorious ransomware syndicate.  First observed in February 2021, " Prometheus " is an offshoot of another well-known ransomware variant called&nbsp; Thanos , which was previously deployed against state-run organizations in the Middle East and North Africa last year.  The affected entities are believed to be government, financial services, manufacturing, logistics, consulting, agriculture, healthcare services, insurance agencies, energy and law firms in the U.S., U.K., and a dozen more countries in Asia, Europe, the Middle East, and South America, according to new research published by Palo Alto Networks' Unit 42 threat intelligence team.   Like other ransomware gangs, Prometheus takes advantage of double-extortion tactics and hosts a dark web leak site, where it names and shames new victims and makes stolen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

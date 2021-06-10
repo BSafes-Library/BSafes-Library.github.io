@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Warned About DoS Flaws in Popular Open Source Message Brokers<a href="https://www.securityweek.com/organizations-warned-about-dos-flaws-popular-open-source-message-brokers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A type of malformed message that causes a DoS condition has been identified for RabbitMQ, EMQ X, and VerneMQ, but there does not appear to be a single message that impacts all three brokers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

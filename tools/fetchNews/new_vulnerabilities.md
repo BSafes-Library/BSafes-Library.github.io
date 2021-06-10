@@ -11,6 +11,20 @@ nav_order: 900220
 June 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Chrome 0-Day Bug Under Active Attacks – Update Your Browser ASAP!<a href="https://thehackernews.com/2021/06/new-chrome-0-day-bug-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attention readers, if you are using Google Chrome browser on your Windows, Mac, or Linux computers, you need to update it immediately to the latest version Google released earlier today.  Google on Wednesday rolled out an urgent update for Chrome browser to address 14 newly discovered security issues, including a zero-day flaw that it says is being actively exploited in the wild.  Tracked as&nbsp; CVE-2021-30551 , the vulnerability stems from a type confusion issue in its V8 open-source and JavaScript engine. Sergei Glazunov of Google Project Zero has been credited with discovering and reporting the flaw.   Although the search giant's Chrome team issued a terse statement acknowledging "an exploit for CVE-2021-30551 exists in the wild," Shane Huntley, Director of Google's Threat Analysis Group,&nbsp; hinted &nbsp;that the vulnerability was leveraged by the same actor that abused&nbsp; CVE-2021-33742 , an actively exploited remote code execution flaw in Windows MSHTML platform that was ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google fixes sixth Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-sixth-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
 </p>
 <details>

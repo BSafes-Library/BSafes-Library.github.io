@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#Infosec21: NCSC Outlines Biggest Cyber Threats During COVID19<a href="https://www.infosecurity-magazine.com:443/news/ncsc-biggest-cyber-threats-during/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCSC's Eleanor Fairford reveals the three biggest cyber threats since the start of COVID-19
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

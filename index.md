@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JBS paid $11 million to REvil ransomware, $22.5M first demanded<a href="https://www.bleepingcomputer.com/news/security/jbs-paid-11-million-to-revil-ransomware-225m-first-demanded/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meat processor JBS paid $11 million in ransom to hackers<a href="https://www.nytimes.com/2021/06/09/business/jbs-cyberattack-ransom.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emerging Ransomware Targets Dozens of Businesses Worldwide<a href="https://thehackernews.com/2021/06/emerging-ransomware-targets-dozens-of.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schools Forced to Shut Following Critical Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/schools-shut-ransomware-attacl/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT breached the network of Dutch police in 2017<a href="https://securityaffairs.co/wordpress/118794/apt/russia-linked-apt-dutch-police.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA launches platform to let hackers report security bugs to US federal agencies<a href="https://techcrunch.com/2021/06/08/cisa-launches-platform-to-let-hackers-report-security-bugs-to-us-federal-agencies/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using Breached Password Detection Services to Prevent Cyberattack<a href="https://thehackernews.com/2021/06/using-breached-password-detection.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High Street Banks Exposing Customers to Phishing Attacks<a href="https://www.infosecurity-magazine.com:443/news/high-street-banks-exposing/"> Full Text</a>
@@ -166,7 +166,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Known as Max Is a 55-Year-Old Woman, Prosecutors Say<a href="https://www.bloomberg.com/news/articles/2021-06-09/hacker-known-as-max-is-55-year-old-woman-from-russia-u-s-says?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Bloomberg
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JBS Admits Paying REvil Ransomware Group $11 Million<a href="https://www.infosecurity-magazine.com:443/news/jbs-admits-paying-revil-ransomware/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RSA Security spins out its Fraud & Risk Intelligence business into standalone company called Outseer<a href="https://www.zdnet.com/article/rsa-security-spins-out-its-fraud-risk-intelligence-business-into-standalone-company-called-outseer/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Linked to Russian Intelligence Agencies Breached Dutch Police Systems<a href="https://therecord.media/russian-hackers-breached-dutch-police-systems-in-2017/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: ML infrastructure under atack from cryptomining gangs again<a href="https://therecord.media/microsoft-ml-infrastructure-under-atack-from-cryptomining-gangs-again/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations Warned About DoS Flaws in Popular Open Source Message Brokers<a href="https://www.securityweek.com/organizations-warned-about-dos-flaws-popular-open-source-message-brokers?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This is how fast a password leaked on the web will be tested out by hackers<a href="https://www.zdnet.com/article/this-is-how-fast-a-password-leaked-on-the-web-will-be-tested-out-by-hackers/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2021
+June 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Pwned Colonial With Old VPN Password<a href="https://threatpost.com/darkside-pwned-colonial-with-old-vpn-password/166743/"> Full Text</a>
@@ -294,7 +294,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2021
+June 09, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beef Supplier JBS Paid Hackers $11 Million Ransom After Cyberattack<a href="https://thehackernews.com/2021/06/beef-supplier-jbs-paid-hackers-11.html"> Full Text</a>
@@ -310,7 +310,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2021
+June 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chrome 0-Day Bug Under Active Attacks – Update Your Browser ASAP!<a href="https://thehackernews.com/2021/06/new-chrome-0-day-bug-under-active.html"> Full Text</a>
@@ -326,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2021
+June 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Supreme Court Reins In the CFAA in Van Buren<a href="https://www.lawfareblog.com/supreme-court-reins-cfaa-van-buren"> Full Text</a>

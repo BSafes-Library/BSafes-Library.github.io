@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS paid $11 million to hackers to resolve ransomware attack<a href="https://thehill.com//policy/cybersecurity/557685-jbs-paid-11-million-to-hackers-to-resolve-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major meat producer JBS USA said it paid the equivalent of $11 million to hackers to resolve a&nbsp;ransomware attack that forced the company to shut down its beef plants. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline may use recovered ransomware attack funds to boost cybersecurity<a href="https://thehill.com//policy/cybersecurity/557644-colonial-pipeline-to-potentially-use-recovered-ransomware-attack-funds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline may use the recovered funds paid out to cyber criminals as part of a ransomware attack last month to increase cybersecurity, Joseph Blount, the&nbsp;company's president and CEO, said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘I did not like handing that money over to criminals’: Colonial CEO touts corporate cyber transparency, defends his own<a href="https://www.scmagazine.com/home/security-news/ransomware/i-did-not-like-handing-that-money-over-to-criminals-colonial-ceo-touts-corporate-cyber-transparency-defends-his-own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hearing touched on the internal and external debates that face most executives during a crippling cyberattack: How fast should a company act, and what decisions should be made internally versus in consultation with external advisers or the federal government.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

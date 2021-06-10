@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Breached Password Detection Services to Prevent Cyberattack<a href="https://thehackernews.com/2021/06/using-breached-password-detection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bolstering password policies in your organization is an important part of a robust cybersecurity strategy. Cybercriminals are using compromised accounts as one of their favorite tactics to infiltrate business-critical environments; as we've seen in recent news, these attacks can be dangerous and financially impactful.  Unfortunately, account compromise is a very successful attack method and requires much less effort than other attack vectors.  One of the essential types of password protection recommended by noted cybersecurity standards is&nbsp; breached password detection . Hackers often use known breached password lists in credential stuffing or password spraying attacks.  Here are some critical criteria to consider when your sysadmins are evaluating breached password protection solutions.&nbsp;  Breached password recommendations  In the last few years, password security recommendations have evolved past the traditional recommendations regarding password security.&nbsp;  Businesses have used M
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
