@@ -11,6 +11,48 @@ nav_order: 900163
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Coder Faces Decades in Prison<a href="https://threatpost.com/trickbot-coder-decades-prison/166732/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Latvian malware developer known as “Max” has been arraigned on 19 counts related to fraud, identity theft, information theft and money laundering.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoviePass Operators Settle Data Security Allegations<a href="https://www.infosecurity-magazine.com:443/news/moviepass-settles-ftc-allegations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators of defunct app settle alleged fraud and data security failures with FTC
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘An0m’ Encrypted-Chat Sting Leads to Arrest of 800<a href="https://threatpost.com/an0m-encrypted-chat-sting-arrest-800/166716/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Australian law enforcement set up the encrypted chat service and ran it for over 3 years, seizing weapons, drugs and over $48m in cash.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trojan Shield, the biggest ever police operation against encrypted communications<a href="https://securityaffairs.co/wordpress/118706/cyber-crime/trojan-shield-op.html"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,34 @@ nav_order: 900080
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Attempting to Reign on Cloud-based Platforms<a href="https://cyware.com/news/teamtnt-attempting-to-reign-on-cloud-based-platforms-bc305642"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT is targeting the credentials of 16 cloud-based platforms, including AWS and Google Cloud, which it uses for its illegitimate cryptojacking operations.&nbsp;Organizations are recommended to proactively block the network connections and C2 endpoints associated with TeamTNT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking space: How to pwn a satellite<a href="https://www.welivesecurity.com/2021/06/07/hacking-space-how-pwn-satellite/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first bad thing that can make lots of other bad things happen is to block communication to the device, since it makes it unusually difficult to fly up to troubleshoot on the remote end.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp Impersonates PayloadBin Group to Avoid Federal Sanctions<a href="https://threatpost.com/evil-corp-impersonates-payloadbin/166710/"> Full Text</a>
 </p>
 <details>

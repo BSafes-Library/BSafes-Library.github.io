@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes sixth Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-sixth-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.101 for Windows, Mac, and Linux to fix 14 security vulnerabilities, with one zero-day vulnerability exploited in the wild and tracked as CVE-2021-30551.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes 50 vulnerabilities for June, but patch first the six exploited in the wild<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-fixes-50-vulnerabilities-for-june-but-patch-first-the-six-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allan Liska of Recorded Future’s computer security incident response team, lists out the reasons why security teams should take the six exploited vulnerabilities seriously.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Inform Customers About Tens of Vulnerabilities<a href="https://www.securityweek.com/siemens-schneider-electric-inform-customers-about-tens-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial automation giants Siemens and Schneider Electric on Tuesday released several security advisories to inform customers about tens of vulnerabilities affecting their products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes a critical Android RCE flaw in the System component<a href="https://securityaffairs.co/wordpress/118761/security/android-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s June security bulletin addresses more than 90 vulnerabilities in Android and Pixel devices, including a Critical RCE (CVE-2021-0507).
+
+
+
+Google’s June security bulletin addresses more than 90 vulnerabilities in Android and Pixel devices,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches Major Security Flaws in PDF Reader, Photoshop<a href="https://www.securityweek.com/adobe-patches-major-security-flaws-pdf-reader-photoshop?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe’s product security response machine revved into high gear this week with the release of multiple patches for gaping security holes in widely deployed software products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2021 Patch Tuesday addresses 6 zero-days actively exploited<a href="https://securityaffairs.co/wordpress/118750/security/microsoft-june-2021-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's June 2021 Patch Tuesday addressed 50 vulnerabilities, including six zero-day issues that are being actively exploited in the wild.
+
+
+
+Microsoft's June 2021 Patch Tuesday addresses 50 vulnerabilities in Microsoft Windows, .NET Core and Visual...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes Seven Zero-Days This Patch Tuesday<a href="https://www.infosecurity-magazine.com:443/news/microsoft-fixes-seven-zerodays/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 50 security fixes will resolve critical issues, including actively exploited seven-day vulnerabilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub now scans for accidentally-exposed PyPI, RubyGems secrets<a href="https://www.bleepingcomputer.com/news/security/github-now-scans-for-accidentally-exposed-pypi-rubygems-secrets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has recently expanded its secrets scanning capabilities to repositories containing&nbsp;PyPI and&nbsp;RubyGems registry secrets. The move helps protect&nbsp;millions of applications built by Ruby and Python&nbsp;developers who may inadvertently be committing secrets and credentials to their public GitHub repos.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Windows Computers to Patch 6 New In-the-Wind Zero-Day Bugs<a href="https://thehackernews.com/2021/06/update-your-windows-computers-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday released another round of&nbsp; security updates &nbsp;for Windows operating systems and other supported software, squashing 50 vulnerabilities, including 6 zero-days that are said to be under active attack.  The flaws were identified and resolved in Microsoft Windows, .NET Core and Visual Studio, Microsoft Office, Microsoft Edge (Chromium-based and EdgeHTML), SharePoint Server, Hyper-V, Visual Studio Code - Kubernetes Tools, Windows HTML Platform, and Windows Remote Desktop.   Of these 50 bugs, five are rated Critical, and 45 are rated Important in severity, with three of the issues publicly known at the time of release. The vulnerabilities that being actively exploited are listed below -   CVE-2021-33742 &nbsp;(CVSS score: 7.5) - Windows MSHTML Platform Remote Code Execution Vulnerability  CVE-2021-33739 &nbsp;(CVSS score: 8.4) - Microsoft DWM Core Library Elevation of Privilege Vulnerability  CVE-2021-31199 &nbsp;(CVSS score: 5.2) - Microsoft Enhanced Cryptographic Provider Elevation o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

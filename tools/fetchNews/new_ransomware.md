@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCocaine: Another New Golang Ransomware in Play<a href="https://cyware.com/news/blackcocaine-another-new-golang-ransomware-in-play-a69ca24b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group targeted an India-based IT company in the banking and financial services sector, Nucleus Software Exports.&nbsp;The malware is the latest addition to the ransomware family and has displayed exceptional sophistication in its tactics, techniques, and procedures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

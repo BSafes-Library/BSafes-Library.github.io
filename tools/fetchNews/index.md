@@ -34,7 +34,600 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2021
+June 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes sixth Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-sixth-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.101 for Windows, Mac, and Linux to fix 14 security vulnerabilities, with one zero-day vulnerability exploited in the wild and tracked as CVE-2021-30551.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siloscape is Backdooring Clusters via Windows Containers<a href="https://cyware.com/news/siloscape-is-backdooring-clusters-via-windows-containers-08055649"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time, a new malware strain has been found targeting Windows containers to disrupt Kubernetes cloud environments.&nbsp;Named Siloscape, it opens a backdoor for all kinds of malicious activity without limiting itself to any particular infection goal. Kubernetes admins are recommended to ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS paid $11 million to hackers to resolve ransomware attack<a href="https://thehill.com//policy/cybersecurity/557685-jbs-paid-11-million-to-hackers-to-resolve-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major meat producer JBS USA said it paid the equivalent of $11 million to hackers to resolve a ransomware attack that forced the company to shut down its beef plants. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TLS Attack Lets Attackers Launch Cross-Protocol Attacks Against Secure Sites<a href="https://thehackernews.com/2021/06/new-tls-attack-lets-attackers-launch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new type of attack that exploits misconfigurations in transport layer security (TLS) servers to redirect HTTPS traffic from a victim's web browser to a different TLS service endpoint located on another IP address to steal sensitive information.  The attacks have been dubbed  ALPACA , short for "Application Layer Protocol Confusion - Analyzing and mitigating Cracks in tls Authentication," by a group of academics from Ruhr University Bochum, Münster University of Applied Sciences, and Paderborn University.  "Attackers can redirect traffic from one subdomain to another, resulting in a valid TLS session," the study said. "This breaks the authentication of TLS and cross-protocol attacks may be possible where the behavior of one protocol service may compromise the other at the application layer."  TLS  is a cryptographic protocol underpinning several application layer protocols like HTTPS, SMTP, IMAP, POP3, and FTP to secure com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Probe into Leak of Cuomo Accuser’s Personnel File<a href="https://www.infosecurity-magazine.com:443/news/probe-into-boylan-file-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Attorney General’s Office investigating legality of releasing Lindsey Boylan’s records
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Start Disrupting Cryptocurrencies: “Mining” Is Money Transmission<a href="https://www.lawfareblog.com/how-start-disrupting-cryptocurrencies-mining-money-transmission"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Making cryptocurrency mining illegal won’t stop all mining, but it will seriously disrupt it.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto-mining campaign targets Kubeflow installs on a large scale<a href="https://securityaffairs.co/wordpress/118776/cyber-crime/crypto-mining-campaign-kubeflow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft uncovered a malicious campaign targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine cryptocurrency.
+
+
+
+Microsoft researchers uncovered a malicious campaign targeting Kubeflow workloads to deploy TensorFlow pods that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infoblox ups integration across on-premises, cloud and remote office environments<a href="https://www.scmagazine.com/home/security-news/cloud-security/infoblox-ups-integration-across-on-premises-cloud-and-remote-office-environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The combination of three pieces of information runs on DDI (DNS, DHCP, IPAM) technology, which delivers this granular data to administrators so they can solve networking and security issues.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of BEC scammers impersonating construction companies<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-scammers-impersonating-construction-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned private sector companies of scammers impersonating construction companies in business email compromise (BEC) attacks targeting organizations from multiple US critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCocaine: Another New Golang Ransomware in Play<a href="https://cyware.com/news/blackcocaine-another-new-golang-ransomware-in-play-a69ca24b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group targeted an India-based IT company in the banking and financial services sector, Nucleus Software Exports.&nbsp;The malware is the latest addition to the ransomware family and has displayed exceptional sophistication in its tactics, techniques, and procedures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden gives TikTok and WeChat a reprieve | Colonial Pipeline CEO addresses Congress again | Thomson Reuters shareholders want review of ICE ties<a href="https://thehill.com//policy/technology/overnights/557658-hillicon-valley-biden-replaces-trump-executive-orders-targeting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenHouse Judiciary Democrats call on DOJ to reverse decision on Trump defense Democratic super PAC targets Youngkin over voting rights Harris dubs first foreign trip a success amid criticism over border MORE replaced former President TrumpDonald TrumpJack Ciattarelli wins GOP primary in New Jersey governor's race House Judiciary Democrats call on DOJ to reverse decision on Trump defense Democratic super PAC targets Youngkin over voting rights MORE’s executive orders targeting TikTok and WeChat with one directing a review of risks posed by apps developed by foreign adversaries in its place. The Colonial Pipeline CEO testified that the company may use the recovered funds paid out to cyber criminals as part of last month’s ransomware attack to increase cybersecurity. Meanwhile, a majority of independent shareholders of Thomson Reuters voted in favor of a proposal that would have the company assess and report on the potential human rights abuses of its work with Immigrations and Customs Enforcement (ICE). 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto-Mining Attacks Targeting Kubernetes Clusters via Kubeflow Instances<a href="https://thehackernews.com/2021/06/crypto-mining-attacks-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed a new large-scale campaign targeting Kubeflow deployments to run malicious cryptocurrency mining containers.  The campaign involved deploying  TensorFlow  pods on Kubernetes clusters, with the pods running legitimate  TensorFlow images  from the official Docker Hub account. However, the container images were configured to execute rogue commands that mine cryptocurrencies. Microsoft said the deployments witnessed an uptick towards the end of May.   Kubeflow  is an open-source machine learning platform designed to deploy machine learning workflows on  Kubernetes , an orchestration service used for managing and scaling containerized workloads across a cluster of machines.  The deployment, in itself, was achieved by taking advantage of Kubeflow, which exposes its UI functionality via a dashboard that is deployed in the cluster. In the attack observed by Microsoft, the adversaries used the centralized dashboard as an ingress point to create a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nebraska Medicine Data Breach Settlement Approved<a href="https://www.infosecurity-magazine.com:443/news/nebraska-medicine-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Judge approves preliminary settlement in data breach lawsuit brought against Nebraska Medicine
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit Spain’s Ministry of Labor and Social Economy<a href="https://securityaffairs.co/wordpress/118768/hacking/spains-ministry-of-labor-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish Ministry of Labor and Social Economy (MITES) was hit by a cyberattack and is working to restore impacted services.
+
+
+
+Spain's Ministry of Labor and Social Economy (MITES) was hit by a cyberattack on Wednesday and is working to restore impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes 50 vulnerabilities for June, but patch first the six exploited in the wild<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-fixes-50-vulnerabilities-for-june-but-patch-first-the-six-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allan Liska of Recorded Future’s computer security incident response team, lists out the reasons why security teams should take the six exploited vulnerabilities seriously.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of cryptomining attacks on Kubernetes clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of an ongoing series of attacks compromising Kubernetes clusters running Kubeflow machine learning (ML) instances to deploy malicious containers that mine for Monero and Ethereum cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Inform Customers About Tens of Vulnerabilities<a href="https://www.securityweek.com/siemens-schneider-electric-inform-customers-about-tens-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial automation giants Siemens and Schneider Electric on Tuesday released several security advisories to inform customers about tens of vulnerabilities affecting their products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline may use recovered ransomware attack funds to boost cybersecurity<a href="https://thehill.com//policy/cybersecurity/557644-colonial-pipeline-to-potentially-use-recovered-ransomware-attack-funds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline may use the recovered funds paid out to cyber criminals as part of a ransomware attack last month to increase cybersecurity, Joseph Blount, the company's president and CEO, said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EBook – Creating a Large Company Security Stack on a Lean Company Budget<a href="https://thehackernews.com/2021/06/ebook-creating-large-company-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The speed at which malicious actors have improved their attack tactics and continue to penetrate security systems has made going bigger the major trend in cybersecurity.  Facing an evolving threat landscape, organizations have responded by building bigger security stacks, adding more tools and platforms, and making their defenses more complex—a new eBook from XDR provider Cynet ( read it here ).  Organizations find themselves in a virtual arms race with malicious actors. Attackers find new, stealthier ways to penetrate an organization's defenses, and organizations build higher walls, buy more technologies to protect themselves, and expand their security stacks.  Money is a key component of security success – a tough reality for leaner organizations that might not have the seemingly endless budgets of larger corporations and enterprises.  The question of what leaner security teams could do about it used to be "not a lot," but today, that's hardly the case. Even though
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvanian Charged over Trump Impersonation Fraud<a href="https://www.infosecurity-magazine.com:443/news/hall-charged-trump-impersonation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Man allegedly posed as Trump family members on social media to fraudulently obtain financial donations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes a critical Android RCE flaw in the System component<a href="https://securityaffairs.co/wordpress/118761/security/android-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s June security bulletin addresses more than 90 vulnerabilities in Android and Pixel devices, including a Critical RCE (CVE-2021-0507).
+
+
+
+Google’s June security bulletin addresses more than 90 vulnerabilities in Android and Pixel devices,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘I did not like handing that money over to criminals’: Colonial CEO touts corporate cyber transparency, defends his own<a href="https://www.scmagazine.com/home/security-news/ransomware/i-did-not-like-handing-that-money-over-to-criminals-colonial-ceo-touts-corporate-cyber-transparency-defends-his-own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hearing touched on the internal and external debates that face most executives during a crippling cyberattack: How fast should a company act, and what decisions should be made internally versus in consultation with external advisers or the federal government.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Gelsemium cyberspies linked to NoxPlayer supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/stealthy-gelsemium-cyberspies-linked-to-noxplayer-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers have linked a stealthy cyberespionage group known as Gelsemium to the NoxPlayer Android emulator supply-chain attack that targeted gamers earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches Major Security Flaws in PDF Reader, Photoshop<a href="https://www.securityweek.com/adobe-patches-major-security-flaws-pdf-reader-photoshop?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe’s product security response machine revved into high gear this week with the release of multiple patches for gaping security holes in widely deployed software products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Single Fastly Customer Sparked Global Internet Meltdown<a href="https://www.infosecurity-magazine.com:443/news/internet-outage-single-settings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fastly says blackout that hit many high-profile websites on Tuesday caused by a software bug
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2021 Patch Tuesday addresses 6 zero-days actively exploited<a href="https://securityaffairs.co/wordpress/118750/security/microsoft-june-2021-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's June 2021 Patch Tuesday addressed 50 vulnerabilities, including six zero-day issues that are being actively exploited in the wild.
+
+
+
+Microsoft's June 2021 Patch Tuesday addresses 50 vulnerabilities in Microsoft Windows, .NET Core and Visual...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As clouds get more complex, companies are struggling to adapt legacy security tooling<a href="https://www.scmagazine.com/home/security-news/cloud-security/as-clouds-get-more-complex-companies-are-struggling-to-adapt-legacy-security-tooling/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2020 could be a tipping point for cloud adoption, but its bringing more complexity and causing companies to reevaluate their old security stack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain's Ministry of Labor and Social Economy hit by cyberattack<a href="https://www.bleepingcomputer.com/news/security/spains-ministry-of-labor-and-social-economy-hit-by-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish Ministry of Labor and Social Economy (MITES) is working on restoring services after being hit by a cyberattack on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memory and Storage Manufacturer ADATA Struck by Ragnar Locker Ransomware Attack<a href="https://www.techradar.com/news/adata-struck-by-ragnar-locker-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading Taiwan-based memory and storage manufacturer ADATA was forced to take its systems offline after it was targeted by a ransomware attack in late May, the company has admitted.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#Infosec21: NCSC Outlines Biggest Cyber Threats During COVID19<a href="https://www.infosecurity-magazine.com:443/news/ncsc-biggest-cyber-threats-during/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCSC's Eleanor Fairford reveals the three biggest cyber threats since the start of COVID-19
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security researcher says attacks on Russian government have Chinese fingerprints – and typos, too<a href="https://www.theregister.com/2021/06/09/mail_o_malware_maybe_chinese/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat that Russia found inside government systems was too crude to have been the work of a Western nation, says security researcher Juan Andrés Guerrero-Saade.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Third of Execs Plan to Spy on Staff to Guard Trade Secrets<a href="https://www.infosecurity-magazine.com:443/news/third-of-execs-planning-spy-staff/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most senior executives believe more money is needed to protect trade secrets, and many are prepared to spy on staff
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Impersonate FINRA to Target Members Firms via Targeted Phishing Attacks<a href="https://www.finra.org/rules-guidance/notices/21-20?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FINRA reminded financial industry firms to verify the legitimacy of any suspicious email prior to responding to it, opening any attachments, or clicking on any embedded links.
+</details>
+<div style="text-align: right" markdown="1">
+FINRA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes Seven Zero-Days This Patch Tuesday<a href="https://www.infosecurity-magazine.com:443/news/microsoft-fixes-seven-zerodays/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 50 security fixes will resolve critical issues, including actively exploited seven-day vulnerabilities
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government launches first VDP for federal civilian agencies<a href="https://portswigger.net/daily-swig/us-government-launches-first-vdp-for-federal-civilian-agencies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has launched its first federal civilian security vulnerability disclosure program (VDP) in partnership with Bugcrowd.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Access Encrypted Devices in Major Global Crime Bust<a href="https://www.infosecurity-magazine.com:443/news/police-access-encrypted-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 800 suspected criminals have been arrested after being tricked into using a messaging app owned by the FBI
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare Sector Gasps due to Ransomware Attacks<a href="https://cyware.com/news/healthcare-sector-gasps-due-to-ransomware-attacks-1da007a6"> Full Text</a>
@@ -50,7 +643,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2021
+June 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub now scans for accidentally-exposed PyPI, RubyGems secrets<a href="https://www.bleepingcomputer.com/news/security/github-now-scans-for-accidentally-exposed-pypi-rubygems-secrets/"> Full Text</a>
@@ -66,7 +659,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2021
+June 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Your Windows Computers to Patch 6 New In-the-Wind Zero-Day Bugs<a href="https://thehackernews.com/2021/06/update-your-windows-computers-to-patch.html"> Full Text</a>

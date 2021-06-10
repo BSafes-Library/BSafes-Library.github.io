@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infoblox ups integration across on-premises, cloud and remote office environments<a href="https://www.scmagazine.com/home/security-news/cloud-security/infoblox-ups-integration-across-on-premises-cloud-and-remote-office-environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The combination of three pieces of information runs on DDI (DNS, DHCP, IPAM) technology, which delivers this granular data to administrators so they can solve networking and security issues.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As clouds get more complex, companies are struggling to adapt legacy security tooling<a href="https://www.scmagazine.com/home/security-news/cloud-security/as-clouds-get-more-complex-companies-are-struggling-to-adapt-legacy-security-tooling/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2020 could be a tipping point for cloud adoption, but its bringing more complexity and causing companies to reevaluate their old security stack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

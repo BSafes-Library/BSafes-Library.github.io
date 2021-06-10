@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden gives TikTok and WeChat a reprieve | Colonial Pipeline CEO addresses Congress again | Thomson Reuters shareholders want review of ICE ties<a href="https://thehill.com//policy/technology/overnights/557658-hillicon-valley-biden-replaces-trump-executive-orders-targeting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenHouse Judiciary Democrats call on DOJ to reverse decision on Trump defense Democratic super PAC targets Youngkin over voting rights Harris dubs first foreign trip a success amid criticism over border MORE replaced former President TrumpDonald TrumpJack Ciattarelli wins GOP primary in New Jersey governor's race House Judiciary Democrats call on DOJ to reverse decision on Trump defense Democratic super PAC targets Youngkin over voting rights MORE’s executive orders targeting TikTok and WeChat with one directing a review of risks posed by apps developed by&nbsp;foreign adversaries in its place. The Colonial Pipeline CEO testified that the company may use the recovered funds paid out to cyber criminals as part of last month’s ransomware attack to increase cybersecurity. Meanwhile, a majority of independent shareholders of Thomson Reuters voted in favor of a proposal that would have the company assess and report on the potential human rights abuses of its work with Immigrations and Customs Enforcement (ICE).&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EBook – Creating a Large Company Security Stack on a Lean Company Budget<a href="https://thehackernews.com/2021/06/ebook-creating-large-company-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The speed at which malicious actors have improved their attack tactics and continue to penetrate security systems has made going bigger the major trend in cybersecurity.  Facing an evolving threat landscape, organizations have responded by building bigger security stacks, adding more tools and platforms, and making their defenses more complex—a new eBook from XDR provider Cynet ( read it here ).  Organizations find themselves in a virtual arms race with malicious actors. Attackers find new, stealthier ways to penetrate an organization's defenses, and organizations build higher walls, buy more technologies to protect themselves, and expand their security stacks.  Money is a key component of security success – a tough reality for leaner organizations that might not have the seemingly endless budgets of larger corporations and enterprises.  The question of what leaner security teams could do about it used to be "not a lot," but today, that's hardly the case. Even though
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Third of Execs Plan to Spy on Staff to Guard Trade Secrets<a href="https://www.infosecurity-magazine.com:443/news/third-of-execs-planning-spy-staff/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most senior executives believe more money is needed to protect trade secrets, and many are prepared to spy on staff
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare Sector Gasps due to Ransomware Attacks<a href="https://cyware.com/news/healthcare-sector-gasps-due-to-ransomware-attacks-1da007a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to IC3 data analysis by Crowdstrike, healthcare-related losses for victims in the U.S. surged by a whopping 2,473% during 2020 as the COVID-19 pandemic swept through the world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvanian Charged over Trump Impersonation Fraud<a href="https://www.infosecurity-magazine.com:443/news/hall-charged-trump-impersonation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Man allegedly posed as Trump family members on social media to fraudulently obtain financial donations
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Access Encrypted Devices in Major Global Crime Bust<a href="https://www.infosecurity-magazine.com:443/news/police-access-encrypted-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 800 suspected criminals have been arrested after being tricked into using a messaging app owned by the FBI
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

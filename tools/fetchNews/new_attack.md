@@ -8,6 +8,94 @@ nav_order: 900015
 
 ## Attack
 ---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TLS Attack Lets Attackers Launch Cross-Protocol Attacks Against Secure Sites<a href="https://thehackernews.com/2021/06/new-tls-attack-lets-attackers-launch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new type of attack that exploits misconfigurations in transport layer security (TLS) servers to redirect HTTPS traffic from a victim's web browser to a different TLS service endpoint located on another IP address to steal sensitive information.  The attacks have been dubbed&nbsp; ALPACA , short for "Application Layer Protocol Confusion - Analyzing and mitigating Cracks in tls Authentication," by a group of academics from Ruhr University Bochum, Münster University of Applied Sciences, and Paderborn University.  "Attackers can redirect traffic from one subdomain to another, resulting in a valid TLS session," the study said. "This breaks the authentication of TLS and cross-protocol attacks may be possible where the behavior of one protocol service may compromise the other at the application layer."  TLS &nbsp;is a cryptographic protocol underpinning several application layer protocols like HTTPS, SMTP, IMAP, POP3, and FTP to secure com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto-Mining Attacks Targeting Kubernetes Clusters via Kubeflow Instances<a href="https://thehackernews.com/2021/06/crypto-mining-attacks-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed a new large-scale campaign targeting Kubeflow deployments to run malicious cryptocurrency mining containers.  The campaign involved deploying&nbsp; TensorFlow &nbsp;pods on Kubernetes clusters, with the pods running legitimate&nbsp; TensorFlow images &nbsp;from the official Docker Hub account. However, the container images were configured to execute rogue commands that mine cryptocurrencies. Microsoft said the deployments witnessed an uptick towards the end of May.   Kubeflow &nbsp;is an open-source machine learning platform designed to deploy machine learning workflows on&nbsp; Kubernetes , an orchestration service used for managing and scaling containerized workloads across a cluster of machines.  The deployment, in itself, was achieved by taking advantage of Kubeflow, which exposes its UI functionality via a dashboard that is deployed in the cluster. In the attack observed by Microsoft, the adversaries used the centralized dashboard as an ingress point to create a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit Spain’s Ministry of Labor and Social Economy<a href="https://securityaffairs.co/wordpress/118768/hacking/spains-ministry-of-labor-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish Ministry of Labor and Social Economy (MITES) was hit by a cyberattack and is working to restore impacted services.
+
+
+
+Spain's Ministry of Labor and Social Economy (MITES) was hit by a cyberattack on Wednesday and is working to restore impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain's Ministry of Labor and Social Economy hit by cyberattack<a href="https://www.bleepingcomputer.com/news/security/spains-ministry-of-labor-and-social-economy-hit-by-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish Ministry of Labor and Social Economy (MITES) is working on restoring services after being hit by a cyberattack on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memory and Storage Manufacturer ADATA Struck by Ragnar Locker Ransomware Attack<a href="https://www.techradar.com/news/adata-struck-by-ragnar-locker-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading Taiwan-based memory and storage manufacturer ADATA was forced to take its systems offline after it was targeted by a ransomware attack in late May, the company has admitted.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security researcher says attacks on Russian government have Chinese fingerprints – and typos, too<a href="https://www.theregister.com/2021/06/09/mail_o_malware_maybe_chinese/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat that Russia found inside government systems was too crude to have been the work of a Western nation, says security researcher Juan Andrés Guerrero-Saade.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

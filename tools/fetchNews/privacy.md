@@ -11,6 +11,20 @@ nav_order: 900165
 June 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Feds Secretly Ran a Fake Encrypted Chat App and Busted Over 800 Criminals<a href="https://thehackernews.com/2021/06/feds-secretly-ran-fake-encrypted-chat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a huge sting operation, the U.S. Federal Bureau of Investigation (FBI) and Australian Federal Police (AFP) ran an "encrypted chat" service called&nbsp; ANoM &nbsp;for almost 3 years to intercept 27 million messages between criminal gang members globally.  Dubbed&nbsp; Operation Ironside &nbsp;(AFP),&nbsp; Operation Greenlight&nbsp; (Europol), and&nbsp; Operation Trojan Shield &nbsp;(FBI), the long-term covert probe into transnational and serious organized crime culminated in the arrests of 224 offenders on 526 charges in Australia, with 55 luxury vehicles, eight tons of cocaine, 22 tons of cannabis and cannabis resin, 250 firearms, and more than $48 million in various currencies and cryptocurrencies seized in raids around the world.&nbsp;  A total of more than 800 arrests have been reported across 18 countries, including New Zealand, Germany, and Sweden. Europol&nbsp; called &nbsp;it the "biggest ever law enforcement operation against encrypted communication."   The communications allegedly involved plots to kill, m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Top 10 Privacy and Security Features Apple Announced at WWDC 2021<a href="https://thehackernews.com/2021/06/top-10-privacy-and-security-features.html"> Full Text</a>
 </p>
 <details>

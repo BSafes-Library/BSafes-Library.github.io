@@ -11,6 +11,164 @@ nav_order: 900220
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday Fixes 6 In-The-Wild Exploits, 50 Flaws<a href="https://threatpost.com/microsoft-patch-tuesday-in-the-wild-exploits/166724/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a highly targeted malware campaign launched in April, in which a new, unknown threat actor used two of the vulnerabilities that Microsoft said are under active attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 issues in Microsoft Office component allow weaponizing docs<a href="https://securityaffairs.co/wordpress/118741/breaking-news/microsoft-office-component-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found four security flaws in the Microsoft Office suite that cloud allow attackers to weaponize Word and Excel docs.
+
+
+
+Experts from Check Point discovered four security vulnerabilities in the Microsoft Office suite that an attacker could exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel fixes 73 vulnerabilities in June 2021 Platform Update<a href="https://www.bleepingcomputer.com/news/security/intel-fixes-73-vulnerabilities-in-june-2021-platform-update/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has addressed 73 security vulnerabilities as part of the June 2021 Patch Tuesday, including high severity ones impacting some versions of Intel's Security Library and the BIOS firmware for Intel processors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Critical Android RCE Bug<a href="https://threatpost.com/android-critical-rce-bug/166723/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s June security bulletin addresses 90+ bugs in Android and Pixel devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 targeted by PuzzleMaker hackers using Chrome zero-days<a href="https://www.bleepingcomputer.com/news/security/windows-10-targeted-by-puzzlemaker-hackers-using-chrome-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky security researchers discovered a new threat actor dubbed PuzzleMaker, who has used a chain of Google Chrome and Windows 10 zero-day exploits in highly-targeted attacks against multiple companies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2021 Patch Tuesday fixes 6 exploited zero-days, 50 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2021-patch-tuesday-fixes-6-exploited-zero-days-50-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's June 2021 Patch Tuesday, and with it comes fixes for seven zero-day vulnerabilities and a total of 50 flaws, so Windows admins will be scrambling to get devices secured.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2021 Patch Tuesday fixes 6 exploited zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2021-patch-tuesday-fixes-6-exploited-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's June 2021 Patch Tuesday, and with it comes seven zero-day vulnerabilities, so Windows admins will be scrambling to get devices secured.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WAGO Controller Flaws Can Allow Hackers to Disrupt Industrial Processes<a href="https://www.securityweek.com/wago-controller-flaws-can-allow-hackers-disrupt-industrial-processes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two flaws discovered in WAGO industrial controllers can be exploited to disrupt technological processes, which in some cases could lead to industrial accidents, according to Positive Technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe issues security updates for 41 vulnerabilities in 10 products<a href="https://www.bleepingcomputer.com/news/security/adobe-issues-security-updates-for-41-vulnerabilities-in-10-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a giant Patch Tuesday security update release that fixes vulnerabilities in ten applications, including Adobe Acrobat, Reader, and Photoshop.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office MSGraph vulnerability could lead to code execution<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-msgraph-vulnerability-could-lead-to-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today will release a patch for a vulnerability affecting the Microsoft Office MSGraph component, responsible for displaying graphics and charts, that could be exploited to execute code on a target machine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations without vulnerability disclosure policies failing to address researchers’ security warnings<a href="https://portswigger.net/daily-swig/get-the-message-organizations-without-vulnerability-disclosure-policies-failing-to-address-researchers-security-warnings?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Up to a third of all security flaws reported to organizations with no vulnerability disclosure policy (VDP) are not being patched due to failings in the disclosure process, a new report suggests.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Security vulnerability in Hyperkitty could expose private data<a href="https://portswigger.net/daily-swig/security-vulnerability-in-hyperkitty-could-expose-private-data?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

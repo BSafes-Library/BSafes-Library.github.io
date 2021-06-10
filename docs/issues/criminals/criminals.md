@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Gelsemium cyberspies linked to NoxPlayer supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/stealthy-gelsemium-cyberspies-linked-to-noxplayer-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers have linked a stealthy cyberespionage group known as Gelsemium to the NoxPlayer Android emulator supply-chain attack that targeted gamers earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Impersonate FINRA to Target Members Firms via Targeted Phishing Attacks<a href="https://www.finra.org/rules-guidance/notices/21-20?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FINRA reminded financial industry firms to verify the legitimacy of any suspicious email prior to responding to it, opening any attachments, or clicking on any embedded links.
+</details>
+<div style="text-align: right" markdown="1">
+FINRA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

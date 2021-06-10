@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York City’s Law Department Suffers Network Outage Following Ransomware Attack<a href="https://www.nytimes.com/2021/06/07/nyregion/cyberattack-law-department-nyc.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+City officials said they had disconnected the Law Department computers from the city’s larger network on Sunday afternoon. It remained unclear who was behind the incident, according to an official.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
