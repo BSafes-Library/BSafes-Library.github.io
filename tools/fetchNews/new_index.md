@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS paid $11 million to REvil ransomware, $22.5M first demanded<a href="https://www.bleepingcomputer.com/news/security/jbs-paid-11-million-to-revil-ransomware-225m-first-demanded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JBS, the world's largest beef producer, has confirmed that they paid an $11 million ransom after the REvil ransomware operation initially demanded $22.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meat processor JBS paid $11 million in ransom to hackers<a href="https://www.nytimes.com/2021/06/09/business/jbs-cyberattack-ransom.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The F.B.I. said last week that it believed REvil, a Russian-based group that is one of the most prolific ransomware organizations, was responsible for the attack on the meat processing giant.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerging Ransomware Targets Dozens of Businesses Worldwide<a href="https://thehackernews.com/2021/06/emerging-ransomware-targets-dozens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging ransomware strain in the threat landscape claims to have breached 30 organizations in just four months since it went operational, riding on the coattails of a notorious ransomware syndicate.  First observed in February 2021, " Prometheus " is an offshoot of another well-known ransomware variant called  Thanos , which was previously deployed against state-run organizations in the Middle East and North Africa last year.  The affected entities are believed to be government, financial services, manufacturing, logistics, consulting, agriculture, healthcare services, insurance agencies, energy and law firms in the U.S., U.K., and a dozen more countries in Asia, Europe, the Middle East, and South America, according to new research published by Palo Alto Networks' Unit 42 threat intelligence team.   Like other ransomware gangs, Prometheus takes advantage of double-extortion tactics and hosts a dark web leak site, where it names and shames new victims and makes stolen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schools Forced to Shut Following Critical Ransomware Attack<a href="https://www.infosecurity-magazine.com:443/news/schools-shut-ransomware-attacl/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack has encrypted and stolen sensitive data from two schools in England
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT breached the network of Dutch police in 2017<a href="https://securityaffairs.co/wordpress/118794/apt/russia-linked-apt-dutch-police.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked cyberspies breached the internal network of Dutch police in 2017 while the authorities were investigating the crash of the MH-17.
+
+
+
+Russia-linked threat actors breached the internal network of Dutch police in 2017 during the investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA launches platform to let hackers report security bugs to US federal agencies<a href="https://techcrunch.com/2021/06/08/cisa-launches-platform-to-let-hackers-report-security-bugs-to-us-federal-agencies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency has launched a vulnerability disclosure program allowing ethical hackers to report security flaws to federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Breached Password Detection Services to Prevent Cyberattack<a href="https://thehackernews.com/2021/06/using-breached-password-detection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bolstering password policies in your organization is an important part of a robust cybersecurity strategy. Cybercriminals are using compromised accounts as one of their favorite tactics to infiltrate business-critical environments; as we've seen in recent news, these attacks can be dangerous and financially impactful.  Unfortunately, account compromise is a very successful attack method and requires much less effort than other attack vectors.  One of the essential types of password protection recommended by noted cybersecurity standards is  breached password detection . Hackers often use known breached password lists in credential stuffing or password spraying attacks.  Here are some critical criteria to consider when your sysadmins are evaluating breached password protection solutions.   Breached password recommendations  In the last few years, password security recommendations have evolved past the traditional recommendations regarding password security.   Businesses have used M
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High Street Banks Exposing Customers to Phishing Attacks<a href="https://www.infosecurity-magazine.com:443/news/high-street-banks-exposing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banks should do more to protect their customers from criminals trying to steal sensitive information, Which? research finds
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Known as Max Is a 55-Year-Old Woman, Prosecutors Say<a href="https://www.bloomberg.com/news/articles/2021-06-09/hacker-known-as-max-is-55-year-old-woman-from-russia-u-s-says?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alla Witte, now 55, assumed the identity “Max” and started writing illicit code, according to a federal indictment unsealed on February 8 after she was detained in Miami.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS Admits Paying REvil Ransomware Group $11 Million<a href="https://www.infosecurity-magazine.com:443/news/jbs-admits-paying-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The meat processing giant claims to have paid Russian-speaking hackers millions in bitcoin to restore services
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RSA Security spins out its Fraud & Risk Intelligence business into standalone company called Outseer<a href="https://www.zdnet.com/article/rsa-security-spins-out-its-fraud-risk-intelligence-business-into-standalone-company-called-outseer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RSA Security is spinning out its anti-fraud and payments security business into a new standalone company called Outseer. The new organization will be led by CEO Reed Taussig.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Linked to Russian Intelligence Agencies Breached Dutch Police Systems<a href="https://therecord.media/russian-hackers-breached-dutch-police-systems-in-2017/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intrusion was uncovered by the Dutch intelligence service AIVD after it saw a Dutch police IP address communicating with known malicious servers operated by Russian state-sponsored threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: ML infrastructure under atack from cryptomining gangs again<a href="https://therecord.media/microsoft-ml-infrastructure-under-atack-from-cryptomining-gangs-again/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it detected a new malicious campaign that is hijacking Azure infrastructure typically used for machine learning operations in order to deploy cryptocurrency mining workloads.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Warned About DoS Flaws in Popular Open Source Message Brokers<a href="https://www.securityweek.com/organizations-warned-about-dos-flaws-popular-open-source-message-brokers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A type of malformed message that causes a DoS condition has been identified for RabbitMQ, EMQ X, and VerneMQ, but there does not appear to be a single message that impacts all three brokers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is how fast a password leaked on the web will be tested out by hackers<a href="https://www.zdnet.com/article/this-is-how-fast-a-password-leaked-on-the-web-will-be-tested-out-by-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new study, Agari researchers found that the accounts are actively accessed within hours of the login credentials being posted online on phishing websites and forums.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Pwned Colonial With Old VPN Password<a href="https://threatpost.com/darkside-pwned-colonial-with-old-vpn-password/166743/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers accessed a VPN account that was no longer in use to freeze the company’s network in a ransomware attack whose repercussions are still vibrating.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beef Supplier JBS Paid Hackers $11 Million Ransom After Cyberattack<a href="https://thehackernews.com/2021/06/beef-supplier-jbs-paid-hackers-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meat processing company JBS on Wednesday confirmed it paid extortionists $11 million in bitcoins to regain access to its systems following a destructive ransomware attack late last month.  "In consultation with internal IT professionals and third-party cybersecurity experts, the company made the decision to mitigate any unforeseen issues related to the attack and ensure no data was exfiltrated," JBS USA  said  in a statement, with CEO Andre Nogueira adding the firm made the "very difficult decision" to prevent any potential risk for its customers.  Stating that third-party forensic investigations into the incident are still ongoing, the company noted that no company, customer, or employee data was compromised as a consequence of the breach. The FBI officially discourages victims from paying ransoms because doing so can establish a profitable criminal marketplace.  JBS, the world's largest meat company by sales, on May 30  disclosed  it fell prey to an "org
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
