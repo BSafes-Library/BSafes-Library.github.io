@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chrome 0-Day Bug Under Active Attacks – Update Your Browser ASAP!<a href="https://thehackernews.com/2021/06/new-chrome-0-day-bug-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attention readers, if you are using Google Chrome browser on your Windows, Mac, or Linux computers, you need to update it immediately to the latest version Google released earlier today.  Google on Wednesday rolled out an urgent update for Chrome browser to address 14 newly discovered security issues, including a zero-day flaw that it says is being actively exploited in the wild.  Tracked as  CVE-2021-30551 , the vulnerability stems from a type confusion issue in its V8 open-source and JavaScript engine. Sergei Glazunov of Google Project Zero has been credited with discovering and reporting the flaw.   Although the search giant's Chrome team issued a terse statement acknowledging "an exploit for CVE-2021-30551 exists in the wild," Shane Huntley, Director of Google's Threat Analysis Group,  hinted  that the vulnerability was leveraged by the same actor that abused  CVE-2021-33742 , an actively exploited remote code execution flaw in Windows MSHTML platform that was ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Supreme Court Reins In the CFAA in Van Buren<a href="https://www.lawfareblog.com/supreme-court-reins-cfaa-van-buren"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court handed down its first major decision construing the Computer Fraud and Abuse Act last week. The decision is a major victory for those of us who favor a narrow reading of the CFAA.  It doesn't answer everything. But it answers a lot.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

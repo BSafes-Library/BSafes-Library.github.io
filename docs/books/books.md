@@ -16,6 +16,7 @@ nav_order: 400
 * [Cybersecurity in Elections - Models of Interagency Collaboration, by Sam van der Staak and Peter Wolf](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
 * [Crypto and Blockchain Fundamentals, by Mary C. Lacity](https://papers.bsafes.com/docs/cryptocurrency/crypto-and-blockchain-fundamentals/)
 * [DIGITAL DOMINION:How the Syrian regime’s mass digital surveillance violates human rights](https://papers.bsafes.com/docs/privacy/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
+* [Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack, by Harrison Cunningham](https://papers.bsafes.com/docs/cybercrime/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)
 * [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
 * [Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts](https://papers.bsafes.com/docs/Politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
 * [Grief is love with nowhere to go, by Sara Sampson](https://papers.bsafes.com/docs/behavior/grief-is-love-with-nowhere-to-go/)

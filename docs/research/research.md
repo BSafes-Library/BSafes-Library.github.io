@@ -249,6 +249,18 @@ Many online chat applications live in a grey area between the legitimate web and
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack [HTML](https://papers.bsafes.com/docs/cybercrime/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A successful large-scale cyberterrorism attack has never been conducted against the United States, yet cyberterrorism is a real and evolving threat.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Impact of Information Breaches on Health Care Records [HTML](https://papers.bsafes.com/docs/breaches/impact-of-information-breaches-on-health-care-records/)
 </p>
 <details>
