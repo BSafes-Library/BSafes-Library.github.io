@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Foodservice supplier Edward Don hit by a ransomware attack<a href="https://www.bleepingcomputer.com/news/security/foodservice-supplier-edward-don-hit-by-a-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foodservice supplier Edward Don has suffered a ransomware attack that has caused the company to shut down portions of the network to prevent the attack's spread.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan senators introduce bill to protect small businesses from cyberattacks<a href="https://thehill.com//policy/cybersecurity/557908-bipartisan-senators-introduce-bill-to-protect-small-businesses-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators Thursday introduced a bill intended to protect small businesses from cyberattacks after hacks crippled some of the country’s largest companies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CD Projekt: Data stolen in ransomware attack now circulating online<a href="https://www.bleepingcomputer.com/news/security/cd-projekt-data-stolen-in-ransomware-attack-now-circulating-online/"> Full Text</a>
 </p>
 <details>
