@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How the FBI Recovered Bitcoin Ransom Paid to Darkside Ransomware Gang<a href="https://cyware.com/news/how-the-fbi-recovered-bitcoin-ransom-paid-to-darkside-ransomware-gang-02887672"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ has seized approximately $2.3 million ransom amount in BTC paid to DarkSide by Colonial Pipeline last month. The FBI used a bitcoin private key to prevent the transaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Hits US Nuclear Weapons Contractor: Report<a href="https://threatpost.com/revil-hits-us-nuclear-weapons-contractor-sol-oriens/166858/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We hereby keep a right (sic) to forward all of the relevant documentation and data to military agencies of our choise (sic)” REvil reportedly wrote.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diving Into the Roots of the Relentless Ransomware Catastrophe<a href="https://cyware.com/news/diving-into-the-roots-of-the-relentless-ransomware-catastrophe-55ca62c8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang recently attacked JBS, the world’s largest meat processing company. The attack forced the company to shut down its Australian and North American IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 McDonald’s Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/mcdonalds-suffers-data-breach/"> Full Text</a>
 </p>
 <details>
