@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 11th 2021 - Under Pressure<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-11th-2021-under-pressure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been quite the week when it comes to ransomware, with ransoms being paid, ransoms being taken back, and a ransomware gang shutting down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House targets tech giants with antitrust bills | Oversight chair presses JBS over payment to hackers | Trump spokesman to join tech company | YouTube suspends GOP senator<a href="https://thehill.com//policy/technology/overnights/558075-hillicon-valley-house-unveils-antitrust-package-to-rein-in-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top lawmakers on the House Judiciary Antitrust Subcommittee released a long-awaited antitrust agenda including five bills aimed at reining in the power of tech giants. Meanwhile, House Oversight and Reform Committee Chair Carolyn MaloneyCarolyn MaloneyOvernight Health Care: Fauci urges vaccination to protect against Delta variant | White House: 'Small fraction' of COVID-19 vaccine doses will be unused  Tlaib, Democrats slam GOP calls for border oversight to fight opioid crisis Maloney presses for action on bill focused on accountability in opioid crisis MORE (D-N.Y.) is pressing JBS USA to explain why it paid $11 million in ransom to a criminal group, and longtime Trump aide Jason Miller is on the move and will be taking a job at a tech start-up.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How far apart are the US and Russia from agreeing to cyber rules?<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/how-far-apart-are-the-us-and-russia-from-agreeing-to-cyber-rules/"> Full Text</a>
 </p>
 <details>
