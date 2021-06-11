@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CEO-Level Guide to Prevent Data Hacking Technologies & Incidents<a href="https://securityaffairs.co/wordpress/118868/security/ceo-guide-prevent-cyber-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The current era, where all data is digital, the threats of fraud, breach and data sprawl are more of a reality than ever.
+
+
+
+In these times, organizations not only take a hit because of the breached data and cyber threats, but also are heavily fined...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security company exec and founder charged with facilitating cyber attack on Georgia hospital<a href="https://www.scmagazine.com/home/health-care/security-company-exec-and-founder-charged-with-facilitating-cyber-attack-on-georgia-hospital/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations often look to cybersecurity companies to protect them, but the Department of Justice and prosecutors in Georgia are pursuing criminal charges against a executive of a security company for aiding an alleged cyberattack on a Georgia medical center in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal game source code from EA<a href="https://thehill.com//policy/cybersecurity/558038-hackers-steal-game-source-code-from-ea"> Full Text</a>
 </p>
 <details>
