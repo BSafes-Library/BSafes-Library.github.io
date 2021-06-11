@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Steal Some McDonald’s U.S. Business Information and Customer Data in South Korea and Taiwan<a href="https://www.axios.com/mcdonalds-cyber-hack-89833f46-8058-4d6c-a73f-b9bdd7f0253d.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole data, including customer emails, phone numbers, and addresses, from McDonald’s computer systems in the U.S., South Korea, and Taiwan, according to the Wall Street Journal.
+</details>
+<div style="text-align: right" markdown="1">
+Axios
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Update: Internal data from breach circulating online -CD Projekt<a href="https://www.reuters.com/technology/internal-data-breach-circulating-online-cd-projekt-2021-06-10/?&web_view=true"> Full Text</a>
 </p>
 <details>
