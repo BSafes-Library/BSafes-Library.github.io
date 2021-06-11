@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+COO Charged in Georgia Hospital Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/coo-charged-in-georgia-hospital/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal grand jury indicts security startup COO over 2018 attack on Gwinnett Medical Center
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Launches National AI Task Force<a href="https://www.infosecurity-magazine.com:443/news/us-launches-national-ai-task-force/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden administration creates national artificial intelligence research resource task force
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Monumental Supply-Chain Attack on Airlines Traced to State Actor<a href="https://threatpost.com/supply-chain-attack-airlines-state-actor/166842/"> Full Text</a>
 </p>
 <details>
