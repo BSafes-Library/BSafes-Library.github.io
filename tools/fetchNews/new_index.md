@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+McDonald's discloses data breach after theft of customer, employee info<a href="https://www.bleepingcomputer.com/news/security/mcdonalds-discloses-data-breach-after-theft-of-customer-employee-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McDonald's, the largest fast-food chain globally, has disclosed a data breach after hackers breached its systems and stole information belonging to customers and employees from the US, South Korea, and Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyberpunk 2077 Hacked Data Circulating Online<a href="https://threatpost.com/cyberpunk-2077-hacked-data-online/166852/"> Full Text</a>
 </p>
 <details>
