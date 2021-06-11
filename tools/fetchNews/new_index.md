@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Network security firm COO charged with medical center cyberattack<a href="https://www.bleepingcomputer.com/news/security/network-security-firm-coo-charged-with-medical-center-cyberattack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Department of Justice, International Law Enforcement Disrupt Major Marketplace for Cybercriminals<a href="https://www.cyberscoop.com/justice-department-international-law-enforcement-disrupt-major-marketplace-cybercriminals-slilpp/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Says Google's New Ad Tech—FLoC—Doesn't Protect User Privacy<a href="https://thehackernews.com/2021/06/mozilla-says-googles-new-ad.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gaming Giant EA Suffers Major Data Breach<a href="https://www.infosecurity-magazine.com:443/news/gaming-ea-suffers-data-breach/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mysterious custom malware used to steal 1.2TB of data from million PCs<a href="https://securityaffairs.co/wordpress/118842/malware/custom-malware-data-theft.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux system service bug lets you get root on most modern distros<a href="https://www.bleepingcomputer.com/news/security/linux-system-service-bug-lets-you-get-root-on-most-modern-distros/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 54% of all employees reuse passwords across multiple work accounts<a href="https://www.helpnetsecurity.com/2021/06/10/employees-reuse-passwords-across-multiple-work-accounts/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Can Exploit Samsung Pre-Installed Apps to Spy On Users<a href="https://thehackernews.com/2021/06/hackers-can-exploit-samsung-pre.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #G7UK: UK and US Strike New Agreements on Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/uk-us-cooperate-cybersecurity/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Al Jazeera detected and blocked disruptive cyberattacks<a href="https://securityaffairs.co/wordpress/118835/hacking/al-jazeera-cyber-attacks.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Fancy Lazarus' Criminal Group Launches DDoS Extortion Campaign<a href="https://beta.darkreading.com/threat-intelligence/-fancy-lazarus-criminal-group-launches-ddos-extortion-campaign?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Live Cybersecurity Webinar — Deconstructing Cobalt Strike<a href="https://thehackernews.com/2021/06/live-cybersecurity-webinar.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unknown Attacker Chains Chrome and Windows Zero-Days<a href="https://www.infosecurity-magazine.com:443/news/unknown-attacker-chains-chrome/"> Full Text</a>
@@ -250,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ announced to have shut down Slilpp marketplace in international operation<a href="https://securityaffairs.co/wordpress/118830/cyber-crime/doj-shut-down-slilpp-marketplace.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Scamdemic: Scams Become Number One Online Crime<a href="https://securityaffairs.co/wordpress/118828/cyber-crime/scams-online-crime.html?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7-Year-Old Polkit Flaw Lets Unprivileged Linux Users Gain Root Access<a href="https://thehackernews.com/2021/06/7-year-old-polkit-flaw-lets.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's New "Anti-Sanctions" Law Means Headache for Foreign Firms<a href="https://www.infosecurity-magazine.com:443/news/chinas-new-antisanctions-law/"> Full Text</a>
@@ -318,7 +318,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Sell Access to FIFA 21 Matchmaking Servers After Attack on Electronic Arts<a href="https://www.nytimes.com/2021/06/10/technology/electronic-arts-hacked.html?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cyber Espionage Group Targeting Ministries of Foreign Affairs<a href="https://thehackernews.com/2021/06/new-cyber-espionage-group-targeting.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum Breakthrough in Britain Creates 600km Secure Link<a href="https://www.infosecurity-magazine.com:443/news/quantum-breakthrough-britain-600km/"> Full Text</a>
@@ -366,7 +366,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CoWIN not hacked, 150 million Indians' data safe: Researcher<a href="https://ciso.economictimes.indiatimes.com/news/cowin-not-hacked-15-cr-indians-data-safe-researcher/83421952?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One step closer to quantum-secure conference calls<a href="https://www.helpnetsecurity.com/2021/06/11/quantum-secure-conference-calls/?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious web link targets Indian Government officials<a href="https://securereading.com/malicious-web-link-targets-indian-government-officials/?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Secure Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Smart Install Protocol Still Abused in Attacks, 5 Years After First Warning<a href="https://www.securityweek.com/cisco-smart-install-protocol-still-abused-attacks-5-years-after-first-warning?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome Browser Bug Under Active Attack<a href="https://threatpost.com/chrome-browser-bug-under-attack/166804/"> Full Text</a>
@@ -446,7 +446,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Big Cryptomining Attacks Hit Kubeflow<a href="https://threatpost.com/microsoft-cryptomining-kubeflow/166777/"> Full Text</a>
@@ -462,7 +462,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steam Gaming Platform Hosting Malware<a href="https://threatpost.com/steam-gaming-delivering-malware/166784/"> Full Text</a>
@@ -478,7 +478,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Authorities Shut Down Slilpp—Largest Marketplace for Stolen Logins<a href="https://thehackernews.com/2021/06/us-authorities-shut-down-slilpplargest.html"> Full Text</a>
