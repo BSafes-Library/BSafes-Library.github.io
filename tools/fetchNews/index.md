@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Monumental Supply-Chain Attack on Airlines Traced to State Actor<a href="https://threatpost.com/supply-chain-attack-airlines-state-actor/166842/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Airlines are warned to scour networks for traces of the campaign, likely the work of APT41, lurking in networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Grab Slilpp, Biggest Stolen-Logins Market<a href="https://threatpost.com/police-slilpp-market-stolen-logins/166812/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There were more than 80 million login credentials for sale, used to inflict over $200 million in losses in the U.S. alone.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Gelsemium Group Linked to NoxPlayer Supply-Chain Attack<a href="https://cyware.com/news/gelsemium-group-linked-to-noxplayer-supply-chain-attack-daab5afb"> Full Text</a>
 </p>
 <details>
