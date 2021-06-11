@@ -11,6 +11,20 @@ nav_order: 900163
 June 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Supreme Court Reins In the CFAA in Van Buren<a href="https://www.lawfareblog.com/supreme-court-reins-cfaa-van-buren"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court handed down its first major decision construing the Computer Fraud and Abuse Act last week. The decision is a major victory for those of us who favor a narrow reading of the CFAA. &nbsp;It doesn't answer everything. But it answers a lot.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pennsylvanian Charged over Trump Impersonation Fraud<a href="https://www.infosecurity-magazine.com:443/news/hall-charged-trump-impersonation/"> Full Text</a>
 </p>
 <details>

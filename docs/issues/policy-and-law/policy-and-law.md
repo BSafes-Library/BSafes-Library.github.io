@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Administrator Sentenced for Sabotaging Employer<a href="https://www.infosecurity-magazine.com:443/news/it-administrator-sentenced-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Terminated employee who deleted former employer's file server is placed in lockdown
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slilpp, the largest stolen logins market, seized by law enforcement<a href="https://www.bleepingcomputer.com/news/security/slilpp-the-largest-stolen-logins-market-seized-by-law-enforcement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Justice Department has announced today that a multinational operation took down Slillpp, the largest online marketplace of stolen login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arrest Made Over Multi-million-dollar BEC Scam<a href="https://www.infosecurity-magazine.com:443/news/arrest-made-over/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas cops arrest man who allegedly defrauded businesses and individuals out of $2.2m
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

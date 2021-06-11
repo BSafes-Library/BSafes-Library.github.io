@@ -34,7 +34,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foodservice supplier Edward Don hit by a ransomware attack<a href="https://www.bleepingcomputer.com/news/security/foodservice-supplier-edward-don-hit-by-a-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foodservice supplier Edward Don has suffered a ransomware attack that has caused the company to shut down portions of the network to prevent the attack's spread.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan senators introduce bill to protect small businesses from cyberattacks<a href="https://thehill.com//policy/cybersecurity/557908-bipartisan-senators-introduce-bill-to-protect-small-businesses-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators Thursday introduced a bill intended to protect small businesses from cyberattacks after hacks crippled some of the country’s largest companies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CD Projekt: Data stolen in ransomware attack now circulating online<a href="https://www.bleepingcomputer.com/news/security/cd-projekt-data-stolen-in-ransomware-attack-now-circulating-online/"> Full Text</a>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Victory Backdoor Targeting Southeast Asian Governments<a href="https://cyware.com/news/victory-backdoor-targeting-southeast-asian-governments-a9490f21"> Full Text</a>
@@ -67,7 +99,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Advocacy groups target Facebook employees in push to keep Trump off platform | Senior Biden cyber nominees sail through Senate hearing | State Dept. urges Nigeria to reverse Twitter ban<a href="https://thehill.com//policy/technology/overnights/557887-hillicon-valley-advocacy-groups-target-facebook-employees-in"> Full Text</a>
@@ -83,7 +115,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT Administrator Sentenced for Sabotaging Employer<a href="https://www.infosecurity-magazine.com:443/news/it-administrator-sentenced-for/"> Full Text</a>
@@ -99,7 +131,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Scamdemic: Scams Become Number One Online Crime<a href="https://securityaffairs.co/wordpress/118828/cyber-crime/scams-online-crime.html"> Full Text</a>
@@ -119,7 +151,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Nameless’ malware attacks 1.2TB database in the cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/nameless-malware-attacks-1-2tb-database-in-the-cloud/"> Full Text</a>
@@ -135,7 +167,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Fancy Lazarus’ Cyberattackers Ramp up Ransom DDoS Efforts<a href="https://threatpost.com/fancy-lazarus-cyberattackers-ransom-ddos/166811/"> Full Text</a>
@@ -151,7 +183,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slilpp, the largest stolen logins market, seized by law enforcement<a href="https://www.bleepingcomputer.com/news/security/slilpp-the-largest-stolen-logins-market-seized-by-law-enforcement/"> Full Text</a>
@@ -167,7 +199,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scams and Phishing Attacks Witness Explosion<a href="https://cyware.com/news/scams-and-phishing-attacks-witness-explosion-bcb23dad"> Full Text</a>
@@ -183,7 +215,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senior Biden cyber nominees sail through Senate hearing<a href="https://thehill.com//policy/cybersecurity/557864-senior-biden-cyber-nominees-sail-through-senate-hearing"> Full Text</a>
@@ -199,7 +231,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arrest Made Over Multi-million-dollar BEC Scam<a href="https://www.infosecurity-magazine.com:443/news/arrest-made-over/"> Full Text</a>
@@ -215,7 +247,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole data from the network of the gaming giant Electronic Arts<a href="https://securityaffairs.co/wordpress/118820/data-breach/electronic-arts-data-breach.html"> Full Text</a>
@@ -235,7 +267,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can machine learning help detect zero day malware?<a href="https://www.scmagazine.com/home/security-news/malware/can-machine-learning-help-detect-zero-day-malware/"> Full Text</a>
@@ -251,7 +283,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 STEM Audio Table Rife with Business-Threatening Bugs<a href="https://threatpost.com/stem-audio-table-business-bugs/166798/"> Full Text</a>
@@ -267,7 +299,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breach gaming giant Electronic Arts, steal game source code<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-gaming-giant-electronic-arts-steal-game-source-code/"> Full Text</a>
@@ -283,7 +315,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SteamHide Malware Hides Inside Steam Profile Images<a href="https://cyware.com/news/steamhide-malware-hides-inside-steam-profile-images-cbe5632c"> Full Text</a>
@@ -299,7 +331,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Texas to Publish Data Breach Notifications<a href="https://www.infosecurity-magazine.com:443/news/texas-to-publish-data-breach/"> Full Text</a>
@@ -315,7 +347,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JBS paid $11 million to REvil ransomware out of $22.5M requested<a href="https://securityaffairs.co/wordpress/118814/cyber-crime/jbs-revil-ransomware-2.html"> Full Text</a>
@@ -335,7 +367,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber nominees try to define their roles, and what that may mean for private sector partnership<a href="https://www.scmagazine.com/home/security-news/cyber-nominees-try-to-define-their-roles-and-what-that-may-mean-for-private-sector-partnership/"> Full Text</a>
@@ -351,7 +383,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JBS Paid $11M to REvil Gang Even After Restoring Operations<a href="https://threatpost.com/jbs-paid-11m/166767/"> Full Text</a>
@@ -367,7 +399,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can exploit bugs in Samsung pre-installed apps to spy on users<a href="https://www.bleepingcomputer.com/news/security/hackers-can-exploit-bugs-in-samsung-pre-installed-apps-to-spy-on-users/"> Full Text</a>
@@ -383,7 +415,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp Rebranded its Ransomware Operation Again<a href="https://cyware.com/news/evil-corp-rebranded-its-ransomware-operation-again-def20a21"> Full Text</a>
@@ -400,7 +432,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 #Infosec21: Lack of Vision Explains Cyber Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/infosec21-vision-cyber-skills/"> Full Text</a>
@@ -416,7 +448,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Chrome zero-day actively exploited<a href="https://securityaffairs.co/wordpress/118808/security/google-patches-chrome-zero-day.html"> Full Text</a>
@@ -436,7 +468,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meet ViVian, a new ID crime chatbot that may be used for future B2B cyber applications<a href="https://www.scmagazine.com/home/security-news/cybercrime/meet-vivian-a-new-id-crime-chatbot-that-may-be-used-for-future-b2b-cyber-applications/"> Full Text</a>
@@ -452,7 +484,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Now you can add cryptojacking, reverse proxy phishing to list of cryptocurrency threats<a href="https://www.zdnet.com/article/cryptojacking-dusting-and-reverse-proxy-phishing-to-list-of-cryptocurrency-cyberthreats/?&web_view=true"> Full Text</a>
@@ -468,7 +500,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enhancing cyber resilience: What your team needs to know<a href="https://www.helpnetsecurity.com/2021/06/09/enhancing-cyber-resilience/?&web_view=true"> Full Text</a>
@@ -484,7 +516,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most mobile finance apps vulnerable to data breaches<a href="https://www.helpnetsecurity.com/2021/06/09/mobile-finance-apps/?&web_view=true"> Full Text</a>
@@ -500,7 +532,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2021
+June 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ACSC scanning is allowing Commonwealth entities to avoid being hacked<a href="https://www.zdnet.com/article/acsc-scanning-is-allowing-commonwealth-entities-to-avoid-being-hacked/?&web_view=true"> Full Text</a>

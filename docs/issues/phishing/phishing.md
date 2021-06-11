@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Scamdemic: Scams Become Number One Online Crime<a href="https://securityaffairs.co/wordpress/118828/cyber-crime/scams-online-crime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunting and adversarial cyber intelligence company Group-IB published a comprehensive analysis of fraud cases on a global scale.
+
+
+
+Group-IB,&nbsp;&nbsp;a global threat hunting and adversarial cyber intelligence company specializing in the investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scams and Phishing Attacks Witness Explosion<a href="https://cyware.com/news/scams-and-phishing-attacks-witness-explosion-bcb23dad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing scams witnessed a staggering 974% spike, the majority of which were aimed at male-sounding names within an organization. Is it time organizations rethink their IT operations and risk-management strategies to effectively manage phishing threats?
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now you can add cryptojacking, reverse proxy phishing to list of cryptocurrency threats<a href="https://www.zdnet.com/article/cryptojacking-dusting-and-reverse-proxy-phishing-to-list-of-cryptocurrency-cyberthreats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common attack methods dominating the conversation in cybercriminal forums are reverse proxy phishing, cryptojacking, dusting, and clipping, according to a new study from Digital Shadows.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

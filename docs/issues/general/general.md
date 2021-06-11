@@ -11,6 +11,62 @@ nav_order: 900072
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Advocacy groups target Facebook employees in push to keep Trump off platform | Senior Biden cyber nominees sail through Senate hearing | State Dept. urges Nigeria to reverse Twitter ban<a href="https://thehill.com//policy/technology/overnights/557887-hillicon-valley-advocacy-groups-target-facebook-employees-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 30 advocacy groups are organizing to encourage Facebook employees to keep former President TrumpDonald TrumpFormer House Republican to challenge DeWine for Ohio gubernatorial nomination GOP senators press Justice Department to compare protest arrests to Capitol riot Overnight Defense: Austin directs classified initiatives to counter China | Biden emphasizes alliances in speech to troops | Lockdown lifted at Texas base after reported shooting MORE off the platform permanently. Meanwhile, President BidenJoe BidenWhite House announces major boost to global vaccine supply U.S. in talks to buy Moderna's COVID-19 vaccine to send abroad: report Pentagon to consider authorizing airstrikes in Afghanistan if country falls into crisis: report MORE’s nominees to hold the two most senior cyber positions in the federal government faced little opposition during their nomination hearing Thursday, and the State Department urged Nigeria to reverse its decision to suspend Twitter in the country.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can machine learning help detect zero day malware?<a href="https://www.scmagazine.com/home/security-news/malware/can-machine-learning-help-detect-zero-day-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The models have limitations, but researchers reported improvements in detection across a wide range of malware families.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#Infosec21: Lack of Vision Explains Cyber Skills Shortage<a href="https://www.infosecurity-magazine.com:443/news/infosec21-vision-cyber-skills/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco's Wendy Nather argues that it is not a pipeline problem but a lack of vision in the industry
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhancing cyber resilience: What your team needs to know<a href="https://www.helpnetsecurity.com/2021/06/09/enhancing-cyber-resilience/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By focusing on the “where” or “who,” organizations can often end up neglecting to analyze the nature of past attacks and discover the lessons that can be learned from them.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Using Breached Password Detection Services to Prevent Cyberattack<a href="https://thehackernews.com/2021/06/using-breached-password-detection.html"> Full Text</a>
 </p>
 <details>

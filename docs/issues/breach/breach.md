@@ -11,6 +11,52 @@ nav_order: 900029
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CD Projekt: Data stolen in ransomware attack now circulating online<a href="https://www.bleepingcomputer.com/news/security/cd-projekt-data-stolen-in-ransomware-attack-now-circulating-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CD Projekt is warning today that internal data stolen during their February ransomware attack is circulating on the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole data from the network of the gaming giant Electronic Arts<a href="https://securityaffairs.co/wordpress/118820/data-breach/electronic-arts-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers breached the network of the gaming giant&nbsp;Electronic Arts (EA) and have stolen roughly 780 GB of data, including game source code and tools.
+
+
+
+Hackers have compromised the network of the gaming giant&nbsp;Electronic Arts (EA) and claim to have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach gaming giant Electronic Arts, steal game source code<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-gaming-giant-electronic-arts-steal-game-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have breached the network of gaming giant&nbsp;Electronic Arts (EA) and claim to have stolen roughly 750 GB of data, including game source code and debug tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT breached the network of Dutch police in 2017<a href="https://securityaffairs.co/wordpress/118794/apt/russia-linked-apt-dutch-police.html"> Full Text</a>
 </p>
 <details>

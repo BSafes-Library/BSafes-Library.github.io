@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foodservice supplier Edward Don hit by a ransomware attack<a href="https://www.bleepingcomputer.com/news/security/foodservice-supplier-edward-don-hit-by-a-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foodservice supplier Edward Don has suffered a ransomware attack that has caused the company to shut down portions of the network to prevent the attack's spread.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Nameless’ malware attacks 1.2TB database in the cloud<a href="https://www.scmagazine.com/home/security-news/cloud-security/nameless-malware-attacks-1-2tb-database-in-the-cloud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The virus escaped with 6 million files that it grabbed from desktop and downloads folders. Screenshots made by the malware revealed that it spread via illegal Adobe PhotoShop software, Windows cracking tools, and pirated games.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

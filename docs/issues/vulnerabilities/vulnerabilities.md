@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STEM Audio Table Rife with Business-Threatening Bugs<a href="https://threatpost.com/stem-audio-table-business-bugs/166798/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The desktop conferencing IoT gadget allows remote attackers to install all kinds of malware and move laterally to other parts of enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Chrome zero-day actively exploited<a href="https://securityaffairs.co/wordpress/118808/security/google-patches-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week addressed 14 vulnerabilities in the Chrome browser, including a zero-day flaw that has been exploited in the wild.
+
+
+
+Google released security updates to address 14 vulnerabilities in the Chrome browser, including a zero-day issue that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most mobile finance apps vulnerable to data breaches<a href="https://www.helpnetsecurity.com/2021/06/09/mobile-finance-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Intertrust report comes at a time where finance mobile app usage has rapidly accelerated, with the number of user sessions in finance apps increasing by up to 49% over the first half of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

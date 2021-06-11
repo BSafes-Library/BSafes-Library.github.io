@@ -11,6 +11,62 @@ nav_order: 900075
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan senators introduce bill to protect small businesses from cyberattacks<a href="https://thehill.com//policy/cybersecurity/557908-bipartisan-senators-introduce-bill-to-protect-small-businesses-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators Thursday introduced a bill intended to protect small businesses from cyberattacks after hacks crippled some of the country’s largest companies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senior Biden cyber nominees sail through Senate hearing<a href="https://thehill.com//policy/cybersecurity/557864-senior-biden-cyber-nominees-sail-through-senate-hearing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nominees selected by President Biden to fill the top two cybersecurity positions in the federal government faced little opposition during their Senate nomination hearing on Thursday amid growing bipartisan concerns about increasing cyber threats.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas to Publish Data Breach Notifications<a href="https://www.infosecurity-magazine.com:443/news/texas-to-publish-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New law requires data breaches affecting 250 or more Texas residents to be posted online
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber nominees try to define their roles, and what that may mean for private sector partnership<a href="https://www.scmagazine.com/home/security-news/cyber-nominees-try-to-define-their-roles-and-what-that-may-mean-for-private-sector-partnership/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National cyber director nominee, Chris Inglis, pointed to three ways that more widespread adoption of cyber best practices could take hold: “One is enlightened self interest; that’s apparently not working. The second is market forces; that’s apparently not working. And the third is some imposition of standards or regulation on top of that.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA launches platform to let hackers report security bugs to US federal agencies<a href="https://techcrunch.com/2021/06/08/cisa-launches-platform-to-let-hackers-report-security-bugs-to-us-federal-agencies/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
