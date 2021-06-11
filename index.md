@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes actively exploited Chrome zero‑day<a href="https://www.welivesecurity.com/2021/06/10/google-fixes-actively-exploited-chrome-zero-day/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out an update for its Chrome web browser to fix a bunch of security flaws, including a zero-day vulnerability that is known to be actively exploited by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oversight chair presses JBS on why it paid ransom over cyberattack<a href="https://thehill.com//policy/finance/557975-oversight-chief-presses-jbs-on-why-it-paid-ransom-amid-cyber-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chairwoman of the House Oversight and Reform Committee is pressing JBS USA to explain why it paid $11 million in ransom to a criminal group earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonalds says data breach targeted South Korea and Taiwan operations<a href="https://thehill.com//policy/cybersecurity/557967-mcdonalds-says-data-breach-targeted-south-korea-and-taiwan-operations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McDonald’s said that it was the target of a data breach affecting its markets in South Korea and Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
