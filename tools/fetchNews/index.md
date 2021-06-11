@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fancy Lazarus is Active with Ransom DDoS Attacks<a href="https://cyware.com/news/fancy-lazarus-is-active-with-ransom-ddos-attacks-d0d08538"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint reported about a new DDoS extortion activity by a threat actor group called Fancy Lazarus. It was observed extorting funds from various organizations operating in the energy, financial, and manufacturing sectors, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 COO Charged in Georgia Hospital Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/coo-charged-in-georgia-hospital/"> Full Text</a>
 </p>
 <details>
