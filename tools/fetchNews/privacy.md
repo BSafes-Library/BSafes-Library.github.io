@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can exploit bugs in Samsung pre-installed apps to spy on users<a href="https://www.bleepingcomputer.com/news/security/hackers-can-exploit-bugs-in-samsung-pre-installed-apps-to-spy-on-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung is working on patching multiple vulnerabilities affecting its mobile devices that could be used for spying or to take full control of the system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

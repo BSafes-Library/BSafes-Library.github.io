@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Fancy Lazarus’ Cyberattackers Ramp up Ransom DDoS Efforts<a href="https://threatpost.com/fancy-lazarus-cyberattackers-ransom-ddos/166811/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group, known for masquerading as various APT groups, is back with a spate of attacks on U.S. companies.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Rebranded its Ransomware Operation Again<a href="https://cyware.com/news/evil-corp-rebranded-its-ransomware-operation-again-def20a21"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most-wanted Russian hacking group recently rebranded itself as new PayloadBIN ransomware to evade sanctions imposed by the U.S. Treasury. Previously, the gang had mimicked the Hades ransomware to bypass U.S. sanctions. The gang started rebranding its ransomware operations to different names (Ha ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

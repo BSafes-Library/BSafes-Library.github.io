@@ -11,6 +11,20 @@ nav_order: 900033
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Big Cryptomining Attacks Hit Kubeflow<a href="https://threatpost.com/microsoft-cryptomining-kubeflow/166777/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured dashboards are yet again at the heart of a widespread, ongoing cryptocurrency campaign squeezing Monero and Ethereum from Kubernetes clusters.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: ML infrastructure under atack from cryptomining gangs again<a href="https://therecord.media/microsoft-ml-infrastructure-under-atack-from-cryptomining-gangs-again/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

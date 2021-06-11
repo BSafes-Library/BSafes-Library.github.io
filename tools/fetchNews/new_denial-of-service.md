@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Fancy Lazarus' Criminal Group Launches DDoS Extortion Campaign<a href="https://beta.darkreading.com/threat-intelligence/-fancy-lazarus-criminal-group-launches-ddos-extortion-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercriminal group with a rotating list of names has resurfaced with a new email attack campaign threatening to launch a DDoS attack against target organizations that refuse to pay a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

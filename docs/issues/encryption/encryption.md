@@ -8,6 +8,34 @@ nav_order: 900056
 
 ## Encryption
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum Breakthrough in Britain Creates 600km Secure Link<a href="https://www.infosecurity-magazine.com:443/news/quantum-breakthrough-britain-600km/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breakthrough by Toshiba will enable long-distance quantum-secured information transfer
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One step closer to quantum-secure conference calls<a href="https://www.helpnetsecurity.com/2021/06/11/quantum-secure-conference-calls/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Quantum Key Distribution (QKD) technology deployed in this demonstration harnesses the properties of quantum physics to facilitate guaranteed secure distribution of cryptographic keys.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

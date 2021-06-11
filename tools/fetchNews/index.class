@@ -34,6 +34,466 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network security firm COO charged with medical center cyberattack<a href="https://www.bleepingcomputer.com/news/security/network-security-firm-coo-charged-with-medical-center-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The former chief operating officer of Securolytics, a network security company providing services for the health care industry, was charged with allegedly conducting a cyberattack on Georgia-based Gwinnett Medical Center (GMC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Department of Justice, International Law Enforcement Disrupt Major Marketplace for Cybercriminals<a href="https://www.cyberscoop.com/justice-department-international-law-enforcement-disrupt-major-marketplace-cybercriminals-slilpp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Justice Department partnered with international law enforcement to take down an online marketplace offering stolen login credentials for various accounts including bank and online payment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Says Google's New Ad Tech—FLoC—Doesn't Protect User Privacy<a href="https://thehackernews.com/2021/06/mozilla-says-googles-new-ad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's upcoming plans to replace third-party cookies with a less invasive ad targeted mechanism have a number of issues that could defeat its privacy objectives and allow for significant linkability of user behavior, possibly even identifying individual users.  "FLoC is premised on a compelling idea: enable ad targeting without exposing users to risk,"  said  Eric Rescorla, author of TLS standard and chief technology officer of Mozilla. "But the current design has a number of privacy properties that could create significant risks if it were to be widely deployed in its current form."  Short for Federated Learning of Cohorts,  FLoC  is part of Google's fledgling  Privacy Sandbox  initiative that aims to develop alternate solutions to satisfy cross-site use cases without resorting to third-party cookies or other opaque tracking mechanisms.  Essentially, FLoC allows marketers to guess users' interests without having to uniquely identify them, thereby eli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Giant EA Suffers Major Data Breach<a href="https://www.infosecurity-magazine.com:443/news/gaming-ea-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole 780GB of data, including source code for the popular football game FIFA 21
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious custom malware used to steal 1.2TB of data from million PCs<a href="https://securityaffairs.co/wordpress/118842/malware/custom-malware-data-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new mysterious malware that was used to collect a huge amount of data, including sensitive files, credentials, and cookies.
+
+
+
+Researchers from NordLocker have discovered an unsecured database containing 1.2-terabyte of stolen data....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux system service bug lets you get root on most modern distros<a href="https://www.bleepingcomputer.com/news/security/linux-system-service-bug-lets-you-get-root-on-most-modern-distros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unprivileged attackers can get a root shell by exploiting an authentication bypass vulnerability in the polkit auth system service installed by default on many modern Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+54% of all employees reuse passwords across multiple work accounts<a href="https://www.helpnetsecurity.com/2021/06/10/employees-reuse-passwords-across-multiple-work-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the start of the pandemic, employees have been engaging in poor cybersecurity practices on work devices, with business owners and C-level executives also failing to maintain cyber hygiene.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Exploit Samsung Pre-Installed Apps to Spy On Users<a href="https://thehackernews.com/2021/06/hackers-can-exploit-samsung-pre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical security flaws have been disclosed in Samsung's pre-installed Android apps, which, if successfully exploited, could have allowed adversaries access to personal data without users' consent and take control of the devices.   "The impact of these bugs could have allowed an attacker to access and edit the victim's contacts, calls, SMS/MMS, install arbitrary apps with device administrator rights, or read and write arbitrary files on behalf of a system user which could change the device's settings," Sergey Toshin, founder of mobile security startup Oversecured,  said  in an analysis published Thursday.   Toshin reported the flaws to Samsung in February 2021, following which  patches were issued  by the manufacturer as part of its monthly security updates for April and May. The list of the seven vulnerabilities is as follows -   CVE-2021-25356  - third-party authentication bypass in Managed Provisioning  CVE-2021-25388  - Arbitrary app installation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#G7UK: UK and US Strike New Agreements on Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/uk-us-cooperate-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US agree to cooperate more closely on improving cyber resilience and combating cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Al Jazeera detected and blocked disruptive cyberattacks<a href="https://securityaffairs.co/wordpress/118835/hacking/al-jazeera-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qatari government-funded international Arabic news channel Al Jazeera announced to have blocked a series of disruptive cyberattacks aimed at its news publishing platform.
+
+
+
+Qatari government-funded international Arabic news channel Al Jazeera announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Fancy Lazarus' Criminal Group Launches DDoS Extortion Campaign<a href="https://beta.darkreading.com/threat-intelligence/-fancy-lazarus-criminal-group-launches-ddos-extortion-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercriminal group with a rotating list of names has resurfaced with a new email attack campaign threatening to launch a DDoS attack against target organizations that refuse to pay a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live Cybersecurity Webinar — Deconstructing Cobalt Strike<a href="https://thehackernews.com/2021/06/live-cybersecurity-webinar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations' cybersecurity capabilities have improved over the past decade, mostly out of necessity. As their defenses get better, so do the methods, tactics, and techniques malicious actors devise to penetrate their environments.  Instead of the standard virus or trojan, attackers today will deploy a variety of tools and methods to infiltrate an organization's environment and attack it from the inside.  In an interesting twist of fate, one of the tools organizations have used to audit and improve their defenses has also become a popular tool attackers use to infiltrate. Cobalt Strike is an Adversary Simulation and Red Team Operations tool that allows organizations to simulate advanced attacks and test their security stacks in a close-to-real-world simulation.  A new research webinar from XDR provider Cynet ( register here ) offers a better look at Cobalt Strike. The webinar, led by Cyber Operations Analyst for the Cynet MDR Team Yuval Fischer, will take a deep dive into the thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown Attacker Chains Chrome and Windows Zero-Days<a href="https://www.infosecurity-magazine.com:443/news/unknown-attacker-chains-chrome/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky has branded the threat actor “PuzzleMaker”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ announced to have shut down Slilpp marketplace in international operation<a href="https://securityaffairs.co/wordpress/118830/cyber-crime/doj-shut-down-slilpp-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice seized the servers and domains of the popular cybercrime marketplace SlilPP.
+
+
+
+The US Department of Justice announced to have seized the infrastructure of SlilPP, a popular marketplace used by cybercriminals to buy and sell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Scamdemic: Scams Become Number One Online Crime<a href="https://securityaffairs.co/wordpress/118828/cyber-crime/scams-online-crime.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Group-IB, fraud accounts for 73% of all online attacks. 56% are scams that result in the victims disclosing sensitive data and 17% are phishing attacks involving theft of payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7-Year-Old Polkit Flaw Lets Unprivileged Linux Users Gain Root Access<a href="https://thehackernews.com/2021/06/7-year-old-polkit-flaw-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A seven-year-old privilege escalation vulnerability discovered in the polkit system service could be exploited by a malicious unprivileged local attacker to bypass authorization and escalate permissions to the root user.  Tracked as  CVE-2021-3560  (CVSS score: 7.8), the flaw affects polkit versions between 0.113 and 0.118 and was discovered by GitHub security researcher Kevin Backhouse, who said the issue was  introduced in a code commit  made on Nov. 9, 2013. Red Hat's Cedric Buissart  noted  that Debian-based distributions, based on polkit 0.105, are also vulnerable.   Polkit  (née PolicyKit) is a toolkit for defining and handling authorizations in Linux distributions, and is used for allowing unprivileged processes to communicate with privileged processes.  "When a requesting process disconnects from dbus-daemon just before the call to polkit_system_bus_name_get_creds_sync starts, the process cannot get a unique uid and pid of the process and it cannot verify the privileg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's New "Anti-Sanctions" Law Means Headache for Foreign Firms<a href="https://www.infosecurity-magazine.com:443/news/chinas-new-antisanctions-law/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beijing could seize assets or ban entities from doing business there
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Sell Access to FIFA 21 Matchmaking Servers After Attack on Electronic Arts<a href="https://www.nytimes.com/2021/06/10/technology/electronic-arts-hacked.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronic Arts, the maker of popular video games including FIFA, Madden, Sims, and others, said Thursday that it was investigating an intrusion that led to the leak of game source code and tools.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cyber Espionage Group Targeting Ministries of Foreign Affairs<a href="https://thehackernews.com/2021/06/new-cyber-espionage-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday took the wraps off a new cyberespionage group that has been behind a series of targeted attacks against diplomatic entities and telecommunication companies in Africa and the Middle East since at least 2017.  Dubbed " BackdoorDiplomacy ," the campaign involves targeting weak points in internet-exposed devices such as web servers to perform a panoply of cyber hacking activities, including laterally moving across the network to deploy a custom implant called Turian that's capable of exfiltrating sensitive data stored in removable media.   "BackdoorDiplomacy shares tactics, techniques, and procedures with other Asia-based groups. Turian likely represents a next stage evolution of  Quarian , the backdoor last observed in use in 2013 against diplomatic targets in Syria and the U.S," said Jean-Ian Boutin, head of threat research at Slovak cybersecurity firm ESET.   Engineered to target both Windows and Linux operating systems, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum Breakthrough in Britain Creates 600km Secure Link<a href="https://www.infosecurity-magazine.com:443/news/quantum-breakthrough-britain-600km/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breakthrough by Toshiba will enable long-distance quantum-secured information transfer
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoWIN not hacked, 150 million Indians' data safe: Researcher<a href="https://ciso.economictimes.indiatimes.com/news/cowin-not-hacked-15-cr-indians-data-safe-researcher/83421952?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group going by the name of "Dark Leak Market" had claimed that they have a database of about 150 million Indians who registered themselves on the CoWIN portal and are reselling it.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One step closer to quantum-secure conference calls<a href="https://www.helpnetsecurity.com/2021/06/11/quantum-secure-conference-calls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Quantum Key Distribution (QKD) technology deployed in this demonstration harnesses the properties of quantum physics to facilitate guaranteed secure distribution of cryptographic keys.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious web link targets Indian Government officials<a href="https://securereading.com/malicious-web-link-targets-indian-government-officials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious link was shared through WhatsApp, SMS, and email on June 9. Some officials even received phone calls where the caller said he was calling from an Army Hospital.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Smart Install Protocol Still Abused in Attacks, 5 Years After First Warning<a href="https://www.securityweek.com/cisco-smart-install-protocol-still-abused-attacks-5-years-after-first-warning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco’s Smart Install protocol is still being abused in attacks — five years since it issued its first warning — and there are still 18,000 internet-exposed devices that could be targeted by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Browser Bug Under Active Attack<a href="https://threatpost.com/chrome-browser-bug-under-attack/166804/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched its Chrome browser, fixing one critical cache issue and a second bug being actively exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Big Cryptomining Attacks Hit Kubeflow<a href="https://threatpost.com/microsoft-cryptomining-kubeflow/166777/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured dashboards are yet again at the heart of a widespread, ongoing cryptocurrency campaign squeezing Monero and Ethereum from Kubernetes clusters.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steam Gaming Platform Hosting Malware<a href="https://threatpost.com/steam-gaming-delivering-malware/166784/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emerging malware is lurking in Steam profile images.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Shut Down Slilpp—Largest Marketplace for Stolen Logins<a href="https://thehackernews.com/2021/06/us-authorities-shut-down-slilpplargest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) Thursday said it disrupted and took down the infrastructure of an underground marketplace known as " Slilpp " that specialized in trading stolen login credentials as part of an international law enforcement operation.  Over a dozen individuals have been charged or arrested in connection with the illegal marketplace. The cyber crackdown, which involved the joint efforts of the U.S., Germany, the Netherlands, and Romania, also commandeered a set of servers hosting its infrastructure as well as the multiple domains the group operated.   Operational since 2012, Slilpp was an marketplace for allegedly stolen online account login credentials belonging to 1,400 companies worldwide, offering for sale more than 80 million plundered usernames and passwords for bank accounts, online payment accounts, mobile phone accounts, retailer accounts, and other online accounts, which were abused to conduct unauthorized transactions, such as wire transfers, fr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

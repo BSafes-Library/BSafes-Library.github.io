@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux system service bug lets you get root on most modern distros<a href="https://www.bleepingcomputer.com/news/security/linux-system-service-bug-lets-you-get-root-on-most-modern-distros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unprivileged attackers can get a root shell by exploiting an authentication bypass vulnerability in the polkit auth system service installed by default on many modern Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown Attacker Chains Chrome and Windows Zero-Days<a href="https://www.infosecurity-magazine.com:443/news/unknown-attacker-chains-chrome/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky has branded the threat actor “PuzzleMaker”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7-Year-Old Polkit Flaw Lets Unprivileged Linux Users Gain Root Access<a href="https://thehackernews.com/2021/06/7-year-old-polkit-flaw-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A seven-year-old privilege escalation vulnerability discovered in the polkit system service could be exploited by a malicious unprivileged local attacker to bypass authorization and escalate permissions to the root user.  Tracked as&nbsp; CVE-2021-3560 &nbsp;(CVSS score: 7.8), the flaw affects polkit versions between 0.113 and 0.118 and was discovered by GitHub security researcher Kevin Backhouse, who said the issue was&nbsp; introduced in a code commit &nbsp;made on Nov. 9, 2013. Red Hat's Cedric Buissart&nbsp; noted &nbsp;that Debian-based distributions, based on polkit 0.105, are also vulnerable.   Polkit &nbsp;(née PolicyKit) is a toolkit for defining and handling authorizations in Linux distributions, and is used for allowing unprivileged processes to communicate with privileged processes.  "When a requesting process disconnects from dbus-daemon just before the call to polkit_system_bus_name_get_creds_sync starts, the process cannot get a unique uid and pid of the process and it cannot verify the privileg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Smart Install Protocol Still Abused in Attacks, 5 Years After First Warning<a href="https://www.securityweek.com/cisco-smart-install-protocol-still-abused-attacks-5-years-after-first-warning?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco’s Smart Install protocol is still being abused in attacks — five years since it issued its first warning — and there are still 18,000 internet-exposed devices that could be targeted by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Browser Bug Under Active Attack<a href="https://threatpost.com/chrome-browser-bug-under-attack/166804/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched its Chrome browser, fixing one critical cache issue and a second bug being actively exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

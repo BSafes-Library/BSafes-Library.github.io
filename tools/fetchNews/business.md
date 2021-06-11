@@ -11,6 +11,38 @@ nav_order: 900027
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+JBS paid $11 million to REvil ransomware out of $22.5M requested<a href="https://securityaffairs.co/wordpress/118814/cyber-crime/jbs-revil-ransomware-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The beef producer JBS has admitted to have paid an $11 million ransom to the REvil ransomware gang after the group initially demanded $22.5 million.
+
+
+
+The meat processing giant JBS confirmed it paid the REvil ransomware gang $11 million in bitcoins...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JBS Paid $11M to REvil Gang Even After Restoring Operations<a href="https://threatpost.com/jbs-paid-11m/166767/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision to pay the ransom demanded by the cybercriminal group was to avoid any further issues or potential problems for its customers, according to the company’s CEO.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Meat processor JBS paid $11 million in ransom to hackers<a href="https://www.nytimes.com/2021/06/09/business/jbs-cyberattack-ransom.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

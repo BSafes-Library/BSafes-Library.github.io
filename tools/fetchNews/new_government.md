@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#G7UK: UK and US Strike New Agreements on Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/uk-us-cooperate-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US agree to cooperate more closely on improving cyber resilience and combating cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious web link targets Indian Government officials<a href="https://securereading.com/malicious-web-link-targets-indian-government-officials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious link was shared through WhatsApp, SMS, and email on June 9. Some officials even received phone calls where the caller said he was calling from an Army Hospital.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

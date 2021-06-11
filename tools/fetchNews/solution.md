@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet ViVian, a new ID crime chatbot that may be used for future B2B cyber applications<a href="https://www.scmagazine.com/home/security-news/cybercrime/meet-vivian-a-new-id-crime-chatbot-that-may-be-used-for-future-b2b-cyber-applications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resource-depleted businesses could use version of this tool to field help desk calls and reports of cyber incidents.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACSC scanning is allowing Commonwealth entities to avoid being hacked<a href="https://www.zdnet.com/article/acsc-scanning-is-allowing-commonwealth-entities-to-avoid-being-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under its Cyber Hygiene Improvement Programs (CHIPs), the ACSC was able to identify vulnerable, internet-exposed MobileIron systems across Commonwealth, state and territory, and local governments.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
