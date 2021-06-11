@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyberpunk 2077 Hacked Data Circulating Online<a href="https://threatpost.com/cyberpunk-2077-hacked-data-online/166852/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CD Projekt Red confirmed that employee and game-related data appears to be floating around the cyber-underground, four months after a hack on the Witcher and Cyberpunk 2077 developer.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Compromise Websites of a US Federal Library and an African Bank<a href="https://news.softpedia.com/news/iranian-hackers-compromise-websites-of-an-african-bank-and-a-us-federal-library-533190.shtml?&web_view=true"> Full Text</a>
 </p>
 <details>
