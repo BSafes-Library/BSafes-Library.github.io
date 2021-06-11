@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Shut Down Slilpp—Largest Marketplace for Stolen Logins<a href="https://thehackernews.com/2021/06/us-authorities-shut-down-slilpplargest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) Thursday said it disrupted and took down the infrastructure of an underground marketplace known as " Slilpp " that specialized in trading stolen login credentials as part of an international law enforcement operation.  Over a dozen individuals have been charged or arrested in connection with the illegal marketplace. The cyber crackdown, which involved the joint efforts of the U.S., Germany, the Netherlands, and Romania, also commandeered a set of servers hosting its infrastructure as well as the multiple domains the group operated.   Operational since 2012, Slilpp was an marketplace for allegedly stolen online account login credentials belonging to 1,400 companies worldwide, offering for sale more than 80 million plundered usernames and passwords for bank accounts, online payment accounts, mobile phone accounts, retailer accounts, and other online accounts, which were abused to conduct unauthorized transactions, such as wire transfers, fr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
