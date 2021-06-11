@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Notification no-nos: What to avoid when alerting customers of a breach<a href="https://www.scmagazine.com/home/security-news/data-breach/notification-no-nos-what-to-avoid-when-alerting-customers-of-a-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts revealed to SC Media what they believe are some of the biggest errors companies can make when notifying the public of a breach, from revealing too little or too much, to scapegoating or downplaying the incident.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Bugs Found Lurking in Provisioning Platform Used with Cisco UC<a href="https://threatpost.com/unpatched-bugs-provisioning-cisco-uc/166882/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of security flaws open the door to remote-code execution and a malware tsunami.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Teamsters refused to pay a ransomware attack in 2019<a href="https://thehill.com//policy/cybersecurity/558066-teamsters-refused-to-pay-a-ransomware-attack-in-2019"> Full Text</a>
 </p>
 <details>
