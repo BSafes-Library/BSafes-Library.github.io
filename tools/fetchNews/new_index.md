@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Avaddon ransomware gang shuts down their operations and releases decryption keys<a href="https://securityaffairs.co/wordpress/118872/cyber-crime/avaddon-ransomware-shuts-down-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avaddon ransomware gang has shut down its operations and released the decryption keys to allow victims to recover their files for free.
+
+
+
+Good news for the victims of the Avaddon ransomware gang, the cybercrime group has shut down its operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 11th 2021 - Under Pressure<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-11th-2021-under-pressure/"> Full Text</a>
 </p>
 <details>
