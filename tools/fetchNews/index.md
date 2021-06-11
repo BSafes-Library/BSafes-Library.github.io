@@ -37,6 +37,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Gelsemium Group Linked to NoxPlayer Supply-Chain Attack<a href="https://cyware.com/news/gelsemium-group-linked-to-noxplayer-supply-chain-attack-daab5afb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts took the wraps off of activities of Gelsemium APT, which uses state-of-the-art supply chain attack techniques against targets, including electronics manufacturers, in East Asia and the Middle East. &nbsp;Its attack strategy indicates that the group is predetermined about its targets and cou ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baby Clothes Giant Carter’s Leaks 410K Customer Records<a href="https://threatpost.com/baby-clothes-carters-leaks-customer-records/166866/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Purchase automation software delivered shortened URLs without protections.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How the FBI Recovered Bitcoin Ransom Paid to Darkside Ransomware Gang<a href="https://cyware.com/news/how-the-fbi-recovered-bitcoin-ransom-paid-to-darkside-ransomware-gang-02887672"> Full Text</a>
 </p>
 <details>
