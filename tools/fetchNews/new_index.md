@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Codecov ditches Bash Uploader for a NodeJS executable<a href="https://www.bleepingcomputer.com/news/security/codecov-ditches-bash-uploader-for-a-nodejs-executable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov has now introduced a new cross-platform uploader meant to replace its former Bash Uploader. The new uploader is available as a static binary executable currently supporting the Windows, Linux, and macOS operating systems. However, some have raised concerns with the new uploader and the many dependencies it contains.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-3560 flaw in polkit auth system service affects most of Linux distros<a href="https://securityaffairs.co/wordpress/118877/security/polkit-auth-linux-distros.html"> Full Text</a>
 </p>
 <details>
