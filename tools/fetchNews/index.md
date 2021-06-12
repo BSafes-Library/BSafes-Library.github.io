@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Emerge on How Gaming Giant EA Was Hacked<a href="https://www.darkreading.com/attacks-breaches/details-emerge-on-how-gaming-giant-ea-was-hacked/d/d-id/1341277?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group stole the source code for FIFA 21 and related tools that match players with other players, as well as the source code for the Frostbite engine that powers games like Battlefield and other internal game development tools.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hit Teamsters in 2019 — but they refused to pay<a href="https://www.nbcnews.com/tech/security/ransomware-attack-hit-teamsters-2019-they-refused-pay-n1270461?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike many of the companies hit by high-profile ransomware attacks in recent months, the union declined to pay, despite the FBI's advice to do so, three sources familiar with the previously unreported cyberattack told NBC News.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy Sets Up Cybersecurity Agency After Russia Warnings<a href="https://www.securityweek.com/italy-sets-cybersecurity-agency-after-russia-warnings?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy has created a national cybersecurity agency following warnings by Prime Minister Mario Draghi that Europe needed to protect itself from Russian "interference." The new agency was approved in a cabinet meeting this week.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Discloses Details of Easy-to-Exploit Linux Vulnerability<a href="https://www.securityweek.com/github-discloses-details-easy-exploit-linux-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, classified as high severity and tracked as CVE-2021-3560, impacts polkit, an authorization service that is present by default in many Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK tells UN that nation-states should retaliate against cyber badness with no warning<a href="https://www.theregister.com/2021/06/11/uk_ungge_cyber_norms_submission/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A statement made by UK diplomats to the UN's Group of Governmental Experts on Advancing Responsible State Behaviour in the Context of International Security (UN GGE) called for international law to permit retaliation for cyberattacks with no notice.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
