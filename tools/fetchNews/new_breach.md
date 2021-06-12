@@ -11,6 +11,132 @@ nav_order: 900029
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Notification no-nos: What to avoid when alerting customers of a breach<a href="https://www.scmagazine.com/home/security-news/data-breach/notification-no-nos-what-to-avoid-when-alerting-customers-of-a-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts revealed to SC Media what they believe are some of the biggest errors companies can make when notifying the public of a breach, from revealing too little or too much, to scapegoating or downplaying the incident.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal game source code from EA<a href="https://thehill.com//policy/cybersecurity/558038-hackers-steal-game-source-code-from-ea"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular video game maker Electronic Arts (EA) recently suffered a breach by hackers who stole data including game source code.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baby Clothes Giant Carter’s Leaks 410K Customer Records<a href="https://threatpost.com/baby-clothes-carters-leaks-customer-records/166866/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Purchase automation software delivered shortened URLs without protections.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald’s Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/mcdonalds-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Burger chain breach impacts US operations and employees and diners in South Korea and Taiwan
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald's discloses data breach after theft of customer, employee info<a href="https://www.bleepingcomputer.com/news/security/mcdonalds-discloses-data-breach-after-theft-of-customer-employee-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McDonald's, the largest fast-food chain globally, has disclosed a data breach after hackers breached its systems and stole information belonging to customers and employees from the US, South Korea, and Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberpunk 2077 Hacked Data Circulating Online<a href="https://threatpost.com/cyberpunk-2077-hacked-data-online/166852/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CD Projekt Red confirmed that employee and game-related data appears to be floating around the cyber-underground, four months after a hack on the Witcher and Cyberpunk 2077 developer.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Compromise Websites of a US Federal Library and an African Bank<a href="https://news.softpedia.com/news/iranian-hackers-compromise-websites-of-an-african-bank-and-a-us-federal-library-533190.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers claiming to be from Iran attacked the websites of Sierra Leone Commercial African Bank and the United States Federal Depository Library Program and posted pro-Iranian comments and graphics.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Steal Some McDonald’s U.S. Business Information and Customer Data in South Korea and Taiwan<a href="https://www.axios.com/mcdonalds-cyber-hack-89833f46-8058-4d6c-a73f-b9bdd7f0253d.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole data, including customer emails, phone numbers, and addresses, from McDonald’s computer systems in the U.S., South Korea, and Taiwan, according to the Wall Street Journal.
+</details>
+<div style="text-align: right" markdown="1">
+Axios
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Internal data from breach circulating online -CD Projekt<a href="https://www.reuters.com/technology/internal-data-breach-circulating-online-cd-projekt-2021-06-10/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internal company data leaked during a February security breach is now being circulated on the internet, Polish video games maker CD Projekt said in a statement published on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Gaming Giant EA Suffers Major Data Breach<a href="https://www.infosecurity-magazine.com:443/news/gaming-ea-suffers-data-breach/"> Full Text</a>
 </p>
 <details>

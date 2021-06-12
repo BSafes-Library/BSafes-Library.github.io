@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonalds says data breach targeted South Korea and Taiwan operations<a href="https://thehill.com//policy/cybersecurity/557967-mcdonalds-says-data-breach-targeted-south-korea-and-taiwan-operations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McDonald’s said that it was the target of a data breach affecting its markets in South Korea and Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

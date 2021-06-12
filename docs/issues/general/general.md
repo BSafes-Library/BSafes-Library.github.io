@@ -11,6 +11,94 @@ nav_order: 900072
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House targets tech giants with antitrust bills | Oversight chair presses JBS over payment to hackers | Trump spokesman to join tech company | YouTube suspends GOP senator<a href="https://thehill.com//policy/technology/overnights/558075-hillicon-valley-house-unveils-antitrust-package-to-rein-in-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top lawmakers on the House Judiciary Antitrust Subcommittee released a long-awaited antitrust agenda including five bills aimed at reining in the power of tech giants. Meanwhile, House Oversight and Reform Committee Chair Carolyn MaloneyCarolyn MaloneyOvernight Health Care: Fauci urges vaccination to protect against Delta variant | White House: 'Small fraction' of COVID-19 vaccine doses will be unused  Tlaib, Democrats slam GOP calls for border oversight to fight opioid crisis Maloney presses for action on bill focused on accountability in opioid crisis MORE (D-N.Y.) is pressing JBS USA to explain why it paid $11 million in ransom to a criminal group, and longtime Trump aide Jason Miller is on the move and will be taking a job at a tech start-up.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Alliance releases new security guidance for telehealth organizations<a href="https://www.scmagazine.com/home/security-news/cloud-security/cloud-security-alliance-releases-new-security-guidance-for-telehealth-organizations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developed by the CSA’s Health Information Management Working Group, the Telehealth Risk Management publication offers best practices for the creation, storage, use, sharing, archiving, and potential destruction of data in three specific domains: governance, privacy, and security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CEO-Level Guide to Prevent Data Hacking Technologies &amp; Incidents<a href="https://securityaffairs.co/wordpress/118868/security/ceo-guide-prevent-cyber-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The current era, where all data is digital, the threats of fraud, breach and data sprawl are more of a reality than ever.
+
+
+
+In these times, organizations not only take a hit because of the breached data and cyber threats, but also are heavily fined...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the FBI Recovered Bitcoin Ransom Paid to Darkside Ransomware Gang<a href="https://cyware.com/news/how-the-fbi-recovered-bitcoin-ransom-paid-to-darkside-ransomware-gang-02887672"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ has seized approximately $2.3 million ransom amount in BTC paid to DarkSide by Colonial Pipeline last month. The FBI used a bitcoin private key to prevent the transaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fighting Insider Abuse After Van Buren<a href="https://www.lawfareblog.com/fighting-insider-abuse-after-van-buren"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A win for civil libertarians does not mean a loss for data owners.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oversight chair presses JBS on why it paid ransom over cyberattack<a href="https://thehill.com//policy/finance/557975-oversight-chief-presses-jbs-on-why-it-paid-ransom-amid-cyber-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chairwoman of the House Oversight and Reform Committee is pressing JBS USA to explain why it paid $11 million in ransom to a criminal group earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 54% of all employees reuse passwords across multiple work accounts<a href="https://www.helpnetsecurity.com/2021/06/10/employees-reuse-passwords-across-multiple-work-accounts/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

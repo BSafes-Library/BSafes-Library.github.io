@@ -8,6 +8,66 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network security firm COO charged with medical center cyberattack<a href="https://www.bleepingcomputer.com/news/security/network-security-firm-coo-charged-with-medical-center-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The former chief operating officer of&nbsp;Securolytics, a network security company providing services for the health care industry, was charged with allegedly conducting a cyberattack on Georgia-based Gwinnett Medical Center (GMC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ announced to have shut down Slilpp marketplace in international operation<a href="https://securityaffairs.co/wordpress/118830/cyber-crime/doj-shut-down-slilpp-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice seized the servers and domains of&nbsp;the popular cybercrime marketplace SlilPP.
+
+
+
+The US Department of Justice announced to have seized the infrastructure of&nbsp;SlilPP, a popular marketplace used by cybercriminals to buy and sell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's New "Anti-Sanctions" Law Means Headache for Foreign Firms<a href="https://www.infosecurity-magazine.com:443/news/chinas-new-antisanctions-law/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beijing could seize assets or ban entities from doing business there
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Shut Down Slilpp—Largest Marketplace for Stolen Logins<a href="https://thehackernews.com/2021/06/us-authorities-shut-down-slilpplargest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) Thursday said it disrupted and took down the infrastructure of an underground marketplace known as " Slilpp " that specialized in trading stolen login credentials as part of an international law enforcement operation.  Over a dozen individuals have been charged or arrested in connection with the illegal marketplace. The cyber crackdown, which involved the joint efforts of the U.S., Germany, the Netherlands, and Romania, also commandeered a set of servers hosting its infrastructure as well as the multiple domains the group operated.   Operational since 2012, Slilpp was an marketplace for allegedly stolen online account login credentials belonging to 1,400 companies worldwide, offering for sale more than 80 million plundered usernames and passwords for bank accounts, online payment accounts, mobile phone accounts, retailer accounts, and other online accounts, which were abused to conduct unauthorized transactions, such as wire transfers, fr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

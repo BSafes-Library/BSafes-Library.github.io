@@ -11,6 +11,34 @@ nav_order: 900220
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Bugs Found Lurking in Provisioning Platform Used with Cisco UC<a href="https://threatpost.com/unpatched-bugs-provisioning-cisco-uc/166882/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of security flaws open the door to remote-code execution and a malware tsunami.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes actively exploited Chrome zero‑day<a href="https://www.welivesecurity.com/2021/06/10/google-fixes-actively-exploited-chrome-zero-day/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out an update for its Chrome web browser to fix a bunch of security flaws, including a zero-day vulnerability that is known to be actively exploited by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linux system service bug lets you get root on most modern distros<a href="https://www.bleepingcomputer.com/news/security/linux-system-service-bug-lets-you-get-root-on-most-modern-distros/"> Full Text</a>
 </p>
 <details>

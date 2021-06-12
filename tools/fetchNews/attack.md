@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Al Jazeera detected and blocked disruptive cyberattacks<a href="https://securityaffairs.co/wordpress/118835/hacking/al-jazeera-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qatari government-funded international Arabic news channel Al Jazeera announced to have blocked a series of disruptive cyberattacks aimed at its news publishing platform.
+
+
+
+Qatari government-funded international Arabic news channel Al Jazeera announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

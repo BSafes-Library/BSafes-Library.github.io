@@ -11,6 +11,38 @@ nav_order: 900031
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Avaddon ransomware gang shuts down their operations and releases decryption keys<a href="https://securityaffairs.co/wordpress/118872/cyber-crime/avaddon-ransomware-shuts-down-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avaddon ransomware gang has shut down its operations and released the decryption keys to allow victims to recover their files for free.
+
+
+
+Good news for the victims of the Avaddon ransomware gang, the cybercrime group has shut down its operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon ransomware shuts down and releases decryption keys<a href="https://www.bleepingcomputer.com/news/security/avaddon-ransomware-shuts-down-and-releases-decryption-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avaddon ransomware gang has shut down operation and released the decryption keys for their victims to&nbsp;BleepingComputer.com.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Department of Justice, International Law Enforcement Disrupt Major Marketplace for Cybercriminals<a href="https://www.cyberscoop.com/justice-department-international-law-enforcement-disrupt-major-marketplace-cybercriminals-slilpp/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

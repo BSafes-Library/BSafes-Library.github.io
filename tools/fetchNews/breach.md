@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Giant EA Suffers Major Data Breach<a href="https://www.infosecurity-magazine.com:443/news/gaming-ea-suffers-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole 780GB of data, including source code for the popular football game FIFA 21
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious custom malware used to steal 1.2TB of data from million PCs<a href="https://securityaffairs.co/wordpress/118842/malware/custom-malware-data-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new mysterious malware that was used to collect a huge amount of data, including sensitive files, credentials, and cookies.
+
+
+
+Researchers from NordLocker have discovered an unsecured database containing 1.2-terabyte of stolen data....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoWIN not hacked, 150 million Indians' data safe: Researcher<a href="https://ciso.economictimes.indiatimes.com/news/cowin-not-hacked-15-cr-indians-data-safe-researcher/83421952?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group going by the name of "Dark Leak Market" had claimed that they have a database of about 150 million Indians who registered themselves on the CoWIN portal and are reselling it.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

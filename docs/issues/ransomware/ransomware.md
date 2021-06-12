@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 11th 2021 - Under Pressure<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-11th-2021-under-pressure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been quite the week when it comes to ransomware, with ransoms being paid, ransoms being taken back, and a ransomware gang shutting down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,91 @@ nav_order: 900015
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Motives for ransomware attack against nuclear contractor Sol Oriens remain unclear<a href="https://www.scmagazine.com/home/security-news/ransomware/motives-for-ransomware-attack-against-nuclear-contractor-sol-oriens-remain-unclear/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sol Oriens’ work around nuclear weapons raises concerns about the implications of a ransomware attack, though most experts still believe the motivations are financial.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teamsters refused to pay a ransomware attack in 2019<a href="https://thehill.com//policy/cybersecurity/558066-teamsters-refused-to-pay-a-ransomware-attack-in-2019"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Teamsters labor union was hit with a ransomware attack in 2019 but refused to pay the seven-figure payment demanded by hackers, despite being advised by the FBI to do so, a Teamsters spokesperson confirmed to The Hill.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monumental Supply-Chain Attack on Airlines Traced to State Actor<a href="https://threatpost.com/supply-chain-attack-airlines-state-actor/166842/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Airlines are warned to scour networks for traces of the campaign, likely the work of APT41, lurking in networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gelsemium Group Linked to NoxPlayer Supply-Chain Attack<a href="https://cyware.com/news/gelsemium-group-linked-to-noxplayer-supply-chain-attack-daab5afb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts took the wraps off of activities of Gelsemium APT, which uses state-of-the-art supply chain attack techniques against targets, including electronics manufacturers, in East Asia and the Middle East. &nbsp;Its attack strategy indicates that the group is predetermined about its targets and cou ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Hits US Nuclear Weapons Contractor: Report<a href="https://threatpost.com/revil-hits-us-nuclear-weapons-contractor-sol-oriens/166858/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We hereby keep a right (sic) to forward all of the relevant documentation and data to military agencies of our choise (sic)” REvil reportedly wrote.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diving Into the Roots of the Relentless Ransomware Catastrophe<a href="https://cyware.com/news/diving-into-the-roots-of-the-relentless-ransomware-catastrophe-55ca62c8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang recently attacked JBS, the world’s largest meat processing company. The attack forced the company to shut down its Australian and North American IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Al Jazeera detected and blocked disruptive cyberattacks<a href="https://securityaffairs.co/wordpress/118835/hacking/al-jazeera-cyber-attacks.html"> Full Text</a>
 </p>
 <details>

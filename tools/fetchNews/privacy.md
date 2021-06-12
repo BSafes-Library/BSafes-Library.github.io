@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Says Google's New Ad Tech—FLoC—Doesn't Protect User Privacy<a href="https://thehackernews.com/2021/06/mozilla-says-googles-new-ad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's upcoming plans to replace third-party cookies with a less invasive ad targeted mechanism have a number of issues that could defeat its privacy objectives and allow for significant linkability of user behavior, possibly even identifying individual users.  "FLoC is premised on a compelling idea: enable ad targeting without exposing users to risk,"&nbsp; said &nbsp;Eric Rescorla, author of TLS standard and chief technology officer of Mozilla. "But the current design has a number of privacy properties that could create significant risks if it were to be widely deployed in its current form."  Short for Federated Learning of Cohorts,&nbsp; FLoC &nbsp;is part of Google's fledgling&nbsp; Privacy Sandbox &nbsp;initiative that aims to develop alternate solutions to satisfy cross-site use cases without resorting to third-party cookies or other opaque tracking mechanisms.  Essentially, FLoC allows marketers to guess users' interests without having to uniquely identify them, thereby eli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Exploit Samsung Pre-Installed Apps to Spy On Users<a href="https://thehackernews.com/2021/06/hackers-can-exploit-samsung-pre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical security flaws have been disclosed in Samsung's pre-installed Android apps, which, if successfully exploited, could have allowed adversaries access to personal data without users' consent and take control of the devices.&nbsp;  "The impact of these bugs could have allowed an attacker to access and edit the victim's contacts, calls, SMS/MMS, install arbitrary apps with device administrator rights, or read and write arbitrary files on behalf of a system user which could change the device's settings," Sergey Toshin, founder of mobile security startup Oversecured,&nbsp; said &nbsp;in an analysis published Thursday.   Toshin reported the flaws to Samsung in February 2021, following which&nbsp; patches were issued &nbsp;by the manufacturer as part of its monthly security updates for April and May. The list of the seven vulnerabilities is as follows -   CVE-2021-25356 &nbsp;- third-party authentication bypass in Managed Provisioning  CVE-2021-25388 &nbsp;- Arbitrary app installation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

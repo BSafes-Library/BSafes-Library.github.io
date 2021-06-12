@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Department of Justice, International Law Enforcement Disrupt Major Marketplace for Cybercriminals<a href="https://www.cyberscoop.com/justice-department-international-law-enforcement-disrupt-major-marketplace-cybercriminals-slilpp/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Justice Department partnered with international law enforcement to take down an online marketplace offering stolen login credentials for various accounts including bank and online payment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Sell Access to FIFA 21 Matchmaking Servers After Attack on Electronic Arts<a href="https://www.nytimes.com/2021/06/10/technology/electronic-arts-hacked.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronic Arts, the maker of popular video games including FIFA, Madden, Sims, and others, said Thursday that it was investigating an intrusion that led to the leak of game source code and tools.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cyber Espionage Group Targeting Ministries of Foreign Affairs<a href="https://thehackernews.com/2021/06/new-cyber-espionage-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday took the wraps off a new cyberespionage group that has been behind a series of targeted attacks against diplomatic entities and telecommunication companies in Africa and the Middle East since at least 2017.  Dubbed " BackdoorDiplomacy ," the campaign involves targeting weak points in internet-exposed devices such as web servers to perform a panoply of cyber hacking activities, including laterally moving across the network to deploy a custom implant called Turian that's capable of exfiltrating sensitive data stored in removable media.   "BackdoorDiplomacy shares tactics, techniques, and procedures with other Asia-based groups. Turian likely represents a next stage evolution of&nbsp; Quarian , the backdoor last observed in use in 2013 against diplomatic targets in Syria and the U.S," said Jean-Ian Boutin, head of threat research at Slovak cybersecurity firm ESET.   Engineered to target both Windows and Linux operating systems, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

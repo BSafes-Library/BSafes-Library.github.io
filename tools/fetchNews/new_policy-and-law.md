@@ -11,6 +11,48 @@ nav_order: 900163
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Security company exec and founder charged with facilitating cyber attack on Georgia hospital<a href="https://www.scmagazine.com/home/health-care/security-company-exec-and-founder-charged-with-facilitating-cyber-attack-on-georgia-hospital/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations often look to cybersecurity companies to protect them, but the Department of Justice and prosecutors in Georgia are pursuing criminal charges against a executive of a security company for aiding an alleged cyberattack on a Georgia medical center in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COO Charged in Georgia Hospital Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/coo-charged-in-georgia-hospital/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal grand jury indicts security startup COO over 2018 attack on Gwinnett Medical Center
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Grab Slilpp, Biggest Stolen-Logins Market<a href="https://threatpost.com/police-slilpp-market-stolen-logins/166812/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There were more than 80 million login credentials for sale, used to inflict over $200 million in losses in the U.S. alone.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Network security firm COO charged with medical center cyberattack<a href="https://www.bleepingcomputer.com/news/security/network-security-firm-coo-charged-with-medical-center-cyberattack/"> Full Text</a>
 </p>
 <details>

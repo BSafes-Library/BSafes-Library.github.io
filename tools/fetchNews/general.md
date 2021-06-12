@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+54% of all employees reuse passwords across multiple work accounts<a href="https://www.helpnetsecurity.com/2021/06/10/employees-reuse-passwords-across-multiple-work-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the start of the pandemic, employees have been engaging in poor cybersecurity practices on work devices, with business owners and C-level executives also failing to maintain cyber hygiene.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live Cybersecurity Webinar — Deconstructing Cobalt Strike<a href="https://thehackernews.com/2021/06/live-cybersecurity-webinar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations' cybersecurity capabilities have improved over the past decade, mostly out of necessity. As their defenses get better, so do the methods, tactics, and techniques malicious actors devise to penetrate their environments.  Instead of the standard virus or trojan, attackers today will deploy a variety of tools and methods to infiltrate an organization's environment and attack it from the inside.  In an interesting twist of fate, one of the tools organizations have used to audit and improve their defenses has also become a popular tool attackers use to infiltrate. Cobalt Strike is an Adversary Simulation and Red Team Operations tool that allows organizations to simulate advanced attacks and test their security stacks in a close-to-real-world simulation.  A new research webinar from XDR provider Cynet ( register here ) offers a better look at Cobalt Strike. The webinar, led by Cyber Operations Analyst for the Cynet MDR Team Yuval Fischer, will take a deep dive into the thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
