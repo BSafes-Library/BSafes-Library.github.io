@@ -11,6 +11,38 @@ nav_order: 900075
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How far apart are the US and Russia from agreeing to cyber rules?<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/how-far-apart-are-the-us-and-russia-from-agreeing-to-cyber-rules/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harvard’s Belfer Center on Friday published a unique paper where U.S. and Russian researchers separately explained their nation’s perspective on a potential negotiation, what both sides actually want, and what would benefit both sides. SC Media spoke to one of the featured researchers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy announced its Cybersecurity Agency<a href="https://securityaffairs.co/wordpress/118855/security/italy-cybersecurity-agency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy announced the creation of the national cybersecurity agency, a move aimed at increase the level of cyber security of its infrastructure
+
+
+
+The Italian government has announced the creation of a new agency focused on cybersecurity, Prime Minister...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 #G7UK: UK and US Strike New Agreements on Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/uk-us-cooperate-cybersecurity/"> Full Text</a>
 </p>
 <details>

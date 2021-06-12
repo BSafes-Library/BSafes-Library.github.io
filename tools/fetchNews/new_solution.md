@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov ditches Bash Uploader for a NodeJS executable<a href="https://www.bleepingcomputer.com/news/security/codecov-ditches-bash-uploader-for-a-nodejs-executable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codecov has now introduced a new cross-platform&nbsp;uploader&nbsp;meant to replace its former Bash Uploader. The new uploader&nbsp;is available&nbsp;as a static binary executable currently supporting&nbsp;the Windows, Linux, and macOS operating systems. However, some have raised concerns with the new uploader and the many dependencies it contains.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

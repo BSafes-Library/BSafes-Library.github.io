@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intuit notifies customers of hacked TurboTax accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-notifies-customers-of-hacked-turbotax-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financial software company Intuit has notified&nbsp;TurboTax&nbsp;customers that some of their personal and financial information was accessed by attackers following what looks like a series of account takeover attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volkswagen discloses data breach, 3.3 million customers impacted<a href="https://securityaffairs.co/wordpress/118887/data-breach/volkswagen-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volkswagen America discloses a data breach at a third-party vendor that exposed the personal details of more than 3.3 million of its customers.
+
+
+
+Volkswagen America discloses a data breach suffered by a third-party vendor used by the car vendor for sales...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

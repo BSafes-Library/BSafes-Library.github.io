@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Emerge on How Gaming Giant EA Was Hacked<a href="https://www.darkreading.com/attacks-breaches/details-emerge-on-how-gaming-giant-ea-was-hacked/d/d-id/1341277?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group stole the source code for FIFA 21 and related tools that match players with other players, as well as the source code for the Frostbite engine that powers games like Battlefield and other internal game development tools.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hit Teamsters in 2019 — but they refused to pay<a href="https://www.nbcnews.com/tech/security/ransomware-attack-hit-teamsters-2019-they-refused-pay-n1270461?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike many of the companies hit by high-profile ransomware attacks in recent months, the union declined to pay, despite the FBI's advice to do so, three sources familiar with the previously unreported cyberattack told NBC News.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3560 flaw in polkit auth system service affects most of Linux distros<a href="https://securityaffairs.co/wordpress/118877/security/polkit-auth-linux-distros.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An authentication bypass flaw in the polkit auth system service used on most Linux distros can allow to get a root shell.
+
+
+
+An authentication bypass vulnerability in the polkit auth system service, tracked as&nbsp;CVE-2021-3560, which is used on most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Discloses Details of Easy-to-Exploit Linux Vulnerability<a href="https://www.securityweek.com/github-discloses-details-easy-exploit-linux-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, classified as high severity and tracked as CVE-2021-3560, impacts polkit, an authorization service that is present by default in many Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

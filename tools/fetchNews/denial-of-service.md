@@ -11,6 +11,20 @@ nav_order: 900042
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fancy Lazarus is Active with Ransom DDoS Attacks<a href="https://cyware.com/news/fancy-lazarus-is-active-with-ransom-ddos-attacks-d0d08538"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint reported about a new DDoS extortion activity by a threat actor group called Fancy Lazarus. It was observed extorting funds from various organizations operating in the energy, financial, and manufacturing sectors, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 'Fancy Lazarus' Criminal Group Launches DDoS Extortion Campaign<a href="https://beta.darkreading.com/threat-intelligence/-fancy-lazarus-criminal-group-launches-ddos-extortion-campaign?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

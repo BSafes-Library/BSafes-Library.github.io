@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intuit notifies customers of hacked TurboTax accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-notifies-customers-of-hacked-turbotax-accounts/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volkswagen discloses data breach, 3.3 million customers impacted<a href="https://securityaffairs.co/wordpress/118887/data-breach/volkswagen-data-breach.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Codecov ditches Bash Uploader for a NodeJS executable<a href="https://www.bleepingcomputer.com/news/security/codecov-ditches-bash-uploader-for-a-nodejs-executable/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-3560 flaw in polkit auth system service affects most of Linux distros<a href="https://securityaffairs.co/wordpress/118877/security/polkit-auth-linux-distros.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Details Emerge on How Gaming Giant EA Was Hacked<a href="https://www.darkreading.com/attacks-breaches/details-emerge-on-how-gaming-giant-ea-was-hacked/d/d-id/1341277?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack hit Teamsters in 2019 — but they refused to pay<a href="https://www.nbcnews.com/tech/security/ransomware-attack-hit-teamsters-2019-they-refused-pay-n1270461?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy Sets Up Cybersecurity Agency After Russia Warnings<a href="https://www.securityweek.com/italy-sets-cybersecurity-agency-after-russia-warnings?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Discloses Details of Easy-to-Exploit Linux Vulnerability<a href="https://www.securityweek.com/github-discloses-details-easy-exploit-linux-vulnerability?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK tells UN that nation-states should retaliate against cyber badness with no warning<a href="https://www.theregister.com/2021/06/11/uk_ungge_cyber_norms_submission/?&web_view=true"> Full Text</a>
