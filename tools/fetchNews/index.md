@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Volkswagen discloses data breach, 3.3 million customers impacted<a href="https://securityaffairs.co/wordpress/118887/data-breach/volkswagen-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volkswagen America discloses a data breach at a third-party vendor that exposed the personal details of more than 3.3 million of its customers.
+
+
+
+Volkswagen America discloses a data breach suffered by a third-party vendor used by the car vendor for sales...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Codecov ditches Bash Uploader for a NodeJS executable<a href="https://www.bleepingcomputer.com/news/security/codecov-ditches-bash-uploader-for-a-nodejs-executable/"> Full Text</a>
 </p>
 <details>
