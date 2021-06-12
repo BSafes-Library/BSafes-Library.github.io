@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Intuit notifies customers of hacked TurboTax accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-notifies-customers-of-hacked-turbotax-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financial software company Intuit has notified TurboTax customers that some of their personal and financial information was accessed by attackers following what looks like a series of account takeover attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Volkswagen discloses data breach, 3.3 million customers impacted<a href="https://securityaffairs.co/wordpress/118887/data-breach/volkswagen-data-breach.html"> Full Text</a>
 </p>
 <details>
