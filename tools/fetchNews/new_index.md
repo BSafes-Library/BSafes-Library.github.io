@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Motives for ransomware attack against nuclear contractor Sol Oriens remain unclear<a href="https://www.scmagazine.com/home/security-news/ransomware/motives-for-ransomware-attack-against-nuclear-contractor-sol-oriens-remain-unclear/"> Full Text</a>
@@ -50,7 +50,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaddon ransomware gang shuts down their operations and releases decryption keys<a href="https://securityaffairs.co/wordpress/118872/cyber-crime/avaddon-ransomware-shuts-down-operations.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 11th 2021 - Under Pressure<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-11th-2021-under-pressure/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: House targets tech giants with antitrust bills | Oversight chair presses JBS over payment to hackers | Trump spokesman to join tech company | YouTube suspends GOP senator<a href="https://thehill.com//policy/technology/overnights/558075-hillicon-valley-house-unveils-antitrust-package-to-rein-in-tech"> Full Text</a>
@@ -102,7 +102,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How far apart are the US and Russia from agreeing to cyber rules?<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/how-far-apart-are-the-us-and-russia-from-agreeing-to-cyber-rules/"> Full Text</a>
@@ -118,7 +118,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notification no-nos: What to avoid when alerting customers of a breach<a href="https://www.scmagazine.com/home/security-news/data-breach/notification-no-nos-what-to-avoid-when-alerting-customers-of-a-breach/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Bugs Found Lurking in Provisioning Platform Used with Cisco UC<a href="https://threatpost.com/unpatched-bugs-provisioning-cisco-uc/166882/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Teamsters refused to pay a ransomware attack in 2019<a href="https://thehill.com//policy/cybersecurity/558066-teamsters-refused-to-pay-a-ransomware-attack-in-2019"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Security Alliance releases new security guidance for telehealth organizations<a href="https://www.scmagazine.com/home/security-news/cloud-security/cloud-security-alliance-releases-new-security-guidance-for-telehealth-organizations/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CEO-Level Guide to Prevent Data Hacking Technologies & Incidents<a href="https://securityaffairs.co/wordpress/118868/security/ceo-guide-prevent-cyber-threats.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security company exec and founder charged with facilitating cyber attack on Georgia hospital<a href="https://www.scmagazine.com/home/health-care/security-company-exec-and-founder-charged-with-facilitating-cyber-attack-on-georgia-hospital/"> Full Text</a>
@@ -218,7 +218,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal game source code from EA<a href="https://thehill.com//policy/cybersecurity/558038-hackers-steal-game-source-code-from-ea"> Full Text</a>
@@ -234,7 +234,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fancy Lazarus is Active with Ransom DDoS Attacks<a href="https://cyware.com/news/fancy-lazarus-is-active-with-ransom-ddos-attacks-d0d08538"> Full Text</a>
@@ -250,7 +250,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COO Charged in Georgia Hospital Cyber-attack<a href="https://www.infosecurity-magazine.com:443/news/coo-charged-in-georgia-hospital/"> Full Text</a>
@@ -282,7 +282,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monumental Supply-Chain Attack on Airlines Traced to State Actor<a href="https://threatpost.com/supply-chain-attack-airlines-state-actor/166842/"> Full Text</a>
@@ -298,7 +298,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Grab Slilpp, Biggest Stolen-Logins Market<a href="https://threatpost.com/police-slilpp-market-stolen-logins/166812/"> Full Text</a>
@@ -314,7 +314,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gelsemium Group Linked to NoxPlayer Supply-Chain Attack<a href="https://cyware.com/news/gelsemium-group-linked-to-noxplayer-supply-chain-attack-daab5afb"> Full Text</a>
@@ -331,7 +331,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Baby Clothes Giant Carter’s Leaks 410K Customer Records<a href="https://threatpost.com/baby-clothes-carters-leaks-customer-records/166866/"> Full Text</a>
@@ -347,7 +347,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the FBI Recovered Bitcoin Ransom Paid to Darkside Ransomware Gang<a href="https://cyware.com/news/how-the-fbi-recovered-bitcoin-ransom-paid-to-darkside-ransomware-gang-02887672"> Full Text</a>
@@ -363,7 +363,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Hits US Nuclear Weapons Contractor: Report<a href="https://threatpost.com/revil-hits-us-nuclear-weapons-contractor-sol-oriens/166858/"> Full Text</a>
@@ -379,7 +379,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Diving Into the Roots of the Relentless Ransomware Catastrophe<a href="https://cyware.com/news/diving-into-the-roots-of-the-relentless-ransomware-catastrophe-55ca62c8"> Full Text</a>
@@ -395,7 +395,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McDonald’s Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/mcdonalds-suffers-data-breach/"> Full Text</a>
@@ -411,7 +411,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy announced its Cybersecurity Agency<a href="https://securityaffairs.co/wordpress/118855/security/italy-cybersecurity-agency.html"> Full Text</a>
@@ -431,7 +431,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fighting Insider Abuse After Van Buren<a href="https://www.lawfareblog.com/fighting-insider-abuse-after-van-buren"> Full Text</a>
@@ -447,7 +447,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McDonald's discloses data breach after theft of customer, employee info<a href="https://www.bleepingcomputer.com/news/security/mcdonalds-discloses-data-breach-after-theft-of-customer-employee-info/"> Full Text</a>
@@ -463,7 +463,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberpunk 2077 Hacked Data Circulating Online<a href="https://threatpost.com/cyberpunk-2077-hacked-data-online/166852/"> Full Text</a>
@@ -479,7 +479,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Compromise Websites of a US Federal Library and an African Bank<a href="https://news.softpedia.com/news/iranian-hackers-compromise-websites-of-an-african-bank-and-a-us-federal-library-533190.shtml?&web_view=true"> Full Text</a>
@@ -495,7 +495,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaddon ransomware shuts down and releases decryption keys<a href="https://www.bleepingcomputer.com/news/security/avaddon-ransomware-shuts-down-and-releases-decryption-keys/"> Full Text</a>
@@ -511,7 +511,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Steal Some McDonald’s U.S. Business Information and Customer Data in South Korea and Taiwan<a href="https://www.axios.com/mcdonalds-cyber-hack-89833f46-8058-4d6c-a73f-b9bdd7f0253d.html?&web_view=true"> Full Text</a>
@@ -527,7 +527,7 @@ Axios
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Internal data from breach circulating online -CD Projekt<a href="https://www.reuters.com/technology/internal-data-breach-circulating-online-cd-projekt-2021-06-10/?&web_view=true"> Full Text</a>
@@ -543,7 +543,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes actively exploited Chrome zero‑day<a href="https://www.welivesecurity.com/2021/06/10/google-fixes-actively-exploited-chrome-zero-day/?&web_view=true"> Full Text</a>
@@ -559,7 +559,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oversight chair presses JBS on why it paid ransom over cyberattack<a href="https://thehill.com//policy/finance/557975-oversight-chief-presses-jbs-on-why-it-paid-ransom-amid-cyber-attack"> Full Text</a>
@@ -575,7 +575,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2021
+June 11, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McDonalds says data breach targeted South Korea and Taiwan operations<a href="https://thehill.com//policy/cybersecurity/557967-mcdonalds-says-data-breach-targeted-south-korea-and-taiwan-operations"> Full Text</a>
