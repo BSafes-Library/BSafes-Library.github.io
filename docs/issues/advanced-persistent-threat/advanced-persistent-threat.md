@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackdoorDiplomacy APT targets diplomats from Africa and the Middle East<a href="https://securityaffairs.co/wordpress/118920/apt/backdoordiplomacy-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers discovered an advanced persistent threat (APT) group, tracked as BackdoorDiplomacy, that is targeting diplomats across Africa and the Middle East.&nbsp;
+
+
+
+ESET&nbsp;researchers spotted a new state-sponsored group, dubbed BackdoorDiplomacy,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

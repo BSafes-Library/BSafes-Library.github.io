@@ -34,6 +34,154 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol shuts down thousands of fake online pharmacies<a href="https://www.bleepingcomputer.com/news/security/interpol-shuts-down-thousands-of-fake-online-pharmacies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Interpol (International Criminal Police Organisation) has taken down thousands of online marketplaces that posed as pharmacies and pushed dangerous fake and illicit drugs and medicine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G-7 agrees to fight forced labor, ransomware, corruption<a href="https://thehill.com//homenews/administration/558182-g-7-agrees-to-fight-forced-labor-ransomware-corruption"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group of Seven (G-7) leaders on Sunday announced their commitments to cutting forced labor practices out of global supply chains in a shot at China, as well as efforts to stop ransomware attacks and root out corruption. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackdoorDiplomacy APT targets diplomats from Africa and the Middle East<a href="https://securityaffairs.co/wordpress/118920/apt/backdoordiplomacy-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers discovered an advanced persistent threat (APT) group, tracked as BackdoorDiplomacy, that is targeting diplomats across Africa and the Middle East. 
+
+
+
+ESET researchers spotted a new state-sponsored group, dubbed BackdoorDiplomacy,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APWG: Phishing maintained near-record levels in the first quarter of 2021<a href="https://securityaffairs.co/wordpress/118908/cyber-crime/apwg-phishing-record-q1-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anti-Phishing Working Group (APWG) revealed that the number of phishing websites peaked at record levels in the first quarter of 2021.
+
+
+
+The Anti-Phishing Working Group (APWG) has published its new Phishing Activity Trends Report related to the first...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 318<a href="https://securityaffairs.co/wordpress/118905/breaking-news/security-affairs-newsletter-round-318.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+REvil Ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh Crypto Attacks Targeting Kubernetes Clusters<a href="https://cyware.com/news/fresh-crypto-attacks-targeting-kubernetes-clusters-d182d04e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning against a new adversarial campaign that attempts to hijack Azure’s machine learning infrastructure to deploy cryptomining workloads. The recent attacks show how cybercriminals are increasingly targeting Kubernetes clusters and their surrounding ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Audi, Volkswagen data breach affects 3.3 million customers<a href="https://www.bleepingcomputer.com/news/security/audi-volkswagen-data-breach-affects-33-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Audi and Volkswagen have suffered a data breach affecting 3.3 million customers after a vendor exposed unsecured data on the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald’s  discloses data breach in US, Taiwan and South Korea<a href="https://securityaffairs.co/wordpress/118894/data-breach/mcdonalds-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McDonald's fast-food chain disclosed a data breach, hackers have stolen information belonging to customers and employees from the US, South Korea, and Taiwan.
+
+
+
+McDonald's, the world's largest restaurant chain by revenue, has disclosed a data breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

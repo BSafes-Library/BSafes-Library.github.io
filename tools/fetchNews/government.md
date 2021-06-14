@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy Sets Up Cybersecurity Agency After Russia Warnings<a href="https://www.securityweek.com/italy-sets-cybersecurity-agency-after-russia-warnings?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy has created a national cybersecurity agency following warnings by Prime Minister Mario Draghi that Europe needed to protect itself from Russian "interference." The new agency was approved in a cabinet meeting this week.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK tells UN that nation-states should retaliate against cyber badness with no warning<a href="https://www.theregister.com/2021/06/11/uk_ungge_cyber_norms_submission/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A statement made by UK diplomats to the UN's Group of Governmental Experts on Advancing Responsible State Behaviour in the Context of International Security (UN GGE) called for international law to permit retaliation for cyberattacks with no notice.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

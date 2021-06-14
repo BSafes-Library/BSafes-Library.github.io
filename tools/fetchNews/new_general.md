@@ -8,6 +8,46 @@ nav_order: 900072
 
 ## General
 ---
+June 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APWG: Phishing maintained near-record levels in the first quarter of 2021<a href="https://securityaffairs.co/wordpress/118908/cyber-crime/apwg-phishing-record-q1-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anti-Phishing Working Group (APWG) revealed that the number of phishing websites peaked at record levels in the first quarter of 2021.
+
+
+
+The Anti-Phishing Working Group (APWG) has published its new&nbsp;Phishing Activity Trends Report&nbsp;related to the first...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 318<a href="https://securityaffairs.co/wordpress/118905/breaking-news/security-affairs-newsletter-round-318.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe&nbsp;here.
+
+
+
+REvil Ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

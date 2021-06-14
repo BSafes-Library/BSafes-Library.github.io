@@ -11,6 +11,38 @@ nav_order: 900029
 June 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Audi, Volkswagen data breach affects 3.3 million customers<a href="https://www.bleepingcomputer.com/news/security/audi-volkswagen-data-breach-affects-33-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Audi and Volkswagen have suffered a data breach affecting 3.3 million customers after a vendor exposed unsecured data on the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald’s  discloses data breach in US, Taiwan and South Korea<a href="https://securityaffairs.co/wordpress/118894/data-breach/mcdonalds-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McDonald's fast-food chain disclosed a data breach, hackers have stolen information belonging to customers and employees from the US, South Korea, and Taiwan.
+
+
+
+McDonald's, the world's largest restaurant chain by revenue, has disclosed a data breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Intuit notifies customers of hacked TurboTax accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-notifies-customers-of-hacked-turbotax-accounts/"> Full Text</a>
 </p>
 <details>

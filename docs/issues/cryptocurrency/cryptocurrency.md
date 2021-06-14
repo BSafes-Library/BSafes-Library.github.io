@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh Crypto Attacks Targeting Kubernetes Clusters<a href="https://cyware.com/news/fresh-crypto-attacks-targeting-kubernetes-clusters-d182d04e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning against a new adversarial campaign that attempts to hijack Azure’s machine learning infrastructure to deploy cryptomining workloads. The recent attacks show how cybercriminals are increasingly targeting Kubernetes clusters and their surrounding ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
