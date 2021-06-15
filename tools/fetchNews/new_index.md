@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Avaddon ransomware's exit sheds light on victim landscape<a href="https://www.bleepingcomputer.com/news/security/avaddon-ransomwares-exit-sheds-light-on-victim-landscape/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report analyzes the recently released Avaddon ransomware decryption keys to shed light on the types of victims targeted by the threat actors and potential revenue they generated throughout their operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA working on additional pipeline security regulations following Colonial Pipeline hack<a href="https://thehill.com//policy/cybersecurity/558606-tsa-working-on-additional-pipeline-security-regulations-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) is working on an additional cybersecurity directive for pipeline companies in the wake of the ransomware attack on Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA offers peek at second pipeline directive<a href="https://www.scmagazine.com/home/security-news/ransomware/tsa-offers-peek-at-second-pipeline-directive/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a joint hearing of the House Homeland Security subcommittees on transportation and cybersecurity, a representative of the Transportation Security Agency outlined what to expect from an upcoming security directive for oil and gas pipelines. The TSA is the agency tasked with pipeline security. After the Colonial Pipeline ransomware incident, it took a landmark step…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Fujifilm restores operations after recent ransomware attack<a href="https://securityaffairs.co/wordpress/119005/cyber-crime/fujifilm-ransomware-attack.html"> Full Text</a>
 </p>
 <details>
