@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Moobot Targeting Tenda Router Bugs for Distribution<a href="https://cyware.com/news/moobot-targeting-tenda-router-bugs-for-distribution-cd9e34d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Underground malware domain Cyberium was spotted hosting an active Mirai variant to exploit an RCE in Tenda routers.&nbsp;Experts found several campaigns going back to as early as May 2020.&nbsp;It has been in action for the past year and appears to be still active.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Paradise Ransomware source code released on a hacking forum<a href="https://www.bleepingcomputer.com/news/security/paradise-ransomware-source-code-released-on-a-hacking-forum/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian State-Sponsored Cybercriminal Hacked Former Israeli Defense Chief<a href="https://news.softpedia.com/news/iran-said-to-hack-former-israeli-army-chief-of-staff-access-his-entire-computer-533222.shtml?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ Softpedia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Shed Light On Distinctive Tactics Used by Hades Ransomware<a href="https://thehackernews.com/2021/06/experts-shed-light-on-distinctive.html"> Full Text</a>
@@ -82,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IKEA Fined $1.2m for Spying on Employees<a href="https://www.infosecurity-magazine.com:443/news/ikea-fined-12m-for-spying-on/"> Full Text</a>
@@ -98,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protecting the Critical of Critical: What Is Systemically Important Critical Infrastructure?<a href="https://www.lawfareblog.com/protecting-critical-critical-what-systemically-important-critical-infrastructure"> Full Text</a>
@@ -114,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former NSA contractor Reality Winner who leaked gov report will be released on November<a href="https://securityaffairs.co/wordpress/119001/laws-and-regulations/reality-winner-out-of-prison.html"> Full Text</a>
@@ -134,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PDFs Flood the Web, Lead to Password-Snarfing<a href="https://threatpost.com/rotten-pdfs-flood-web-password-snarfing/166932/"> Full Text</a>
@@ -150,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Largest US propane distributor discloses '8-second' data breach<a href="https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/"> Full Text</a>
@@ -166,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unique TTPs link Hades ransomware to new threat group<a href="https://www.csoonline.com/article/3621764/unique-ttps-link-hades-ransomware-to-new-threat-group.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -182,7 +198,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram‌ ‌Bug Allowed Anyone to View Private Accounts Without Following Them<a href="https://thehackernews.com/2021/06/instagram-bug-allowed-anyone-to-view.html"> Full Text</a>
@@ -198,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NATO Warns it Will Consider a Military Response to Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/nato-warns-military-response-cyber/"> Full Text</a>
@@ -214,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram flaw allowed to see private, archived Posts/Stories of users without following them<a href="https://securityaffairs.co/wordpress/118994/security/instagram-flaw-2.html"> Full Text</a>
@@ -234,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Disrupts Large-Scale, Cloud-Based BEC Campaign<a href="https://threatpost.com/microsoft-disrupts-cloud-bec-campaign/166937/"> Full Text</a>
@@ -250,7 +266,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Workspace adds new phishing protection, client-side encryption<a href="https://www.bleepingcomputer.com/news/security/google-workspace-adds-new-phishing-protection-client-side-encryption/"> Full Text</a>
@@ -266,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero trust networking startup Elisity raises $26M<a href="https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/?&web_view=true"> Full Text</a>
@@ -282,7 +298,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Online Reviews Linked to $152 Billion in Global Purchases<a href="https://www.infosecurity-magazine.com:443/news/fake-online-reviews-152-billion/"> Full Text</a>
@@ -298,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wear your MASQ! New Device Fingerprint Spoofing Tool Available in Dark Web<a href="https://securityaffairs.co/wordpress/118981/cyber-crime/masq-fingerprint-spoofing-tool.html"> Full Text</a>
@@ -318,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insider Risks In the Work-From-Home World<a href="https://threatpost.com/insider-risks-work-from-home/166874/"> Full Text</a>
@@ -334,7 +350,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes ninth zero-day bug exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-ninth-zero-day-bug-exploited-in-the-wild-this-year/"> Full Text</a>
@@ -350,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Analytics Firm Cognyte’s Unsecured Database Exposes 5 Billion Records Online<a href="https://www.darkreading.com/attacks-breaches/cyber-analytics-database-exposed-5-billion-records-online/d/d-id/1341297?&web_view=true"> Full Text</a>
@@ -366,7 +382,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third of Staff Use Security Workarounds at Home<a href="https://www.infosecurity-magazine.com:443/news/third-of-staff-use-security/"> Full Text</a>
@@ -382,7 +398,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware gang hit US nuclear weapons contractor Sol Oriens<a href="https://securityaffairs.co/wordpress/118968/security/revil-ransomware-sol-oriens.html"> Full Text</a>
@@ -402,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SASE & Zero Trust: The Dream Team<a href="https://threatpost.com/sase-zero-trust-the-dream-team/166880/"> Full Text</a>
@@ -418,7 +434,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IRS, GAO at odds over cybersecurity requirements on tax preparers<a href="https://www.cyberscoop.com/irs-gao-cybersecurity-regulations-tax-preparers/?&web_view=true"> Full Text</a>
@@ -434,7 +450,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No Two REvil Attacks Are the Same, Experts Warn<a href="https://www.infosecurity-magazine.com:443/news/no-two-revil-attacks-are-the-same/"> Full Text</a>
@@ -450,7 +466,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Gets Second Shot at Banning hiQ from Scraping LinkedIn User Data<a href="https://threatpost.com/court-linkedin-data-scraping/166927/"> Full Text</a>
@@ -466,7 +482,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Seattle-based SEIU 775 Benefits Group Reports Data Breach Affecting 140,000 Individuals<a href="https://www.govinfosecurity.com/union-benefits-administrator-says-data-deleted-in-hack-a-16872?&web_view=true"> Full Text</a>
@@ -482,7 +498,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Issues Urgent Patches for 2 Zero-Day Flaws Exploited in the Wild<a href="https://thehackernews.com/2021/06/apple-issues-urgent-patches-for-2-zero.html"> Full Text</a>
