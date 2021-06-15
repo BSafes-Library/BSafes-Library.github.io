@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol shuts down thousands of fake online pharmacies<a href="https://www.bleepingcomputer.com/news/security/interpol-shuts-down-thousands-of-fake-online-pharmacies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Interpol (International Criminal Police Organisation) has taken down thousands of online marketplaces that posed as pharmacies and pushed dangerous fake and illicit drugs and medicine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

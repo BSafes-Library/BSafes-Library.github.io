@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G-7 agrees to fight forced labor, ransomware, corruption<a href="https://thehill.com//homenews/administration/558182-g-7-agrees-to-fight-forced-labor-ransomware-corruption"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group of Seven (G-7) leaders on&nbsp;Sunday announced their commitments to cutting forced labor practices out of global supply chains in a shot at China, as well as efforts to stop ransomware attacks and root out corruption.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 leaders ask Russia to hunt down ransomware gangs within its borders<a href="https://www.bleepingcomputer.com/news/security/g7-leaders-ask-russia-to-hunt-down-ransomware-gangs-within-its-borders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+G7 (Group of 7) leaders have asked Russia to urgently disrupt ransomware gangs believed to be operating within its borders, following a stream of attacks targeting organizations from critical sectors worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

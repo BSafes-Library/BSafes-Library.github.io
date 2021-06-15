@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major blackouts across Puerto Rico. Are the DDoS and the fire linked?<a href="https://securityaffairs.co/wordpress/118930/security/puerto-rico-blackout-dire-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fire and cyberattack hit an electrical substation for the electricity provider Luma Energy, causing major blackouts across Puerto Rico.
+
+
+
+A large fire at the Luma's Monacillo electrical substation in San Juan for Puerto Rico's new electricity provider,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

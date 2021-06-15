@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber resilience company Immersive Labs announces $75 million Series C round<a href="https://www.zdnet.com/article/cyber-resilience-company-immersive-labs-announces-75-million-series-c-round/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity readiness firm Immersive Labs has announced a $75 million Series C round, with investments from Citi Ventures, Menlo Ventures, and follow-on from Goldman Sachs Asset Management.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ServiceNow partners with ZScaler for remote access security<a href="https://www.scmagazine.com/home/security-news/cloud-security/servicenow-partners-with-zscaler-for-remote-access-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amit Raikar, vice president of technology alliances and business development at ZScaler, said the new integrations will enable ServiceNow users to access only company-owned devices. And by setting appropriate policies, ServiceNow users will only have access to the data they need to do their jobs.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

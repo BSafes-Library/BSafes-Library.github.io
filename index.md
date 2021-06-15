@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware hits US nuclear weapons contractor<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-us-nuclear-weapons-contractor/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Vulnerability in Facebook’s Messenger Rooms Could Expose Users’ Private Photos and Videos<a href="https://portswigger.net/daily-swig/android-screen-lock-protection-thwarted-by-facebook-messenger-rooms-exploit?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: NATO members agree to new cyber defense policy | YouTube banning politics, elections in masthead ads | 50 groups urge Biden to fill FCC position to reinstate net neutrality rules<a href="https://thehill.com//policy/cybersecurity/overnights/558398-hillicon-valley-nato-members-agree-to-new-cyber-defense"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Workspace Now Offers Client-side Encryption For Drive and Docs<a href="https://thehackernews.com/2021/06/google-workspace-now-offers-client-side.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VW Vendor Leaves Data Unsecured<a href="https://www.infosecurity-magazine.com:443/news/vw-vendor-leaves-data-unsecured/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress Has Already Authorized the President to Require Reporting of Foreign Cyberattacks<a href="https://www.lawfareblog.com/congress-has-already-authorized-president-require-reporting-foreign-cyberattacks"> Full Text</a>
@@ -130,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed 2 WebKit flaws exploited to target older iPhones<a href="https://securityaffairs.co/wordpress/118970/security/apple-fixed-webkit-flaws.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online map visualizes the widespread presence of automated ransomware<a href="https://www.scmagazine.com/home/security-news/ransomware/online-map-visualizes-the-widespread-presence-of-automated-ransomware/"> Full Text</a>
@@ -166,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 G7 leaders ask Russia to hunt down ransomware gangs within its borders<a href="https://www.bleepingcomputer.com/news/security/g7-leaders-ask-russia-to-hunt-down-ransomware-gangs-within-its-borders/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber resilience company Immersive Labs announces $75 million Series C round<a href="https://www.zdnet.com/article/cyber-resilience-company-immersive-labs-announces-75-million-series-c-round/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NATO members agree to new cyber defense policy<a href="https://thehill.com//policy/cybersecurity/558383-nato-member-states-agree-to-new-cyber-defense-policy-following"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NoxPlayer Supply-Chain Attack is Likely the Work of Gelsemium Hackers<a href="https://thehackernews.com/2021/06/noxplayer-supply-chain-attack-is-likely.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Claims Responsibility for Invenergy Hack<a href="https://www.infosecurity-magazine.com:443/news/revil-claims-responsibility-for/"> Full Text</a>
@@ -246,7 +246,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft experts disrupted a large-scale BEC campaign<a href="https://securityaffairs.co/wordpress/118958/cyber-crime/microsoft-disrupted-bec-campaign.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ServiceNow partners with ZScaler for remote access security<a href="https://www.scmagazine.com/home/security-news/cloud-security/servicenow-partners-with-zscaler-for-remote-access-security/"> Full Text</a>
@@ -282,7 +282,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Scammers bypass Office 365 MFA in BEC attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-scammers-bypass-office-365-mfa-in-bec-attacks/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Codecov to retire the Bash script responsible for supply chain attack wave<a href="https://www.zdnet.com/article/codecov-debuts-new-uploader-dismisses-bash-script-as-source-of-supply-chain-attack-risk/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Executive Order 2021: What It Means for Cloud and SaaS Security<a href="https://thehackernews.com/2021/06/cybersecurity-executive-order-2021-what.html"> Full Text</a>
@@ -330,7 +330,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Opposes Conditional Handover of Cyber-criminals<a href="https://www.infosecurity-magazine.com:443/news/biden-opposes-handover-putin/"> Full Text</a>
@@ -346,7 +346,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEO poisoning campaign aims at delivering RAT, Microsoft warns<a href="https://securityaffairs.co/wordpress/118944/cyber-crime/seo-poisoning-malware.html"> Full Text</a>
@@ -366,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One of ransomware’s top negotiators would rather you not have to hire him<a href="https://www.scmagazine.com/home/security-news/ransomware/one-of-ransomwares-top-negotiators-would-rather-you-not-have-to-hire-him/"> Full Text</a>
@@ -382,7 +382,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: SEO poisoning used to backdoor targets with malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-seo-poisoning-used-to-backdoor-targets-with-malware/"> Full Text</a>
@@ -398,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC Plans Rules on Climate Disclosures, Cyber Risks This Fall (1)<a href="https://news.bloomberglaw.com/securities-law/sec-proposals-on-climate-esg-disclosures-planned-for-october?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Bloomberg Law
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 54% of Senior Executives Struggling to Keep up with Threat Landscape<a href="https://www.infosecurity-magazine.com:443/news/54percent-fujitusu-threat-landscape/"> Full Text</a>
@@ -430,7 +430,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 G7 calls on Russia to dismantle operations of ransomware gangs within its borders<a href="https://securityaffairs.co/wordpress/118937/cyber-crime/g7-russia-ransomware-gang.html"> Full Text</a>
@@ -450,7 +450,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujifilm resumes normal operations after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fujifilm-resumes-normal-operations-after-ransomware-attack/"> Full Text</a>
@@ -466,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware hosting domain Cyberium fanning out Mirai variants<a href="https://cybersecurity.att.com/blogs/labs-research/malware-hosting-domain-cyberium-fanning-out-mirai-variants?&web_view=true"> Full Text</a>
@@ -482,7 +482,7 @@ AT&T Cybersecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Government Wants Startups to Build a More Secure Nation<a href="https://www.infosecurity-magazine.com:443/news/government-startups-build-secure/"> Full Text</a>
@@ -498,7 +498,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major blackouts across Puerto Rico. Are the DDoS and the fire linked?<a href="https://securityaffairs.co/wordpress/118930/security/puerto-rico-blackout-dire-ddos.html"> Full Text</a>
@@ -518,7 +518,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 G7 Turns Up the Heat on Putin Over Ransomware Attacks<a href="https://www.infosecurity-magazine.com:443/news/g7-turns-up-heat-putin-ransomware/"> Full Text</a>
@@ -534,7 +534,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2021
+June 14, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Police Close Record Number of Fake Pharma Sites<a href="https://www.infosecurity-magazine.com:443/news/global-police-close-fake-pharma/"> Full Text</a>
@@ -550,7 +550,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2021
+June 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Believed to be Behind Second Cyberattack on Air India<a href="https://thehackernews.com/2021/06/chinese-hackers-believed-to-be-behind.html"> Full Text</a>
