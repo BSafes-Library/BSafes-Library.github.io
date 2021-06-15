@@ -34,7 +34,539 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware hits US nuclear weapons contractor<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-us-nuclear-weapons-contractor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US nuclear weapons contractor Sol Oriens has suffered a cyberattack allegedly at the hands of the REvil ransomware gang, which claims to be auctioning data stolen during the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerability in Facebook’s Messenger Rooms Could Expose Users’ Private Photos and Videos<a href="https://portswigger.net/daily-swig/android-screen-lock-protection-thwarted-by-facebook-messenger-rooms-exploit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in Facebook’s Messenger Rooms video chat feature meant attackers could access a victim’s private Facebook photos and videos, and submit posts, via their locked Android screen.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: NATO members agree to new cyber defense policy | YouTube banning politics, elections in masthead ads | 50 groups urge Biden to fill FCC position to reinstate net neutrality rules<a href="https://thehill.com//policy/cybersecurity/overnights/558398-hillicon-valley-nato-members-agree-to-new-cyber-defense"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO member states, including the U.S., agreed to a new cyber defense policy that could lead to more consequences for cyberattacks by adversary nations. Meanwhile, YouTube announced a ban on certain political ads, and dozens of advocacy groups pressed President BidenJoe BidenBiden prepares to confront Putin Ukrainian president thanks G-7 nations for statement of support Biden aims to bolster troubled Turkey ties in first Erdoğan meeting MORE to nominate a candidate to fill an open spot at the Federal Communications Commission in order to bring back net neutrality. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Workspace Now Offers Client-side Encryption For Drive and Docs<a href="https://thehackernews.com/2021/06/google-workspace-now-offers-client-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday announced that it's rolling out client-side encryption to Google Workspace (formerly G Suite), thereby giving its enterprise customers direct control of encryption keys and the identity service they choose to access those keys.  "With client-side encryption, customer data is indecipherable to Google, while users can continue to take advantage of Google's native web-based collaboration, access content on mobile devices, and share encrypted files externally," the search giant  said .   "When combined with our other encryption capabilities, customers can add new levels of data protection for their Google Workspace data."   The development coincides with the Google Workspace and Google Chat's  broader availability to all users  with a Google account. Workspace is the company's enterprise offering consisting of Gmail, Chat, Calendar, Drive, Docs, Sheets, Slides, Meet, and other tools.   Businesses using Google Workspace have the choice o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VW Vendor Leaves Data Unsecured<a href="https://www.infosecurity-magazine.com:443/news/vw-vendor-leaves-data-unsecured/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breach of unsecured data stored by Volkswagen vendor affects 3.3 million people in North America
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Has Already Authorized the President to Require Reporting of Foreign Cyberattacks<a href="https://www.lawfareblog.com/congress-has-already-authorized-president-require-reporting-foreign-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Congress long ago gave the president broad authority under the International Emergency Economic Powers Act to require record-keeping and reporting on foreign cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed 2 WebKit flaws exploited to target older iPhones<a href="https://securityaffairs.co/wordpress/118970/security/apple-fixed-webkit-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released an out-of-band iOS update for older iPhones and iPads and warned that threat actors are actively exploiting two flaws in WebKit.
+
+
+
+Apple released an out-of-band iOS update ( iOS 12.5.4 patch) for older iPhones and iPad, the IT giant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online map visualizes the widespread presence of automated ransomware<a href="https://www.scmagazine.com/home/security-news/ransomware/online-map-visualizes-the-widespread-presence-of-automated-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sourced via open port scanning, map data serves as a reminder for companies to ensure that their security perimeters are secured.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 leaders ask Russia to hunt down ransomware gangs within its borders<a href="https://www.bleepingcomputer.com/news/security/g7-leaders-ask-russia-to-hunt-down-ransomware-gangs-within-its-borders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+G7 (Group of 7) leaders have asked Russia to urgently disrupt ransomware gangs believed to be operating within its borders, following a stream of attacks targeting organizations from critical sectors worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber resilience company Immersive Labs announces $75 million Series C round<a href="https://www.zdnet.com/article/cyber-resilience-company-immersive-labs-announces-75-million-series-c-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity readiness firm Immersive Labs has announced a $75 million Series C round, with investments from Citi Ventures, Menlo Ventures, and follow-on from Goldman Sachs Asset Management.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO members agree to new cyber defense policy<a href="https://thehill.com//policy/cybersecurity/558383-nato-member-states-agree-to-new-cyber-defense-policy-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and other North Atlantic Treaty Organization nations endorsed a new cyber defense policy Monday as part of the NATO summit in Brussels. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoxPlayer Supply-Chain Attack is Likely the Work of Gelsemium Hackers<a href="https://thehackernews.com/2021/06/noxplayer-supply-chain-attack-is-likely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber espionage group named Gelsemium has been linked to a  supply chain attack targeting the NoxPlayer  Android emulator that was disclosed earlier this year.  The findings come from a systematic analysis of multiple campaigns undertaken by the APT crew, with evidence of the earliest attack dating back all the way to 2014 under the codename  Operation TooHash  based on malware payloads deployed in those intrusions.  "Victims of these campaigns are located in East Asia as well as the Middle East and include governments, religious organizations, electronics manufacturers and universities," cybersecurity firm ESET  said  in an analysis published last week.   "Gelsemium's whole chain might appear simple at first sight, but the exhaustive configurations, implanted at each stage, modify on-the-fly settings for the final payload, making it harder to understand."  Targeted countries include China, Mongolia, North and South Korea, Japan, Turkey, Iran, Iraq, Saudi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Claims Responsibility for Invenergy Hack<a href="https://www.infosecurity-magazine.com:443/news/revil-claims-responsibility-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group that attacked JBS says it also hacked Chicago-based clean energy company
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft experts disrupted a large-scale BEC campaign<a href="https://securityaffairs.co/wordpress/118958/cyber-crime/microsoft-disrupted-bec-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disrupted a large-scale business email compromise (BEC) campaign that used forwarding rules to access messages related to financial transactions.
+
+
+
+Microsoft researchers announced to have disrupted the cloud-based infrastructure used by crooks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ServiceNow partners with ZScaler for remote access security<a href="https://www.scmagazine.com/home/security-news/cloud-security/servicenow-partners-with-zscaler-for-remote-access-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amit Raikar, vice president of technology alliances and business development at ZScaler, said the new integrations will enable ServiceNow users to access only company-owned devices. And by setting appropriate policies, ServiceNow users will only have access to the data they need to do their jobs.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Scammers bypass Office 365 MFA in BEC attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-scammers-bypass-office-365-mfa-in-bec-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft 365 Defender researchers have disrupted the cloud-based infrastructure used by scammers behind a recent large-scale business email compromise (BEC) campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov to retire the Bash script responsible for supply chain attack wave<a href="https://www.zdnet.com/article/codecov-debuts-new-uploader-dismisses-bash-script-as-source-of-supply-chain-attack-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Francisco-based DevOps tool provider said in a blog post that the new NodeJS-based uploader will be shipped as a static binary executable suitable for Windows, Linux, Alpine Linux, and macOS.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Executive Order 2021: What It Means for Cloud and SaaS Security<a href="https://thehackernews.com/2021/06/cybersecurity-executive-order-2021-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In response to malicious actors targeting US federal IT systems and their supply chain, the President released the " Executive Order on Improving the Nation's Cybersecurity  (Executive Order)."  Although directed at Federal departments and agencies, the Executive Order will likely have a ripple effect through the Federal technology supply stream. Private companies and enterprises will look to the Executive Order to build their best practices.  At a high level, the Executive Order includes information-sharing requirements, a push toward cloud and Zero Trust architectures, and enhancing transparency throughout the software supply chain.  Understanding the fundamentals of the White House Executive Order on Improving the Nation's Cybersecurity  The bulk of the Executive Order focuses on administrative tasks associated with it, including redefining contract language, setting timelines, and defining agency roles and responsibilities. For enterprises that don't supply technolog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Opposes Conditional Handover of Cyber-criminals<a href="https://www.infosecurity-magazine.com:443/news/biden-opposes-handover-putin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden snuffs out Putin’s proposal to agree to conditional handover of cyber-criminals between Russia and US
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEO poisoning campaign aims at delivering RAT, Microsoft warns<a href="https://securityaffairs.co/wordpress/118944/cyber-crime/seo-poisoning-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft spotted a series of attacks that use SEO poisoning to deliver a remote access trojan (RAT) used by threat actors to steal sensitive data.
+
+
+
+Microsoft is monitoring a wave of cyber attacks that leverages SEO poisoning to deliver a remote access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One of ransomware’s top negotiators would rather you not have to hire him<a href="https://www.scmagazine.com/home/security-news/ransomware/one-of-ransomwares-top-negotiators-would-rather-you-not-have-to-hire-him/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kurtis Minder, CEO of threat intelligence firm GroupSense, has received a lot of press as a top negotiator in ransomware cases. But he’d rather you not hire him to negotiate. Instead, he says, he’d much rather you stop the ransomware attack before you’d ever need to call him in.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: SEO poisoning used to backdoor targets with malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-seo-poisoning-used-to-backdoor-targets-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is tracking a series of attacks that use SEO poisoning to infect targets with a remote access trojan (RAT) capable of stealing the victims' sensitive info and backdooring their systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Plans Rules on Climate Disclosures, Cyber Risks This Fall (1)<a href="https://news.bloomberglaw.com/securities-law/sec-proposals-on-climate-esg-disclosures-planned-for-october?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC is also looking to shore up public companies’ disclosures on how they oversee cybersecurity risks, according to another new item on its rulemaking agenda. A proposal is expected by October.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Law
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+54% of Senior Executives Struggling to Keep up with Threat Landscape<a href="https://www.infosecurity-magazine.com:443/news/54percent-fujitusu-threat-landscape/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are at higher risk of cyber-attacks due to shifting to remote work, according to Fujitsu report
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 calls on Russia to dismantle operations of ransomware gangs within its borders<a href="https://securityaffairs.co/wordpress/118937/cyber-crime/g7-russia-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The member states of the G7 group have called on Russia and other states to dismantle operations of the ransomware gangs operating within their countries.
+
+
+
+G7 member states have called on Russia and other states to dismantle operations of ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm resumes normal operations after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fujifilm-resumes-normal-operations-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese multinational conglomerate Fujifilm says that it has resumed normal business and customer operations following a ransomware attack that forced it to shut the entire network on June 4.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware hosting domain Cyberium fanning out Mirai variants<a href="https://cybersecurity.att.com/blogs/labs-research/malware-hosting-domain-cyberium-fanning-out-mirai-variants?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T Alien Labs observed Moobot, a Mirai variant botnet, scanning for known but uncommon vulnerabilities in Tenda routers and also discovered a malware-hosting domain distributing few Mirai variants.
+</details>
+<div style="text-align: right" markdown="1">
+AT&T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government Wants Startups to Build a More Secure Nation<a href="https://www.infosecurity-magazine.com:443/news/government-startups-build-secure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Applications are now open for NCSC for Startups program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major blackouts across Puerto Rico. Are the DDoS and the fire linked?<a href="https://securityaffairs.co/wordpress/118930/security/puerto-rico-blackout-dire-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fire and cyberattack hit an electrical substation for the electricity provider Luma Energy, causing major blackouts across Puerto Rico.
+
+
+
+A large fire at the Luma's Monacillo electrical substation in San Juan for Puerto Rico's new electricity provider,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 Turns Up the Heat on Putin Over Ransomware Attacks<a href="https://www.infosecurity-magazine.com:443/news/g7-turns-up-heat-putin-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders urge Russia to hold cyber-criminals to account
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Police Close Record Number of Fake Pharma Sites<a href="https://www.infosecurity-magazine.com:443/news/global-police-close-fake-pharma/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation also leads to seizure of $9m in counterfeit pills and devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Believed to be Behind Second Cyberattack on Air India<a href="https://thehackernews.com/2021/06/chinese-hackers-believed-to-be-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as a massive data breach affecting Air India came to light the previous month, India's flag carrier airline appears to have suffered a separate cyber assault that lasted for a period of at least two months and 26 days, new research has revealed, which attributed the incident with moderate confidence to a Chinese nation-state threat actor called APT41.  Group-IB dubbed the campaign "ColunmTK" based on the names of command-and-control (C2) server domains that were used for facilitating communications with the compromised systems.   "The potential ramifications of this incident for the entire airline industry and carriers that might yet discover traces of ColunmTK in their networks are significant," the Singapore-headquartered threat hunting company  said .  While Group-IB alluded that this may have been a supply chain attack targeting SITA, the Swiss aviation information technology company told The Hacker News that they are two different security incidents.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol shuts down thousands of fake online pharmacies<a href="https://www.bleepingcomputer.com/news/security/interpol-shuts-down-thousands-of-fake-online-pharmacies/"> Full Text</a>
@@ -50,7 +582,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2021
+June 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 G-7 agrees to fight forced labor, ransomware, corruption<a href="https://thehill.com//homenews/administration/558182-g-7-agrees-to-fight-forced-labor-ransomware-corruption"> Full Text</a>
@@ -66,7 +598,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2021
+June 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BackdoorDiplomacy APT targets diplomats from Africa and the Middle East<a href="https://securityaffairs.co/wordpress/118920/apt/backdoordiplomacy-apt.html"> Full Text</a>
@@ -86,7 +618,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2021
+June 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APWG: Phishing maintained near-record levels in the first quarter of 2021<a href="https://securityaffairs.co/wordpress/118908/cyber-crime/apwg-phishing-record-q1-2021.html"> Full Text</a>
@@ -106,7 +638,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2021
+June 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 318<a href="https://securityaffairs.co/wordpress/118905/breaking-news/security-affairs-newsletter-round-318.html"> Full Text</a>
@@ -130,7 +662,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fresh Crypto Attacks Targeting Kubernetes Clusters<a href="https://cyware.com/news/fresh-crypto-attacks-targeting-kubernetes-clusters-d182d04e"> Full Text</a>
@@ -146,7 +678,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Audi, Volkswagen data breach affects 3.3 million customers<a href="https://www.bleepingcomputer.com/news/security/audi-volkswagen-data-breach-affects-33-million-customers/"> Full Text</a>
@@ -162,7 +694,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2021
+June 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McDonald’s  discloses data breach in US, Taiwan and South Korea<a href="https://securityaffairs.co/wordpress/118894/data-breach/mcdonalds-data-breach.html"> Full Text</a>
