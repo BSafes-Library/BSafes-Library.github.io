@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot Targeting Tenda Router Bugs for Distribution<a href="https://cyware.com/news/moobot-targeting-tenda-router-bugs-for-distribution-cd9e34d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Underground malware domain Cyberium was spotted hosting an active Mirai variant to exploit an RCE in Tenda routers.&nbsp;Experts found several campaigns going back to as early as May 2020.&nbsp;It has been in action for the past year and appears to be still active.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

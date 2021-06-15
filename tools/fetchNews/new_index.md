@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Source code for Paradise ransomware leaked on hacking forums<a href="https://therecord.media/source-code-for-paradise-ransomware-leaked-on-hacking-forums/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code, which was shared on a Russian-speaking forum called XSS, represents the second major ransomware strain whose source code was leaked in recent years after the Dharma code leak in early 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Moobot Targeting Tenda Router Bugs for Distribution<a href="https://cyware.com/news/moobot-targeting-tenda-router-bugs-for-distribution-cd9e34d2"> Full Text</a>
 </p>
 <details>
