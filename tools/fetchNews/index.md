@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Patches for 2 Zero-Day Flaws Exploited in the Wild<a href="https://thehackernews.com/2021/06/apple-issues-urgent-patches-for-2-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday shipped out-of-band security patches to address two zero-day vulnerabilities in iOS 12.5.3 that it says are being actively exploited in the wild.   The latest update,  iOS 12.5.4 , comes with three security fixes, including a memory corruption issue in the  ASN.1 decoder  (CVE-2021-30737) and two flaws concerning the WebKit browser engine that could be abused to achieve remote code execution —    CVE-2021-30761  - A memory corruption issue that could be exploited to gain arbitrary code execution when processing maliciously crafted web content. The flaw was addressed with improved state management.  CVE-2021-30762  - A use-after-free issue that could be exploited to gain arbitrary code execution when processing maliciously crafted web content. The flaw was resolved with improved memory management.   Both CVE-2021-30761 and CVE-2021-30762 were reported to Apple anonymously, with the Cupertino-based company stating in its advisory that it's aware of reports that the v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
