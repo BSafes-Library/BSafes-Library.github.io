@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Trojan Spreads via Fake Antivirus Apps<a href="https://cyware.com/news/teabot-trojan-spreads-via-fake-antivirus-apps-d59f7630"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware actors increasingly luring victims under the pretense of popular apps and brands. A malware infection impersonating Kaspersky’s antivirus product for Android was launched attacks against its users via third-party app marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Homeless Hacker” Arrested<a href="https://www.infosecurity-magazine.com:443/news/homeless-hacker-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Santa Cruz County DDoS attacker arrested in Mexico after years on the run
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Marketplace Selling Stolen Credentials Is Dismantled<a href="https://www.infosecurity-magazine.com:443/news/slilpp-dismantled/"> Full Text</a>
 </p>
 <details>
