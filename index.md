@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Big Tech critic Lina Khan named chair of the FTC | Lawmakers urge Biden to be tough on cyber during summit with Putin | TSA working on additional security regulations following Colonial Pipeline hack<a href="https://thehill.com//policy/cybersecurity/overnights/558621-hillicon-valley-big-tech-critic-lina-khan-named-chair-of-the"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prominent tech critic Lina Khan was named chair of the Federal Trade Commission on Tuesday, following the bipartisan vote confirming her to the agency. Meanwhile, lawmakers on both sides of the aisle made the case for President BidenJoe BidenFormer Rep. Rohrabacher says he took part in Jan. 6 march to Capitol but did not storm building Saudis picked up drugs in Cairo used to kill Khashoggi: report Biden looking to build momentum for Putin meeting MORE to put recent cyberattacks high on his agenda to discuss with Russian President Vladimir PutinVladimir Vladimirovich PutinFormer Rep. Rohrabacher says he took part in Jan. 6 march to Capitol but did not storm building Biden looking to build momentum for Putin meeting Hillicon Valley: NATO members agree to new cyber defense policy | YouTube banning politics, elections in masthead ads | 50 groups urge Biden to fill FCC position to reinstate net neutrality rules MORE during their meeting this week, and a top TSA official teased a new cybersecurity directive for pipeline companies.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deloitte acquires online antifraud firm Terbium Labs<a href="https://www.scmagazine.com/home/security-news/cloud-security/deloitte-acquires-online-antifraud-firm-terbium-labs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The startup creates digital fingerprints of sensitive data and uses machine learning to scan the open and dark web for signs of a breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers urge Biden to be tough on cybersecurity during summit with Putin<a href="https://thehill.com//policy/cybersecurity/558617-lawmakers-urge-biden-to-be-tough-on-cybersecurity-during-summit-with"> Full Text</a>
 </p>
 <details>
