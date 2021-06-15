@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP now warns of jailbroken iPhones, iPads<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-now-warns-of-jailbroken-iphones-ipads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added support for detecting jailbroken iOS devices to Microsoft Defender for Endpoint, the enterprise version of its Windows 10 Defender antivirus.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon, water agency targeted in Chinese cyber espionage campaign: report<a href="https://thehill.com//policy/cybersecurity/558578-verizon-water-agency-targeted-in-chinese-cyber-espionage-campaign-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon and one of the country’s largest water agencies were reportedly included among the groups targeted in the hacking of Pulse Connect Secure devices, a hack blamed on China that came to light in April.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US, EU establish trade and technology council to compete with China<a href="https://thehill.com//policy/cybersecurity/558561-us-and-eu-establish-trade-and-technology-council-in-effort-to-compete"> Full Text</a>
 </p>
 <details>
