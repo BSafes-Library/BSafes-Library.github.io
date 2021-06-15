@@ -8,6 +8,56 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State-Sponsored Cybercriminal Hacked Former Israeli Defense Chief<a href="https://news.softpedia.com/news/iran-said-to-hack-former-israeli-army-chief-of-staff-access-his-entire-computer-533222.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaser Balaghi, a cybercriminal working for Iran attacked the computer of a former IDF chief of staff and gained access to his entire computer database, says Times of Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former NSA contractor Reality Winner who leaked gov report will be released on November<a href="https://securityaffairs.co/wordpress/119001/laws-and-regulations/reality-winner-out-of-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reality Winner, a former NSA contractor who leaked classified documents to the press in 2017, has been released from prison to home confinement.
+
+
+
+Reality Winner is a former NSA intelligence contractor who leaked a classified hacking report to the press...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang hit US nuclear weapons contractor Sol Oriens<a href="https://securityaffairs.co/wordpress/118968/security/revil-ransomware-sol-oriens.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang made the headlines again, the group hit the US nuclear weapons contractor Sol Oriens and stole the victim's data.
+
+
+
+US nuclear weapons contractor Sol Oriens was hit by a cyberattack carried out by the REvil ransomware operators,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

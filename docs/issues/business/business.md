@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero trust networking startup Elisity raises $26M<a href="https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elisity today announced that it raised $26 million in its Series A funding round led by Two Bear Capital and AllegisCyber Capital, with participation from Atlantic Bridge.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Gets Second Shot at Banning hiQ from Scraping LinkedIn User Data<a href="https://threatpost.com/court-linkedin-data-scraping/166927/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decision throws out previous ruling in favor of hiQ Labs that prevented Microsoft’s business networking platform to forbid the company from harvesting public info from user profiles.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

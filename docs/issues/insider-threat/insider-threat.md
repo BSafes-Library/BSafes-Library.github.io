@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insider Risks In the Work-From-Home World<a href="https://threatpost.com/insider-risks-work-from-home/166874/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint’s Michael Crouse talks about risk-adaptive data-protection approaches and how to develop a behavior-based approach to insider threats and risk, particularly with pandemic-expanded network perimeters.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting the Critical of Critical: What Is Systemically Important Critical Infrastructure?<a href="https://www.lawfareblog.com/protecting-critical-critical-what-systemically-important-critical-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government does not have a reliable method to identify, support, and secure the most “critical of critical” infrastructure. But, the Cyberspace Solarium Commission’s 2020 report addresses just that.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Online Reviews Linked to $152 Billion in Global Purchases<a href="https://www.infosecurity-magazine.com:443/news/fake-online-reviews-152-billion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around 4% of internet reviews are fakes, undermining trust in e-commerce
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third of Staff Use Security Workarounds at Home<a href="https://www.infosecurity-magazine.com:443/news/third-of-staff-use-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Younger employees are most likely to engage in risky online behavior
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SASE &amp; Zero Trust: The Dream Team<a href="https://threatpost.com/sase-zero-trust-the-dream-team/166880/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint’s Nico Fischbach, global CTO and VPE of SASE, and Chase Cunningham, chief strategy officer at Ericom Software, on using SASE to make Zero Trust real.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Disrupts Large-Scale, Cloud-Based BEC Campaign<a href="https://threatpost.com/microsoft-disrupts-cloud-bec-campaign/166937/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Varied cloud infrastructure was used to phish email credentials, monitor for and forward finance-related messages and automate operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Workspace adds new phishing protection, client-side encryption<a href="https://www.bleepingcomputer.com/news/security/google-workspace-adds-new-phishing-protection-client-side-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Workspace (formerly G Suite) has been updated with client-side encryption and new Google Drive phishing and malware content protection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

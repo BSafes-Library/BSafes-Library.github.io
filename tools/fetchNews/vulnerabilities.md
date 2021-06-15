@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerability in Facebook’s Messenger Rooms Could Expose Users’ Private Photos and Videos<a href="https://portswigger.net/daily-swig/android-screen-lock-protection-thwarted-by-facebook-messenger-rooms-exploit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in Facebook’s Messenger Rooms video chat feature meant attackers could access a victim’s private Facebook photos and videos, and submit posts, via their locked Android screen.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VW Vendor Leaves Data Unsecured<a href="https://www.infosecurity-magazine.com:443/news/vw-vendor-leaves-data-unsecured/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breach of unsecured data stored by Volkswagen vendor affects 3.3 million people in North America
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed 2 WebKit flaws exploited to target older iPhones<a href="https://securityaffairs.co/wordpress/118970/security/apple-fixed-webkit-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released an out-of-band iOS update for older iPhones and iPads and warned that threat actors are actively exploiting two flaws in WebKit.
+
+
+
+Apple released an out-of-band iOS update (&nbsp;iOS 12.5.4 patch) for older iPhones and iPad, the IT giant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codecov to retire the Bash script responsible for supply chain attack wave<a href="https://www.zdnet.com/article/codecov-debuts-new-uploader-dismisses-bash-script-as-source-of-supply-chain-attack-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Francisco-based DevOps tool provider said in a blog post that the new NodeJS-based uploader will be shipped as a static binary executable suitable for Windows, Linux, Alpine Linux, and macOS.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

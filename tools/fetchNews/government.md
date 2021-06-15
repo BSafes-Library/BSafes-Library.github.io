@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Has Already Authorized the President to Require Reporting of Foreign Cyberattacks<a href="https://www.lawfareblog.com/congress-has-already-authorized-president-require-reporting-foreign-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Congress long ago gave the president broad authority under the International Emergency Economic Powers Act to require record-keeping and reporting on foreign cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO members agree to new cyber defense policy<a href="https://thehill.com//policy/cybersecurity/558383-nato-member-states-agree-to-new-cyber-defense-policy-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and other North Atlantic Treaty Organization nations endorsed a new cyber defense policy Monday as part of the NATO summit in Brussels. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 calls on Russia to dismantle operations of ransomware gangs within its borders<a href="https://securityaffairs.co/wordpress/118937/cyber-crime/g7-russia-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The member states of the G7 group have called on Russia and other states to dismantle operations of the ransomware gangs operating within their countries.
+
+
+
+G7 member states have called on Russia and other states to dismantle operations of ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government Wants Startups to Build a More Secure Nation<a href="https://www.infosecurity-magazine.com:443/news/government-startups-build-secure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Applications are now open for NCSC for Startups program
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 Turns Up the Heat on Putin Over Ransomware Attacks<a href="https://www.infosecurity-magazine.com:443/news/g7-turns-up-heat-putin-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders urge Russia to hold cyber-criminals to account
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO Warns it Will Consider a Military Response to Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/nato-warns-military-response-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO has issued a communique stating it will consider invoking Article 5 in response to cyber-attacks on a case by case basis
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS, GAO at odds over cybersecurity requirements on tax preparers<a href="https://www.cyberscoop.com/irs-gao-cybersecurity-regulations-tax-preparers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government watchdog recommended the IRS establish a security structure for tax preparers in a 2019 report, but the agency contended Congress would need to take action to give the IRS more power.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

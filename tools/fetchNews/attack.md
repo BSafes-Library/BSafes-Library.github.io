@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware hits US nuclear weapons contractor<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-us-nuclear-weapons-contractor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US nuclear weapons contractor Sol Oriens has suffered a cyberattack allegedly at the hands of the REvil ransomware gang, which claims to be auctioning data stolen during the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoxPlayer Supply-Chain Attack is Likely the Work of Gelsemium Hackers<a href="https://thehackernews.com/2021/06/noxplayer-supply-chain-attack-is-likely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber espionage group named Gelsemium has been linked to a&nbsp; supply chain attack targeting the NoxPlayer &nbsp;Android emulator that was disclosed earlier this year.  The findings come from a systematic analysis of multiple campaigns undertaken by the APT crew, with evidence of the earliest attack dating back all the way to 2014 under the codename&nbsp; Operation TooHash &nbsp;based on malware payloads deployed in those intrusions.  "Victims of these campaigns are located in East Asia as well as the Middle East and include governments, religious organizations, electronics manufacturers and universities," cybersecurity firm ESET&nbsp; said &nbsp;in an analysis published last week.   "Gelsemium's whole chain might appear simple at first sight, but the exhaustive configurations, implanted at each stage, modify on-the-fly settings for the final payload, making it harder to understand."  Targeted countries include China, Mongolia, North and South Korea, Japan, Turkey, Iran, Iraq, Saudi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Claims Responsibility for Invenergy Hack<a href="https://www.infosecurity-magazine.com:443/news/revil-claims-responsibility-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group that attacked JBS says it also hacked Chicago-based clean energy company
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm resumes normal operations after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fujifilm-resumes-normal-operations-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese multinational conglomerate Fujifilm says that it has resumed normal business and customer operations following a ransomware attack that forced&nbsp;it to shut the entire network on June 4.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

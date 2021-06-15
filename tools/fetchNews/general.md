@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: NATO members agree to new cyber defense policy | YouTube banning politics, elections in masthead ads | 50 groups urge Biden to fill FCC position to reinstate net neutrality rules<a href="https://thehill.com//policy/cybersecurity/overnights/558398-hillicon-valley-nato-members-agree-to-new-cyber-defense"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO member states, including the U.S., agreed to a new cyber defense policy that could lead to more consequences for cyberattacks by adversary nations. Meanwhile, YouTube announced a ban on certain political ads, and dozens of advocacy groups pressed President BidenJoe BidenBiden prepares to confront Putin Ukrainian president thanks G-7 nations for statement of support Biden aims to bolster troubled Turkey ties in first Erdoğan meeting MORE to nominate a candidate to fill an open spot at the Federal Communications Commission in order to bring back net neutrality.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online map visualizes the widespread presence of automated ransomware<a href="https://www.scmagazine.com/home/security-news/ransomware/online-map-visualizes-the-widespread-presence-of-automated-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sourced via open port scanning, map data serves as a reminder for companies to ensure that their security perimeters are secured.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Executive Order 2021: What It Means for Cloud and SaaS Security<a href="https://thehackernews.com/2021/06/cybersecurity-executive-order-2021-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In response to malicious actors targeting US federal IT systems and their supply chain, the President released the " Executive Order on Improving the Nation's Cybersecurity &nbsp;(Executive Order)."  Although directed at Federal departments and agencies, the Executive Order will likely have a ripple effect through the Federal technology supply stream. Private companies and enterprises will look to the Executive Order to build their best practices.  At a high level, the Executive Order includes information-sharing requirements, a push toward cloud and Zero Trust architectures, and enhancing transparency throughout the software supply chain.  Understanding the fundamentals of the White House Executive Order on Improving the Nation's Cybersecurity  The bulk of the Executive Order focuses on administrative tasks associated with it, including redefining contract language, setting timelines, and defining agency roles and responsibilities. For enterprises that don't supply technolog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Plans Rules on Climate Disclosures, Cyber Risks This Fall (1)<a href="https://news.bloomberglaw.com/securities-law/sec-proposals-on-climate-esg-disclosures-planned-for-october?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC is also looking to shore up public companies’ disclosures on how they oversee cybersecurity risks, according to another new item on its rulemaking agenda. A proposal is expected by October.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Law
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+54% of Senior Executives Struggling to Keep up with Threat Landscape<a href="https://www.infosecurity-magazine.com:443/news/54percent-fujitusu-threat-landscape/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are at higher risk of cyber-attacks due to shifting to remote work, according to Fujitsu report
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Largest US propane distributor discloses '8-second' data breach<a href="https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America's&nbsp;largest propane&nbsp;provider, AmeriGas, has disclosed a data breach that lasted ephemerally but impacted 123 employees and one resident. AmeriGas&nbsp;servers over 2 million customers in all 50&nbsp;U.S. states and has over 2,500 distribution locations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Analytics Firm Cognyte’s Unsecured Database Exposes 5 Billion Records Online<a href="https://www.darkreading.com/attacks-breaches/cyber-analytics-database-exposed-5-billion-records-online/d/d-id/1341297?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher recently discovered online an unsecured database operated by cybersecurity analytics firm Cognyte that left some 5 billion records collected from a range of data incidents exposed online.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seattle-based SEIU 775 Benefits Group Reports Data Breach Affecting 140,000 Individuals<a href="https://www.govinfosecurity.com/union-benefits-administrator-says-data-deleted-in-hack-a-16872?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SEIU 775, a Seattle-based benefits administrator for unionized home healthcare and nursing home workers has reported a hacking incident affecting 140,000 people that involved deleting certain data.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

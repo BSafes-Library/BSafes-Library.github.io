@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA Fined $1.2m for Spying on Employees<a href="https://www.infosecurity-magazine.com:443/news/ikea-fined-12m-for-spying-on/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French court fines Swedish furnishing giant and hands former IKEA France boss suspended prison sentence
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram flaw allowed to see private, archived Posts/Stories of users without following them<a href="https://securityaffairs.co/wordpress/118994/security/instagram-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram has addressed a new flaw that allowed anyone to access private accounts viewing archived posts and stories without having to follow them.
+
+
+
+Researcher Mayur Fartade has found a vulnerability in Instagram that allowed anyone to access private...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

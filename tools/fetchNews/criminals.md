@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Opposes Conditional Handover of Cyber-criminals<a href="https://www.infosecurity-magazine.com:443/news/biden-opposes-handover-putin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden snuffs out Putin’s proposal to agree to conditional handover of cyber-criminals between Russia and US
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One of ransomware’s top negotiators would rather you not have to hire him<a href="https://www.scmagazine.com/home/security-news/ransomware/one-of-ransomwares-top-negotiators-would-rather-you-not-have-to-hire-him/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kurtis Minder, CEO of threat intelligence firm GroupSense, has received a lot of press as a top negotiator in ransomware cases. But he’d rather you not hire him to negotiate. Instead, he says, he’d much rather you stop the ransomware attack before you’d ever need to call him in.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Believed to be Behind Second Cyberattack on Air India<a href="https://thehackernews.com/2021/06/chinese-hackers-believed-to-be-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as a massive data breach affecting Air India came to light the previous month, India's flag carrier airline appears to have suffered a separate cyber assault that lasted for a period of at least two months and 26 days, new research has revealed, which attributed the incident with moderate confidence to a Chinese nation-state threat actor called APT41.  Group-IB dubbed the campaign "ColunmTK" based on the names of command-and-control (C2) server domains that were used for facilitating communications with the compromised systems.&nbsp;  "The potential ramifications of this incident for the entire airline industry and carriers that might yet discover traces of ColunmTK in their networks are significant," the Singapore-headquartered threat hunting company&nbsp; said .  While Group-IB alluded that this may have been a supply chain attack targeting SITA, the Swiss aviation information technology company told The Hacker News that they are two different security incidents.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

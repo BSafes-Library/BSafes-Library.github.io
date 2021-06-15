@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft experts disrupted a large-scale BEC campaign<a href="https://securityaffairs.co/wordpress/118958/cyber-crime/microsoft-disrupted-bec-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disrupted a large-scale business email compromise (BEC) campaign that used forwarding rules to access messages related to financial transactions.
+
+
+
+Microsoft researchers announced to have disrupted the cloud-based infrastructure used by crooks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Scammers bypass Office 365 MFA in BEC attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-scammers-bypass-office-365-mfa-in-bec-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft 365 Defender researchers have disrupted the&nbsp;cloud-based infrastructure used by scammers behind a recent large-scale&nbsp;business email compromise (BEC) campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Police Close Record Number of Fake Pharma Sites<a href="https://www.infosecurity-magazine.com:443/news/global-police-close-fake-pharma/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation also leads to seizure of $9m in counterfeit pills and devices
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

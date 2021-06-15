@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Workspace Now Offers Client-side Encryption For Drive and Docs<a href="https://thehackernews.com/2021/06/google-workspace-now-offers-client-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday announced that it's rolling out client-side encryption to Google Workspace (formerly G Suite), thereby giving its enterprise customers direct control of encryption keys and the identity service they choose to access those keys.  "With client-side encryption, customer data is indecipherable to Google, while users can continue to take advantage of Google's native web-based collaboration, access content on mobile devices, and share encrypted files externally," the search giant&nbsp; said .&nbsp;  "When combined with our other encryption capabilities, customers can add new levels of data protection for their Google Workspace data."   The development coincides with the Google Workspace and Google Chat's&nbsp; broader availability to all users &nbsp;with a Google account. Workspace is the company's enterprise offering consisting of Gmail, Chat, Calendar, Drive, Docs, Sheets, Slides, Meet, and other tools.   Businesses using Google Workspace have the choice o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
