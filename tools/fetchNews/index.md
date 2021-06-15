@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The source code of the Paradise Ransomware was leaked on XSS hacking forum<a href="https://securityaffairs.co/wordpress/119006/cyber-crime/paradise-ransomware-code-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code for the Paradise Ransomware has been released on a hacking forum allowing threat actors to develop their customized variant.
+
+
+
+The source code for the Paradise Ransomware has been released on the hacking forum XSS allowing threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TeaBot Trojan Spreads via Fake Antivirus Apps<a href="https://cyware.com/news/teabot-trojan-spreads-via-fake-antivirus-apps-d59f7630"> Full Text</a>
 </p>
 <details>

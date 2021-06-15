@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US, EU establish trade and technology council to compete with China<a href="https://thehill.com//policy/cybersecurity/558561-us-and-eu-establish-trade-and-technology-council-in-effort-to-compete"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and European Union on Tuesday formally established a Trade and Technology Council (TTC) to coordinate on critical technology issues such as the development of semiconductors, research into emerging fields, and securing supply chains. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+C-suites adapt to ransomware as a cost of doing business<a href="https://www.scmagazine.com/home/security-news/ransomware/c-suites-adapt-to-ransomware-as-a-cost-of-doing-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tangible impacts to corporate earnings, combined with the multi-million dollar ransom payouts by Colonial Pipeline and JBS, demonstrate a reality that more and more in the cybersecurity community are beginning to acknowledge: Ransomware is emerging as a cost of doing business, grabbing the attention not just of security leaders, but the entire C-suite, boards, and even Wall Street investors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The source code of the Paradise Ransomware was leaked on XSS hacking forum<a href="https://securityaffairs.co/wordpress/119006/cyber-crime/paradise-ransomware-code-leaked.html"> Full Text</a>
 </p>
 <details>
