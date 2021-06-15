@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Millions of Connected Cameras Open to Eavesdropping<a href="https://threatpost.com/millions-connected-cameras-eavesdropping/166950/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply-chain component lays open camera feeds to remote attackers thanks to a critical security vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender ATP now warns of jailbroken iPhones, iPads<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-now-warns-of-jailbroken-iphones-ipads/"> Full Text</a>
 </p>
 <details>
