@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm restores operations after recent ransomware attack<a href="https://securityaffairs.co/wordpress/119005/cyber-crime/fujifilm-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese multinational conglomerate Fujifilm announced that it has restored operations following the recent ransomware attack.
+
+
+
+On June 4, the Japanese multinational conglomerate Fujifilm announced that it was hit by a ransomware attack and shut down...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UChecker tool from CloudLinux scans Linux servers<a href="https://www.scmagazine.com/home/security-news/cloud-security/uchecker-tool-from-cloudlinux-scans-linux-servers/"> Full Text</a>
 </p>
 <details>
