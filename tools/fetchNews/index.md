@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Alibaba-owned Shopping Platform Falls Victim to Chinese Web Crawler in Large Data Leak<a href="https://www.wsj.com/articles/alibaba-falls-victim-to-chinese-web-crawler-in-large-data-leak-11623774850?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese software developer trawled Alibaba’s popular Taobao shopping website for eight months, clandestinely collecting more than 1.1 billion pieces of user information.
+</details>
+<div style="text-align: right" markdown="1">
+The Wall Street Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rick Scott threatens to delay national security nominees until Biden visits border<a href="https://thehill.com//policy/national-security/558744-rick-scott-threatens-to-delay-national-security-nominees-until-biden"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Rick Scott (R-Fla.) threatened Wednesday to delay President Biden’s national security nominees, saying he would place a hold on Department of Homeland Security (DHS) positions until the president visits the southern border.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers: Booming Cyber-Underground Market for Initial-Access Brokers<a href="https://threatpost.com/booming-cyber-underground-market-initial-access-brokers/166965/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are increasingly buying their way into corporate networks, purchasing access from ‘vendors’ that have previously installed backdoors on targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency and Ransomware Attacks - What's the Connection?<a href="https://cyware.com/news/cryptocurrency-and-ransomware-attacks-whats-the-connection-573b9485"> Full Text</a>
 </p>
 <details>
