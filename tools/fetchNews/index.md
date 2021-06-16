@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Gold Winter is the Group Behind Hades Ransomware<a href="https://cyware.com/news/gold-winter-is-the-group-behind-hades-ransomware-c48bf1d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers took the wraps off the operators of the Hades ransomware as they came across a new adversary group Gold Winter, whose behavior coincides with the former. The recent finding suggests that threat actors may be deliberately trying to find ways to look different or evolve their attack techn ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Paradise Ransomware’s Source Code Now Available on a Hacker Forum<a href="https://cyware.com/news/paradise-ransomwares-source-code-now-available-on-a-hacker-forum-acb9a223"> Full Text</a>
 </p>
 <details>
