@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How AI is Transforming Data Governance in today’s World<a href="https://securityaffairs.co/wordpress/119048/security/how-ai-transforming-data-governance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How AI is Transforming Data Governance? Consumers are becoming more aware of their rights, making data governance more relevant across organizations. 
+
+
+
+Data governance is a set of standards, metrics, and processes that allow organizations to responsibly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Poland institutions and individuals targeted by an unprecedented series of cyber attacks<a href="https://securityaffairs.co/wordpress/119043/hacking/poland-hit-cyber-attacks.html"> Full Text</a>
 </p>
 <details>
