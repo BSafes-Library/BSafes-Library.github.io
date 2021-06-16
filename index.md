@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New threat intel framework takes aim at bot-fueled business logic attacks<a href="https://www.scmagazine.com/home/security-news/new-threat-intel-framework-takes-aim-at-bot-fueled-business-logic-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BLADE addresses scenarios in which bots exploit apps and websites – using them as they were intended, but for malicious purposes like credential stuffing and account takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Health care ransomware attacks: Oklahoma health system driven to EHR downtime<a href="https://www.scmagazine.com/home/health-care/health-care-ransomware-attacks-oklahoma-health-system-driven-to-ehr-downtime/"> Full Text</a>
 </p>
 <details>
