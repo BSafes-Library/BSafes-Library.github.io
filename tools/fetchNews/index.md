@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber concerns dominate Biden-Putin summit<a href="https://thehill.com//homenews/administration/558853-cyber-concerns-dominate-biden-putin-summit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden used a summit with Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley: Big Tech critic Lina Khan named chair of the FTC | Lawmakers urge Biden to be tough on cyber during summit with Putin | TSA working on additional security regulations following Colonial Pipeline hack Overnight Defense: Top admiral shoots back at criticism of 'woke' military | Military guns go missing | New White House strategy to battle domestic extremism Lawmakers urge Biden to be tough on cybersecurity during summit with Putin MORE to confront Moscow over its aggressive behavior in cyberspace and communicate that there would be future consequences if Russian state-backed cyberattacks continue. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How AI is Transforming Data Governance in today’s World<a href="https://securityaffairs.co/wordpress/119048/security/how-ai-transforming-data-governance.html"> Full Text</a>
 </p>
 <details>
