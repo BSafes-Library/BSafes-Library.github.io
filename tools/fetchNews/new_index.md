@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Convicts Russian Malware-masker<a href="https://www.infosecurity-magazine.com:443/news/us-convicts-russian-malwaremasker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal jury convicts operator of crypting service used to conceal Kelihos malware
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 IKEA Fined $1.2M for Elaborate ‘Spying System’<a href="https://threatpost.com/ikea-fined-spying-system/166991/"> Full Text</a>
 </p>
 <details>
