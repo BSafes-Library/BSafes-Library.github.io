@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Paradise Ransomware’s Source Code Now Available on a Hacker Forum<a href="https://cyware.com/news/paradise-ransomwares-source-code-now-available-on-a-hacker-forum-acb9a223"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts are concerned as the source code of the .NET version of Paradise ransomware was found to have been leaked on a hacker forum. Such leaks could prove to be devastating as any interested attacker can create their own ransomware version to target victims.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deloitte Acquires Terbium Labs<a href="https://www.infosecurity-magazine.com:443/news/deloitte-acquires-terbium-labs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baltimore-based digital risk protection company Terbium Labs is acquired by Deloitte
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Avaddon Ransomware Calls it Quit, Distributes Keys for Free<a href="https://cyware.com/news/avaddon-ransomware-calls-it-quit-distributes-keys-for-free-4238d367"> Full Text</a>
 </p>
 <details>
