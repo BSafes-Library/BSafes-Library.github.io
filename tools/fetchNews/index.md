@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+An international joint operation resulted in the arrest of Clop ransomware members<a href="https://securityaffairs.co/wordpress/119036/cyber-crime/clop-ransomware-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine police arrested multiple individuals that are believed to be linked to the Clop ransomware gang as part of an international joint operation.
+
+
+
+Ukraine police arrested multiple individuals that are believed to be linked to the Clop ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New threat intel framework takes aim at bot-fueled business logic attacks<a href="https://www.scmagazine.com/home/security-news/new-threat-intel-framework-takes-aim-at-bot-fueled-business-logic-attacks/"> Full Text</a>
 </p>
 <details>
