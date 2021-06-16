@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scammers mail fake Ledger devices to steal your cryptocurrency<a href="https://www.bleepingcomputer.com/news/cryptocurrency/scammers-mail-fake-ledger-devices-to-steal-your-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are sending fake replacement devices to Ledger customers exposed in a recent data breach that are used to steal cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Why backups are not the panacea for recovery from a ransomware attack<a href="https://www.scmagazine.com/home/security-news/ransomware/why-backups-are-not-the-panacea-for-recovery-from-a-ransomware-attack/"> Full Text</a>
 </p>
 <details>
