@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100% increase in daily DDoS traffic in 2020 as potential grows for 10 Tbps attack: Nokia<a href="https://www.zdnet.com/article/100-increase-in-daily-ddos-traffic-in-2020-as-potential-grows-for-10-tbps-attack-nokia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Nokia Deepfield found that there has been a massive increase in high-bandwidth, volumetric DDoS attacks, the majority of which originate from just a few dozen hosting companies.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

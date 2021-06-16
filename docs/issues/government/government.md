@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas Joins Other States with New Texas Data Breach Notification Requirement: Is This a New Trend?<a href="https://www.natlawreview.com/article/texas-joins-other-states-new-texas-data-breach-notification-requirement-new-trend?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Texas Legislature pushed a change to its data breach notification law at the end of the session in late May, and yesterday Governor Greg Abbott signed the bill into law.
+</details>
+<div style="text-align: right" markdown="1">
+The National Law Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

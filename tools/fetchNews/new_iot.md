@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Supply Chain Bug Hits Millions of Cameras<a href="https://www.infosecurity-magazine.com:443/news/iot-supply-chain-bug-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical vulnerability could allow attackers to eavesdrop on users
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

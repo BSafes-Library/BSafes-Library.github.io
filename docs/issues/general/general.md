@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Tips to Prevent and Mitigate Ransomware Attacks<a href="https://threatpost.com/5-tips-to-prevent-and-mitigate-ransomware-attacks/166847/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are increasing in frequency, and the repercussions are growing more severe than ever. Here are 5 ways to prevent your company from becoming the next headline.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Football Fever Puts Password Security at Risk<a href="https://www.infosecurity-magazine.com:443/news/football-fever-password-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With Euro 2020 underway, research uncovers one million football-related passwords
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Ransomware Victims Are Hit Again After Paying<a href="https://www.infosecurity-magazine.com:443/news/most-ransomware-victims-hit-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In half of cases, victim organizations were attacked by the same group
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian police say hackers who targeted US firms with ransomware have been uncovered<a href="https://thehill.com//policy/national-security/558692-ukrainian-police-say-hackers-who-targeted-us-firms-with-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police have identified a group of six hackers who engaged in ransomware targeting the servers of companies from South Korea and the U.S.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

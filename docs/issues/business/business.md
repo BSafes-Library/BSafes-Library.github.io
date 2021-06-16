@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Test and Trace Bolsters its Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/nhs-test-trace-cybersecurity-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NHS Test and Trace appoints UK cyber startup Risk Ledger to manage its supply chain risks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How FireEye attributed the SolarWinds hacking campaign to Russian spies<a href="https://www.cyberscoop.com/fireeye-russia-solarwinds-kevin-mandia-postcard/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first revelations about the campaign, which hit nine government agencies and around 100 companies, came in December 2020, when FireEye disclosed that hackers had stolen its security testing tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web app and API protection startup ThreatX raises $10M to expand US operations<a href="https://siliconangle.com/2021/06/15/webapp-api-protection-startup-threatx-raises-10m-business-growth/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web application and API protection startup ThreatX Inc. revealed that it has raised $10 million in new Series B funding to accelerate business growth and expand U.S. operations.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcepoint Acquiring Deep Secure to Extend Portfolio<a href="https://www.channelfutures.com/mergers-and-acquisitions/forcepoint-acquiring-deep-secure-to-extend-portfolio?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will allow Forcepoint to extend the capabilities of its Cross Domain Solutions portfolio to secure the critical data of governments in the United States and beyond.
+</details>
+<div style="text-align: right" markdown="1">
+channelfutures
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

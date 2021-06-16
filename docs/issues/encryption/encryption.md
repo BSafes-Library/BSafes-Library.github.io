@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can Homomorphic Encryption Bring Down The Curtain On POS Malware?<a href="https://www.forbes.com/sites/forbestechcouncil/2021/06/15/can-homomorphic-encryption-bring-down-the-curtain-on-pos-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In standard encryption, we need to decrypt the ciphertext to process data at a destination, but in this case, this encryption can work on the same ciphertext and produce the same output as clear text.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

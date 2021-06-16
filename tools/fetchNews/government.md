@@ -11,6 +11,48 @@ nav_order: 900075
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers urge Biden to be tough on cybersecurity during summit with Putin<a href="https://thehill.com//policy/cybersecurity/558617-lawmakers-urge-biden-to-be-tough-on-cybersecurity-during-summit-with"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers on both sides of the aisle on Tuesday urged President Biden to use his upcoming meeting with Russian President Vladimir Putin to strongly push back against recent Russia-linked cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State and local governments granted free access to timely, in-depth cyber intel<a href="https://www.scmagazine.com/home/government/state-and-local-governments-granted-free-access-to-timely-in-depth-cyber-intel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deloitte forges what it calls a “first-of-its-kind” relationship with MS-ISAC.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, EU establish trade and technology council to compete with China<a href="https://thehill.com//policy/cybersecurity/558561-us-and-eu-establish-trade-and-technology-council-in-effort-to-compete"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and European Union on Tuesday formally established a Trade and Technology Council (TTC) to coordinate on critical technology issues such as the development of semiconductors, research into emerging fields, and securing supply chains.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NATO Warns it Will Consider a Military Response to Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/nato-warns-military-response-cyber/"> Full Text</a>
 </p>
 <details>

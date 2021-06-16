@@ -11,6 +11,20 @@ nav_order: 900165
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Millions of Connected Cameras Open to Eavesdropping<a href="https://threatpost.com/millions-connected-cameras-eavesdropping/166950/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply-chain component lays open camera feeds to remote attackers thanks to a critical security vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 IKEA Fined $1.2m for Spying on Employees<a href="https://www.infosecurity-magazine.com:443/news/ikea-fined-12m-for-spying-on/"> Full Text</a>
 </p>
 <details>

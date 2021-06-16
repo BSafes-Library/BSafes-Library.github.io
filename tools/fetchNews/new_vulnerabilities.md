@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Peloton Bike+ could allow hackers to control it<a href="https://securityaffairs.co/wordpress/119025/breaking-news/peloton-bike-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the Peloton Bike+ could be exploited by an attacker with initial physical access to gain root entry to the interactive tablet, taking complete control of the system.
+
+
+
+A vulnerability in the popular Peloton Bike+ could have allowed an attacker...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram Flaw Allowed Anyone to View Private or Archived Posts, Stories of Users Without Following Them<a href="https://securityaffairs.co/wordpress/118994/security/instagram-flaw-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Mayur Fartade has found a vulnerability in Instagram that allowed anyone to access private accounts, viewing archived posts and stories without having to follow them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns Manufacturers of ThroughTek P2P Vulnerability Which Could Leak to Data and Video Leakage<a href="https://www.zdnet.com/article/cisa-warns-manufacturers-of-throughtek-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has released a new ICS advisory about a vulnerability found in a widely-used ThroughTek tool that gives attackers access to audio and video feeds as well as other sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ThroughTek Flaw Opens Millions of Connected Cameras to Eavesdropping<a href="https://thehackernews.com/2021/06/critical-throughtek-flaw-opens-millions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday issued an advisory regarding a critical software supply-chain flaw impacting ThroughTek's software development kit (SDK) that could be abused by an adversary to gain improper access to audio and video streams.  "Successful exploitation of this vulnerability could permit unauthorized access to sensitive information, such as camera audio/video feeds," CISA&nbsp; said &nbsp;in the alert.  ThroughTek's point-to-point ( P2P ) SDK is widely used by IoT devices with video surveillance or audio/video transmission capability such as IP cameras, baby and pet monitoring cameras, smart home appliances, and sensors to provide remote access to the media content over the internet.   Tracked as CVE-2021-32934 (CVSS score: 9.1), the shortcoming affects ThroughTek P2P products, versions 3.1.5 and before as well as SDK versions with nossl tag, and stems from a lack of sufficient protection when transferring data between
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peloton Bike+ vulnerability allowed complete takeover of devices<a href="https://www.bleepingcomputer.com/news/security/peloton-bike-plus-vulnerability-allowed-complete-takeover-of-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Peloton Bike+fitness machine has been fixed that could have allowed a threat actor to gain complete control over the device, including its video camera and microphone.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

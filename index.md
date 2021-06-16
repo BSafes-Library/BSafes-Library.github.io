@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine arrests Clop ransomware gang members, seizes servers<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-clop-ransomware-gang-members-seizes-servers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 100% increase in daily DDoS traffic in 2020 as potential grows for 10 Tbps attack: Nokia<a href="https://www.zdnet.com/article/100-increase-in-daily-ddos-traffic-in-2020-as-potential-grows-for-10-tbps-attack-nokia/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian police say hackers who targeted US firms with ransomware have been uncovered<a href="https://thehill.com//policy/national-security/558692-ukrainian-police-say-hackers-who-targeted-us-firms-with-ransomware"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Attack on South Korean Entities Was Work of Andariel Group<a href="https://thehackernews.com/2021/06/malware-attack-on-south-korean-entities.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS Test and Trace Bolsters its Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/nhs-test-trace-cybersecurity-risk/"> Full Text</a>
@@ -114,7 +114,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Peloton Bike+ could allow hackers to control it<a href="https://securityaffairs.co/wordpress/119025/breaking-news/peloton-bike-flaw.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Tips to Prevent and Mitigate Ransomware Attacks<a href="https://threatpost.com/5-tips-to-prevent-and-mitigate-ransomware-attacks/166847/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How FireEye attributed the SolarWinds hacking campaign to Russian spies<a href="https://www.cyberscoop.com/fireeye-russia-solarwinds-kevin-mandia-postcard/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attackers Partnering With Cybercrime Groups to Hack High-Profile Targets<a href="https://thehackernews.com/2021/06/ransomware-attackers-partnering-with.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Football Fever Puts Password Security at Risk<a href="https://www.infosecurity-magazine.com:443/news/football-fever-password-security/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram Flaw Allowed Anyone to View Private or Archived Posts, Stories of Users Without Following Them<a href="https://securityaffairs.co/wordpress/118994/security/instagram-flaw-2.html?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Ransomware Victims Are Hit Again After Paying<a href="https://www.infosecurity-magazine.com:443/news/most-ransomware-victims-hit-again/"> Full Text</a>
@@ -230,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web app and API protection startup ThreatX raises $10M to expand US operations<a href="https://siliconangle.com/2021/06/15/webapp-api-protection-startup-threatx-raises-10m-business-growth/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT Supply Chain Bug Hits Millions of Cameras<a href="https://www.infosecurity-magazine.com:443/news/iot-supply-chain-bug-millions/"> Full Text</a>
@@ -262,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TimeCache aims to block side-channel cache attacks – without hurting performance<a href="https://www.theregister.com/2021/06/15/timecache_aims_to_block_sidechannel/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Andariel Threat Group Evolves to Target South Korean Entities with Custom Ransomware<a href="https://securelist.com/andariel-evolves-to-target-south-korea-with-ransomware/102811/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forcepoint Acquiring Deep Secure to Extend Portfolio<a href="https://www.channelfutures.com/mergers-and-acquisitions/forcepoint-acquiring-deep-secure-to-extend-portfolio?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ channelfutures
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can Homomorphic Encryption Bring Down The Curtain On POS Malware?<a href="https://www.forbes.com/sites/forbestechcouncil/2021/06/15/can-homomorphic-encryption-bring-down-the-curtain-on-pos-malware/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Forbes
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns Manufacturers of ThroughTek P2P Vulnerability Which Could Leak to Data and Video Leakage<a href="https://www.zdnet.com/article/cisa-warns-manufacturers-of-throughtek-vulnerability/?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Texas Joins Other States with New Texas Data Breach Notification Requirement: Is This a New Trend?<a href="https://www.natlawreview.com/article/texas-joins-other-states-new-texas-data-breach-notification-requirement-new-trend?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ The National Law Review
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical ThroughTek Flaw Opens Millions of Connected Cameras to Eavesdropping<a href="https://thehackernews.com/2021/06/critical-throughtek-flaw-opens-millions.html"> Full Text</a>
@@ -374,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberium malware-hosting domain employed in multiple Mirai variants campaigns<a href="https://securityaffairs.co/wordpress/119018/malware/cyberium-malware-hosting-mirai.html"> Full Text</a>
@@ -394,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Peloton Bike+ vulnerability allowed complete takeover of devices<a href="https://www.bleepingcomputer.com/news/security/peloton-bike-plus-vulnerability-allowed-complete-takeover-of-devices/"> Full Text</a>

@@ -11,6 +11,52 @@ nav_order: 900180
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Avaddon ransomware's exit sheds light on victim landscape<a href="https://www.bleepingcomputer.com/news/security/avaddon-ransomwares-exit-sheds-light-on-victim-landscape/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report analyzes the recently released Avaddon ransomware decryption keys to shed light on the types of victims targeted by the threat actors and potential revenue they generated throughout their operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The source code of the Paradise Ransomware was leaked on XSS hacking forum<a href="https://securityaffairs.co/wordpress/119006/cyber-crime/paradise-ransomware-code-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code for the Paradise Ransomware has been released on a hacking forum allowing threat actors to develop their customized variant.
+
+
+
+The source code for the Paradise Ransomware has been released on the hacking forum XSS allowing threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Source code for Paradise ransomware leaked on hacking forums<a href="https://therecord.media/source-code-for-paradise-ransomware-leaked-on-hacking-forums/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code, which was shared on a Russian-speaking forum called XSS, represents the second major ransomware strain whose source code was leaked in recent years after the Dharma code leak in early 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Paradise Ransomware source code released on a hacking forum<a href="https://www.bleepingcomputer.com/news/security/paradise-ransomware-source-code-released-on-a-hacking-forum/"> Full Text</a>
 </p>
 <details>

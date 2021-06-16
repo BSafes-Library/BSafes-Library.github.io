@@ -34,6 +34,382 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests Clop ransomware gang members, seizes servers<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-clop-ransomware-gang-members-seizes-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement arrested cybercriminals associated with the Clop ransomware gang and shut down infrastructure used in attacks targeting victims worldwide since at least 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100% increase in daily DDoS traffic in 2020 as potential grows for 10 Tbps attack: Nokia<a href="https://www.zdnet.com/article/100-increase-in-daily-ddos-traffic-in-2020-as-potential-grows-for-10-tbps-attack-nokia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Nokia Deepfield found that there has been a massive increase in high-bandwidth, volumetric DDoS attacks, the majority of which originate from just a few dozen hosting companies.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian police say hackers who targeted US firms with ransomware have been uncovered<a href="https://thehill.com//policy/national-security/558692-ukrainian-police-say-hackers-who-targeted-us-firms-with-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police have identified a group of six hackers who engaged in ransomware targeting the servers of companies from South Korea and the U.S. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Attack on South Korean Entities Was Work of Andariel Group<a href="https://thehackernews.com/2021/06/malware-attack-on-south-korean-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign targeting South Korean entities that came to light earlier this year has been attributed to a North Korean nation-state hacking group called Andariel, once again indicating that  Lazarus  attackers are following the trends and their  arsenal  is in  constant development .  "The way Windows commands and their options were used in this campaign is almost identical to previous Andariel activity," Russian cybersecurity firm Kaspersky  said  in a deep-dive published Tuesday. Victims of the attack are in the manufacturing, home network service, media, and construction sectors.   Designated as part of the Lazarus constellation, Andariel is known for unleashing attacks on South Korean organizations and businesses using specifically tailored methods created for maximum effectivity. In September 2019, the sub-group, along with Lazarus and Bluenoroff, was  sanctioned by the U.S. Treasury Department  for their malicious cyber activity on critical infrastructure.  Anda
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Test and Trace Bolsters its Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/nhs-test-trace-cybersecurity-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NHS Test and Trace appoints UK cyber startup Risk Ledger to manage its supply chain risks
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Peloton Bike+ could allow hackers to control it<a href="https://securityaffairs.co/wordpress/119025/breaking-news/peloton-bike-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the Peloton Bike+ could be exploited by an attacker with initial physical access to gain root entry to the interactive tablet, taking complete control of the system.
+
+
+
+A vulnerability in the popular Peloton Bike+ could have allowed an attacker...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Tips to Prevent and Mitigate Ransomware Attacks<a href="https://threatpost.com/5-tips-to-prevent-and-mitigate-ransomware-attacks/166847/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are increasing in frequency, and the repercussions are growing more severe than ever. Here are 5 ways to prevent your company from becoming the next headline.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How FireEye attributed the SolarWinds hacking campaign to Russian spies<a href="https://www.cyberscoop.com/fireeye-russia-solarwinds-kevin-mandia-postcard/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first revelations about the campaign, which hit nine government agencies and around 100 companies, came in December 2020, when FireEye disclosed that hackers had stolen its security testing tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Partnering With Cybercrime Groups to Hack High-Profile Targets<a href="https://thehackernews.com/2021/06/ransomware-attackers-partnering-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ransomware attacks against critical infrastructure skyrocket, new research shows that threat actors behind such disruptions are increasingly shifting from using email messages as an intrusion route to purchasing access from cybercriminal enterprises that have already infiltrated major targets.  "Ransomware operators often buy access from independent cybercriminal groups who infiltrate major targets and then sell access to the ransomware actors for a slice of the ill-gotten gains," researchers from Proofpoint said in a write-up  shared with The Hacker News.  "Cybercriminal threat groups already distributing banking malware or other trojans may also become part of a ransomware affiliate network."  Besides angling for a piece of the illegal profits, the email and cloud security firm said it is currently tracking at least 10 different threat actors who play the role of "initial access facilitators" to supply affiliates and other cybercrime groups with an e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Football Fever Puts Password Security at Risk<a href="https://www.infosecurity-magazine.com:443/news/football-fever-password-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With Euro 2020 underway, research uncovers one million football-related passwords
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram Flaw Allowed Anyone to View Private or Archived Posts, Stories of Users Without Following Them<a href="https://securityaffairs.co/wordpress/118994/security/instagram-flaw-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Mayur Fartade has found a vulnerability in Instagram that allowed anyone to access private accounts, viewing archived posts and stories without having to follow them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Ransomware Victims Are Hit Again After Paying<a href="https://www.infosecurity-magazine.com:443/news/most-ransomware-victims-hit-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In half of cases, victim organizations were attacked by the same group
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web app and API protection startup ThreatX raises $10M to expand US operations<a href="https://siliconangle.com/2021/06/15/webapp-api-protection-startup-threatx-raises-10m-business-growth/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web application and API protection startup ThreatX Inc. revealed that it has raised $10 million in new Series B funding to accelerate business growth and expand U.S. operations.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Supply Chain Bug Hits Millions of Cameras<a href="https://www.infosecurity-magazine.com:443/news/iot-supply-chain-bug-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical vulnerability could allow attackers to eavesdrop on users
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TimeCache aims to block side-channel cache attacks – without hurting performance<a href="https://www.theregister.com/2021/06/15/timecache_aims_to_block_sidechannel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the University of Rochester have created TimeCache, an approach to system security claimed to protect against side-channel attacks without the usual deleterious impact on performance.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Andariel Threat Group Evolves to Target South Korean Entities with Custom Ransomware<a href="https://securelist.com/andariel-evolves-to-target-south-korea-with-ransomware/102811/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor has been spreading the third stage payload from the middle of 2020 onwards and leveraged malicious Word documents and files mimicking PDF documents as infection vectors.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcepoint Acquiring Deep Secure to Extend Portfolio<a href="https://www.channelfutures.com/mergers-and-acquisitions/forcepoint-acquiring-deep-secure-to-extend-portfolio?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will allow Forcepoint to extend the capabilities of its Cross Domain Solutions portfolio to secure the critical data of governments in the United States and beyond.
+</details>
+<div style="text-align: right" markdown="1">
+channelfutures
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can Homomorphic Encryption Bring Down The Curtain On POS Malware?<a href="https://www.forbes.com/sites/forbestechcouncil/2021/06/15/can-homomorphic-encryption-bring-down-the-curtain-on-pos-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In standard encryption, we need to decrypt the ciphertext to process data at a destination, but in this case, this encryption can work on the same ciphertext and produce the same output as clear text.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns Manufacturers of ThroughTek P2P Vulnerability Which Could Leak to Data and Video Leakage<a href="https://www.zdnet.com/article/cisa-warns-manufacturers-of-throughtek-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has released a new ICS advisory about a vulnerability found in a widely-used ThroughTek tool that gives attackers access to audio and video feeds as well as other sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas Joins Other States with New Texas Data Breach Notification Requirement: Is This a New Trend?<a href="https://www.natlawreview.com/article/texas-joins-other-states-new-texas-data-breach-notification-requirement-new-trend?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Texas Legislature pushed a change to its data breach notification law at the end of the session in late May, and yesterday Governor Greg Abbott signed the bill into law.
+</details>
+<div style="text-align: right" markdown="1">
+The National Law Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ThroughTek Flaw Opens Millions of Connected Cameras to Eavesdropping<a href="https://thehackernews.com/2021/06/critical-throughtek-flaw-opens-millions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday issued an advisory regarding a critical software supply-chain flaw impacting ThroughTek's software development kit (SDK) that could be abused by an adversary to gain improper access to audio and video streams.  "Successful exploitation of this vulnerability could permit unauthorized access to sensitive information, such as camera audio/video feeds," CISA  said  in the alert.  ThroughTek's point-to-point ( P2P ) SDK is widely used by IoT devices with video surveillance or audio/video transmission capability such as IP cameras, baby and pet monitoring cameras, smart home appliances, and sensors to provide remote access to the media content over the internet.   Tracked as CVE-2021-32934 (CVSS score: 9.1), the shortcoming affects ThroughTek P2P products, versions 3.1.5 and before as well as SDK versions with nossl tag, and stems from a lack of sufficient protection when transferring data between
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberium malware-hosting domain employed in multiple Mirai variants campaigns<a href="https://securityaffairs.co/wordpress/119018/malware/cyberium-malware-hosting-mirai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Mirai botnet, tracked as Moobot, was spotted scanning the Internet for vulnerable Tenda routers.
+
+
+
+Researchers from AT&T Alien Lab have spotted a new variant of the Mirai botnet, tracked asu Moobot, which was scanning the Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peloton Bike+ vulnerability allowed complete takeover of devices<a href="https://www.bleepingcomputer.com/news/security/peloton-bike-plus-vulnerability-allowed-complete-takeover-of-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Peloton Bike+fitness machine has been fixed that could have allowed a threat actor to gain complete control over the device, including its video camera and microphone.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
