@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Health care ransomware attacks: Oklahoma health system driven to EHR downtime<a href="https://www.scmagazine.com/home/health-care/health-care-ransomware-attacks-oklahoma-health-system-driven-to-ehr-downtime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident is the latest in what appears to be another ransomware wave, after a previous onslaught of attacks and EHR outages in the fall of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden, Putin agree to begin work on addressing cybersecurity concerns<a href="https://thehill.com//policy/cybersecurity/558787-biden-putin-agree-to-begin-work-on-to-address-cybersecurity-concerns"> Full Text</a>
 </p>
 <details>
