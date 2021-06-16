@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware Calls it Quit, Distributes Keys for Free<a href="https://cyware.com/news/avaddon-ransomware-calls-it-quit-distributes-keys-for-free-4238d367"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avaddon ransomware gang has shared   2,934 decryption keys  , with Bleeping Computer, shrouded in an anonymous tip pretending to be from the FBI.  The team soon shared it with Emsisoft, who confirmed the legitimacy of the keys.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IAB Tech Lab Accused of “World’s Largest Data Breach”<a href="https://www.infosecurity-magazine.com:443/news/iab-tech-lab-accused-of-worlds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Irish civil liberties group sues non-profit digital media consortium over real-time bidding
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Poll: 80% of Victims Don’t Pay Up<a href="https://threatpost.com/ransomware-victims-dont-pay-up/166989/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meanwhile, in a separate survey, 80 percent of organizations that paid the ransom said were hit by a second attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Over One Billion Records Belonging to CVS Health Exposed Online<a href="https://www.zdnet.com/article/billions-of-records-belonging-to-cvs-health-exposed-online/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
 </p>
 <details>
