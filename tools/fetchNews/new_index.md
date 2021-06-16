@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ferocious Kitten: 6 years of covert surveillance in Iran<a href="https://securelist.com/ferocious-kitten-6-years-of-covert-surveillance-in-iran/102806/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interestingly, some of the TTPs used by this threat actor are reminiscent of other groups that are active against a similar set of targets, such as Domestic Kitten and Rampant Kitten.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity vulnerability discovered in Peloton products<a href="https://thehill.com//policy/cybersecurity/558706-cybersecurity-vulnerability-discovered-in-peloton-products"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity vulnerability in some Peloton bike products may have enabled hackers to install malware and potentially spy on riders, according to software security company McAfee.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Corporate attack surfaces growing concurrently with a dispersed workforce<a href="https://www.helpnetsecurity.com/2021/06/16/corporate-attack-surfaces/?&web_view=true"> Full Text</a>
 </p>
 <details>
