@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Euros-Driven Football Fever Nets Dumb Passwords<a href="https://threatpost.com/euros-football-fever-dumb-passwords/166974/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top easy-to-crack, football-inspired password in a database of 1 billion unique, clear-text, breached passwords? You probably guessed it: “Football.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cl0p affiliated hackers exposed in Ukraine<a href="https://cybernews.com/news/cl0p-affiliated-hackers-exposed-in-ukraine-500-million-in-damages-estimated/?&web_view=true"> Full Text</a>
 </p>
 <details>
