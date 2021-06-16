@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden, Putin agree to begin work on addressing cybersecurity concerns | Senate panel unanimously advances key Biden cyber nominees | Rick Scott threatens to delay national security nominees until Biden visits border<a href="https://thehill.com//policy/technology/overnights/558835-hillicon-valley-biden-putin-agree-to-begin-work-on-addressing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenMellman: Trump voters cling to 2020 tale FDA authorizes another batch of J&J vaccine Cotton warns of China collecting athletes' DNA at 2022 Olympics MORE and Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley: Big Tech critic Lina Khan named chair of the FTC | Lawmakers urge Biden to be tough on cyber during summit with Putin | TSA working on additional security regulations following Colonial Pipeline hack Overnight Defense: Top admiral shoots back at criticism of 'woke' military | Military guns go missing | New White House strategy to battle domestic extremism Lawmakers urge Biden to be tough on cybersecurity during summit with Putin MORE met face-to-face in Geneva, the first in-person interaction between the leaders since Biden took office. Cybersecurity was at the top of the agenda after a bumpy few months of escalating Russian-linked attacks on the U.S. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Peloton bikes one example of a more widespread security issue<a href="https://www.scmagazine.com/home/security-news/iot/vulnerability-in-peloton-bikes-one-example-of-a-more-widespread-security-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many Android device OEMs may have offerings with similar flaws, any of which could provide an avenue in to home networks and even enterprise resources.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers mail fake Ledger devices to steal your cryptocurrency<a href="https://www.bleepingcomputer.com/news/cryptocurrency/scammers-mail-fake-ledger-devices-to-steal-your-cryptocurrency/"> Full Text</a>
 </p>
 <details>
