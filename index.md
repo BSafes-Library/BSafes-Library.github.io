@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+We've found another reason not to use Microsoft's Paint 3D – researchers<a href="https://www.theregister.com/2021/06/16/3d_paint_vuln/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, designated CVE-2021-31946, could let miscreants execute arbitrary code on affected versions of Paint 3D when visiting a malicious page or opening a malicious file.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Members of Clop Ransomware Gang Arrested in Ukraine<a href="https://www.infosecurity-magazine.com:443/news/clop-ransomware-gang-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A police operation in Ukraine has led to the arrest of six people allegedly part of the notorious Clop ransomware group
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US convicts Russian national behind Kelihos botnet crypting service<a href="https://www.bleepingcomputer.com/news/security/us-convicts-russian-national-behind-kelihos-botnet-crypting-service/"> Full Text</a>
 </p>
 <details>
