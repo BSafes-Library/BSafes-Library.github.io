@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cl0p affiliated hackers exposed in Ukraine<a href="https://cybernews.com/news/cl0p-affiliated-hackers-exposed-in-ukraine-500-million-in-damages-estimated/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police reported uncovering a group of hackers who used the Cl0p ransomware to extort money from foreign businesses, mainly in the United States and South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate panel unanimously advances key Biden cyber nominees<a href="https://thehill.com//policy/cybersecurity/558717-senate-panel-unanimously-advances-key-biden-cyber-nominees"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Homeland Security and Governmental Affairs Committee on Wednesday unanimously approved two of President Biden's nominees to serve in the nation's top cybersecurity positions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement raids ransomware group that counted US universities among its targets<a href="https://www.scmagazine.com/home/security-news/ransomware/law-enforcement-raids-ransomware-group-that-counted-us-universities-among-its-targets/"> Full Text</a>
 </p>
 <details>
