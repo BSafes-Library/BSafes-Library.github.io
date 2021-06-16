@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyberium malware-hosting domain employed in multiple Mirai variants campaigns<a href="https://securityaffairs.co/wordpress/119018/malware/cyberium-malware-hosting-mirai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Mirai botnet, tracked as Moobot, was spotted scanning the Internet for vulnerable Tenda routers.
+
+
+
+Researchers from AT&T Alien Lab have spotted a new variant of the Mirai botnet, tracked asu Moobot, which was scanning the Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Peloton Bike+ vulnerability allowed complete takeover of devices<a href="https://www.bleepingcomputer.com/news/security/peloton-bike-plus-vulnerability-allowed-complete-takeover-of-devices/"> Full Text</a>
 </p>
 <details>
