@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UChecker tool from CloudLinux scans Linux servers<a href="https://www.scmagazine.com/home/security-news/cloud-security/uchecker-tool-from-cloudlinux-scans-linux-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For security  administrators, the tool covers more than one Linux distribution in a scripted fashion.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

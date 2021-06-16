@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paradise Ransomware source code released on a hacking forum<a href="https://www.bleepingcomputer.com/news/security/paradise-ransomware-source-code-released-on-a-hacking-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The complete source code for the Paradise Ransomware has been released on a hacking forum allowing any would-be cyber criminal to develop their own customized ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Shed Light On Distinctive Tactics Used by Hades Ransomware<a href="https://thehackernews.com/2021/06/experts-shed-light-on-distinctive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed "distinctive" tactics, techniques, and procedures (TTPs) adopted by operators of Hades ransomware that set it apart from the rest of the pack, attributing it to a financially motivated threat group called&nbsp; GOLD WINTER .  "In many ways, the GOLD WINTER threat group is a typical post-intrusion ransomware threat group that pursues high-value targets to maximize how much money it can extort from its victims," researchers from SecureWorks Counter Threat Unit (CTU) said in an analysis  shared with The Hacker News. "However, GOLD WINTER's operations have quirks that distinguish it from other groups."  The findings come from a study of incident response efforts the Atlanta-based cybersecurity firm engaged in the first quarter of 2021.   Since first emerging in the threat landscape in December 2020, Hades has been classified as INDRIK SPIDER's successor to&nbsp; WastedLocker &nbsp;ransomware with "additional code o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unique TTPs link Hades ransomware to new threat group<a href="https://www.csoonline.com/article/3621764/unique-ttps-link-hades-ransomware-to-new-threat-group.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers claim to have discovered the identity of the operators of Hades ransomware, exposing the distinctive tactics, techniques, and procedures (TTPs) they employ in their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

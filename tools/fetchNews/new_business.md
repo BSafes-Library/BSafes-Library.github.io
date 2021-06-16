@@ -11,6 +11,20 @@ nav_order: 900027
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Deloitte acquires online antifraud firm Terbium Labs<a href="https://www.scmagazine.com/home/security-news/cloud-security/deloitte-acquires-online-antifraud-firm-terbium-labs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The startup creates digital fingerprints of sensitive data and uses machine learning to scan the open and dark web for signs of a breach.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Zero trust networking startup Elisity raises $26M<a href="https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

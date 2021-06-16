@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wear your MASQ! New Device Fingerprint Spoofing Tool Available in Dark Web<a href="https://securityaffairs.co/wordpress/118981/cyber-crime/masq-fingerprint-spoofing-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MASQ tool&nbsp;could be used by attackers to emulate device fingerprints thus allowing them to bypass fraud protection controls
+
+
+
+The Resecurity® HUNTER&nbsp;unit has identified a new tool available for sale in the Dark Web called&nbsp;MASQ,&nbsp;enabling bad actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

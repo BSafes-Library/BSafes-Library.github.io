@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram‌ ‌Bug Allowed Anyone to View Private Accounts Without Following Them<a href="https://thehackernews.com/2021/06/instagram-bug-allowed-anyone-to-view.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram has patched a new flaw that allowed anyone to view archived posts and stories posted by private accounts without having to follow them.  "This bug could have allowed a malicious user to view targeted media on Instagram," Mayur Fartade&nbsp; said &nbsp;in a Medium post today. "An attacker could have been able to see details of private/archived posts, stories, reels, IGTV without following the user using Media ID."   Fartade disclosed the issue to Facebook's security team on April 16, 2021, following which the shortcoming was patched on June 15. He was also awarded $30,000 as part of the company's bug bounty program.    Although the attack requires knowing the media ID associated with an image, video, or album, by brute-forcing the identifiers, Fartade demonstrated that it was possible to craft a POST request to a GraphQL endpoint and retrieve sensitive data.   As a consequence of the flaw, details such as like/comment/save count, display_url, and image.uri c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes ninth zero-day bug exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-ninth-zero-day-bug-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has fixed two iOS zero-day vulnerabilities&nbsp;that "may have been actively exploited" to hack into older iPhone, iPad, and iPod devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Patches for 2 Zero-Day Flaws Exploited in the Wild<a href="https://thehackernews.com/2021/06/apple-issues-urgent-patches-for-2-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday shipped out-of-band security patches to address two zero-day vulnerabilities in iOS 12.5.3 that it says are being actively exploited in the wild.   The latest update,&nbsp; iOS 12.5.4 , comes with three security fixes, including a memory corruption issue in the&nbsp; ASN.1 decoder &nbsp;(CVE-2021-30737) and two flaws concerning the WebKit browser engine that could be abused to achieve remote code execution —    CVE-2021-30761 &nbsp;- A memory corruption issue that could be exploited to gain arbitrary code execution when processing maliciously crafted web content. The flaw was addressed with improved state management.  CVE-2021-30762 &nbsp;- A use-after-free issue that could be exploited to gain arbitrary code execution when processing maliciously crafted web content. The flaw was resolved with improved memory management.   Both CVE-2021-30761 and CVE-2021-30762 were reported to Apple anonymously, with the Cupertino-based company stating in its advisory that it's aware of reports that the v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

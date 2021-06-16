@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA working on additional pipeline security regulations following Colonial Pipeline hack<a href="https://thehill.com//policy/cybersecurity/558606-tsa-working-on-additional-pipeline-security-regulations-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) is working on an additional cybersecurity directive for pipeline companies in the wake of the ransomware attack on Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Homeless Hacker” Arrested<a href="https://www.infosecurity-magazine.com:443/news/homeless-hacker-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Santa Cruz County DDoS attacker arrested in Mexico after years on the run
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marketplace Selling Stolen Credentials Is Dismantled<a href="https://www.infosecurity-magazine.com:443/news/slilpp-dismantled/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+International operation takes down virtual Slilpp store selling over 80 million allegedly stolen credentials
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

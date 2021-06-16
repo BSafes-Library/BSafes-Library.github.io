@@ -11,6 +11,38 @@ nav_order: 900015
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fujifilm restores operations after recent ransomware attack<a href="https://securityaffairs.co/wordpress/119005/cyber-crime/fujifilm-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese multinational conglomerate Fujifilm announced that it has restored operations following the recent ransomware attack.
+
+
+
+On June 4, the Japanese multinational conglomerate Fujifilm announced&nbsp;that it was hit by a ransomware attack and shut down...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon, water agency targeted in Chinese cyber espionage campaign: report<a href="https://thehill.com//policy/cybersecurity/558578-verizon-water-agency-targeted-in-chinese-cyber-espionage-campaign-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon and one of the country’s largest water&nbsp;agencies&nbsp;were reportedly included among the groups targeted in the hacking of Pulse Connect Secure devices,&nbsp;a hack blamed on China that came to light in April.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 No Two REvil Attacks Are the Same, Experts Warn<a href="https://www.infosecurity-magazine.com:443/news/no-two-revil-attacks-are-the-same/"> Full Text</a>
 </p>
 <details>

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Big Tech critic Lina Khan named chair of the FTC | Lawmakers urge Biden to be tough on cyber during summit with Putin | TSA working on additional security regulations following Colonial Pipeline hack<a href="https://thehill.com//policy/cybersecurity/overnights/558621-hillicon-valley-big-tech-critic-lina-khan-named-chair-of-the"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deloitte acquires online antifraud firm Terbium Labs<a href="https://www.scmagazine.com/home/security-news/cloud-security/deloitte-acquires-online-antifraud-firm-terbium-labs/"> Full Text</a>
@@ -66,7 +66,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers urge Biden to be tough on cybersecurity during summit with Putin<a href="https://thehill.com//policy/cybersecurity/558617-lawmakers-urge-biden-to-be-tough-on-cybersecurity-during-summit-with"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State and local governments granted free access to timely, in-depth cyber intel<a href="https://www.scmagazine.com/home/government/state-and-local-governments-granted-free-access-to-timely-in-depth-cyber-intel/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaddon ransomware's exit sheds light on victim landscape<a href="https://www.bleepingcomputer.com/news/security/avaddon-ransomwares-exit-sheds-light-on-victim-landscape/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TSA working on additional pipeline security regulations following Colonial Pipeline hack<a href="https://thehill.com//policy/cybersecurity/558606-tsa-working-on-additional-pipeline-security-regulations-following"> Full Text</a>
@@ -130,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TSA offers peek at second pipeline directive<a href="https://www.scmagazine.com/home/security-news/ransomware/tsa-offers-peek-at-second-pipeline-directive/"> Full Text</a>
@@ -146,7 +146,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujifilm restores operations after recent ransomware attack<a href="https://securityaffairs.co/wordpress/119005/cyber-crime/fujifilm-ransomware-attack.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UChecker tool from CloudLinux scans Linux servers<a href="https://www.scmagazine.com/home/security-news/cloud-security/uchecker-tool-from-cloudlinux-scans-linux-servers/"> Full Text</a>
@@ -182,7 +182,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Connected Cameras Open to Eavesdropping<a href="https://threatpost.com/millions-connected-cameras-eavesdropping/166950/"> Full Text</a>
@@ -198,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender ATP now warns of jailbroken iPhones, iPads<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-atp-now-warns-of-jailbroken-iphones-ipads/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verizon, water agency targeted in Chinese cyber espionage campaign: report<a href="https://thehill.com//policy/cybersecurity/558578-verizon-water-agency-targeted-in-chinese-cyber-espionage-campaign-report"> Full Text</a>
@@ -230,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, EU establish trade and technology council to compete with China<a href="https://thehill.com//policy/cybersecurity/558561-us-and-eu-establish-trade-and-technology-council-in-effort-to-compete"> Full Text</a>
@@ -246,7 +246,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 C-suites adapt to ransomware as a cost of doing business<a href="https://www.scmagazine.com/home/security-news/ransomware/c-suites-adapt-to-ransomware-as-a-cost-of-doing-business/"> Full Text</a>
@@ -262,7 +262,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The source code of the Paradise Ransomware was leaked on XSS hacking forum<a href="https://securityaffairs.co/wordpress/119006/cyber-crime/paradise-ransomware-code-leaked.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeaBot Trojan Spreads via Fake Antivirus Apps<a href="https://cyware.com/news/teabot-trojan-spreads-via-fake-antivirus-apps-d59f7630"> Full Text</a>
@@ -298,7 +298,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Homeless Hacker” Arrested<a href="https://www.infosecurity-magazine.com:443/news/homeless-hacker-arrested/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marketplace Selling Stolen Credentials Is Dismantled<a href="https://www.infosecurity-magazine.com:443/news/slilpp-dismantled/"> Full Text</a>
@@ -330,7 +330,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Source code for Paradise ransomware leaked on hacking forums<a href="https://therecord.media/source-code-for-paradise-ransomware-leaked-on-hacking-forums/?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2021
+June 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot Targeting Tenda Router Bugs for Distribution<a href="https://cyware.com/news/moobot-targeting-tenda-router-bugs-for-distribution-cd9e34d2"> Full Text</a>

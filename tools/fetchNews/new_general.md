@@ -11,6 +11,48 @@ nav_order: 900072
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Big Tech critic Lina Khan named chair of the FTC | Lawmakers urge Biden to be tough on cyber during summit with Putin | TSA working on additional security regulations following Colonial Pipeline hack<a href="https://thehill.com//policy/cybersecurity/overnights/558621-hillicon-valley-big-tech-critic-lina-khan-named-chair-of-the"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prominent tech critic Lina Khan was named chair of the Federal Trade Commission on Tuesday, following the bipartisan vote confirming her to the agency. Meanwhile, lawmakers on both sides of the aisle made the case for President BidenJoe BidenFormer Rep. Rohrabacher says he took part in Jan. 6 march to Capitol but did not storm building Saudis picked up drugs in Cairo used to kill Khashoggi: report Biden looking to build momentum for Putin meeting MORE to put recent cyberattacks high on his agenda to discuss with Russian President Vladimir PutinVladimir Vladimirovich PutinFormer Rep. Rohrabacher says he took part in Jan. 6 march to Capitol but did not storm building Biden looking to build momentum for Putin meeting Hillicon Valley: NATO members agree to new cyber defense policy | YouTube banning politics, elections in masthead ads | 50 groups urge Biden to fill FCC position to reinstate net neutrality rules MORE during their meeting this week, and a top TSA official teased a new cybersecurity directive for pipeline companies.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA offers peek at second pipeline directive<a href="https://www.scmagazine.com/home/security-news/ransomware/tsa-offers-peek-at-second-pipeline-directive/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a joint hearing of the House Homeland Security subcommittees on transportation and cybersecurity, a representative of the Transportation Security Agency outlined what to expect from an upcoming security directive for oil and gas pipelines. The TSA is the agency tasked with pipeline security. After the Colonial Pipeline ransomware incident, it took a landmark step…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+C-suites adapt to ransomware as a cost of doing business<a href="https://www.scmagazine.com/home/security-news/ransomware/c-suites-adapt-to-ransomware-as-a-cost-of-doing-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tangible impacts to corporate earnings, combined with the multi-million dollar ransom payouts by Colonial Pipeline and JBS, demonstrate a reality that more and more in the cybersecurity community are beginning to acknowledge: Ransomware is emerging as a cost of doing business, grabbing the attention not just of security leaders, but the entire C-suite, boards, and even Wall Street investors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Protecting the Critical of Critical: What Is Systemically Important Critical Infrastructure?<a href="https://www.lawfareblog.com/protecting-critical-critical-what-systemically-important-critical-infrastructure"> Full Text</a>
 </p>
 <details>
