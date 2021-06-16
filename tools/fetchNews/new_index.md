@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Takeaways from the Colonial Pipeline Ransomware Attack<a href="https://threatpost.com/takeaways-colonial-pipeline-ransomware/166980/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident showcases basic steps that organizations can take to protect themselves as ransomware gangs get smarter.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 We've found another reason not to use Microsoft's Paint 3D – researchers<a href="https://www.theregister.com/2021/06/16/3d_paint_vuln/?&web_view=true"> Full Text</a>
 </p>
 <details>
