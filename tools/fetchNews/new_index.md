@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+IKEA Fined $1.2M for Elaborate ‘Spying System’<a href="https://threatpost.com/ikea-fined-spying-system/166991/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French court fined the furniture giant for illegal surveillance on 400 customers and staff.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Gold Winter is the Group Behind Hades Ransomware<a href="https://cyware.com/news/gold-winter-is-the-group-behind-hades-ransomware-c48bf1d4"> Full Text</a>
 </p>
 <details>
