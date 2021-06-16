@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical ThroughTek Flaw Opens Millions of Connected Cameras to Eavesdropping<a href="https://thehackernews.com/2021/06/critical-throughtek-flaw-opens-millions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday issued an advisory regarding a critical software supply-chain flaw impacting ThroughTek's software development kit (SDK) that could be abused by an adversary to gain improper access to audio and video streams.  "Successful exploitation of this vulnerability could permit unauthorized access to sensitive information, such as camera audio/video feeds," CISA  said  in the alert.  ThroughTek's point-to-point ( P2P ) SDK is widely used by IoT devices with video surveillance or audio/video transmission capability such as IP cameras, baby and pet monitoring cameras, smart home appliances, and sensors to provide remote access to the media content over the internet.   Tracked as CVE-2021-32934 (CVSS score: 9.1), the shortcoming affects ThroughTek P2P products, versions 3.1.5 and before as well as SDK versions with nossl tag, and stems from a lack of sufficient protection when transferring data between
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyberium malware-hosting domain employed in multiple Mirai variants campaigns<a href="https://securityaffairs.co/wordpress/119018/malware/cyberium-malware-hosting-mirai.html"> Full Text</a>
 </p>
 <details>
