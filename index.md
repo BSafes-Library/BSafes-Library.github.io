@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peloton Bike+ vulnerability allowed complete takeover of devices<a href="https://www.bleepingcomputer.com/news/security/peloton-bike-plus-vulnerability-allowed-complete-takeover-of-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Peloton Bike+fitness machine has been fixed that could have allowed a threat actor to gain complete control over the device, including its video camera and microphone.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

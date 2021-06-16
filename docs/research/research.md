@@ -753,6 +753,19 @@ Our review of hundreds of studies and interviews with 38 cyber and industry expe
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2017<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Nation-State Hacking - Uniting Policy and Code to Limit the Threat [HTML](https://papers.bsafes.com/docs/Politics/nation-state-hacking-uniting-policy-and-code-to-limit-the-threat/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This article examines nation-state hacking and analyzes some possible defenses against these attacks by combining policy and code level defense. 
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October, 2016<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
