@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Over One Billion Records Belonging to CVS Health Exposed Online<a href="https://www.zdnet.com/article/billions-of-records-belonging-to-cvs-health-exposed-online/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, WebsitePlanet, together with researcher Jeremiah Fowler, revealed the discovery of an online database belonging to CVS Health that was not password-protected.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Alibaba-owned Shopping Platform Falls Victim to Chinese Web Crawler in Large Data Leak<a href="https://www.wsj.com/articles/alibaba-falls-victim-to-chinese-web-crawler-in-large-data-leak-11623774850?&web_view=true"> Full Text</a>
 </p>
 <details>
