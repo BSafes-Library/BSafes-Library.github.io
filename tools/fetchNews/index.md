@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden, Putin agree to begin work on addressing cybersecurity concerns<a href="https://thehill.com//policy/cybersecurity/558787-biden-putin-agree-to-begin-work-on-to-address-cybersecurity-concerns"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden and Russian President Vladimir Putin on Wednesday said they agreed to work together to outline what cybersecurity concerns, such as ransomware attacks on critical infrastructure, would be considered red lines for the two countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware Gang Evaporates Amid Global Crackdowns  <a href="https://threatpost.com/avaddon-ransomware-global-crackdowns/166968/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group releases decryptors for nearly 3,000 victims, forfeiting millions in payouts.    
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Convicts Russian Malware-masker<a href="https://www.infosecurity-magazine.com:443/news/us-convicts-russian-malwaremasker/"> Full Text</a>
 </p>
 <details>
