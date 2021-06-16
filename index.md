@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Corporate attack surfaces growing concurrently with a dispersed workforce<a href="https://www.helpnetsecurity.com/2021/06/16/corporate-attack-surfaces/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coupled with increased reliance on public cloud services and vulnerable enterprise VPNs, large organizations not using zero trust security became more vulnerable to network intrusion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe: Introduction and General Overview of Modularized Malware<a href="https://decoded.avast.io/martinchlumecky/dirtymoe-1/?&web_view=true"> Full Text</a>
 </p>
 <details>
