@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe: Introduction and General Overview of Modularized Malware<a href="https://decoded.avast.io/martinchlumecky/dirtymoe-1/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The aim of this malware is focused on Cryptojacking and DDoS attacks. DirtyMoe is run as a Windows service under system-level privileges via EternalBlue and at least three other exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Police Arrest Cyber Criminals Behind Clop Ransomware Attacks<a href="https://thehackernews.com/2021/06/ukraine-police-arrest-cyber-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement officials on Wednesday announced the arrest of the  Clop ransomware  gang, adding it disrupted the infrastructure employed in attacks targeting victims worldwide since at least 2019.  As part of a joint operation between the National Police of Ukraine and authorities from the Republic of Korea and the U.S., six defendants have been accused of running a double extortion scheme wherein victims refusing to pay a ransom were threatened with the leak of sensitive financial, customer, or personal data stolen from them prior to encrypting the files.   The ransomware attacks amount to $500 million in monetary damages, the National Police  said , noting that "law enforcement has managed to shut down the infrastructure from which the virus spreads and block channels for legalizing criminally acquired cryptocurrencies."  Law enforcement officers are said to have conducted 21 searches in the Ukrainian capital and Kyiv region, including the homes of the defendan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
