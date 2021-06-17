@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Matanbuchus: Malware-as-a-Service with Demonic Intentions<a href="https://unit42.paloaltonetworks.com/matanbuchus-malware-as-a-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit42 researchers found several organizations impacted by Matanbuchus including a large university and high school in the United States, as well as a high-tech organization in Belgium.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geek Squad Vishing Attack Bypasses Email Security to Hit 25K Mailboxes<a href="https://threatpost.com/geek-squad-vishing-bypasses-email-security/167014/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An email campaign asking victims to call a bogus number to suspend supposedly fraudulent subscriptions got right past Microsoft’s native email controls.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Use Google Docs to Host Phishing Attacks<a href="https://threatpost.com/google-docs-host-attack/166998/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit in the widely used document service leveraged to send malicious links that appear legitimate but actually steal victims credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BackdoorDiplomacy - Trouble Brewing in Africa and the Middle East<a href="https://cyware.com/news/backdoordiplomacy-trouble-brewing-in-africa-and-the-middle-east-b4a1d703"> Full Text</a>
 </p>
 <details>

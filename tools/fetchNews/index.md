@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BackdoorDiplomacy - Trouble Brewing in Africa and the Middle East<a href="https://cyware.com/news/backdoordiplomacy-trouble-brewing-in-africa-and-the-middle-east-b4a1d703"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The APT group is capable of stealing victims’ system information, take screenshots, and write, move, or delete files. A subset of the victims were targeted with data collection executables that sought out removable media.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVS Health Records for 1.1 Billion Customers Exposed<a href="https://threatpost.com/cvs-health-records-billion-customers-exposed/167011/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vendor exposed the records, which were accessible with no password or other authentication, likely because of a cloud-storage misconfiguration.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Smoking Out a DARKSIDE Affiliate’s Supply Chain Software Compromise<a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html?&web_view=true"> Full Text</a>
 </p>
 <details>
