@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Carnival Cruise hit by data breach, warns of data misuse risk<a href="https://www.bleepingcomputer.com/news/security/carnival-cruise-hit-by-data-breach-warns-of-data-misuse-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival Corporation, the world's largest cruise ship operator, has disclosed a data breach after attackers breached some email accounts and accessed personal, financial, and health information belonging to customers, employees, and crew.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators draft bill that would require many entities to report cyber breaches within 24 hours<a href="https://edition.cnn.com/2021/06/16/politics/bill-report-cyber-breach-24-hours/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan draft by Senators Mark Warner, Marco Rubio, and Susan Collins, reflects a renewed effort by Congress to pass long-awaited federal rules surrounding cybersecurity breach notifications.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Vigilante malware blocks victims from downloading pirated software<a href="https://www.bleepingcomputer.com/news/security/vigilante-malware-blocks-victims-from-downloading-pirated-software/"> Full Text</a>
 </p>
 <details>

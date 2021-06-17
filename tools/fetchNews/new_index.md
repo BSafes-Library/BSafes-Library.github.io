@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Smoking Out a DARKSIDE Affiliate’s Supply Chain Software Compromise<a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant determined the installers were malicious in early June and notified the victim of a potential website compromise, which may have allowed UNC2465 to replace the legitimate downloads.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Spy on Peloton Workouts<a href="https://www.infosecurity-magazine.com:443/news/hackers-can-spy-on-peloton-workouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers find flaw enabling hackers to remotely access Peloton bike screens
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Carnival Cruise hit by data breach, warns of data misuse risk<a href="https://www.bleepingcomputer.com/news/security/carnival-cruise-hit-by-data-breach-warns-of-data-misuse-risk/"> Full Text</a>
 </p>
 <details>
