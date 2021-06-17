@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate unanimously confirms Chris Inglis as first White House cyber czar | Scrutiny mounts on Microsoft's surveillance technology | Senators unveil bill to crack down on cyber criminals<a href="https://thehill.com//policy/cybersecurity/overnights/559070-hillicon-valley-senate-unanimously-confirms-chris-inglis-as"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Thursday quietly approved the nomination of Chris Inglis as the nation’s first White House national cyber director, with the approval coming hot on the heels of months of escalating cyberattacks. One of the key champions of the cyber czar position, Rep. Jim LangevinJames (Jim) R. LangevinLawmakers urge Biden to be tough on cybersecurity during summit with Putin Colonial Pipeline may use recovered ransomware attack funds to boost cybersecurity New Russian hacks spark calls for tougher Biden actions MORE (D-R.I.), celebrated Inglis’s confirmation into a role that will see many roles and responsibilities placed on him.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Egg free Cake Box suffer data breach exposing credit card numbers<a href="https://www.bleepingcomputer.com/news/security/egg-free-cake-box-suffer-data-breach-exposing-credit-card-numbers/"> Full Text</a>
 </p>
 <details>
