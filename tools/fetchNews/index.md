@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google fixes seventh Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.114 for Windows, Mac, and Linux to fix four security vulnerabilities, with one of them a high severity zero-day vulnerability exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Smart Switches Riddled with Severe Security Holes<a href="https://threatpost.com/cisco-smart-switches-security-holes/167031/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intro-level networking gear for SMBs could allow remote attacks designed to steal information, drop malware and disrupt operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 HHS unveils patient matching standards, guidance to boost patient privacy<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/hhs-unveils-patient-matching-standards-guidance-to-boost-patient-privacy/"> Full Text</a>
 </p>
 <details>
