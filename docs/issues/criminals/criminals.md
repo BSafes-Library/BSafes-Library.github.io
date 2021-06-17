@@ -11,6 +11,109 @@ nav_order: 900031
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+An international joint operation resulted in the arrest of Clop ransomware members<a href="https://securityaffairs.co/wordpress/119036/cyber-crime/clop-ransomware-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine police arrested multiple individuals that are believed to be linked to the Clop ransomware gang as part of an international joint operation.
+
+
+
+Ukraine police arrested multiple individuals that are believed to be linked to the Clop ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware Gang Evaporates Amid Global Crackdowns &nbsp;<a href="https://threatpost.com/avaddon-ransomware-global-crackdowns/166968/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group releases decryptors for nearly 3,000 victims, forfeiting millions in payouts. &nbsp;&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gold Winter is the Group Behind Hades Ransomware<a href="https://cyware.com/news/gold-winter-is-the-group-behind-hades-ransomware-c48bf1d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers took the wraps off the operators of the Hades ransomware as they came across a new adversary group Gold Winter, whose behavior coincides with the former. The recent finding suggests that threat actors may be deliberately trying to find ways to look different or evolve their attack techn ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaddon Ransomware Calls it Quit, Distributes Keys for Free<a href="https://cyware.com/news/avaddon-ransomware-calls-it-quit-distributes-keys-for-free-4238d367"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avaddon ransomware gang has shared   2,934 decryption keys  , with Bleeping Computer, shrouded in an anonymous tip pretending to be from the FBI.  The team soon shared it with Emsisoft, who confirmed the legitimacy of the keys.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Members of Clop Ransomware Gang Arrested in Ukraine<a href="https://www.infosecurity-magazine.com:443/news/clop-ransomware-gang-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A police operation in Ukraine has led to the arrest of six people allegedly part of the notorious Clop ransomware group
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p affiliated hackers exposed in Ukraine<a href="https://cybernews.com/news/cl0p-affiliated-hackers-exposed-in-ukraine-500-million-in-damages-estimated/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police reported uncovering a group of hackers who used the Cl0p ransomware to extort money from foreign businesses, mainly in the United States and South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Police Arrest Cyber Criminals Behind Clop Ransomware Attacks<a href="https://thehackernews.com/2021/06/ukraine-police-arrest-cyber-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement officials on Wednesday announced the arrest of the&nbsp; Clop ransomware &nbsp;gang, adding it disrupted the infrastructure employed in attacks targeting victims worldwide since at least 2019.  As part of a joint operation between the National Police of Ukraine and authorities from the Republic of Korea and the U.S., six defendants have been accused of running a double extortion scheme wherein victims refusing to pay a ransom were threatened with the leak of sensitive financial, customer, or personal data stolen from them prior to encrypting the files.   The ransomware attacks amount to $500 million in monetary damages, the National Police&nbsp; said , noting that "law enforcement has managed to shut down the infrastructure from which the virus spreads and block channels for legalizing criminally acquired cryptocurrencies."  Law enforcement officers are said to have conducted 21 searches in the Ukrainian capital and Kyiv region, including the homes of the defendan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ukraine arrests Clop ransomware gang members, seizes servers<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-clop-ransomware-gang-members-seizes-servers/"> Full Text</a>
 </p>
 <details>

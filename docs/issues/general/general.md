@@ -11,6 +11,108 @@ nav_order: 900072
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How AI is Transforming Data Governance in today’s World<a href="https://securityaffairs.co/wordpress/119048/security/how-ai-transforming-data-governance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How AI is Transforming Data Governance? Consumers are becoming more aware of their rights, making data governance more relevant across organizations. 
+
+
+
+Data governance is a set of standards, metrics, and processes that allow organizations to responsibly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden, Putin agree to begin work on addressing cybersecurity concerns | Senate panel unanimously advances key Biden cyber nominees | Rick Scott threatens to delay national security nominees until Biden visits border<a href="https://thehill.com//policy/technology/overnights/558835-hillicon-valley-biden-putin-agree-to-begin-work-on-addressing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenMellman: Trump voters cling to 2020 tale FDA authorizes another batch of J&amp;J vaccine Cotton warns of China collecting athletes' DNA at 2022 Olympics MORE and Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley: Big Tech critic Lina Khan named chair of the FTC | Lawmakers urge Biden to be tough on cyber during summit with Putin | TSA working on additional security regulations following Colonial Pipeline hack Overnight Defense: Top admiral shoots back at criticism of 'woke' military | Military guns go missing | New White House strategy to battle domestic extremism Lawmakers urge Biden to be tough on cybersecurity during summit with Putin MORE met face-to-face in Geneva, the first in-person interaction between the leaders since Biden took office. Cybersecurity was at the top of the agenda after a bumpy few months of escalating Russian-linked attacks on the U.S. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why backups are not the panacea for recovery from a ransomware attack<a href="https://www.scmagazine.com/home/security-news/ransomware/why-backups-are-not-the-panacea-for-recovery-from-a-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most pervasive wisdom about preventing damage from ransomware is to backup systems. FujiFilm and Colonial Pipeline in fact, restored from back-ups. So in an era of increased concern about ransomware, is solving the ransomware scourge as simple as investing in some backups? “If it was that easy, it just wouldn’t be an issue,” said…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Poll: 80% of Victims Don’t Pay Up<a href="https://threatpost.com/ransomware-victims-dont-pay-up/166989/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meanwhile, in a separate survey, 80 percent of organizations that paid the ransom said were hit by a second attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers: Booming Cyber-Underground Market for Initial-Access Brokers<a href="https://threatpost.com/booming-cyber-underground-market-initial-access-brokers/166965/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are increasingly buying their way into corporate networks, purchasing access from ‘vendors’ that have previously installed backdoors on targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Euros-Driven Football Fever Nets Dumb Passwords<a href="https://threatpost.com/euros-football-fever-dumb-passwords/166974/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top easy-to-crack, football-inspired password in a database of 1 billion unique, clear-text, breached passwords? You probably guessed it: “Football.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corporate attack surfaces growing concurrently with a dispersed workforce<a href="https://www.helpnetsecurity.com/2021/06/16/corporate-attack-surfaces/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coupled with increased reliance on public cloud services and vulnerable enterprise VPNs, large organizations not using zero trust security became more vulnerable to network intrusion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 5 Tips to Prevent and Mitigate Ransomware Attacks<a href="https://threatpost.com/5-tips-to-prevent-and-mitigate-ransomware-attacks/166847/"> Full Text</a>
 </p>
 <details>

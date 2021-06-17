@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers mail fake Ledger devices to steal your cryptocurrency<a href="https://www.bleepingcomputer.com/news/cryptocurrency/scammers-mail-fake-ledger-devices-to-steal-your-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are sending fake replacement devices to Ledger customers exposed in a recent data breach that are used to steal cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

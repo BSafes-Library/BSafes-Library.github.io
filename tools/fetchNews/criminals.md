@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests Clop ransomware gang members, seizes servers<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-clop-ransomware-gang-members-seizes-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement arrested&nbsp;cybercriminals associated with the Clop ransomware gang and shut down infrastructure used in attacks targeting victims worldwide since at least 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Partnering With Cybercrime Groups to Hack High-Profile Targets<a href="https://thehackernews.com/2021/06/ransomware-attackers-partnering-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ransomware attacks against critical infrastructure skyrocket, new research shows that threat actors behind such disruptions are increasingly shifting from using email messages as an intrusion route to purchasing access from cybercriminal enterprises that have already infiltrated major targets.  "Ransomware operators often buy access from independent cybercriminal groups who infiltrate major targets and then sell access to the ransomware actors for a slice of the ill-gotten gains," researchers from Proofpoint said in a write-up  shared with The Hacker News.  "Cybercriminal threat groups already distributing banking malware or other trojans may also become part of a ransomware affiliate network."  Besides angling for a piece of the illegal profits, the email and cloud security firm said it is currently tracking at least 10 different threat actors who play the role of "initial access facilitators" to supply affiliates and other cybercrime groups with an e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Andariel Threat Group Evolves to Target South Korean Entities with Custom Ransomware<a href="https://securelist.com/andariel-evolves-to-target-south-korea-with-ransomware/102811/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor has been spreading the third stage payload from the middle of 2020 onwards and leveraged malicious Word documents and files mimicking PDF documents as infection vectors.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paradise Ransomware’s Source Code Now Available on a Hacker Forum<a href="https://cyware.com/news/paradise-ransomwares-source-code-now-available-on-a-hacker-forum-acb9a223"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts are concerned as the source code of the .NET version of Paradise ransomware was found to have been leaked on a hacker forum. Such leaks could prove to be devastating as any interested attacker can create their own ransomware version to target victims.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Threat Posed by Ransomware to Industrial Systems<a href="https://www.securityweek.com/cisa-warns-threat-posed-ransomware-industrial-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fact sheet released by CISA provides a summary of the steps organizations should take to improve their resilience against ransomware attacks and gives links to more detailed guidance.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

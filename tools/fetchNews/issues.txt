@@ -31,6 +31,7 @@
 
 Alerts:
 . https://www.zdnet.com/article/cisa-warns-manufacturers-of-throughtek-vulnerability/?&web_view=true
+. https://www.securityweek.com/cisa-warns-threat-posed-ransomware-industrial-systems?&web_view=true
 
 Law:
 

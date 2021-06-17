@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber concerns dominate Biden-Putin summit<a href="https://thehill.com//homenews/administration/558853-cyber-concerns-dominate-biden-putin-summit"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How AI is Transforming Data Governance in today’s World<a href="https://securityaffairs.co/wordpress/119048/security/how-ai-transforming-data-governance.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland institutions and individuals targeted by an unprecedented series of cyber attacks<a href="https://securityaffairs.co/wordpress/119043/hacking/poland-hit-cyber-attacks.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Biden, Putin agree to begin work on addressing cybersecurity concerns | Senate panel unanimously advances key Biden cyber nominees | Rick Scott threatens to delay national security nominees until Biden visits border<a href="https://thehill.com//policy/technology/overnights/558835-hillicon-valley-biden-putin-agree-to-begin-work-on-addressing"> Full Text</a>
@@ -106,7 +106,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in Peloton bikes one example of a more widespread security issue<a href="https://www.scmagazine.com/home/security-news/iot/vulnerability-in-peloton-bikes-one-example-of-a-more-widespread-security-issue/"> Full Text</a>
@@ -122,7 +122,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers mail fake Ledger devices to steal your cryptocurrency<a href="https://www.bleepingcomputer.com/news/cryptocurrency/scammers-mail-fake-ledger-devices-to-steal-your-cryptocurrency/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why backups are not the panacea for recovery from a ransomware attack<a href="https://www.scmagazine.com/home/security-news/ransomware/why-backups-are-not-the-panacea-for-recovery-from-a-ransomware-attack/"> Full Text</a>
@@ -154,7 +154,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An international joint operation resulted in the arrest of Clop ransomware members<a href="https://securityaffairs.co/wordpress/119036/cyber-crime/clop-ransomware-arrest.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New threat intel framework takes aim at bot-fueled business logic attacks<a href="https://www.scmagazine.com/home/security-news/new-threat-intel-framework-takes-aim-at-bot-fueled-business-logic-attacks/"> Full Text</a>
@@ -190,7 +190,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health care ransomware attacks: Oklahoma health system driven to EHR downtime<a href="https://www.scmagazine.com/home/health-care/health-care-ransomware-attacks-oklahoma-health-system-driven-to-ehr-downtime/"> Full Text</a>
@@ -206,7 +206,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden, Putin agree to begin work on addressing cybersecurity concerns<a href="https://thehill.com//policy/cybersecurity/558787-biden-putin-agree-to-begin-work-on-to-address-cybersecurity-concerns"> Full Text</a>
@@ -222,7 +222,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaddon Ransomware Gang Evaporates Amid Global Crackdowns  <a href="https://threatpost.com/avaddon-ransomware-global-crackdowns/166968/"> Full Text</a>
@@ -238,7 +238,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Convicts Russian Malware-masker<a href="https://www.infosecurity-magazine.com:443/news/us-convicts-russian-malwaremasker/"> Full Text</a>
@@ -254,7 +254,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IKEA Fined $1.2M for Elaborate ‘Spying System’<a href="https://threatpost.com/ikea-fined-spying-system/166991/"> Full Text</a>
@@ -270,7 +270,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gold Winter is the Group Behind Hades Ransomware<a href="https://cyware.com/news/gold-winter-is-the-group-behind-hades-ransomware-c48bf1d4"> Full Text</a>
@@ -287,7 +287,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Paradise Ransomware’s Source Code Now Available on a Hacker Forum<a href="https://cyware.com/news/paradise-ransomwares-source-code-now-available-on-a-hacker-forum-acb9a223"> Full Text</a>
@@ -303,7 +303,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deloitte Acquires Terbium Labs<a href="https://www.infosecurity-magazine.com:443/news/deloitte-acquires-terbium-labs/"> Full Text</a>
@@ -319,7 +319,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaddon Ransomware Calls it Quit, Distributes Keys for Free<a href="https://cyware.com/news/avaddon-ransomware-calls-it-quit-distributes-keys-for-free-4238d367"> Full Text</a>
@@ -335,7 +335,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IAB Tech Lab Accused of “World’s Largest Data Breach”<a href="https://www.infosecurity-magazine.com:443/news/iab-tech-lab-accused-of-worlds/"> Full Text</a>
@@ -351,7 +351,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Poll: 80% of Victims Don’t Pay Up<a href="https://threatpost.com/ransomware-victims-dont-pay-up/166989/"> Full Text</a>
@@ -367,7 +367,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over One Billion Records Belonging to CVS Health Exposed Online<a href="https://www.zdnet.com/article/billions-of-records-belonging-to-cvs-health-exposed-online/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -383,7 +383,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alibaba-owned Shopping Platform Falls Victim to Chinese Web Crawler in Large Data Leak<a href="https://www.wsj.com/articles/alibaba-falls-victim-to-chinese-web-crawler-in-large-data-leak-11623774850?&web_view=true"> Full Text</a>
@@ -399,7 +399,7 @@ The Wall Street Journal
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rick Scott threatens to delay national security nominees until Biden visits border<a href="https://thehill.com//policy/national-security/558744-rick-scott-threatens-to-delay-national-security-nominees-until-biden"> Full Text</a>
@@ -415,7 +415,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers: Booming Cyber-Underground Market for Initial-Access Brokers<a href="https://threatpost.com/booming-cyber-underground-market-initial-access-brokers/166965/"> Full Text</a>
@@ -431,7 +431,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency and Ransomware Attacks - What's the Connection?<a href="https://cyware.com/news/cryptocurrency-and-ransomware-attacks-whats-the-connection-573b9485"> Full Text</a>
@@ -447,7 +447,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Takeaways from the Colonial Pipeline Ransomware Attack<a href="https://threatpost.com/takeaways-colonial-pipeline-ransomware/166980/"> Full Text</a>
@@ -463,7 +463,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 We've found another reason not to use Microsoft's Paint 3D – researchers<a href="https://www.theregister.com/2021/06/16/3d_paint_vuln/?&web_view=true"> Full Text</a>
@@ -479,7 +479,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Members of Clop Ransomware Gang Arrested in Ukraine<a href="https://www.infosecurity-magazine.com:443/news/clop-ransomware-gang-arrested/"> Full Text</a>
@@ -495,7 +495,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US convicts Russian national behind Kelihos botnet crypting service<a href="https://www.bleepingcomputer.com/news/security/us-convicts-russian-national-behind-kelihos-botnet-crypting-service/"> Full Text</a>
@@ -511,7 +511,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Threat Posed by Ransomware to Industrial Systems<a href="https://www.securityweek.com/cisa-warns-threat-posed-ransomware-industrial-systems?&web_view=true"> Full Text</a>
@@ -527,7 +527,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Euros-Driven Football Fever Nets Dumb Passwords<a href="https://threatpost.com/euros-football-fever-dumb-passwords/166974/"> Full Text</a>
@@ -543,7 +543,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cl0p affiliated hackers exposed in Ukraine<a href="https://cybernews.com/news/cl0p-affiliated-hackers-exposed-in-ukraine-500-million-in-damages-estimated/?&web_view=true"> Full Text</a>
@@ -559,7 +559,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate panel unanimously advances key Biden cyber nominees<a href="https://thehill.com//policy/cybersecurity/558717-senate-panel-unanimously-advances-key-biden-cyber-nominees"> Full Text</a>
@@ -575,7 +575,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement raids ransomware group that counted US universities among its targets<a href="https://www.scmagazine.com/home/security-news/ransomware/law-enforcement-raids-ransomware-group-that-counted-us-universities-among-its-targets/"> Full Text</a>
@@ -591,7 +591,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ferocious Kitten: 6 years of covert surveillance in Iran<a href="https://securelist.com/ferocious-kitten-6-years-of-covert-surveillance-in-iran/102806/?&web_view=true"> Full Text</a>
@@ -607,7 +607,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity vulnerability discovered in Peloton products<a href="https://thehill.com//policy/cybersecurity/558706-cybersecurity-vulnerability-discovered-in-peloton-products"> Full Text</a>
@@ -623,7 +623,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Corporate attack surfaces growing concurrently with a dispersed workforce<a href="https://www.helpnetsecurity.com/2021/06/16/corporate-attack-surfaces/?&web_view=true"> Full Text</a>
@@ -639,7 +639,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe: Introduction and General Overview of Modularized Malware<a href="https://decoded.avast.io/martinchlumecky/dirtymoe-1/?&web_view=true"> Full Text</a>
@@ -655,7 +655,7 @@ Avast
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2021
+June 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Police Arrest Cyber Criminals Behind Clop Ransomware Attacks<a href="https://thehackernews.com/2021/06/ukraine-police-arrest-cyber-criminals.html"> Full Text</a>

@@ -11,6 +11,48 @@ nav_order: 900220
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Peloton bikes one example of a more widespread security issue<a href="https://www.scmagazine.com/home/security-news/iot/vulnerability-in-peloton-bikes-one-example-of-a-more-widespread-security-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many Android device OEMs may have offerings with similar flaws, any of which could provide an avenue in to home networks and even enterprise resources.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We've found another reason not to use Microsoft's Paint 3D – researchers<a href="https://www.theregister.com/2021/06/16/3d_paint_vuln/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, designated CVE-2021-31946, could let miscreants execute arbitrary code on affected versions of Paint 3D when visiting a malicious page or opening a malicious file.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity vulnerability discovered in Peloton products<a href="https://thehill.com//policy/cybersecurity/558706-cybersecurity-vulnerability-discovered-in-peloton-products"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity vulnerability in some Peloton bike products may have enabled hackers to install malware and potentially spy on riders, according to software security company McAfee.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Peloton Bike+ could allow hackers to control it<a href="https://securityaffairs.co/wordpress/119025/breaking-news/peloton-bike-flaw.html"> Full Text</a>
 </p>
 <details>

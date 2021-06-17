@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US convicts Russian national behind Kelihos botnet crypting service<a href="https://www.bleepingcomputer.com/news/security/us-convicts-russian-national-behind-kelihos-botnet-crypting-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian national&nbsp;Oleg Koshkin&nbsp;was convicted for charges related to the operation of a malware crypter service used by the Kelihos botnet to obfuscate malware payloads and evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

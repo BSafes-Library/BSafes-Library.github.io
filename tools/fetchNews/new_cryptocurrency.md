@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency and Ransomware Attacks - What's the Connection?<a href="https://cyware.com/news/cryptocurrency-and-ransomware-attacks-whats-the-connection-573b9485"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrencies are an extortionist’s dream come true. It is very difficult to trace adversaries based on bitcoin addresses. Moreover, bitcoin has become essential on the dark web as it is easy to acquire and use.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Takeaways from the Colonial Pipeline Ransomware Attack<a href="https://threatpost.com/takeaways-colonial-pipeline-ransomware/166980/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident showcases basic steps that organizations can take to protect themselves as ransomware gangs get smarter.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

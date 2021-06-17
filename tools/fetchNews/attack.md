@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Attack on South Korean Entities Was Work of Andariel Group<a href="https://thehackernews.com/2021/06/malware-attack-on-south-korean-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign targeting South Korean entities that came to light earlier this year has been attributed to a North Korean nation-state hacking group called Andariel, once again indicating that&nbsp; Lazarus &nbsp;attackers are following the trends and their&nbsp; arsenal &nbsp;is in&nbsp; constant development .  "The way Windows commands and their options were used in this campaign is almost identical to previous Andariel activity," Russian cybersecurity firm Kaspersky&nbsp; said &nbsp;in a deep-dive published Tuesday. Victims of the attack are in the manufacturing, home network service, media, and construction sectors.   Designated as part of the Lazarus constellation, Andariel is known for unleashing attacks on South Korean organizations and businesses using specifically tailored methods created for maximum effectivity. In September 2019, the sub-group, along with Lazarus and Bluenoroff, was&nbsp; sanctioned by the U.S. Treasury Department &nbsp;for their malicious cyber activity on critical infrastructure.  Anda
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA Fined $1.2M for Elaborate ‘Spying System’<a href="https://threatpost.com/ikea-fined-spying-system/166991/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French court fined the furniture giant for illegal surveillance on 400 customers and staff.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

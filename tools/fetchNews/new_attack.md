@@ -11,6 +11,52 @@ nav_order: 900015
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Poland institutions and individuals targeted by an unprecedented series of cyber attacks<a href="https://securityaffairs.co/wordpress/119043/hacking/poland-hit-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland 's government announced that it was targeted by an 'Unprecedented' series of cyber attacks, hackers hit against institutions and individuals.
+
+
+
+Poland's parliament had a closed-door session to discuss an unprecedented wave of cyber attacks that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New threat intel framework takes aim at bot-fueled business logic attacks<a href="https://www.scmagazine.com/home/security-news/new-threat-intel-framework-takes-aim-at-bot-fueled-business-logic-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BLADE addresses scenarios in which bots exploit apps and websites – using them as they were intended, but for malicious purposes like credential stuffing and account takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health care ransomware attacks: Oklahoma health system driven to EHR downtime<a href="https://www.scmagazine.com/home/health-care/health-care-ransomware-attacks-oklahoma-health-system-driven-to-ehr-downtime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident is the latest in what appears to be another ransomware wave, after a previous onslaught of attacks and EHR outages in the fall of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Malware Attack on South Korean Entities Was Work of Andariel Group<a href="https://thehackernews.com/2021/06/malware-attack-on-south-korean-entities.html"> Full Text</a>
 </p>
 <details>
