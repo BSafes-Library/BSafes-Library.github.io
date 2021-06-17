@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Billion CVS Records Exposed<a href="https://www.infosecurity-magazine.com:443/news/a-billion-cvs-records-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfiguration error leaves CVS database without password protection
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ferocious Kitten APT targets Telegram and Psiphon VPN users in Iran<a href="https://securityaffairs.co/wordpress/119073/apt/ferocious-kitten-apt-campaign.html"> Full Text</a>
 </p>
 <details>
