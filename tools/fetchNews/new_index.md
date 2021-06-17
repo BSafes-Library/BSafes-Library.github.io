@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A look at Google’s new project to boost security for open source (and other) software code<a href="https://www.scmagazine.com/featured/a-look-at-googles-new-project-to-boost-security-for-open-source-and-other-software-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech giant’s new software security framework is a roadmap to help developers defend against common attacks at every link in the development and production chain.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers create phishing lures with standard tools in Google Docs to steal credentials<a href="https://www.scmagazine.com/home/security-news/phishing/attackers-create-phishing-lures-with-standard-tools-in-google-docs-to-steal-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers on Thursday reported that hackers are using standard tools within Google Docs/Drive to lead unsuspecting victims to fraudulent websites, stealing credentials in the process. In a blog post, Avanan said hackers are bypassing static link scanners by hosting their attacks on publicly-known services. Gil Friedrich, co-founder and CEO of Avanan, said his team has…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Senate unanimously confirms Chris Inglis as first White House cyber czar | Scrutiny mounts on Microsoft's surveillance technology | Senators unveil bill to crack down on cyber criminals<a href="https://thehill.com//policy/cybersecurity/overnights/559070-hillicon-valley-senate-unanimously-confirms-chris-inglis-as"> Full Text</a>
 </p>
 <details>
