@@ -11,6 +11,20 @@ nav_order: 900027
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Deloitte Acquires Terbium Labs<a href="https://www.infosecurity-magazine.com:443/news/deloitte-acquires-terbium-labs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baltimore-based digital risk protection company Terbium Labs is acquired by Deloitte
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NHS Test and Trace Bolsters its Cybersecurity<a href="https://www.infosecurity-magazine.com:443/news/nhs-test-trace-cybersecurity-risk/"> Full Text</a>
 </p>
 <details>

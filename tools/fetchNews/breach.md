@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IAB Tech Lab Accused of “World’s Largest Data Breach”<a href="https://www.infosecurity-magazine.com:443/news/iab-tech-lab-accused-of-worlds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Irish civil liberties group sues non-profit digital media consortium over real-time bidding
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over One Billion Records Belonging to CVS Health Exposed Online<a href="https://www.zdnet.com/article/billions-of-records-belonging-to-cvs-health-exposed-online/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, WebsitePlanet, together with researcher Jeremiah Fowler, revealed the discovery of an online database belonging to CVS Health that was not password-protected.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alibaba-owned Shopping Platform Falls Victim to Chinese Web Crawler in Large Data Leak<a href="https://www.wsj.com/articles/alibaba-falls-victim-to-chinese-web-crawler-in-large-data-leak-11623774850?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese software developer trawled Alibaba’s popular Taobao shopping website for eight months, clandestinely collecting more than 1.1 billion pieces of user information.
+</details>
+<div style="text-align: right" markdown="1">
+The Wall Street Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

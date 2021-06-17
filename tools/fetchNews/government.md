@@ -11,6 +11,62 @@ nav_order: 900075
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber concerns dominate Biden-Putin summit<a href="https://thehill.com//homenews/administration/558853-cyber-concerns-dominate-biden-putin-summit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden used a summit with Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley: Big Tech critic Lina Khan named chair of the FTC | Lawmakers urge Biden to be tough on cyber during summit with Putin | TSA working on additional security regulations following Colonial Pipeline hack Overnight Defense: Top admiral shoots back at criticism of 'woke' military | Military guns go missing | New White House strategy to battle domestic extremism Lawmakers urge Biden to be tough on cybersecurity during summit with Putin MORE to confront Moscow over its aggressive behavior in cyberspace and communicate that there would be future consequences if Russian state-backed cyberattacks continue.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden, Putin agree to begin work on addressing cybersecurity concerns<a href="https://thehill.com//policy/cybersecurity/558787-biden-putin-agree-to-begin-work-on-to-address-cybersecurity-concerns"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden and Russian President Vladimir Putin on Wednesday said they agreed to work together to outline what cybersecurity concerns, such as ransomware attacks on critical infrastructure,&nbsp;would be considered red lines for the two countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rick Scott threatens to delay national security nominees until Biden visits border<a href="https://thehill.com//policy/national-security/558744-rick-scott-threatens-to-delay-national-security-nominees-until-biden"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Rick Scott (R-Fla.)&nbsp;threatened Wednesday to delay President Biden’s national security nominees, saying he would place a hold on Department of Homeland Security (DHS) positions until the president visits the southern border.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate panel unanimously advances key Biden cyber nominees<a href="https://thehill.com//policy/cybersecurity/558717-senate-panel-unanimously-advances-key-biden-cyber-nominees"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Homeland Security and Governmental Affairs Committee on Wednesday unanimously approved two of President Biden's nominees to serve in the nation's top cybersecurity positions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Texas Joins Other States with New Texas Data Breach Notification Requirement: Is This a New Trend?<a href="https://www.natlawreview.com/article/texas-joins-other-states-new-texas-data-breach-notification-requirement-new-trend?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

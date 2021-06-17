@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+60% of Businesses Would Consider Paying a Ransomware Demand<a href="https://www.infosecurity-magazine.com:443/news/businesses-consider-paying-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five businesses are also prepared to spend 20% or more of their annual revenue
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strengthen Your Password Policy With GDPR Compliance<a href="https://thehackernews.com/2021/06/strengthen-your-password-policy-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A solid password policy is the first line of defense for your corporate network. Protecting your systems from unauthorized users may sound easy on the surface, but it can actually be quite complicated. You have to balance password security with usability, while also following various regulatory requirements.  Companies in the EU must have password policies that are compliant with the General Data Protection Regulation (GDPR). Even if your company isn't based in the EU, these requirements apply if you have employees or customers residing in the EU or customers purchasing there.  In this post, we will look at GDPR requirements for passwords and provide practical tips on how to design your password policy. Remember, even if GDPR isn't required for you now, the fundamentals of a data protection regulation plan can help strengthen your organization's security.&nbsp;  Password requirements for GDPR compliance  You may be surprised to discover that the GDPR laws do not actually mentio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is an Attacker Living Off Your Land?<a href="https://www.darkreading.com/edge/theedge/is-an-attacker-living-off-your-land/b/d-id/1341303?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware and all of its various forms has grown increasingly stealthy and sophisticated in recent years. Also on the rise: Its ability to fly under cybersecurity software's radar.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

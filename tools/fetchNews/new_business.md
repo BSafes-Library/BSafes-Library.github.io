@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Cybersecurity Firm Claroty Raises $140 Million in Series D Funding<a href="https://www.securityweek.com/industrial-cybersecurity-firm-claroty-raises-140-million-series-d-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round was co-led by Bessemer Venture Partners’ Century II fund and 40 North Ventures, with participation from I Squared Capital’s ISQ Global InfraTech Fund and previous investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oleg Koshkin was convicted for operating a crypting service also used by Kelihos botnet<a href="https://securityaffairs.co/wordpress/119061/cyber-crime/oleg-koshkin-convicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian national&nbsp;Oleg Koshkin&nbsp;was convicted for operating a “crypting” service used to obfuscate the Kelihos bot from antivirus software.
+
+
+
+Russian national&nbsp;Oleg Koshkin&nbsp;was convicted for charges related to the operation of a malware crypting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

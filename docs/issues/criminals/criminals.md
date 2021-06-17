@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats Hackers Return With New Attacks Targeting Middle Eastern Governments<a href="https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Middle Eastern advanced persistent threat (APT) group has resurfaced after a two-month hiatus to target government institutions in the Middle East and global government entities associated with geopolitics in the region in a rash of new campaigns observed earlier this month.  Sunnyvale-based enterprise security firm Proofpoint attributed the activity to a politically motivated threat actor it tracks as TA402 , and known by other monikers such as&nbsp; Molerats &nbsp;and GazaHackerTeam.  The threat actor is believed to be active for a decade, with a history of striking organizations primarily located in Israel and Palestine, and spanning multiple verticals such as technology, telecommunications, finance, academia, military, media, and governments.   The latest wave of attacks commenced with spear-phishing emails written in Arabic and containing PDF attachments that come embedded with a malicious geofenced URL to selectively direct victims to a password-protected archive only if the source IP a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2465 cybercrime group launched a supply chain attack on CCTV vendor<a href="https://securityaffairs.co/wordpress/119051/cyber-crime/unc2465-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC2465 cybercrime group that is affiliated with the Darkside ransomware gang has infected with malware the website of a CCTV camera vendor.
+
+
+
+An affiliate of the Darkside ransomware gang, tracked as UNC2465, has conducted a supply chain attack against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Go After Amazon Prime Day Shoppers with Spoofed Domains<a href="https://blog.checkpoint.com/2021/06/16/cybercriminals-go-after-amazon-prime-day-shoppers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the last 30 days, over 2300 new domains were registered about Amazon, a 10% increase from the previous Amazon Prime Day, where the majority now are either malicious or suspicious.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

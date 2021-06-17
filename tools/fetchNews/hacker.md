@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferocious Kitten: 6 years of covert surveillance in Iran<a href="https://securelist.com/ferocious-kitten-6-years-of-covert-surveillance-in-iran/102806/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interestingly, some of the TTPs used by this threat actor are reminiscent of other groups that are active against a similar set of targets, such as Domestic Kitten and Rampant Kitten.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

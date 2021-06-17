@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Iranian Hackers Exploit Chrome, Telegram, VPN Apps to Spy Over Dissidents<a href="https://www.cyberscoop.com/iran-hackers-protests-kaspersky/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the last six years, hackers have stalked Iranian dissidents with spying tools that mimic the software those dissidents use to protect their communications, security firm Kaspersky said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

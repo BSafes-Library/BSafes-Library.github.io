@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet outages hit airlines, financial institutions<a href="https://thehill.com//policy/cybersecurity/558903-internet-outages-hit-airlines-financial-institutions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Airlines, financial institutions and other companies around the world on Thursday reported that they were experiencing technical difficulties due to a brief series of internet outages.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

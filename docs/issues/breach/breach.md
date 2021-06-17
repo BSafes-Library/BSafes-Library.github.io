@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cosmolog Kozmetik Data Breach: Hundreds of Thousands of Customers impacted<a href="https://securityaffairs.co/wordpress/119067/data-breach/cosmolog-kozmetik-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The securWizCase experts found a major breach that affected the popular online retailer Cosmolog Kozmetik. &nbsp;
+
+
+
+WizCase’s&nbsp;security team, led by Ata Hakçıl, has found a major breach in popular online retailer Cosmolog Kozmetik’s database....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Web Services Misconfiguration Exposes Half a Million Cosmetics Customers<a href="https://www.infosecurity-magazine.com:443/news/aws-misconfiguration-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Turkish firm Cosmolog Kozmetik's error leaks personal information en masse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Spyware is Targeting Telegram and Psiphon VPN Users in Iran<a href="https://thehackernews.com/2021/06/a-new-spyware-is-targeting-telegram-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors with suspected ties to Iran have been found to leverage instant messaging and VPN apps like Telegram and Psiphon to install a Windows remote access trojan (RAT) capable of stealing sensitive information from targets' devices since at least 2015.  Russian cybersecurity firm Kaspersky, which pieced together the activity, attributed the campaign to an advanced persistent threat (APT) group it tracks as Ferocious Kitten, a group that has singled out Persian-speaking individuals allegedly based in the country while successfully operating under the radar.  "The targeting of Psiphon and Telegram, both of which are quite popular services in Iran, underlines the fact that the payloads were developed with the purpose of targeting Iranian users in mind," Kaspersky's Global Research and Analysis Team (GReAT)&nbsp; said .   "Moreover, the decoy content displayed by the malicious files often made use of political themes and involved images or videos of resistance bas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
