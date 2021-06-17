@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ferocious Kitten APT targets Telegram and Psiphon VPN users in Iran<a href="https://securityaffairs.co/wordpress/119073/apt/ferocious-kitten-apt-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked Ferocious Kitten APT group used instant messaging apps and VPN software like Telegram and Psiphon to deliver Windows RAT and spy on targets' devices.
+
+
+
+Researchers from Kaspersky reported that Iran-linked threat actors, tracked as Ferocious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
  NSA shares guidance on securing voice, video communications<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-securing-voice-video-communications/"> Full Text</a>
 </p>
 <details>
