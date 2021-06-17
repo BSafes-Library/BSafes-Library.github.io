@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Vigilante malware blocks victims from downloading pirated software<a href="https://www.bleepingcomputer.com/news/security/vigilante-malware-blocks-victims-from-downloading-pirated-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vigilante developer turns the tables on software pirates by distributing malware that prevents them from accessing pirated software sites in the future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LORCA Announces New Intensive Program for Most Promising Cyber Startups<a href="https://www.infosecurity-magazine.com:443/news/lorca-program-promising-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LORCA Ignite is a new intensive program that will help six of the most promising cyber startups in the UK achieve rapid growth
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws in defibrillator management tool pose account takeover, credential risk for hospitals<a href="https://www.scmagazine.com/home/health-care/critical-flaws-in-defibrillator-management-tool-pose-account-takeover-credential-risk-for-hospitals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The half-dozen flaws are found in all versions of the ZOLL Defibrillator Dashboard prior to 2.2. It would take a low-skill level to exploit and could enable an attacker to gain access to credentials or impact the confidentiality, integrity, and availability of the application.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 House lawmakers roll out legislation to protect schools against hackers<a href="https://thehill.com//policy/cybersecurity/558920-house-lawmakers-roll-out-legislation-to-protect-schools-against-hackers"> Full Text</a>
 </p>
 <details>
