@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Clop Raid: A Big Win in the War on Ransomware?<a href="https://threatpost.com/clop-raid-big-win-war-ransomware/167036/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cops arrest six, seize cars and cash in splashy raid, and experts are applauding.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FCC votes to advance proposed ban on Chinese telecom equipment<a href="https://thehill.com//policy/technology/559052-fcc-votes-to-advance-proposed-ban-on-chinese-telecom-equipment"> Full Text</a>
 </p>
 <details>
