@@ -34,6 +34,354 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Iranian Hackers Exploit Chrome, Telegram, VPN Apps to Spy Over Dissidents<a href="https://www.cyberscoop.com/iran-hackers-protests-kaspersky/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the last six years, hackers have stalked Iranian dissidents with spying tools that mimic the software those dissidents use to protect their communications, security firm Kaspersky said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet outages hit airlines, financial institutions<a href="https://thehill.com//policy/cybersecurity/558903-internet-outages-hit-airlines-financial-institutions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Airlines, financial institutions and other companies around the world on Thursday reported that they were experiencing technical difficulties due to a brief series of internet outages. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats Hackers Return With New Attacks Targeting Middle Eastern Governments<a href="https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Middle Eastern advanced persistent threat (APT) group has resurfaced after a two-month hiatus to target government institutions in the Middle East and global government entities associated with geopolitics in the region in a rash of new campaigns observed earlier this month.  Sunnyvale-based enterprise security firm Proofpoint attributed the activity to a politically motivated threat actor it tracks as TA402 , and known by other monikers such as  Molerats  and GazaHackerTeam.  The threat actor is believed to be active for a decade, with a history of striking organizations primarily located in Israel and Palestine, and spanning multiple verticals such as technology, telecommunications, finance, academia, military, media, and governments.   The latest wave of attacks commenced with spear-phishing emails written in Arabic and containing PDF attachments that come embedded with a malicious geofenced URL to selectively direct victims to a password-protected archive only if the source IP a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Puzzling New Malware Blocks Access to Piracy Sites<a href="https://www.infosecurity-magazine.com:443/news/puzzling-new-malware-blocks-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered threat could be the work of an anti-piracy vigilante
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cosmolog Kozmetik Data Breach: Hundreds of Thousands of Customers impacted<a href="https://securityaffairs.co/wordpress/119067/data-breach/cosmolog-kozmetik-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The securWizCase experts found a major breach that affected the popular online retailer Cosmolog Kozmetik.  
+
+
+
+WizCase’s security team, led by Ata Hakçıl, has found a major breach in popular online retailer Cosmolog Kozmetik’s database....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Without specifics, Putin says U.S.-Russia reached an agreement to consult on cybersecurity<a href="https://www.politico.com/news/2021/06/16/putin-biden-cybersecurity-494875?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian President Vladimir Putin on Wednesday said his country and the United States had agreed to enter into "consultations" on cybersecurity following his summit with President Joe Biden.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Spyware is Targeting Telegram and Psiphon VPN Users in Iran<a href="https://thehackernews.com/2021/06/a-new-spyware-is-targeting-telegram-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors with suspected ties to Iran have been found to leverage instant messaging and VPN apps like Telegram and Psiphon to install a Windows remote access trojan (RAT) capable of stealing sensitive information from targets' devices since at least 2015.  Russian cybersecurity firm Kaspersky, which pieced together the activity, attributed the campaign to an advanced persistent threat (APT) group it tracks as Ferocious Kitten, a group that has singled out Persian-speaking individuals allegedly based in the country while successfully operating under the radar.  "The targeting of Psiphon and Telegram, both of which are quite popular services in Iran, underlines the fact that the payloads were developed with the purpose of targeting Iranian users in mind," Kaspersky's Global Research and Analysis Team (GReAT)  said .   "Moreover, the decoy content displayed by the malicious files often made use of political themes and involved images or videos of resistance bas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+60% of Businesses Would Consider Paying a Ransomware Demand<a href="https://www.infosecurity-magazine.com:443/news/businesses-consider-paying-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five businesses are also prepared to spend 20% or more of their annual revenue
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oleg Koshkin was convicted for operating a crypting service also used by Kelihos botnet<a href="https://securityaffairs.co/wordpress/119061/cyber-crime/oleg-koshkin-convicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian national Oleg Koshkin was convicted for operating a “crypting” service used to obfuscate the Kelihos bot from antivirus software.
+
+
+
+Russian national Oleg Koshkin was convicted for charges related to the operation of a malware crypting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Cybersecurity Firm Claroty Raises $140 Million in Series D Funding<a href="https://www.securityweek.com/industrial-cybersecurity-firm-claroty-raises-140-million-series-d-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round was co-led by Bessemer Venture Partners’ Century II fund and 40 North Ventures, with participation from I Squared Capital’s ISQ Global InfraTech Fund and previous investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strengthen Your Password Policy With GDPR Compliance<a href="https://thehackernews.com/2021/06/strengthen-your-password-policy-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A solid password policy is the first line of defense for your corporate network. Protecting your systems from unauthorized users may sound easy on the surface, but it can actually be quite complicated. You have to balance password security with usability, while also following various regulatory requirements.  Companies in the EU must have password policies that are compliant with the General Data Protection Regulation (GDPR). Even if your company isn't based in the EU, these requirements apply if you have employees or customers residing in the EU or customers purchasing there.  In this post, we will look at GDPR requirements for passwords and provide practical tips on how to design your password policy. Remember, even if GDPR isn't required for you now, the fundamentals of a data protection regulation plan can help strengthen your organization's security.   Password requirements for GDPR compliance  You may be surprised to discover that the GDPR laws do not actually mentio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Web Services Misconfiguration Exposes Half a Million Cosmetics Customers<a href="https://www.infosecurity-magazine.com:443/news/aws-misconfiguration-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Turkish firm Cosmolog Kozmetik's error leaks personal information en masse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2465 cybercrime group launched a supply chain attack on CCTV vendor<a href="https://securityaffairs.co/wordpress/119051/cyber-crime/unc2465-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC2465 cybercrime group that is affiliated with the Darkside ransomware gang has infected with malware the website of a CCTV camera vendor.
+
+
+
+An affiliate of the Darkside ransomware gang, tracked as UNC2465, has conducted a supply chain attack against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk ransomware recovery cost us $8.1m and counting, says Baltimore school authority<a href="https://www.theregister.com/2021/06/16/baltimore_ryuk_ransomware_dollars_8_1m_recovery_cost/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An organisation whose network was infected by Ryuk ransomware has spent $8.1m over seven months recovering from it – and that’s still not the end of it, according to US news reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover 'Process Ghosting' — A New Malware Evasion Technique<a href="https://thehackernews.com/2021/06/researchers-uncover-process-ghosting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new executable image tampering attack dubbed "Process Ghosting" that could be potentially abused by an attacker to circumvent protections and stealthily run malicious code on a Windows system.  "With this technique, an attacker can write a piece of malware to disk in such a way that it's difficult to scan or delete it — and where it then executes the deleted malware as though it were a regular file on disk," Elastic Security researcher Gabriel Landau  said . "This technique does not involve code injection, Process Hollowing, or Transactional NTFS (TxF)."   Process Ghosting expands on previously documented  endpoint bypass  methods such as  Process Doppelgänging  and  Process Herpaderping , thereby enabling the veiled execution of malicious code that may evade anti-malware defenses and detection.  Process Doppelgänging, analogous to  Process Hollowing , involves injecting arbitrary code in the address space of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Warns Russia of Cyber-Attack No-Go List<a href="https://www.infosecurity-magazine.com:443/news/us-warns-russia-of-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Presidents Biden and Putin will now work on a deeper cybersecurity arrangement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's Gateley Says Cyberattack Affects Small Portion of Its Data<a href="https://www.usnews.com/news/technology/articles/2021-06-16/uks-gateley-says-cyberattack-affects-small-portion-of-its-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The commercial legal services firm said it had informed relevant regulators and law enforcement agencies along with the country's Information Commissioner's office about the breach.
+</details>
+<div style="text-align: right" markdown="1">
+US News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is an Attacker Living Off Your Land?<a href="https://www.darkreading.com/edge/theedge/is-an-attacker-living-off-your-land/b/d-id/1341303?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware and all of its various forms has grown increasingly stealthy and sophisticated in recent years. Also on the rise: Its ability to fly under cybersecurity software's radar.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Institutions and Individuals Targeted by an Unprecedented Series of Cyberattacks<a href="https://securityaffairs.co/wordpress/119043/hacking/poland-hit-cyber-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, hackers breached the private email account of Michal Dworczyk, the head of the Polish Prime Minister’s office and member of the ruling Law and Justice party (PiS).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Go After Amazon Prime Day Shoppers with Spoofed Domains<a href="https://blog.checkpoint.com/2021/06/16/cybercriminals-go-after-amazon-prime-day-shoppers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the last 30 days, over 2300 new domains were registered about Amazon, a 10% increase from the previous Amazon Prime Day, where the majority now are either malicious or suspicious.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals are mailing altered Ledger devices to steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/cryptocurrency/criminals-are-mailing-altered-ledger-devices-to-steal-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are sending fake replacement devices to Ledger customers exposed in a recent data breach that are used to steal cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
