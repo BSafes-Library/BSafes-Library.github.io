@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ NSA shares guidance on securing voice, video communications<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-securing-voice-video-communications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) has shared mitigations and best practices that systems administrators should follow when securing Unified Communications (UC) and Voice and Video over IP (VVoIP) call-processing systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Market for Cookies That Lets Hackers Pretend to Be You<a href="https://www.vice.com/en/article/n7b3jm/genesis-market-buy-cookies-slack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genesis Market is an invite-only underground marketplace where cybercriminals can source cookies that have been lifted from hacked computers for a cornucopia of services.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 VPN Attacks: A Rising Threat for Remote Work in the COVID-19 Era<a href="https://cyware.com/news/vpn-attacks-a-rising-threat-for-remote-work-in-the-covid-19-era-f1734c06"> Full Text</a>
 </p>
 <details>

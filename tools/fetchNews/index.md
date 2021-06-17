@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VPN Attacks: A Rising Threat for Remote Work in the COVID-19 Era<a href="https://cyware.com/news/vpn-attacks-a-rising-threat-for-remote-work-in-the-covid-19-era-f1734c06"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent report, Nuspire revealed that attacks against Fortinet’s SSL-VPN had jumped to 1,916% in the first quarter of 2021. It was also identified that there was a 1,527% spike in attacks against Pulse Secure VPN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Suffers Widespread Internet Outage<a href="https://www.infosecurity-magazine.com:443/news/australia-suffers-widespread/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai issue causes Aussie mail service, airlines, banks, and other businesses to lost internet
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State and local officials push for cyber grants to protect critical services<a href="https://www.scmagazine.com/home/security-news/government-and-defense/state-and-local-officials-push-for-cyber-grants-to-protect-critical-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One issue states have traditionally faced with grant funding is that one time payments cannot fund projects requiring long term employement, training and equipment upgrades.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Senators unveil legislation to crack down on cyber criminals<a href="https://thehill.com//policy/cybersecurity/558982-senators-unveil-legislation-to-crack-down-on-cyber-criminals"> Full Text</a>
 </p>
 <details>
