@@ -6,6 +6,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Advisory (ICSA-21-166-01) ThroughTek P2P SDK  <a href="https://us-cert.cisa.gov/ics/advisories/icsa-21-166-01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThroughTek supplies multiple original equipment manufacturers of IP cameras with P2P connections as part of its cloud platform. Successful exploitation of this vulnerability could permit unauthorized access to sensitive information, such as camera audio/video feeds.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Fact Sheet: Rising Ransomware Threat to OT Assets <a href="https://publications.bsafes.com/docs/cisa/rising-ransomware-threat-to-operational-technology-assets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent months, ransomware attacks targeting critical infrastructure have demonstrated the rising threat of ransomware to operational technology (OT) assets and control systems.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 27, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
