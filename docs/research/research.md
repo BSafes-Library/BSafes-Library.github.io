@@ -81,6 +81,18 @@ For much of the 21st century, the United States and China have been competing to
 May, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• The European Union: Data Protection for Economic Competition and Regional Security [HTML](https://papers.bsafes.com/docs/data-protection/the-european-union-data-protection-for-economic-competition-and-regional-security/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The collection and use of personal data is being increasingly scrutinized by governments and the European Union (EU) has been attempting to handle the development of data protection based progressive protections to protect its citizens data and right to privacy.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • When Does a Cyber Crime Become an Act of Cyber Warfare [HTML](https://papers.bsafes.com/docs/cybercrime/when-does-a-cyber-crime-become-an-act-of-cyber-warfare/)
 </p>
 <details>
