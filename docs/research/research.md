@@ -21,6 +21,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 May 14, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Information Age Imperialism: China, ‘Race,’ and Neo-Colonialism in Africa and Latin America [HTML](https://papers.bsafes.com/docs/politics/information-age-imperialism-china-race-and-neo-colonialism-in-africa-and-latin-america/)
+</p>
+<details>
+  <summary>Abstract</summary>
+There is little to no historical antipathy between China and Africa or China and Latin America. The issue is not merely whether China is a neo-colonial power (it is) but rather how colonial and post-colonial legacies facilitated China’s rise and continued welcomed presence in specific regions.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Social Media Awareness: The Impact of Social Media on Mental Health [HTML](https://papers.bsafes.com/docs/social-media/social-media-awareness-the-impact-of-social-media-on-mental-health/)
 </p>
 <details>
