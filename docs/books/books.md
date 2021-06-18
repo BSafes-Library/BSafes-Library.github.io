@@ -23,6 +23,7 @@ nav_order: 400
 * [Handle with Care: Domestic Violence Safety Planning in the Age of Data Privacy Laws, by Jenny Wu](https://papers.bsafes.com/docs/law/handle-with-care-domestic-violence-safety-planning-in-the-age-of-data-privacy-law/)
 * [Jack Voltaic 3.0 Cyber Research Report, by United States Military Academy](https://papers.bsafes.com/docs/internet/jack-voltaic-3-0-cyber-research-report/)
 * [Impact of Information Breaches on Health Care Records](https://papers.bsafes.com/docs/breaches/impact-of-information-breaches-on-health-care-records/)
+* [Information Age Imperialism: China, ‘Race,’ and Neo-Colonialism in Africa and Latin America, by James Dever & Jack Dever ](https://papers.bsafes.com/docs/politics/information-age-imperialism-china-race-and-neo-colonialism-in-africa-and-latin-america/)
 * [NESCOR Guide to Penetration Testing for Electric Utilities, by National Electric Sector Cybersecurity Organization Resource (NESCOR)](https://papers.bsafes.com/docs/infrastructure/nescor-guide-to-penetration-testing-for-electric-utilities/#abstract)
 * [PREVALENCE OF CYBERBULLYING AMONG TRADITIONAL UNDERGRADUATE STUDENTS ATTENDING FAITH-BASED UNIVERSITIES: A CAUSAL-COMPARATIVE STUDY, by Susan A. Hayes-McElroy](https://papers.bsafes.com/docs/internet/prevalence-of-cyberbullying-among-traditional-undergraduate-students-attending-faith-based-universities-a-causal-comparative-study/)
 * [RIGHTS OF MAN, By Thomas Paine](https://book-rights-of-man.bsafes.com)
