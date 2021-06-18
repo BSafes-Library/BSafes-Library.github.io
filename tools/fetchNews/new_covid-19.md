@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VPN Attacks: A Rising Threat for Remote Work in the COVID-19 Era<a href="https://cyware.com/news/vpn-attacks-a-rising-threat-for-remote-work-in-the-covid-19-era-f1734c06"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent report, Nuspire revealed that attacks against Fortinet’s SSL-VPN had jumped to 1,916% in the first quarter of 2021. It was also identified that there was a 1,527% spike in attacks against Pulse Secure VPN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

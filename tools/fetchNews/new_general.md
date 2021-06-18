@@ -11,6 +11,48 @@ nav_order: 900072
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate unanimously confirms Chris Inglis as first White House cyber czar | Scrutiny mounts on Microsoft's surveillance technology | Senators unveil bill to crack down on cyber criminals<a href="https://thehill.com//policy/cybersecurity/overnights/559070-hillicon-valley-senate-unanimously-confirms-chris-inglis-as"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Thursday quietly approved the nomination of Chris Inglis as the nation’s first White House national cyber director, with the approval coming hot on the heels of months of escalating cyberattacks. One of the key champions of the cyber czar position, Rep. Jim LangevinJames (Jim) R. LangevinLawmakers urge Biden to be tough on cybersecurity during summit with Putin Colonial Pipeline may use recovered ransomware attack funds to boost cybersecurity New Russian hacks spark calls for tougher Biden actions MORE (D-R.I.), celebrated Inglis’s confirmation into a role that will see many roles and responsibilities placed on him.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Raid: A Big Win in the War on Ransomware?<a href="https://threatpost.com/clop-raid-big-win-war-ransomware/167036/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cops arrest six, seize cars and cash in splashy raid, and experts are applauding.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackdoorDiplomacy - Trouble Brewing in Africa and the Middle East<a href="https://cyware.com/news/backdoordiplomacy-trouble-brewing-in-africa-and-the-middle-east-b4a1d703"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The APT group is capable of stealing victims’ system information, take screenshots, and write, move, or delete files. A subset of the victims were targeted with data collection executables that sought out removable media.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 60% of Businesses Would Consider Paying a Ransomware Demand<a href="https://www.infosecurity-magazine.com:443/news/businesses-consider-paying-ransom/"> Full Text</a>
 </p>
 <details>

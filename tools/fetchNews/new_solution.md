@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A look at Google’s new project to boost security for open source (and other) software code<a href="https://www.scmagazine.com/featured/a-look-at-googles-new-project-to-boost-security-for-open-source-and-other-software-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech giant’s new software security framework is a roadmap to help developers defend against common attacks at every link in the development and production chain.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

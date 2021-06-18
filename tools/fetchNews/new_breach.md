@@ -11,6 +11,122 @@ nav_order: 900029
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Egg free Cake Box suffer data breach exposing credit card numbers<a href="https://www.bleepingcomputer.com/news/security/egg-free-cake-box-suffer-data-breach-exposing-credit-card-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eggfree Cake Box has disclosed a data breach after threat actors hacked their website to stole credit card numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a billion records belonging to CVS Health exposed online<a href="https://securityaffairs.co/wordpress/119081/data-breach/cvs-health-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered an unprotected database belonging to CVS Health that was exposed online containing over a billion records.
+
+
+
+This week&nbsp;WebsitePlanet along with the researcher Jeremiah Fowler discovered an unsecured database, belonging to the US healthcare...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Audi, Volkswagen customer data being sold on a hacking forum<a href="https://www.bleepingcomputer.com/news/security/audi-volkswagen-customer-data-being-sold-on-a-hacking-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Audi and Volkswagen customer data is being sold on a hacking forum after allegedly being stolen from an exposed Azure BLOB container.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Billion CVS Records Exposed<a href="https://www.infosecurity-magazine.com:443/news/a-billion-cvs-records-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfiguration error leaves CVS database without password protection
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Market for Cookies That Lets Hackers Pretend to Be You<a href="https://www.vice.com/en/article/n7b3jm/genesis-market-buy-cookies-slack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genesis Market is an invite-only underground marketplace where cybercriminals can source cookies that have been lifted from hacked computers for a cornucopia of services.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVS Health Records for 1.1 Billion Customers Exposed<a href="https://threatpost.com/cvs-health-records-billion-customers-exposed/167011/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vendor exposed the records, which were accessible with no password or other authentication, likely because of a cloud-storage misconfiguration.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smoking Out a DARKSIDE Affiliate’s Supply Chain Software Compromise<a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant determined the installers were malicious in early June and notified the victim of a potential website compromise, which may have allowed UNC2465 to replace the legitimate downloads.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carnival Cruise hit by data breach, warns of data misuse risk<a href="https://www.bleepingcomputer.com/news/security/carnival-cruise-hit-by-data-breach-warns-of-data-misuse-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival Corporation,&nbsp;the world's largest cruise ship operator, has disclosed a data breach after attackers breached some email accounts and accessed&nbsp;personal, financial, and health information belonging to customers, employees, and crew.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cosmolog Kozmetik Data Breach: Hundreds of Thousands of Customers impacted<a href="https://securityaffairs.co/wordpress/119067/data-breach/cosmolog-kozmetik-data-breach.html"> Full Text</a>
 </p>
 <details>

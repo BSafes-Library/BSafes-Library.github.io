@@ -34,6 +34,542 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A look at Google’s new project to boost security for open source (and other) software code<a href="https://www.scmagazine.com/featured/a-look-at-googles-new-project-to-boost-security-for-open-source-and-other-software-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech giant’s new software security framework is a roadmap to help developers defend against common attacks at every link in the development and production chain.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers create phishing lures with standard tools in Google Docs to steal credentials<a href="https://www.scmagazine.com/home/security-news/phishing/attackers-create-phishing-lures-with-standard-tools-in-google-docs-to-steal-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers on Thursday reported that hackers are using standard tools within Google Docs/Drive to lead unsuspecting victims to fraudulent websites, stealing credentials in the process. In a blog post, Avanan said hackers are bypassing static link scanners by hosting their attacks on publicly-known services. Gil Friedrich, co-founder and CEO of Avanan, said his team has…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate unanimously confirms Chris Inglis as first White House cyber czar | Scrutiny mounts on Microsoft's surveillance technology | Senators unveil bill to crack down on cyber criminals<a href="https://thehill.com//policy/cybersecurity/overnights/559070-hillicon-valley-senate-unanimously-confirms-chris-inglis-as"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Thursday quietly approved the nomination of Chris Inglis as the nation’s first White House national cyber director, with the approval coming hot on the heels of months of escalating cyberattacks. One of the key champions of the cyber czar position, Rep. Jim LangevinJames (Jim) R. LangevinLawmakers urge Biden to be tough on cybersecurity during summit with Putin Colonial Pipeline may use recovered ransomware attack funds to boost cybersecurity New Russian hacks spark calls for tougher Biden actions MORE (D-R.I.), celebrated Inglis’s confirmation into a role that will see many roles and responsibilities placed on him.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Egg free Cake Box suffer data breach exposing credit card numbers<a href="https://www.bleepingcomputer.com/news/security/egg-free-cake-box-suffer-data-breach-exposing-credit-card-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eggfree Cake Box has disclosed a data breach after threat actors hacked their website to stole credit card numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a billion records belonging to CVS Health exposed online<a href="https://securityaffairs.co/wordpress/119081/data-breach/cvs-health-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered an unprotected database belonging to CVS Health that was exposed online containing over a billion records.
+
+
+
+This week WebsitePlanet along with the researcher Jeremiah Fowler discovered an unsecured database, belonging to the US healthcare...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Raid: A Big Win in the War on Ransomware?<a href="https://threatpost.com/clop-raid-big-win-war-ransomware/167036/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cops arrest six, seize cars and cash in splashy raid, and experts are applauding.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC votes to advance proposed ban on Chinese telecom equipment<a href="https://thehill.com//policy/technology/559052-fcc-votes-to-advance-proposed-ban-on-chinese-telecom-equipment"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) voted unanimously Thursday to explore a proposal that would ban U.S. companies from buying telecommunications equipment that poses national security risks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate confirms Chris Inglis as first White House cyber czar<a href="https://thehill.com//policy/cybersecurity/559051-senate-unanimously-confirms-chris-inglis-as-first-white-house-cyber-czar"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Thursday unanimously confirmed former National Security Agency (NSA) Deputy Director Chris Inglis as the first White House national cyber director.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes seventh Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.114 for Windows, Mac, and Linux to fix four security vulnerabilities, with one of them a high severity zero-day vulnerability exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Smart Switches Riddled with Severe Security Holes<a href="https://threatpost.com/cisco-smart-switches-security-holes/167031/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intro-level networking gear for SMBs could allow remote attacks designed to steal information, drop malware and disrupt operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS unveils patient matching standards, guidance to boost patient privacy<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/hhs-unveils-patient-matching-standards-guidance-to-boost-patient-privacy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HHS developed patient matching standards in coordination with industry stakeholders and standards development entities, including HL7.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Audi, Volkswagen customer data being sold on a hacking forum<a href="https://www.bleepingcomputer.com/news/security/audi-volkswagen-customer-data-being-sold-on-a-hacking-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Audi and Volkswagen customer data is being sold on a hacking forum after allegedly being stolen from an exposed Azure BLOB container.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Billion CVS Records Exposed<a href="https://www.infosecurity-magazine.com:443/news/a-billion-cvs-records-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfiguration error leaves CVS database without password protection
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferocious Kitten APT targets Telegram and Psiphon VPN users in Iran<a href="https://securityaffairs.co/wordpress/119073/apt/ferocious-kitten-apt-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked Ferocious Kitten APT group used instant messaging apps and VPN software like Telegram and Psiphon to deliver Windows RAT and spy on targets' devices.
+
+
+
+Researchers from Kaspersky reported that Iran-linked threat actors, tracked as Ferocious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ NSA shares guidance on securing voice, video communications<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-securing-voice-video-communications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) has shared mitigations and best practices that systems administrators should follow when securing Unified Communications (UC) and Voice and Video over IP (VVoIP) call-processing systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Market for Cookies That Lets Hackers Pretend to Be You<a href="https://www.vice.com/en/article/n7b3jm/genesis-market-buy-cookies-slack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genesis Market is an invite-only underground marketplace where cybercriminals can source cookies that have been lifted from hacked computers for a cornucopia of services.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VPN Attacks: A Rising Threat for Remote Work in the COVID-19 Era<a href="https://cyware.com/news/vpn-attacks-a-rising-threat-for-remote-work-in-the-covid-19-era-f1734c06"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent report, Nuspire revealed that attacks against Fortinet’s SSL-VPN had jumped to 1,916% in the first quarter of 2021. It was also identified that there was a 1,527% spike in attacks against Pulse Secure VPN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Suffers Widespread Internet Outage<a href="https://www.infosecurity-magazine.com:443/news/australia-suffers-widespread/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai issue causes Aussie mail service, airlines, banks, and other businesses to lost internet
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State and local officials push for cyber grants to protect critical services<a href="https://www.scmagazine.com/home/security-news/government-and-defense/state-and-local-officials-push-for-cyber-grants-to-protect-critical-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One issue states have traditionally faced with grant funding is that one time payments cannot fund projects requiring long term employement, training and equipment upgrades.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators unveil legislation to crack down on cyber criminals<a href="https://thehill.com//policy/cybersecurity/558982-senators-unveil-legislation-to-crack-down-on-cyber-criminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators on Thursday unveiled legislation intended to crack down on cyber criminals, who have increasingly posed a threat to critical U.S. organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Matanbuchus: Malware-as-a-Service with Demonic Intentions<a href="https://unit42.paloaltonetworks.com/matanbuchus-malware-as-a-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit42 researchers found several organizations impacted by Matanbuchus including a large university and high school in the United States, as well as a high-tech organization in Belgium.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geek Squad Vishing Attack Bypasses Email Security to Hit 25K Mailboxes<a href="https://threatpost.com/geek-squad-vishing-bypasses-email-security/167014/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An email campaign asking victims to call a bogus number to suspend supposedly fraudulent subscriptions got right past Microsoft’s native email controls.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Use Google Docs to Host Phishing Attacks<a href="https://threatpost.com/google-docs-host-attack/166998/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit in the widely used document service leveraged to send malicious links that appear legitimate but actually steal victims credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackdoorDiplomacy - Trouble Brewing in Africa and the Middle East<a href="https://cyware.com/news/backdoordiplomacy-trouble-brewing-in-africa-and-the-middle-east-b4a1d703"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The APT group is capable of stealing victims’ system information, take screenshots, and write, move, or delete files. A subset of the victims were targeted with data collection executables that sought out removable media.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVS Health Records for 1.1 Billion Customers Exposed<a href="https://threatpost.com/cvs-health-records-billion-customers-exposed/167011/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vendor exposed the records, which were accessible with no password or other authentication, likely because of a cloud-storage misconfiguration.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smoking Out a DARKSIDE Affiliate’s Supply Chain Software Compromise<a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant determined the installers were malicious in early June and notified the victim of a potential website compromise, which may have allowed UNC2465 to replace the legitimate downloads.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Spy on Peloton Workouts<a href="https://www.infosecurity-magazine.com:443/news/hackers-can-spy-on-peloton-workouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers find flaw enabling hackers to remotely access Peloton bike screens
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carnival Cruise hit by data breach, warns of data misuse risk<a href="https://www.bleepingcomputer.com/news/security/carnival-cruise-hit-by-data-breach-warns-of-data-misuse-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival Corporation, the world's largest cruise ship operator, has disclosed a data breach after attackers breached some email accounts and accessed personal, financial, and health information belonging to customers, employees, and crew.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators draft bill that would require many entities to report cyber breaches within 24 hours<a href="https://edition.cnn.com/2021/06/16/politics/bill-report-cyber-breach-24-hours/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan draft by Senators Mark Warner, Marco Rubio, and Susan Collins, reflects a renewed effort by Congress to pass long-awaited federal rules surrounding cybersecurity breach notifications.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vigilante malware blocks victims from downloading pirated software<a href="https://www.bleepingcomputer.com/news/security/vigilante-malware-blocks-victims-from-downloading-pirated-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vigilante developer turns the tables on software pirates by distributing malware that prevents them from accessing pirated software sites in the future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LORCA Announces New Intensive Program for Most Promising Cyber Startups<a href="https://www.infosecurity-magazine.com:443/news/lorca-program-promising-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LORCA Ignite is a new intensive program that will help six of the most promising cyber startups in the UK achieve rapid growth
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws in defibrillator management tool pose account takeover, credential risk for hospitals<a href="https://www.scmagazine.com/home/health-care/critical-flaws-in-defibrillator-management-tool-pose-account-takeover-credential-risk-for-hospitals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The half-dozen flaws are found in all versions of the ZOLL Defibrillator Dashboard prior to 2.2. It would take a low-skill level to exploit and could enable an attacker to gain access to credentials or impact the confidentiality, integrity, and availability of the application.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers roll out legislation to protect schools against hackers<a href="https://thehill.com//policy/cybersecurity/558920-house-lawmakers-roll-out-legislation-to-protect-schools-against-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House members led by Rep. Doris Matsui (D-Calif.) on Thursday introduced legislation intended to protect K-12 institutions from cyberattacks, which spiked during the COVID-19 pandemic. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

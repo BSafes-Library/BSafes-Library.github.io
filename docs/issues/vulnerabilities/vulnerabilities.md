@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes seventh Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.114&nbsp;for Windows, Mac, and Linux to fix four security vulnerabilities, with one of them a high severity zero-day vulnerability exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Smart Switches Riddled with Severe Security Holes<a href="https://threatpost.com/cisco-smart-switches-security-holes/167031/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intro-level networking gear for SMBs could allow remote attacks designed to steal information, drop malware and disrupt operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Spy on Peloton Workouts<a href="https://www.infosecurity-magazine.com:443/news/hackers-can-spy-on-peloton-workouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers find flaw enabling hackers to remotely access Peloton bike screens
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws in defibrillator management tool pose account takeover, credential risk for hospitals<a href="https://www.scmagazine.com/home/health-care/critical-flaws-in-defibrillator-management-tool-pose-account-takeover-credential-risk-for-hospitals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The half-dozen flaws are found in all versions of the ZOLL Defibrillator Dashboard prior to 2.2. It would take a low-skill level to exploit and could enable an attacker to gain access to credentials or impact the confidentiality, integrity, and availability of the application.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

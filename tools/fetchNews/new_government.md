@@ -11,6 +11,90 @@ nav_order: 900075
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FCC votes to advance proposed ban on Chinese telecom equipment<a href="https://thehill.com//policy/technology/559052-fcc-votes-to-advance-proposed-ban-on-chinese-telecom-equipment"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) voted unanimously Thursday to explore a proposal that would ban U.S. companies from buying telecommunications equipment that poses national security risks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate confirms Chris Inglis as first White House cyber czar<a href="https://thehill.com//policy/cybersecurity/559051-senate-unanimously-confirms-chris-inglis-as-first-white-house-cyber-czar"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Thursday unanimously confirmed former National Security Agency (NSA) Deputy Director Chris Inglis as the first White House national cyber director.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ NSA shares guidance on securing voice, video communications<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-securing-voice-video-communications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) has shared mitigations and&nbsp;best practices&nbsp;that systems administrators should follow when securing&nbsp;Unified Communications (UC) and Voice and Video over IP (VVoIP) call-processing systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State and local officials push for cyber grants to protect critical services<a href="https://www.scmagazine.com/home/security-news/government-and-defense/state-and-local-officials-push-for-cyber-grants-to-protect-critical-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One issue states have traditionally faced with grant funding is that one time payments cannot fund projects requiring long term employement, training and equipment upgrades.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators draft bill that would require many entities to report cyber breaches within 24 hours<a href="https://edition.cnn.com/2021/06/16/politics/bill-report-cyber-breach-24-hours/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan draft by Senators Mark Warner, Marco Rubio, and Susan Collins, reflects a renewed effort by Congress to pass long-awaited federal rules surrounding cybersecurity breach notifications.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers roll out legislation to protect schools against hackers<a href="https://thehill.com//policy/cybersecurity/558920-house-lawmakers-roll-out-legislation-to-protect-schools-against-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House members led by Rep. Doris Matsui (D-Calif.) on Thursday introduced legislation intended to protect K-12 institutions from cyberattacks, which spiked during the COVID-19 pandemic.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Without specifics, Putin says U.S.-Russia reached an agreement to consult on cybersecurity<a href="https://www.politico.com/news/2021/06/16/putin-biden-cybersecurity-494875?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

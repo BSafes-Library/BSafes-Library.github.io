@@ -11,6 +11,20 @@ nav_order: 900165
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+HHS unveils patient matching standards, guidance to boost patient privacy<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/hhs-unveils-patient-matching-standards-guidance-to-boost-patient-privacy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HHS developed patient matching standards in coordination with industry stakeholders and standards development entities, including HL7.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A New Spyware is Targeting Telegram and Psiphon VPN Users in Iran<a href="https://thehackernews.com/2021/06/a-new-spyware-is-targeting-telegram-and.html"> Full Text</a>
 </p>
 <details>

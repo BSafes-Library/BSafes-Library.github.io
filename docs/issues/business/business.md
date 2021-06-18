@@ -11,6 +11,20 @@ nav_order: 900027
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+LORCA Announces New Intensive Program for Most Promising Cyber Startups<a href="https://www.infosecurity-magazine.com:443/news/lorca-program-promising-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LORCA Ignite is a new intensive program that will help six of the most promising cyber startups in the UK achieve rapid growth
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Industrial Cybersecurity Firm Claroty Raises $140 Million in Series D Funding<a href="https://www.securityweek.com/industrial-cybersecurity-firm-claroty-raises-140-million-series-d-funding?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

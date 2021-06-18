@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Without specifics, Putin says U.S.-Russia reached an agreement to consult on cybersecurity<a href="https://www.politico.com/news/2021/06/16/putin-biden-cybersecurity-494875?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian President Vladimir Putin on Wednesday said his country and the United States had agreed to enter into "consultations" on cybersecurity following his summit with President Joe Biden.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Warns Russia of Cyber-Attack No-Go List<a href="https://www.infosecurity-magazine.com:443/news/us-warns-russia-of-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Presidents Biden and Putin will now work on a deeper cybersecurity arrangement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

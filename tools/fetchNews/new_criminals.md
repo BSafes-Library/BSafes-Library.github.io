@@ -11,6 +11,20 @@ nav_order: 900031
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Senators unveil legislation to crack down on cyber criminals<a href="https://thehill.com//policy/cybersecurity/558982-senators-unveil-legislation-to-crack-down-on-cyber-criminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators on Thursday unveiled legislation intended to crack down on cyber criminals, who have increasingly posed a threat to critical U.S. organizations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Molerats Hackers Return With New Attacks Targeting Middle Eastern Governments<a href="https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html"> Full Text</a>
 </p>
 <details>

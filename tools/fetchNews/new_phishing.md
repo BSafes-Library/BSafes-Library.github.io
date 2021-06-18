@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers create phishing lures with standard tools in Google Docs to steal credentials<a href="https://www.scmagazine.com/home/security-news/phishing/attackers-create-phishing-lures-with-standard-tools-in-google-docs-to-steal-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers on Thursday reported that hackers are using standard tools within Google Docs/Drive to lead unsuspecting victims to fraudulent websites, stealing credentials in the process. In a blog post, Avanan said hackers are bypassing static link scanners by hosting their attacks on publicly-known services. Gil Friedrich, co-founder and CEO of Avanan, said his team has…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Use Google Docs to Host Phishing Attacks<a href="https://threatpost.com/google-docs-host-attack/166998/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit in the widely used document service leveraged to send malicious links that appear legitimate but actually steal victims credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

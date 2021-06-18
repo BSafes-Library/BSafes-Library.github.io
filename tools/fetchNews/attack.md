@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ryuk ransomware recovery cost us $8.1m and counting, says Baltimore school authority<a href="https://www.theregister.com/2021/06/16/baltimore_ryuk_ransomware_dollars_8_1m_recovery_cost/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An organisation whose network was infected by Ryuk ransomware has spent $8.1m over seven months recovering from it – and that’s still not the end of it, according to US news reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's Gateley Says Cyberattack Affects Small Portion of Its Data<a href="https://www.usnews.com/news/technology/articles/2021-06-16/uks-gateley-says-cyberattack-affects-small-portion-of-its-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The commercial legal services firm said it had informed relevant regulators and law enforcement agencies along with the country's Information Commissioner's office about the breach.
+</details>
+<div style="text-align: right" markdown="1">
+US News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
