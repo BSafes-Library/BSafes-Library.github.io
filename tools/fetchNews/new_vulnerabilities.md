@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found multiple flaws in Cisco Small Business 220 series<a href="https://securityaffairs.co/wordpress/119108/security/cisco-small-business-220-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher discovered multiple vulnerabilities in smart switches of Cisco’s Small Business 220 series, including some issues rated as high severity.
+
+
+
+Security researcher Jasper Lievisse Adriaanse has discovered multiple vulnerabilities Cisco’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update‌ ‌Your Chrome Browser to Patch Yet Another 0-Day Exploit‌ed ‌in‌-the‌-Wild<a href="https://thehackernews.com/2021/06/update-your-chrome-browser-to-patch-yet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out yet another update to Chrome browser for Windows, Mac, and Linux to fix four security vulnerabilities, including one zero-day flaw that's being exploited in the wild.  Tracked as&nbsp; CVE-2021-30554 , the high severity flaw concerns a&nbsp; use after free vulnerability &nbsp;in WebGL (aka Web Graphics Library), a JavaScript API for rendering interactive 2D and 3D graphics within the browser.   Successful exploitation of the flaw could mean corruption of valid data, leading to a crash, and even execution of unauthorized code or commands.  The issue was reported to Google anonymously on June 15, Chrome technical program manager Srinivas Sista&nbsp; noted , adding the company is "aware that an exploit for CVE-2021-30554 exists in the wild."   While it's usually the norm to limit details of the vulnerability until a majority of users are updated with the fix, the development comes less than 10 days after Google addressed another zero-day vulnerability exploited in act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

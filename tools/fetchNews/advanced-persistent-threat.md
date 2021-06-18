@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferocious Kitten APT targets Telegram and Psiphon VPN users in Iran<a href="https://securityaffairs.co/wordpress/119073/apt/ferocious-kitten-apt-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked Ferocious Kitten APT group used instant messaging apps and VPN software like Telegram and Psiphon to deliver Windows RAT and spy on targets' devices.
+
+
+
+Researchers from Kaspersky reported that Iran-linked threat actors, tracked as Ferocious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

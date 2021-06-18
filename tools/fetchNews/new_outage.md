@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai outage was caused by an issue with its Prolexic DDoS protection service<a href="https://securityaffairs.co/wordpress/119094/security/akamai-outage-akamai-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An outage suffered by CDN, cybersecurity and cloud services provider Akamai was caused by an issue with its Prolexic DDoS attack protection service.
+
+
+
+CDN, cybersecurity and cloud services provider Akamai revealed that the recent outage suffered by the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

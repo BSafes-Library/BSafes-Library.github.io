@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Using Tampered Ledger Devices to Steal Cryptocurrency<a href="https://cyware.com/news/scammers-using-tampered-ledger-devices-to-steal-cryptocurrency-a4f2d813"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users and&nbsp;security experts have uncovered a scam involving the delivery of fake replacement Ledger devices to customers to steal cryptocurrency.&nbsp;Customers using Ledger devices are recommended to beware of any unwanted email, package, or text.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Phishing Attack Abuses Google Drive and Docs<a href="https://www.infosecurity-magazine.com:443/news/novel-phishing-attack-abuses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Simple technique bypasses static link scanning, researchers warn
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

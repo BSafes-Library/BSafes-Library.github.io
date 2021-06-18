@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia bans VyprVPN, Opera VPN services for not complying with blacklist request<a href="https://thehackernews.com/2021/06/russia-bans-vyprvpn-opera-vpn-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's telecommunications and media regulator Roskomnadzor (RKN) on Thursday introduced restrictions on the operation of VyprVPN  and Opera VPN  services in the country.  "In accordance with the regulation on responding to threats to circumvent restrictions on access to child pornography, suicidal, pro-narcotic and other prohibited content, restrictions on the use of VPN services VyprVPN and Opera VPN will be introduced from June 17, 2021," the state agency&nbsp; said &nbsp;in a statement.   The watchdog described them as threats in accordance with the Decree of the Government of the Russian Federation No. 127 dated February 12, adding the restrictions will not affect Russian companies using VPN services in continuous technological processes.   The development comes a little over a month after&nbsp; RKN sent a request &nbsp;to enterprises and organizations that use the two VPN services to inform the&nbsp; Center for Monitoring and Management of the Public Telecommunications Network &nbsp;and seek e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia bans Opera VPN and VyprVPN, classifies them as threats<a href="https://www.bleepingcomputer.com/news/security/russia-bans-opera-vpn-and-vyprvpn-classifies-them-as-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roskomnadzor, Russia's telecommunications watchdog, has banned the use of Opera VPN and&nbsp;VyprVPN&nbsp;after classifying them as threats according to current Russian law.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Releases Guidance for Securing Enterprise Communication Systems<a href="https://www.securityweek.com/nsa-releases-guidance-securing-enterprise-communication-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA on Thursday released guidance to help organizations secure their communication systems, specifically Unified Communications (UC) and Voice and Video over IP (VVoIP).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inglis confirmed as first national cyber director<a href="https://www.scmagazine.com/home/security-news/government-and-defense/inglis-confirmed-as-first-national-cyber-director/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate quietly confirmed Chris Inglis as the first-ever national cyber director by voice vote on Thursday, adding a new White House resource amid a tumultuous year of ransomware, espionage and other cybersecurity concerns. “After 11 long years, I’m thrilled the U.S. finally has a Senate-confirmed national cyberdirector in the White House,” tweeted Rep. Jim…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

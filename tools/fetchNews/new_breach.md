@@ -8,6 +8,140 @@ nav_order: 900029
 
 ## Breach
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland blames Russia for breach, theft of Polish officials' emails<a href="https://www.bleepingcomputer.com/news/security/poland-blames-russia-for-breach-theft-of-polish-officials-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland's deputy prime minister Jarosław Kaczyński says last week's breach of multiple Polish officials' private email accounts was carried out from servers within the Russian Federation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carnival Cruise says customer data exposed in breach<a href="https://thehill.com//policy/cybersecurity/559144-carnival-cruise-says-customer-data-exposed-in-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival Cruise says customer and employee data may have been exposed in a data breach in March. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US supermarket chain Wegmans discloses data breach<a href="https://securityaffairs.co/wordpress/119115/data-breach/wegmans-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The supermarket chain Wegmans US Wegmans discloses a data breach, customers information was exposed on the Internet due to a misconfiguration issue.
+
+
+
+Wegmans Food Markets disclosed a data breach, the supermarket chain notified customers that some of their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cruise operator Carnival discloses a security breach<a href="https://securityaffairs.co/wordpress/119102/data-breach/carnival-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival Corp. said that the data breach it has suffered in March might have impacted its customers and employees.
+
+
+
+Carnival Corp. this week confirmed that the data breach that took place in March might have exposed personal information about customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alina Lodge notifies patients of data breach tied to 2020 Blackbaud incident<a href="https://www.scmagazine.com/featured/alina-lodge-notifies-patients-of-data-breach-tied-to-2020-blackbaud-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week’s breach roundup is led by a Alina Lodge breach notice stemming from the massive 2020 Blackbaud security incident and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US supermarket chain Wegmans notifies customers of data breach<a href="https://www.bleepingcomputer.com/news/security/us-supermarket-chain-wegmans-notifies-customers-of-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wegmans Food Markets notified customers that some of their information was exposed after&nbsp;the company became aware that two of its databases were publicly accessible on the Internet&nbsp;because of&nbsp;a configuration issue.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carnival Confirms Another Breach Impacting Staff and Passengers<a href="https://www.infosecurity-magazine.com:443/news/carnival-breach-impacting-staff/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cruise line giant reveals personal information may have been taken
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eggfree Cake Box suffer data breach exposing credit card numbers<a href="https://www.bleepingcomputer.com/news/security/eggfree-cake-box-suffer-data-breach-exposing-credit-card-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eggfree Cake Box has disclosed a data breach after threat actors hacked their website to stole credit card numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carnival discloses new data breach on email accounts<a href="https://www.scmagazine.com/home/email-security/carnival-discloses-new-data-breach-on-email-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival has been hit by multiple cyberattacks since 2019, including a ransomware incident last summer.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

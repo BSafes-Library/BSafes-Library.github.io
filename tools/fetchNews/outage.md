@@ -11,6 +11,20 @@ nav_order: 900140
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Australia Suffers Widespread Internet Outage<a href="https://www.infosecurity-magazine.com:443/news/australia-suffers-widespread/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai issue causes Aussie mail service, airlines, banks, and other businesses to lost internet
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Internet outages hit airlines, financial institutions<a href="https://thehill.com//policy/cybersecurity/558903-internet-outages-hit-airlines-financial-institutions"> Full Text</a>
 </p>
 <details>

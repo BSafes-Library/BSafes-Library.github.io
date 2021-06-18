@@ -31,6 +31,7 @@
 
 Alerts:
 . https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-securing-voice-video-communications/
+. https://www.securityweek.com/nsa-releases-guidance-securing-enterprise-communication-systems?&web_view=true
 
 Law:
 

@@ -11,6 +11,20 @@ nav_order: 900015
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Geek Squad Vishing Attack Bypasses Email Security to Hit 25K Mailboxes<a href="https://threatpost.com/geek-squad-vishing-bypasses-email-security/167014/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An email campaign asking victims to call a bogus number to suspend supposedly fraudulent subscriptions got right past Microsoft’s native email controls.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ryuk ransomware recovery cost us $8.1m and counting, says Baltimore school authority<a href="https://www.theregister.com/2021/06/16/baltimore_ryuk_ransomware_dollars_8_1m_recovery_cost/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

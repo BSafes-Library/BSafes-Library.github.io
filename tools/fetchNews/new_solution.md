@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases New Framework to Prevent Software Supply Chain Attacks<a href="https://thehackernews.com/2021/06/google-releases-new-framework-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As software supply chain attacks emerge as a point of concern in the wake of SolarWinds  and Codecov &nbsp;security incidents, Google is proposing a solution to ensure the integrity of software packages and prevent unauthorized modifications.&nbsp;  Called " Supply chain Levels for Software Artifacts " (SLSA, and pronounced "salsa"), the end-to-end framework aims to secure the software development and deployment pipeline — i.e., the source ➞ build ➞ publish workflow — and&nbsp; mitigate threats &nbsp;that arise out of tampering with the source code, the build platform, and the artifact repository at every link in the chain.   Google said SLSA is inspired by the company's own internal enforcement mechanism called Binary Authorization for Borg , a set of auditing tools that verifies code provenance and implements code identity to ascertain that the deployed production software is properly reviewed and authorized.  "In its current state, SLSA is a set of incrementally adoptable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers offer advice on how to block WFH employees from downloading pirated software<a href="https://www.scmagazine.com/home/security-news/researchers-offer-advice-on-how-to-block-wfh-employees-from-downloading-pirated-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams looking to prevent work-from-home and remote users from downloading potentially trojanized pirated software will find Thursday’s research by Sophos of interest. In a blog post, Sophos researchers reported on a curious malware program that comes disguised as pirated copies of software, but actually modifies infected users’ HOSTS file to blocks them from visiting…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

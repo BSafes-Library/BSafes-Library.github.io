@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Making Your Company a Ransomware Sitting Duck<a href="https://threatpost.com/ransomware-sitting-duck/167040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What’s the low-hanging fruit for ransomware attackers? What steps could help to fend them off,  and what’s stopping organizations from implementing those steps?
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infosecurity Europe 2021 Postpones Live Event<a href="https://www.infosecurity-magazine.com:443/news/infosecurity-europe-2021-postpones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infosecurity Europe has announced that it is postponing the live event due to run at London Olympia in July, following the government’s delay in lifting the final COVID-19 restrictions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] 7 Signs You Might Need a New Detection and Response Tool<a href="https://thehackernews.com/2021/06/ebook-7-signs-you-might-need-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's natural to get complacent with the status quo when things seem to be working. The familiar is comfortable, and even if something better comes along, it brings with it many unknowns.  In cybersecurity, this tendency is countered by the fast pace of innovation and how quickly technology becomes obsolete, often overnight.  This combination usually results in one of two things – organizations make less than ideal choices about the software and tools they're adding, or security leaders simply cannot stay abreast of new developments and opt to stay put with their existing stack.  The problem is that once you let one update pass you by, you're suddenly miles behind. A new eBook from XDR provider Cynet ( download here ) offers insights into factors that are clear signs organizations need to upgrade their detection and response tools to stay with the times.  The eBook highlights several factors and questions that companies can ask themselves to determine whether they are okay
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
