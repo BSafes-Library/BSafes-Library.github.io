@@ -34,6 +34,619 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland blames Russia for breach, theft of Polish officials' emails<a href="https://www.bleepingcomputer.com/news/security/poland-blames-russia-for-breach-theft-of-polish-officials-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland's deputy prime minister Jarosław Kaczyński says last week's breach of multiple Polish officials' private email accounts was carried out from servers within the Russian Federation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferocious Kitten Uses MarkiRAT to Target Iranian Regime<a href="https://cyware.com/news/ferocious-kitten-uses-markirat-to-target-iranian-regime-633b84b4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group based out of Iran is actively targeting Iranian users to deliver MarkiRAT that records keystrokes and clipboard content. Two suspicious documents related to it were uploaded to VirusTotal. It appears attackers&nbsp;are trying to enhance their arsenal with new tools to make their attack ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carnival Cruise says customer data exposed in breach<a href="https://thehill.com//policy/cybersecurity/559144-carnival-cruise-says-customer-data-exposed-in-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival Cruise says customer and employee data may have been exposed in a data breach in March. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia bans VyprVPN, Opera VPN services for not complying with blacklist request<a href="https://thehackernews.com/2021/06/russia-bans-vyprvpn-opera-vpn-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's telecommunications and media regulator Roskomnadzor (RKN) on Thursday introduced restrictions on the operation of VyprVPN  and Opera VPN  services in the country.  "In accordance with the regulation on responding to threats to circumvent restrictions on access to child pornography, suicidal, pro-narcotic and other prohibited content, restrictions on the use of VPN services VyprVPN and Opera VPN will be introduced from June 17, 2021," the state agency  said  in a statement.   The watchdog described them as threats in accordance with the Decree of the Government of the Russian Federation No. 127 dated February 12, adding the restrictions will not affect Russian companies using VPN services in continuous technological processes.   The development comes a little over a month after  RKN sent a request  to enterprises and organizations that use the two VPN services to inform the  Center for Monitoring and Management of the Public Telecommunications Network  and seek e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texan Admits Data Center Bomb Plot<a href="https://www.infosecurity-magazine.com:443/news/texan-admits-data-center-bomb-plot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wichita Falls man hoped to “kill off 70% of the internet” by obliterating Virginia data center
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US supermarket chain Wegmans discloses data breach<a href="https://securityaffairs.co/wordpress/119115/data-breach/wegmans-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The supermarket chain Wegmans US Wegmans discloses a data breach, customers information was exposed on the Internet due to a misconfiguration issue.
+
+
+
+Wegmans Food Markets disclosed a data breach, the supermarket chain notified customers that some of their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wegmans reports misconfigurations on two cloud databases<a href="https://www.scmagazine.com/home/security-news/wegmans-reports-misconfigurations-on-two-cloud-databases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another company was caught in a cloud misconfiguration issue as Wegmans Food Markets on Thursday notified its customers that two of its cloud databases were left open to potential outside access. In a notice released to its customers, Wegmans said the type of customer information included names, addresses, phone numbers, birth dates, Shoppers Club numbers,…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Making Your Company a Ransomware Sitting Duck<a href="https://threatpost.com/ransomware-sitting-duck/167040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What’s the low-hanging fruit for ransomware attackers? What steps could help to fend them off,  and what’s stopping organizations from implementing those steps?
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DarkSide gang targets energy, food industry in extortion emails<a href="https://www.bleepingcomputer.com/news/security/fake-darkside-gang-targets-energy-food-industry-in-extortion-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors impersonate the now-defunct DarkSide Ransomware operation in fake extortion emails sent to companies in the energy and food sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Using Tampered Ledger Devices to Steal Cryptocurrency<a href="https://cyware.com/news/scammers-using-tampered-ledger-devices-to-steal-cryptocurrency-a4f2d813"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users and&nbsp;security experts have uncovered a scam involving the delivery of fake replacement Ledger devices to customers to steal cryptocurrency.&nbsp;Customers using Ledger devices are recommended to beware of any unwanted email, package, or text.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers rally around cyber legislation following string of attacks<a href="https://thehill.com//policy/cybersecurity/559073-lawmakers-rally-around-cyber-legislation-following-string-of-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers on Capitol Hill are scrambling to introduce legislation to address a devastating spike in ransomware and other cyberattacks on critical organizations such as Colonial Pipeline and JBS USA.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases New Framework to Prevent Software Supply Chain Attacks<a href="https://thehackernews.com/2021/06/google-releases-new-framework-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As software supply chain attacks emerge as a point of concern in the wake of SolarWinds  and Codecov  security incidents, Google is proposing a solution to ensure the integrity of software packages and prevent unauthorized modifications.   Called " Supply chain Levels for Software Artifacts " (SLSA, and pronounced "salsa"), the end-to-end framework aims to secure the software development and deployment pipeline — i.e., the source ➞ build ➞ publish workflow — and  mitigate threats  that arise out of tampering with the source code, the build platform, and the artifact repository at every link in the chain.   Google said SLSA is inspired by the company's own internal enforcement mechanism called Binary Authorization for Borg , a set of auditing tools that verifies code provenance and implements code identity to ascertain that the deployed production software is properly reviewed and authorized.  "In its current state, SLSA is a set of incrementally adoptable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey Councilor Charged with Cyber-harassment<a href="https://www.infosecurity-magazine.com:443/news/new-jersey-councilor-charged-with/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cape May councilman charged with stalking and cyber-harassing former girlfriend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found multiple flaws in Cisco Small Business 220 series<a href="https://securityaffairs.co/wordpress/119108/security/cisco-small-business-220-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher discovered multiple vulnerabilities in smart switches of Cisco’s Small Business 220 series, including some issues rated as high severity.
+
+
+
+Security researcher Jasper Lievisse Adriaanse has discovered multiple vulnerabilities Cisco’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers offer advice on how to block WFH employees from downloading pirated software<a href="https://www.scmagazine.com/home/security-news/researchers-offer-advice-on-how-to-block-wfh-employees-from-downloading-pirated-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams looking to prevent work-from-home and remote users from downloading potentially trojanized pirated software will find Thursday’s research by Sophos of interest. In a blog post, Sophos researchers reported on a curious malware program that comes disguised as pirated copies of software, but actually modifies infected users’ HOSTS file to blocks them from visiting…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia bans Opera VPN and VyprVPN, classifies them as threats<a href="https://www.bleepingcomputer.com/news/security/russia-bans-opera-vpn-and-vyprvpn-classifies-them-as-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roskomnadzor, Russia's telecommunications watchdog, has banned the use of Opera VPN and VyprVPN after classifying them as threats according to current Russian law.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A deep dive into the operations of the LockBit ransomware group<a href="https://www.zdnet.com/article/a-deep-dive-into-the-operations-of-the-lockbit-ransomware-group/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation revealed that LockBit affiliates most often will buy RDP access to servers as an initial attack vector, although they may also use typical phishing and credential stuffing techniques.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado Passes New Privacy Act<a href="https://www.infosecurity-magazine.com:443/news/colorado-passes-new-privacy-act/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comprehensive data privacy law awaits signature of state governor
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cruise operator Carnival discloses a security breach<a href="https://securityaffairs.co/wordpress/119102/data-breach/carnival-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnival Corp. said that the data breach it has suffered in March might have impacted its customers and employees.
+
+
+
+Carnival Corp. this week confirmed that the data breach that took place in March might have exposed personal information about customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alina Lodge notifies patients of data breach tied to 2020 Blackbaud incident<a href="https://www.scmagazine.com/featured/alina-lodge-notifies-patients-of-data-breach-tied-to-2020-blackbaud-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week’s breach roundup is led by a Alina Lodge breach notice stemming from the massive 2020 Blackbaud security incident and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US supermarket chain Wegmans notifies customers of data breach<a href="https://www.bleepingcomputer.com/news/security/us-supermarket-chain-wegmans-notifies-customers-of-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wegmans Food Markets notified customers that some of their information was exposed after the company became aware that two of its databases were publicly accessible on the Internet because of a configuration issue.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Releases Guidance for Securing Enterprise Communication Systems<a href="https://www.securityweek.com/nsa-releases-guidance-securing-enterprise-communication-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA on Thursday released guidance to help organizations secure their communication systems, specifically Unified Communications (UC) and Voice and Video over IP (VVoIP).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Spices Up Supply Chain Security with SLSA Framework<a href="https://www.infosecurity-magazine.com:443/news/google-supply-china-security-slsa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certification will give customers confidence software hasn't been tampered with
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai outage was caused by an issue with its Prolexic DDoS protection service<a href="https://securityaffairs.co/wordpress/119094/security/akamai-outage-akamai-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An outage suffered by CDN, cybersecurity and cloud services provider Akamai was caused by an issue with its Prolexic DDoS attack protection service.
+
+
+
+CDN, cybersecurity and cloud services provider Akamai revealed that the recent outage suffered by the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New alliance exposes underserved groups to cyber training, job opportunities<a href="https://www.scmagazine.com/home/security-news/tktktktktk-new-alliance-exposes-underserved-groups-to-cyber-training-job-opportunities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 30 organizations have agreed to make IBM’s skills-building platform available to the vulnerable populations they serve.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threatray Raises $2.7M in Funding<a href="https://www.finsmes.com/2021/06/threatray-raises-e2-3m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Switzerland-based Threatray raised $2.7 million in funding led by Verve Ventures, with participation from existing investors Hammer Team, SICTIC, BackBone Ventures, and the Innofund by SZKB.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infosecurity Europe 2021 Postpones Live Event<a href="https://www.infosecurity-magazine.com:443/news/infosecurity-europe-2021-postpones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infosecurity Europe has announced that it is postponing the live event due to run at London Olympia in July, following the government’s delay in lifting the final COVID-19 restrictions
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The return of TA402 Molerats APT after a short pause<a href="https://securityaffairs.co/wordpress/119085/apt/ta402-molerats-apt-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA402 APT group (aka Molerats and GazaHackerTeam) is back after two-month of silence and is targeting governments in the Middle East.
+
+
+
+The TA402 APT group (aka Molerats and Gaza Cybergang) is back after a two-month of apparent inactivity, it is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inglis confirmed as first national cyber director<a href="https://www.scmagazine.com/home/security-news/government-and-defense/inglis-confirmed-as-first-national-cyber-director/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate quietly confirmed Chris Inglis as the first-ever national cyber director by voice vote on Thursday, adding a new White House resource amid a tumultuous year of ransomware, espionage and other cybersecurity concerns. “After 11 long years, I’m thrilled the U.S. finally has a Senate-confirmed national cyberdirector in the White House,” tweeted Rep. Jim…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Vigilante Malware Rats Out Software Pirates and Blocks Them<a href="https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vigilante, as SophosLabs Principal Researcher Andrew Brandt is calling the malware, gets installed when victims download and execute what they think is pirated software or games.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Phishing Attack Abuses Google Drive and Docs<a href="https://www.infosecurity-magazine.com:443/news/novel-phishing-attack-abuses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Simple technique bypasses static link scanning, researchers warn
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors in Recent Campaign Pose as Darkside to Target Energy and Food Sectors<a href="https://www.trendmicro.com/en_us/research/21/f/fake-darkside-campaign-targets-energy-and-food-sectors.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The content of the emails led researchers to believe that they did not come from Darkside, but from an attacker trying to profit off the current situation around DarkSide ransomware activities.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carnival Confirms Another Breach Impacting Staff and Passengers<a href="https://www.infosecurity-magazine.com:443/news/carnival-breach-impacting-staff/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cruise line giant reveals personal information may have been taken
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freeport town computer network back up following ransomware attack<a href="https://www.pressherald.com/2021/06/15/freeport-town-computer-network-back-up-following-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The town’s municipal computer network is back up and running after a cyberattack one week ago that has been linked to Russian criminals and a global ransomware group, the town manager said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Press Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] 7 Signs You Might Need a New Detection and Response Tool<a href="https://thehackernews.com/2021/06/ebook-7-signs-you-might-need-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's natural to get complacent with the status quo when things seem to be working. The familiar is comfortable, and even if something better comes along, it brings with it many unknowns.  In cybersecurity, this tendency is countered by the fast pace of innovation and how quickly technology becomes obsolete, often overnight.  This combination usually results in one of two things – organizations make less than ideal choices about the software and tools they're adding, or security leaders simply cannot stay abreast of new developments and opt to stay put with their existing stack.  The problem is that once you let one update pass you by, you're suddenly miles behind. A new eBook from XDR provider Cynet ( download here ) offers insights into factors that are clear signs organizations need to upgrade their detection and response tools to stay with the times.  The eBook highlights several factors and questions that companies can ask themselves to determine whether they are okay
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update‌ ‌Your Chrome Browser to Patch Yet Another 0-Day Exploit‌ed ‌in‌-the‌-Wild<a href="https://thehackernews.com/2021/06/update-your-chrome-browser-to-patch-yet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out yet another update to Chrome browser for Windows, Mac, and Linux to fix four security vulnerabilities, including one zero-day flaw that's being exploited in the wild.  Tracked as  CVE-2021-30554 , the high severity flaw concerns a  use after free vulnerability  in WebGL (aka Web Graphics Library), a JavaScript API for rendering interactive 2D and 3D graphics within the browser.   Successful exploitation of the flaw could mean corruption of valid data, leading to a crash, and even execution of unauthorized code or commands.  The issue was reported to Google anonymously on June 15, Chrome technical program manager Srinivas Sista  noted , adding the company is "aware that an exploit for CVE-2021-30554 exists in the wild."   While it's usually the norm to limit details of the vulnerability until a majority of users are updated with the fix, the development comes less than 10 days after Google addressed another zero-day vulnerability exploited in act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eggfree Cake Box suffer data breach exposing credit card numbers<a href="https://www.bleepingcomputer.com/news/security/eggfree-cake-box-suffer-data-breach-exposing-credit-card-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eggfree Cake Box has disclosed a data breach after threat actors hacked their website to stole credit card numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 17, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
