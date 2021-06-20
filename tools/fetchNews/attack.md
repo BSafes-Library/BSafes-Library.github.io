@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freeport town computer network back up following ransomware attack<a href="https://www.pressherald.com/2021/06/15/freeport-town-computer-network-back-up-following-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The town’s municipal computer network is back up and running after a cyberattack one week ago that has been linked to Russian criminals and a global ransomware group, the town manager said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Press Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

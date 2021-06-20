@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedFoxtrot operations linked to China’s PLA Unit 69010 due to bad opsec<a href="https://securityaffairs.co/wordpress/119135/apt/redfoxtrot-operations-linked-to-chinas-pla-unit-69010-due-to-bad-opsec.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts attribute a series of cyber-espionage campaigns dating back to 2014, and focused on gathering military intelligence, to China-linked Unit 69010.
+
+
+
+Experts from Recorded Future’s Insikt Group linked a series of attacks, part of RedFoxtrot China-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber espionage by Chinese hackers in neighbouring nations is on the rise<a href="https://thehackernews.com/2021/06/cyber-espionage-by-chinese-hackers-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A string of cyber espionage campaigns dating all the way back to 2014 and focused on gathering military intelligence from neighbouring countries have been linked to a Chinese military-intelligence apparatus.  In a wide-ranging report published by Massachusetts-headquartered Recorded Future this week, the cybersecurity firm's Insikt Group said it identified ties between a group it tracks as " RedFoxtrot " to the People's Liberation Army (PLA) Unit 69010 operating out of Ürümqi, the capital of the Xinjiang Uyghur Autonomous Region in the country.   Previously called the Lanzhou Military Region's Second Technical Reconnaissance Bureau, Unit 69010 is a military cover for a Technical Reconnaissance Bureau (TRB) within China's Strategic Support Force (SSF) Network Systems Department ( NSD ).   The connection to PLA Unit 69010 stems from what the researchers said were "lax operational security measures" adopted by an unnamed suspected RedFoxtrot threat act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

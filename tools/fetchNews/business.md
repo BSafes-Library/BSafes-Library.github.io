@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Spices Up Supply Chain Security with SLSA Framework<a href="https://www.infosecurity-magazine.com:443/news/google-supply-china-security-slsa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certification will give customers confidence software hasn't been tampered with
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threatray Raises $2.7M in Funding<a href="https://www.finsmes.com/2021/06/threatray-raises-e2-3m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Switzerland-based Threatray raised $2.7 million in funding led by Verve Ventures, with participation from existing investors Hammer Team, SICTIC, BackBone Ventures, and the Innofund by SZKB.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

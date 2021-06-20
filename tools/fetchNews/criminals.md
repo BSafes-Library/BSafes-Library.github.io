@@ -8,6 +8,77 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferocious Kitten Uses MarkiRAT to Target Iranian Regime<a href="https://cyware.com/news/ferocious-kitten-uses-markirat-to-target-iranian-regime-633b84b4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group based out of Iran is actively targeting Iranian users to deliver MarkiRAT that records keystrokes and clipboard content. Two suspicious documents related to it were uploaded to VirusTotal. It appears attackers&nbsp;are trying to enhance their arsenal with new tools to make their attack ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texan Admits Data Center Bomb Plot<a href="https://www.infosecurity-magazine.com:443/news/texan-admits-data-center-bomb-plot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wichita Falls man hoped to “kill off 70% of the internet” by obliterating Virginia data center
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DarkSide gang targets energy, food industry in extortion emails<a href="https://www.bleepingcomputer.com/news/security/fake-darkside-gang-targets-energy-food-industry-in-extortion-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors impersonate the now-defunct DarkSide Ransomware operation in fake extortion emails sent to companies in the energy and food sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A deep dive into the operations of the LockBit ransomware group<a href="https://www.zdnet.com/article/a-deep-dive-into-the-operations-of-the-lockbit-ransomware-group/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation revealed that LockBit affiliates most often will buy RDP access to servers as an initial attack vector, although they may also use typical phishing and credential stuffing techniques.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors in Recent Campaign Pose as Darkside to Target Energy and Food Sectors<a href="https://www.trendmicro.com/en_us/research/21/f/fake-darkside-campaign-targets-energy-and-food-sectors.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The content of the emails led researchers to believe that they did not come from Darkside, but from an attacker trying to profit off the current situation around DarkSide ransomware activities.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

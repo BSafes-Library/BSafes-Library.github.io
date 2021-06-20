@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attack on Polish officials came from Russia, Kaczynski says<a href="https://www.reuters.com/world/europe/cyber-attack-polish-officials-came-russia-kaczynski-says-2021-06-18/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top Polish government officials have been hit by a far-reaching cyber attack conducted from Russian territory, Poland's de facto leader Jaroslaw Kaczynski said on Friday in his first official statement on an email hacking incident this month.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

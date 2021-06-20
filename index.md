@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google force installs Massachusetts MassNotify Android COVID app<a href="https://www.bleepingcomputer.com/news/security/google-force-installs-massachusetts-massnotify-android-covid-app/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate confirms Chris Inglis as Biden's top cyber adviser<a href="https://www.politico.com/news/2021/06/17/senate-confirms-chris-inglis-cyber-495075?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean APT group Kimsuky allegedly hacked South Korea’s atomic research agency KAERI<a href="https://securityaffairs.co/wordpress/119147/apt/kimsuky-apt-hacked-south-korea-kaeri.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea's Nuclear Research agency hacked using VPN flaw<a href="https://www.bleepingcomputer.com/news/security/south-koreas-nuclear-research-agency-hacked-using-vpn-flaw/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Agency’s Computers Hold Secrets. Hackers Got In With One Password.<a href="https://www.nytimes.com/2021/06/18/nyregion/nyc-law-department-hack.html?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedFoxtrot operations linked to China’s PLA Unit 69010 due to bad opsec<a href="https://securityaffairs.co/wordpress/119135/apt/redfoxtrot-operations-linked-to-chinas-pla-unit-69010-due-to-bad-opsec.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iPhone bug breaks WiFi when you join hotspot with unusual name<a href="https://www.bleepingcomputer.com/news/security/iphone-bug-breaks-wifi-when-you-join-hotspot-with-unusual-name/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Matanbuchus Loader: A New Malware-as-a-Service<a href="https://cyware.com/news/matanbuchus-loader-a-new-malware-as-a-service-50c4e16f"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware Gang: An Overview<a href="https://unit42.paloaltonetworks.com/conti-ransomware-gang/?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber attack on Polish officials came from Russia, Kaczynski says<a href="https://www.reuters.com/world/europe/cyber-attack-polish-officials-came-russia-kaczynski-says-2021-06-18/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vigilante malware stops victims from visiting piracy websites<a href="https://securityaffairs.co/wordpress/119123/malware/vigilante-malware-piracy-websites.html?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found multiple flaws in Cisco Small Business 220 series<a href="https://securityaffairs.co/wordpress/119108/security/cisco-small-business-220-flaw.html?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2021
+June 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A deep dive into the operations of the LockBit ransomware group<a href="https://www.zdnet.com/article/a-deep-dive-into-the-operations-of-the-lockbit-ransomware-group/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2021
+June 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea Exploited VPN Flaw to Hack South's Nuclear Research Institute<a href="https://thehackernews.com/2021/06/north-korea-exploited-vpn-flaw-to-hack.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2021
+June 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber espionage by Chinese hackers in neighbouring nations is on the rise<a href="https://thehackernews.com/2021/06/cyber-espionage-by-chinese-hackers-in.html"> Full Text</a>
@@ -282,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2021
+June 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vigilante malware stops victims from visiting piracy websites<a href="https://securityaffairs.co/wordpress/119123/malware/vigilante-malware-piracy-websites.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2021
+June 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 18th 2021 - Law enforcement strikes back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-18th-2021-law-enforcement-strikes-back/"> Full Text</a>

@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The return of TA402 Molerats APT after a short pause<a href="https://securityaffairs.co/wordpress/119085/apt/ta402-molerats-apt-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA402 APT group (aka Molerats&nbsp;and GazaHackerTeam) is back after two-month of silence and is targeting governments in the Middle East.
+
+
+
+The TA402 APT group (aka Molerats&nbsp;and Gaza Cybergang) is back after a two-month of apparent inactivity, it is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

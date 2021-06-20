@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New alliance exposes underserved groups to cyber training, job opportunities<a href="https://www.scmagazine.com/home/security-news/tktktktktk-new-alliance-exposes-underserved-groups-to-cyber-training-job-opportunities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 30 organizations have agreed to make IBM’s skills-building platform available to the vulnerable populations they serve.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

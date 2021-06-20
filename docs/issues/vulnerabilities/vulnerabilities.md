@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhone bug breaks WiFi when you join hotspot with unusual name<a href="https://www.bleepingcomputer.com/news/security/iphone-bug-breaks-wifi-when-you-join-hotspot-with-unusual-name/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new iPhone bug has come to light that breaks your iPhone's wireless functionality by merely connecting to a certain WiFi hotspot.. Once triggered, the bug would render your iPhone unable to establish a&nbsp;WiFi connection, even if it is rebooted or the WiFi hotspot is renamed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Exploited VPN Flaw to Hack South's Nuclear Research Institute<a href="https://thehackernews.com/2021/06/north-korea-exploited-vpn-flaw-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea's state-run Korea Atomic Energy Research Institute (KAERI) on Friday disclosed that its internal network was infiltrated by suspected attackers operating out of its northern counterpart.  The intrusion is said to have taken place on May 14 through a vulnerability in an unnamed virtual private network (VPN) vendor and involved a&nbsp; total of 13 IP addresses , one of which — "27.102.114[.]89" — has been previously linked to a state-sponsored threat actor dubbed&nbsp; Kimsuky .   KAERI, established in 1959 and situated in the city of Daejeon, is a government-funded research institute that designs and develops nuclear technologies related to reactors, fuel rods, radiation fusion, and nuclear safety.  Following the intrusion, the think tank said it took steps to block the attacker's IP addresses in question and applied necessary security patches to the vulnerable VPN solution. "Currently, the Atomic Energy Research Institute is investigating the subject of the ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

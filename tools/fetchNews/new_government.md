@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate confirms Chris Inglis as Biden's top cyber adviser<a href="https://www.politico.com/news/2021/06/17/senate-confirms-chris-inglis-cyber-495075?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Inglis’ new White House office was one of several policy reforms recommended by the congressional chartered Cyberspace Solarium Commission and incorporated into the fiscal 2021 defense policy bill.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
