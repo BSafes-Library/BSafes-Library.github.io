@@ -34,6 +34,294 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google force installs Massachusetts MassNotify Android COVID app<a href="https://www.bleepingcomputer.com/news/security/google-force-installs-massachusetts-massnotify-android-covid-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is force-installing a Massachusetts COVID-19 tracking app on residents' Android devices without an easy way to uninstall it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate confirms Chris Inglis as Biden's top cyber adviser<a href="https://www.politico.com/news/2021/06/17/senate-confirms-chris-inglis-cyber-495075?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Inglis’ new White House office was one of several policy reforms recommended by the congressional chartered Cyberspace Solarium Commission and incorporated into the fiscal 2021 defense policy bill.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT group Kimsuky allegedly hacked South Korea’s atomic research agency KAERI<a href="https://securityaffairs.co/wordpress/119147/apt/kimsuky-apt-hacked-south-korea-kaeri.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group Kimsuky allegedly breached South Korea’s atomic research agency KAERI by exploiting a VPN vulnerability.
+
+
+
+South Korean representatives declared on Friday that North Korea-linked APT group Kimsuky is believed to have breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea's Nuclear Research agency hacked using VPN flaw<a href="https://www.bleepingcomputer.com/news/security/south-koreas-nuclear-research-agency-hacked-using-vpn-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea's 'Korea Atomic Energy Research Institute' disclosed yesterday that their internal networks were hacked last month by North Korean threat actors using a VPN vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Agency’s Computers Hold Secrets. Hackers Got In With One Password.<a href="https://www.nytimes.com/2021/06/18/nyregion/nyc-law-department-hack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York City’s Law Department holds some of the city’s most closely guarded secrets. But all it took for a hacker to infiltrate the 1,000-lawyer agency’s network early this month was one worker’s pilfered email password
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedFoxtrot operations linked to China’s PLA Unit 69010 due to bad opsec<a href="https://securityaffairs.co/wordpress/119135/apt/redfoxtrot-operations-linked-to-chinas-pla-unit-69010-due-to-bad-opsec.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts attribute a series of cyber-espionage campaigns dating back to 2014, and focused on gathering military intelligence, to China-linked Unit 69010.
+
+
+
+Experts from Recorded Future’s Insikt Group linked a series of attacks, part of RedFoxtrot China-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhone bug breaks WiFi when you join hotspot with unusual name<a href="https://www.bleepingcomputer.com/news/security/iphone-bug-breaks-wifi-when-you-join-hotspot-with-unusual-name/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new iPhone bug has come to light that breaks your iPhone's wireless functionality by merely connecting to a certain WiFi hotspot.. Once triggered, the bug would render your iPhone unable to establish a WiFi connection, even if it is rebooted or the WiFi hotspot is renamed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Matanbuchus Loader: A New Malware-as-a-Service<a href="https://cyware.com/news/matanbuchus-loader-a-new-malware-as-a-service-50c4e16f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified a threat actor targeting multiple organizations including large universities and high schools in the U.S., along with high-tech organizations in Belgium.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Gang: An Overview<a href="https://unit42.paloaltonetworks.com/conti-ransomware-gang/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware group has spent more than a year attacking organizations where IT outages can have life-threatening consequences such as hospitals, 911 dispatch carriers, emergency medical services, and law enforcement agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attack on Polish officials came from Russia, Kaczynski says<a href="https://www.reuters.com/world/europe/cyber-attack-polish-officials-came-russia-kaczynski-says-2021-06-18/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top Polish government officials have been hit by a far-reaching cyber attack conducted from Russian territory, Poland's de facto leader Jaroslaw Kaczynski said on Friday in his first official statement on an email hacking incident this month.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vigilante malware stops victims from visiting piracy websites<a href="https://securityaffairs.co/wordpress/119123/malware/vigilante-malware-piracy-websites.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos researchers uncovered a malware campaign that aims at blocking infected users’ from visiting a large number of websites dedicated to software piracy by modifying the HOSTS file on the infected system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found multiple flaws in Cisco Small Business 220 series<a href="https://securityaffairs.co/wordpress/119108/security/cisco-small-business-220-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities impact devices running firmware versions prior 1.2.0.6 and which have the web-based management interface enabled. The expert pointed out that the interface is enabled by default.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A deep dive into the operations of the LockBit ransomware group<a href="https://www.zdnet.com/article/a-deep-dive-into-the-operations-of-the-lockbit-ransomware-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forensic investigations of machines attacked by LockBit affiliates show that threat groups will often first try to identify "mission-critical" systems including NAS devices, backup servers, and domain controllers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Exploited VPN Flaw to Hack South's Nuclear Research Institute<a href="https://thehackernews.com/2021/06/north-korea-exploited-vpn-flaw-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea's state-run Korea Atomic Energy Research Institute (KAERI) on Friday disclosed that its internal network was infiltrated by suspected attackers operating out of its northern counterpart.  The intrusion is said to have taken place on May 14 through a vulnerability in an unnamed virtual private network (VPN) vendor and involved a  total of 13 IP addresses , one of which — "27.102.114[.]89" — has been previously linked to a state-sponsored threat actor dubbed  Kimsuky .   KAERI, established in 1959 and situated in the city of Daejeon, is a government-funded research institute that designs and develops nuclear technologies related to reactors, fuel rods, radiation fusion, and nuclear safety.  Following the intrusion, the think tank said it took steps to block the attacker's IP addresses in question and applied necessary security patches to the vulnerable VPN solution. "Currently, the Atomic Energy Research Institute is investigating the subject of the ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber espionage by Chinese hackers in neighbouring nations is on the rise<a href="https://thehackernews.com/2021/06/cyber-espionage-by-chinese-hackers-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A string of cyber espionage campaigns dating all the way back to 2014 and focused on gathering military intelligence from neighbouring countries have been linked to a Chinese military-intelligence apparatus.  In a wide-ranging report published by Massachusetts-headquartered Recorded Future this week, the cybersecurity firm's Insikt Group said it identified ties between a group it tracks as " RedFoxtrot " to the People's Liberation Army (PLA) Unit 69010 operating out of Ürümqi, the capital of the Xinjiang Uyghur Autonomous Region in the country.   Previously called the Lanzhou Military Region's Second Technical Reconnaissance Bureau, Unit 69010 is a military cover for a Technical Reconnaissance Bureau (TRB) within China's Strategic Support Force (SSF) Network Systems Department ( NSD ).   The connection to PLA Unit 69010 stems from what the researchers said were "lax operational security measures" adopted by an unnamed suspected RedFoxtrot threat act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vigilante malware stops victims from visiting piracy websites<a href="https://securityaffairs.co/wordpress/119123/malware/vigilante-malware-piracy-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This strange malware stops you from visiting pirate websites
+
+
+
+Sophos researchers uncovered a malware campaign that aims at blocking infected users' from being able to visit a large number of piracy websites. 
+
+
+
+Sophos researchers uncovered a malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 18th 2021 - Law enforcement strikes back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-18th-2021-law-enforcement-strikes-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compared to the last few weeks, it has been a relatively quiet week with no ransomware attacks causing widespread disruption.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
