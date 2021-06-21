@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ADATA suffers 700 GB data leak in Ragnar Locker ransomware attack<a href="https://www.bleepingcomputer.com/news/security/adata-suffers-700-gb-data-leak-in-ragnar-locker-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang have published download links for more than 700GB of archived data stolen from Taiwanese memory and storage chip maker ADATA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Info-sharing pact will help electric companies comply with DOE’s 100-day plan<a href="https://www.scmagazine.com/featured/info-sharing-pact-will-help-electric-companies-comply-with-does-100-day-plan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-ISAC’s members will benefit from the analysis of pooled threat data, says CEO Manny Cancel.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data leak marketplace pressures victims by emailing competitors<a href="https://www.bleepingcomputer.com/news/security/data-leak-marketplace-pressures-victims-by-emailing-competitors/"> Full Text</a>
 </p>
 <details>
