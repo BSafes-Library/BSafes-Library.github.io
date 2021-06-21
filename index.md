@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/equilibrium-sustainability/559478-manchin-led-committee-puts-forth-sprawling-energy-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Senate committee that’s led by key swing vote Sen. Joe Manchin (D-W.Va.) has released a 400-page energy infrastructure proposal that it will weigh later this week. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ragnar Locker ransomware leaked data stolen from ADATA chipmaker<a href="https://securityaffairs.co/wordpress/119196/cyber-crime/ragnar-locker-ransomware-adata.html"> Full Text</a>
 </p>
 <details>
