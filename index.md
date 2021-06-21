@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2021
+June 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fertility clinic discloses data breach exposing patient info<a href="https://www.bleepingcomputer.com/news/security/fertility-clinic-discloses-data-breach-exposing-patient-info/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2021
+June 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A specific network name can completely disable Wi-Fi on your iPhone<a href="https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ A security researcher has found that a carefully crafted network name causes a b
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2021
+June 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland: The leader of the PiS party blames Russia for the recent attack<a href="https://securityaffairs.co/wordpress/119169/intelligence/poland-blames-russia-cyberattack.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2021
+June 20, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway blames China-linked APT31 for 2018 government hack<a href="https://securityaffairs.co/wordpress/119161/apt/norway-blames-china-apt31.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2021
+June 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This bug can permanently break iPhone WiFi connectivity<a href="https://securityaffairs.co/wordpress/119157/hacking/iphone-bug-wifi-connectivity.html"> Full Text</a>
@@ -126,7 +126,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2021
+June 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 319<a href="https://securityaffairs.co/wordpress/119154/breaking-news/security-affairs-newsletter-round-319.html"> Full Text</a>

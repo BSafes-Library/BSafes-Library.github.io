@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+June 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google force installs Massachusetts MassNotify Android COVID app<a href="https://www.bleepingcomputer.com/news/security/google-force-installs-massachusetts-massnotify-android-covid-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is&nbsp;force-installing a Massachusetts COVID-19 tracking app on residents' Android devices without an easy way to uninstall it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

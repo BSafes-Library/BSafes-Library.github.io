@@ -34,6 +34,122 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fertility clinic discloses data breach exposing patient info<a href="https://www.bleepingcomputer.com/news/security/fertility-clinic-discloses-data-breach-exposing-patient-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Georgia-based fertility clinic has disclosed a data breach after files containing sensitive patient information were stolen during a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A specific network name can completely disable Wi-Fi on your iPhone<a href="https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has found that a carefully crafted network name causes a bug in the networking stack of iOS and can completely disable your iPhone’s ability to connect to Wi-Fi.
+</details>
+<div style="text-align: right" markdown="1">
+9to5 Mac
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland: The leader of the PiS party blames Russia for the recent attack<a href="https://securityaffairs.co/wordpress/119169/intelligence/poland-blames-russia-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jaroslaw Kaczynski, the leader of the Poland Law and Justice party, blames Russia for the recent cyberattack targeting top Polish politicians.
+
+
+
+Jaroslaw Kaczynski, the leader of the Poland Law and Justice party (PiS), blames Russia for the recent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway blames China-linked APT31 for 2018 government hack<a href="https://securityaffairs.co/wordpress/119161/apt/norway-blames-china-apt31.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway police secret service states said that China-linked APT31 group was behind the 2018 cyberattack on the government’s IT network.
+
+
+
+Norway’s Police Security Service (PST) said that the China-linked APT31 cyberespionage group was behind the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This bug can permanently break iPhone WiFi connectivity<a href="https://securityaffairs.co/wordpress/119157/hacking/iphone-bug-wifi-connectivity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new bug in iPhone can permanently break users' WiFi by disabling it, the issue could be triggered by simply connecting to a rogue hotspot.
+
+
+
+The researcher Carl Schou discovered a new bug in iPhone that can permanently break users' WiFi by disabling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 319<a href="https://securityaffairs.co/wordpress/119154/breaking-news/security-affairs-newsletter-round-319.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+APWG: Phishing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 19, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A specific network name can completely disable Wi-Fi on your iPhone<a href="https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has found that a carefully crafted network name causes a bug in the networking stack of iOS and can completely disable your iPhone’s ability to connect to Wi-Fi.
+</details>
+<div style="text-align: right" markdown="1">
+9to5 Mac
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This bug can permanently break iPhone WiFi connectivity<a href="https://securityaffairs.co/wordpress/119157/hacking/iphone-bug-wifi-connectivity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new bug in iPhone can permanently break users' WiFi by disabling it, the issue could be triggered by simply connecting to a rogue hotspot.
+
+
+
+The researcher Carl Schou discovered a new bug in iPhone that can permanently break users' WiFi by disabling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

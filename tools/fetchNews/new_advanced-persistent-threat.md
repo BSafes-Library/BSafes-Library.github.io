@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway blames China-linked APT31 for 2018 government hack<a href="https://securityaffairs.co/wordpress/119161/apt/norway-blames-china-apt31.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway police secret service states said that China-linked APT31 group was behind the 2018 cyberattack on the government’s IT network.
+
+
+
+Norway’s Police Security Service (PST) said that the China-linked APT31 cyberespionage group was behind the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

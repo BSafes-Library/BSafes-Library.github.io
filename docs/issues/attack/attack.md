@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+June 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland: The leader of the PiS party blames Russia for the recent attack<a href="https://securityaffairs.co/wordpress/119169/intelligence/poland-blames-russia-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jaroslaw Kaczynski, the leader of the Poland&nbsp;Law and Justice&nbsp;party, blames Russia for the recent cyberattack targeting top Polish politicians.
+
+
+
+Jaroslaw Kaczynski, the leader of the Poland&nbsp;Law and Justice&nbsp;party (PiS), blames Russia for the recent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

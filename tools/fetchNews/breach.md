@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea's Nuclear Research agency hacked using VPN flaw<a href="https://www.bleepingcomputer.com/news/security/south-koreas-nuclear-research-agency-hacked-using-vpn-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea's 'Korea Atomic Energy Research Institute' disclosed yesterday that their internal networks were hacked&nbsp;last month by North Korean threat actors using a VPN vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Agency’s Computers Hold Secrets. Hackers Got In With One Password.<a href="https://www.nytimes.com/2021/06/18/nyregion/nyc-law-department-hack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York City’s Law Department holds some of the city’s most closely guarded secrets. But all it took for a hacker to infiltrate the 1,000-lawyer agency’s network early this month was one worker’s pilfered email password
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
