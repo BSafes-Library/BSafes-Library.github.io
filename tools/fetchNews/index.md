@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Sub-group Evolves to Target South Korea<a href="https://cyware.com/news/lazarus-sub-group-evolves-to-target-south-korea-6e725103"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This year in April, a suspicious Word document was spotted that had a Korean file name and decoy. On analysis, researchers found a unique infection pattern and an unknown payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of medical images, patient data remain exposed via PACS flaws<a href="https://www.scmagazine.com/featured/millions-of-medical-images-patient-data-remain-exposed-via-pacs-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. health systems have failed to take action, two years after a report exposed potential privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Finger Scanning Costs Six Flags $36m<a href="https://www.infosecurity-magazine.com:443/news/finger-scanning-costs-six-flags-36m/"> Full Text</a>
 </p>
 <details>
