@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OnlyFans, Twitter ban users for leaking politician's BDSM video<a href="https://www.bleepingcomputer.com/news/security/onlyfans-twitter-ban-users-for-leaking-politicians-bdsm-video/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Twitter and OnlyFans have banned user accounts that illicitly leaked a BSDM video featuring a New York City city council candidate. As reported by Motherboard, the video of 26-year old Zack Weiner began circulating on Twitter and OnlyFans via accounts with identical usernames and profile pictures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Embryology Data Breach Follows Fertility Clinic Ransomware Hit<a href="https://threatpost.com/embryology-data-breach-fertility-clinic-ransomware/167087/"> Full Text</a>
 </p>
 <details>
