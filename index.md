@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Water Sector Security Report Released Just as Another Water Plant Hack Comes to Light<a href="https://www.securityweek.com/water-sector-security-report-released-just-another-water-plant-hack-comes-light?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization in April surveyed 606 individuals working at water and wastewater utilities in the U.S. to get a better understanding of the sector in terms of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors in January attempted to poison the water at a US facility<a href="https://securityaffairs.co/wordpress/119187/hacking/us-facility-water-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors in January attempted to poison the water at a US facility, a circumstance that highlights the importance of cybersecurity for water and wastewater utilities.
+
+
+
+The news that a threat actor in January attempted to poison the water at a facility...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats Hackers Actively Targeting Middle East Governments<a href="https://cyware.com/news/molerats-hackers-actively-targeting-middle-east-governments-ec4c1cd2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint discovered that the MoleRATs hacking group, which has become active again after a two-month break, is infiltrating government networks in the Middle East. The group has constantly been targeting entities working with the government or other geopolitical entities in the region.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Agent Tesla RAT Returns in COVID-19 Vax Phish<a href="https://threatpost.com/agent-tesla-covid-vax-phish/167082/"> Full Text</a>
 </p>
 <details>
