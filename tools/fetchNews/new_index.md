@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Inside a ransomware attack: how dark webs of cybercriminals collaborate to pull one off<a href="https://ciso.economictimes.indiatimes.com/news/inside-a-ransomware-attack-how-dark-webs-of-cybercriminals-collaborate-to-pull-one-off/83705716?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only is a ransomware attack a blended crime, including different offenses across different bodies of law, but also a crime that straddles the remit of different policing agencies and countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researcher Finds Several Vulnerabilities in Cisco Small Business Switches<a href="https://www.securityweek.com/researcher-finds-several-vulnerabilities-cisco-small-business-switches?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Critical Steps to Recovering From a Ransomware Attack<a href="https://thehackernews.com/2021/06/5-critical-steps-to-recovering-from.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Parliamentary Staffers Lost 96 Devices in Past Two Years<a href="https://www.infosecurity-magazine.com:443/news/parliament-staffers-devices-two/"> Full Text</a>
@@ -82,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA releases guidance for securing Unified Communications and VVoIP<a href="https://securityaffairs.co/wordpress/119180/hacking/nsa-unified-communications-vvoip.html"> Full Text</a>
@@ -102,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lies my vendor told me: sorting through the deceptions and misconceptions in SIEM<a href="https://www.scmagazine.com/security-information-management/lies-my-vendor-told-me-sorting-through-the-deceptions-and-misconceptions-in-siem/"> Full Text</a>
@@ -118,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A security bug in Google’s Android app put users’ data at risk<a href="https://techcrunch.com/2021/06/17/a-security-bug-in-googles-android-app-installed-on-billions-of-devices-put-user-data-at-risk/?&web_view=true"> Full Text</a>
@@ -134,7 +150,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DroidMorph Shows Popular Android Antivirus Fail to Detect Cloned Malicious Apps<a href="https://thehackernews.com/2021/06/droidmorph-shows-popular-android.html"> Full Text</a>
@@ -150,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon Prime Day - Beware of Phishing Deluge, Experts Warn<a href="https://www.infosecurity-magazine.com:443/news/amazon-prime-day-phishing-deluge/"> Full Text</a>
@@ -166,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Actors Evolved Operations in 2020<a href="https://www.crowdstrike.com/blog/ransomware-actors-evolved-operations-in-2020/?&web_view=true"> Full Text</a>
@@ -182,7 +198,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware! Connecting to This Wireless Network Can Break Your iPhone's Wi-Fi Feature<a href="https://thehackernews.com/2021/06/beware-connecting-to-this-wireless.html"> Full Text</a>
@@ -198,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 30,000 Fertility Clinic Patients Hit by Ransomware Data Breach<a href="https://www.infosecurity-magazine.com:443/news/30000-fertility-clinic-patients/"> Full Text</a>
@@ -214,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Cyberattack on Poland Came from Russian Territory: Kaczynski<a href="https://www.securityweek.com/major-cyberattack-poland-came-russian-territory-kaczynski?&web_view=true"> Full Text</a>
@@ -230,7 +246,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nuclear Research Institute Breached by Suspected North Korean Hackers<a href="https://www.infosecurity-magazine.com:443/news/nuclear-research-institute/"> Full Text</a>
@@ -246,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in Open Design Alliance SDK Impact Siemens, Other Vendors<a href="https://www.securityweek.com/vulnerabilities-open-design-alliance-sdk-impact-siemens-other-vendors?&web_view=true"> Full Text</a>
@@ -262,7 +278,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway blames China-linked APT31 for 2018 government hack<a href="https://securityaffairs.co/wordpress/119161/apt/norway-blames-china-apt31.html?&web_view=true"> Full Text</a>
@@ -278,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea’s Nuclear Research Agency Breached by North Korea-affiliated Cyberattackers<a href="https://www.theregister.com/2021/06/21/south_koreas_nuclear_think_tank/?&web_view=true"> Full Text</a>
@@ -294,7 +310,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MI5 seized Boris Johnson’s phone over security risk fears<a href="https://securityaffairs.co/wordpress/119174/security/mi5-seized-boris-johnson-phone.html?&web_view=true"> Full Text</a>
@@ -310,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA releases guidance for securing Unified Communications and VVoIP<a href="https://securityaffairs.co/wordpress/119180/hacking/nsa-unified-communications-vvoip.html?&web_view=true"> Full Text</a>
@@ -326,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MI5 seized Boris Johnson’s phone over security risk fears<a href="https://securityaffairs.co/wordpress/119174/security/mi5-seized-boris-johnson-phone.html"> Full Text</a>
