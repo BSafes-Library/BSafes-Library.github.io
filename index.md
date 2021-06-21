@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser fixes vulnerability that tracks you using installed apps<a href="https://www.bleepingcomputer.com/news/security/tor-browser-fixes-vulnerability-that-tracks-you-using-installed-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.0.18 to fix numerous bugs, including a vulnerability that allows sites to track users by fingerprinting the applications installed on their devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/equilibrium-sustainability/559478-manchin-led-committee-puts-forth-sprawling-energy-infrastructure"> Full Text</a>
 </p>
 <details>
