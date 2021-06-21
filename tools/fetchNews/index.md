@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+California Cops Launch ALPR Transparency Portal<a href="https://www.infosecurity-magazine.com:443/news/california-cops-launch-alpr/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Piedmont police share data on Automated License Plate Recognition technology use
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ohio Medicaid Provider Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/ohio-medicaid-provider-suffers/"> Full Text</a>
 </p>
 <details>
