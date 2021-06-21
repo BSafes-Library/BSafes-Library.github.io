@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Evolving Ransomware Strategies to be Wary of<a href="https://cyware.com/news/evolving-ransomware-strategies-to-be-wary-of-2aa213f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware campaigns are now rarely being propagated via emails due to improved detection capabilities. The shift to downloaders as the first-stage payload offers ransomware operators better flexibility and choice.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber agency says SolarWinds hack could have been deterred by simple security measures<a href="https://thehill.com//policy/cybersecurity/559426-cyber-agency-says-solarwinds-hack-could-have-been-deterred-by-simple"> Full Text</a>
 </p>
 <details>

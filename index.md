@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Finger Scanning Costs Six Flags $36m<a href="https://www.infosecurity-magazine.com:443/news/finger-scanning-costs-six-flags-36m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American amusement park agrees to $36m settlement over use of finger-scan entry gates
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Evolving Ransomware Strategies to be Wary of<a href="https://cyware.com/news/evolving-ransomware-strategies-to-be-wary-of-2aa213f8"> Full Text</a>
 </p>
 <details>
