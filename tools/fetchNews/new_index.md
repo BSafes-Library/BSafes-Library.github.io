@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla RAT Returns in COVID-19 Vax Phish<a href="https://threatpost.com/agent-tesla-covid-vax-phish/167082/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unsophisticated campaign shows that the pandemic still has long legs when it comes to being social-engineering bait.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CyberSmart secures $10m Series A funding round<a href="https://www.businessleader.co.uk/cybersmart-secures-10m-series-a-funding-round/122885/?&web_view=true"> Full Text</a>
 </p>
 <details>
