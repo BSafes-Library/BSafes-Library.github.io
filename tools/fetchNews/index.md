@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybecriminals Claim to Plant Backdoor and Steal Data From NATO's Cloud Platform<a href="https://news.softpedia.com/news/nato-s-cloud-platform-has-been-hacked-533282.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals claim that they managed to make copies of the data on the SOA & IdM platform used by NATO by planting a malware backdoor and that they tried to blackmail Everis.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ADATA suffers 700 GB data leak in Ragnar Locker ransomware attack<a href="https://www.bleepingcomputer.com/news/security/adata-suffers-700-gb-data-leak-in-ragnar-locker-ransomware-attack/"> Full Text</a>
 </p>
 <details>
