@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Embryology Data Breach Follows Fertility Clinic Ransomware Hit<a href="https://threatpost.com/embryology-data-breach-fertility-clinic-ransomware/167087/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 38,000 of RBA’s customers had their embryology data stolen by a ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OnlyFans, Twitter bans users for leaking politician's BDSM video<a href="https://www.bleepingcomputer.com/news/security/onlyfans-twitter-bans-users-for-leaking-politicians-bdsm-video/"> Full Text</a>
 </p>
 <details>
