@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker ransomware leaked data stolen from ADATA chipmaker<a href="https://securityaffairs.co/wordpress/119196/cyber-crime/ragnar-locker-ransomware-adata.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Taiwanese memory and storage chip maker ADATA was hit by the Ragnar Locker ransomware gang that also published more than 700GB of stolen data.
+
+
+
+The Ragnar Locker ransomware gang has published on its leak sites more than 700GB of data stolen from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OnlyFans, Twitter ban users for leaking politician's BDSM video<a href="https://www.bleepingcomputer.com/news/security/onlyfans-twitter-ban-users-for-leaking-politicians-bdsm-video/"> Full Text</a>
 </p>
 <details>
