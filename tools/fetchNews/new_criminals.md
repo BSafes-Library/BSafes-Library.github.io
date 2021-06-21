@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Actors Evolved Operations in 2020<a href="https://www.crowdstrike.com/blog/ransomware-actors-evolved-operations-in-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last several years, cybercrime adversaries that engage in big game hunting ransomware attacks have advanced rapidly in terms of their capabilities and sophistication.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

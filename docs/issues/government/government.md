@@ -8,6 +8,70 @@ nav_order: 900075
 
 ## Government
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA releases guidance for securing Unified Communications and VVoIP<a href="https://securityaffairs.co/wordpress/119180/hacking/nsa-unified-communications-vvoip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US National Security Agency (NSA) released guidance for securing Unified Communications/Voice and Video over IP Systems (VVoIP).
+
+
+
+NSA last week released guidance for securing their communication systems, specifically Unified Communications (UC)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MI5 seized Boris Johnson’s phone over security risk fears<a href="https://securityaffairs.co/wordpress/119174/security/mi5-seized-boris-johnson-phone.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British Security Service, also known as MI5, has seized the mobile devices used by PM Boris Johnson over concerns that were raised after the discovery of the availability of its number online for the last 15 years.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA releases guidance for securing Unified Communications and VVoIP<a href="https://securityaffairs.co/wordpress/119180/hacking/nsa-unified-communications-vvoip.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UC and VVOIP platforms are widely used in government agencies and by organizations in the supply chain of several government offices. For this reason, the agency wants to support them in securing their infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MI5 seized Boris Johnson’s phone over security risk fears<a href="https://securityaffairs.co/wordpress/119174/security/mi5-seized-boris-johnson-phone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British intelligence agency MI5 seized Boris Johnson 's phone over concerns related to the availability of his number online for the last 15 years.
+
+
+
+The&nbsp;British Security Service, also known as&nbsp;MI5, has seized the mobile devices used by PM Boris...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

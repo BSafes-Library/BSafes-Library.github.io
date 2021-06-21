@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Prime Day - Beware of Phishing Deluge, Experts Warn<a href="https://www.infosecurity-magazine.com:443/news/amazon-prime-day-phishing-deluge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shoppers urged not to click on links in unsolicited emails and texts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
