@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerability in Wire Messaging App Allowed Attackers to Fully Control User Accounts<a href="https://portswigger.net/daily-swig/xss-flaw-in-wire-messaging-app-allowed-attackers-to-fully-control-user-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Wire secure messaging app have patched the software against two security vulnerabilities, one of which could have allowed an attacker to “fully control” user accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Inside a ransomware attack: how dark webs of cybercriminals collaborate to pull one off<a href="https://ciso.economictimes.indiatimes.com/news/inside-a-ransomware-attack-how-dark-webs-of-cybercriminals-collaborate-to-pull-one-off/83705716?&web_view=true"> Full Text</a>
 </p>
 <details>

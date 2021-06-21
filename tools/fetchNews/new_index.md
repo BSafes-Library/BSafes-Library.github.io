@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Data leak marketplace pressures victims by emailing competitors<a href="https://www.bleepingcomputer.com/news/security/data-leak-marketplace-pressures-victims-by-emailing-competitors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Marketo data theft marketplace is applying maximum pressure on victims by emailing their competitors and offering sample packs of the stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sload Targeting Europe Again<a href="https://blog.minerva-labs.com/sload-targeting-europe-again?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sload (aka Starslord loader) is one of the most dangerous types of malware in recent years. It usually functions as a downloader with an aim to assess the target and drop a more significant payload.
+</details>
+<div style="text-align: right" markdown="1">
+Minerva Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Security Vulnerability in Wire Messaging App Allowed Attackers to Fully Control User Accounts<a href="https://portswigger.net/daily-swig/xss-flaw-in-wire-messaging-app-allowed-attackers-to-fully-control-user-accounts?&web_view=true"> Full Text</a>
 </p>
 <details>
