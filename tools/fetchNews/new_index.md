@@ -37,6 +37,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researcher Finds Several Vulnerabilities in Cisco Small Business Switches<a href="https://www.securityweek.com/researcher-finds-several-vulnerabilities-cisco-small-business-switches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has identified several vulnerabilities in Cisco’s Small Business 220 series smart switches. The company this week informed customers about the availability of patches for these flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Critical Steps to Recovering From a Ransomware Attack<a href="https://thehackernews.com/2021/06/5-critical-steps-to-recovering-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are increasingly using ransomware as an effective tool to disrupt businesses and fund malicious activities.  A recent analysis by cybersecurity company Group-IB revealed  ransomware attacks doubled in 2020 , while Cybersecurity Venture predicts that a  ransomware attack will occur every 11 seconds  in 2021.  Businesses must prepare for the possibility of a ransomware attack affecting their data, services, and business continuity. What steps are involved in recovering from a ransomware attack?   Isolate and shutdown critical systems  Enact your business continuity plan  Report the cyberattack  Restore from backup  Remediate, patch, and monitor   Isolate and shutdown critical systems  The first important step is to isolate and shut down business-critical systems. There is a chance the ransomware has not affected all accessible data and systems. Shutting down and isolating both infected systems and healthy systems helps contain malicious code.  From the first evidence of ransomwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Parliamentary Staffers Lost 96 Devices in Past Two Years<a href="https://www.infosecurity-magazine.com:443/news/parliament-staffers-devices-two/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fears have been raised that sensitive public data has fallen into the hands of cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA releases guidance for securing Unified Communications and VVoIP<a href="https://securityaffairs.co/wordpress/119180/hacking/nsa-unified-communications-vvoip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US National Security Agency (NSA) released guidance for securing Unified Communications/Voice and Video over IP Systems (VVoIP).
+
+
+
+NSA last week released guidance for securing their communication systems, specifically Unified Communications (UC)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lies my vendor told me: sorting through the deceptions and misconceptions in SIEM<a href="https://www.scmagazine.com/security-information-management/lies-my-vendor-told-me-sorting-through-the-deceptions-and-misconceptions-in-siem/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Says Forrester’s Allie Mellen, “it’s fun to say that SIEMs are bad; everybody laughs.” But it actually plays a  pivotal role.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A security bug in Google’s Android app put users’ data at risk<a href="https://techcrunch.com/2021/06/17/a-security-bug-in-googles-android-app-installed-on-billions-of-devices-put-user-data-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Android app, which has more than five billion installs to date, had a vulnerability that could have allowed an attacker to quietly steal personal data from a victim’s device.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DroidMorph Shows Popular Android Antivirus Fail to Detect Cloned Malicious Apps<a href="https://thehackernews.com/2021/06/droidmorph-shows-popular-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research published by a group of academics has found that anti-virus programs for Android continue to remain vulnerable against different permutations of malware, in what could pose a serious risk as malicious actors evolve their toolsets to better evade analysis.  "Malware writers use stealthy mutations (morphing/obfuscations) to continuously develop malware clones, thwarting detection by signature based detectors," the researchers  said . "This attack of clones seriously threatens all the mobile platforms, especially Android."   The findings were published in a study last week by researchers from Adana Science and Technology University, Turkey, and the National University of Science and Technology, Islamabad, Pakistan.  Unlike iOS, apps can be downloaded from third-party sources on Android devices, raising the possibility that unwitting users can install unverified and lookalike apps that clone a legitimate app's functionality but are built to trick tar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Prime Day - Beware of Phishing Deluge, Experts Warn<a href="https://www.infosecurity-magazine.com:443/news/amazon-prime-day-phishing-deluge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shoppers urged not to click on links in unsolicited emails and texts
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Actors Evolved Operations in 2020<a href="https://www.crowdstrike.com/blog/ransomware-actors-evolved-operations-in-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last several years, cybercrime adversaries that engage in big game hunting ransomware attacks have advanced rapidly in terms of their capabilities and sophistication.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! Connecting to This Wireless Network Can Break Your iPhone's Wi-Fi Feature<a href="https://thehackernews.com/2021/06/beware-connecting-to-this-wireless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wireless network naming bug has been discovered in Apple's iOS operating system that effectively disables an iPhone's ability to connect to a Wi-Fi network.  The issue was spotted by security researcher  Carl Schou , who found that the phone's Wi-Fi functionality gets permanently disabled after joining a Wi-Fi network with the unusual name " %p%s%s%s%s%n " even after rebooting the phone or changing the network's name (i.e., service set identifier or SSID).   The bug could have serious implications in that bad actors could exploit the issue to plant fraudulent Wi-Fi hotspots with the name in question to break the device's wireless networking features.  After joining my personal WiFi with the SSID "%p%s%s%s%s%n", my iPhone permanently disabled it's WiFi functionality. Neither rebooting nor changing SSID fixes it :~) pic.twitter.com/2eue90JFu3 — Carl Schou (@vm_call) June 18, 2021   The issue stems from a  string formatting  bug in the manner iOS parses th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30,000 Fertility Clinic Patients Hit by Ransomware Data Breach<a href="https://www.infosecurity-magazine.com:443/news/30000-fertility-clinic-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlanta-based Reproductive Biology Associates claims data has been deleted
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Cyberattack on Poland Came from Russian Territory: Kaczynski<a href="https://www.securityweek.com/major-cyberattack-poland-came-russian-territory-kaczynski?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent "large scale" cyberattack targeting top Polish politicians was launched from Russia, Jaroslaw Kaczynski, the leader of Poland's governing right-wing party, said on Friday. ]
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuclear Research Institute Breached by Suspected North Korean Hackers<a href="https://www.infosecurity-magazine.com:443/news/nuclear-research-institute/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea’s KAERI investigating attack that exploited VPN bug
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Open Design Alliance SDK Impact Siemens, Other Vendors<a href="https://www.securityweek.com/vulnerabilities-open-design-alliance-sdk-impact-siemens-other-vendors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight security vulnerabilities discovered in the Drawings software development kit (SDK) made by Open Design Alliance (ODA) impact products from Siemens and likely other vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway blames China-linked APT31 for 2018 government hack<a href="https://securityaffairs.co/wordpress/119161/apt/norway-blames-china-apt31.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway’s Police Security Service (PST) said that the China-linked APT31 cyberespionage group was behind the attack that breached the government’s IT network back in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea’s Nuclear Research Agency Breached by North Korea-affiliated Cyberattackers<a href="https://www.theregister.com/2021/06/21/south_koreas_nuclear_think_tank/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean officials have admitted that the government nuclear think tank Korea Atomic Energy Research Institute was hacked in May 2021 by North Korea’s Kimsuky group. The Korean news outlet that broke the story has accused KAERI of a cover-up.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MI5 seized Boris Johnson’s phone over security risk fears<a href="https://securityaffairs.co/wordpress/119174/security/mi5-seized-boris-johnson-phone.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British Security Service, also known as MI5, has seized the mobile devices used by PM Boris Johnson over concerns that were raised after the discovery of the availability of its number online for the last 15 years.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA releases guidance for securing Unified Communications and VVoIP<a href="https://securityaffairs.co/wordpress/119180/hacking/nsa-unified-communications-vvoip.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UC and VVOIP platforms are widely used in government agencies and by organizations in the supply chain of several government offices. For this reason, the agency wants to support them in securing their infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 MI5 seized Boris Johnson’s phone over security risk fears<a href="https://securityaffairs.co/wordpress/119174/security/mi5-seized-boris-johnson-phone.html"> Full Text</a>
 </p>
 <details>
