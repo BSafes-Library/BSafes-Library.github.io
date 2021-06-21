@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber agency says SolarWinds hack could have been deterred by simple security measures<a href="https://thehill.com//policy/cybersecurity/559426-cyber-agency-says-solarwinds-hack-could-have-been-deterred-by-simple"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds hack, one of the largest cybersecurity incidents in U.S. history, may have been deterred or minimized if basic security measures had been put in place, a top government official acknowledged earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of medical images, patient data remain exposed via PACS flaws<a href="https://www.scmagazine.com/home/health-care/millions-of-medical-images-patient-data-remain-exposed-via-pacs-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. health systems have failed to take action, two years after a report exposed potential privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Water Sector Security Report Released Just as Another Water Plant Hack Comes to Light<a href="https://www.securityweek.com/water-sector-security-report-released-just-another-water-plant-hack-comes-light?&web_view=true"> Full Text</a>
 </p>
 <details>
