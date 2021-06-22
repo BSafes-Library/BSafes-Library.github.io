@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+50% of CISOs say the push for rapid growth and digital transformation stalls cloud security<a href="https://www.scmagazine.com/home/security-news/cloud-security/50-of-cisos-say-the-push-for-rapid-growth-and-digital-transformation-stalls-cloud-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital transformation often means decentralized purchasing of cloud-based applications, which results in a disparate landscape of best-of-breed software with less oversight from security and IT.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lawsuits filed against Scripps Health following ransomware attack, data theft<a href="https://www.scmagazine.com/home/health-care/lawsuits-filed-against-scripps-health-following-ransomware-attack-data-theft/"> Full Text</a>
 </p>
 <details>
