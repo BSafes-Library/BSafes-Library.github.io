@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Do you want speed or security as expected? Spectre CPU defenses can cripple performance on Linux in tests<a href="https://www.theregister.com/2021/06/22/spectre_linux_performance_test_analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mitigations applied to prevent Spectre vulnerability exploits from computers hinder performance enough that disabling protection for the sake of speed may be preferable for some.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A ransomware attack disrupted the IT network of the City of Liege<a href="https://securityaffairs.co/wordpress/119240/malware/city-of-liege-ransomware.html"> Full Text</a>
 </p>
 <details>
