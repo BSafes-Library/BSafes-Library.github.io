@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NukeSped Copies Fileless Code From Bundlore, Leaves It Unused<a href="https://www.trendmicro.com/en_us/research/21/f/nukesped-copies-fileless-code-from-bundlore--leaves-it-unused.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While investigating samples of NukeSped, a remote access trojan (RAT), Trend Micro came across several Bundlore adware samples using the same fileless routine that was spotted in NukeSped.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tool lets users supplement Mitre ATT&CK knowledge base with their own threat intel<a href="https://www.scmagazine.com/home/security-news/tool-lets-users-supplement-mitre-attck-knowledge-base-with-their-own-threat-intel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool ultimately enables companies to create their own customized repository of cyber threat information.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Transmit Security raises $543M Series A to kill off the password<a href="https://techcrunch.com/2021/06/22/transmit-security-raises-543m-series-a-to-kill-off-the-password/?&web_view=true"> Full Text</a>
 </p>
 <details>
