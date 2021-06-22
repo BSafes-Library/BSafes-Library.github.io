@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Wormable bash DarkRadiation Ransomware targets Linux distros and docker containers<a href="https://securityaffairs.co/wordpress/119256/uncategorized/wormable-bash-darkradiation-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkRadiation is a new strain of ransomware implemented in Bash that targets Linux and Docker cloud containers and leverages Telegram for C2.
+
+
+
+Trend Micro researchers spotted a new strain of ransomware, dubbed DarkRadiation, which is writted in Bash...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BEC Losses Top $1.8B as Tactics Evolve<a href="https://threatpost.com/bec-losses-top-18b/167148/"> Full Text</a>
 </p>
 <details>
