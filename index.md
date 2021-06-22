@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Supply-Chain Flaw Affects 'Pling Store' Platforms for Linux Users<a href="https://thehackernews.com/2021/06/unpatched-critical-flaw-affects-pling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a critical unpatched vulnerability affecting Pling-based free and open-source software (FOSS) marketplaces for Linux platform that could be potentially abused to stage supply chain attacks and achieve remote code execution (RCE).  "Linux marketplaces that are based on the Pling platform are vulnerable to a wormable [cross-site scripting] with potential for a supply chain attack," Positive Security co-founder Fabian Bräunlein  said  in a technical write-up published today. "The native PlingStore application is affected by an RCE vulnerability, which can be triggered from any website while the app is running."   The Pling-based app stores impacted by the flaw include —   appimagehub.com  store.kde.org  gnome-look.org  xfce-look.org  pling.com   PlingStore allows users to search and install Linux software, themes, icons, and other add-ons that may not be available for download through the distribution's software center.   T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Teens on Trial for Cyber-bullying<a href="https://www.infosecurity-magazine.com:443/news/french-teens-on-trial-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Landmark Parisian trial could mean prison for teens convicted of online abuse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominers Slither into Python Projects in Supply-Chain Campaign<a href="https://threatpost.com/cryptominers-python-supply-chain/167135/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These code bombs lurk in the PyPI package repository, waiting to be inadvertently baked into software developers’ applications.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Brave launches its privacy-focused no-tracking search engine<a href="https://www.bleepingcomputer.com/news/software/brave-launches-its-privacy-focused-no-tracking-search-engine/"> Full Text</a>
 </p>
 <details>

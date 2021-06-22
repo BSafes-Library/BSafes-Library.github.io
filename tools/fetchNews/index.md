@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brave launches its privacy-focused no-tracking search engine<a href="https://www.bleepingcomputer.com/news/software/brave-launches-its-privacy-focused-no-tracking-search-engine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Brave launched their non-tracking privacy-centric search engine to bring another alternative to finding the information you want on the web without giving up your data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SonicWall bug that affected 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-that-affected-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
 </p>
 <details>
