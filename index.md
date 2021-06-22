@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Command leads competition in effort to strengthen nation's cybersecurity<a href="https://thehill.com//policy/cybersecurity/559703-us-cyber-command-leads-competition-in-effort-to-strengthen-nations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber professionals from the U.S. and multiple other countries are in the midst of an annual competition led by U.S. Cyber Command meant to enhance the nation’s cybersecurity in wake of months of devastating attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Could better cyber hygiene have prevented the SolarWinds attack?<a href="https://www.scmagazine.com/home/security-news/could-better-cyber-hygiene-have-prevented-the-solarwinds-attack/"> Full Text</a>
 </p>
 <details>
