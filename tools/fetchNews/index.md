@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Municipality IT Network at Belgium’s Third-largest City Disrupted by Ransomware Attack<a href="https://therecord.media/city-of-liege-belgium-hit-by-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While officials only described the incident as a “computer attack,” two Belgian radio and TV stations reported that the cyberattack was the work of the Ryuk ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia St. Joseph’s/Candler health system shifts to downtime procedures amid ransomware attack<a href="https://www.scmagazine.com/home/security-news/ransomware/georgia-st-josephs-candler-health-system-shifts-to-downtime-procedures-amid-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The health system has remained open primarily thanks to previously established downtime procedures, for which the workforce received training prior the attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kids’ Apps on Google Play Rife with Privacy Violations<a href="https://threatpost.com/kids-apps-google-play-privacy-violations/167110/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five of the most-popular apps for kids under 13 on Google Play don’t comply with COPPA regulations on how children’s information is collected and used.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lexmark Printers Open to Arbitrary Code-Execution Zero-Day<a href="https://threatpost.com/lexmark-printers-code-execution-zero-day/167111/"> Full Text</a>
 </p>
 <details>
