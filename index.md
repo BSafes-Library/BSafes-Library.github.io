@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech industry pushes for delay in antitrust legislation | EU regulators investigating Google's digital ad business | YouTube wins EU court case over copyright violations<a href="https://thehill.com//policy/technology/overnights/559714-hillicon-valley-tech-industry-pushes-for-delay-in-antitrust"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developments across the pond took the spotlight Tuesday, with the European Commission announcing it had opened an antitrust investigation into Google’s ad business, and Europe’s top court ruled that platforms are not liable for certain copyright violations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Cyber Command leads competition in effort to strengthen nation's cybersecurity<a href="https://thehill.com//policy/cybersecurity/559703-us-cyber-command-leads-competition-in-effort-to-strengthen-nations"> Full Text</a>
 </p>
 <details>
