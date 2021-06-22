@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pondurance Acquires Bearing Cybersecurity to Help Customers Better Assess and Remediate Security Gaps<a href="https://finance.yahoo.com/news/pondurance-acquires-bearing-cybersecurity-help-120100338.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pondurance, a Managed Detection and Response (MDR) service provider, today announced the acquisition of Rockwall, Texas-based advisory and assessment services provider Bearing Cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NukeSped Copies Fileless Code From Bundlore, Leaves It Unused<a href="https://www.trendmicro.com/en_us/research/21/f/nukesped-copies-fileless-code-from-bundlore--leaves-it-unused.html?&web_view=true"> Full Text</a>
 </p>
 <details>
