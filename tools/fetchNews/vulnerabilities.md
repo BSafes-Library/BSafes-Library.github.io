@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Finds Several Vulnerabilities in Cisco Small Business Switches<a href="https://www.securityweek.com/researcher-finds-several-vulnerabilities-cisco-small-business-switches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has identified several vulnerabilities in Cisco’s Small Business 220 series smart switches. The company this week informed customers about the availability of patches for these flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A security bug in Google’s Android app put users’ data at risk<a href="https://techcrunch.com/2021/06/17/a-security-bug-in-googles-android-app-installed-on-billions-of-devices-put-user-data-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Android app, which has more than five billion installs to date, had a vulnerability that could have allowed an attacker to quietly steal personal data from a victim’s device.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DroidMorph Shows Popular Android Antivirus Fail to Detect Cloned Malicious Apps<a href="https://thehackernews.com/2021/06/droidmorph-shows-popular-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research published by a group of academics has found that anti-virus programs for Android continue to remain vulnerable against different permutations of malware, in what could pose a serious risk as malicious actors evolve their toolsets to better evade analysis.  "Malware writers use stealthy mutations (morphing/obfuscations) to continuously develop malware clones, thwarting detection by signature based detectors," the researchers&nbsp; said . "This attack of clones seriously threatens all the mobile platforms, especially Android."   The findings were published in a study last week by researchers from Adana Science and Technology University, Turkey, and the National University of Science and Technology, Islamabad, Pakistan.  Unlike iOS, apps can be downloaded from third-party sources on Android devices, raising the possibility that unwitting users can install unverified and lookalike apps that clone a legitimate app's functionality but are built to trick tar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Open Design Alliance SDK Impact Siemens, Other Vendors<a href="https://www.securityweek.com/vulnerabilities-open-design-alliance-sdk-impact-siemens-other-vendors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight security vulnerabilities discovered in the Drawings software development kit (SDK) made by Open Design Alliance (ODA) impact products from Siemens and likely other vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

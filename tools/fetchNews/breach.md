@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Parliamentary Staffers Lost 96 Devices in Past Two Years<a href="https://www.infosecurity-magazine.com:443/news/parliament-staffers-devices-two/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fears have been raised that sensitive public data has fallen into the hands of cyber-criminals
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30,000 Fertility Clinic Patients Hit by Ransomware Data Breach<a href="https://www.infosecurity-magazine.com:443/news/30000-fertility-clinic-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlanta-based Reproductive Biology Associates claims data has been deleted
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuclear Research Institute Breached by Suspected North Korean Hackers<a href="https://www.infosecurity-magazine.com:443/news/nuclear-research-institute/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea’s KAERI investigating attack that exploited VPN bug
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea’s Nuclear Research Agency Breached by North Korea-affiliated Cyberattackers<a href="https://www.theregister.com/2021/06/21/south_koreas_nuclear_think_tank/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean officials have admitted that the government nuclear think tank Korea Atomic Energy Research Institute was hacked in May 2021 by North Korea’s Kimsuky group. The Korean news outlet that broke the story has accused KAERI of a cover-up.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

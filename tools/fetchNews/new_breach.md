@@ -11,6 +11,136 @@ nav_order: 900029
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Wegmans Exposes Customer Data in Misconfigured Databases<a href="https://threatpost.com/wegmans-exposes-customer-data-misconfigured-databases/167099/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cleanup in aisle “Oops”: The supermarket chain said that it misconfigured two cloud databases, exposing customer data to public scrutiny. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker ransomware leaked data stolen from ADATA chipmaker<a href="https://securityaffairs.co/wordpress/119196/cyber-crime/ragnar-locker-ransomware-adata.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Taiwanese memory and storage chip maker ADATA was hit by the Ragnar Locker ransomware gang that also published more than 700GB of stolen data.
+
+
+
+The Ragnar Locker ransomware gang has published on its leak sites more than 700GB of data stolen from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnlyFans, Twitter ban users for leaking politician's BDSM video<a href="https://www.bleepingcomputer.com/news/security/onlyfans-twitter-ban-users-for-leaking-politicians-bdsm-video/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Twitter and OnlyFans have banned user accounts that illicitly leaked a BSDM video featuring a New York City city&nbsp;council candidate. As reported by&nbsp;Motherboard,&nbsp;the video of 26-year old&nbsp;Zack Weiner&nbsp;began&nbsp;circulating on Twitter and OnlyFans&nbsp;via accounts with identical usernames and profile pictures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Embryology Data Breach Follows Fertility Clinic Ransomware Hit<a href="https://threatpost.com/embryology-data-breach-fertility-clinic-ransomware/167087/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 38,000 of RBA’s customers had their embryology data stolen by a ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnlyFans, Twitter bans users for leaking politician's BDSM video<a href="https://www.bleepingcomputer.com/news/security/onlyfans-twitter-bans-users-for-leaking-politicians-bdsm-video/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Twitter and OnlyFans have banned user accounts that illicitly leaked a BSDM video featuring a New York City city&nbsp;council candidate. As reported by&nbsp;Motherboard,&nbsp;the video of 26-year old&nbsp;Zack Weiner&nbsp;began&nbsp;circulating on Twitter and OnlyFans&nbsp;via accounts with identical usernames and profile pictures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ohio Medicaid Provider Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/ohio-medicaid-provider-suffers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal data could have been stolen in unauthorized access incident at Maximus
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of medical images, patient data remain exposed via PACS flaws<a href="https://www.scmagazine.com/featured/millions-of-medical-images-patient-data-remain-exposed-via-pacs-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. health systems have failed to take action, two years after a report exposed potential privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of medical images, patient data remain exposed via PACS flaws<a href="https://www.scmagazine.com/home/health-care/millions-of-medical-images-patient-data-remain-exposed-via-pacs-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. health systems have failed to take action, two years after a report exposed potential privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ADATA suffers 700 GB data leak in Ragnar Locker ransomware attack<a href="https://www.bleepingcomputer.com/news/security/adata-suffers-700-gb-data-leak-in-ragnar-locker-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang have published download links for more than 700GB of archived data stolen from Taiwanese memory and storage chip maker ADATA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK Parliamentary Staffers Lost 96 Devices in Past Two Years<a href="https://www.infosecurity-magazine.com:443/news/parliament-staffers-devices-two/"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,48 @@ nav_order: 900220
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser fixes vulnerability that tracks you using installed apps<a href="https://www.bleepingcomputer.com/news/security/tor-browser-fixes-vulnerability-that-tracks-you-using-installed-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.0.18 to fix numerous bugs, including a vulnerability that allows sites to track users by fingerprinting the applications installed on their devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhone Wi-Fi Crushed by Weird Network<a href="https://threatpost.com/iphone-wi-fi-weird-network/167075/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+… until you reset network settings and stop connecting to a weirdly named network, that is. FUD is spreading. iOS Wi-Fi demolition is not. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerability in Wire Messaging App Allowed Attackers to Fully Control User Accounts<a href="https://portswigger.net/daily-swig/xss-flaw-in-wire-messaging-app-allowed-attackers-to-fully-control-user-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Wire secure messaging app have patched the software against two security vulnerabilities, one of which could have allowed an attacker to “fully control” user accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researcher Finds Several Vulnerabilities in Cisco Small Business Switches<a href="https://www.securityweek.com/researcher-finds-several-vulnerabilities-cisco-small-business-switches?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

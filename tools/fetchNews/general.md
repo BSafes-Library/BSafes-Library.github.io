@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Critical Steps to Recovering From a Ransomware Attack<a href="https://thehackernews.com/2021/06/5-critical-steps-to-recovering-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are increasingly using ransomware as an effective tool to disrupt businesses and fund malicious activities.  A recent analysis by cybersecurity company Group-IB revealed&nbsp; ransomware attacks doubled in 2020 , while Cybersecurity Venture predicts that a&nbsp; ransomware attack will occur every 11 seconds &nbsp;in 2021.  Businesses must prepare for the possibility of a ransomware attack affecting their data, services, and business continuity. What steps are involved in recovering from a ransomware attack?   Isolate and shutdown critical systems  Enact your business continuity plan  Report the cyberattack  Restore from backup  Remediate, patch, and monitor   Isolate and shutdown critical systems  The first important step is to isolate and shut down business-critical systems. There is a chance the ransomware has not affected all accessible data and systems. Shutting down and isolating both infected systems and healthy systems helps contain malicious code.  From the first evidence of ransomwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lies my vendor told me: sorting through the deceptions and misconceptions in SIEM<a href="https://www.scmagazine.com/security-information-management/lies-my-vendor-told-me-sorting-through-the-deceptions-and-misconceptions-in-siem/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Says Forrester’s Allie Mellen, “it’s fun to say that SIEMs are bad; everybody laughs.” But it actually plays a  pivotal role.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! Connecting to This Wireless Network Can Break Your iPhone's Wi-Fi Feature<a href="https://thehackernews.com/2021/06/beware-connecting-to-this-wireless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wireless network naming bug has been discovered in Apple's iOS operating system that effectively disables an iPhone's ability to connect to a Wi-Fi network.  The issue was spotted by security researcher&nbsp; Carl Schou , who found that the phone's Wi-Fi functionality gets permanently disabled after joining a Wi-Fi network with the unusual name " %p%s%s%s%s%n " even after rebooting the phone or changing the network's name (i.e., service set identifier or SSID).   The bug could have serious implications in that bad actors could exploit the issue to plant fraudulent Wi-Fi hotspots with the name in question to break the device's wireless networking features.  After joining my personal WiFi with the SSID "%p%s%s%s%s%n", my iPhone permanently disabled it's WiFi functionality. Neither rebooting nor changing SSID fixes it :~) pic.twitter.com/2eue90JFu3 — Carl Schou (@vm_call) June 18, 2021   The issue stems from a&nbsp; string formatting &nbsp;bug in the manner iOS parses th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Cyberattack on Poland Came from Russian Territory: Kaczynski<a href="https://www.securityweek.com/major-cyberattack-poland-came-russian-territory-kaczynski?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent "large scale" cyberattack targeting top Polish politicians was launched from Russia, Jaroslaw Kaczynski, the leader of Poland's governing right-wing party, said on Friday. ]
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

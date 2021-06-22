@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Sector Security Report Released Just as Another Water Plant Hack Comes to Light<a href="https://www.securityweek.com/water-sector-security-report-released-just-another-water-plant-hack-comes-light?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization in April surveyed 606 individuals working at water and wastewater utilities in the U.S. to get a better understanding of the sector in terms of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors in January attempted to poison the water at a US facility<a href="https://securityaffairs.co/wordpress/119187/hacking/us-facility-water-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors in January attempted to poison the water at a US facility, a circumstance that highlights the importance of cybersecurity for water and wastewater utilities.
+
+
+
+The news that a threat actor in January attempted to poison the water at a facility...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

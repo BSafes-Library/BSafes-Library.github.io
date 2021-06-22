@@ -11,6 +11,34 @@ nav_order: 900072
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Would companies even abide by a ransomware payments ban?<a href="https://www.scmagazine.com/featured/would-companies-even-abide-by-a-ransomware-payments-ban/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new poll found that 44% of firms would consider paying at least 10% of yearly revenue to resolve a ransom, while 20% of firms are willing to pay 20% of their revenue or more.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cyber agency says SolarWinds hack could have been deterred | Civil rights groups urge lawmakers to crack down on Amazon's 'dangerous' worker surveillance | Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/technology/overnights/559485-hillicon-valley-cyber-agency-says-solarwinds-hack-could-have"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The key federal cybersecurity agency acknowledged the massive SolarWinds hack, which led to the compromise of nine federal agencies by Russian hackers, might have been deterred if a basic security measure had been put in place. The breach is considered one of the largest in U.S. history, and chilled relations between the U.S. and Russia even further.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 5 Critical Steps to Recovering From a Ransomware Attack<a href="https://thehackernews.com/2021/06/5-critical-steps-to-recovering-from.html"> Full Text</a>
 </p>
 <details>

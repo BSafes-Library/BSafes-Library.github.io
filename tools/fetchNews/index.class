@@ -34,6 +34,494 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Would companies even abide by a ransomware payments ban?<a href="https://www.scmagazine.com/featured/would-companies-even-abide-by-a-ransomware-payments-ban/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new poll found that 44% of firms would consider paying at least 10% of yearly revenue to resolve a ransom, while 20% of firms are willing to pay 20% of their revenue or more.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cyber agency says SolarWinds hack could have been deterred | Civil rights groups urge lawmakers to crack down on Amazon's 'dangerous' worker surveillance | Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/technology/overnights/559485-hillicon-valley-cyber-agency-says-solarwinds-hack-could-have"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The key federal cybersecurity agency acknowledged the massive SolarWinds hack, which led to the compromise of nine federal agencies by Russian hackers, might have been deterred if a basic security measure had been put in place. The breach is considered one of the largest in U.S. history, and chilled relations between the U.S. and Russia even further.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wegmans Exposes Customer Data in Misconfigured Databases<a href="https://threatpost.com/wegmans-exposes-customer-data-misconfigured-databases/167099/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cleanup in aisle “Oops”: The supermarket chain said that it misconfigured two cloud databases, exposing customer data to public scrutiny. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser fixes vulnerability that tracks you using installed apps<a href="https://www.bleepingcomputer.com/news/security/tor-browser-fixes-vulnerability-that-tracks-you-using-installed-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.0.18 to fix numerous bugs, including a vulnerability that allows sites to track users by fingerprinting the applications installed on their devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/equilibrium-sustainability/559478-manchin-led-committee-puts-forth-sprawling-energy-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Senate committee that’s led by key swing vote Sen. Joe Manchin (D-W.Va.) has released a 400-page energy infrastructure proposal that it will weigh later this week. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker ransomware leaked data stolen from ADATA chipmaker<a href="https://securityaffairs.co/wordpress/119196/cyber-crime/ragnar-locker-ransomware-adata.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Taiwanese memory and storage chip maker ADATA was hit by the Ragnar Locker ransomware gang that also published more than 700GB of stolen data.
+
+
+
+The Ragnar Locker ransomware gang has published on its leak sites more than 700GB of data stolen from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnlyFans, Twitter ban users for leaking politician's BDSM video<a href="https://www.bleepingcomputer.com/news/security/onlyfans-twitter-ban-users-for-leaking-politicians-bdsm-video/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Twitter and OnlyFans have banned user accounts that illicitly leaked a BSDM video featuring a New York City city council candidate. As reported by Motherboard, the video of 26-year old Zack Weiner began circulating on Twitter and OnlyFans via accounts with identical usernames and profile pictures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Embryology Data Breach Follows Fertility Clinic Ransomware Hit<a href="https://threatpost.com/embryology-data-breach-fertility-clinic-ransomware/167087/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 38,000 of RBA’s customers had their embryology data stolen by a ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnlyFans, Twitter bans users for leaking politician's BDSM video<a href="https://www.bleepingcomputer.com/news/security/onlyfans-twitter-bans-users-for-leaking-politicians-bdsm-video/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Twitter and OnlyFans have banned user accounts that illicitly leaked a BSDM video featuring a New York City city council candidate. As reported by Motherboard, the video of 26-year old Zack Weiner began circulating on Twitter and OnlyFans via accounts with identical usernames and profile pictures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Cops Launch ALPR Transparency Portal<a href="https://www.infosecurity-magazine.com:443/news/california-cops-launch-alpr/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Piedmont police share data on Automated License Plate Recognition technology use
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ohio Medicaid Provider Suffers Data Breach<a href="https://www.infosecurity-magazine.com:443/news/ohio-medicaid-provider-suffers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal data could have been stolen in unauthorized access incident at Maximus
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Sub-group Evolves to Target South Korea<a href="https://cyware.com/news/lazarus-sub-group-evolves-to-target-south-korea-6e725103"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This year in April, a suspicious Word document was spotted that had a Korean file name and decoy. On analysis, researchers found a unique infection pattern and an unknown payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of medical images, patient data remain exposed via PACS flaws<a href="https://www.scmagazine.com/featured/millions-of-medical-images-patient-data-remain-exposed-via-pacs-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. health systems have failed to take action, two years after a report exposed potential privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finger Scanning Costs Six Flags $36m<a href="https://www.infosecurity-magazine.com:443/news/finger-scanning-costs-six-flags-36m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American amusement park agrees to $36m settlement over use of finger-scan entry gates
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolving Ransomware Strategies to be Wary of<a href="https://cyware.com/news/evolving-ransomware-strategies-to-be-wary-of-2aa213f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware campaigns are now rarely being propagated via emails due to improved detection capabilities. The shift to downloaders as the first-stage payload offers ransomware operators better flexibility and choice.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber agency says SolarWinds hack could have been deterred by simple security measures<a href="https://thehill.com//policy/cybersecurity/559426-cyber-agency-says-solarwinds-hack-could-have-been-deterred-by-simple"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds hack, one of the largest cybersecurity incidents in U.S. history, may have been deterred or minimized if basic security measures had been put in place, a top government official acknowledged earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of medical images, patient data remain exposed via PACS flaws<a href="https://www.scmagazine.com/home/health-care/millions-of-medical-images-patient-data-remain-exposed-via-pacs-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. health systems have failed to take action, two years after a report exposed potential privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Sector Security Report Released Just as Another Water Plant Hack Comes to Light<a href="https://www.securityweek.com/water-sector-security-report-released-just-another-water-plant-hack-comes-light?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization in April surveyed 606 individuals working at water and wastewater utilities in the U.S. to get a better understanding of the sector in terms of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors in January attempted to poison the water at a US facility<a href="https://securityaffairs.co/wordpress/119187/hacking/us-facility-water-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors in January attempted to poison the water at a US facility, a circumstance that highlights the importance of cybersecurity for water and wastewater utilities.
+
+
+
+The news that a threat actor in January attempted to poison the water at a facility...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats Hackers Actively Targeting Middle East Governments<a href="https://cyware.com/news/molerats-hackers-actively-targeting-middle-east-governments-ec4c1cd2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint discovered that the MoleRATs hacking group, which has become active again after a two-month break, is infiltrating government networks in the Middle East. The group has constantly been targeting entities working with the government or other geopolitical entities in the region.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla RAT Returns in COVID-19 Vax Phish<a href="https://threatpost.com/agent-tesla-covid-vax-phish/167082/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unsophisticated campaign shows that the pandemic still has long legs when it comes to being social-engineering bait.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberSmart secures $10m Series A funding round<a href="https://www.businessleader.co.uk/cybersmart-secures-10m-series-a-funding-round/122885/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberSmart, a cybersecurity technology firm for SMEs, has announced the completion of its Series A funding round led by IQ Capital, bringing the total raised to over $10 million.
+</details>
+<div style="text-align: right" markdown="1">
+Business Leader
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhone Wi-Fi Crushed by Weird Network<a href="https://threatpost.com/iphone-wi-fi-weird-network/167075/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+… until you reset network settings and stop connecting to a weirdly named network, that is. FUD is spreading. iOS Wi-Fi demolition is not. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybecriminals Claim to Plant Backdoor and Steal Data From NATO's Cloud Platform<a href="https://news.softpedia.com/news/nato-s-cloud-platform-has-been-hacked-533282.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals claim that they managed to make copies of the data on the SOA & IdM platform used by NATO by planting a malware backdoor and that they tried to blackmail Everis.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ADATA suffers 700 GB data leak in Ragnar Locker ransomware attack<a href="https://www.bleepingcomputer.com/news/security/adata-suffers-700-gb-data-leak-in-ragnar-locker-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang have published download links for more than 700GB of archived data stolen from Taiwanese memory and storage chip maker ADATA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Info-sharing pact will help electric companies comply with DOE’s 100-day plan<a href="https://www.scmagazine.com/featured/info-sharing-pact-will-help-electric-companies-comply-with-does-100-day-plan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-ISAC’s members will benefit from the analysis of pooled threat data, says CEO Manny Cancel.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data leak marketplace pressures victims by emailing competitors<a href="https://www.bleepingcomputer.com/news/security/data-leak-marketplace-pressures-victims-by-emailing-competitors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Marketo data theft marketplace is applying maximum pressure on victims by emailing their competitors and offering sample packs of the stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sload Targeting Europe Again<a href="https://blog.minerva-labs.com/sload-targeting-europe-again?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sload (aka Starslord loader) is one of the most dangerous types of malware in recent years. It usually functions as a downloader with an aim to assess the target and drop a more significant payload.
+</details>
+<div style="text-align: right" markdown="1">
+Minerva Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerability in Wire Messaging App Allowed Attackers to Fully Control User Accounts<a href="https://portswigger.net/daily-swig/xss-flaw-in-wire-messaging-app-allowed-attackers-to-fully-control-user-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Wire secure messaging app have patched the software against two security vulnerabilities, one of which could have allowed an attacker to “fully control” user accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside a ransomware attack: how dark webs of cybercriminals collaborate to pull one off<a href="https://ciso.economictimes.indiatimes.com/news/inside-a-ransomware-attack-how-dark-webs-of-cybercriminals-collaborate-to-pull-one-off/83705716?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only is a ransomware attack a blended crime, including different offenses across different bodies of law, but also a crime that straddles the remit of different policing agencies and countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
