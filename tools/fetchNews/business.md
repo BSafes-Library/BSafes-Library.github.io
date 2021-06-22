@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finger Scanning Costs Six Flags $36m<a href="https://www.infosecurity-magazine.com:443/news/finger-scanning-costs-six-flags-36m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American amusement park agrees to $36m settlement over use of finger-scan entry gates
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberSmart secures $10m Series A funding round<a href="https://www.businessleader.co.uk/cybersmart-secures-10m-series-a-funding-round/122885/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberSmart, a cybersecurity technology firm for SMEs, has announced the completion of its Series A funding round led by IQ Capital, bringing the total raised to over $10 million.
+</details>
+<div style="text-align: right" markdown="1">
+Business Leader
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

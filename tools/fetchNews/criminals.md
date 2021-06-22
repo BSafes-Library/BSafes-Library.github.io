@@ -11,6 +11,62 @@ nav_order: 900031
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Sub-group Evolves to Target South Korea<a href="https://cyware.com/news/lazarus-sub-group-evolves-to-target-south-korea-6e725103"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This year in April, a suspicious Word document was spotted that had a Korean file name and decoy. On analysis, researchers found a unique infection pattern and an unknown payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybecriminals Claim to Plant Backdoor and Steal Data From NATO's Cloud Platform<a href="https://news.softpedia.com/news/nato-s-cloud-platform-has-been-hacked-533282.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals claim that they managed to make copies of the data on the SOA &amp; IdM platform used by NATO by planting a malware backdoor and that they tried to blackmail Everis.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data leak marketplace pressures victims by emailing competitors<a href="https://www.bleepingcomputer.com/news/security/data-leak-marketplace-pressures-victims-by-emailing-competitors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Marketo data theft marketplace is applying maximum pressure on victims by emailing their competitors and offering sample packs of the stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside a ransomware attack: how dark webs of cybercriminals collaborate to pull one off<a href="https://ciso.economictimes.indiatimes.com/news/inside-a-ransomware-attack-how-dark-webs-of-cybercriminals-collaborate-to-pull-one-off/83705716?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only is a ransomware attack a blended crime, including different offenses across different bodies of law, but also a crime that straddles the remit of different policing agencies and countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Actors Evolved Operations in 2020<a href="https://www.crowdstrike.com/blog/ransomware-actors-evolved-operations-in-2020/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Info-sharing pact will help electric companies comply with DOE’s 100-day plan<a href="https://www.scmagazine.com/featured/info-sharing-pact-will-help-electric-companies-comply-with-does-100-day-plan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-ISAC’s members will benefit from the analysis of pooled threat data, says CEO Manny Cancel.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

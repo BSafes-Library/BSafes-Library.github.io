@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious ransomware payment traced to a sensual massage site<a href="https://www.bleepingcomputer.com/news/security/mysterious-ransomware-payment-traced-to-a-sensual-massage-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A&nbsp;ransomware targeting an Israeli company has led researchers to track a portion of a ransom payment to a website promoting sensual massages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

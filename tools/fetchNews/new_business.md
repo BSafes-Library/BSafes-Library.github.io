@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did Companies Fail to Disclose Being Affected by SolarWinds Breach?<a href="https://beta.darkreading.com/attacks-breaches/did-companies-fail-to-disclose-being-affected-by-solarwinds-breach-?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission (SEC) has reportedly opened a probe into whether some companies that were affected by the SolarWinds breach failed to disclose that fact.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payments Could Be Tax Deductible - Report<a href="https://www.infosecurity-magazine.com:443/news/ransomware-payments-could-be-tax/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another silver lining for firms that choose to pay their extorters
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ping Identity acquires SecuredTouch for bot detection<a href="https://www.zdnet.com/article/ping-identity-acquires-securedtouch-for-bot-detection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ping Identity on Monday announced it's acquired SecuredTouch, a fraud and bot detection firm based in Tel Aviv. The financial terms of the acquisition deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

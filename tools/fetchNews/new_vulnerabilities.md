@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Complex supply chain logistics are leaving defense contractors vulnerable<a href="https://www.scmagazine.com/home/security-news/government-and-defense/complex-supply-chain-logistics-are-leaving-defense-contractors-vulnerable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An evaluation of 300 small and medium defense companies suggests contractors have prioritized interoperability with outside systems over security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Jetson Chipsets Found Vulnerable to High-severity Flaws<a href="https://thehackernews.com/2021/06/nvidia-jetson-chipsets-found-vulnerable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. graphics chip specialist NVIDIA has released&nbsp; software updates &nbsp;to address a total of 26 vulnerabilities impacting its Jetson system-on-module (SOM) series that could be abused by adversaries to escalate privileges and even lead to denial-of-service and information disclosure.   Tracked from CVE‑2021‑34372 through CVE‑2021‑34397, the flaws affect products Jetson TX1, TX2 series, TX2 NX, AGX Xavier series, Xavier NX, and Nano and Nano 2GB running all Jetson Linux versions prior to 32.5.1. The company credited Frédéric Perriot of Apple Media Products for reporting all the issues.   The&nbsp; NVIDIA Jetson &nbsp;line consists of embedded Linux AI and computer vision compute modules and developer kits that primarily caters to AI-based computer vision applications and autonomous systems such as mobile robots and drones.   Chief among the vulnerabilities is CVE‑2021‑34372 (CVSS score: 8.2), a buffer overflow flaw in its&nbsp; Trusty &nbsp;trusted execution environment (TEE) that could result in informatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 10.0.18 fixes a bug that allows to track users by fingerprinting installed apps<a href="https://securityaffairs.co/wordpress/119222/deep-web/tor-browser-10-0-18.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project released Tor Browser 10.0.18 that addresses a flaw that allows sites to track users by fingerprinting the installed apps.
+
+
+
+The Tor Project has released Tor Browser 10.0.18, the new version of the popular browser addresses multiple flaws,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intent redirection vulnerabilities in popular Android apps spotlight danger of dynamic code loading, warn researchers<a href="https://portswigger.net/daily-swig/intent-redirection-vulnerabilities-in-popular-android-apps-spotlight-danger-of-dynamic-code-loading-warn-researchers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+App developers have been urged not to load code dynamically because of the heightened risk of code execution vulnerabilities. Recently, one such intent redirection flaw was fixed in the Google app.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

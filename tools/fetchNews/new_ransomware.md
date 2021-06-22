@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable DarkRadiation Ransomware Targets Linux and Docker Instances<a href="https://thehackernews.com/2021/06/wormable-darkradiation-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new ransomware strain called " DarkRadiation " that's implemented entirely in Bash and targets Linux and Docker cloud containers, while banking on messaging service Telegram for command-and-control (C2) communications.  "The ransomware is written in&nbsp; Bash &nbsp;script and targets Red Hat/CentOS and Debian Linux distributions," researchers from Trend Micro&nbsp; said &nbsp;in a report published last week. "The malware uses OpenSSL's AES algorithm with CBC mode to encrypt files in various directories. It also uses Telegram's API to send an infection status to the threat actor(s)."   As of writing, there's no information available on the delivery methods or evidence that the ransomware has been deployed in real-world attacks.  The findings come from an analysis of a collection of hacking tools hosted on the unidentified threat actor's infrastructure (IP address "185.141.25.168") in a directory called
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

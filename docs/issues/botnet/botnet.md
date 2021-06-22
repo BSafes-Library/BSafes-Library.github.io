@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe botnet infected 100,000+ Windows systems in H1 2021<a href="https://securityaffairs.co/wordpress/119230/malware/dirtymoe-botnet-growing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DirtyMoe is a Windows botnet that is rapidly growing, it passed from 10,000 infected systems in 2020 to more than 100,000 in the first half of 2021.
+
+
+
+Researchers from Avast are warning of the rapid growth of the DirtyMoe botnet (PurpleFox,&nbsp;Perkiler,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of misconfigured containers hit by botnets in under an hour<a href="https://www.scmagazine.com/data-leakage-prevention-dlp/50-of-misconfigured-containers-hit-by-botnets-in-under-an-hour/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aqua Security reported that data it collected from honeypots protecting containers over a six-month period revealed that 50% of misconfigured Docker APIs are attacked by botnets within 56 minutes of being set up.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

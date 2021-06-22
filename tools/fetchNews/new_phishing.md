@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Not Safe: “Security Update” Goes Phishing via PDF<a href="https://cofense.com/blog/security-update-phishing-pdf/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense has observed an Office 365 credential phishing campaign, masquerading as an Outlook Security update email from the IT Security department to lure employees to open a “New Policy” PDF.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

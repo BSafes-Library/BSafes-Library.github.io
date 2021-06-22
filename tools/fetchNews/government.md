@@ -11,6 +11,48 @@ nav_order: 900075
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/equilibrium-sustainability/559478-manchin-led-committee-puts-forth-sprawling-energy-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Senate committee that’s led by key swing vote Sen. Joe Manchin (D-W.Va.)&nbsp;has released a 400-page energy infrastructure proposal that it will weigh later this week.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Cops Launch ALPR Transparency Portal<a href="https://www.infosecurity-magazine.com:443/news/california-cops-launch-alpr/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Piedmont police share data on Automated License Plate Recognition technology use
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber agency says SolarWinds hack could have been deterred by simple security measures<a href="https://thehill.com//policy/cybersecurity/559426-cyber-agency-says-solarwinds-hack-could-have-been-deterred-by-simple"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolarWinds hack, one of the largest cybersecurity incidents in U.S. history, may have been deterred or minimized if basic security measures had been put in place, a top&nbsp;government official acknowledged earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NSA releases guidance for securing Unified Communications and VVoIP<a href="https://securityaffairs.co/wordpress/119180/hacking/nsa-unified-communications-vvoip.html"> Full Text</a>
 </p>
 <details>

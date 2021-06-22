@@ -11,6 +11,20 @@ nav_order: 900160
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla RAT Returns in COVID-19 Vax Phish<a href="https://threatpost.com/agent-tesla-covid-vax-phish/167082/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unsophisticated campaign shows that the pandemic still has long legs when it comes to being social-engineering bait.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Amazon Prime Day - Beware of Phishing Deluge, Experts Warn<a href="https://www.infosecurity-magazine.com:443/news/amazon-prime-day-phishing-deluge/"> Full Text</a>
 </p>
 <details>
