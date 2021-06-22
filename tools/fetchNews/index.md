@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cyber agency says SolarWinds hack could have been deterred | Civil rights groups urge lawmakers to crack down on Amazon's 'dangerous' worker surveillance | Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/technology/overnights/559485-hillicon-valley-cyber-agency-says-solarwinds-hack-could-have"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The key federal cybersecurity agency acknowledged the massive SolarWinds hack, which led to the compromise of nine federal agencies by Russian hackers, might have been deterred if a basic security measure had been put in place. The breach is considered one of the largest in U.S. history, and chilled relations between the U.S. and Russia even further.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Wegmans Exposes Customer Data in Misconfigured Databases<a href="https://threatpost.com/wegmans-exposes-customer-data-misconfigured-databases/167099/"> Full Text</a>
 </p>
 <details>

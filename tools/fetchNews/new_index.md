@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Would companies even abide by a ransomware payments ban?<a href="https://www.scmagazine.com/featured/would-companies-even-abide-by-a-ransomware-payments-ban/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new poll found that 44% of firms would consider paying at least 10% of yearly revenue to resolve a ransom, while 20% of firms are willing to pay 20% of their revenue or more.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Cyber agency says SolarWinds hack could have been deterred | Civil rights groups urge lawmakers to crack down on Amazon's 'dangerous' worker surveillance | Manchin-led committee puts forth sprawling energy infrastructure proposal<a href="https://thehill.com//policy/technology/overnights/559485-hillicon-valley-cyber-agency-says-solarwinds-hack-could-have"> Full Text</a>
 </p>
 <details>
