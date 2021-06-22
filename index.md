@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SonicWall bug that affected 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-that-affected-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have emerged that shed light on a critical SonicWall vulnerability disclosed last year, which affected over 800,000 VPN firewalls and was initially thought to have been patched. Tracked as CVE-2020-5135, when exploited, the bug allows unauthenticated remote attackers to execute arbitrary code on the impacted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NIST Publishes Ransomware Guidance<a href="https://www.infosecurity-magazine.com:443/news/nist-publishes-ransomware-guidance/"> Full Text</a>
 </p>
 <details>
