@@ -37,6 +37,30 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ADVERSARIAL OCTOPUS – ATTACK DEMO FOR AI-DRIVEN FACIAL RECOGNITION ENGINE<a href="https://securityaffairs.co/wordpress/119248/hacking/adversarial-octopus-facial-recognition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Adversa devised an attack technique, dubbed ADVERSARIAL OCTOPUS, against Facial Recognition systems. 
+
+
+
+THE INTENTION BEHIND THIS PROJECT
+
+
+
+Driven by our mission to increase trust in AI, Adversa’s AI Red Team is constantly exploring...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Do you want speed or security as expected? Spectre CPU defenses can cripple performance on Linux in tests<a href="https://www.theregister.com/2021/06/22/spectre_linux_performance_test_analysis/?&web_view=true"> Full Text</a>
 </p>
 <details>

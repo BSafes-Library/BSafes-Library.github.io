@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Zephyr RTOS fixes Bluetooth bugs that may lead to code execution<a href="https://www.bleepingcomputer.com/news/security/zephyr-rtos-fixes-bluetooth-bugs-that-may-lead-to-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zephyr real-time operating system (RTOS) for embedded devices received an update earlier this month that fixes multiple vulnerabilities that can cause a denial-of-service (DoS) condition and potentially lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland says it has detected more than a half million ‘potentially fraudulent’ jobless claims since May<a href="https://www.washingtonpost.com/local/md-politics/maryland-unemployment-fraudulent-claims/2021/06/21/63448d6e-d2bf-11eb-ae54-515e2f63d37d_story.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland labor officials said Monday that they have found 508,000 “potentially fraudulent” unemployment claims in the past six weeks, the latest response from the Hogan administration.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email Bug Allows Message Snooping, Credential Theft<a href="https://threatpost.com/email-bug-message-snooping-credential-theft/167125/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year-old proof-of-concept attack that allows an attacker to bypass TLS email protections to snoop on messages has been patched. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ADVERSARIAL OCTOPUS – ATTACK DEMO FOR AI-DRIVEN FACIAL RECOGNITION ENGINE<a href="https://securityaffairs.co/wordpress/119248/hacking/adversarial-octopus-facial-recognition.html"> Full Text</a>
 </p>
 <details>
