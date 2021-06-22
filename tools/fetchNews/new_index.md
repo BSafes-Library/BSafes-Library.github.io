@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mysterious ransomware payment traced to a sensual massage site<a href="https://www.bleepingcomputer.com/news/security/mysterious-ransomware-payment-traced-to-a-sensual-massage-site/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Did Companies Fail to Disclose Being Affected by SolarWinds Breach?<a href="https://beta.darkreading.com/attacks-breaches/did-companies-fail-to-disclose-being-affected-by-solarwinds-breach-?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wormable DarkRadiation Ransomware Targets Linux and Docker Instances<a href="https://thehackernews.com/2021/06/wormable-darkradiation-ransomware.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Tool Launched to Remove Nude Images of Children Online<a href="https://www.infosecurity-magazine.com:443/news/tool-launched-nude-images-children/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe botnet infected 100,000+ Windows systems in H1 2021<a href="https://securityaffairs.co/wordpress/119230/malware/dirtymoe-botnet-growing.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Complex supply chain logistics are leaving defense contractors vulnerable<a href="https://www.scmagazine.com/home/security-news/government-and-defense/complex-supply-chain-logistics-are-leaving-defense-contractors-vulnerable/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Six Flags to Pay $36M Over Collection of Fingerprints<a href="https://threatpost.com/six-flags-to-pay-36m-over-collection-of-fingerprints/167103/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI packages hijack dev devices to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-hijack-dev-devices-to-mine-cryptocurrency/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It’s Not Safe: “Security Update” Goes Phishing via PDF<a href="https://cofense.com/blog/security-update-phishing-pdf/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Cofense
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA Jetson Chipsets Found Vulnerable to High-severity Flaws<a href="https://thehackernews.com/2021/06/nvidia-jetson-chipsets-found-vulnerable.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fifth of Google Play Apps Violate Child Protection Law<a href="https://www.infosecurity-magazine.com:443/news/fifth-google-play-apps-child/"> Full Text</a>
@@ -214,7 +214,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Browser 10.0.18 fixes a bug that allows to track users by fingerprinting installed apps<a href="https://securityaffairs.co/wordpress/119222/deep-web/tor-browser-10-0-18.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intent redirection vulnerabilities in popular Android apps spotlight danger of dynamic code loading, warn researchers<a href="https://portswigger.net/daily-swig/intent-redirection-vulnerabilities-in-popular-android-apps-spotlight-danger-of-dynamic-code-loading-warn-researchers?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Payments Could Be Tax Deductible - Report<a href="https://www.infosecurity-magazine.com:443/news/ransomware-payments-could-be-tax/"> Full Text</a>
@@ -266,7 +266,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DroidMorph tool generates Android Malware Clones that<a href="https://securityaffairs.co/wordpress/119206/malware/droidmorph-tool-generates-android-malware-clones-that.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ping Identity acquires SecuredTouch for bot detection<a href="https://www.zdnet.com/article/ping-identity-acquires-securedtouch-for-bot-detection/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three-Quarters of SMBs Can't Repel Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/threequarters-smbs-repel-cyber/"> Full Text</a>
@@ -318,7 +318,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protect The Business<a href="https://beta.darkreading.com/cloud/software-container-supply-chain-sees-spike-in-attacks?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asia Pacific Network Information Centre Leaves SQL Dump From Whois Database Publicly Exposed on Google Cloud Bucket<a href="https://www.theregister.com/2021/06/22/apnic_whois_data_exposed/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2021
+June 21, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50% of misconfigured containers hit by botnets in under an hour<a href="https://www.scmagazine.com/data-leakage-prevention-dlp/50-of-misconfigured-containers-hit-by-botnets-in-under-an-hour/"> Full Text</a>
