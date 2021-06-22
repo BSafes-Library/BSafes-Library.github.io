@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Vigilante Malware Prevent Access to Piracy Sites<a href="https://cyware.com/news/vigilante-malware-prevent-access-to-piracy-sites-9a00cd4e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered an attack campaign that targets users of pirated software. The Vigilante malware blocks users' access to websites hosting pirated software. Users are requested to stay protected by avoiding the download of pirated software or clicking on links from unknown users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkRadiation Ransomware and an SSH Worm<a href="https://cyware.com/news/darkradiation-ransomware-and-an-ssh-worm-e2809d4d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkRadiation ransomware has started targeting Linux and Docker containers. It relies on messaging service Telegram for C2C communications. Experts suggest attackers are probably trying to use low-profile tools to stay hidden from security agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korean Nuclear Research Agency Targeted by APT Group<a href="https://cyware.com/news/south-korean-nuclear-research-agency-targeted-by-apt-group-32b3829a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nuclear energy and arms-related organizations are under attack from several other APT groups across the globe.&nbsp;A North Korean APT group recently breached the internal network of the Korea Atomic Energy Research Institute (KAERI), South Korea through a vulnerability in a VPN server last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedFoxtrot Group Linked to Unit 69010 from China<a href="https://cyware.com/news/redfoxtrot-group-linked-to-unit-69010-from-china-b1694173"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberespionage campaigns spread across several years were linked to the Chinese military group PLA Unit 69010. Dubbed RedFoxtrot, the threat actor focused on gathering military intelligence from various countries. Learn how PLA-affiliated groups&nbsp;are operating and targeting victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Darkside RaaS in Linux version<a href="https://cybersecurity.att.com/blogs/labs-research/darkside-raas-in-linux-version?&web_view=true"> Full Text</a>
 </p>
 <details>
