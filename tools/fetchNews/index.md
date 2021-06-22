@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Most Developers Never Update Third-Party Libraries in Their Software: Report<a href="https://www.securityweek.com/most-developers-never-update-third-party-libraries-their-software-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most developers never update third-party libraries after including them in their software, a new report from Veracode reveals. 79% of libraries are never updated after being included in software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Polish government officials linked to Russian hackers<a href="https://thehill.com//policy/cybersecurity/559610-cyberattack-on-polish-government-officials-linked-to-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent string of cyberattacks targeted at thousands of Polish email users, including government officials, have been linked by the Polish intelligence services to a Russian hacking group. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Municipality IT Network at Belgium’s Third-largest City Disrupted by Ransomware Attack<a href="https://therecord.media/city-of-liege-belgium-hit-by-ransomware/?&web_view=true"> Full Text</a>
 </p>
 <details>
