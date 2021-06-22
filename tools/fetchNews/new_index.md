@@ -34,6 +34,322 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious ransomware payment traced to a sensual massage site<a href="https://www.bleepingcomputer.com/news/security/mysterious-ransomware-payment-traced-to-a-sensual-massage-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A ransomware targeting an Israeli company has led researchers to track a portion of a ransom payment to a website promoting sensual massages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did Companies Fail to Disclose Being Affected by SolarWinds Breach?<a href="https://beta.darkreading.com/attacks-breaches/did-companies-fail-to-disclose-being-affected-by-solarwinds-breach-?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission (SEC) has reportedly opened a probe into whether some companies that were affected by the SolarWinds breach failed to disclose that fact.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable DarkRadiation Ransomware Targets Linux and Docker Instances<a href="https://thehackernews.com/2021/06/wormable-darkradiation-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new ransomware strain called " DarkRadiation " that's implemented entirely in Bash and targets Linux and Docker cloud containers, while banking on messaging service Telegram for command-and-control (C2) communications.  "The ransomware is written in  Bash  script and targets Red Hat/CentOS and Debian Linux distributions," researchers from Trend Micro  said  in a report published last week. "The malware uses OpenSSL's AES algorithm with CBC mode to encrypt files in various directories. It also uses Telegram's API to send an infection status to the threat actor(s)."   As of writing, there's no information available on the delivery methods or evidence that the ransomware has been deployed in real-world attacks.  The findings come from an analysis of a collection of hacking tools hosted on the unidentified threat actor's infrastructure (IP address "185.141.25.168") in a directory called
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tool Launched to Remove Nude Images of Children Online<a href="https://www.infosecurity-magazine.com:443/news/tool-launched-nude-images-children/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Children worried about nude content appearing online can now access a tool to restrict content being shared
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe botnet infected 100,000+ Windows systems in H1 2021<a href="https://securityaffairs.co/wordpress/119230/malware/dirtymoe-botnet-growing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DirtyMoe is a Windows botnet that is rapidly growing, it passed from 10,000 infected systems in 2020 to more than 100,000 in the first half of 2021.
+
+
+
+Researchers from Avast are warning of the rapid growth of the DirtyMoe botnet (PurpleFox, Perkiler,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Complex supply chain logistics are leaving defense contractors vulnerable<a href="https://www.scmagazine.com/home/security-news/government-and-defense/complex-supply-chain-logistics-are-leaving-defense-contractors-vulnerable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An evaluation of 300 small and medium defense companies suggests contractors have prioritized interoperability with outside systems over security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six Flags to Pay $36M Over Collection of Fingerprints<a href="https://threatpost.com/six-flags-to-pay-36m-over-collection-of-fingerprints/167103/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illinois Supreme Court rules in favor of class action against company’s practice of scanning  people’s fingers when they enter amusement parks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI packages hijack dev devices to mine cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-hijack-dev-devices-to-mine-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, multiple malicious packages were caught in the PyPI repository for Python projects that turned developers' workstations into cryptomining machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Not Safe: “Security Update” Goes Phishing via PDF<a href="https://cofense.com/blog/security-update-phishing-pdf/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense has observed an Office 365 credential phishing campaign, masquerading as an Outlook Security update email from the IT Security department to lure employees to open a “New Policy” PDF.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Jetson Chipsets Found Vulnerable to High-severity Flaws<a href="https://thehackernews.com/2021/06/nvidia-jetson-chipsets-found-vulnerable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. graphics chip specialist NVIDIA has released  software updates  to address a total of 26 vulnerabilities impacting its Jetson system-on-module (SOM) series that could be abused by adversaries to escalate privileges and even lead to denial-of-service and information disclosure.   Tracked from CVE‑2021‑34372 through CVE‑2021‑34397, the flaws affect products Jetson TX1, TX2 series, TX2 NX, AGX Xavier series, Xavier NX, and Nano and Nano 2GB running all Jetson Linux versions prior to 32.5.1. The company credited Frédéric Perriot of Apple Media Products for reporting all the issues.   The  NVIDIA Jetson  line consists of embedded Linux AI and computer vision compute modules and developer kits that primarily caters to AI-based computer vision applications and autonomous systems such as mobile robots and drones.   Chief among the vulnerabilities is CVE‑2021‑34372 (CVSS score: 8.2), a buffer overflow flaw in its  Trusty  trusted execution environment (TEE) that could result in informatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fifth of Google Play Apps Violate Child Protection Law<a href="https://www.infosecurity-magazine.com:443/news/fifth-google-play-apps-child/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five apps designed for children contravened the Children's Online Privacy Protection Act (COPPA)
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 10.0.18 fixes a bug that allows to track users by fingerprinting installed apps<a href="https://securityaffairs.co/wordpress/119222/deep-web/tor-browser-10-0-18.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project released Tor Browser 10.0.18 that addresses a flaw that allows sites to track users by fingerprinting the installed apps.
+
+
+
+The Tor Project has released Tor Browser 10.0.18, the new version of the popular browser addresses multiple flaws,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intent redirection vulnerabilities in popular Android apps spotlight danger of dynamic code loading, warn researchers<a href="https://portswigger.net/daily-swig/intent-redirection-vulnerabilities-in-popular-android-apps-spotlight-danger-of-dynamic-code-loading-warn-researchers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+App developers have been urged not to load code dynamically because of the heightened risk of code execution vulnerabilities. Recently, one such intent redirection flaw was fixed in the Google app.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payments Could Be Tax Deductible - Report<a href="https://www.infosecurity-magazine.com:443/news/ransomware-payments-could-be-tax/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another silver lining for firms that choose to pay their extorters
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DroidMorph tool generates Android Malware Clones that<a href="https://securityaffairs.co/wordpress/119206/malware/droidmorph-tool-generates-android-malware-clones-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins developed a tool dubbed DroidMorph that provides morphing of Android applications (APKs) and allows to create Android apps (malware/benign) clones.
+
+
+
+A group of researchers from Adana Science and Technology University (Turkey) and the National...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ping Identity acquires SecuredTouch for bot detection<a href="https://www.zdnet.com/article/ping-identity-acquires-securedtouch-for-bot-detection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ping Identity on Monday announced it's acquired SecuredTouch, a fraud and bot detection firm based in Tel Aviv. The financial terms of the acquisition deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of SMBs Can't Repel Cyber-Attacks<a href="https://www.infosecurity-magazine.com:443/news/threequarters-smbs-repel-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-fifths admit alert overload is a significant challenge
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect The Business<a href="https://beta.darkreading.com/cloud/software-container-supply-chain-sees-spike-in-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When attackers gain access, they most often install cryptominer software or attempt to escape the container and compromise the host system, says Assaf Morag, lead data analyst at Aqua Security.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asia Pacific Network Information Centre Leaves SQL Dump From Whois Database Publicly Exposed on Google Cloud Bucket<a href="https://www.theregister.com/2021/06/22/apnic_whois_data_exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Asia Pacific Network Information Centre (APNIC) has admitted it left at least a portion of its Whois SQL database, which contains sensitive information, unsecured for three months.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
