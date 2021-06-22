@@ -30,6 +30,18 @@ The Internet is today a significant part of children’s daily lives, and digita
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Media Consumption Effect on Therapuetic Aesthetics [HTML](https://papers.bsafes.com/docs/social-media/media-consumption-effect-on-therapuetic-aesthetics/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper conceptualizes and proposes the current thesis topic: how does media consumption and screen time usage affect our therapeutic aesthetics?
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 14, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
