@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lexmark Printers Open to Arbitrary Code-Execution Zero-Day<a href="https://threatpost.com/lexmark-printers-code-execution-zero-day/167111/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“No remedy available as of June 21, 2021,” according to the researcher who discovered the easy-to-exploit, no-user-action-required bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pondurance Acquires Bearing Cybersecurity to Help Customers Better Assess and Remediate Security Gaps<a href="https://finance.yahoo.com/news/pondurance-acquires-bearing-cybersecurity-help-120100338.html?&web_view=true"> Full Text</a>
 </p>
 <details>
