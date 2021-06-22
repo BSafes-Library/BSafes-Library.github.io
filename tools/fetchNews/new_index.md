@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A ransomware attack disrupted the IT network of the City of Liege<a href="https://securityaffairs.co/wordpress/119240/malware/city-of-liege-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgium city of Liege has suffered today a ransomware attack that has disrupted the IT network of the municipality and its online services.
+
+
+
+Liege, one of the biggest cities in Belgium, was hit by a ransomware attack that has disrupted the IT network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Most Developers Never Update Third-Party Libraries in Their Software: Report<a href="https://www.securityweek.com/most-developers-never-update-third-party-libraries-their-software-report?&web_view=true"> Full Text</a>
 </p>
 <details>
