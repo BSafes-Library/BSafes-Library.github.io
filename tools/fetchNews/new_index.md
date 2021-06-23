@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The European Commission proposed to launch the new Joint Cyber Unit<a href="https://securityaffairs.co/wordpress/119317/uncategorized/eu-commission-new-joint-cyber-unit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Agency for Cybersecurity welcomes the European Commission proposal to launch the new Joint Cyber Unit.
+
+
+
+The European Commission proposed on Wednesday the creation of a new Joint Cyber Unit that aims at providing a coordinated response...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum computing may transform cybersecurity eventually  – but not yet<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/quantum-computing-may-transform-cybersecurity-eventually-but-not-yet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While government agencies and standards bodies are racing to test and vet new quantum resistant algorithms for widespread consumption, a small but growing industry of vendors has popped up offering to sell such protections to the broader public. What should potential buyers make of such offerings?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dangers Posed by Evidentiary Software—and What to Do about It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-software%E2%80%94and-what-do-about-it"> Full Text</a>
 </p>
 <details>
