@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber-attack Exposes Eye Clinic Patient Data<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-exposes-eye-clinic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around 500k patient records may have been exposed in cyber-attack on Iowa’s Wolfe Eye Clinic
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Spanish court approves extradition of John McAfee to US<a href="https://thehill.com//policy/cybersecurity/559886-spanish-court-approves-extradition-of-john-mcafee-to-us"> Full Text</a>
 </p>
 <details>
