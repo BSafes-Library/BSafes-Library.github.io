@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Tulsa Reports Cyber Incident Potentially Affecting Personal Information of Residents<a href="https://edition.cnn.com/2021/06/23/us/tulsa-cyberattack-personal-information-dark-web/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city announced Tuesday that hackers obtained more than 18,000 city files. The leaked files are mostly police citations and internal department files, officials said in a press release.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian intelligence service chief says Moscow will work with US to find hackers<a href="https://www.scmagazine.com/home/security-news/ransomware/russian-intelligence-service-chief-says-moscow-will-work-with-us-to-find-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sources familiar with United States thinking on the matter believe Russia has in the past used information shared about domestic criminals as a recruitment tool, and Russia has been known to push the boundaries of other reciprocity agreements, using Interpol to pursue dissidents for example.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
