@@ -11,6 +11,104 @@ nav_order: 900072
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech industry pushes for delay in antitrust legislation | EU regulators investigating Google's digital ad business | YouTube wins EU court case over copyright violations<a href="https://thehill.com//policy/technology/overnights/559714-hillicon-valley-tech-industry-pushes-for-delay-in-antitrust"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developments across the pond took the spotlight Tuesday, with the European Commission announcing it had opened an antitrust investigation into Google’s ad business, and Europe’s top court ruled that platforms are not liable for certain copyright violations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Could better cyber hygiene have prevented the SolarWinds attack?<a href="https://www.scmagazine.com/home/security-news/could-better-cyber-hygiene-have-prevented-the-solarwinds-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA says blocking SolarWinds Orion servers from outbound internet traffic could have helped prevent the supply chain attack. But cybersecurity experts say that alone would not have protected organizations from being infiltrated.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC Losses Top $1.8B as Tactics Evolve<a href="https://threatpost.com/bec-losses-top-18b/167148/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BEC attacks getting are more dangerous, and smart users are the ones who can stop it.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of CISOs say the push for rapid growth and digital transformation stalls cloud security<a href="https://www.scmagazine.com/home/security-news/cloud-security/50-of-cisos-say-the-push-for-rapid-growth-and-digital-transformation-stalls-cloud-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital transformation often means decentralized purchasing of cloud-based applications, which results in a disparate landscape of best-of-breed software with less oversight from security and IT.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland says it has detected more than a half million ‘potentially fraudulent’ jobless claims since May<a href="https://www.washingtonpost.com/local/md-politics/maryland-unemployment-fraudulent-claims/2021/06/21/63448d6e-d2bf-11eb-ae54-515e2f63d37d_story.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland labor officials said Monday that they have found 508,000 “potentially fraudulent” unemployment claims in the past six weeks, the latest response from the Hogan administration.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do you want speed or security as expected? Spectre CPU defenses can cripple performance on Linux in tests<a href="https://www.theregister.com/2021/06/22/spectre_linux_performance_test_analysis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mitigations applied to prevent Spectre vulnerability exploits from computers hinder performance enough that disabling protection for the sake of speed may be preferable for some.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Developers Never Update Third-Party Libraries in Their Software: Report<a href="https://www.securityweek.com/most-developers-never-update-third-party-libraries-their-software-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most developers never update third-party libraries after including them in their software, a new report from Veracode reveals. 79% of libraries are never updated after being included in software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Fifth of Google Play Apps Violate Child Protection Law<a href="https://www.infosecurity-magazine.com:443/news/fifth-google-play-apps-child/"> Full Text</a>
 </p>
 <details>

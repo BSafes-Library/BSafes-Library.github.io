@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Municipality IT Network at Belgium’s Third-largest City Disrupted by Ransomware Attack<a href="https://therecord.media/city-of-liege-belgium-hit-by-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While officials only described the incident as a “computer attack,” two Belgian radio and TV stations reported that the cyberattack was the work of the Ryuk ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia St. Joseph’s/Candler health system shifts to downtime procedures amid ransomware attack<a href="https://www.scmagazine.com/home/security-news/ransomware/georgia-st-josephs-candler-health-system-shifts-to-downtime-procedures-amid-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The health system has remained open primarily thanks to previously established downtime procedures, for which the workforce received training prior the attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

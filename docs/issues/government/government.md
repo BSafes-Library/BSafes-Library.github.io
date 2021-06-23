@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Proposes Joint Cyber Unit Amid Rising Attacks<a href="https://www.infosecurity-magazine.com:443/news/eu-proposes-joint-cyber-unit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The proposed Joint Cyber Unit aims to enable a coordinated response to cyber incidents
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple warns of sideloading risk as lawmakers consider third-party app stores<a href="https://www.scmagazine.com/home/security-news/mobile-security/apple-warns-of-sideloading-risk-as-lawmakers-consider-third-party-app-stores/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers and rival companies have said that @Apple’s control of the App Store allows the company to charge excessive fees to list apps or limit competitors to Apple services.  Apple says it’s for the sake of security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Funds Development &amp; Release of D3FEND Framework<a href="https://beta.darkreading.com/threat-intelligence/nsa-funds-development-release-of-d3fend-framework?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency today announced it is funding the development and release of D3FEND, a framework for security pros to tailor their defenses against specific security threats.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

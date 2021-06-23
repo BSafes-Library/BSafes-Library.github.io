@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA ransomware backdoors education orgs using ChaChi malware<a href="https://www.bleepingcomputer.com/news/security/pysa-ransomware-backdoors-education-orgs-using-chachi-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ireland: Three quarters of HSE IT servers decrypted following crippling cyberattack<a href="https://www.thejournal.ie/75-it-servers-restored-cyber-attack-5474660-Jun2021/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Journal
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistan-linked hackers targeted Indian power company with ReverseRat<a href="https://thehackernews.com/2021/06/pakistan-linked-hackers-targeted-indian.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Proposes Joint Cyber Unit Amid Rising Attacks<a href="https://www.infosecurity-magazine.com:443/news/eu-proposes-joint-cyber-unit/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop ransomware is back into action after the recent police operation<a href="https://securityaffairs.co/wordpress/119282/cyber-crime/clop-ransomware-return.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple warns of sideloading risk as lawmakers consider third-party app stores<a href="https://www.scmagazine.com/home/security-news/mobile-security/apple-warns-of-sideloading-risk-as-lawmakers-consider-third-party-app-stores/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop ransomware is back in business after recent arrests<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-is-back-in-business-after-recent-arrests/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LV Ransomware Variant Hijacks Malicious Binaries Used by REvil Operators<a href="https://www.theregister.com/2021/06/23/revil_ransomware_lv/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Whitepaper] Automate Your Security with Cynet to Protect from Ransomware<a href="https://thehackernews.com/2021/06/whitepaper-automate-your-security-with.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Banks Drive £77 Million Reduction in European Fraud Losses<a href="https://www.infosecurity-magazine.com:443/news/uk-banks-77-million-reduction-fraud/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks fixes critical flaw (CVE-2021-3044) in Cortex XSOAR<a href="https://securityaffairs.co/wordpress/119276/security/palo-alto-networks-cve-2021-3044-cortex-xsoar.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawsuits filed on behalf of Scripps Health patients in cyber attack<a href="https://www.10news.com/news/local-news/lawsuits-filed-on-behalf-of-scripps-health-patients-in-cyber-attack?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ A pair of lawsuits have been filed on behalf of former and current Scripps Healt
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patch Tor Browser Bug to Prevent Tracking of Your Online Activities<a href="https://thehackernews.com/2021/06/patch-tor-browser-bug-to-prevent.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 10% of SMB Defense Contractors Show Evidence of Compromise<a href="https://www.infosecurity-magazine.com:443/news/nearly-10-smb-defense-contractors/"> Full Text</a>
@@ -266,7 +266,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall finally fixed a flaw resulting from a partially patched 2020 zero-day<a href="https://securityaffairs.co/wordpress/119269/security/sonicwall-vpn-unpatched-flaw.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Funds Development & Release of D3FEND Framework<a href="https://beta.darkreading.com/threat-intelligence/nsa-funds-development-release-of-d3fend-framework?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Councils Reported Over 700 Data Breaches in 2020<a href="https://www.infosecurity-magazine.com:443/news/over-700-councils-data-breaches/"> Full Text</a>
@@ -318,7 +318,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE adds D3FEND defensive cybersecurity techniques to ATT&CK Framework<a href="https://securityaffairs.co/wordpress/119263/security/mitre-d3fend-project.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Cybercriminals Impersonated SEC Officials, Sick Restaurant Customers to Lure Victims<a href="https://www.cyberscoop.com/fin7-hacking-phishing-sec-restaurant/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline Sued for Gas Crisis From Ransomware Attack<a href="https://finance.yahoo.com/news/colonial-pipeline-sued-gas-shortage-142058932.html?guccounter=1&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shame culture is the biggest roadblock to increasing security posture<a href="https://www.helpnetsecurity.com/2021/06/23/shame-culture-security-posture/?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall bug affecting 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-affecting-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Left a VPN Flaw Partially Unpatched Amidst 0-Day Attacks<a href="https://thehackernews.com/2021/06/sonicwall-left-vpn-flaw-partially.html"> Full Text</a>

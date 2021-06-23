@@ -11,6 +11,76 @@ nav_order: 900220
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Supply-Chain Flaw Affects 'Pling Store' Platforms for Linux Users<a href="https://thehackernews.com/2021/06/unpatched-critical-flaw-affects-pling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a critical unpatched vulnerability affecting Pling-based free and open-source software (FOSS) marketplaces for Linux platform that could be potentially abused to stage supply chain attacks and achieve remote code execution (RCE).  "Linux marketplaces that are based on the Pling platform are vulnerable to a wormable [cross-site scripting] with potential for a supply chain attack," Positive Security co-founder Fabian Bräunlein&nbsp; said &nbsp;in a technical write-up published today. "The native PlingStore application is affected by an RCE vulnerability, which can be triggered from any website while the app is running."   The Pling-based app stores impacted by the flaw include —   appimagehub.com  store.kde.org  gnome-look.org  xfce-look.org  pling.com   PlingStore allows users to search and install Linux software, themes, icons, and other add-ons that may not be available for download through the distribution's software center.&nbsp;  T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall bug that affected 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-that-affected-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have emerged that shed light on a critical SonicWall vulnerability disclosed last year, which affected over 800,000 VPN firewalls and was initially thought to have been patched. Tracked as CVE-2020-5135, when exploited,&nbsp;the bug allows&nbsp;unauthenticated remote attackers to execute arbitrary code on the impacted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zephyr RTOS fixes Bluetooth bugs that may lead to code execution<a href="https://www.bleepingcomputer.com/news/security/zephyr-rtos-fixes-bluetooth-bugs-that-may-lead-to-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zephyr real-time operating system (RTOS) for embedded devices received an update earlier this month that fixes multiple vulnerabilities that can cause a denial-of-service (DoS) condition and potentially lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email Bug Allows Message Snooping, Credential Theft<a href="https://threatpost.com/email-bug-message-snooping-credential-theft/167125/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year-old proof-of-concept attack that allows an attacker to bypass TLS email protections to snoop on messages has been patched. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lexmark Printers Open to Arbitrary Code-Execution Zero-Day<a href="https://threatpost.com/lexmark-printers-code-execution-zero-day/167111/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“No remedy available as of June 21, 2021,” according to the researcher who discovered the easy-to-exploit, no-user-action-required bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Complex supply chain logistics are leaving defense contractors vulnerable<a href="https://www.scmagazine.com/home/security-news/government-and-defense/complex-supply-chain-logistics-are-leaving-defense-contractors-vulnerable/"> Full Text</a>
 </p>
 <details>

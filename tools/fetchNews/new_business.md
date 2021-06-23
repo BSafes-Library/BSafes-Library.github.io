@@ -8,6 +8,38 @@ nav_order: 900027
 
 ## Business
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE adds D3FEND defensive cybersecurity techniques to ATT&amp;CK Framework<a href="https://securityaffairs.co/wordpress/119263/security/mitre-d3fend-project.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+D3FEND is a new project promoted by MITRE Corporation to add defensive cybersecurity techniques to the ATT&amp;CK Framework.
+
+
+
+D3FEND is a new project promoted by MITRE Corporation aimed to add a knowledge graph of cybersecurity countermeasures to the ATT&amp;CK...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Sued for Gas Crisis From Ransomware Attack<a href="https://finance.yahoo.com/news/colonial-pipeline-sued-gas-shortage-142058932.html?guccounter=1&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Co. was sued by a gas station seeking to represent thousands more over the ransomware attack in May that paralyzed the U.S. East Coast’s flow of gasoline, diesel, and jet fuel.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

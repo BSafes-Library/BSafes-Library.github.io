@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks fixes critical flaw (CVE-2021-3044) in Cortex XSOAR<a href="https://securityaffairs.co/wordpress/119276/security/palo-alto-networks-cve-2021-3044-cortex-xsoar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks addresses a critical improper authorization vulnerability (CVE-2021-3044) affecting its Cortex XSOAR security orchestration solution, automation and response (SOAR) platform.
+
+
+
+Researchers from Palo Alto Networks discovered and addresses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Tor Browser Bug to Prevent Tracking of Your Online Activities<a href="https://thehackernews.com/2021/06/patch-tor-browser-bug-to-prevent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source Tor browser has been updated to version 10.0.18 with fixes for multiple issues, including a privacy-defeating bug that could be used to uniquely fingerprint users across different browsers based on the apps installed on a computer.  In addition to&nbsp; updating &nbsp;Tor to 0.4.5.9, the browser's Android version has been upgraded to Firefox to version 89.1.1, alongside incorporating patches rolled out by Mozilla for several&nbsp; security vulnerabilities &nbsp;addressed in Firefox 89.   Chief among the rectified issues is a new fingerprinting attack that came to light last month. Dubbed&nbsp; scheme flooding , the vulnerability enables a malicious website to leverage information about installed apps on the system to assign users a permanent unique identifier even when they switch browsers, use incognito mode, or a VPN.  Put differently, the&nbsp; weakness &nbsp;takes advantage of custom URL schemes in apps as an attack vector, allowing a bad actor to track a device's user between different browsers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall finally fixed a flaw resulting from a partially patched 2020 zero-day<a href="https://securityaffairs.co/wordpress/119269/security/sonicwall-vpn-unpatched-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, tracked as&nbsp;CVE-2021-20019, in SonicWall VPN appliances was only partially patched last year and could allow a remote attacker to steal sensitive data.
+
+
+
+In October last year,&nbsp;experts reported a&nbsp;critical stack-based Buffer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall bug affecting 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-affecting-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have emerged that shed light on a critical SonicWall vulnerability disclosed last year, which affected over 800,000 VPN firewalls and was initially thought to have been patched. Tracked as CVE-2020-5135, when exploited,&nbsp;the bug allows&nbsp;unauthenticated remote attackers to execute arbitrary code on the impacted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Left a VPN Flaw Partially Unpatched Amidst 0-Day Attacks<a href="https://thehackernews.com/2021/06/sonicwall-left-vpn-flaw-partially.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in SonicWall VPN appliances that was believed to have been patched last year has been now found to be "botched," with the company leaving a memory leak flaw unaddressed, until now, that could permit a remote attacker to gain access to sensitive information.  The shortcoming was rectified in an update rolled out to SonicOS on June 22.&nbsp;  Tracked as&nbsp; CVE-2021-20019 &nbsp;(CVSS score: 5.3), the vulnerability is the consequence of a memory leak when sending a specially-crafted unauthenticated HTTP request, culminating in information disclosure.   It's worth noting that SonicWall's decision to hold back the patch comes amid&nbsp; multiple &nbsp; zero-day &nbsp; disclosures &nbsp;affecting its remote access VPN and email security products that have been exploited in a series of in-the-wild attacks to deploy backdoors and a new strain of ransomware called FIVEHANDS.  Howevere, there is no evidence that the flaw is being exploited in the wild.  Memory Dump PoC  "SonicWal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

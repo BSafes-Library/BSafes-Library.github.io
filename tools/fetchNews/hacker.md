@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedFoxtrot Group Linked to Unit 69010 from China<a href="https://cyware.com/news/redfoxtrot-group-linked-to-unit-69010-from-china-b1694173"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberespionage campaigns spread across several years were linked to the Chinese military group PLA Unit 69010. Dubbed RedFoxtrot, the threat actor focused on gathering military intelligence from various countries. Learn how PLA-affiliated groups&nbsp;are operating and targeting victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

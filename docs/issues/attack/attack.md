@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland: Three quarters of HSE IT servers decrypted following crippling cyberattack<a href="https://www.thejournal.ie/75-it-servers-restored-cyber-attack-5474660-Jun2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 75% of the HSE’s IT servers have been decrypted and 70% of the health service’s computer devices have been restored to use following a cyber attack nearly six weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+The Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

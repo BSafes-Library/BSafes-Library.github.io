@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Whitepaper] Automate Your Security with Cynet to Protect from Ransomware<a href="https://thehackernews.com/2021/06/whitepaper-automate-your-security-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It seems like every new day brings with it a new ransomware news item – new attacks, methods, horror stories, and data being leaked.  Ransomware attacks are on the rise, and they've become a major issue for organizations across industries. A recent report estimated that by 2031, ransomware attacks would cost the world over $260 billion.  A new whitepaper from XDR provider Cynet demonstrates how the company's platform can help organizations mitigate the impact of ransomware ( download here ).  Today, attackers have shown themselves to be less interested in ignoring the most vulnerable sectors, such as health care providers and hospitals. With a parallel increase in the number of variants – Wastedlocker, FTCode, Tycooon, TrickBot, REvil, and many others – it's becoming harder to defend against the growing threat of ransomware.  Ransomware operates by using a variety of infection and encryption techniques to steal or barricade companies' files behind hard paywalls. Even t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Banks Drive £77 Million Reduction in European Fraud Losses<a href="https://www.infosecurity-magazine.com:443/news/uk-banks-77-million-reduction-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British lenders helped continent despite rises in many countries
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 10% of SMB Defense Contractors Show Evidence of Compromise<a href="https://www.infosecurity-magazine.com:443/news/nearly-10-smb-defense-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueVoyant uncovers widespread cyber-risk and malicious activity in US defense supply chain
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Councils Reported Over 700 Data Breaches in 2020<a href="https://www.infosecurity-magazine.com:443/news/over-700-councils-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Redscan study claims 40% of UK councils spent no money on security training
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shame culture is the biggest roadblock to increasing security posture<a href="https://www.helpnetsecurity.com/2021/06/23/shame-culture-security-posture/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing simulations don’t increase cyber-resilience as much as they make them view the IT teams negatively, thereby making it more challenging to get them on board with strategic initiatives.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

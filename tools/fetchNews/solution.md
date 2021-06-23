@@ -11,6 +11,20 @@ nav_order: 900195
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Tool lets users supplement Mitre ATT&amp;CK knowledge base with their own threat intel<a href="https://www.scmagazine.com/home/security-news/tool-lets-users-supplement-mitre-attck-knowledge-base-with-their-own-threat-intel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool ultimately enables companies to create their own customized repository of cyber threat information.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Tool Launched to Remove Nude Images of Children Online<a href="https://www.infosecurity-magazine.com:443/news/tool-launched-nude-images-children/"> Full Text</a>
 </p>
 <details>

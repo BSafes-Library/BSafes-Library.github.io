@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware is back in business after recent arrests<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-is-back-in-business-after-recent-arrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware operation is back in business after recent arrests and has begun listing new victims on their data leak site again.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Cybercriminals Impersonated SEC Officials, Sick Restaurant Customers to Lure Victims<a href="https://www.cyberscoop.com/fin7-hacking-phishing-sec-restaurant/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 impersonated angry restaurant customers and targeted specific individuals with access to financial information, U.S. prosecutors argue in a court filing that sheds new light on the hacker group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

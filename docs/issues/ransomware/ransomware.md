@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware is back into action after the recent police operation<a href="https://securityaffairs.co/wordpress/119282/cyber-crime/clop-ransomware-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after the law enforcement operation that targeted the Clop ransomware operators, the gang is back into action.
+
+
+
+A week after the international operation conducted by law enforcement that targeted several members of the Clop ransomware gang,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LV Ransomware Variant Hijacks Malicious Binaries Used by REvil Operators<a href="https://www.theregister.com/2021/06/23/revil_ransomware_lv/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LV variant operators have been observed in the wild since October 2020, deploying a tweaked version of REvil’s binary with references to REvil’s C2 and data exfiltration infrastructure removed.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

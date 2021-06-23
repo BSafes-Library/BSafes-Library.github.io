@@ -8,6 +8,74 @@ nav_order: 900015
 
 ## Attack
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuits filed against Scripps Health following ransomware attack, data theft<a href="https://www.scmagazine.com/home/health-care/lawsuits-filed-against-scripps-health-following-ransomware-attack-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Noteworthy is that Scripps maintained open transparency and communication for each step of recovery after a ransomware attack exposed protected health information of 150,000 patients – a decision that is actually not required under HIPPA.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ADVERSARIAL OCTOPUS – ATTACK DEMO FOR AI-DRIVEN FACIAL RECOGNITION ENGINE<a href="https://securityaffairs.co/wordpress/119248/hacking/adversarial-octopus-facial-recognition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Adversa devised an attack technique, dubbed ADVERSARIAL OCTOPUS, against Facial Recognition systems.&nbsp;
+
+
+
+THE INTENTION BEHIND THIS PROJECT
+
+
+
+Driven by our mission to increase trust in AI, Adversa’s AI Red Team is constantly exploring...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A ransomware attack disrupted the IT network of the City of Liege<a href="https://securityaffairs.co/wordpress/119240/malware/city-of-liege-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgium city of Liege has suffered today a ransomware attack that has disrupted the IT network of the municipality and its online services.
+
+
+
+Liege, one of the biggest cities in Belgium, was hit by a ransomware attack that has disrupted the IT network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Polish government officials linked to Russian hackers<a href="https://thehill.com//policy/cybersecurity/559610-cyberattack-on-polish-government-officials-linked-to-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent string of cyberattacks targeted at thousands of Polish email users, including government officials, have been linked by the Polish intelligence services to a Russian hacking group.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
