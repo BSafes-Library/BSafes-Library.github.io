@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Healthcare giant Grupo Fleury hit by alleged REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-alleged-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazilian medical diagnostic company Grupo Fleury has suffered a ransomware attack that has disrupted business operations after the company took its systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Bypasses SEG to Target Office365 Users<a href="https://cyware.com/news/phishing-campaign-bypasses-seg-to-target-office365-users-342c1c8a"> Full Text</a>
 </p>
 <details>
