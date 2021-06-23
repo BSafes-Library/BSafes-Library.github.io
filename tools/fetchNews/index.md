@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Adversarial Octopus – Attack Demo for AI-driven Facial Recognition Engine<a href="https://securityaffairs.co/wordpress/119248/hacking/adversarial-octopus-facial-recognition.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This type of attack may lead to dire consequences and may be used in both poisoning scenarios by subverting computer vision algorithms and evasion scenarios like making stealth deepfakes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes authentication bypass in Carbon Black App Control<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-carbon-black-app-control/"> Full Text</a>
 </p>
 <details>
