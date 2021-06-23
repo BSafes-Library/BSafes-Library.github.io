@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House passes bill to bolster state plans to ward off infrastructure attacks<a href="https://thehill.com//homenews/house/559726-house-passes-bill-to-bolster-state-plans-to-ward-off-infrastructure-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House passed bipartisan legislation on Tuesday to provide federal guidance and resources to states vulnerable to attacks on their infrastructure following the ransomware cyber attack on the Colonial Pipeline last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tech industry pushes for delay in antitrust legislation | EU regulators investigating Google's digital ad business | YouTube wins EU court case over copyright violations<a href="https://thehill.com//policy/technology/overnights/559714-hillicon-valley-tech-industry-pushes-for-delay-in-antitrust"> Full Text</a>
 </p>
 <details>
