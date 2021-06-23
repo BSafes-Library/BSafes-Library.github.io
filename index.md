@@ -34,6 +34,390 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA ransomware backdoors education orgs using ChaChi malware<a href="https://www.bleepingcomputer.com/news/security/pysa-ransomware-backdoors-education-orgs-using-chachi-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PYSA ransomware gang has been using a remote access Trojan (RAT) dubbed ChaChi to backdoor the systems of healthcare and education organizations and steal data that later gets leveraged in double extortion ransom schemes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland: Three quarters of HSE IT servers decrypted following crippling cyberattack<a href="https://www.thejournal.ie/75-it-servers-restored-cyber-attack-5474660-Jun2021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 75% of the HSE’s IT servers have been decrypted and 70% of the health service’s computer devices have been restored to use following a cyber attack nearly six weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+The Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-linked hackers targeted Indian power company with ReverseRat<a href="https://thehackernews.com/2021/06/pakistan-linked-hackers-targeted-indian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with suspected ties to Pakistan has been striking government and energy organizations in the South and Central Asia regions to deploy a remote access trojan on compromised Windows systems, according to new research.  "Most of the organizations that exhibited signs of compromise were in India, and a small number were in Afghanistan," Lumen's Black Lotus Labs  said  in a Tuesday analysis. "The potentially compromised victims aligned with the government and power utility verticals."  Some of the victims include a foreign government organization, a power transmission organization, and a power generation and transmission organization. The covert operation is said to have begun at least in January 2021.   The intrusions are notable for a number of reasons, not least because in addition to its highly-targeted nature, the tactics, techniques, and procedures (TTPs) adopted by the adversary rely on repurposed open-source code and the use of compromised dom
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Proposes Joint Cyber Unit Amid Rising Attacks<a href="https://www.infosecurity-magazine.com:443/news/eu-proposes-joint-cyber-unit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The proposed Joint Cyber Unit aims to enable a coordinated response to cyber incidents
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware is back into action after the recent police operation<a href="https://securityaffairs.co/wordpress/119282/cyber-crime/clop-ransomware-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after the law enforcement operation that targeted the Clop ransomware operators, the gang is back into action.
+
+
+
+A week after the international operation conducted by law enforcement that targeted several members of the Clop ransomware gang,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple warns of sideloading risk as lawmakers consider third-party app stores<a href="https://www.scmagazine.com/home/security-news/mobile-security/apple-warns-of-sideloading-risk-as-lawmakers-consider-third-party-app-stores/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers and rival companies have said that @Apple’s control of the App Store allows the company to charge excessive fees to list apps or limit competitors to Apple services.  Apple says it’s for the sake of security.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware is back in business after recent arrests<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-is-back-in-business-after-recent-arrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware operation is back in business after recent arrests and has begun listing new victims on their data leak site again.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LV Ransomware Variant Hijacks Malicious Binaries Used by REvil Operators<a href="https://www.theregister.com/2021/06/23/revil_ransomware_lv/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LV variant operators have been observed in the wild since October 2020, deploying a tweaked version of REvil’s binary with references to REvil’s C2 and data exfiltration infrastructure removed.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Whitepaper] Automate Your Security with Cynet to Protect from Ransomware<a href="https://thehackernews.com/2021/06/whitepaper-automate-your-security-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It seems like every new day brings with it a new ransomware news item – new attacks, methods, horror stories, and data being leaked.  Ransomware attacks are on the rise, and they've become a major issue for organizations across industries. A recent report estimated that by 2031, ransomware attacks would cost the world over $260 billion.  A new whitepaper from XDR provider Cynet demonstrates how the company's platform can help organizations mitigate the impact of ransomware ( download here ).  Today, attackers have shown themselves to be less interested in ignoring the most vulnerable sectors, such as health care providers and hospitals. With a parallel increase in the number of variants – Wastedlocker, FTCode, Tycooon, TrickBot, REvil, and many others – it's becoming harder to defend against the growing threat of ransomware.  Ransomware operates by using a variety of infection and encryption techniques to steal or barricade companies' files behind hard paywalls. Even t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Banks Drive £77 Million Reduction in European Fraud Losses<a href="https://www.infosecurity-magazine.com:443/news/uk-banks-77-million-reduction-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British lenders helped continent despite rises in many countries
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks fixes critical flaw (CVE-2021-3044) in Cortex XSOAR<a href="https://securityaffairs.co/wordpress/119276/security/palo-alto-networks-cve-2021-3044-cortex-xsoar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks addresses a critical improper authorization vulnerability (CVE-2021-3044) affecting its Cortex XSOAR security orchestration solution, automation and response (SOAR) platform.
+
+
+
+Researchers from Palo Alto Networks discovered and addresses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuits filed on behalf of Scripps Health patients in cyber attack<a href="https://www.10news.com/news/local-news/lawsuits-filed-on-behalf-of-scripps-health-patients-in-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of lawsuits have been filed on behalf of former and current Scripps Health patients who allege their personal information may have been compromised during the recent ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+10 News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Tor Browser Bug to Prevent Tracking of Your Online Activities<a href="https://thehackernews.com/2021/06/patch-tor-browser-bug-to-prevent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source Tor browser has been updated to version 10.0.18 with fixes for multiple issues, including a privacy-defeating bug that could be used to uniquely fingerprint users across different browsers based on the apps installed on a computer.  In addition to  updating  Tor to 0.4.5.9, the browser's Android version has been upgraded to Firefox to version 89.1.1, alongside incorporating patches rolled out by Mozilla for several  security vulnerabilities  addressed in Firefox 89.   Chief among the rectified issues is a new fingerprinting attack that came to light last month. Dubbed  scheme flooding , the vulnerability enables a malicious website to leverage information about installed apps on the system to assign users a permanent unique identifier even when they switch browsers, use incognito mode, or a VPN.  Put differently, the  weakness  takes advantage of custom URL schemes in apps as an attack vector, allowing a bad actor to track a device's user between different browsers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 10% of SMB Defense Contractors Show Evidence of Compromise<a href="https://www.infosecurity-magazine.com:443/news/nearly-10-smb-defense-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueVoyant uncovers widespread cyber-risk and malicious activity in US defense supply chain
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall finally fixed a flaw resulting from a partially patched 2020 zero-day<a href="https://securityaffairs.co/wordpress/119269/security/sonicwall-vpn-unpatched-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, tracked as CVE-2021-20019, in SonicWall VPN appliances was only partially patched last year and could allow a remote attacker to steal sensitive data.
+
+
+
+In October last year, experts reported a critical stack-based Buffer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Funds Development & Release of D3FEND Framework<a href="https://beta.darkreading.com/threat-intelligence/nsa-funds-development-release-of-d3fend-framework?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency today announced it is funding the development and release of D3FEND, a framework for security pros to tailor their defenses against specific security threats.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Councils Reported Over 700 Data Breaches in 2020<a href="https://www.infosecurity-magazine.com:443/news/over-700-councils-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Redscan study claims 40% of UK councils spent no money on security training
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE adds D3FEND defensive cybersecurity techniques to ATT&CK Framework<a href="https://securityaffairs.co/wordpress/119263/security/mitre-d3fend-project.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+D3FEND is a new project promoted by MITRE Corporation to add defensive cybersecurity techniques to the ATT&CK Framework.
+
+
+
+D3FEND is a new project promoted by MITRE Corporation aimed to add a knowledge graph of cybersecurity countermeasures to the ATT&CK...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Cybercriminals Impersonated SEC Officials, Sick Restaurant Customers to Lure Victims<a href="https://www.cyberscoop.com/fin7-hacking-phishing-sec-restaurant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 impersonated angry restaurant customers and targeted specific individuals with access to financial information, U.S. prosecutors argue in a court filing that sheds new light on the hacker group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline Sued for Gas Crisis From Ransomware Attack<a href="https://finance.yahoo.com/news/colonial-pipeline-sued-gas-shortage-142058932.html?guccounter=1&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline Co. was sued by a gas station seeking to represent thousands more over the ransomware attack in May that paralyzed the U.S. East Coast’s flow of gasoline, diesel, and jet fuel.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shame culture is the biggest roadblock to increasing security posture<a href="https://www.helpnetsecurity.com/2021/06/23/shame-culture-security-posture/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing simulations don’t increase cyber-resilience as much as they make them view the IT teams negatively, thereby making it more challenging to get them on board with strategic initiatives.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall bug affecting 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-affecting-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have emerged that shed light on a critical SonicWall vulnerability disclosed last year, which affected over 800,000 VPN firewalls and was initially thought to have been patched. Tracked as CVE-2020-5135, when exploited, the bug allows unauthenticated remote attackers to execute arbitrary code on the impacted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Left a VPN Flaw Partially Unpatched Amidst 0-Day Attacks<a href="https://thehackernews.com/2021/06/sonicwall-left-vpn-flaw-partially.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in SonicWall VPN appliances that was believed to have been patched last year has been now found to be "botched," with the company leaving a memory leak flaw unaddressed, until now, that could permit a remote attacker to gain access to sensitive information.  The shortcoming was rectified in an update rolled out to SonicOS on June 22.   Tracked as  CVE-2021-20019  (CVSS score: 5.3), the vulnerability is the consequence of a memory leak when sending a specially-crafted unauthenticated HTTP request, culminating in information disclosure.   It's worth noting that SonicWall's decision to hold back the patch comes amid  multiple   zero-day   disclosures  affecting its remote access VPN and email security products that have been exploited in a series of in-the-wild attacks to deploy backdoors and a new strain of ransomware called FIVEHANDS.  Howevere, there is no evidence that the flaw is being exploited in the wild.  Memory Dump PoC  "SonicWal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
