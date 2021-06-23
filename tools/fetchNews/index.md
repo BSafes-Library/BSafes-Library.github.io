@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Employee Privacy Gap Discovered<a href="https://www.infosecurity-magazine.com:443/news/employee-privacy-gap-discovered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barely a third of companies are protecting the privacy of their workers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammer arrested for phishing operation, sent 25,000 texts in a day<a href="https://www.bleepingcomputer.com/news/security/scammer-arrested-for-phishing-operation-sent-25-000-texts-in-a-day/"> Full Text</a>
 </p>
 <details>
