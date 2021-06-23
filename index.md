@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Linux Marketplace Bugs Allow Wormable Attacks, Drive-By RCE<a href="https://threatpost.com/unpatched-linux-marketplace-bugs-rce/167155/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of zero-days affecting Pling-based marketplaces could allow for some ugly attacks on unsuspecting Linux enthusiasts — with no patches in sight.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 City of Tulsa Reports Cyber Incident Potentially Affecting Personal Information of Residents<a href="https://edition.cnn.com/2021/06/23/us/tulsa-cyberattack-personal-information-dark-web/index.html?&web_view=true"> Full Text</a>
 </p>
 <details>
