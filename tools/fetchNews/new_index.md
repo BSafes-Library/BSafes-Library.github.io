@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dangers Posed by Evidentiary Software—and What to Do about It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-software%E2%80%94and-what-do-about-it"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's well known the code is buggy; that's why software updates for anything from apps to operating systems are now the norm. But if the public understands this, the courts have not followed suit.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator: Is it time to treat ransomware like piracy, using military to make operators walk the plank?<a href="https://www.scmagazine.com/home/security-news/ransomware/senator-is-it-time-to-treat-ransomware-like-piracy-using-military-to-make-operators-walk-the-plank/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Said Sen. Mike Rounds, R-S.D.: “The Department of Defense clearly has a role to play” in addressing the threat of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Healthcare giant Grupo Fleury hit by alleged REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-alleged-revil-ransomware-attack/"> Full Text</a>
 </p>
 <details>
