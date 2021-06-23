@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Amid big hacks, U.S. spy agency touts collaboration center with private industry<a href="https://www.reuters.com/technology/amid-big-hacks-us-spy-agency-touts-collaboration-center-with-private-industry-2021-06-22/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency, in a rare move, on Tuesday showcased a new office aimed at greater collaboration with U.S. private sector defense, technology and telecommunications companies.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Linux Marketplace Bugs Allow Wormable Attacks, Drive-By RCE<a href="https://threatpost.com/unpatched-linux-marketplace-bugs-rce/167155/"> Full Text</a>
 </p>
 <details>
