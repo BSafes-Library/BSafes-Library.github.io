@@ -19,6 +19,7 @@ nav_order: 400
 * [Deploying Secure Unified Communications/Voice and Video over IP Systems](https://publications.bsafes.com/docs/nsa/deploying-secure-unified-communications-voice-and-video-over-ip-systems/)
 * [Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack, by Harrison Cunningham](https://papers.bsafes.com/docs/cybercrime/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)
 * [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
+* [Evaluating Security in Cryptocurrency Wallets](https://papers.bsafes.com/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets/)
 * [Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts](https://papers.bsafes.com/docs/Politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
 * [Grief is love with nowhere to go, by Sara Sampson](https://papers.bsafes.com/docs/behavior/grief-is-love-with-nowhere-to-go/)
 * [Handle with Care: Domestic Violence Safety Planning in the Age of Data Privacy Laws, by Jenny Wu](https://papers.bsafes.com/docs/law/handle-with-care-domestic-violence-safety-planning-in-the-age-of-data-privacy-law/)

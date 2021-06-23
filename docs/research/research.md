@@ -105,6 +105,18 @@ Youth with autism spectrum disorder (ASD) frequently play video games. Social de
 May 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Evaluating Security in Cryptocurrency Wallets[HTML](https://papers.bsafes.com/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of users who are interested in trading Cryptocurrency is tremendously increasing, however, some users of cryptocurrency wallets do not know how to protect themselves or how to use a wallet with high protection.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • 5G Technology, U.S. - China Race, And the Competition for Dominance [HTML](https://papers.bsafes.com/docs/5G/5g-technology-us-china-race-and-the-competition-for-dominan/)
 </p>
 <details>
