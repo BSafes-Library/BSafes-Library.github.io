@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Spanish court approves extradition of John McAfee to US<a href="https://thehill.com//policy/cybersecurity/559886-spanish-court-approves-extradition-of-john-mcafee-to-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain’s National Court approved the extradition of anti-virus software pioneer John McAfee for tax evasion charges. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A COVID-19-Themed Campaign Delivering Agent Tesla<a href="https://cyware.com/news/a-covid-19-themed-campaign-delivering-agent-tesla-d5779a3f"> Full Text</a>
 </p>
 <details>
