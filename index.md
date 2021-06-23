@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Scammer arrested for phishing operation, sent 25,000 texts in a day<a href="https://www.bleepingcomputer.com/news/security/scammer-arrested-for-phishing-operation-sent-25-000-texts-in-a-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The police has arrested an individual last week for sending fraudulent text messages to thousands of people to obtain banking details and defraud them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammer sends over 25,000 phishing texts in a day, arrested<a href="https://www.bleepingcomputer.com/news/security/scammer-sends-over-25-000-phishing-texts-in-a-day-arrested/"> Full Text</a>
 </p>
 <details>
