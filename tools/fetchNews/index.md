@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House panel includes $500 million election security grant in proposed appropriations bill<a href="https://thehill.com//policy/cybersecurity/559836-house-panel-includes-500-million-election-security-grant-in-proposed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Appropriations Committee on Wednesday included $500 million for election security grants in one of the proposed appropriations bills for next year. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Code Ripped Off by Rivals<a href="https://threatpost.com/revil-ransomware-code-rivals/167167/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LV ransomware operators likely used a hex editor to repurpose a REvil binary almost wholesale, for their own nefarious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Majority of Web Apps in 11 Industries Are Vulnerable All the Time<a href="https://www.darkreading.com/application-security/majority-of-web-apps-in-11-industries-are-vulnerable-all-the-time/d/d-id/1341356?&web_view=true"> Full Text</a>
 </p>
 <details>
