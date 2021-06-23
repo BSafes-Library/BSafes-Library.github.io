@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Majority of Web Apps in 11 Industries Are Vulnerable All the Time<a href="https://www.darkreading.com/application-security/majority-of-web-apps-in-11-industries-are-vulnerable-all-the-time/d/d-id/1341356?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-thirds of the applications deployed by the utility sector and 63% of those deployed by public administration organizations have a serious vulnerability, according to a report by WhiteHat Security.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Industry Experiences 340% Spike in Web App Attacks<a href="https://www.infosecurity-magazine.com:443/news/gaming-industry-spike-web-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web app attacks surged by 340% in 2020 compared to 2019, according to a new study from Akamai
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Tulsa warns of data breach after Conti ransomware leaks police citations<a href="https://www.bleepingcomputer.com/news/security/tulsa-warns-of-data-breach-after-conti-ransomware-leaks-police-citations/"> Full Text</a>
 </p>
 <details>
