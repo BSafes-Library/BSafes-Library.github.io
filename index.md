@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Tulsa warns of data breach after Conti ransomware leaks police citations<a href="https://www.bleepingcomputer.com/news/security/tulsa-warns-of-data-breach-after-conti-ransomware-leaks-police-citations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Tulsa, Oklahoma, is warning residents that their personal data may have been exposed after a ransomware gang published police citations online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Information of 500,000 Patients of Iowa-based Wolfe Eye Clinic Accessed in Cyberattack<a href="https://apnews.com/article/ia-state-wire-iowa-business-hacking-technology-5886dc62016f9fd541f7c8fe9846abf7?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The records of roughly 500,000 patients of an eye clinic with locations throughout Iowa may have been stolen as part of a ransomware attack on the business earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Amid big hacks, U.S. spy agency touts collaboration center with private industry<a href="https://www.reuters.com/technology/amid-big-hacks-us-spy-agency-touts-collaboration-center-with-private-industry-2021-06-22/?&web_view=true"> Full Text</a>
 </p>
 <details>
