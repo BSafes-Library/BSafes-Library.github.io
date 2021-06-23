@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI asks Congress for $40M to help combat wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/559947-fbi-asks-congress-for-40-million-to-help-combat-wave-of-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray on Wednesday told a Senate panel that a request for a $40 million increase in its cybersecurity budget for the upcoming fiscal year would go in part towards combating increasing and damaging ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+John McAfee found dead in prison cell ahead of extradition to US<a href="https://securityaffairs.co/wordpress/119332/breaking-news/john-mcafee-found-dead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the fathers of antivirus software, the entrepreneur John McAfee has been found dead in a Barcelona prison cell while he was waiting for extradition to the US.
+
+
+
+The popular cybersecurity entrepreneur John McAfee has been found dead in a Barcelona...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Rick Scott blocks Senate vote on top cyber nominee until Harris visits border<a href="https://thehill.com//policy/cybersecurity/559936-rick-scott-blocks-senate-vote-on-top-cyber-nominee-until-harris-visits"> Full Text</a>
 </p>
 <details>
