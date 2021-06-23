@@ -37,6 +37,56 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Bypasses SEG to Target Office365 Users<a href="https://cyware.com/news/phishing-campaign-bypasses-seg-to-target-office365-users-342c1c8a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign that counterfeits an Outlook Security update email is luring employees to open a New Policy PDF to harvest their Office 365 credentials. There is a dire need for a continuously evolving security strategy which also highlights the importance of having multiple layers of secur ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mr. Double’s Operator Jailed<a href="https://www.infosecurity-magazine.com:443/news/mr-doubles-operator-jailed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prison for Texan behind website that published stories describing the torture and murder of children
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+sLoad Malware Moving to European Targets<a href="https://cyware.com/news/sload-malware-moving-to-european-targets-0cfa3184"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starslord loader has been reported active again with its target in the U.K and Italy. The malware creator is regularly changing the first stage script, while the main module largely remains the same. sLoad is a potential threat; it is important that organizations take this threat more seriously and ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iran Media Websites Seized by U.S. in Disinformation Campaign<a href="https://threatpost.com/iran-media-websites-seized-disinformation/167198/"> Full Text</a>
 </p>
 <details>
