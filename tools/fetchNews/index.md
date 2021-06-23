@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes authentication bypass in Carbon Black App Control<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-carbon-black-app-control/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware Carbon Black App Control has been updated this week to fix a critical-severity vulnerability that allows access to the server without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Cl0p Announces New Victim After Police Bust<a href="https://www.vice.com/en/article/88n5j3/ransomware-gang-cl0p-announces-new-victim-after-police-bust?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent arrests of Cl0p members were seen as a victory against the gang that has hit dozens of victims, including U.S. bank Flagstar, law firm Jonesday, Shell, and some universities in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OIG: CMS lacks protocol to assess networked medical device cybersecurity in hospitals<a href="https://www.scmagazine.com/home/health-care/oig-cms-lacks-protocol-to-assess-networked-medical-device-cybersecurity-in-hospitals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lack of real-time data on inventories, connections, and device communications, combined with reliance on legacy platforms and slow patch management processes have resulted in many providers leaving the door open to attackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Employee Privacy Gap Discovered<a href="https://www.infosecurity-magazine.com:443/news/employee-privacy-gap-discovered/"> Full Text</a>
 </p>
 <details>
