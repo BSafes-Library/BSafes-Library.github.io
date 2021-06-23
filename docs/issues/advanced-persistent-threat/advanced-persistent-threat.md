@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korean Nuclear Research Agency Targeted by APT Group<a href="https://cyware.com/news/south-korean-nuclear-research-agency-targeted-by-apt-group-32b3829a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nuclear energy and arms-related organizations are under attack from several other APT groups across the globe.&nbsp;A North Korean APT group recently breached the internal network of the Korea Atomic Energy Research Institute (KAERI), South Korea through a vulnerability in a VPN server last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

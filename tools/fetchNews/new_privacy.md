@@ -11,6 +11,34 @@ nav_order: 900165
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brave launches its privacy-focused no-tracking search engine<a href="https://www.bleepingcomputer.com/news/software/brave-launches-its-privacy-focused-no-tracking-search-engine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Brave launched their non-tracking privacy-centric search engine to bring another alternative to finding the information you want on the web without giving up your data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kids’ Apps on Google Play Rife with Privacy Violations<a href="https://threatpost.com/kids-apps-google-play-privacy-violations/167110/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five of the most-popular apps for kids under 13 on Google Play don’t comply with COPPA regulations on how children’s information is collected and used.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Six Flags to Pay $36M Over Collection of Fingerprints<a href="https://threatpost.com/six-flags-to-pay-36m-over-collection-of-fingerprints/167103/"> Full Text</a>
 </p>
 <details>

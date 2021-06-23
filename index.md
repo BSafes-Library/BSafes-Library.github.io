@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House passes bill to bolster state plans to ward off infrastructure attacks<a href="https://thehill.com//homenews/house/559726-house-passes-bill-to-bolster-state-plans-to-ward-off-infrastructure-attacks"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tech industry pushes for delay in antitrust legislation | EU regulators investigating Google's digital ad business | YouTube wins EU court case over copyright violations<a href="https://thehill.com//policy/technology/overnights/559714-hillicon-valley-tech-industry-pushes-for-delay-in-antitrust"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Cyber Command leads competition in effort to strengthen nation's cybersecurity<a href="https://thehill.com//policy/cybersecurity/559703-us-cyber-command-leads-competition-in-effort-to-strengthen-nations"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Could better cyber hygiene have prevented the SolarWinds attack?<a href="https://www.scmagazine.com/home/security-news/could-better-cyber-hygiene-have-prevented-the-solarwinds-attack/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wormable bash DarkRadiation Ransomware targets Linux distros and docker containers<a href="https://securityaffairs.co/wordpress/119256/uncategorized/wormable-bash-darkradiation-ransomware.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BEC Losses Top $1.8B as Tactics Evolve<a href="https://threatpost.com/bec-losses-top-18b/167148/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50% of CISOs say the push for rapid growth and digital transformation stalls cloud security<a href="https://www.scmagazine.com/home/security-news/cloud-security/50-of-cisos-say-the-push-for-rapid-growth-and-digital-transformation-stalls-cloud-security/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawsuits filed against Scripps Health following ransomware attack, data theft<a href="https://www.scmagazine.com/home/health-care/lawsuits-filed-against-scripps-health-following-ransomware-attack-data-theft/"> Full Text</a>
@@ -166,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Supply-Chain Flaw Affects 'Pling Store' Platforms for Linux Users<a href="https://thehackernews.com/2021/06/unpatched-critical-flaw-affects-pling.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Teens on Trial for Cyber-bullying<a href="https://www.infosecurity-magazine.com:443/news/french-teens-on-trial-for/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptominers Slither into Python Projects in Supply-Chain Campaign<a href="https://threatpost.com/cryptominers-python-supply-chain/167135/"> Full Text</a>
@@ -214,7 +214,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brave launches its privacy-focused no-tracking search engine<a href="https://www.bleepingcomputer.com/news/software/brave-launches-its-privacy-focused-no-tracking-search-engine/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall bug that affected 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-that-affected-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
@@ -246,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Publishes Ransomware Guidance<a href="https://www.infosecurity-magazine.com:443/news/nist-publishes-ransomware-guidance/"> Full Text</a>
@@ -262,7 +262,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC Probes SolarWinds Breach Disclosure Failures<a href="https://www.infosecurity-magazine.com:443/news/sec-probes-solarwinds-breach/"> Full Text</a>
@@ -278,7 +278,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vigilante Malware Prevent Access to Piracy Sites<a href="https://cyware.com/news/vigilante-malware-prevent-access-to-piracy-sites-9a00cd4e"> Full Text</a>
@@ -294,7 +294,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkRadiation Ransomware and an SSH Worm<a href="https://cyware.com/news/darkradiation-ransomware-and-an-ssh-worm-e2809d4d"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korean Nuclear Research Agency Targeted by APT Group<a href="https://cyware.com/news/south-korean-nuclear-research-agency-targeted-by-apt-group-32b3829a"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedFoxtrot Group Linked to Unit 69010 from China<a href="https://cyware.com/news/redfoxtrot-group-linked-to-unit-69010-from-china-b1694173"> Full Text</a>
@@ -342,7 +342,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darkside RaaS in Linux version<a href="https://cybersecurity.att.com/blogs/labs-research/darkside-raas-in-linux-version?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ AT&T Cybersecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zephyr RTOS fixes Bluetooth bugs that may lead to code execution<a href="https://www.bleepingcomputer.com/news/security/zephyr-rtos-fixes-bluetooth-bugs-that-may-lead-to-code-execution/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maryland says it has detected more than a half million ‘potentially fraudulent’ jobless claims since May<a href="https://www.washingtonpost.com/local/md-politics/maryland-unemployment-fraudulent-claims/2021/06/21/63448d6e-d2bf-11eb-ae54-515e2f63d37d_story.html?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Washington Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Email Bug Allows Message Snooping, Credential Theft<a href="https://threatpost.com/email-bug-message-snooping-credential-theft/167125/"> Full Text</a>
@@ -406,7 +406,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ADVERSARIAL OCTOPUS – ATTACK DEMO FOR AI-DRIVEN FACIAL RECOGNITION ENGINE<a href="https://securityaffairs.co/wordpress/119248/hacking/adversarial-octopus-facial-recognition.html"> Full Text</a>
@@ -430,7 +430,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Do you want speed or security as expected? Spectre CPU defenses can cripple performance on Linux in tests<a href="https://www.theregister.com/2021/06/22/spectre_linux_performance_test_analysis/?&web_view=true"> Full Text</a>
@@ -446,7 +446,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A ransomware attack disrupted the IT network of the City of Liege<a href="https://securityaffairs.co/wordpress/119240/malware/city-of-liege-ransomware.html"> Full Text</a>
@@ -466,7 +466,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Developers Never Update Third-Party Libraries in Their Software: Report<a href="https://www.securityweek.com/most-developers-never-update-third-party-libraries-their-software-report?&web_view=true"> Full Text</a>
@@ -482,7 +482,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on Polish government officials linked to Russian hackers<a href="https://thehill.com//policy/cybersecurity/559610-cyberattack-on-polish-government-officials-linked-to-russian-hackers"> Full Text</a>
@@ -498,7 +498,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Municipality IT Network at Belgium’s Third-largest City Disrupted by Ransomware Attack<a href="https://therecord.media/city-of-liege-belgium-hit-by-ransomware/?&web_view=true"> Full Text</a>
@@ -514,7 +514,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Georgia St. Joseph’s/Candler health system shifts to downtime procedures amid ransomware attack<a href="https://www.scmagazine.com/home/security-news/ransomware/georgia-st-josephs-candler-health-system-shifts-to-downtime-procedures-amid-ransomware-attack/"> Full Text</a>
@@ -530,7 +530,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kids’ Apps on Google Play Rife with Privacy Violations<a href="https://threatpost.com/kids-apps-google-play-privacy-violations/167110/"> Full Text</a>
@@ -546,7 +546,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lexmark Printers Open to Arbitrary Code-Execution Zero-Day<a href="https://threatpost.com/lexmark-printers-code-execution-zero-day/167111/"> Full Text</a>
@@ -562,7 +562,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pondurance Acquires Bearing Cybersecurity to Help Customers Better Assess and Remediate Security Gaps<a href="https://finance.yahoo.com/news/pondurance-acquires-bearing-cybersecurity-help-120100338.html?&web_view=true"> Full Text</a>
@@ -578,7 +578,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NukeSped Copies Fileless Code From Bundlore, Leaves It Unused<a href="https://www.trendmicro.com/en_us/research/21/f/nukesped-copies-fileless-code-from-bundlore--leaves-it-unused.html?&web_view=true"> Full Text</a>
@@ -594,7 +594,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tool lets users supplement Mitre ATT&CK knowledge base with their own threat intel<a href="https://www.scmagazine.com/home/security-news/tool-lets-users-supplement-mitre-attck-knowledge-base-with-their-own-threat-intel/"> Full Text</a>
@@ -610,7 +610,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2021
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transmit Security raises $543M Series A to kill off the password<a href="https://techcrunch.com/2021/06/22/transmit-security-raises-543m-series-a-to-kill-off-the-password/?&web_view=true"> Full Text</a>

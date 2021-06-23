@@ -11,6 +11,52 @@ nav_order: 900180
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Wormable bash DarkRadiation Ransomware targets Linux distros and docker containers<a href="https://securityaffairs.co/wordpress/119256/uncategorized/wormable-bash-darkradiation-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkRadiation is a new strain of ransomware implemented in Bash that targets Linux and Docker cloud containers and leverages Telegram for C2.
+
+
+
+Trend Micro researchers spotted a new strain of ransomware, dubbed DarkRadiation, which is writted in Bash...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkRadiation Ransomware and an SSH Worm<a href="https://cyware.com/news/darkradiation-ransomware-and-an-ssh-worm-e2809d4d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkRadiation ransomware has started targeting Linux and Docker containers. It relies on messaging service Telegram for C2C communications. Experts suggest attackers are probably trying to use low-profile tools to stay hidden from security agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside RaaS in Linux version<a href="https://cybersecurity.att.com/blogs/labs-research/darkside-raas-in-linux-version?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike the Windows version of the malware that targets any Windows endpoint, Darkside Linux version is mostly targeting ESXi servers and is believed to be deployed manually.
+</details>
+<div style="text-align: right" markdown="1">
+AT&amp;T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Wormable DarkRadiation Ransomware Targets Linux and Docker Instances<a href="https://thehackernews.com/2021/06/wormable-darkradiation-ransomware.html"> Full Text</a>
 </p>
 <details>

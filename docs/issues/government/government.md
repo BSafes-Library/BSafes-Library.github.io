@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes bill to bolster state plans to ward off infrastructure attacks<a href="https://thehill.com//homenews/house/559726-house-passes-bill-to-bolster-state-plans-to-ward-off-infrastructure-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House passed bipartisan legislation on Tuesday to provide federal guidance and resources to states vulnerable to attacks on their infrastructure following the ransomware cyber attack on the Colonial Pipeline last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Command leads competition in effort to strengthen nation's cybersecurity<a href="https://thehill.com//policy/cybersecurity/559703-us-cyber-command-leads-competition-in-effort-to-strengthen-nations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber professionals from the U.S. and multiple other countries are in the midst of an annual competition led by U.S. Cyber Command meant to enhance the nation’s cybersecurity in wake of months of devastating attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Publishes Ransomware Guidance<a href="https://www.infosecurity-magazine.com:443/news/nist-publishes-ransomware-guidance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Draft Cybersecurity Framework Profile for Ransomware Risk Management released
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

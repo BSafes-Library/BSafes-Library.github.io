@@ -34,6 +34,598 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes bill to bolster state plans to ward off infrastructure attacks<a href="https://thehill.com//homenews/house/559726-house-passes-bill-to-bolster-state-plans-to-ward-off-infrastructure-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House passed bipartisan legislation on Tuesday to provide federal guidance and resources to states vulnerable to attacks on their infrastructure following the ransomware cyber attack on the Colonial Pipeline last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech industry pushes for delay in antitrust legislation | EU regulators investigating Google's digital ad business | YouTube wins EU court case over copyright violations<a href="https://thehill.com//policy/technology/overnights/559714-hillicon-valley-tech-industry-pushes-for-delay-in-antitrust"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developments across the pond took the spotlight Tuesday, with the European Commission announcing it had opened an antitrust investigation into Google’s ad business, and Europe’s top court ruled that platforms are not liable for certain copyright violations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Command leads competition in effort to strengthen nation's cybersecurity<a href="https://thehill.com//policy/cybersecurity/559703-us-cyber-command-leads-competition-in-effort-to-strengthen-nations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber professionals from the U.S. and multiple other countries are in the midst of an annual competition led by U.S. Cyber Command meant to enhance the nation’s cybersecurity in wake of months of devastating attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Could better cyber hygiene have prevented the SolarWinds attack?<a href="https://www.scmagazine.com/home/security-news/could-better-cyber-hygiene-have-prevented-the-solarwinds-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA says blocking SolarWinds Orion servers from outbound internet traffic could have helped prevent the supply chain attack. But cybersecurity experts say that alone would not have protected organizations from being infiltrated.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormable bash DarkRadiation Ransomware targets Linux distros and docker containers<a href="https://securityaffairs.co/wordpress/119256/uncategorized/wormable-bash-darkradiation-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkRadiation is a new strain of ransomware implemented in Bash that targets Linux and Docker cloud containers and leverages Telegram for C2.
+
+
+
+Trend Micro researchers spotted a new strain of ransomware, dubbed DarkRadiation, which is writted in Bash...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC Losses Top $1.8B as Tactics Evolve<a href="https://threatpost.com/bec-losses-top-18b/167148/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BEC attacks getting are more dangerous, and smart users are the ones who can stop it.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of CISOs say the push for rapid growth and digital transformation stalls cloud security<a href="https://www.scmagazine.com/home/security-news/cloud-security/50-of-cisos-say-the-push-for-rapid-growth-and-digital-transformation-stalls-cloud-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital transformation often means decentralized purchasing of cloud-based applications, which results in a disparate landscape of best-of-breed software with less oversight from security and IT.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuits filed against Scripps Health following ransomware attack, data theft<a href="https://www.scmagazine.com/home/health-care/lawsuits-filed-against-scripps-health-following-ransomware-attack-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Noteworthy is that Scripps maintained open transparency and communication for each step of recovery after a ransomware attack exposed protected health information of 150,000 patients – a decision that is actually not required under HIPPA.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Supply-Chain Flaw Affects 'Pling Store' Platforms for Linux Users<a href="https://thehackernews.com/2021/06/unpatched-critical-flaw-affects-pling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a critical unpatched vulnerability affecting Pling-based free and open-source software (FOSS) marketplaces for Linux platform that could be potentially abused to stage supply chain attacks and achieve remote code execution (RCE).  "Linux marketplaces that are based on the Pling platform are vulnerable to a wormable [cross-site scripting] with potential for a supply chain attack," Positive Security co-founder Fabian Bräunlein  said  in a technical write-up published today. "The native PlingStore application is affected by an RCE vulnerability, which can be triggered from any website while the app is running."   The Pling-based app stores impacted by the flaw include —   appimagehub.com  store.kde.org  gnome-look.org  xfce-look.org  pling.com   PlingStore allows users to search and install Linux software, themes, icons, and other add-ons that may not be available for download through the distribution's software center.   T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Teens on Trial for Cyber-bullying<a href="https://www.infosecurity-magazine.com:443/news/french-teens-on-trial-for/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Landmark Parisian trial could mean prison for teens convicted of online abuse
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominers Slither into Python Projects in Supply-Chain Campaign<a href="https://threatpost.com/cryptominers-python-supply-chain/167135/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These code bombs lurk in the PyPI package repository, waiting to be inadvertently baked into software developers’ applications.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave launches its privacy-focused no-tracking search engine<a href="https://www.bleepingcomputer.com/news/software/brave-launches-its-privacy-focused-no-tracking-search-engine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Brave launched their non-tracking privacy-centric search engine to bring another alternative to finding the information you want on the web without giving up your data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall bug that affected 800K firewalls was only partially fixed<a href="https://www.bleepingcomputer.com/news/security/sonicwall-bug-that-affected-800k-firewalls-was-only-partially-fixed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have emerged that shed light on a critical SonicWall vulnerability disclosed last year, which affected over 800,000 VPN firewalls and was initially thought to have been patched. Tracked as CVE-2020-5135, when exploited, the bug allows unauthenticated remote attackers to execute arbitrary code on the impacted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Publishes Ransomware Guidance<a href="https://www.infosecurity-magazine.com:443/news/nist-publishes-ransomware-guidance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Draft Cybersecurity Framework Profile for Ransomware Risk Management released
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Probes SolarWinds Breach Disclosure Failures<a href="https://www.infosecurity-magazine.com:443/news/sec-probes-solarwinds-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies being investigated on suspicion of hiding the fact they got hacked
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vigilante Malware Prevent Access to Piracy Sites<a href="https://cyware.com/news/vigilante-malware-prevent-access-to-piracy-sites-9a00cd4e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered an attack campaign that targets users of pirated software. The Vigilante malware blocks users' access to websites hosting pirated software. Users are requested to stay protected by avoiding the download of pirated software or clicking on links from unknown users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkRadiation Ransomware and an SSH Worm<a href="https://cyware.com/news/darkradiation-ransomware-and-an-ssh-worm-e2809d4d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkRadiation ransomware has started targeting Linux and Docker containers. It relies on messaging service Telegram for C2C communications. Experts suggest attackers are probably trying to use low-profile tools to stay hidden from security agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korean Nuclear Research Agency Targeted by APT Group<a href="https://cyware.com/news/south-korean-nuclear-research-agency-targeted-by-apt-group-32b3829a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nuclear energy and arms-related organizations are under attack from several other APT groups across the globe.&nbsp;A North Korean APT group recently breached the internal network of the Korea Atomic Energy Research Institute (KAERI), South Korea through a vulnerability in a VPN server last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedFoxtrot Group Linked to Unit 69010 from China<a href="https://cyware.com/news/redfoxtrot-group-linked-to-unit-69010-from-china-b1694173"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberespionage campaigns spread across several years were linked to the Chinese military group PLA Unit 69010. Dubbed RedFoxtrot, the threat actor focused on gathering military intelligence from various countries. Learn how PLA-affiliated groups&nbsp;are operating and targeting victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkside RaaS in Linux version<a href="https://cybersecurity.att.com/blogs/labs-research/darkside-raas-in-linux-version?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike the Windows version of the malware that targets any Windows endpoint, Darkside Linux version is mostly targeting ESXi servers and is believed to be deployed manually.
+</details>
+<div style="text-align: right" markdown="1">
+AT&T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zephyr RTOS fixes Bluetooth bugs that may lead to code execution<a href="https://www.bleepingcomputer.com/news/security/zephyr-rtos-fixes-bluetooth-bugs-that-may-lead-to-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zephyr real-time operating system (RTOS) for embedded devices received an update earlier this month that fixes multiple vulnerabilities that can cause a denial-of-service (DoS) condition and potentially lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland says it has detected more than a half million ‘potentially fraudulent’ jobless claims since May<a href="https://www.washingtonpost.com/local/md-politics/maryland-unemployment-fraudulent-claims/2021/06/21/63448d6e-d2bf-11eb-ae54-515e2f63d37d_story.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland labor officials said Monday that they have found 508,000 “potentially fraudulent” unemployment claims in the past six weeks, the latest response from the Hogan administration.
+</details>
+<div style="text-align: right" markdown="1">
+Washington Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email Bug Allows Message Snooping, Credential Theft<a href="https://threatpost.com/email-bug-message-snooping-credential-theft/167125/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year-old proof-of-concept attack that allows an attacker to bypass TLS email protections to snoop on messages has been patched. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ADVERSARIAL OCTOPUS – ATTACK DEMO FOR AI-DRIVEN FACIAL RECOGNITION ENGINE<a href="https://securityaffairs.co/wordpress/119248/hacking/adversarial-octopus-facial-recognition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Adversa devised an attack technique, dubbed ADVERSARIAL OCTOPUS, against Facial Recognition systems. 
+
+
+
+THE INTENTION BEHIND THIS PROJECT
+
+
+
+Driven by our mission to increase trust in AI, Adversa’s AI Red Team is constantly exploring...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do you want speed or security as expected? Spectre CPU defenses can cripple performance on Linux in tests<a href="https://www.theregister.com/2021/06/22/spectre_linux_performance_test_analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mitigations applied to prevent Spectre vulnerability exploits from computers hinder performance enough that disabling protection for the sake of speed may be preferable for some.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A ransomware attack disrupted the IT network of the City of Liege<a href="https://securityaffairs.co/wordpress/119240/malware/city-of-liege-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgium city of Liege has suffered today a ransomware attack that has disrupted the IT network of the municipality and its online services.
+
+
+
+Liege, one of the biggest cities in Belgium, was hit by a ransomware attack that has disrupted the IT network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Developers Never Update Third-Party Libraries in Their Software: Report<a href="https://www.securityweek.com/most-developers-never-update-third-party-libraries-their-software-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most developers never update third-party libraries after including them in their software, a new report from Veracode reveals. 79% of libraries are never updated after being included in software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Polish government officials linked to Russian hackers<a href="https://thehill.com//policy/cybersecurity/559610-cyberattack-on-polish-government-officials-linked-to-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent string of cyberattacks targeted at thousands of Polish email users, including government officials, have been linked by the Polish intelligence services to a Russian hacking group. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Municipality IT Network at Belgium’s Third-largest City Disrupted by Ransomware Attack<a href="https://therecord.media/city-of-liege-belgium-hit-by-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While officials only described the incident as a “computer attack,” two Belgian radio and TV stations reported that the cyberattack was the work of the Ryuk ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia St. Joseph’s/Candler health system shifts to downtime procedures amid ransomware attack<a href="https://www.scmagazine.com/home/security-news/ransomware/georgia-st-josephs-candler-health-system-shifts-to-downtime-procedures-amid-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The health system has remained open primarily thanks to previously established downtime procedures, for which the workforce received training prior the attack.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kids’ Apps on Google Play Rife with Privacy Violations<a href="https://threatpost.com/kids-apps-google-play-privacy-violations/167110/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five of the most-popular apps for kids under 13 on Google Play don’t comply with COPPA regulations on how children’s information is collected and used.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lexmark Printers Open to Arbitrary Code-Execution Zero-Day<a href="https://threatpost.com/lexmark-printers-code-execution-zero-day/167111/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“No remedy available as of June 21, 2021,” according to the researcher who discovered the easy-to-exploit, no-user-action-required bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pondurance Acquires Bearing Cybersecurity to Help Customers Better Assess and Remediate Security Gaps<a href="https://finance.yahoo.com/news/pondurance-acquires-bearing-cybersecurity-help-120100338.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pondurance, a Managed Detection and Response (MDR) service provider, today announced the acquisition of Rockwall, Texas-based advisory and assessment services provider Bearing Cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NukeSped Copies Fileless Code From Bundlore, Leaves It Unused<a href="https://www.trendmicro.com/en_us/research/21/f/nukesped-copies-fileless-code-from-bundlore--leaves-it-unused.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While investigating samples of NukeSped, a remote access trojan (RAT), Trend Micro came across several Bundlore adware samples using the same fileless routine that was spotted in NukeSped.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tool lets users supplement Mitre ATT&CK knowledge base with their own threat intel<a href="https://www.scmagazine.com/home/security-news/tool-lets-users-supplement-mitre-attck-knowledge-base-with-their-own-threat-intel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool ultimately enables companies to create their own customized repository of cyber threat information.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transmit Security raises $543M Series A to kill off the password<a href="https://techcrunch.com/2021/06/22/transmit-security-raises-543m-series-a-to-kill-off-the-password/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transmit Security said it has a pre-money valuation of $2.2 billion, and will use the new funds to expand its reach and investing in key global areas to grow the organization.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

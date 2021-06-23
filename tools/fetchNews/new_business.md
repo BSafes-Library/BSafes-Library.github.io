@@ -11,6 +11,48 @@ nav_order: 900027
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SEC Probes SolarWinds Breach Disclosure Failures<a href="https://www.infosecurity-magazine.com:443/news/sec-probes-solarwinds-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies being investigated on suspicion of hiding the fact they got hacked
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pondurance Acquires Bearing Cybersecurity to Help Customers Better Assess and Remediate Security Gaps<a href="https://finance.yahoo.com/news/pondurance-acquires-bearing-cybersecurity-help-120100338.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pondurance, a Managed Detection and Response (MDR) service provider, today announced the acquisition of Rockwall, Texas-based advisory and assessment services provider Bearing Cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transmit Security raises $543M Series A to kill off the password<a href="https://techcrunch.com/2021/06/22/transmit-security-raises-543m-series-a-to-kill-off-the-password/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transmit Security said it has a pre-money valuation of $2.2 billion, and will use the new funds to expand its reach and investing in key global areas to grow the organization.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Did Companies Fail to Disclose Being Affected by SolarWinds Breach?<a href="https://beta.darkreading.com/attacks-breaches/did-companies-fail-to-disclose-being-affected-by-solarwinds-breach-?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
