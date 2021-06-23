@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Rick Scott blocks Senate vote on top cyber nominee until Harris visits border<a href="https://thehill.com//policy/cybersecurity/559936-rick-scott-blocks-senate-vote-on-top-cyber-nominee-until-harris-visits"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Rick Scott (R-Fla.) on Wednesday blocked a proposed unanimous consent vote on President Biden’s nominee to lead the Cybersecurity and Infrastructure Security Agency (CISA) until Vice President Harris visits the U.S.-Mexico border later this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Healthcare giant Grupo Fleury hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-revil-ransomware-attack/"> Full Text</a>
 </p>
 <details>
