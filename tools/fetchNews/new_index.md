@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech antitrust bills create strange bedfellows in House markup | Rick Scott blocks Senate vote on top cyber nominee until Harris visits border | John McAfee dies<a href="https://thehill.com//policy/technology/overnights/559963-hillicon-valley-tech-antitrust-bills-create-strange-bedfellows"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech world had its eyes on the House Judiciary Committee (for most of the day — and night) as members marked up the bipartisan antitrust agenda that targets Apple, Google, Facebook and Amazon. The meeting continued well into the evening, with lawmakers on both sides of the aisle raising concerns over the implications of the bills that aim to rein in the power of tech platforms. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI asks Congress for $40M to help combat wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/559947-fbi-asks-congress-for-40-million-to-help-combat-wave-of-ransomware"> Full Text</a>
 </p>
 <details>
