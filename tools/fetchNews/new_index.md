@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pandemic-Bored Attackers Pummeled Gaming Industry<a href="https://threatpost.com/attackers-gaming-industry/167183/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai’s 2020 gaming report shows that cyberattacks on the video game industry skyrocketed, shooting up 340 percent in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 House panel includes $500 million election security grant in proposed appropriations bill<a href="https://thehill.com//policy/cybersecurity/559836-house-panel-includes-500-million-election-security-grant-in-proposed"> Full Text</a>
 </p>
 <details>
