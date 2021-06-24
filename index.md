@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linguist Jailed for Sharing US Defense Secrets<a href="https://www.infosecurity-magazine.com:443/news/linguist-jailed-for-sharing-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defense Department employee who passed secrets to Hizballah is sentenced to 23 years in prison
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Malicious Cryptominers Target Software Repositories to Burn a Hole in Your Wallet<a href="https://cyware.com/news/malicious-cryptominers-target-software-repositories-to-burn-a-hole-in-your-wallet-0b9b0c8c"> Full Text</a>
 </p>
 <details>
