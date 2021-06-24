@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House advances six bills targeting Big Tech after overnight slugfest | Google to delay cookie phase out until 2023 | Appeals court rules against Baltimore Police Department aerial surveillance program<a href="https://thehill.com//policy/technology/overnights/560154-hillicon-valley-house-advances-six-bills-targeting-big-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Judiciary Committee members wrapped up a marathon markup Thursday afternoon, advancing six antitrust bills that target the largest tech companies in the country. The two-day affair highlighted divisions in each party, with some California lawmakers on both sides of the aisle opposing the bills and previewing future hurdles for the legislation going forward. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Splunk expands into cloud security space with new platform<a href="https://www.scmagazine.com/home/security-news/splunk-expands-into-cloud-security-space-with-new-platform/"> Full Text</a>
 </p>
 <details>
