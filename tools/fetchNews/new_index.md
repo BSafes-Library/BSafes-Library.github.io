@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Splunk expands into cloud security space with new platform<a href="https://www.scmagazine.com/home/security-news/splunk-expands-into-cloud-security-space-with-new-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk, best known for its analytics software, delved deeper into the security realm this week when it released its new Splunk Security Cloud, a security operations platform that consists of security analytics, automated security operations, and integrated threat intelligence. The move to a cloud-based platform reflects Splunk’s recognition that the migration to remote work last…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New BIOS vulnerabilities impact tens of millions of Dell computer hardware<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-bios-vulnerabilities-impact-tens-of-millions-of-dell-computer-hardware/"> Full Text</a>
 </p>
 <details>
