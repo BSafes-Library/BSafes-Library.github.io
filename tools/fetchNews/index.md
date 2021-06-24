@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Security pros struggle to balance monitoring of remote workforces with privacy expectations<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/security-pros-struggle-to-balance-monitoring-of-remote-workforces-with-privacy-expectations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sixty-five percent of surveyed IT and security pros said their companies have increased monitoring of remote workers, but only 46% said their businesses are transparent about how.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber-stalker Blackmailed Nebraska Legislature Candidate’s Wife<a href="https://www.infosecurity-magazine.com:443/news/parris-cyber-stalker-guilty/"> Full Text</a>
 </p>
 <details>
