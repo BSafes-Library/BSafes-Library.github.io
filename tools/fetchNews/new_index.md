@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Malicious Cryptominers Target Software Repositories to Burn a Hole in Your Wallet<a href="https://cyware.com/news/malicious-cryptominers-target-software-repositories-to-burn-a-hole-in-your-wallet-0b9b0c8c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonatype researchers have recently discovered malicious packages in PyPI, a software code repository, that turns developers’ workstations into cryptomining machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Sector Still Not Safe from Cyberattacks<a href="https://cyware.com/news/manufacturing-sector-still-not-safe-from-cyberattacks-8f9092c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturers are still pelted by cyberattacks left, right, and center. A survey published by Morphisec has found that one in five manufacturing companies in the sector has been compromised in a cyber incident.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Linux Version of DarkSide Ransomware<a href="https://cyware.com/news/the-linux-version-of-darkside-ransomware-223ea813"> Full Text</a>
 </p>
 <details>
