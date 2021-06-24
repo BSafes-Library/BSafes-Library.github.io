@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Dell BIOSConnect feature affect 128 device models<a href="https://securityaffairs.co/wordpress/119369/security/dell-biosconnect-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws affecting the BIOSConnect feature of Dell Client BIOS could be exploited by a privileged attacker to execute arbitrary code at the BIOS/UEFI level of the impacted device.
+
+
+
+Researchers from cybersecurity firm Eclypsium discovered multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: House advances six bills targeting Big Tech after overnight slugfest | Google to delay cookie phase out until 2023 | Appeals court rules against Baltimore Police Department aerial surveillance program<a href="https://thehill.com//policy/technology/overnights/560154-hillicon-valley-house-advances-six-bills-targeting-big-tech"> Full Text</a>
 </p>
 <details>
