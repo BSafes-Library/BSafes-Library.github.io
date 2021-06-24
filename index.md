@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers introduce bill to increase American awareness of cyber threats<a href="https://thehill.com//policy/cybersecurity/560077-house-lawmakers-introduce-bill-to-increase-american-awareness-of-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Thursday introduced legislation to step up cybersecurity literacy and increase awareness among the American public amid a spike in cyber threats against critical infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health care’s security challenges spurred by constrained resources, limited staffing<a href="https://www.scmagazine.com/home/health-care/health-cares-security-challenges-spurred-by-constrained-resources-limited-staffing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F-Secure’s Andrew Neville sheds light on ongoing resource and staffing issues contributing to health care’s security challenges. “What’s actually going on? We’re looking at the wrong problems,” he told SC Media.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Zyxel says a threat actor is targeting its enterprise firewall and VPN devices<a href="https://therecord.media/zyxel-says-a-threat-actor-is-targeting-its-enterprise-firewall-and-vpn-devices/?&web_view=true"> Full Text</a>
 </p>
 <details>
