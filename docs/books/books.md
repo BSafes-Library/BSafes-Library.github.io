@@ -15,6 +15,7 @@ nav_order: 400
 * [Blockchain-mediated Licensing - Legal Engineering for Artist Empowerment, by Charles Adjovu; Ewa Fabian](https://papers.bsafes.com/docs/cryptocurrency/blockchain-mediated-licensing/)
 * [Cybersecurity in Elections - Models of Interagency Collaboration, by Sam van der Staak and Peter Wolf](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
 * [Crypto and Blockchain Fundamentals, by Mary C. Lacity](https://papers.bsafes.com/docs/cryptocurrency/crypto-and-blockchain-fundamentals/)
+* [Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects, by Samantha G. Echevarria](https://papers.bsafes.com/docs/behavior/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
 * [DIGITAL DOMINION:How the Syrian regime’s mass digital surveillance violates human rights](https://papers.bsafes.com/docs/privacy/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
 * [Deploying Secure Unified Communications/Voice and Video over IP Systems](https://publications.bsafes.com/docs/nsa/deploying-secure-unified-communications-voice-and-video-over-ip-systems/)
 * [Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack, by Harrison Cunningham](https://papers.bsafes.com/docs/cybercrime/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)

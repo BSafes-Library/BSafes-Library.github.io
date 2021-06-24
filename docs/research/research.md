@@ -213,6 +213,18 @@ Artificial intelligence (AI) has been a widely used buzzword for the past couple
 Spring, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects [HTML](https://papers.bsafes.com/docs/behavior/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Dating apps are in growing popularity, with 48% of dating app users in the United States being adults under 30 (Pew Research Center, 2020
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Spring, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Applying Usability Methods to Categorization of Phishing Emails [HTML](https://papers.bsafes.com/docs/phishing/applying-usability-methods-to-categorization-of-phishing-emails/)
 </p>
 <details>
