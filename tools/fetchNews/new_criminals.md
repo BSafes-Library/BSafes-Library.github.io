@@ -11,6 +11,52 @@ nav_order: 900031
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+LV ransomware operators repurposed a REvil binary to launch a new RaaS<a href="https://securityaffairs.co/wordpress/119306/malware/lv-ransomware-repurposed-revil-binary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LV ransomware operators repurposed a REvil binary to create their own strain and launch a ransomware-as-a-service (RaaS).
+
+
+
+A threat actor known as LV ransomware gang is trying to enter the cybercrime arena, it repurposed a REvil binary almost to create...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Cl0p Announces New Victim After Police Bust<a href="https://www.vice.com/en/article/88n5j3/ransomware-gang-cl0p-announces-new-victim-after-police-bust?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent arrests of Cl0p members were seen as a victory against the gang that has hit dozens of victims, including U.S. bank Flagstar, law firm Jonesday, Shell, and some universities in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammer arrested for phishing operation, sent 25,000 texts in a day<a href="https://www.bleepingcomputer.com/news/security/scammer-arrested-for-phishing-operation-sent-25-000-texts-in-a-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The police has arrested an individual last week for sending fraudulent text messages to thousands of people to obtain banking details and defraud them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Clop ransomware is back in business after recent arrests<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-is-back-in-business-after-recent-arrests/"> Full Text</a>
 </p>
 <details>

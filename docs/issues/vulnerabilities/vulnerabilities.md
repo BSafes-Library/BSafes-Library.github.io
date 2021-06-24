@@ -11,6 +11,108 @@ nav_order: 900220
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dangers Posed by Evidentiary Software—and What to Do about It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-software-and-what-do-about-it"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's well known the code is buggy; that's why software updates for anything from apps to operating systems are now the norm. But if the public understands this, the courts have not followed suit.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangers Posed by Evidentiary Software—and What to Do about It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-software%E2%80%94and-what-do-about-it"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's well known the code is buggy; that's why software updates for anything from apps to operating systems are now the norm. But if the public understands this, the courts have not followed suit.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes authentication bypass in Carbon Black App Control<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-carbon-black-app-control/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware Carbon Black App Control has been updated this week to fix a critical-severity vulnerability that allows access to the server without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OIG: CMS lacks protocol to assess networked medical device cybersecurity in hospitals<a href="https://www.scmagazine.com/home/health-care/oig-cms-lacks-protocol-to-assess-networked-medical-device-cybersecurity-in-hospitals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lack of real-time data on inventories, connections, and device communications, combined with reliance on legacy platforms and slow patch management processes have resulted in many providers leaving the door open to attackers.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes privilege escalation issue in VMware Tools for Windows<a href="https://securityaffairs.co/wordpress/119294/security/vmware-fixes-privilege-escalation-issue-in-vmware-tools-for-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware patched a high-severity vulnerability in VMware Tools for Windows that attackers could exploit to execute arbitrary code with elevated privileges.
+
+
+
+VMware patched a high-severity local privilege escalation vulnerability, tracked as CVE-2021-21999,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall ‘Botches’ October Patch for VPN Bug<a href="https://threatpost.com/sonicwall-botches-critical-vpn-bug/167152/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Company finally rolls out the complete fix this week for a flaw affecting some 800,000 devices that could result in crashes or prevent users from connecting to corporate resources.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Linux Marketplace Bugs Allow Wormable Attacks, Drive-By RCE<a href="https://threatpost.com/unpatched-linux-marketplace-bugs-rce/167155/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of zero-days affecting Pling-based marketplaces could allow for some ugly attacks on unsuspecting Linux enthusiasts — with no patches in sight.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks fixes critical flaw (CVE-2021-3044) in Cortex XSOAR<a href="https://securityaffairs.co/wordpress/119276/security/palo-alto-networks-cve-2021-3044-cortex-xsoar.html"> Full Text</a>
 </p>
 <details>

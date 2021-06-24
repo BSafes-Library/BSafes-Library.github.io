@@ -11,6 +11,48 @@ nav_order: 900163
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mr. Double’s Operator Jailed<a href="https://www.infosecurity-magazine.com:443/news/mr-doubles-operator-jailed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prison for Texan behind website that published stories describing the torture and murder of children
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish court approves extradition of John McAfee to US<a href="https://thehill.com//policy/cybersecurity/559886-spanish-court-approves-extradition-of-john-mcafee-to-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain’s National Court approved the extradition of anti-virus software pioneer John McAfee for tax evasion charges. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammer sends over 25,000 phishing texts in a day, arrested<a href="https://www.bleepingcomputer.com/news/security/scammer-sends-over-25-000-phishing-texts-in-a-day-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The police has arrested an individual last week for sending fraudulent text messages to thousands of people to obtain banking details and defraud them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lawsuits filed on behalf of Scripps Health patients in cyber attack<a href="https://www.10news.com/news/local-news/lawsuits-filed-on-behalf-of-scripps-health-patients-in-cyber-attack?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

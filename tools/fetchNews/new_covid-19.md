@@ -8,6 +8,21 @@ nav_order: 900030
 
 ## Covid-19
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A COVID-19-Themed Campaign Delivering Agent Tesla<a href="https://cyware.com/news/a-covid-19-themed-campaign-delivering-agent-tesla-d5779a3f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are fooling Windows users under the guise of a COVID-19 vaccination registration to infect their machines with a new version of the Agent Tesla RAT.&nbsp;It indicates that existing vaccination campaigns and COVID-19 are being exploited by cybercriminals, and users need to stay alert  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

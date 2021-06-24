@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employee Privacy Gap Discovered<a href="https://www.infosecurity-magazine.com:443/news/employee-privacy-gap-discovered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barely a third of companies are protecting the privacy of their workers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,34 @@ nav_order: 900027
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Anti-virus Pioneer John McAfee Found Dead in Spanish Prison Cell<a href="https://www.infosecurity-magazine.com:443/news/john-mcafee-found-dead-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee, of the antivirus firm that bore his name, allegedly committed suicide while in holding awaiting extradition to the U.S. for tax evasion
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Symmetry Systems lands $15 million in Series A funding to solve data visibility issues<a href="https://www.scmagazine.com/home/security-news/symmetry-systems-lands-15-million-in-series-a-funding-to-solve-data-visibility-issues/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Said Mohit Tiwari, the company’s co-founder and CEO: “Given that so many organizations are moving to the cloud, this is a once in a generation opportunity to reset security so it’s answering questions about data. Our goal is to map data and track data flows  – at scale.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 MITRE adds D3FEND defensive cybersecurity techniques to ATT&amp;CK Framework<a href="https://securityaffairs.co/wordpress/119263/security/mitre-d3fend-project.html"> Full Text</a>
 </p>
 <details>

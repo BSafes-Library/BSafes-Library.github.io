@@ -11,6 +11,34 @@ nav_order: 900180
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Senator: Is it time to treat ransomware like piracy, using military to make operators walk the plank?<a href="https://www.scmagazine.com/home/security-news/ransomware/senator-is-it-time-to-treat-ransomware-like-piracy-using-military-to-make-operators-walk-the-plank/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Said Sen. Mike Rounds, R-S.D.: “The Department of Defense clearly has a role to play” in addressing the threat of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Code Ripped Off by Rivals<a href="https://threatpost.com/revil-ransomware-code-rivals/167167/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LV ransomware operators likely used a hex editor to repurpose a REvil binary almost wholesale, for their own nefarious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Clop ransomware is back into action after the recent police operation<a href="https://securityaffairs.co/wordpress/119282/cyber-crime/clop-ransomware-return.html"> Full Text</a>
 </p>
 <details>

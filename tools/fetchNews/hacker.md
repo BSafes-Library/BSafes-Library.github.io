@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-linked hackers targeted Indian power company with ReverseRat<a href="https://thehackernews.com/2021/06/pakistan-linked-hackers-targeted-indian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with suspected ties to Pakistan has been striking government and energy organizations in the South and Central Asia regions to deploy a remote access trojan on compromised Windows systems, according to new research.  "Most of the organizations that exhibited signs of compromise were in India, and a small number were in Afghanistan," Lumen's Black Lotus Labs&nbsp; said &nbsp;in a Tuesday analysis. "The potentially compromised victims aligned with the government and power utility verticals."  Some of the victims include a foreign government organization, a power transmission organization, and a power generation and transmission organization. The covert operation is said to have begun at least in January 2021.   The intrusions are notable for a number of reasons, not least because in addition to its highly-targeted nature, the tactics, techniques, and procedures (TTPs) adopted by the adversary rely on repurposed open-source code and the use of compromised dom
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

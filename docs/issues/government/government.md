@@ -11,6 +11,94 @@ nav_order: 900075
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI asks Congress for $40M to help combat wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/559947-fbi-asks-congress-for-40-million-to-help-combat-wave-of-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray on Wednesday told a Senate panel that a request for a $40 million increase in its cybersecurity budget for the upcoming fiscal year would go in part towards combating increasing and damaging ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rick Scott blocks Senate vote on top cyber nominee until Harris visits border<a href="https://thehill.com//policy/cybersecurity/559936-rick-scott-blocks-senate-vote-on-top-cyber-nominee-until-harris-visits"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Rick Scott (R-Fla.) on Wednesday blocked a proposed unanimous consent vote on President Biden’s nominee to lead the Cybersecurity and Infrastructure Security Agency (CISA) until Vice President Harris visits the U.S.-Mexico border later this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The European Commission proposed to launch the new Joint Cyber Unit<a href="https://securityaffairs.co/wordpress/119317/uncategorized/eu-commission-new-joint-cyber-unit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Agency for Cybersecurity welcomes the European Commission proposal to launch the new Joint Cyber Unit.
+
+
+
+The European Commission proposed on Wednesday the creation of a new Joint Cyber Unit that aims at providing a coordinated response...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House panel includes $500 million election security grant in proposed appropriations bill<a href="https://thehill.com//policy/cybersecurity/559836-house-panel-includes-500-million-election-security-grant-in-proposed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Appropriations Committee on Wednesday included $500 million&nbsp;for election security grants in one of the proposed appropriations bills for next year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amid big hacks, U.S. spy agency touts collaboration center with private industry<a href="https://www.reuters.com/technology/amid-big-hacks-us-spy-agency-touts-collaboration-center-with-private-industry-2021-06-22/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency, in a rare move, on Tuesday showcased a new office aimed at greater collaboration with U.S. private sector defense, technology and telecommunications companies.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian intelligence service chief says Moscow will work with US to find hackers<a href="https://www.scmagazine.com/home/security-news/ransomware/russian-intelligence-service-chief-says-moscow-will-work-with-us-to-find-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sources familiar with United States thinking on the matter believe Russia has in the past used information shared about domestic criminals as a recruitment tool, and Russia has been known to push the boundaries of other reciprocity agreements, using Interpol to pursue dissidents for example.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 EU Proposes Joint Cyber Unit Amid Rising Attacks<a href="https://www.infosecurity-magazine.com:443/news/eu-proposes-joint-cyber-unit/"> Full Text</a>
 </p>
 <details>
