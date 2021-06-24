@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New BIOS vulnerabilities impact tens of millions of Dell computer hardware<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-bios-vulnerabilities-impact-tens-of-millions-of-dell-computer-hardware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, discovered by security researchers at Eclypsium, attack the BIOSConnect feature within Dell Client BIOS and affects 30 million devices across 128 different Dell models, including laptops, desktops and tablets.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ‘We desperately need a director’: Cyber advocates sound off as senator delays CISA confirmation<a href="https://www.scmagazine.com/home/security-news/government-and-defense/we-desperately-need-a-director-cyber-advocates-sound-off-as-senator-delays-cisa-confirmation/"> Full Text</a>
 </p>
 <details>
