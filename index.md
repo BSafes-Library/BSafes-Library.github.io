@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Zyxel says a threat actor is targeting its enterprise firewall and VPN devices<a href="https://therecord.media/zyxel-says-a-threat-actor-is-targeting-its-enterprise-firewall-and-vpn-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has emailed customers this week to alert them about a series of attacks that have been targeting some of the company’s high-end enterprise-focused firewall and VPN server products.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pushes Back Cookie Removal Plans to 2023<a href="https://www.infosecurity-magazine.com:443/news/google-pushes-back-cookie-removal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's plan to deprecate third-party tracking cookies from its Chrome browser delayed to 2023
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware releases patches for critical flaw in Carbon Black App Control<a href="https://securityaffairs.co/wordpress/119362/security/vmware-carbon-black-app-control-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches to address an authentication bypass vulnerability in VMware Carbon Black App Control (AppC) for Windows.
+
+
+
+VMware released security patches for an authentication bypass vulnerability, tracked as CVE-2021-21998, in Carbon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Malicious spam campaigns delivering banking Trojans<a href="https://securelist.com/malicious-spam-campaigns-delivering-banking-trojans/102917/?&web_view=true"> Full Text</a>
 </p>
 <details>
