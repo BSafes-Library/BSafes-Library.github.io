@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WD My Book NAS devices are being remotely wiped clean worldwide <a href="https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital My Book NAS owners worldwide are finding that their devices have been mysteriously factory reset and all of their files deleted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Bugs Could Have Led to 1-Click Takeover<a href="https://threatpost.com/atlassian-bugs-could-have-led-to-1-click-takeover/167203/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply-chain attack could have siphoned sensitive information out of Jira, such as security issues on Atlassian cloud, Bitbucket and on-prem products.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Binance exchange helped track down Clop ransomware money launderers<a href="https://www.bleepingcomputer.com/news/security/binance-exchange-helped-track-down-clop-ransomware-money-launderers/"> Full Text</a>
 </p>
 <details>
