@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Binance exchange helped track down Clop ransomware money launderers<a href="https://www.bleepingcomputer.com/news/security/binance-exchange-helped-track-down-clop-ransomware-money-launderers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency exchange service Binance played an important part in the recent arrests of Clop ransomware group members, helping law enforcement in their effort to identify, and ultimately detain the suspects.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at WorkForce West Virginia<a href="https://www.infosecurity-magazine.com:443/news/data-breach-at-workforce-west/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mountain State governor confirms data breach impacting jobseekers’ database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oh FCUK! Fashion Label, Medical Diagnostics Firm Latest REvil Victims<a href="https://threatpost.com/fcuk-fashion-medical-diagnostics-revil/167245/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous ransomware group hit two big-name companies within hours of each other.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linguist Jailed for Sharing US Defense Secrets<a href="https://www.infosecurity-magazine.com:443/news/linguist-jailed-for-sharing-us/"> Full Text</a>
 </p>
 <details>
