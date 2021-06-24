@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Linux Version of DarkSide Ransomware<a href="https://cyware.com/news/the-linux-version-of-darkside-ransomware-223ea813"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts analyzed a Linux version of the DarkSide ransomware, the group responsible for the Colonial Pipeline attack, and claimed that it targeted VMware virtual machines. Though DarkSide has purportedly shut down its operations, organizations are recommended to implement adequate security measures  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 House lawmakers introduce bill to increase American awareness of cyber threats<a href="https://thehill.com//policy/cybersecurity/560077-house-lawmakers-introduce-bill-to-increase-american-awareness-of-cyber"> Full Text</a>
 </p>
 <details>
