@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Musk-Themed ‘$SpaceX’ Cryptoscam Invades YouTube Advertising<a href="https://threatpost.com/musk-spacex-cryptoscam-youtube-advertising/167219/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beware: The swindle uses legitimately purchased YouTube ads, real liquidity, legitimate DEX Uniswap, and the real wallet extension MetaMask to create an entirely convincing fake coin gambit.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum computing may transform cybersecurity eventually  – but not yet<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/quantum-computing-may-transform-cybersecurity-eventually-but-not-yet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While government agencies and standards bodies are racing to test and vet new quantum resistant algorithms for widespread consumption, a small but growing industry of vendors has popped up offering to sell such protections to the broader public. What should potential buyers make of such offerings?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

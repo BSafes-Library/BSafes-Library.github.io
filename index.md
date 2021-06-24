@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US brokerage firms warned of 'FINRA Support' phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-brokerage-firms-warned-of-finra-support-phishing-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arrested Clop gang members laundered over $500M in ransomware payments<a href="https://therecord.media/arrested-clop-gang-members-laundered-over-500m-in-ransomware-payments/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIOS Disconnect: New High-Severity Bugs Affect 128 Dell PC and Tablet Models<a href="https://thehackernews.com/2021/06/bios-disconnect-new-high-severity-flaws.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Decline as Gangs Focus on Lucrative Targets<a href="https://www.infosecurity-magazine.com:443/news/ransomware-decline-gangs-lucrative/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel warns customers of attacks on its enterprise firewall and VPN devices<a href="https://securityaffairs.co/wordpress/119351/hacking/zyxel-firewall-vpn-attacks.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hybrid phishing and vishing attacks  imitate business workflows<a href="https://www.scmagazine.com/home/security-news/phishing/hybrid-phishing-and-vishing-attacks-hunt-for-credit-card-info/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Musk-Themed ‘$SpaceX’ Cryptoscam Invades YouTube Advertising<a href="https://threatpost.com/musk-spacex-cryptoscam-youtube-advertising/167219/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Google Drive security update will break some of your shared links<a href="https://www.bleepingcomputer.com/news/google/a-google-drive-security-update-will-break-some-of-your-shared-links/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GoLang-based ChaChi Trojan Used as Part of Ransomware Campaigns Against US Schools<a href="https://www.zdnet.com/article/chachi-golang-a-new-go-trojan-focuses-on-attacking-us-schools/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reduce Business Risk By Fixing 3 Critical Endpoint-to-Cloud Security Requirements<a href="https://thehackernews.com/2021/06/reduce-business-risk-by-fixing-3.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Leak Sites Reveal 422% Annual Increase in Victims<a href="https://www.infosecurity-magazine.com:443/news/ransom-leak-sites-increase-victims/"> Full Text</a>
@@ -214,7 +214,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChaChi, a GoLang Trojan used in ransomware attacks on US schools<a href="https://securityaffairs.co/wordpress/119338/malware/chachi-rat-us-schools.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical VMware Carbon Black Bug Allows Authentication Bypass<a href="https://threatpost.com/vmware-carbon-black-authentication-bypass/167226/"> Full Text</a>
@@ -250,7 +250,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attack's unusual file attachment is a double-edged sword<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-unusual-file-attachment-is-a-double-edged-sword/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak 260,000 accounts from Pakistani music streaming site Patari<a href="https://www.hackread.com/pakistani-music-streaming-site-patari-hacked/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One-Click Exploit Could Have Let Attackers Hijack Any Atlassian Account<a href="https://thehackernews.com/2021/06/one-click-exploit-could-have-let.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nuisance Call Company Fined £130,000 After Eight-Month Blitz<a href="https://www.infosecurity-magazine.com:443/news/nuisance-call-company-fined/"> Full Text</a>
@@ -314,7 +314,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tulsa’s Police-Citation Data Leaked by Conti Gang<a href="https://threatpost.com/tulsa-police-data-leaked-conti-ransomware/167220/"> Full Text</a>
@@ -330,7 +330,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell SupportAssist bugs put over 30 million PCs at risk<a href="https://www.bleepingcomputer.com/news/security/dell-supportassist-bugs-put-over-30-million-pcs-at-risk/"> Full Text</a>
@@ -346,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fashion Firm French Connection Suffers Breach of Internal Data Due to REvil-linked Ransomware Attack<a href="https://www.theregister.com/2021/06/24/french_connection_says_fcuk_as/?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Auth Bypass Bug Affects VMware Carbon Black App Control<a href="https://thehackernews.com/2021/06/critical-auth-bypass-bug-affects-vmware.html"> Full Text</a>
@@ -378,7 +378,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Attacks Are Primary Funding Source for North Korea<a href="https://www.infosecurity-magazine.com:443/news/cyberattacks-primary-funding-north/"> Full Text</a>
@@ -394,7 +394,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ursnif Leverages Cerberus Android Malware to Automate Fraudulent Bank Transfers in Italy<a href="https://securityintelligence.com/posts/ursnif-cerberus-android-malware-bank-transfers-italy/?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMs Help Ransomware Attackers Evade Detection, but It's Uncommon<a href="https://www.darkreading.com/threat-intelligence/vms-help-ransomware-attackers-evade-detection-but-its-uncommon/d/d-id/1341380?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover New DNS Name Server Hijack Attack That Exposes Businesses, Government Agencies<a href="https://www.darkreading.com/vulnerabilities---threats/new-dns-name-server-hijack-attack-exposes-businesses-government-agencies/d/d-id/1341377?&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Surge in Ransomware Attacks: To pay or not to pay is not the only question - Check Point Software<a href="https://blog.checkpoint.com/2021/06/23/global-surge-in-ransomware-attacks-to-pay-or-not-to-pay-is-not-the-only-question/?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Check Point Research
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack at IT Service Provider InfoSolutions Impacts Swedish COVID-19 Testing Lab<a href="https://cybernews.com/news/swedish-covid-19-lab-with-millions-of-test-results-breached/?&web_view=true"> Full Text</a>
@@ -474,7 +474,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dangers Posed by Evidentiary Software—and What to Do About It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it"> Full Text</a>
@@ -490,7 +490,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Antivirus Pioneer John McAfee Found Dead in Spanish Jail<a href="https://thehackernews.com/2021/06/antivirus-pioneer-john-mcafee-found.html"> Full Text</a>

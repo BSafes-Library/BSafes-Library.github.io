@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran Media Websites Seized by U.S. in Disinformation Campaign<a href="https://threatpost.com/iran-media-websites-seized-disinformation/167198/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoJ uses sanctions laws to shut down an alleged Iranian government malign influence campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

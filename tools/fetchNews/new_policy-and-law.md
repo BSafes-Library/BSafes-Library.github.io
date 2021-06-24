@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuisance Call Company Fined £130,000 After Eight-Month Blitz<a href="https://www.infosecurity-magazine.com:443/news/nuisance-call-company-fined/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+East Sussex-based firm made nearly one million unwanted calls
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

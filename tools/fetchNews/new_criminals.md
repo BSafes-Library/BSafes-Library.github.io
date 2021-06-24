@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arrested Clop gang members laundered over $500M in ransomware payments<a href="https://therecord.media/arrested-clop-gang-members-laundered-over-500m-in-ransomware-payments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The members of the Cl0p ransomware gang that were arrested in Ukraine as part of an international law enforcement action also operated money laundering services for multiple cybercrime groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

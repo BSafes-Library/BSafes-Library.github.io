@@ -34,6 +34,478 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US brokerage firms warned of 'FINRA Support' phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-brokerage-firms-warned-of-finra-support-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US securities industry regulator FINRA is warning brokerage firms of an ongoing phishing attack pretending to be from 'FINRA Support.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arrested Clop gang members laundered over $500M in ransomware payments<a href="https://therecord.media/arrested-clop-gang-members-laundered-over-500m-in-ransomware-payments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The members of the Cl0p ransomware gang that were arrested in Ukraine as part of an international law enforcement action also operated money laundering services for multiple cybercrime groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOS Disconnect: New High-Severity Bugs Affect 128 Dell PC and Tablet Models<a href="https://thehackernews.com/2021/06/bios-disconnect-new-high-severity-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed a chain of vulnerabilities affecting the BIOSConnect feature within Dell Client BIOS that could be abused by a privileged network adversary to gain arbitrary code execution at the BIOS/UEFI level of the affected device.  "As the attacker has the ability to remotely execute code in the pre-boot environment, this can be used to subvert the operating system and undermine fundamental trust in the device," researchers from enterprise device security firm Eclypsium said . "The virtually unlimited control over a device that this attack can provide makes the fruit of the labor well worth it for the attacker."   In all, the flaws affect 128 Dell models spanning across consumer and business laptops, desktops, and tablets, totalling an estimated 30 million individual devices. Worse, the weaknesses also impact computers that have  Secure Boot  enabled, a security feature designed to prevent  rootkits from being installed  at boot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Decline as Gangs Focus on Lucrative Targets<a href="https://www.infosecurity-magazine.com:443/news/ransomware-decline-gangs-lucrative/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The volume of ransomware attacks fell by 50% in Q1 2021, with a shift to targeting fewer, larger targets
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel warns customers of attacks on its enterprise firewall and VPN devices<a href="https://securityaffairs.co/wordpress/119351/hacking/zyxel-firewall-vpn-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment giant Zyxel warns customers of a series of attacks that have been targeting some of its enterprise firewall and VPN devices.
+
+
+
+Networking equipment vendor Zyxel warned its customers of a series of attacks that have been targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid phishing and vishing attacks  imitate business workflows<a href="https://www.scmagazine.com/home/security-news/phishing/hybrid-phishing-and-vishing-attacks-hunt-for-credit-card-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vishing attacks have grown in numbers since COVID-19 forced employees home, often replicating the frequency emails sent from businesses and employers related to password resets, security alerts, locked accounts, order confirmations and invoices.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Musk-Themed ‘$SpaceX’ Cryptoscam Invades YouTube Advertising<a href="https://threatpost.com/musk-spacex-cryptoscam-youtube-advertising/167219/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beware: The swindle uses legitimately purchased YouTube ads, real liquidity, legitimate DEX Uniswap, and the real wallet extension MetaMask to create an entirely convincing fake coin gambit.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Google Drive security update will break some of your shared links<a href="https://www.bleepingcomputer.com/news/google/a-google-drive-security-update-will-break-some-of-your-shared-links/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An upcoming security update for Google Drive will increase the security of your shared documents but likely break many of your shared links.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GoLang-based ChaChi Trojan Used as Part of Ransomware Campaigns Against US Schools<a href="https://www.zdnet.com/article/chachi-golang-a-new-go-trojan-focuses-on-attacking-us-schools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research team from BlackBerry Threat Research and Intelligence said on Wednesday that the malware, dubbed ChaChi, is also being used as a key component in launching ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reduce Business Risk By Fixing 3 Critical Endpoint-to-Cloud Security Requirements<a href="https://thehackernews.com/2021/06/reduce-business-risk-by-fixing-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise applications used to live securely in data centers and office employees connected to internal networks using company-managed laptops or desktops. And data was encircled by a walled perimeter to keep everything safe.  All that changed in the last 18 months. Businesses and employees had to adapt quickly to cloud technology and remote work. The cloud gave businesses the agility to respond faster to change and the scale to accommodate rapid growth. Remote work boosted productivity by letting employees access cloud data from anywhere on any device.  This is not business as usual. The data center and the perimeter security are no longer the center of the universe. Now remote workers, personal mobile devices, applications, and data are in the middle.  Although employees, applications, and data have left the building, IT security teams still shoulder the responsibility for protecting confidential data and ensuring compliance with strict privacy regulations. The risk of not doing so
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Leak Sites Reveal 422% Annual Increase in Victims<a href="https://www.infosecurity-magazine.com:443/news/ransom-leak-sites-increase-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News comes as most infosec professionals want to see ransom payments banned
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChaChi, a GoLang Trojan used in ransomware attacks on US schools<a href="https://securityaffairs.co/wordpress/119338/malware/chachi-rat-us-schools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Trojan written in the Go programming language, tracked as ChaChi, was involved in ransomware attacks against government agencies and US schools.
+
+
+
+Researchers from BlackBerry Threat Research and Intelligence spotted a new RAT written in the Go programming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Carbon Black Bug Allows Authentication Bypass<a href="https://threatpost.com/vmware-carbon-black-authentication-bypass/167226/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 9.4-rated bug in AppC could give attackers admin rights, no authentication required, letting them attack anything from PoS to industrial control systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack's unusual file attachment is a double-edged sword<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-unusual-file-attachment-is-a-double-edged-sword/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor uses an unusual attachment to bypass security software that is a double-edged sword that may work against them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak 260,000 accounts from Pakistani music streaming site Patari<a href="https://www.hackread.com/pakistani-music-streaming-site-patari-hacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patari.pk, a Pakistani music streaming site has suffered a data breach in which its database containing personal data and login credentials of over 257,000 users has been leaked on hacker forums.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One-Click Exploit Could Have Let Attackers Hijack Any Atlassian Account<a href="https://thehackernews.com/2021/06/one-click-exploit-could-have-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed critical flaws in the Atlassian project and software development platform that could be exploited to take over an account and control some of the apps connected through its single sign-on ( SSO ) capability.  "With just one click, an attacker could have used the flaws to get access to Atlassian's publish Jira system and get sensitive information, such as security issues on Atlassian cloud, Bitbucket and on premise products," Check Point Research said  in an analysis shared with The Hacker News.   After the issues were reported to Atlassian on Jan. 8, 2021, the Australian company deployed a fix as part of its  updates  rolled out on  May 18 . The sub-domains affected by the flaws include -    jira.atlassian.com  confluence.atlassian.com  getsupport.atlassian.com  partners.atlassian.com  developer.atlassian.com  support.atlassian.com  training.atlassian.com   Successful exploitation of these flaws could result in a supply-ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuisance Call Company Fined £130,000 After Eight-Month Blitz<a href="https://www.infosecurity-magazine.com:443/news/nuisance-call-company-fined/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+East Sussex-based firm made nearly one million unwanted calls
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tulsa’s Police-Citation Data Leaked by Conti Gang<a href="https://threatpost.com/tulsa-police-data-leaked-conti-ransomware/167220/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A May 6 ransomware attack caused disruption across several of the municipality’s online services and websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell SupportAssist bugs put over 30 million PCs at risk<a href="https://www.bleepingcomputer.com/news/security/dell-supportassist-bugs-put-over-30-million-pcs-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found four major security vulnerabilities in the BIOSConnect feature of Dell SupportAssist, allowing attackers to remotely execute code within the BIOS of impacted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fashion Firm French Connection Suffers Breach of Internal Data Due to REvil-linked Ransomware Attack<a href="https://www.theregister.com/2021/06/24/french_connection_says_fcuk_as/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French Connection has become the latest victim of ransomware, with a gang understood to be linked to REvil having penetrated its back-end - making off with a selection of private internal data.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Affects VMware Carbon Black App Control<a href="https://thehackernews.com/2021/06/critical-auth-bypass-bug-affects-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has rolled out security updates to resolve a critical flaw affecting Carbon Black App Control that could be exploited to bypass authentication and take control of vulnerable systems.  The vulnerability, identified as CVE-2021-21998, is rated 9.4 out of 10 in severity by the industry-standard Common Vulnerability Scoring System (CVSS) and affects App Control (AppC) versions 8.0.x, 8.1.x, 8.5.x, and 8.6.x.  Carbon Black App Control  is a security solution designed to lock down critical systems and servers to prevent unauthorized changes in the face of cyber-attacks and ensure compliance with regulatory mandates such as PCI-DSS, HIPAA, GDPR, SOX, FISMA, and NERC.   "A malicious actor with network access to the VMware Carbon Black App Control management server might be able to obtain administrative access to the product without the need to authenticate," the California-based cloud computing and virtualization technology company  said  in an advisory.  CVE-2021-21998 is th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Attacks Are Primary Funding Source for North Korea<a href="https://www.infosecurity-magazine.com:443/news/cyberattacks-primary-funding-north/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Venafi warns other sanctioned countries could follow suit
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ursnif Leverages Cerberus Android Malware to Automate Fraudulent Bank Transfers in Italy<a href="https://securityintelligence.com/posts/ursnif-cerberus-android-malware-bank-transfers-italy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once infected by Ursnif and upon attempting to access their banking account, victims are advised that they won’t be able to continue to use their bank’s services without downloading a security app.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMs Help Ransomware Attackers Evade Detection, but It's Uncommon<a href="https://www.darkreading.com/threat-intelligence/vms-help-ransomware-attackers-evade-detection-but-its-uncommon/d/d-id/1341380?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While effective in hiding ransomware activity, the tactic of using virtual machines is more complex than a traditional ransomware attack and may hamper the attackers' efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New DNS Name Server Hijack Attack That Exposes Businesses, Government Agencies<a href="https://www.darkreading.com/vulnerabilities---threats/new-dns-name-server-hijack-attack-exposes-businesses-government-agencies/d/d-id/1341377?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a novel class of DNS vulnerabilities in AWS Route53 and other DNS-as-a-service offerings that leak sensitive information on corporate and government customers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Surge in Ransomware Attacks: To pay or not to pay is not the only question - Check Point Software<a href="https://blog.checkpoint.com/2021/06/23/global-surge-in-ransomware-attacks-to-pay-or-not-to-pay-is-not-the-only-question/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of ransomware attacks is growing for a simple reason, hackers are getting paid. The willingness to pay creates a dangerous loop and increases the motivation of attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at IT Service Provider InfoSolutions Impacts Swedish COVID-19 Testing Lab<a href="https://cybernews.com/news/swedish-covid-19-lab-with-millions-of-test-results-breached/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even though the motive behind the breach is not clear, local media reports that it is suspected to be a warning shot from hackers as the little noticeable damage has yet to come out from the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangers Posed by Evidentiary Software—and What to Do About It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's well known the code is buggy; that's why software updates for anything from apps to operating systems are now the norm. But if the public understands this, the courts have not followed suit.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antivirus Pioneer John McAfee Found Dead in Spanish Jail<a href="https://thehackernews.com/2021/06/antivirus-pioneer-john-mcafee-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Controversial mogul and antivirus pioneer John McAfee on Wednesday died by suicide in a jail cell in Barcelona, hours after reports that he would be extradited to face federal charges in the U.S.  McAfee was 75. He is said to have died by hanging "as his nine months in prison brought him to despair," according to McAfee's lawyer Javier Villalba, Reuters  reported . Security personnel at the Brians 2 prison tried to revive McAfee, but he was eventually declared dead, per  Associated Press .   News of his death comes after Spain's National Court approved his extradition to the U.S. to face federal criminal tax evasion charges.  McAfee worked for NASA, Xerox, and Lockheed Martin before launching the world's first commercial antivirus software in 1987. He later resigned from the namesake security firm in 1994.   The former cybersecurity tycoon turned fugitive was detained in Spain last October for " willful failure to file tax returns ," with the U.S. Depar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

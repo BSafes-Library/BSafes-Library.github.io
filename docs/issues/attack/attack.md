@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel warns customers of attacks on its enterprise firewall and VPN devices<a href="https://securityaffairs.co/wordpress/119351/hacking/zyxel-firewall-vpn-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment giant Zyxel warns customers of a series of attacks that have been targeting some of its enterprise firewall and VPN devices.
+
+
+
+Networking equipment vendor Zyxel warned its customers of a series of attacks that have been targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at IT Service Provider InfoSolutions Impacts Swedish COVID-19 Testing Lab<a href="https://cybernews.com/news/swedish-covid-19-lab-with-millions-of-test-results-breached/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even though the motive behind the breach is not clear, local media reports that it is suspected to be a warning shot from hackers as the little noticeable damage has yet to come out from the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

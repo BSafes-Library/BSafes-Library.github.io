@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOS Disconnect: New High-Severity Bugs Affect 128 Dell PC and Tablet Models<a href="https://thehackernews.com/2021/06/bios-disconnect-new-high-severity-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday disclosed a chain of vulnerabilities affecting the BIOSConnect feature within Dell Client BIOS that could be abused by a privileged network adversary to gain arbitrary code execution at the BIOS/UEFI level of the affected device.  "As the attacker has the ability to remotely execute code in the pre-boot environment, this can be used to subvert the operating system and undermine fundamental trust in the device," researchers from enterprise device security firm Eclypsium said . "The virtually unlimited control over a device that this attack can provide makes the fruit of the labor well worth it for the attacker."   In all, the flaws affect 128 Dell models spanning across consumer and business laptops, desktops, and tablets, totalling an estimated 30 million individual devices. Worse, the weaknesses also impact computers that have&nbsp; Secure Boot &nbsp;enabled, a security feature designed to prevent&nbsp; rootkits from being installed &nbsp;at boot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Google Drive security update will break some of your shared links<a href="https://www.bleepingcomputer.com/news/google/a-google-drive-security-update-will-break-some-of-your-shared-links/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An upcoming security update for Google Drive will increase the security of your shared documents but likely break many of your shared links.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Carbon Black Bug Allows Authentication Bypass<a href="https://threatpost.com/vmware-carbon-black-authentication-bypass/167226/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 9.4-rated bug in AppC could give attackers admin rights, no authentication required, letting them attack anything from PoS to industrial control systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One-Click Exploit Could Have Let Attackers Hijack Any Atlassian Account<a href="https://thehackernews.com/2021/06/one-click-exploit-could-have-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed critical flaws in the Atlassian project and software development platform that could be exploited to take over an account and control some of the apps connected through its single sign-on ( SSO ) capability.  "With just one click, an attacker could have used the flaws to get access to Atlassian's publish Jira system and get sensitive information, such as security issues on Atlassian cloud, Bitbucket and on premise products," Check Point Research said  in an analysis shared with The Hacker News.   After the issues were reported to Atlassian on Jan. 8, 2021, the Australian company deployed a fix as part of its&nbsp; updates &nbsp;rolled out on&nbsp; May 18 . The sub-domains affected by the flaws include -&nbsp;   jira.atlassian.com  confluence.atlassian.com  getsupport.atlassian.com  partners.atlassian.com  developer.atlassian.com  support.atlassian.com  training.atlassian.com   Successful exploitation of these flaws could result in a supply-ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell SupportAssist bugs put over 30 million PCs at risk<a href="https://www.bleepingcomputer.com/news/security/dell-supportassist-bugs-put-over-30-million-pcs-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found four major security vulnerabilities in the BIOSConnect feature of Dell SupportAssist, allowing attackers to remotely execute code within the BIOS of impacted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Affects VMware Carbon Black App Control<a href="https://thehackernews.com/2021/06/critical-auth-bypass-bug-affects-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has rolled out security updates to resolve a critical flaw affecting Carbon Black App Control that could be exploited to bypass authentication and take control of vulnerable systems.  The vulnerability, identified as CVE-2021-21998, is rated 9.4 out of 10 in severity by the industry-standard Common Vulnerability Scoring System (CVSS) and affects App Control (AppC) versions 8.0.x, 8.1.x, 8.5.x, and 8.6.x.  Carbon Black App Control &nbsp;is a security solution designed to lock down critical systems and servers to prevent unauthorized changes in the face of cyber-attacks and ensure compliance with regulatory mandates such as PCI-DSS, HIPAA, GDPR, SOX, FISMA, and NERC.   "A malicious actor with network access to the VMware Carbon Black App Control management server might be able to obtain administrative access to the product without the need to authenticate," the California-based cloud computing and virtualization technology company&nbsp; said &nbsp;in an advisory.  CVE-2021-21998 is th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New DNS Name Server Hijack Attack That Exposes Businesses, Government Agencies<a href="https://www.darkreading.com/vulnerabilities---threats/new-dns-name-server-hijack-attack-exposes-businesses-government-agencies/d/d-id/1341377?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a novel class of DNS vulnerabilities in AWS Route53 and other DNS-as-a-service offerings that leak sensitive information on corporate and government customers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

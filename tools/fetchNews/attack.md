@@ -11,6 +11,34 @@ nav_order: 900015
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Healthcare giant Grupo Fleury hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazilian medical diagnostic company Grupo Fleury has suffered a ransomware attack that has disrupted business operations after the company took its systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare giant Grupo Fleury hit by alleged REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-alleged-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazilian medical diagnostic company Grupo Fleury has suffered a ransomware attack that has disrupted business operations after the company took its systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ireland: Three quarters of HSE IT servers decrypted following crippling cyberattack<a href="https://www.thejournal.ie/75-it-servers-restored-cyber-attack-5474660-Jun2021/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

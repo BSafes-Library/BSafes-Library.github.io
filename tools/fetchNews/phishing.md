@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Bypasses SEG to Target Office365 Users<a href="https://cyware.com/news/phishing-campaign-bypasses-seg-to-target-office365-users-342c1c8a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign that counterfeits an Outlook Security update email is luring employees to open a New Policy PDF to harvest their Office 365 credentials. There is a dire need for a continuously evolving security strategy which also highlights the importance of having multiple layers of secur ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

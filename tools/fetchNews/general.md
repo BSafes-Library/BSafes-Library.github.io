@@ -11,6 +11,80 @@ nav_order: 900072
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech antitrust bills create strange bedfellows in House markup | Rick Scott blocks Senate vote on top cyber nominee until Harris visits border | John McAfee dies<a href="https://thehill.com//policy/technology/overnights/559963-hillicon-valley-tech-antitrust-bills-create-strange-bedfellows"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech world had its eyes on the House Judiciary Committee (for most of the day — and night) as members marked up the bipartisan antitrust agenda that targets Apple, Google, Facebook and Amazon. The meeting continued well into the evening, with lawmakers on both sides of the aisle raising concerns over the implications of the bills that aim to rein in the power of tech platforms.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+John McAfee found dead in prison cell ahead of extradition to US<a href="https://securityaffairs.co/wordpress/119332/breaking-news/john-mcafee-found-dead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the fathers of antivirus software, the entrepreneur John McAfee has been found dead in a Barcelona prison cell while he was waiting for extradition to the US.
+
+
+
+The popular cybersecurity entrepreneur John McAfee has been found dead in a Barcelona...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pandemic-Bored Attackers Pummeled Gaming Industry<a href="https://threatpost.com/attackers-gaming-industry/167183/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai’s 2020 gaming report shows that cyberattacks on the video game industry skyrocketed, shooting up 340 percent in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Majority of Web Apps in 11 Industries Are Vulnerable All the Time<a href="https://www.darkreading.com/application-security/majority-of-web-apps-in-11-industries-are-vulnerable-all-the-time/d/d-id/1341356?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-thirds of the applications deployed by the utility sector and 63% of those deployed by public administration organizations have a serious vulnerability, according to a report by WhiteHat Security.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Industry Experiences 340% Spike in Web App Attacks<a href="https://www.infosecurity-magazine.com:443/news/gaming-industry-spike-web-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web app attacks surged by 340% in 2020 compared to 2019, according to a new study from Akamai
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 [Whitepaper] Automate Your Security with Cynet to Protect from Ransomware<a href="https://thehackernews.com/2021/06/whitepaper-automate-your-security-with.html"> Full Text</a>
 </p>
 <details>
