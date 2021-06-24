@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tech antitrust bills create strange bedfellows in House markup | Rick Scott blocks Senate vote on top cyber nominee until Harris visits border | John McAfee dies<a href="https://thehill.com//policy/technology/overnights/559963-hillicon-valley-tech-antitrust-bills-create-strange-bedfellows"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI asks Congress for $40M to help combat wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/559947-fbi-asks-congress-for-40-million-to-help-combat-wave-of-ransomware"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 John McAfee found dead in prison cell ahead of extradition to US<a href="https://securityaffairs.co/wordpress/119332/breaking-news/john-mcafee-found-dead.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rick Scott blocks Senate vote on top cyber nominee until Harris visits border<a href="https://thehill.com//policy/cybersecurity/559936-rick-scott-blocks-senate-vote-on-top-cyber-nominee-until-harris-visits"> Full Text</a>
@@ -102,7 +102,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare giant Grupo Fleury hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-revil-ransomware-attack/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anti-virus Pioneer John McAfee Found Dead in Spanish Prison Cell<a href="https://www.infosecurity-magazine.com:443/news/john-mcafee-found-dead-in-prison/"> Full Text</a>
@@ -134,7 +134,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Symmetry Systems lands $15 million in Series A funding to solve data visibility issues<a href="https://www.scmagazine.com/home/security-news/symmetry-systems-lands-15-million-in-series-a-funding-to-solve-data-visibility-issues/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dangers Posed by Evidentiary Software—and What to Do about It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-software-and-what-do-about-it"> Full Text</a>
@@ -166,7 +166,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The European Commission proposed to launch the new Joint Cyber Unit<a href="https://securityaffairs.co/wordpress/119317/uncategorized/eu-commission-new-joint-cyber-unit.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum computing may transform cybersecurity eventually  – but not yet<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/quantum-computing-may-transform-cybersecurity-eventually-but-not-yet/"> Full Text</a>
@@ -202,7 +202,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dangers Posed by Evidentiary Software—and What to Do about It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-software%E2%80%94and-what-do-about-it"> Full Text</a>
@@ -218,7 +218,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senator: Is it time to treat ransomware like piracy, using military to make operators walk the plank?<a href="https://www.scmagazine.com/home/security-news/ransomware/senator-is-it-time-to-treat-ransomware-like-piracy-using-military-to-make-operators-walk-the-plank/"> Full Text</a>
@@ -234,7 +234,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare giant Grupo Fleury hit by alleged REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-alleged-revil-ransomware-attack/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Bypasses SEG to Target Office365 Users<a href="https://cyware.com/news/phishing-campaign-bypasses-seg-to-target-office365-users-342c1c8a"> Full Text</a>
@@ -267,7 +267,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mr. Double’s Operator Jailed<a href="https://www.infosecurity-magazine.com:443/news/mr-doubles-operator-jailed/"> Full Text</a>
@@ -283,7 +283,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 sLoad Malware Moving to European Targets<a href="https://cyware.com/news/sload-malware-moving-to-european-targets-0cfa3184"> Full Text</a>
@@ -300,7 +300,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran Media Websites Seized by U.S. in Disinformation Campaign<a href="https://threatpost.com/iran-media-websites-seized-disinformation/167198/"> Full Text</a>
@@ -316,7 +316,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LV ransomware operators repurposed a REvil binary to launch a new RaaS<a href="https://securityaffairs.co/wordpress/119306/malware/lv-ransomware-repurposed-revil-binary.html"> Full Text</a>
@@ -336,7 +336,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-attack Exposes Eye Clinic Patient Data<a href="https://www.infosecurity-magazine.com:443/news/cyberattack-exposes-eye-clinic/"> Full Text</a>
@@ -352,7 +352,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish court approves extradition of John McAfee to US<a href="https://thehill.com//policy/cybersecurity/559886-spanish-court-approves-extradition-of-john-mcafee-to-us"> Full Text</a>
@@ -368,7 +368,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A COVID-19-Themed Campaign Delivering Agent Tesla<a href="https://cyware.com/news/a-covid-19-themed-campaign-delivering-agent-tesla-d5779a3f"> Full Text</a>
@@ -385,7 +385,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adversarial Octopus – Attack Demo for AI-driven Facial Recognition Engine<a href="https://securityaffairs.co/wordpress/119248/hacking/adversarial-octopus-facial-recognition.html?&web_view=true"> Full Text</a>
@@ -401,7 +401,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes authentication bypass in Carbon Black App Control<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-carbon-black-app-control/"> Full Text</a>
@@ -417,7 +417,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gang Cl0p Announces New Victim After Police Bust<a href="https://www.vice.com/en/article/88n5j3/ransomware-gang-cl0p-announces-new-victim-after-police-bust?&web_view=true"> Full Text</a>
@@ -433,7 +433,7 @@ Vice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OIG: CMS lacks protocol to assess networked medical device cybersecurity in hospitals<a href="https://www.scmagazine.com/home/health-care/oig-cms-lacks-protocol-to-assess-networked-medical-device-cybersecurity-in-hospitals/"> Full Text</a>
@@ -449,7 +449,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Employee Privacy Gap Discovered<a href="https://www.infosecurity-magazine.com:443/news/employee-privacy-gap-discovered/"> Full Text</a>
@@ -465,7 +465,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammer arrested for phishing operation, sent 25,000 texts in a day<a href="https://www.bleepingcomputer.com/news/security/scammer-arrested-for-phishing-operation-sent-25-000-texts-in-a-day/"> Full Text</a>
@@ -481,7 +481,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammer sends over 25,000 phishing texts in a day, arrested<a href="https://www.bleepingcomputer.com/news/security/scammer-sends-over-25-000-phishing-texts-in-a-day-arrested/"> Full Text</a>
@@ -497,7 +497,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes privilege escalation issue in VMware Tools for Windows<a href="https://securityaffairs.co/wordpress/119294/security/vmware-fixes-privilege-escalation-issue-in-vmware-tools-for-windows.html"> Full Text</a>
@@ -517,7 +517,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall ‘Botches’ October Patch for VPN Bug<a href="https://threatpost.com/sonicwall-botches-critical-vpn-bug/167152/"> Full Text</a>
@@ -533,7 +533,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pandemic-Bored Attackers Pummeled Gaming Industry<a href="https://threatpost.com/attackers-gaming-industry/167183/"> Full Text</a>
@@ -549,7 +549,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House panel includes $500 million election security grant in proposed appropriations bill<a href="https://thehill.com//policy/cybersecurity/559836-house-panel-includes-500-million-election-security-grant-in-proposed"> Full Text</a>
@@ -565,7 +565,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Code Ripped Off by Rivals<a href="https://threatpost.com/revil-ransomware-code-rivals/167167/"> Full Text</a>
@@ -581,7 +581,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Majority of Web Apps in 11 Industries Are Vulnerable All the Time<a href="https://www.darkreading.com/application-security/majority-of-web-apps-in-11-industries-are-vulnerable-all-the-time/d/d-id/1341356?&web_view=true"> Full Text</a>
@@ -597,7 +597,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gaming Industry Experiences 340% Spike in Web App Attacks<a href="https://www.infosecurity-magazine.com:443/news/gaming-industry-spike-web-app/"> Full Text</a>
@@ -613,7 +613,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tulsa warns of data breach after Conti ransomware leaks police citations<a href="https://www.bleepingcomputer.com/news/security/tulsa-warns-of-data-breach-after-conti-ransomware-leaks-police-citations/"> Full Text</a>
@@ -629,7 +629,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Information of 500,000 Patients of Iowa-based Wolfe Eye Clinic Accessed in Cyberattack<a href="https://apnews.com/article/ia-state-wire-iowa-business-hacking-technology-5886dc62016f9fd541f7c8fe9846abf7?&web_view=true"> Full Text</a>
@@ -645,7 +645,7 @@ AP News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amid big hacks, U.S. spy agency touts collaboration center with private industry<a href="https://www.reuters.com/technology/amid-big-hacks-us-spy-agency-touts-collaboration-center-with-private-industry-2021-06-22/?&web_view=true"> Full Text</a>
@@ -661,7 +661,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Linux Marketplace Bugs Allow Wormable Attacks, Drive-By RCE<a href="https://threatpost.com/unpatched-linux-marketplace-bugs-rce/167155/"> Full Text</a>
@@ -677,7 +677,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Tulsa Reports Cyber Incident Potentially Affecting Personal Information of Residents<a href="https://edition.cnn.com/2021/06/23/us/tulsa-cyberattack-personal-information-dark-web/index.html?&web_view=true"> Full Text</a>
@@ -693,7 +693,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2021
+June 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian intelligence service chief says Moscow will work with US to find hackers<a href="https://www.scmagazine.com/home/security-news/ransomware/russian-intelligence-service-chief-says-moscow-will-work-with-us-to-find-hackers/"> Full Text</a>
