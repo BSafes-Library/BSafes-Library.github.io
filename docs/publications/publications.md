@@ -7,6 +7,7 @@ nav_order: 500
 
 ## Publications
 * June 9, 2021, CISA Fact Sheet: Rising Ransomware Threat to OT Assets [[HTML](https://publications.bsafes.com/docs/cisa/rising-ransomware-threat-to-operational-technology-assets/)]
+* June 2021, Cybersecurity Framework Profile for Ransomware Risk Management [[HTML](https://publications.bsafes.com/docs/nist/cybersecurity-framework-profile-for-ransomware-risk-management/)]
 * June, 2021, Deploying Secure Unified Communications/Voice and Video over IP Systems, by NSA [[HTML](https://publications.bsafes.com/docs/nsa/deploying-secure-unified-communications-voice-and-video-over-ip-systems/)] 
 * June 2021, Best Practices for MITRE ATT&CK® Mapping [[HTML](https://publications.bsafes.com/docs/cisa/best-practices-for-mitre-att-and-ck-mapping/)]
 * April 2021, Defending Against Software Supply Chain Attacks [[HTML](https://publications.bsafes.com/docs/cisa/defending-against-software-supply-chain-attacks/)]
