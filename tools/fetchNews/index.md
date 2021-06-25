@@ -37,6 +37,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A New Attack on AI-driven Facial Recognition Systems<a href="https://cyware.com/news/a-new-attack-on-ai-driven-facial-recognition-systems-4ece656a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers developed an attack technique named Adversarial Octopus that could perform a targeted attack on AI-based facial recognition systems. This attack shows that AI systems require much more attention at the security front, and such new attack methods will help raise awareness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 500K patients accessed, stolen after eye clinic ransomware attack<a href="https://www.scmagazine.com/home/security-news/data-breach/actors-steal-data-of-500k-patients-during-eye-clinic-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week’s breach roundup is led by a ransomware attack against Wolfe Eye Clinic in Iowa. An attacker accessed and likely stole the data of 500,000 patients.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Arrests Probably Weren’t Able to Stop Cl0p Ransomware<a href="https://cyware.com/news/recent-arrests-probably-werent-able-to-stop-cl0p-ransomware-0fdec2cd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cl0p ransomware hackers just dumped stolen data on their dark website claiming it was stolen from a new victim. Several gang members of the group were detained by Ukrainian police last week but it seems the group is still active. Organizations are advised to proactively follow adequate security mea ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit 3-years old flaw to wipe Western Digital devices<a href="https://securityaffairs.co/wordpress/119392/iot/hackers-wipe-western-digital-devices.html"> Full Text</a>
 </p>
 <details>
