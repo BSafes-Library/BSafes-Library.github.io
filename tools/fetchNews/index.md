@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ignorance is not a legal excuse for paying sanctioned ransomware groups<a href="https://www.scmagazine.com/home/security-news/ransomware/ignorance-is-not-a-legal-excuse-for-paying-sanctioned-ransomware-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly emergent Grief ransomware is another example of how cybercriminal groups change names and coding to confuse victims and circumvent federal restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A New Attack on AI-driven Facial Recognition Systems<a href="https://cyware.com/news/a-new-attack-on-ai-driven-facial-recognition-systems-4ece656a"> Full Text</a>
 </p>
 <details>
