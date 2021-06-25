@@ -37,6 +37,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Young Americans Twice as Likely to Cyber-stalk<a href="https://www.infosecurity-magazine.com:443/news/young-americans-twice-as-likely-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gen Z and Millennials more likely than those aged over 40 to cyber-stalk exes and current partners
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS acquires encrypted comms platform Wickr to support shift to hybrid work environments<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/aws-acquires-encrypted-comms-platform-wickr-to-support-shift-to-hybrid-work-environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AWS CISO Stephen Schmidt said that the move to a hybrid work environment due in part to the pandemic has led to a need among companies and government agencies
+to protect their communications across multiple remote locations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ignorance is not a legal excuse for paying sanctioned ransomware groups<a href="https://www.scmagazine.com/home/security-news/ransomware/ignorance-is-not-a-legal-excuse-for-paying-sanctioned-ransomware-groups/"> Full Text</a>
 </p>
 <details>
