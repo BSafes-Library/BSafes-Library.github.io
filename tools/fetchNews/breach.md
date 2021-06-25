@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak 260,000 accounts from Pakistani music streaming site Patari<a href="https://www.hackread.com/pakistani-music-streaming-site-patari-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patari.pk, a Pakistani music streaming site has suffered a data breach in which its database containing personal data and login credentials of over 257,000 users has been leaked on hacker forums.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tulsa’s Police-Citation Data Leaked by Conti Gang<a href="https://threatpost.com/tulsa-police-data-leaked-conti-ransomware/167220/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A May 6 ransomware attack caused disruption across several of the municipality’s online services and websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fashion Firm French Connection Suffers Breach of Internal Data Due to REvil-linked Ransomware Attack<a href="https://www.theregister.com/2021/06/24/french_connection_says_fcuk_as/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French Connection has become the latest victim of ransomware, with a gang understood to be linked to REvil having penetrated its back-end - making off with a selection of private internal data.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

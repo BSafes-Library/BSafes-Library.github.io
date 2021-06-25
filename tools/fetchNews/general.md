@@ -8,6 +8,104 @@ nav_order: 900072
 
 ## General
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Decline as Gangs Focus on Lucrative Targets<a href="https://www.infosecurity-magazine.com:443/news/ransomware-decline-gangs-lucrative/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The volume of ransomware attacks fell by 50% in Q1 2021, with a shift to targeting fewer, larger targets
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reduce Business Risk By Fixing 3 Critical Endpoint-to-Cloud Security Requirements<a href="https://thehackernews.com/2021/06/reduce-business-risk-by-fixing-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise applications used to live securely in data centers and office employees connected to internal networks using company-managed laptops or desktops. And data was encircled by a walled perimeter to keep everything safe.  All that changed in the last 18 months. Businesses and employees had to adapt quickly to cloud technology and remote work. The cloud gave businesses the agility to respond faster to change and the scale to accommodate rapid growth. Remote work boosted productivity by letting employees access cloud data from anywhere on any device.  This is not business as usual. The data center and the perimeter security are no longer the center of the universe. Now remote workers, personal mobile devices, applications, and data are in the middle.  Although employees, applications, and data have left the building, IT security teams still shoulder the responsibility for protecting confidential data and ensuring compliance with strict privacy regulations. The risk of not doing so
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Leak Sites Reveal 422% Annual Increase in Victims<a href="https://www.infosecurity-magazine.com:443/news/ransom-leak-sites-increase-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News comes as most infosec professionals want to see ransom payments banned
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMs Help Ransomware Attackers Evade Detection, but It's Uncommon<a href="https://www.darkreading.com/threat-intelligence/vms-help-ransomware-attackers-evade-detection-but-its-uncommon/d/d-id/1341380?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While effective in hiding ransomware activity, the tactic of using virtual machines is more complex than a traditional ransomware attack and may hamper the attackers' efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Surge in Ransomware Attacks: To pay or not to pay is not the only question - Check Point Software<a href="https://blog.checkpoint.com/2021/06/23/global-surge-in-ransomware-attacks-to-pay-or-not-to-pay-is-not-the-only-question/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of ransomware attacks is growing for a simple reason, hackers are getting paid. The willingness to pay creates a dangerous loop and increases the motivation of attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangers Posed by Evidentiary Software—and What to Do About It<a href="https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's well known the code is buggy; that's why software updates for anything from apps to operating systems are now the norm. But if the public understands this, the courts have not followed suit.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antivirus Pioneer John McAfee Found Dead in Spanish Jail<a href="https://thehackernews.com/2021/06/antivirus-pioneer-john-mcafee-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Controversial mogul and antivirus pioneer John McAfee on Wednesday died by suicide in a jail cell in Barcelona, hours after reports that he would be extradited to face federal charges in the U.S.  McAfee was 75. He is said to have died by hanging "as his nine months in prison brought him to despair," according to McAfee's lawyer Javier Villalba, Reuters&nbsp; reported . Security personnel at the Brians 2 prison tried to revive McAfee, but he was eventually declared dead, per&nbsp; Associated Press .   News of his death comes after Spain's National Court approved his extradition to the U.S. to face federal criminal tax evasion charges.  McAfee worked for NASA, Xerox, and Lockheed Martin before launching the world's first commercial antivirus software in 1987. He later resigned from the namesake security firm in 1994.   The former cybersecurity tycoon turned fugitive was detained in Spain last October for " willful failure to file tax returns ," with the U.S. Depar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

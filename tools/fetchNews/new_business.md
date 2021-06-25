@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk expands into cloud security space with new platform<a href="https://www.scmagazine.com/home/security-news/splunk-expands-into-cloud-security-space-with-new-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk, best known for its analytics software, delved deeper into the security realm this week when it released its new Splunk Security Cloud, a security operations platform that consists of security analytics, automated security operations, and integrated threat intelligence. The move to a cloud-based platform reflects Splunk’s recognition that the migration to remote work last…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pushes Back Cookie Removal Plans to 2023<a href="https://www.infosecurity-magazine.com:443/news/google-pushes-back-cookie-removal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's plan to deprecate third-party tracking cookies from its Chrome browser delayed to 2023
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

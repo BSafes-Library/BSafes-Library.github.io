@@ -34,6 +34,367 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Dell BIOSConnect feature affect 128 device models<a href="https://securityaffairs.co/wordpress/119369/security/dell-biosconnect-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws affecting the BIOSConnect feature of Dell Client BIOS could be exploited by a privileged attacker to execute arbitrary code at the BIOS/UEFI level of the impacted device.
+
+
+
+Researchers from cybersecurity firm Eclypsium discovered multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House advances six bills targeting Big Tech after overnight slugfest | Google to delay cookie phase out until 2023 | Appeals court rules against Baltimore Police Department aerial surveillance program<a href="https://thehill.com//policy/technology/overnights/560154-hillicon-valley-house-advances-six-bills-targeting-big-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Judiciary Committee members wrapped up a marathon markup Thursday afternoon, advancing six antitrust bills that target the largest tech companies in the country. The two-day affair highlighted divisions in each party, with some California lawmakers on both sides of the aisle opposing the bills and previewing future hurdles for the legislation going forward. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk expands into cloud security space with new platform<a href="https://www.scmagazine.com/home/security-news/splunk-expands-into-cloud-security-space-with-new-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk, best known for its analytics software, delved deeper into the security realm this week when it released its new Splunk Security Cloud, a security operations platform that consists of security analytics, automated security operations, and integrated threat intelligence. The move to a cloud-based platform reflects Splunk’s recognition that the migration to remote work last…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BIOS vulnerabilities impact tens of millions of Dell computer hardware<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-bios-vulnerabilities-impact-tens-of-millions-of-dell-computer-hardware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, discovered by security researchers at Eclypsium, attack the BIOSConnect feature within Dell Client BIOS and affects 30 million devices across 128 different Dell models, including laptops, desktops and tablets.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘We desperately need a director’: Cyber advocates sound off as senator delays CISA confirmation<a href="https://www.scmagazine.com/home/security-news/government-and-defense/we-desperately-need-a-director-cyber-advocates-sound-off-as-senator-delays-cisa-confirmation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of a permanent individual to act as the bridge to the private sector  only delays efforts to address critical security efforts, cyber leaders say.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security pros struggle to balance monitoring of remote workforces with privacy expectations<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/security-pros-struggle-to-balance-monitoring-of-remote-workforces-with-privacy-expectations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sixty-five percent of surveyed IT and security pros said their companies have increased monitoring of remote workers, but only 46% said their businesses are transparent about how.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-stalker Blackmailed Nebraska Legislature Candidate’s Wife<a href="https://www.infosecurity-magazine.com:443/news/parris-cyber-stalker-guilty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nebraskan found guilty of sending indecent images and threatening emails to Diane Parris
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WD My Book NAS devices are being remotely wiped clean worldwide <a href="https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital My Book NAS owners worldwide are finding that their devices have been mysteriously factory reset and all of their files deleted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Bugs Could Have Led to 1-Click Takeover<a href="https://threatpost.com/atlassian-bugs-could-have-led-to-1-click-takeover/167203/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply-chain attack could have siphoned sensitive information out of Jira, such as security issues on Atlassian cloud, Bitbucket and on-prem products.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance exchange helped track down Clop ransomware money launderers<a href="https://www.bleepingcomputer.com/news/security/binance-exchange-helped-track-down-clop-ransomware-money-launderers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency exchange service Binance played an important part in the recent arrests of Clop ransomware group members, helping law enforcement in their effort to identify, and ultimately detain the suspects.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at WorkForce West Virginia<a href="https://www.infosecurity-magazine.com:443/news/data-breach-at-workforce-west/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mountain State governor confirms data breach impacting jobseekers’ database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oh FCUK! Fashion Label, Medical Diagnostics Firm Latest REvil Victims<a href="https://threatpost.com/fcuk-fashion-medical-diagnostics-revil/167245/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous ransomware group hit two big-name companies within hours of each other.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linguist Jailed for Sharing US Defense Secrets<a href="https://www.infosecurity-magazine.com:443/news/linguist-jailed-for-sharing-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defense Department employee who passed secrets to Hizballah is sentenced to 23 years in prison
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Cryptominers Target Software Repositories to Burn a Hole in Your Wallet<a href="https://cyware.com/news/malicious-cryptominers-target-software-repositories-to-burn-a-hole-in-your-wallet-0b9b0c8c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonatype researchers have recently discovered malicious packages in PyPI, a software code repository, that turns developers’ workstations into cryptomining machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Sector Still Not Safe from Cyberattacks<a href="https://cyware.com/news/manufacturing-sector-still-not-safe-from-cyberattacks-8f9092c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturers are still pelted by cyberattacks left, right, and center. A survey published by Morphisec has found that one in five manufacturing companies in the sector has been compromised in a cyber incident.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Linux Version of DarkSide Ransomware<a href="https://cyware.com/news/the-linux-version-of-darkside-ransomware-223ea813"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts analyzed a Linux version of the DarkSide ransomware, the group responsible for the Colonial Pipeline attack, and claimed that it targeted VMware virtual machines. Though DarkSide has purportedly shut down its operations, organizations are recommended to implement adequate security measures  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers introduce bill to increase American awareness of cyber threats<a href="https://thehill.com//policy/cybersecurity/560077-house-lawmakers-introduce-bill-to-increase-american-awareness-of-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Thursday introduced legislation to step up cybersecurity literacy and increase awareness among the American public amid a spike in cyber threats against critical infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health care’s security challenges spurred by constrained resources, limited staffing<a href="https://www.scmagazine.com/home/health-care/health-cares-security-challenges-spurred-by-constrained-resources-limited-staffing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F-Secure’s Andrew Neville sheds light on ongoing resource and staffing issues contributing to health care’s security challenges. “What’s actually going on? We’re looking at the wrong problems,” he told SC Media.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel says a threat actor is targeting its enterprise firewall and VPN devices<a href="https://therecord.media/zyxel-says-a-threat-actor-is-targeting-its-enterprise-firewall-and-vpn-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has emailed customers this week to alert them about a series of attacks that have been targeting some of the company’s high-end enterprise-focused firewall and VPN server products.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pushes Back Cookie Removal Plans to 2023<a href="https://www.infosecurity-magazine.com:443/news/google-pushes-back-cookie-removal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's plan to deprecate third-party tracking cookies from its Chrome browser delayed to 2023
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware releases patches for critical flaw in Carbon Black App Control<a href="https://securityaffairs.co/wordpress/119362/security/vmware-carbon-black-app-control-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches to address an authentication bypass vulnerability in VMware Carbon Black App Control (AppC) for Windows.
+
+
+
+VMware released security patches for an authentication bypass vulnerability, tracked as CVE-2021-21998, in Carbon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious spam campaigns delivering banking Trojans<a href="https://securelist.com/malicious-spam-campaigns-delivering-banking-trojans/102917/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In mid-March 2021, Kaspersky researchers observed two new spam campaigns. The messages in both cases were written in English and contained ZIP attachments or links to ZIP files.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

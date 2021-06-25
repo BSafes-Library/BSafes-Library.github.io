@@ -11,6 +11,34 @@ nav_order: 900163
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linguist Jailed for Sharing US Defense Secrets<a href="https://www.infosecurity-magazine.com:443/news/linguist-jailed-for-sharing-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defense Department employee who passed secrets to Hizballah is sentenced to 23 years in prison
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers introduce bill to increase American awareness of cyber threats<a href="https://thehill.com//policy/cybersecurity/560077-house-lawmakers-introduce-bill-to-increase-american-awareness-of-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers on Thursday introduced legislation to step up cybersecurity literacy and increase awareness among the American public amid a spike in cyber threats against critical infrastructure.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Nuisance Call Company Fined £130,000 After Eight-Month Blitz<a href="https://www.infosecurity-magazine.com:443/news/nuisance-call-company-fined/"> Full Text</a>
 </p>
 <details>

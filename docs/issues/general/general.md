@@ -11,6 +11,48 @@ nav_order: 900072
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House advances six bills targeting Big Tech after overnight slugfest | Google to delay cookie phase out until 2023 | Appeals court rules against Baltimore Police Department aerial surveillance program<a href="https://thehill.com//policy/technology/overnights/560154-hillicon-valley-house-advances-six-bills-targeting-big-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Judiciary Committee members wrapped up a marathon markup Thursday afternoon, advancing six antitrust bills that target the largest tech companies in the country. The two-day affair highlighted divisions in each party, with some California lawmakers on both sides of the aisle opposing the bills and previewing future hurdles for the legislation going forward.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Sector Still Not Safe from Cyberattacks<a href="https://cyware.com/news/manufacturing-sector-still-not-safe-from-cyberattacks-8f9092c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturers are still pelted by cyberattacks left, right, and center. A survey published by Morphisec has found that one in five manufacturing companies in the sector has been compromised in a cyber incident.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health care’s security challenges spurred by constrained resources, limited staffing<a href="https://www.scmagazine.com/home/health-care/health-cares-security-challenges-spurred-by-constrained-resources-limited-staffing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F-Secure’s Andrew Neville sheds light on ongoing resource and staffing issues contributing to health care’s security challenges. “What’s actually going on? We’re looking at the wrong problems,” he told SC Media.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Decline as Gangs Focus on Lucrative Targets<a href="https://www.infosecurity-magazine.com:443/news/ransomware-decline-gangs-lucrative/"> Full Text</a>
 </p>
 <details>

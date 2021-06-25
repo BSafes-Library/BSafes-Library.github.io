@@ -11,6 +11,34 @@ nav_order: 900031
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber-stalker Blackmailed Nebraska Legislature Candidate’s Wife<a href="https://www.infosecurity-magazine.com:443/news/parris-cyber-stalker-guilty/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nebraskan found guilty of sending indecent images and threatening emails to Diane Parris
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance exchange helped track down Clop ransomware money launderers<a href="https://www.bleepingcomputer.com/news/security/binance-exchange-helped-track-down-clop-ransomware-money-launderers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency exchange service Binance played an important part in the recent arrests of Clop ransomware group members, helping law enforcement in their effort to identify, and ultimately detain the suspects.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Arrested Clop gang members laundered over $500M in ransomware payments<a href="https://therecord.media/arrested-clop-gang-members-laundered-over-500m-in-ransomware-payments/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

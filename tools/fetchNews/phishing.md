@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US brokerage firms warned of 'FINRA Support' phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-brokerage-firms-warned-of-finra-support-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US securities industry regulator FINRA is warning brokerage firms of an ongoing phishing attack pretending to be from 'FINRA Support.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid phishing and vishing attacks  imitate business workflows<a href="https://www.scmagazine.com/home/security-news/phishing/hybrid-phishing-and-vishing-attacks-hunt-for-credit-card-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vishing attacks have grown in numbers since COVID-19 forced employees home, often replicating the frequency emails sent from businesses and employers related to password resets, security alerts, locked accounts, order confirmations and invoices.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack's unusual file attachment is a double-edged sword<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-unusual-file-attachment-is-a-double-edged-sword/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor uses an unusual attachment to bypass security software that is a double-edged sword that may work against them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

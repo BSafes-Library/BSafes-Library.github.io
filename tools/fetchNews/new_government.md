@@ -11,6 +11,20 @@ nav_order: 900075
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+‘We desperately need a director’: Cyber advocates sound off as senator delays CISA confirmation<a href="https://www.scmagazine.com/home/security-news/government-and-defense/we-desperately-need-a-director-cyber-advocates-sound-off-as-senator-delays-cisa-confirmation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of a permanent individual to act as the bridge to the private sector  only delays efforts to address critical security efforts, cyber leaders say.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Attacks Are Primary Funding Source for North Korea<a href="https://www.infosecurity-magazine.com:443/news/cyberattacks-primary-funding-north/"> Full Text</a>
 </p>
 <details>
