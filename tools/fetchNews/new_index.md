@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Crackonosh Malware Author Minted $2 Million in Cryptocurrency After Infecting 222,000 Windows Systems<a href="https://therecord.media/malware-author-made-2-million-after-infecting-222000-windows-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has done so by hiding its malware in pirated and cracked copies of popular software, Daniel Beneš, a malware analyst for antivirus maker Avast, said in a report today.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 My Book Live Users Wake Up to Wiped Devices, Active RCE Attacks<a href="https://threatpost.com/my-book-live-wiped-rce-attacks/167270/"> Full Text</a>
 </p>
 <details>
