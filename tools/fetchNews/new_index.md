@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz data breach exposes SSNs, credit card numbers<a href="https://www.bleepingcomputer.com/news/security/mercedes-benz-data-breach-exposes-ssns-credit-card-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mercedes-Benz USA has just disclosed a data breach impacting under 1,000 customers and potential buyers that exposed their credit card information, social security numbers, and driver license numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Young Americans Twice as Likely to Cyber-stalk<a href="https://www.infosecurity-magazine.com:443/news/young-americans-twice-as-likely-to/"> Full Text</a>
 </p>
 <details>
