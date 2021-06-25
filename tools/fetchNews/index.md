@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PS3 Players Ban: Latest Victims of Surging Attacks on Gaming Industry  <a href="https://threatpost.com/ps3-players-ban-attacks-gaming/167303/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every Sony PlayStation 3 ID out there was compromised, provoking bans of legit players on the network.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Marketo Marketplace – Cybercriminals are targeting major law firms<a href="https://securityaffairs.co/wordpress/119405/cyber-crime/marketo-marketplace.html"> Full Text</a>
 </p>
 <details>

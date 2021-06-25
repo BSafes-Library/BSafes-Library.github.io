@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Senators propose bill to help tackle cybersecurity workforce shortage<a href="https://thehill.com//policy/cybersecurity/560318-senators-propose-bill-to-help-tackle-cybersecurity-workforce-shortage"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Maggie Hassan (D-N.H.) and John CornynJohn CornynThe Afghan Air Force: When 'Buy American' goes wrong Senators say White House aides agreed to infrastructure 'framework' Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit' MORE (R-Texas) on Friday introduced legislation meant to tackle parts of the government’s cyber workforce shortage.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 PS3 Players Ban: Latest Victims of Surging Attacks on Gaming Industry  <a href="https://threatpost.com/ps3-players-ban-attacks-gaming/167303/"> Full Text</a>
 </p>
 <details>
