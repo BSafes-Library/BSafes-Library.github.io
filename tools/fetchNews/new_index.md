@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+JSSLoader: Recoded and Reloaded | Proofpoint US<a href="https://www.proofpoint.com/us/blog/threat-insight/jssloader-recoded-and-reloaded?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a months-long absence, the malware loader JSSLoader returned in June 2021 cyberattack campaigns by TA543 threat actor, rewritten from the .NET programming language to C++.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Pen Tester to Serve Seven Years<a href="https://www.infosecurity-magazine.com:443/news/fin7-pen-tester-to-serve-seven/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US sends down high-level member of hacking group behind $1bn card-stealing scheme
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 World’s Largest E-tailers to be Investigated Over Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/cma-fake-reviews-probe-google/"> Full Text</a>
 </p>
 <details>
