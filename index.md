@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: UK watchdog to investigate Google, Amazon over fake reviews | Google to warn users about unreliable information during certain events | Senators roll out cyber workforce bill<a href="https://thehill.com//policy/technology/overnights/560327-hillicon-valley-uk-watchdog-to-investigate-google-amazon-over"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s more trouble for Amazon and Google across the pond, with the United Kingdom’s competition watchdog announcing an investigation into fake reviews on the platforms. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Senators propose bill to help tackle cybersecurity workforce shortage<a href="https://thehill.com//policy/cybersecurity/560318-senators-propose-bill-to-help-tackle-cybersecurity-workforce-shortage"> Full Text</a>
 </p>
 <details>
