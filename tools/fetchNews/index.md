@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 25th 2021 - Back in Business<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-25th-2021-back-in-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been relatively quiet this week, with few attacks revealed and few new ransomware variants released. However, some interesting information came out that we have summarized below.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: UK watchdog to investigate Google, Amazon over fake reviews | Google to warn users about unreliable information during certain events | Senators roll out cyber workforce bill<a href="https://thehill.com//policy/technology/overnights/560327-hillicon-valley-uk-watchdog-to-investigate-google-amazon-over"> Full Text</a>
 </p>
 <details>
