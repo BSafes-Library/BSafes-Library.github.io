@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Crack Pirated Games with Cryptojacking Malware<a href="https://threatpost.com/hackers-crack-pirated-games-malware/167263/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have so far made about $2 million from Crackonosh, which secretly mines Monero cryptocurrency from affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

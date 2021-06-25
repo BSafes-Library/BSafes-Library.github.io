@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 won't work without a TPM - What you need to know<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-wont-work-without-a-tpm-what-you-need-to-know/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Exploits Housing Boom<a href="https://cofense.com/blog/phishing-campaign-housing-boom/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cofense
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Extends Support for Tracking Party Cookies Until 2023<a href="https://thehackernews.com/2021/06/google-extends-support-for-tracking.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS BugBust Aims to Fix One Million Vulnerabilities Globally<a href="https://www.infosecurity-magazine.com:443/news/aws-bugbust-fix-one-million/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in FortiWeb WAF expose Fortinet devices to remote hack<a href="https://securityaffairs.co/wordpress/119387/security/fortinet-fortiweb-waf-flaw.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Crack Pirated Games with Cryptojacking Malware<a href="https://threatpost.com/hackers-crack-pirated-games-malware/167263/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI director Chris Wray urges companies stop paying ransoms to hackers<a href="https://www.cnbc.com/2021/06/23/fbi-director-urges-companies-stop-paying-ransoms-to-hackers.html?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch Out! Zyxel Firewalls and VPNs Under Active Cyberattack<a href="https://thehackernews.com/2021/06/watch-out-zyxel-firewalls-and-vpns.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Discovered Dell Bugs Impact 30 Million PCs<a href="https://www.infosecurity-magazine.com:443/news/dell-bugs-impact-20-million-pcs/"> Full Text</a>
@@ -182,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop gang members recently arrested laundered over $500M in payments<a href="https://securityaffairs.co/wordpress/119377/cyber-crime/clop-ransomware-money-laundering.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google rolls out a unified security vulnerability schema for open-source software<a href="https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crackonosh virus mined $2 million of Monero from 222,000 hacked computers<a href="https://thehackernews.com/2021/06/crackonosh-virus-mined-2-million-of.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Database Exposes 800M+ WordPress Users' Records<a href="https://www.infosecurity-magazine.com:443/news/cloud-database-exposes-800m/"> Full Text</a>
@@ -250,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stolen Data of 3.4 Million Customers of Indian Trading Platform Sold Online<a href="https://ciso.economictimes.indiatimes.com/news/data-breach-in-trading-platform/83829525?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Supervisor Gets 7-Year Jail Term for Stealing Millions of Credit Cards<a href="https://thehackernews.com/2021/06/fin7-supervisor-gets-7-year-jail-term.html"> Full Text</a>
@@ -282,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish Ransomware Attack Recovery Cost Estimate: $600 Million<a href="https://www.bankinfosecurity.com/irish-ransomware-attack-recovery-cost-estimate-600-million-a-16931?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mercedes-Benz USA Accidentally Exposes Sensitive Personal Information of Nearly 1,000 Customers<a href="https://www.reuters.com/article/us-daimler-cyber/mercedes-benz-usa-accidentally-puts-out-data-from-nearly-1000-customers-idUSKCN2E02L2?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report picks holes in the Linux kernel release signing process<a href="https://www.theregister.com/2021/06/24/report_picks_holes_in_the/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Gang Partners Laundered $500 Million in Ransomware Payments<a href="https://thehackernews.com/2021/06/clop-gang-members-laundered-500-million.html"> Full Text</a>
@@ -346,7 +346,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spam Downpour Drips New IcedID Banking Trojan Variant<a href="https://threatpost.com/spam-icedid-banking-trojan-variant/167250/"> Full Text</a>

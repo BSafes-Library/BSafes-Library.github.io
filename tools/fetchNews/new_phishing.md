@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Exploits Housing Boom<a href="https://cofense.com/blog/phishing-campaign-housing-boom/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails in this campaign purportedly contain a link to home purchase closing documents from First American, a company whose services include real estate title and settlement.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

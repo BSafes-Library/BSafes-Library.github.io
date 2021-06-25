@@ -11,6 +11,20 @@ nav_order: 900031
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Clop Gang Partners Laundered $500 Million in Ransomware Payments<a href="https://thehackernews.com/2021/06/clop-gang-members-laundered-500-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime ring that was apprehended last week in connection with Clop (aka Cl0p) ransomware attacks against dozens of companies in the last few months helped launder money totaling $500 million for several malicious actors through a plethora of illegal activities.  "The group — also known as FANCYCAT — has been running multiple criminal activities: distributing cyber attacks; operating a high-risk exchanger; and laundering money from dark web operations and high-profile cyber attacks such as Cl0p and Petya ransomware," popular cryptocurrency exchange Binance&nbsp; said &nbsp;Thursday.   On June 16, the Ukraine Cyber Police&nbsp; nabbed six individuals &nbsp;in the city of Kyiv, describing the arrests as resulting from an international operation involving law enforcement authorities from Korea, the U.S., and Interpol.  While the bust was seen as a major blow to the operations of the Clop gang, the hackers published earlier this week a fresh batch of confidential employee records stolen from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber-stalker Blackmailed Nebraska Legislature Candidate’s Wife<a href="https://www.infosecurity-magazine.com:443/news/parris-cyber-stalker-guilty/"> Full Text</a>
 </p>
 <details>

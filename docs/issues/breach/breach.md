@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Database Exposes 800M+ WordPress Users' Records<a href="https://www.infosecurity-magazine.com:443/news/cloud-database-exposes-800m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfiguration at hosting provider DreamHost led to the privacy breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen Data of 3.4 Million Customers of Indian Trading Platform Sold Online<a href="https://ciso.economictimes.indiatimes.com/news/data-breach-in-trading-platform/83829525?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised information included Personal Identifiable Information (PII) such as names, customer IDs, contact numbers, email IDs, trade login IDs, branch IDs, city, and country.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz USA Accidentally Exposes Sensitive Personal Information of Nearly 1,000 Customers<a href="https://www.reuters.com/article/us-daimler-cyber/mercedes-benz-usa-accidentally-puts-out-data-from-nearly-1000-customers-idUSKCN2E02L2?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data comprised self-reported credit scores, driver licenses, social security numbers, and credit card information which was entered by customers and interested buyers on dealer and company websites between January 2014 and June 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

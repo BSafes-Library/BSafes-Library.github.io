@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI director Chris Wray urges companies stop paying ransoms to hackers<a href="https://www.cnbc.com/2021/06/23/fbi-director-urges-companies-stop-paying-ransoms-to-hackers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Chris Wray on Wednesday pleaded with public companies and other hacking victims to avoid paying ransom, saying he fears it will only embolden cyber criminals to ramp up future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Ransomware Attack Recovery Cost Estimate: $600 Million<a href="https://www.bankinfosecurity.com/irish-ransomware-attack-recovery-cost-estimate-600-million-a-16931?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recovery costs for the May ransomware attack on Health Service Executive, Ireland's publicly funded healthcare system, is likely to total $600 million, says Paul Reid, HSE's director general.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

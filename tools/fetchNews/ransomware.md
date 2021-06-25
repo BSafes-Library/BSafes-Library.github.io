@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Linux Version of DarkSide Ransomware<a href="https://cyware.com/news/the-linux-version-of-darkside-ransomware-223ea813"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts analyzed a Linux version of the DarkSide ransomware, the group responsible for the Colonial Pipeline attack, and claimed that it targeted VMware virtual machines. Though DarkSide has purportedly shut down its operations, organizations are recommended to implement adequate security measures  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

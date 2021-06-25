@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security pros struggle to balance monitoring of remote workforces with privacy expectations<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/security-pros-struggle-to-balance-monitoring-of-remote-workforces-with-privacy-expectations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sixty-five percent of surveyed IT and security pros said their companies have increased monitoring of remote workers, but only 46% said their businesses are transparent about how.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

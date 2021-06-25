@@ -11,6 +11,34 @@ nav_order: 900015
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Oh FCUK! Fashion Label, Medical Diagnostics Firm Latest REvil Victims<a href="https://threatpost.com/fcuk-fashion-medical-diagnostics-revil/167245/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous ransomware group hit two big-name companies within hours of each other. &nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel says a threat actor is targeting its enterprise firewall and VPN devices<a href="https://therecord.media/zyxel-says-a-threat-actor-is-targeting-its-enterprise-firewall-and-vpn-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has emailed customers this week to alert them about a series of attacks that have been targeting some of the company’s high-end enterprise-focused firewall and VPN server products.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Zyxel warns customers of attacks on its enterprise firewall and VPN devices<a href="https://securityaffairs.co/wordpress/119351/hacking/zyxel-firewall-vpn-attacks.html"> Full Text</a>
 </p>
 <details>

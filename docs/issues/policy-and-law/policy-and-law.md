@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop gang members recently arrested laundered over $500M in payments<a href="https://securityaffairs.co/wordpress/119377/cyber-crime/clop-ransomware-money-laundering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware members that were&nbsp;recently arrested laundered over $500M in ransomware payments for several malicious actors.
+
+
+
+The members of the Clop ransomware gang that were&nbsp;recently arrested in Ukraine&nbsp;laundered over $500M for several cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Supervisor Gets 7-Year Jail Term for Stealing Millions of Credit Cards<a href="https://thehackernews.com/2021/06/fin7-supervisor-gets-7-year-jail-term.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian national and a mid-​level supervisor of the hacking group known as FIN7 has been sentenced to seven years in prison for his role as a "pen tester" and perpetuating a criminal scheme that enabled the gang to compromise millions of customers debit and credit cards.  Andrii Kolpakov , 33, was arrested in Spain on June 28, 2018, and subsequently extradited to the U.S. the following year on June 1, 2019. In June 2020, Kolpakov pleaded guilty to one count of conspiracy to commit wire fraud and one count of conspiracy to commit computer hacking.   The Western District of Washington also ordered Kolpakov to pay $2.5 million in restitution.  The defendant, who was involved with the group from April 2016 until his arrest, managed other hackers who were tasked with breaching the point-of-sale systems of companies, both in the U.S. and elsewhere, to deploy malware capable of stealing financial information.  FIN7 , also called Anunak, Carbanak Group , and the Navigator Group,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

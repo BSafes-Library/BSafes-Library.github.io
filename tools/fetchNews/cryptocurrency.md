@@ -11,6 +11,20 @@ nav_order: 900033
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Malicious Cryptominers Target Software Repositories to Burn a Hole in Your Wallet<a href="https://cyware.com/news/malicious-cryptominers-target-software-repositories-to-burn-a-hole-in-your-wallet-0b9b0c8c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonatype researchers have recently discovered malicious packages in PyPI, a software code repository, that turns developers’ workstations into cryptomining machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Musk-Themed ‘$SpaceX’ Cryptoscam Invades YouTube Advertising<a href="https://threatpost.com/musk-spacex-cryptoscam-youtube-advertising/167219/"> Full Text</a>
 </p>
 <details>

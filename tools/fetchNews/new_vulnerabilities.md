@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in FortiWeb WAF expose Fortinet devices to remote hack<a href="https://securityaffairs.co/wordpress/119387/security/fortinet-fortiweb-waf-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has recently fixed a high-severity vulnerability affecting its FortiWeb web application firewall (WAF) that can be exploited by remote attackers to execute arbitrary commands. 
+
+
+
+Fortinet has recently addressed a high-severity vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Dell Bugs Impact 30 Million PCs<a href="https://www.infosecurity-magazine.com:443/news/dell-bugs-impact-20-million-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four vulnerabilities could enable complete remote control of 129 models
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report picks holes in the Linux kernel release signing process<a href="https://www.theregister.com/2021/06/24/report_picks_holes_in_the/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report has highlighted a range of areas for improvement, from failing to mandate the use of hardware security keys for authentication to the use of static keys for SSH access.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

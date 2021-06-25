@@ -11,6 +11,34 @@ nav_order: 900029
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WD My Book NAS devices are being remotely wiped clean worldwide <a href="https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital My Book NAS owners worldwide are finding that their devices have been mysteriously factory reset and all of their files deleted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at WorkForce West Virginia<a href="https://www.infosecurity-magazine.com:443/news/data-breach-at-workforce-west/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mountain State governor confirms data breach impacting jobseekers’ database
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak 260,000 accounts from Pakistani music streaming site Patari<a href="https://www.hackread.com/pakistani-music-streaming-site-patari-hacked/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

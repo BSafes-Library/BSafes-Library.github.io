@@ -11,6 +11,70 @@ nav_order: 900220
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Dell BIOSConnect feature affect 128 device models<a href="https://securityaffairs.co/wordpress/119369/security/dell-biosconnect-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws affecting the BIOSConnect feature of Dell Client BIOS could be exploited by a privileged attacker to execute arbitrary code at the BIOS/UEFI level of the impacted device.
+
+
+
+Researchers from cybersecurity firm Eclypsium&nbsp;discovered multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BIOS vulnerabilities impact tens of millions of Dell computer hardware<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-bios-vulnerabilities-impact-tens-of-millions-of-dell-computer-hardware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, discovered by security researchers at Eclypsium, attack the BIOSConnect feature within Dell Client BIOS and affects 30 million devices across 128 different Dell models, including laptops, desktops and tablets.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Bugs Could Have Led to 1-Click Takeover<a href="https://threatpost.com/atlassian-bugs-could-have-led-to-1-click-takeover/167203/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply-chain attack could have siphoned sensitive information out of Jira, such as security issues on Atlassian cloud, Bitbucket and on-prem products.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware releases patches for critical flaw in Carbon Black App Control<a href="https://securityaffairs.co/wordpress/119362/security/vmware-carbon-black-app-control-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches to address an authentication bypass vulnerability in VMware Carbon Black App Control (AppC) for Windows.
+
+
+
+VMware released security patches for an authentication bypass vulnerability, tracked as CVE-2021-21998, in Carbon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BIOS Disconnect: New High-Severity Bugs Affect 128 Dell PC and Tablet Models<a href="https://thehackernews.com/2021/06/bios-disconnect-new-high-severity-flaws.html"> Full Text</a>
 </p>
 <details>

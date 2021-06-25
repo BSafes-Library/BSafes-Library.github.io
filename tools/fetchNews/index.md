@@ -34,7 +34,319 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 won't work without a TPM - What you need to know<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-wont-work-without-a-tpm-what-you-need-to-know/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows 11 requires a TPM security processor to install or upgrade to Windows 11. Unfortunately, there has been a lot of confusion about what type of TPM you need and why you need it in the first place.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Exploits Housing Boom<a href="https://cofense.com/blog/phishing-campaign-housing-boom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails in this campaign purportedly contain a link to home purchase closing documents from First American, a company whose services include real estate title and settlement.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Extends Support for Tracking Party Cookies Until 2023<a href="https://thehackernews.com/2021/06/google-extends-support-for-tracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's sweeping proposals to deprecate third-party cookies in Chrome browser is going back to the drawing board after the company announced plans to delay the rollout from early 2022 to late 2023, pushing back the project by nearly two years.  "While there's  considerable progress  with this initiative, it's become clear that more time is needed across the ecosystem to get this right," Chrome's Privacy Engineering Director, Vinay Goel,  said  Thursday.  In buying extra time, the search giant said it hopes to arrive at a consensus on the right solutions, while simultaneously engaging with regulators, and enabling publishers and the advertising industry to migrate their services to privacy-preserving technologies that prevent "alternative forms of individual tracking, and discourage the rise of covert approaches like  fingerprinting ."   The revised timelines comes close on the heels of a fresh regulatory setback in the European Union, after the Eur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS BugBust Aims to Fix One Million Vulnerabilities Globally<a href="https://www.infosecurity-magazine.com:443/news/aws-bugbust-fix-one-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud giant wants to save $100 million in technical debt
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in FortiWeb WAF expose Fortinet devices to remote hack<a href="https://securityaffairs.co/wordpress/119387/security/fortinet-fortiweb-waf-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has recently fixed a high-severity vulnerability affecting its FortiWeb web application firewall (WAF) that can be exploited by remote attackers to execute arbitrary commands. 
+
+
+
+Fortinet has recently addressed a high-severity vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Crack Pirated Games with Cryptojacking Malware<a href="https://threatpost.com/hackers-crack-pirated-games-malware/167263/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have so far made about $2 million from Crackonosh, which secretly mines Monero cryptocurrency from affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI director Chris Wray urges companies stop paying ransoms to hackers<a href="https://www.cnbc.com/2021/06/23/fbi-director-urges-companies-stop-paying-ransoms-to-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Chris Wray on Wednesday pleaded with public companies and other hacking victims to avoid paying ransom, saying he fears it will only embolden cyber criminals to ramp up future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Zyxel Firewalls and VPNs Under Active Cyberattack<a href="https://thehackernews.com/2021/06/watch-out-zyxel-firewalls-and-vpns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese networking equipment company Zyxel is warning customers of an ongoing attack targeting a "small subset" of its security products such as firewall and VPN servers.  Attributing the attacks to a "sophisticated threat actor," the firm noted that the attacks single out appliances that have remote management or SSL VPN enabled, namely in the USG/ZyWALL, USG FLEX, ATP, and VPN series running on-premise ZLD firmware, implying that the targeted devices are publicly accessible over the internet.   "The threat actor attempts to access a device through WAN; if successful, they then bypass authentication and establish SSL VPN tunnels with unknown user accounts, such as 'zyxel_slIvpn', 'zyxel_ts', or 'zyxel_vpn_test', to manipulate the device's configuration," Zyxel said in an  email message , which was shared on Twitter.   As of writing, it's not immediately known if the attacks are exploiting previously known vulnerabilities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Dell Bugs Impact 30 Million PCs<a href="https://www.infosecurity-magazine.com:443/news/dell-bugs-impact-20-million-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four vulnerabilities could enable complete remote control of 129 models
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop gang members recently arrested laundered over $500M in payments<a href="https://securityaffairs.co/wordpress/119377/cyber-crime/clop-ransomware-money-laundering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware members that were recently arrested laundered over $500M in ransomware payments for several malicious actors.
+
+
+
+The members of the Clop ransomware gang that were recently arrested in Ukraine laundered over $500M for several cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google rolls out a unified security vulnerability schema for open-source software<a href="https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now the OSV and the schema has been expanded to several new key open-source ecosystems: Go, Rust, Python, and DWF. This expansion unites and aggregates their vulnerability databases.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crackonosh virus mined $2 million of Monero from 222,000 hacked computers<a href="https://thehackernews.com/2021/06/crackonosh-virus-mined-2-million-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Windows malware has infected over 222,000 systems worldwide since at least June 2018, yielding its developer no less than 9,000 Moneros ($2 million) in illegal profits.  Dubbed " Crackonosh ," the malware is distributed via illegal, cracked copies of popular software, only to disable antivirus programs installed in the machine and install a coin miner package called XMRig for stealthily exploiting the infected host's resources to mine Monero.  At least 30 different versions of the malware executable have been discovered between Jan. 1, 2018, and Nov. 23, 2020, Czech cybersecurity software company Avast  said  on Thursday, with a majority of the victims located in the U.S., Brazil, India, Poland, and the Philippines.   Crackonosh works by replacing critical Windows system files such as serviceinstaller.msi and maintenance.vbs to cover its tracks and abuses the  safe mode , which prevents antivirus software from working, to delete Windows Defender
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Database Exposes 800M+ WordPress Users' Records<a href="https://www.infosecurity-magazine.com:443/news/cloud-database-exposes-800m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfiguration at hosting provider DreamHost led to the privacy breach
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen Data of 3.4 Million Customers of Indian Trading Platform Sold Online<a href="https://ciso.economictimes.indiatimes.com/news/data-breach-in-trading-platform/83829525?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised information included Personal Identifiable Information (PII) such as names, customer IDs, contact numbers, email IDs, trade login IDs, branch IDs, city, and country.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Supervisor Gets 7-Year Jail Term for Stealing Millions of Credit Cards<a href="https://thehackernews.com/2021/06/fin7-supervisor-gets-7-year-jail-term.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian national and a mid-​level supervisor of the hacking group known as FIN7 has been sentenced to seven years in prison for his role as a "pen tester" and perpetuating a criminal scheme that enabled the gang to compromise millions of customers debit and credit cards.  Andrii Kolpakov , 33, was arrested in Spain on June 28, 2018, and subsequently extradited to the U.S. the following year on June 1, 2019. In June 2020, Kolpakov pleaded guilty to one count of conspiracy to commit wire fraud and one count of conspiracy to commit computer hacking.   The Western District of Washington also ordered Kolpakov to pay $2.5 million in restitution.  The defendant, who was involved with the group from April 2016 until his arrest, managed other hackers who were tasked with breaching the point-of-sale systems of companies, both in the U.S. and elsewhere, to deploy malware capable of stealing financial information.  FIN7 , also called Anunak, Carbanak Group , and the Navigator Group,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Ransomware Attack Recovery Cost Estimate: $600 Million<a href="https://www.bankinfosecurity.com/irish-ransomware-attack-recovery-cost-estimate-600-million-a-16931?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recovery costs for the May ransomware attack on Health Service Executive, Ireland's publicly funded healthcare system, is likely to total $600 million, says Paul Reid, HSE's director general.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz USA Accidentally Exposes Sensitive Personal Information of Nearly 1,000 Customers<a href="https://www.reuters.com/article/us-daimler-cyber/mercedes-benz-usa-accidentally-puts-out-data-from-nearly-1000-customers-idUSKCN2E02L2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data comprised self-reported credit scores, driver licenses, social security numbers, and credit card information which was entered by customers and interested buyers on dealer and company websites between January 2014 and June 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report picks holes in the Linux kernel release signing process<a href="https://www.theregister.com/2021/06/24/report_picks_holes_in_the/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report has highlighted a range of areas for improvement, from failing to mandate the use of hardware security keys for authentication to the use of static keys for SSH access.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Gang Partners Laundered $500 Million in Ransomware Payments<a href="https://thehackernews.com/2021/06/clop-gang-members-laundered-500-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime ring that was apprehended last week in connection with Clop (aka Cl0p) ransomware attacks against dozens of companies in the last few months helped launder money totaling $500 million for several malicious actors through a plethora of illegal activities.  "The group — also known as FANCYCAT — has been running multiple criminal activities: distributing cyber attacks; operating a high-risk exchanger; and laundering money from dark web operations and high-profile cyber attacks such as Cl0p and Petya ransomware," popular cryptocurrency exchange Binance  said  Thursday.   On June 16, the Ukraine Cyber Police  nabbed six individuals  in the city of Kyiv, describing the arrests as resulting from an international operation involving law enforcement authorities from Korea, the U.S., and Interpol.  While the bust was seen as a major blow to the operations of the Clop gang, the hackers published earlier this week a fresh batch of confidential employee records stolen from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spam Downpour Drips New IcedID Banking Trojan Variant<a href="https://threatpost.com/spam-icedid-banking-trojan-variant/167250/"> Full Text</a>

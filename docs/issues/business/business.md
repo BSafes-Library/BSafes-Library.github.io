@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 won't work without a TPM - What you need to know<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-wont-work-without-a-tpm-what-you-need-to-know/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows 11 requires a TPM security processor to install or upgrade to Windows 11. Unfortunately, there has been a lot of confusion about what type of TPM you need and why you need it in the first place.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Extends Support for Tracking Party Cookies Until 2023<a href="https://thehackernews.com/2021/06/google-extends-support-for-tracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's sweeping proposals to deprecate third-party cookies in Chrome browser is going back to the drawing board after the company announced plans to delay the rollout from early 2022 to late 2023, pushing back the project by nearly two years.  "While there's&nbsp; considerable progress &nbsp;with this initiative, it's become clear that more time is needed across the ecosystem to get this right," Chrome's Privacy Engineering Director, Vinay Goel,&nbsp; said &nbsp;Thursday.  In buying extra time, the search giant said it hopes to arrive at a consensus on the right solutions, while simultaneously engaging with regulators, and enabling publishers and the advertising industry to migrate their services to privacy-preserving technologies that prevent "alternative forms of individual tracking, and discourage the rise of covert approaches like&nbsp; fingerprinting ."   The revised timelines comes close on the heels of a fresh regulatory setback in the European Union, after the Eur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS BugBust Aims to Fix One Million Vulnerabilities Globally<a href="https://www.infosecurity-magazine.com:443/news/aws-bugbust-fix-one-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud giant wants to save $100 million in technical debt
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
