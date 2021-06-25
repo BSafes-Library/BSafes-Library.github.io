@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Expose Fortinet Firewalls to Remote Attacks<a href="https://www.securityweek.com/vulnerabilities-expose-fortinet-firewalls-remote-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability patched recently by Fortinet in its FortiWeb web application firewall (WAF) can be exploited to execute arbitrary commands and can be chained with other security holes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloud Application Security Firm Anjuna Raises $30 Million<a href="https://www.securityweek.com/cloud-application-security-firm-anjuna-raises-30-million?&web_view=true"> Full Text</a>
 </p>
 <details>
