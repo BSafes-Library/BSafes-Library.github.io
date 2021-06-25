@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 25, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat Monitoring Firm FYEO Announces Acquisition as It Emerges From Stealth<a href="https://www.securityweek.com/threat-monitoring-firm-fyeo-announces-acquisition-it-emerges-stealth?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat monitoring and identity access management provider FYEO on Wednesday announced that it emerged from stealth mode with the acquisition of threat intelligence company Intelliagg.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drata lands $25M for its automated cybersecurity compliance platform<a href="https://siliconangle.com/2021/06/23/drata-lands-25m-automated-cybersecurity-compliance-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drata Inc., a new startup working to make it easier for companies to comply with cybersecurity standards, today announced that it has raised a $25 million funding round led by GGV Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Crackonosh Malware Author Minted $2 Million in Cryptocurrency After Infecting 222,000 Windows Systems<a href="https://therecord.media/malware-author-made-2-million-after-infecting-222000-windows-systems/?&web_view=true"> Full Text</a>
 </p>
 <details>
