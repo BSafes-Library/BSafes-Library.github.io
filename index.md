@@ -34,6 +34,138 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft admits to signing rootkit malware in supply-chain fiasco<a href="https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has now confirmed signing a malicious driver being distributed within gaming environments. This driver, called "Netfilter," is in fact a rootkit that was observed communicating with Chinese command-and-control IPs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyBook Users Urged to Unplug Devices from Internet<a href="https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is urging users of its MyBook Live brand of network storage drives to disconnect them from the Internet, warning that malicious hackers are remotely wiping the drives using a critical flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers analyzed the recently discovered Epsilon Red operations and found that more than 3.5K servers are still vulnerable
+
+
+
+Several weeks later, security researchers from Sophos have discovered a new ransomware variant known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seemingly, a variant of the ransomware, Epsilon Red, relies on vulnerable Microsoft Exchange servers. Threat actors use them to launch mass server exploitation campaigns and try to expose companies’ information for revenue.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+.WIM Files Attachment Is Being Used in Phishing Attacks<a href="https://heimdalsecurity.com/blog/an-unusual-file-attachment-is-being-used-in-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers at Trustwave have disclosed in a recent report that threat actors are starting to utilize WIM (Windows Imaging Format) attachments in order to distribute the Agent Tesla remote access trojan.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crackonosh malware abuses Windows Safe mode to quietly mine for cryptocurrency<a href="https://www.zdnet.com/article/crackonosh-malware-abuses-windows-safe-mode-to-quietly-mine-for-cryptocurrency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a strain of cryptocurrency-mining malware that abuses Windows Safe mode during attacks. The malware, dubbed Crackonosh by researchers at Avast, spreads through pirated and cracked software.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Created a Linux Version of Its Ransomware<a href="https://www.inforisktoday.com/darkside-created-linux-version-its-ransomware-a-16941?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DarkSide Russian-speaking cybercrime group, which announced it was closing its ransomware-as-a-service operation, had earlier completed a Linux version of its malware designed to target ESXi servers hosting VMware virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says new breach discovered in probe of suspected SolarWinds hackers<a href="https://www.reuters.com/technology/microsoft-says-new-breach-discovered-probe-suspected-solarwinds-hackers-2021-06-25/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said on Friday an attacker had won access to one of its customer-service agents and then used information from that to launch hacking attempts against customers.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
