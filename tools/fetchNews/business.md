@@ -11,6 +11,77 @@ nav_order: 900027
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AWS acquires encrypted comms platform Wickr to support shift to hybrid work environments<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/aws-acquires-encrypted-comms-platform-wickr-to-support-shift-to-hybrid-work-environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AWS CISO Stephen Schmidt said that the move to a hybrid work environment due in part to the pandemic has led to a need among companies and government agencies
+to protect their communications across multiple remote locations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World’s Largest E-tailers to be Investigated Over Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/cma-fake-reviews-probe-google/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK’s Competition and Markets Authority announces probe into how Amazon and Google combat fake reviews
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Monitoring Firm FYEO Announces Acquisition as It Emerges From Stealth<a href="https://www.securityweek.com/threat-monitoring-firm-fyeo-announces-acquisition-it-emerges-stealth?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat monitoring and identity access management provider FYEO on Wednesday announced that it emerged from stealth mode with the acquisition of threat intelligence company Intelliagg.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drata lands $25M for its automated cybersecurity compliance platform<a href="https://siliconangle.com/2021/06/23/drata-lands-25m-automated-cybersecurity-compliance-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drata Inc., a new startup working to make it easier for companies to comply with cybersecurity standards, today announced that it has raised a $25 million funding round led by GGV Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Application Security Firm Anjuna Raises $30 Million<a href="https://www.securityweek.com/cloud-application-security-firm-anjuna-raises-30-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by Insight Partners and is expected to help the company bring its Confidential Cloud Software Platform to market and support technology development and innovation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 won't work without a TPM - What you need to know<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-wont-work-without-a-tpm-what-you-need-to-know/"> Full Text</a>
 </p>
 <details>

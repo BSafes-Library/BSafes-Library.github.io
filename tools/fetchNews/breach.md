@@ -11,6 +11,48 @@ nav_order: 900029
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz data breach exposes SSNs, credit card numbers<a href="https://www.bleepingcomputer.com/news/security/mercedes-benz-data-breach-exposes-ssns-credit-card-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mercedes-Benz USA has just disclosed a data breach impacting under 1,000 customers and potential&nbsp;buyers that exposed their credit card information, social security numbers, and driver license numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 500K patients accessed, stolen after eye clinic ransomware attack<a href="https://www.scmagazine.com/home/security-news/data-breach/actors-steal-data-of-500k-patients-during-eye-clinic-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week’s breach roundup is led by a ransomware attack against Wolfe Eye Clinic in Iowa. An attacker accessed and likely stole the data of 500,000 patients.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+My Book Live Users Wake Up to Wiped Devices, Active RCE Attacks<a href="https://threatpost.com/my-book-live-wiped-rce-attacks/167270/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“I am totally screwed,” one user wailed after finding years of data nuked. Western Digital advised yanking the NAS storage devices offline ASAP: There’s an exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloud Database Exposes 800M+ WordPress Users' Records<a href="https://www.infosecurity-magazine.com:443/news/cloud-database-exposes-800m/"> Full Text</a>
 </p>
 <details>

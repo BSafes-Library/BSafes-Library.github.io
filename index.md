@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft admits to signing rootkit malware in supply-chain fiasco<a href="https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyBook Users Urged to Unplug Devices from Internet<a href="https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 .WIM Files Attachment Is Being Used in Phishing Attacks<a href="https://heimdalsecurity.com/blog/an-unusual-file-attachment-is-being-used-in-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crackonosh malware abuses Windows Safe mode to quietly mine for cryptocurrency<a href="https://www.zdnet.com/article/crackonosh-malware-abuses-windows-safe-mode-to-quietly-mine-for-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Created a Linux Version of Its Ransomware<a href="https://www.inforisktoday.com/darkside-created-linux-version-its-ransomware-a-16941?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft says new breach discovered in probe of suspected SolarWinds hackers<a href="https://www.reuters.com/technology/microsoft-says-new-breach-discovered-probe-suspected-solarwinds-hackers-2021-06-25/?&web_view=true"> Full Text</a>

@@ -11,6 +11,24 @@ nav_order: 900080
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit 3-years old flaw to wipe Western Digital devices<a href="https://securityaffairs.co/wordpress/119392/iot/hackers-wipe-western-digital-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are wiping many Western Digital (WD) My Book Live and My Book Live Duo NAS devices likely exploiting an old vulnerability.
+
+
+
+Owners of Western Digital (WD) claim that their My Book Live and My Book Live Duo network-attached storage (NAS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Crack Pirated Games with Cryptojacking Malware<a href="https://threatpost.com/hackers-crack-pirated-games-malware/167263/"> Full Text</a>
 </p>
 <details>

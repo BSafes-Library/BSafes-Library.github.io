@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators propose bill to help tackle cybersecurity workforce shortage<a href="https://thehill.com//policy/cybersecurity/560318-senators-propose-bill-to-help-tackle-cybersecurity-workforce-shortage"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Maggie Hassan (D-N.H.) and John CornynJohn CornynThe Afghan Air Force: When 'Buy American' goes wrong Senators say White House aides agreed to infrastructure 'framework' Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit' MORE (R-Texas) on Friday introduced legislation meant to tackle parts of the government’s cyber workforce shortage.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

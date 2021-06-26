@@ -11,6 +11,77 @@ nav_order: 900072
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: UK watchdog to investigate Google, Amazon over fake reviews | Google to warn users about unreliable information during certain events | Senators roll out cyber workforce bill<a href="https://thehill.com//policy/technology/overnights/560327-hillicon-valley-uk-watchdog-to-investigate-google-amazon-over"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s more trouble for Amazon and Google across the pond, with the United Kingdom’s competition watchdog announcing an investigation into fake reviews on the platforms.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PS3 Players Ban: Latest Victims of Surging Attacks on Gaming Industry &nbsp;<a href="https://threatpost.com/ps3-players-ban-attacks-gaming/167303/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every Sony PlayStation 3 ID out there was compromised, provoking bans of legit players on the network.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Young Americans Twice as Likely to Cyber-stalk<a href="https://www.infosecurity-magazine.com:443/news/young-americans-twice-as-likely-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gen Z and Millennials more likely than those aged over 40 to cyber-stalk exes and current partners
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ignorance is not a legal excuse for paying sanctioned ransomware groups<a href="https://www.scmagazine.com/home/security-news/ransomware/ignorance-is-not-a-legal-excuse-for-paying-sanctioned-ransomware-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly emergent Grief ransomware is another example of how cybercriminal groups change names and coding to confuse victims and circumvent federal restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Arrests Probably Weren’t Able to Stop Cl0p Ransomware<a href="https://cyware.com/news/recent-arrests-probably-werent-able-to-stop-cl0p-ransomware-0fdec2cd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cl0p ransomware hackers just dumped stolen data on their dark website claiming it was stolen from a new victim. Several gang members of the group were detained by Ukrainian police last week but it seems the group is still active. Organizations are advised to proactively follow adequate security mea ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI director Chris Wray urges companies stop paying ransoms to hackers<a href="https://www.cnbc.com/2021/06/23/fbi-director-urges-companies-stop-paying-ransoms-to-hackers.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
