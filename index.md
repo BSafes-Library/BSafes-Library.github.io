@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 25th 2021 - Back in Business<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-25th-2021-back-in-business/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: UK watchdog to investigate Google, Amazon over fake reviews | Google to warn users about unreliable information during certain events | Senators roll out cyber workforce bill<a href="https://thehill.com//policy/technology/overnights/560327-hillicon-valley-uk-watchdog-to-investigate-google-amazon-over"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators propose bill to help tackle cybersecurity workforce shortage<a href="https://thehill.com//policy/cybersecurity/560318-senators-propose-bill-to-help-tackle-cybersecurity-workforce-shortage"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PS3 Players Ban: Latest Victims of Surging Attacks on Gaming Industry  <a href="https://threatpost.com/ps3-players-ban-attacks-gaming/167303/"> Full Text</a>
@@ -98,7 +98,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marketo Marketplace – Cybercriminals are targeting major law firms<a href="https://securityaffairs.co/wordpress/119405/cyber-crime/marketo-marketplace.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacks against game companies are up. But why?<a href="https://www.scmagazine.com/application-security/attacks-against-game-companies-are-up-but-why/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mercedes-Benz data breach exposes SSNs, credit card numbers<a href="https://www.bleepingcomputer.com/news/security/mercedes-benz-data-breach-exposes-ssns-credit-card-numbers/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Young Americans Twice as Likely to Cyber-stalk<a href="https://www.infosecurity-magazine.com:443/news/young-americans-twice-as-likely-to/"> Full Text</a>
@@ -166,7 +166,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS acquires encrypted comms platform Wickr to support shift to hybrid work environments<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/aws-acquires-encrypted-comms-platform-wickr-to-support-shift-to-hybrid-work-environments/"> Full Text</a>
@@ -183,7 +183,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ignorance is not a legal excuse for paying sanctioned ransomware groups<a href="https://www.scmagazine.com/home/security-news/ransomware/ignorance-is-not-a-legal-excuse-for-paying-sanctioned-ransomware-groups/"> Full Text</a>
@@ -199,7 +199,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Attack on AI-driven Facial Recognition Systems<a href="https://cyware.com/news/a-new-attack-on-ai-driven-facial-recognition-systems-4ece656a"> Full Text</a>
@@ -215,7 +215,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 500K patients accessed, stolen after eye clinic ransomware attack<a href="https://www.scmagazine.com/home/security-news/data-breach/actors-steal-data-of-500k-patients-during-eye-clinic-ransomware-attack/"> Full Text</a>
@@ -231,7 +231,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recent Arrests Probably Weren’t Able to Stop Cl0p Ransomware<a href="https://cyware.com/news/recent-arrests-probably-werent-able-to-stop-cl0p-ransomware-0fdec2cd"> Full Text</a>
@@ -248,7 +248,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit 3-years old flaw to wipe Western Digital devices<a href="https://securityaffairs.co/wordpress/119392/iot/hackers-wipe-western-digital-devices.html"> Full Text</a>
@@ -268,7 +268,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 ‘Pen Tester’ Headed to Jail Amid $1B in Payment-Card Losses<a href="https://threatpost.com/fin7-pen-tester-jail/167293/"> Full Text</a>
@@ -284,7 +284,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JSSLoader: Recoded and Reloaded | Proofpoint US<a href="https://www.proofpoint.com/us/blog/threat-insight/jssloader-recoded-and-reloaded?&web_view=true"> Full Text</a>
@@ -300,7 +300,7 @@ Proofpoint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Pen Tester to Serve Seven Years<a href="https://www.infosecurity-magazine.com:443/news/fin7-pen-tester-to-serve-seven/"> Full Text</a>
@@ -316,7 +316,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 World’s Largest E-tailers to be Investigated Over Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/cma-fake-reviews-probe-google/"> Full Text</a>
@@ -332,7 +332,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Monitoring Firm FYEO Announces Acquisition as It Emerges From Stealth<a href="https://www.securityweek.com/threat-monitoring-firm-fyeo-announces-acquisition-it-emerges-stealth?&web_view=true"> Full Text</a>
@@ -348,7 +348,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drata lands $25M for its automated cybersecurity compliance platform<a href="https://siliconangle.com/2021/06/23/drata-lands-25m-automated-cybersecurity-compliance-platform/?&web_view=true"> Full Text</a>
@@ -364,7 +364,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crackonosh Malware Author Minted $2 Million in Cryptocurrency After Infecting 222,000 Windows Systems<a href="https://therecord.media/malware-author-made-2-million-after-infecting-222000-windows-systems/?&web_view=true"> Full Text</a>
@@ -380,7 +380,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 My Book Live Users Wake Up to Wiped Devices, Active RCE Attacks<a href="https://threatpost.com/my-book-live-wiped-rce-attacks/167270/"> Full Text</a>
@@ -396,7 +396,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital: Disconnect My Book Live drives immediately<a href="https://www.scmagazine.com/home/security-news/western-digital-disconnect-my-book-live-drives-immediately/"> Full Text</a>
@@ -412,7 +412,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities Expose Fortinet Firewalls to Remote Attacks<a href="https://www.securityweek.com/vulnerabilities-expose-fortinet-firewalls-remote-attacks?&web_view=true"> Full Text</a>
@@ -428,7 +428,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2021
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Application Security Firm Anjuna Raises $30 Million<a href="https://www.securityweek.com/cloud-application-security-firm-anjuna-raises-30-million?&web_view=true"> Full Text</a>

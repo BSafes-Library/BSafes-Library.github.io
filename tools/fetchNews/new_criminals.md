@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marketo Marketplace – Cybercriminals are targeting major law firms<a href="https://securityaffairs.co/wordpress/119405/cyber-crime/marketo-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals published for sale in Dark Web 58GB of data stolen from Hollingsworth LLP. 
+
+
+
+One of the emerging underground marketplaces of stolen data 'Marketo' available in TOR network announced the publication of data presumably stolen from Hollingsworth...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Pen Tester to Serve Seven Years<a href="https://www.infosecurity-magazine.com:443/news/fin7-pen-tester-to-serve-seven/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US sends down high-level member of hacking group behind $1bn card-stealing scheme
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crackonosh Malware Author Minted $2 Million in Cryptocurrency After Infecting 222,000 Windows Systems<a href="https://therecord.media/malware-author-made-2-million-after-infecting-222000-windows-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has done so by hiding its malware in pirated and cracked copies of popular software, Daniel Beneš, a malware analyst for antivirus maker Avast, said in a report today.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

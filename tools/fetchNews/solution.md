@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google rolls out a unified security vulnerability schema for open-source software<a href="https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now the OSV and the schema has been expanded to several new key open-source ecosystems: Go, Rust, Python, and DWF. This expansion unites and aggregates their vulnerability databases.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

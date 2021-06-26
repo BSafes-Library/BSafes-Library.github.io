@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Zyxel Firewalls and VPNs Under Active Cyberattack<a href="https://thehackernews.com/2021/06/watch-out-zyxel-firewalls-and-vpns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese networking equipment company Zyxel is warning customers of an ongoing attack targeting a "small subset" of its security products such as firewall and VPN servers.  Attributing the attacks to a "sophisticated threat actor," the firm noted that the attacks single out appliances that have remote management or SSL VPN enabled, namely in the USG/ZyWALL, USG FLEX, ATP, and VPN series running on-premise ZLD firmware, implying that the targeted devices are publicly accessible over the internet.   "The threat actor attempts to access a device through WAN; if successful, they then bypass authentication and establish SSL VPN tunnels with unknown user accounts, such as 'zyxel_slIvpn', 'zyxel_ts', or 'zyxel_vpn_test', to manipulate the device's configuration," Zyxel said in an&nbsp; email message , which was shared on Twitter.   As of writing, it's not immediately known if the attacks are exploiting previously known vulnerabilities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

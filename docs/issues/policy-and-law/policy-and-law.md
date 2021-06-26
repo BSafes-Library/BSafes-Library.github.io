@@ -11,6 +11,20 @@ nav_order: 900163
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FIN7 ‘Pen Tester’ Headed to Jail Amid $1B in Payment-Card Losses<a href="https://threatpost.com/fin7-pen-tester-jail/167293/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the Carbanak cybergang’s highest-level hackers is destined to serve seven years while making $2.5 million in restitution payments.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Clop gang members recently arrested laundered over $500M in payments<a href="https://securityaffairs.co/wordpress/119377/cyber-crime/clop-ransomware-money-laundering.html"> Full Text</a>
 </p>
 <details>

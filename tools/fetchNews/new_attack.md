@@ -11,6 +11,34 @@ nav_order: 900015
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Attacks against game companies are up. But why?<a href="https://www.scmagazine.com/application-security/attacks-against-game-companies-are-up-but-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious hackers are increasingly mobbing the video  game industry, but security experts can’t pinpoint a single explanation for the surge.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Attack on AI-driven Facial Recognition Systems<a href="https://cyware.com/news/a-new-attack-on-ai-driven-facial-recognition-systems-4ece656a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers developed an attack technique named Adversarial Octopus that could perform a targeted attack on AI-based facial recognition systems. This attack shows that AI systems require much more attention at the security front, and such new attack methods will help raise awareness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Watch Out! Zyxel Firewalls and VPNs Under Active Cyberattack<a href="https://thehackernews.com/2021/06/watch-out-zyxel-firewalls-and-vpns.html"> Full Text</a>
 </p>
 <details>

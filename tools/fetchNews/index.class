@@ -34,6 +34,416 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 25th 2021 - Back in Business<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-25th-2021-back-in-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been relatively quiet this week, with few attacks revealed and few new ransomware variants released. However, some interesting information came out that we have summarized below.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: UK watchdog to investigate Google, Amazon over fake reviews | Google to warn users about unreliable information during certain events | Senators roll out cyber workforce bill<a href="https://thehill.com//policy/technology/overnights/560327-hillicon-valley-uk-watchdog-to-investigate-google-amazon-over"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s more trouble for Amazon and Google across the pond, with the United Kingdom’s competition watchdog announcing an investigation into fake reviews on the platforms. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators propose bill to help tackle cybersecurity workforce shortage<a href="https://thehill.com//policy/cybersecurity/560318-senators-propose-bill-to-help-tackle-cybersecurity-workforce-shortage"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Maggie Hassan (D-N.H.) and John CornynJohn CornynThe Afghan Air Force: When 'Buy American' goes wrong Senators say White House aides agreed to infrastructure 'framework' Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit' MORE (R-Texas) on Friday introduced legislation meant to tackle parts of the government’s cyber workforce shortage.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PS3 Players Ban: Latest Victims of Surging Attacks on Gaming Industry  <a href="https://threatpost.com/ps3-players-ban-attacks-gaming/167303/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every Sony PlayStation 3 ID out there was compromised, provoking bans of legit players on the network.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marketo Marketplace – Cybercriminals are targeting major law firms<a href="https://securityaffairs.co/wordpress/119405/cyber-crime/marketo-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals published for sale in Dark Web 58GB of data stolen from Hollingsworth LLP. 
+
+
+
+One of the emerging underground marketplaces of stolen data 'Marketo' available in TOR network announced the publication of data presumably stolen from Hollingsworth...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks against game companies are up. But why?<a href="https://www.scmagazine.com/application-security/attacks-against-game-companies-are-up-but-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious hackers are increasingly mobbing the video  game industry, but security experts can’t pinpoint a single explanation for the surge.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz data breach exposes SSNs, credit card numbers<a href="https://www.bleepingcomputer.com/news/security/mercedes-benz-data-breach-exposes-ssns-credit-card-numbers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mercedes-Benz USA has just disclosed a data breach impacting under 1,000 customers and potential buyers that exposed their credit card information, social security numbers, and driver license numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Young Americans Twice as Likely to Cyber-stalk<a href="https://www.infosecurity-magazine.com:443/news/young-americans-twice-as-likely-to/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gen Z and Millennials more likely than those aged over 40 to cyber-stalk exes and current partners
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS acquires encrypted comms platform Wickr to support shift to hybrid work environments<a href="https://www.scmagazine.com/home/security-news/encryption-data-security/aws-acquires-encrypted-comms-platform-wickr-to-support-shift-to-hybrid-work-environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AWS CISO Stephen Schmidt said that the move to a hybrid work environment due in part to the pandemic has led to a need among companies and government agencies
+to protect their communications across multiple remote locations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ignorance is not a legal excuse for paying sanctioned ransomware groups<a href="https://www.scmagazine.com/home/security-news/ransomware/ignorance-is-not-a-legal-excuse-for-paying-sanctioned-ransomware-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly emergent Grief ransomware is another example of how cybercriminal groups change names and coding to confuse victims and circumvent federal restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Attack on AI-driven Facial Recognition Systems<a href="https://cyware.com/news/a-new-attack-on-ai-driven-facial-recognition-systems-4ece656a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers developed an attack technique named Adversarial Octopus that could perform a targeted attack on AI-based facial recognition systems. This attack shows that AI systems require much more attention at the security front, and such new attack methods will help raise awareness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 500K patients accessed, stolen after eye clinic ransomware attack<a href="https://www.scmagazine.com/home/security-news/data-breach/actors-steal-data-of-500k-patients-during-eye-clinic-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week’s breach roundup is led by a ransomware attack against Wolfe Eye Clinic in Iowa. An attacker accessed and likely stole the data of 500,000 patients.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Arrests Probably Weren’t Able to Stop Cl0p Ransomware<a href="https://cyware.com/news/recent-arrests-probably-werent-able-to-stop-cl0p-ransomware-0fdec2cd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cl0p ransomware hackers just dumped stolen data on their dark website claiming it was stolen from a new victim. Several gang members of the group were detained by Ukrainian police last week but it seems the group is still active. Organizations are advised to proactively follow adequate security mea ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit 3-years old flaw to wipe Western Digital devices<a href="https://securityaffairs.co/wordpress/119392/iot/hackers-wipe-western-digital-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are wiping many Western Digital (WD) My Book Live and My Book Live Duo NAS devices likely exploiting an old vulnerability.
+
+
+
+Owners of Western Digital (WD) claim that their My Book Live and My Book Live Duo network-attached storage (NAS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 ‘Pen Tester’ Headed to Jail Amid $1B in Payment-Card Losses<a href="https://threatpost.com/fin7-pen-tester-jail/167293/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the Carbanak cybergang’s highest-level hackers is destined to serve seven years while making $2.5 million in restitution payments.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JSSLoader: Recoded and Reloaded | Proofpoint US<a href="https://www.proofpoint.com/us/blog/threat-insight/jssloader-recoded-and-reloaded?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a months-long absence, the malware loader JSSLoader returned in June 2021 cyberattack campaigns by TA543 threat actor, rewritten from the .NET programming language to C++.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Pen Tester to Serve Seven Years<a href="https://www.infosecurity-magazine.com:443/news/fin7-pen-tester-to-serve-seven/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US sends down high-level member of hacking group behind $1bn card-stealing scheme
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World’s Largest E-tailers to be Investigated Over Fake Reviews<a href="https://www.infosecurity-magazine.com:443/news/cma-fake-reviews-probe-google/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK’s Competition and Markets Authority announces probe into how Amazon and Google combat fake reviews
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Monitoring Firm FYEO Announces Acquisition as It Emerges From Stealth<a href="https://www.securityweek.com/threat-monitoring-firm-fyeo-announces-acquisition-it-emerges-stealth?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat monitoring and identity access management provider FYEO on Wednesday announced that it emerged from stealth mode with the acquisition of threat intelligence company Intelliagg.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drata lands $25M for its automated cybersecurity compliance platform<a href="https://siliconangle.com/2021/06/23/drata-lands-25m-automated-cybersecurity-compliance-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drata Inc., a new startup working to make it easier for companies to comply with cybersecurity standards, today announced that it has raised a $25 million funding round led by GGV Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crackonosh Malware Author Minted $2 Million in Cryptocurrency After Infecting 222,000 Windows Systems<a href="https://therecord.media/malware-author-made-2-million-after-infecting-222000-windows-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has done so by hiding its malware in pirated and cracked copies of popular software, Daniel Beneš, a malware analyst for antivirus maker Avast, said in a report today.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+My Book Live Users Wake Up to Wiped Devices, Active RCE Attacks<a href="https://threatpost.com/my-book-live-wiped-rce-attacks/167270/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“I am totally screwed,” one user wailed after finding years of data nuked. Western Digital advised yanking the NAS storage devices offline ASAP: There’s an exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital: Disconnect My Book Live drives immediately<a href="https://www.scmagazine.com/home/security-news/western-digital-disconnect-my-book-live-drives-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is asking customers to disconnect My Book Live hard drives from the internet to prevent malware from wiping them of data.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Expose Fortinet Firewalls to Remote Attacks<a href="https://www.securityweek.com/vulnerabilities-expose-fortinet-firewalls-remote-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability patched recently by Fortinet in its FortiWeb web application firewall (WAF) can be exploited to execute arbitrary commands and can be chained with other security holes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Application Security Firm Anjuna Raises $30 Million<a href="https://www.securityweek.com/cloud-application-security-firm-anjuna-raises-30-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by Insight Partners and is expected to help the company bring its Confidential Cloud Software Platform to market and support technology development and innovation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

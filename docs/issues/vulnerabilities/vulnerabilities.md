@@ -11,6 +11,34 @@ nav_order: 900220
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Western Digital: Disconnect My Book Live drives immediately<a href="https://www.scmagazine.com/home/security-news/western-digital-disconnect-my-book-live-drives-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is asking customers to disconnect My Book Live hard drives from the internet to prevent malware from wiping them of data.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Expose Fortinet Firewalls to Remote Attacks<a href="https://www.securityweek.com/vulnerabilities-expose-fortinet-firewalls-remote-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability patched recently by Fortinet in its FortiWeb web application firewall (WAF) can be exploited to execute arbitrary commands and can be chained with other security holes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Flaws in FortiWeb WAF expose Fortinet devices to remote hack<a href="https://securityaffairs.co/wordpress/119387/security/fortinet-fortiweb-waf-flaw.html"> Full Text</a>
 </p>
 <details>
