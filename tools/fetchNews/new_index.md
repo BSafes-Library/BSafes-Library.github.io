@@ -34,7 +34,179 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco ASA vulnerability actively exploited after exploit released<a href="https://www.bleepingcomputer.com/news/security/cisco-asa-vulnerability-actively-exploited-after-exploit-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are scanning for and actively exploiting a vulnerability in Cisco ASA devices after a PoC exploit was published on Twitter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crackonosh Monero miner made $2M after infecting 222,000 Win systems<a href="https://securityaffairs.co/wordpress/119450/malware/crackonosh-monero-miner.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a strain of cryptocurrency-mining malware, tracked as Crackonosh, that abuses Windows Safe mode to avoid detection. 
+
+
+
+Researchers from Avast have spotted a  strain of cryptocurrency miner, tracked as Crackonosh, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 320<a href="https://securityaffairs.co/wordpress/119448/breaking-news/security-affairs-newsletter-round-320.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Norway blames...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Cisco ASA devices after a PoC exploit code was published online<a href="https://securityaffairs.co/wordpress/119442/hacking/cisco-asa-under-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of attacks against Cisco ASA devices after researchers have published a PoC exploit code on Twitter for a known XSS vulnerability.
+
+
+
+Experts warn of attacks against Cisco ASA devices after researchers from Positive Technologies have published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two New IcedID Campaigns Making Rounds in the Wild<a href="https://cyware.com/news/two-new-icedid-campaigns-making-rounds-in-the-wild-93868644"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the IcedID banking trojan has been discovered that spreads via two new spam campaigns. These campaigns are hitting more than 100 detections a day.&nbsp;The best way to stay protected from such threats is to stay alert while receiving emails from unknown senders.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobelium hackers accessed Microsoft customer support tools<a href="https://www.bleepingcomputer.com/news/microsoft/nobelium-hackers-accessed-microsoft-customer-support-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says they have discovered new attacks conducted by the Russian state-sponsored Nobelium hacking group, including a hacked Microsoft support agent's computer that exposed customer's subscription information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz data breach impacted roughly 1000 individuals<a href="https://securityaffairs.co/wordpress/119436/data-breach/mercedes-benz-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mercedes-Benz USA disclosed a data breach that impacted 1.6 million customers, exposed data includes financial data and social security numbers (SSNs).
+
+
+
+Mercedes-Benz USA disclosed on Friday a data breach that impacted some of its customers and potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russia-linked SolarWinds hackers breached three new entities<a href="https://securityaffairs.co/wordpress/119425/apt/solarwinds-nobelium-ongoing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discovered that Russia-linked SolarWinds hackers, tracked as Nobelium, have breached the network of three new organizations.
+
+
+
+Microsoft revealed on Friday that Russia-linked SolarWinds hackers, tracked as Nobelium or APT29, have conducted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware group Hive leaks Altus group sample files<a href="https://securityaffairs.co/wordpress/119418/cyber-crime/new-ransomware-group-hive-leaks-altus-group-sample-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 14th, Altus Group, a commercial real estate software solutions firm, disclosed a security breach, now Hive ransomware gang leaked its files.
+
+
+
+On June 14th, Altus Group, a commercial real estate software solutions company, has announced that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft admits to signing rootkit malware in supply-chain fiasco<a href="https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/"> Full Text</a>
@@ -50,7 +222,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyBook Users Urged to Unplug Devices from Internet<a href="https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/?&web_view=true"> Full Text</a>
@@ -66,7 +238,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html"> Full Text</a>
@@ -86,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html?&web_view=true"> Full Text</a>
@@ -102,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 .WIM Files Attachment Is Being Used in Phishing Attacks<a href="https://heimdalsecurity.com/blog/an-unusual-file-attachment-is-being-used-in-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -118,7 +290,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crackonosh malware abuses Windows Safe mode to quietly mine for cryptocurrency<a href="https://www.zdnet.com/article/crackonosh-malware-abuses-windows-safe-mode-to-quietly-mine-for-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -134,7 +306,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Created a Linux Version of Its Ransomware<a href="https://www.inforisktoday.com/darkside-created-linux-version-its-ransomware-a-16941?&web_view=true"> Full Text</a>
@@ -150,7 +322,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft says new breach discovered in probe of suspected SolarWinds hackers<a href="https://www.reuters.com/technology/microsoft-says-new-breach-discovered-probe-suspected-solarwinds-hackers-2021-06-25/?&web_view=true"> Full Text</a>
