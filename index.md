@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Secret Service Releases 'Most Wanted' Cyber Fugitive List<a href="https://www.bankinfosecurity.com/us-secret-service-releases-most-wanted-cyber-fugitive-list-a-16942?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Secret Service is offering rewards of up to $1 million for information leading to the arrests of two suspects who allegedly targeted the U.S. SEC's EDGAR system server in 2016.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kentucky Healthcare System Exposes Patients’ PHI<a href="https://www.infosecurity-magazine.com:443/news/kentucky-healthcare-system-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UofL Health sends PHI of 42,000 patients to incorrect email addresses
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AWS Acquires Encrypted Communications Service Wickr<a href="https://www.securityweek.com/aws-acquires-encrypted-communications-service-wickr?&web_view=true"> Full Text</a>
 </p>
 <details>
