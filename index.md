@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NewsBlur Restores Service After Hacker Wipes Database<a href="https://www.securityweek.com/newsblur-restores-service-after-hacker-wipes-database?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker was able to gain access to the database while the RSS reader was being transitioned to Docker, which circumvented some firewall rules and opened the NewsBlur MongoDB database to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Costs from ransomware attack against Ireland health system reach $600M<a href="https://www.scmagazine.com/home/security-news/ransomware/costs-from-ransomware-attack-against-ireland-health-system-reach-600m/"> Full Text</a>
 </p>
 <details>
