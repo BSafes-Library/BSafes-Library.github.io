@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge Bug Could've Let Hackers Steal Your Secrets for Any Site<a href="https://thehackernews.com/2021/06/microsoft-edge-bug-couldve-let-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft last week rolled out updates for the Edge browser with&nbsp; fixes for two security issues , one of which concerns a security bypass vulnerability that could be exploited to inject and execute arbitrary code in the context of any website.  Tracked as&nbsp; CVE-2021-34506 &nbsp;(CVSS score: 5.4), the weakness stems from a universal cross-site scripting (UXSS) issue that's triggered when automatically translating web pages using the browser's&nbsp; built-in feature via Microsoft Translator .   Credited for discovering and reporting CVE-2021-34506 are Ignacio Laurence as well as Vansh Devgan and Shivam Kumar Singh with CyberXplore Private Limited.&nbsp;  "Unlike the common XSS attacks, UXSS is a type of attack that exploits client-side vulnerabilities in the browser or browser extensions in order to generate an XSS condition, and execute malicious code," CyberXplore researchers&nbsp; said &nbsp;in a write-up shared with The Hacker News.   "When such vulnerabilities are found and exploited,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco ASA Flaw Under Active Attack After PoC Exploit Posted Online<a href="https://thehackernews.com/2021/06/cisco-asa-flaw-under-active-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in Cisco Adaptive Security Appliance (ASA) that was addressed by the company last October and again earlier this April, has been subjected to active in-the-wild attacks following the release of proof-of-concept (PoC) exploit code.  The PoC was&nbsp; published &nbsp;by researchers from cybersecurity firm Positive Technologies on June 24, following which reports emerged that attackers are chasing after an exploit for the bug.   "Tenable has also received a report that attackers are exploiting CVE-2020-3580 in the wild," the cyber exposure company&nbsp; said .   Tracked as&nbsp; CVE-2020-3580 &nbsp;(CVSS score: 6.1), the issue concerns multiple vulnerabilities in the web services interface of Cisco ASA software and Cisco Firepower Threat Defense (FTD) software that could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks on an affected device.  As of July 2020, there were a little over&nbsp; 85,000 ASA/FTD devices , 398 of which are spread across
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

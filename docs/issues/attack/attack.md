@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nefilim Ransomware Attack Through a MITRE Att&amp;ck Lens<a href="https://www.trendmicro.com/en_us/research/21/f/nefilim-modern-ransomware-attack-story.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is operated by a group tracked under the intrusion set "Water Roc". This group combines advanced techniques with legitimate tools to make them harder to detect and respond before it is too late.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

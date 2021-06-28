@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware group Hive leaks Altus group sample files<a href="https://securityaffairs.co/wordpress/119418/cyber-crime/new-ransomware-group-hive-leaks-altus-group-sample-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 14th, Altus Group, a commercial real estate software solutions firm, disclosed a security breach, now Hive ransomware gang leaked its files.
+
+
+
+On June 14th, Altus Group, a commercial real estate software solutions company, has announced that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

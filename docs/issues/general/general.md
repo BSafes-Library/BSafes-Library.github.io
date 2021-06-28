@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/home/security-news/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former DHS CIO Karen Evans and Parham Eftekhari of the Cybersecurity Collaborative and ICIT detail how business leaders can prioritize cybersecurity alongside traditional corporate objectives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DMARC: The First Line of Defense Against Ransomware<a href="https://thehackernews.com/2021/06/dmarc-first-line-of-defense-against.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been a lot of buzz in the industry about ransomware lately. Almost every other day, it's making headlines. With businesses across the globe holding their breath, scared they might fall victim to the next major ransomware attack, it is now time to take action.  The FBI IC3 report of 2020 classified Ransomware as the most financially damaging cybercrime of the year, with no major improvement in 2021.  Wouldn't it be nice if you could prevent a ransomware attack from occurring in the first place?&nbsp; DMARC &nbsp;can make this seemingly impossible claim a possibility for domain owners!&nbsp;  Multiple benefits arise from your DMARC implementation over time, including an increase in the deliverability of your email as well as a higher domain reputation. DMARC is also known as the first line of defense against Ransomware.  Let's take a closer look.  What are the Risks Associated with Ransomware?&nbsp;  Ransomware is malicious software that installs itself on your computer without your p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Security is Paramount in a Digital-First Economy?<a href="https://ciso.economictimes.indiatimes.com/news/why-security-is-paramount-in-a-digital-first-economy/83910422?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs are looking for scalable, long-term strategies that could proactively protect their enterprise environment and prevent cybercriminals from exploiting vulnerabilities during crisis situations.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India fails in cybersecurity literacy test: Study<a href="https://ciso.economictimes.indiatimes.com/news/india-fails-in-cybersecurity-literacy-test-study/83909931?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scoring just 51.2 points out of 100 (14 points below the global average), India ranked 19 out of 21 countries in the National Privacy Test conducted recently by global VPN service provider NordVPN.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

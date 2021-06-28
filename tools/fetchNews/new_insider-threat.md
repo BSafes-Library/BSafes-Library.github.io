@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Health Secretary Faces Probe Over Use of Personal Emails<a href="https://www.infosecurity-magazine.com:443/news/former-health-secretary-probe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts say move could have exposed UK government to increased cyber-risk
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

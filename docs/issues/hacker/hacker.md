@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Trick Microsoft Into Signing Netfilter Driver Loaded With Rootkit Malware<a href="https://thehackernews.com/2021/06/hackers-trick-microsoft-into-signing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday said it's investigating an incident wherein a driver signed by the company turned out to be a malicious Windows rootkit that was observed communicating with command-and-control (C2) servers located in China.  The driver, called " Netfilter ," is said to target gaming environments, specifically in the East Asian country, with the Redmond-based firm noting that "the actor's goal is to use the driver to spoof their geo-location to cheat the system and play from anywhere."   "The malware enables them to gain an advantage in games and possibly exploit other players by compromising their accounts through common tools like keyloggers," Microsoft Security Response Center (MSRC)&nbsp; said .  The rogue code signing was spotted by Karsten Hahn, a malware analyst at German cybersecurity company G Data, who shared&nbsp; additional details &nbsp;of the rootkit, including a&nbsp; dropper , which is used to deploy and install Netfilter on the system.   Upon succ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
