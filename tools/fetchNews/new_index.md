@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware's new Linux encryptor targets ESXi virtual machines<a href="https://www.bleepingcomputer.com/news/security/revil-ransomwares-new-linux-encryptor-targets-esxi-virtual-machines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation is now using a Linux encryptor that targets and encrypts Vmware ESXi virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 5G Security Vulnerabilities Fluster Mobile Operators<a href="https://threatpost.com/mobile-operators-5g-security-vulnerabilities/167354/"> Full Text</a>
 </p>
 <details>

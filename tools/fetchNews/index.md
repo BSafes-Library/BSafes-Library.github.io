@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+5G Security Vulnerabilities Fluster Mobile Operators<a href="https://threatpost.com/mobile-operators-5g-security-vulnerabilities/167354/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey from GSMA and Trend Micro shows a concerning lack of security capabilities for private 5G networks (think factories, smart cities, industrial IoT, utilities and more).
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mercedes-Benz cloud data exposure shines spotlight on third-party risk<a href="https://www.scmagazine.com/home/security-news/cloud-security/mercedes-benz-cloud-data-exposure-shines-spotlight-on-third-party-risk/"> Full Text</a>
 </p>
 <details>
