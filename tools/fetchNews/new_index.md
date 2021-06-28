@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Personal Details of Over 200,000 Students Leaked After Cyberattack on AcadeME<a href="https://www.jpost.com/israel-news/details-of-over-200000-students-leaked-in-cyberattack-672179?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claimed that they leaked emails, passwords, first and last names, addresses, and even phone numbers of over 200,000 students who were registered on AcadeME since 2014.
+</details>
+<div style="text-align: right" markdown="1">
+The Jerusalem Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CISO Initiatives for the Second Half of 2021<a href="https://threatpost.com/critical-ciso-initiatives-2021/167309/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nilesh Dherange, CTO at Gurucul, goes over what defenses CISOs need now, and how and why to prioritize the options.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Secret Service Releases 'Most Wanted' Cyber Fugitive List<a href="https://www.bankinfosecurity.com/us-secret-service-releases-most-wanted-cyber-fugitive-list-a-16942?&web_view=true"> Full Text</a>
 </p>
 <details>
