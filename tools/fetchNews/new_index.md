@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AWS Acquires Encrypted Communications Service Wickr<a href="https://www.securityweek.com/aws-acquires-encrypted-communications-service-wickr?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon’s AWS subsidiary on Friday announced the acquisition of Wickr, a late-stage startup that sells end-to-end encrypted communications tools. Financial terms of the transaction were not released.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Seamless EU-UK Data Flows to Continue Following Adequacy Decisions<a href="https://www.infosecurity-magazine.com:443/news/seamless-eu-uk-data-flows-adequacy/"> Full Text</a>
 </p>
 <details>
