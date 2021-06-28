@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Court dismisses FTC, state antitrust cases against Facebook | YouTube 'mistakenly' suspends Right Wing Watch | Report finds costs of cyberattacks could exceed natural disasters<a href="https://thehill.com//policy/technology/overnights/560609-hillicon-valley-court-dismisses-ftc-state-antitrust-cases"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Washington’s crackdown on the market power of Big Tech hit a roadblock Monday, after a D.C. federal court dismissed two antitrust cases brought against Facebook. The update comes after the House Judiciary Committee last week advanced six bills aimed at giving regulators more authority to rein in the power of the tech companies, and supporters of the bills are using the dismissal to boost the bills as they head to a full floor vote (see top Republican on the House antitrust subcommittee Colorado Rep. Ken BuckKenneth (Ken) Robert BuckCalifornia Democrats clash over tech antitrust fight Tech antitrust bills create strange bedfellows in House markup Tech industry pushes for delay in antitrust legislation MORE’s reaction here).
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scant evidence that cyber insurance boom is leading to better security<a href="https://www.scmagazine.com/home/security-news/ransomware/scant-evidence-that-cyber-insurance-boom-is-leading-to-better-security/"> Full Text</a>
 </p>
 <details>
