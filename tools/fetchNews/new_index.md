@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hackers Breach Microsoft Customer Support to Target its Customers<a href="https://thehackernews.com/2021/06/solarwinds-hackers-breach-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another sign that the Russian hackers who breached SolarWinds network monitoring software to compromise a slew of entities never really went away, Microsoft said the threat actor behind the malicious cyber activities used password spraying and brute-force attacks in an attempt to guess passwords and gain access to its customer accounts.  "This recent activity was mostly unsuccessful, and the majority of targets were not successfully compromised – we are aware of three compromised entities to date," the tech giant's Threat Intelligence Center  said  Friday. "All customers that were compromised or targeted are being contacted through our nation-state notification process."   The development was first  reported  by news service Reuters. The names of the victims were not revealed.  The latest wave in a series of intrusions is said to have primarily targeted IT companies, followed by government agencies, non-governmental organizations, think tanks, and financ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

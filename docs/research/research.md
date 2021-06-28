@@ -21,6 +21,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 June, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Unilateral Economic Sanctions and Protecting U.S. National Security [HTML](https://papers.bsafes.com/docs/politics/unilateral-economics-sanctions-and-protecting-us-national-security/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Terrorism remains the most important national security concern. Multi-national economic organizations around the world have increasingly established counter-terrorism commissions to assess the magnitude of the threat posed by terrorism.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • “Draw the Internet.” A visual exploration of how children think an everyday technology. [HTML](https://papers.bsafes.com/docs/internet/draw-the-internet-a-visual-exploration-of-how-children-think-an-everyday-technology/)
 </p>
 <details>
