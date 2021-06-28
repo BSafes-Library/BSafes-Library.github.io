@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz cloud data exposure shines spotlight on third-party risk<a href="https://www.scmagazine.com/home/security-news/cloud-security/mercedes-benz-cloud-data-exposure-shines-spotlight-on-third-party-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mercedes-Benz leak highlights an issue that security teams keep seeing time and again: Private data that’s accidentally left publicly accessible on a cloud storage platform by a vendor.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Patches High-Severity GeForce Spoof-Attack Bug<a href="https://threatpost.com/nvidia-high-severity-geforce-spoof-bug/167345/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in NVIDIA’s GeForce Experience software opens the door to remote data access, manipulation and deletion.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs now creating websites to recruit affiliates<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-creating-websites-to-recruit-affiliates/"> Full Text</a>
 </p>
 <details>
