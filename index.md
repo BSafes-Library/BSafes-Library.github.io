@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Sizing Up the Security Features Slated for Windows 11<a href="https://www.bankinfosecurity.com/sizing-up-security-features-slated-for-windows-11-a-16943?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's decision to offload more security requirements onto hardware is the right move, some security experts say. But many firms running older gear could have a hard time taking advantage of it.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Zero-day Exploit Found in Adobe Experience Manager<a href="https://www.infosecurity-magazine.com:443/news/zero-day-exploit-found-in-adobe/"> Full Text</a>
 </p>
 <details>
