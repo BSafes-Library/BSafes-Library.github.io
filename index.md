@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Exploit Found in Adobe Experience Manager<a href="https://www.infosecurity-magazine.com:443/news/zero-day-exploit-found-in-adobe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ethical hackers find bug in popular content management solution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Personal Details of Over 200,000 Students Leaked After Cyberattack on AcadeME<a href="https://www.jpost.com/israel-news/details-of-over-200000-students-leaked-in-cyberattack-672179?&web_view=true"> Full Text</a>
 </p>
 <details>
