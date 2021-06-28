@@ -21,7 +21,7 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 June, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Unilateral Economic Sanctions and Protecting U.S. National Security [HTML](https://papers.bsafes.com/docs/politics/unilateral-economics-sanctions-and-protecting-us-national-security/)
+• Unilateral Economic Sanctions and Protecting U.S. National Security [HTML](https://papers.bsafes.com/docs/Politics/unilateral-economics-sanctions-and-protecting-us-national-security/)
 </p>
 <details>
   <summary>Abstract</summary>
