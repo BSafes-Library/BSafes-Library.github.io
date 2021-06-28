@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs now creating websites to recruit affiliates<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-creating-websites-to-recruit-affiliates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever since two prominent Russian-speaking cybercrime forums banned ransomware-related topics [1, 2], criminal operations have been forced to promote their service through alternative methods.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US the Only Top Tier Cyber-power<a href="https://www.infosecurity-magazine.com:443/news/us-only-top-tier-cyberpower/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report finds other countries lag behind US when it comes to cyber prowess
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NewsBlur Restores Service After Hacker Wipes Database<a href="https://www.securityweek.com/newsblur-restores-service-after-hacker-wipes-database?&web_view=true"> Full Text</a>
 </p>
 <details>
