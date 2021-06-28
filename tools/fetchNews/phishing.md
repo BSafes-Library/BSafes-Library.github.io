@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+.WIM Files Attachment Is Being Used in Phishing Attacks<a href="https://heimdalsecurity.com/blog/an-unusual-file-attachment-is-being-used-in-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers at Trustwave have disclosed in a recent report that threat actors are starting to utilize WIM (Windows Imaging Format) attachments in order to distribute the Agent Tesla remote access trojan.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2021
+June 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco ASA vulnerability actively exploited after exploit released<a href="https://www.bleepingcomputer.com/news/security/cisco-asa-vulnerability-actively-exploited-after-exploit-released/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2021
+June 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crackonosh Monero miner made $2M after infecting 222,000 Win systems<a href="https://securityaffairs.co/wordpress/119450/malware/crackonosh-monero-miner.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2021
+June 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 320<a href="https://securityaffairs.co/wordpress/119448/breaking-news/security-affairs-newsletter-round-320.html"> Full Text</a>
@@ -94,7 +94,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2021
+June 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers target Cisco ASA devices after a PoC exploit code was published online<a href="https://securityaffairs.co/wordpress/119442/hacking/cisco-asa-under-attack.html"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two New IcedID Campaigns Making Rounds in the Wild<a href="https://cyware.com/news/two-new-icedid-campaigns-making-rounds-in-the-wild-93868644"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nobelium hackers accessed Microsoft customer support tools<a href="https://www.bleepingcomputer.com/news/microsoft/nobelium-hackers-accessed-microsoft-customer-support-tools/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mercedes-Benz data breach impacted roughly 1000 individuals<a href="https://securityaffairs.co/wordpress/119436/data-breach/mercedes-benz-data-breach.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russia-linked SolarWinds hackers breached three new entities<a href="https://securityaffairs.co/wordpress/119425/apt/solarwinds-nobelium-ongoing-campaign.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2021
+June 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ransomware group Hive leaks Altus group sample files<a href="https://securityaffairs.co/wordpress/119418/cyber-crime/new-ransomware-group-hive-leaks-altus-group-sample-files.html"> Full Text</a>

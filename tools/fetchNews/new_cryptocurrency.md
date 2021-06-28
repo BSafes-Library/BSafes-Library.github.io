@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crackonosh Monero miner made $2M after infecting 222,000 Win systems<a href="https://securityaffairs.co/wordpress/119450/malware/crackonosh-monero-miner.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a strain of cryptocurrency-mining malware,&nbsp;tracked as Crackonosh,&nbsp;that abuses Windows Safe mode to avoid detection.&nbsp;
+
+
+
+Researchers from Avast have spotted a  strain of cryptocurrency miner,&nbsp;tracked as Crackonosh,&nbsp;that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

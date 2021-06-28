@@ -11,6 +11,42 @@ nav_order: 900029
 June 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz data breach impacted roughly 1000 individuals<a href="https://securityaffairs.co/wordpress/119436/data-breach/mercedes-benz-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mercedes-Benz USA disclosed a data breach that impacted 1.6 million customers, exposed data includes financial data and social security numbers (SSNs).
+
+
+
+Mercedes-Benz USA disclosed on Friday a data breach that impacted some of its customers and potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russia-linked SolarWinds hackers breached three new entities<a href="https://securityaffairs.co/wordpress/119425/apt/solarwinds-nobelium-ongoing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discovered that Russia-linked SolarWinds hackers, tracked as Nobelium, have breached the network of three new organizations.
+
+
+
+Microsoft revealed on Friday that Russia-linked SolarWinds hackers, tracked as Nobelium or APT29, have conducted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft says new breach discovered in probe of suspected SolarWinds hackers<a href="https://www.reuters.com/technology/microsoft-says-new-breach-discovered-probe-suspected-solarwinds-hackers-2021-06-25/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

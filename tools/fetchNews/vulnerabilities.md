@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyBook Users Urged to Unplug Devices from Internet<a href="https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is urging users of its MyBook Live brand of network storage drives to disconnect them from the Internet, warning that malicious hackers are remotely wiping the drives using a critical flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers analyzed the recently discovered Epsilon Red operations and found that more than 3.5K servers are still vulnerable
+
+
+
+Several weeks later, security researchers from&nbsp;Sophos&nbsp;have discovered a new ransomware variant known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red – our research reveals more than 3.5 thousand servers are still vulnerable<a href="https://securityaffairs.co/wordpress/119415/security/epsilon-red-vulnerable-servers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seemingly, a variant of the ransomware, Epsilon Red, relies on vulnerable Microsoft Exchange servers. Threat actors use them to launch mass server exploitation campaigns and try to expose companies’ information for revenue.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

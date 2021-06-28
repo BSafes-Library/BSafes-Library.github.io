@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Cisco ASA devices after a PoC exploit code was published online<a href="https://securityaffairs.co/wordpress/119442/hacking/cisco-asa-under-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of attacks against Cisco ASA devices after researchers have published a PoC exploit code on Twitter for a known XSS vulnerability.
+
+
+
+Experts warn of attacks against Cisco ASA devices after researchers from Positive Technologies have published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobelium hackers accessed Microsoft customer support tools<a href="https://www.bleepingcomputer.com/news/microsoft/nobelium-hackers-accessed-microsoft-customer-support-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says they have discovered new attacks conducted by the Russian state-sponsored Nobelium hacking group, including a hacked Microsoft support agent's computer that exposed customer's subscription information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
