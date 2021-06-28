@@ -66,6 +66,18 @@ Communication technology, especially smartphones and the social media apps on th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Employment Status for “Essential Workers”: The Case for Gig Worker Parity [HTML](https://papers.bsafes.com/docs/work/employment-status-for-essential-workers-the-case-for-gig-worker-parity/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Gig workers have been on the frontlines of the coronavirus pandemic, providing essential services like grocery shopping, transportation, and food delivery.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

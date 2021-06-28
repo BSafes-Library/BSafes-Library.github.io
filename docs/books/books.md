@@ -19,6 +19,7 @@ nav_order: 400
 * [DIGITAL DOMINION:How the Syrian regime’s mass digital surveillance violates human rights](https://papers.bsafes.com/docs/privacy/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
 * [Deploying Secure Unified Communications/Voice and Video over IP Systems](https://publications.bsafes.com/docs/nsa/deploying-secure-unified-communications-voice-and-video-over-ip-systems/)
 * [Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack, by Harrison Cunningham](https://papers.bsafes.com/docs/cybercrime/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)
+* [Employment Status for “Essential Workers”: The Case for Gig Worker Parity](https://papers.bsafes.com/docs/work/employment-status-for-essential-workers-the-case-for-gig-worker-parity/)
 * [Ethical Hacking, By Alana Maurushat](https://book-ethical-hacking.bsafes.com/)
 * [Evaluating Security in Cryptocurrency Wallets](https://papers.bsafes.com/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets/)
 * [Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts](https://papers.bsafes.com/docs/Politics/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
