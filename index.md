@@ -34,6 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bit Discovery Banks $4 Million for Attack Surface Management Tech<a href="https://www.securityweek.com/bit-discovery-banks-4-million-attack-surface-management-tech?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding round was led by Mighty Capital and return investor Aligned Partners and includes smaller investments from prominent security practitioners including Alex Stamos and Jeff Moss.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge Bug Could've Let Hackers Steal Your Secrets for Any Site<a href="https://thehackernews.com/2021/06/microsoft-edge-bug-couldve-let-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft last week rolled out updates for the Edge browser with  fixes for two security issues , one of which concerns a security bypass vulnerability that could be exploited to inject and execute arbitrary code in the context of any website.  Tracked as  CVE-2021-34506  (CVSS score: 5.4), the weakness stems from a universal cross-site scripting (UXSS) issue that's triggered when automatically translating web pages using the browser's  built-in feature via Microsoft Translator .   Credited for discovering and reporting CVE-2021-34506 are Ignacio Laurence as well as Vansh Devgan and Shivam Kumar Singh with CyberXplore Private Limited.   "Unlike the common XSS attacks, UXSS is a type of attack that exploits client-side vulnerabilities in the browser or browser extensions in order to generate an XSS condition, and execute malicious code," CyberXplore researchers  said  in a write-up shared with The Hacker News.   "When such vulnerabilities are found and exploited,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reported HMRC-Branded Phishing Scams Grew by 87% During COVID-19<a href="https://www.infosecurity-magazine.com:443/news/hmrc-phishing-scams-grew-covid/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing scams impersonating the UK’s tax, payments and customs authority surge
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The builder for Babuk Locker ransomware was leaked online<a href="https://securityaffairs.co/wordpress/119467/cyber-crime/babuk-locker-ransomware-builder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The builder for the Babuk Locker ransomware was leaked online, threat actors can use it to create their own ransomware strain.
+
+
+
+The Record first reported that the builder for the Babuk Locker ransomware was leaked online, threat actors could use it to create...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/home/security-news/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former DHS CIO Karen Evans and Parham Eftekhari of the Cybersecurity Collaborative and ICIT detail how business leaders can prioritize cybersecurity alongside traditional corporate objectives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hive Ransomware Group Hive Leaks Stolen Files From Altus Group<a href="https://securityaffairs.co/wordpress/119418/cyber-crime/new-ransomware-group-hive-leaks-altus-group-sample-files.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 14th, Altus Group, a commercial real estate software solutions company, has announced that its data was breached. A week later, they reported “no evidence of impact”.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Trick Microsoft Into Signing Netfilter Driver Loaded With Rootkit Malware<a href="https://thehackernews.com/2021/06/hackers-trick-microsoft-into-signing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday said it's investigating an incident wherein a driver signed by the company turned out to be a malicious Windows rootkit that was observed communicating with command-and-control (C2) servers located in China.  The driver, called " Netfilter ," is said to target gaming environments, specifically in the East Asian country, with the Redmond-based firm noting that "the actor's goal is to use the driver to spoof their geo-location to cheat the system and play from anywhere."   "The malware enables them to gain an advantage in games and possibly exploit other players by compromising their accounts through common tools like keyloggers," Microsoft Security Response Center (MSRC)  said .  The rogue code signing was spotted by Karsten Hahn, a malware analyst at German cybersecurity company G Data, who shared  additional details  of the rootkit, including a  dropper , which is used to deploy and install Netfilter on the system.   Upon succ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes Benz Data Leak Includes Card and Social Security Details<a href="https://www.infosecurity-magazine.com:443/news/mercedes-benz-leak-card-social/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customer data was exposed via an insecure cloud storage service
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six typosquatting packages in PyPI repository laced with crypto miner<a href="https://securityaffairs.co/wordpress/119459/cyber-crime/pypi-malicious-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered six rogue packages in the official Python programming language’s PyPI repository containg cryptocurrency mining malware.
+
+
+
+Experts from security firm Sonatype have uncovered six typosquatting packages in the official Python...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked Builder for Babuk Locker Ransomware Can be Used to Create Custom Ransomware Variants<a href="https://therecord.media/builder-for-babuk-locker-ransomware-leaked-online/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak of the Babuk Locker builder comes two months after the Babuk Locker ransomware gang announced that it was retiring after an attack on the Washington, DC police department in late April.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DMARC: The First Line of Defense Against Ransomware<a href="https://thehackernews.com/2021/06/dmarc-first-line-of-defense-against.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been a lot of buzz in the industry about ransomware lately. Almost every other day, it's making headlines. With businesses across the globe holding their breath, scared they might fall victim to the next major ransomware attack, it is now time to take action.  The FBI IC3 report of 2020 classified Ransomware as the most financially damaging cybercrime of the year, with no major improvement in 2021.  Wouldn't it be nice if you could prevent a ransomware attack from occurring in the first place?  DMARC  can make this seemingly impossible claim a possibility for domain owners!   Multiple benefits arise from your DMARC implementation over time, including an increase in the deliverability of your email as well as a higher domain reputation. DMARC is also known as the first line of defense against Ransomware.  Let's take a closer look.  What are the Risks Associated with Ransomware?   Ransomware is malicious software that installs itself on your computer without your p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive Defense Documents Found at Bus Stop<a href="https://www.infosecurity-magazine.com:443/news/sensitive-defense-documents-bus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK's Ministry of Defence launches investigation after worrying discovery
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Security is Paramount in a Digital-First Economy?<a href="https://ciso.economictimes.indiatimes.com/news/why-security-is-paramount-in-a-digital-first-economy/83910422?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs are looking for scalable, long-term strategies that could proactively protect their enterprise environment and prevent cybercriminals from exploiting vulnerabilities during crisis situations.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Health Secretary Faces Probe Over Use of Personal Emails<a href="https://www.infosecurity-magazine.com:443/news/former-health-secretary-probe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts say move could have exposed UK government to increased cyber-risk
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India fails in cybersecurity literacy test: Study<a href="https://ciso.economictimes.indiatimes.com/news/india-fails-in-cybersecurity-literacy-test-study/83909931?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scoring just 51.2 points out of 100 (14 points below the global average), India ranked 19 out of 21 countries in the National Privacy Test conducted recently by global VPN service provider NordVPN.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many companies believe it is important to protect employee privacy, yet few are effective in doing so<a href="https://www.helpnetsecurity.com/2021/06/28/protect-employee-privacy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a new survey, 63% of respondents say it is important or very important to protect employee privacy in the workforce, but only 34% of organizations are effective or very effective in doing so.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nefilim Ransomware Attack Through a MITRE Att&ck Lens<a href="https://www.trendmicro.com/en_us/research/21/f/nefilim-modern-ransomware-attack-story.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is operated by a group tracked under the intrusion set "Water Roc". This group combines advanced techniques with legitimate tools to make them harder to detect and respond before it is too late.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Written in GoLang – A Growing Trend<a href="https://cyware.com/news/malware-written-in-golang-a-growing-trend-89fc6895"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several threat actors are increasingly writing malicious codes in GoLang. Recently, the PYSA group was found deploying ChaChi, a remote access trojan written in Go.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco ASA Flaw Under Active Attack After PoC Exploit Posted Online<a href="https://thehackernews.com/2021/06/cisco-asa-flaw-under-active-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in Cisco Adaptive Security Appliance (ASA) that was addressed by the company last October and again earlier this April, has been subjected to active in-the-wild attacks following the release of proof-of-concept (PoC) exploit code.  The PoC was  published  by researchers from cybersecurity firm Positive Technologies on June 24, following which reports emerged that attackers are chasing after an exploit for the bug.   "Tenable has also received a report that attackers are exploiting CVE-2020-3580 in the wild," the cyber exposure company  said .   Tracked as  CVE-2020-3580  (CVSS score: 6.1), the issue concerns multiple vulnerabilities in the web services interface of Cisco ASA software and Cisco Firepower Threat Defense (FTD) software that could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks on an affected device.  As of July 2020, there were a little over  85,000 ASA/FTD devices , 398 of which are spread across
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
