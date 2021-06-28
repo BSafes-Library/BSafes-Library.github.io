@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft investigates threat actor distributing malicious Netfilter Driver<a href="https://securityaffairs.co/wordpress/119476/malware/netfilter-driver-microsoft-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating an strange attack, threat actor used a driver signed by the company, the Netfilter Driver, to implant a Rootkit.
+
+
+
+Microsoft announced it is investigating a threat actor distributing malicious drivers in attacks aimed at the gaming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/perspectives/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
 </p>
 <details>
