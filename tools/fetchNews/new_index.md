@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/perspectives/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former DHS CIO Karen Evans and Parham Eftekhari of the Cybersecurity Collaborative and ICIT detail how business leaders can prioritize cybersecurity alongside traditional corporate objectives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Bit Discovery Banks $4 Million for Attack Surface Management Tech<a href="https://www.securityweek.com/bit-discovery-banks-4-million-attack-surface-management-tech?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge Bug Could've Let Hackers Steal Your Secrets for Any Site<a href="https://thehackernews.com/2021/06/microsoft-edge-bug-couldve-let-hackers.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reported HMRC-Branded Phishing Scams Grew by 87% During COVID-19<a href="https://www.infosecurity-magazine.com:443/news/hmrc-phishing-scams-grew-covid/"> Full Text</a>
@@ -82,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The builder for Babuk Locker ransomware was leaked online<a href="https://securityaffairs.co/wordpress/119467/cyber-crime/babuk-locker-ransomware-builder.html"> Full Text</a>
@@ -102,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/home/security-news/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
@@ -118,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hive Ransomware Group Hive Leaks Stolen Files From Altus Group<a href="https://securityaffairs.co/wordpress/119418/cyber-crime/new-ransomware-group-hive-leaks-altus-group-sample-files.html?&web_view=true"> Full Text</a>
@@ -134,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Trick Microsoft Into Signing Netfilter Driver Loaded With Rootkit Malware<a href="https://thehackernews.com/2021/06/hackers-trick-microsoft-into-signing.html"> Full Text</a>
@@ -150,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mercedes Benz Data Leak Includes Card and Social Security Details<a href="https://www.infosecurity-magazine.com:443/news/mercedes-benz-leak-card-social/"> Full Text</a>
@@ -166,7 +182,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Six typosquatting packages in PyPI repository laced with crypto miner<a href="https://securityaffairs.co/wordpress/119459/cyber-crime/pypi-malicious-packages.html"> Full Text</a>
@@ -186,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaked Builder for Babuk Locker Ransomware Can be Used to Create Custom Ransomware Variants<a href="https://therecord.media/builder-for-babuk-locker-ransomware-leaked-online/?&web_view=true"> Full Text</a>
@@ -202,7 +218,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DMARC: The First Line of Defense Against Ransomware<a href="https://thehackernews.com/2021/06/dmarc-first-line-of-defense-against.html"> Full Text</a>
@@ -218,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sensitive Defense Documents Found at Bus Stop<a href="https://www.infosecurity-magazine.com:443/news/sensitive-defense-documents-bus/"> Full Text</a>
@@ -234,7 +250,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Security is Paramount in a Digital-First Economy?<a href="https://ciso.economictimes.indiatimes.com/news/why-security-is-paramount-in-a-digital-first-economy/83910422?&web_view=true"> Full Text</a>
@@ -250,7 +266,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Health Secretary Faces Probe Over Use of Personal Emails<a href="https://www.infosecurity-magazine.com:443/news/former-health-secretary-probe/"> Full Text</a>
@@ -266,7 +282,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India fails in cybersecurity literacy test: Study<a href="https://ciso.economictimes.indiatimes.com/news/india-fails-in-cybersecurity-literacy-test-study/83909931?&web_view=true"> Full Text</a>
@@ -282,7 +298,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Many companies believe it is important to protect employee privacy, yet few are effective in doing so<a href="https://www.helpnetsecurity.com/2021/06/28/protect-employee-privacy/?&web_view=true"> Full Text</a>
@@ -298,7 +314,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nefilim Ransomware Attack Through a MITRE Att&ck Lens<a href="https://www.trendmicro.com/en_us/research/21/f/nefilim-modern-ransomware-attack-story.html?&web_view=true"> Full Text</a>
@@ -314,7 +330,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Written in GoLang – A Growing Trend<a href="https://cyware.com/news/malware-written-in-golang-a-growing-trend-89fc6895"> Full Text</a>
@@ -330,7 +346,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2021
+June 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco ASA Flaw Under Active Attack After PoC Exploit Posted Online<a href="https://thehackernews.com/2021/06/cisco-asa-flaw-under-active-attack.html"> Full Text</a>
@@ -346,7 +362,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2021
+June 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hackers Breach Microsoft Customer Support to Target its Customers<a href="https://thehackernews.com/2021/06/solarwinds-hackers-breach-microsoft.html"> Full Text</a>
