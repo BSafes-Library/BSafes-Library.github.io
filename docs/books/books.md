@@ -34,4 +34,5 @@ nav_order: 400
 * [Social Media Awareness: The Impact of Social Media on Mental Health](https://papers.bsafes.com/docs/social-media/social-media-awareness-the-impact-of-social-media-on-mental-health/)
 * [The Bumble Bill: A Critical Analysis on Texas’s New Law Taking Indecent Exposure Regulations Online](https://papers.bsafes.com/docs/law/the-bumble-bill-a-critical-analysis-on-texass-new-law-taking-indecent-exposure-regulations-online/)
 * [The Red Swimsuit: Essays](https://papers.bsafes.com/docs/women/the-red-swimsuit-essays/)
+* [Unilateral Economic Sanctions and Protecting U.S. National Security](https://papers.bsafes.com/docs/politics/unilateral-economics-sanctions-and-protecting-us-national-security/)
 * [Who Owns Bitcoin? Private Law Facing the Blockchain](https://papers.bsafes.com/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain/)
