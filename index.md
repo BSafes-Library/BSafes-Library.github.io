@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Could curtailing cryptocurrency calm cyber crimewave?<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/could-curtailing-cryptocurrency-calm-cyber-crimewave/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most widely circulated policy ideas to curtail ransomware would be to treat cryptocurrencies as a bonafide component of the financial system: require cryptocurrency exchanges to abide by regulations that reduce anonymity and prevent money laundering. SC Media broke down the potential.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data for 700M LinkedIn Users Posted for Sale in Cyber-Underground<a href="https://threatpost.com/data-700m-linkedin-users-cyber-underground/167362/"> Full Text</a>
 </p>
 <details>
