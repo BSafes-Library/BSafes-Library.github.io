@@ -198,6 +198,18 @@ After coming across sexually explicit messages between sixteen-yearold Channing 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Digitizing the ‘Ideal’ Latina Information Worker [HTML](https://papers.bsafes.com/docs/work/digitizing-the-ideal-latina-information-worker/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent examples of virtual assistant technologies designed as Latina information service workers are noteworthy objects of study for their potential to bridge analyses of Latinas’ labor history and information technology.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
