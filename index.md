@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Attackers Breach Microsoft Customer Service Accounts<a href="https://threatpost.com/russian-attackers-breach-microsoft/167340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American IT companies and government have been targeted by the Nobelium state-sponsored group.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Court dismisses FTC, state antitrust cases against Facebook | YouTube 'mistakenly' suspends Right Wing Watch | Report finds costs of cyberattacks could exceed natural disasters<a href="https://thehill.com//policy/technology/overnights/560609-hillicon-valley-court-dismisses-ftc-state-antitrust-cases"> Full Text</a>
 </p>
 <details>
