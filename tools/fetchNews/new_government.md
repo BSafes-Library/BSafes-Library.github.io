@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US the Only Top Tier Cyber-power<a href="https://www.infosecurity-magazine.com:443/news/us-only-top-tier-cyberpower/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report finds other countries lag behind US when it comes to cyber prowess
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Secret Service Releases 'Most Wanted' Cyber Fugitive List<a href="https://www.bankinfosecurity.com/us-secret-service-releases-most-wanted-cyber-fugitive-list-a-16942?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Secret Service is offering rewards of up to $1 million for information leading to the arrests of two suspects who allegedly targeted the U.S. SEC's EDGAR system server in 2016.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seamless EU-UK Data Flows to Continue Following Adequacy Decisions<a href="https://www.infosecurity-magazine.com:443/news/seamless-eu-uk-data-flows-adequacy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move will allow the flow of personal data between the two regions to continue seamlessly
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

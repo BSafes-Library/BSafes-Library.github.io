@@ -11,6 +11,62 @@ nav_order: 900029
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Attackers Breach Microsoft Customer Service Accounts<a href="https://threatpost.com/russian-attackers-breach-microsoft/167340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American IT companies and government have been targeted by the Nobelium state-sponsored group. &nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz cloud data exposure shines spotlight on third-party risk<a href="https://www.scmagazine.com/home/security-news/cloud-security/mercedes-benz-cloud-data-exposure-shines-spotlight-on-third-party-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mercedes-Benz leak highlights an issue that security teams keep seeing time and again: Private data that’s accidentally left publicly accessible on a cloud storage platform by a vendor.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Details of Over 200,000 Students Leaked After Cyberattack on AcadeME<a href="https://www.jpost.com/israel-news/details-of-over-200000-students-leaked-in-cyberattack-672179?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claimed that they leaked emails, passwords, first and last names, addresses, and even phone numbers of over 200,000 students who were registered on AcadeME since 2014.
+</details>
+<div style="text-align: right" markdown="1">
+The Jerusalem Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kentucky Healthcare System Exposes Patients’ PHI<a href="https://www.infosecurity-magazine.com:443/news/kentucky-healthcare-system-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UofL Health sends PHI of 42,000 patients to incorrect email addresses
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The builder for Babuk Locker ransomware was leaked online<a href="https://securityaffairs.co/wordpress/119467/cyber-crime/babuk-locker-ransomware-builder.html"> Full Text</a>
 </p>
 <details>

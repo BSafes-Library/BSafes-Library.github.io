@@ -8,6 +8,20 @@ nav_order: 800050
 
 ## 5G
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5G Security Vulnerabilities Fluster Mobile Operators<a href="https://threatpost.com/mobile-operators-5g-security-vulnerabilities/167354/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey from GSMA and Trend Micro shows a concerning lack of security capabilities for private 5G networks (think factories, smart cities, industrial IoT, utilities and more).
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

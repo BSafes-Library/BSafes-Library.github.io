@@ -11,6 +11,20 @@ nav_order: 900180
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware's new Linux encryptor targets ESXi virtual machines<a href="https://www.bleepingcomputer.com/news/security/revil-ransomwares-new-linux-encryptor-targets-esxi-virtual-machines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation is now using a Linux encryptor that targets and encrypts Vmware ESXi virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Leaked Builder for Babuk Locker Ransomware Can be Used to Create Custom Ransomware Variants<a href="https://therecord.media/builder-for-babuk-locker-ransomware-leaked-online/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

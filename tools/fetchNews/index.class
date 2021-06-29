@@ -34,6 +34,362 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Breach Microsoft Customer Service Accounts<a href="https://threatpost.com/russian-attackers-breach-microsoft/167340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American IT companies and government have been targeted by the Nobelium state-sponsored group.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Court dismisses FTC, state antitrust cases against Facebook | YouTube 'mistakenly' suspends Right Wing Watch | Report finds costs of cyberattacks could exceed natural disasters<a href="https://thehill.com//policy/technology/overnights/560609-hillicon-valley-court-dismisses-ftc-state-antitrust-cases"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Washington’s crackdown on the market power of Big Tech hit a roadblock Monday, after a D.C. federal court dismissed two antitrust cases brought against Facebook. The update comes after the House Judiciary Committee last week advanced six bills aimed at giving regulators more authority to rein in the power of the tech companies, and supporters of the bills are using the dismissal to boost the bills as they head to a full floor vote (see top Republican on the House antitrust subcommittee Colorado Rep. Ken BuckKenneth (Ken) Robert BuckCalifornia Democrats clash over tech antitrust fight Tech antitrust bills create strange bedfellows in House markup Tech industry pushes for delay in antitrust legislation MORE’s reaction here).
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scant evidence that cyber insurance boom is leading to better security<a href="https://www.scmagazine.com/home/security-news/ransomware/scant-evidence-that-cyber-insurance-boom-is-leading-to-better-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A British study calls for a ‘reset’ in cyber insurance, calling the current model unsustainable and possibly ineffective.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report estimates major cyberattack could cost more than recovering from natural disasters<a href="https://thehill.com//policy/cybersecurity/560604-report-estimates-major-cyberattack-could-cost-more-than-recovering-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cost of a major cyberattack on a critical major U.S. utility or service provider could equate to that of a natural disaster such as a hurricane, a report released Monday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware's new Linux encryptor targets ESXi virtual machines<a href="https://www.bleepingcomputer.com/news/security/revil-ransomwares-new-linux-encryptor-targets-esxi-virtual-machines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation is now using a Linux encryptor that targets and encrypts Vmware ESXi virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [5G](/docs/issues/5g/5g/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5G Security Vulnerabilities Fluster Mobile Operators<a href="https://threatpost.com/mobile-operators-5g-security-vulnerabilities/167354/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey from GSMA and Trend Micro shows a concerning lack of security capabilities for private 5G networks (think factories, smart cities, industrial IoT, utilities and more).
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mercedes-Benz cloud data exposure shines spotlight on third-party risk<a href="https://www.scmagazine.com/home/security-news/cloud-security/mercedes-benz-cloud-data-exposure-shines-spotlight-on-third-party-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mercedes-Benz leak highlights an issue that security teams keep seeing time and again: Private data that’s accidentally left publicly accessible on a cloud storage platform by a vendor.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Patches High-Severity GeForce Spoof-Attack Bug<a href="https://threatpost.com/nvidia-high-severity-geforce-spoof-bug/167345/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in NVIDIA’s GeForce Experience software opens the door to remote data access, manipulation and deletion.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs now creating websites to recruit affiliates<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-creating-websites-to-recruit-affiliates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever since two prominent Russian-speaking cybercrime forums banned ransomware-related topics [1, 2], criminal operations have been forced to promote their service through alternative methods.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US the Only Top Tier Cyber-power<a href="https://www.infosecurity-magazine.com:443/news/us-only-top-tier-cyberpower/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report finds other countries lag behind US when it comes to cyber prowess
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsBlur Restores Service After Hacker Wipes Database<a href="https://www.securityweek.com/newsblur-restores-service-after-hacker-wipes-database?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker was able to gain access to the database while the RSS reader was being transitioned to Docker, which circumvented some firewall rules and opened the NewsBlur MongoDB database to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costs from ransomware attack against Ireland health system reach $600M<a href="https://www.scmagazine.com/home/security-news/ransomware/costs-from-ransomware-attack-against-ireland-health-system-reach-600m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland Health Service Executive, which is still operating under electronic health record downtime six weeks after the attack, intends to implement a security operation center able to better monitor the network for potential threats.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sizing Up the Security Features Slated for Windows 11<a href="https://www.bankinfosecurity.com/sizing-up-security-features-slated-for-windows-11-a-16943?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's decision to offload more security requirements onto hardware is the right move, some security experts say. But many firms running older gear could have a hard time taking advantage of it.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Exploit Found in Adobe Experience Manager<a href="https://www.infosecurity-magazine.com:443/news/zero-day-exploit-found-in-adobe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ethical hackers find bug in popular content management solution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Details of Over 200,000 Students Leaked After Cyberattack on AcadeME<a href="https://www.jpost.com/israel-news/details-of-over-200000-students-leaked-in-cyberattack-672179?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claimed that they leaked emails, passwords, first and last names, addresses, and even phone numbers of over 200,000 students who were registered on AcadeME since 2014.
+</details>
+<div style="text-align: right" markdown="1">
+The Jerusalem Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CISO Initiatives for the Second Half of 2021<a href="https://threatpost.com/critical-ciso-initiatives-2021/167309/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nilesh Dherange, CTO at Gurucul, goes over what defenses CISOs need now, and how and why to prioritize the options.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Secret Service Releases 'Most Wanted' Cyber Fugitive List<a href="https://www.bankinfosecurity.com/us-secret-service-releases-most-wanted-cyber-fugitive-list-a-16942?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Secret Service is offering rewards of up to $1 million for information leading to the arrests of two suspects who allegedly targeted the U.S. SEC's EDGAR system server in 2016.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kentucky Healthcare System Exposes Patients’ PHI<a href="https://www.infosecurity-magazine.com:443/news/kentucky-healthcare-system-exposes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UofL Health sends PHI of 42,000 patients to incorrect email addresses
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS Acquires Encrypted Communications Service Wickr<a href="https://www.securityweek.com/aws-acquires-encrypted-communications-service-wickr?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon’s AWS subsidiary on Friday announced the acquisition of Wickr, a late-stage startup that sells end-to-end encrypted communications tools. Financial terms of the transaction were not released.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seamless EU-UK Data Flows to Continue Following Adequacy Decisions<a href="https://www.infosecurity-magazine.com:443/news/seamless-eu-uk-data-flows-adequacy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move will allow the flow of personal data between the two regions to continue seamlessly
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft investigates threat actor distributing malicious Netfilter Driver<a href="https://securityaffairs.co/wordpress/119476/malware/netfilter-driver-microsoft-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating an strange attack, threat actor used a driver signed by the company, the Netfilter Driver, to implant a Rootkit.
+
+
+
+Microsoft announced it is investigating a threat actor distributing malicious drivers in attacks aimed at the gaming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/perspectives/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former DHS CIO Karen Evans and Parham Eftekhari of the Cybersecurity Collaborative and ICIT detail how business leaders can prioritize cybersecurity alongside traditional corporate objectives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

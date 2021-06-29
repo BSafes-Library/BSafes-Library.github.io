@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sizing Up the Security Features Slated for Windows 11<a href="https://www.bankinfosecurity.com/sizing-up-security-features-slated-for-windows-11-a-16943?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's decision to offload more security requirements onto hardware is the right move, some security experts say. But many firms running older gear could have a hard time taking advantage of it.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,90 @@ nav_order: 900072
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Court dismisses FTC, state antitrust cases against Facebook | YouTube 'mistakenly' suspends Right Wing Watch | Report finds costs of cyberattacks could exceed natural disasters<a href="https://thehill.com//policy/technology/overnights/560609-hillicon-valley-court-dismisses-ftc-state-antitrust-cases"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Washington’s crackdown on the market power of Big Tech hit a roadblock Monday, after a D.C. federal court dismissed two antitrust cases brought against Facebook. The update comes after the House Judiciary Committee last week advanced six bills aimed at giving regulators more authority to rein in the power of the tech companies, and supporters of the bills are using the dismissal to boost the bills as they head to a full floor vote (see top Republican on the House antitrust subcommittee Colorado Rep. Ken BuckKenneth (Ken) Robert BuckCalifornia Democrats clash over tech antitrust fight Tech antitrust bills create strange bedfellows in House markup Tech industry pushes for delay in antitrust legislation MORE’s reaction here).
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scant evidence that cyber insurance boom is leading to better security<a href="https://www.scmagazine.com/home/security-news/ransomware/scant-evidence-that-cyber-insurance-boom-is-leading-to-better-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A British study calls for a ‘reset’ in cyber insurance, calling the current model unsustainable and possibly ineffective.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report estimates major cyberattack could cost more than recovering from natural disasters<a href="https://thehill.com//policy/cybersecurity/560604-report-estimates-major-cyberattack-could-cost-more-than-recovering-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cost of a major cyberattack on a critical major U.S. utility or service provider could equate to that of a natural disaster such as a hurricane, a report released Monday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costs from ransomware attack against Ireland health system reach $600M<a href="https://www.scmagazine.com/home/security-news/ransomware/costs-from-ransomware-attack-against-ireland-health-system-reach-600m/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland Health Service Executive, which is still operating under electronic health record downtime six weeks after the attack, intends to implement a security operation center able to better monitor the network for potential threats.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CISO Initiatives for the Second Half of 2021<a href="https://threatpost.com/critical-ciso-initiatives-2021/167309/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nilesh Dherange, CTO at Gurucul, goes over what defenses CISOs need now, and how and why to prioritize the options.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/perspectives/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former DHS CIO Karen Evans and Parham Eftekhari of the Cybersecurity Collaborative and ICIT detail how business leaders can prioritize cybersecurity alongside traditional corporate objectives.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/home/security-news/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
 </p>
 <details>

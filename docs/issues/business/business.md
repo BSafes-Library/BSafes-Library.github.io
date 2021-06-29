@@ -11,6 +11,20 @@ nav_order: 900027
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AWS Acquires Encrypted Communications Service Wickr<a href="https://www.securityweek.com/aws-acquires-encrypted-communications-service-wickr?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon’s AWS subsidiary on Friday announced the acquisition of Wickr, a late-stage startup that sells end-to-end encrypted communications tools. Financial terms of the transaction were not released.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Bit Discovery Banks $4 Million for Attack Surface Management Tech<a href="https://www.securityweek.com/bit-discovery-banks-4-million-attack-surface-management-tech?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

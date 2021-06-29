@@ -11,6 +11,34 @@ nav_order: 900220
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Patches High-Severity GeForce Spoof-Attack Bug<a href="https://threatpost.com/nvidia-high-severity-geforce-spoof-bug/167345/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in NVIDIA’s GeForce Experience software opens the door to remote data access, manipulation and deletion.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Exploit Found in Adobe Experience Manager<a href="https://www.infosecurity-magazine.com:443/news/zero-day-exploit-found-in-adobe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ethical hackers find bug in popular content management solution
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge Bug Could've Let Hackers Steal Your Secrets for Any Site<a href="https://thehackernews.com/2021/06/microsoft-edge-bug-couldve-let-hackers.html"> Full Text</a>
 </p>
 <details>

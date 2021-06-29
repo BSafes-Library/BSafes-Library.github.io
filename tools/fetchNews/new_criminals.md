@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs now creating websites to recruit affiliates<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-creating-websites-to-recruit-affiliates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever since two prominent Russian-speaking cybercrime forums banned ransomware-related topics [1, 2], criminal operations have been forced to promote their service through alternative methods.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

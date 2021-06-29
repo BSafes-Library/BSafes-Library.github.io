@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Breach Microsoft Customer Service Accounts<a href="https://threatpost.com/russian-attackers-breach-microsoft/167340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American IT companies and government have been targeted by the Nobelium state-sponsored group.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Court dismisses FTC, state antitrust cases against Facebook | YouTube 'mistakenly' suspends Right Wing Watch | Report finds costs of cyberattacks could exceed natural disasters<a href="https://thehill.com//policy/technology/overnights/560609-hillicon-valley-court-dismisses-ftc-state-antitrust-cases"> Full Text</a>
@@ -50,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scant evidence that cyber insurance boom is leading to better security<a href="https://www.scmagazine.com/home/security-news/ransomware/scant-evidence-that-cyber-insurance-boom-is-leading-to-better-security/"> Full Text</a>
@@ -66,7 +82,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report estimates major cyberattack could cost more than recovering from natural disasters<a href="https://thehill.com//policy/cybersecurity/560604-report-estimates-major-cyberattack-could-cost-more-than-recovering-from"> Full Text</a>
@@ -82,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware's new Linux encryptor targets ESXi virtual machines<a href="https://www.bleepingcomputer.com/news/security/revil-ransomwares-new-linux-encryptor-targets-esxi-virtual-machines/"> Full Text</a>
@@ -98,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [5G](/docs/issues/5g/5g/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5G Security Vulnerabilities Fluster Mobile Operators<a href="https://threatpost.com/mobile-operators-5g-security-vulnerabilities/167354/"> Full Text</a>
@@ -114,7 +130,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mercedes-Benz cloud data exposure shines spotlight on third-party risk<a href="https://www.scmagazine.com/home/security-news/cloud-security/mercedes-benz-cloud-data-exposure-shines-spotlight-on-third-party-risk/"> Full Text</a>
@@ -130,7 +146,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA Patches High-Severity GeForce Spoof-Attack Bug<a href="https://threatpost.com/nvidia-high-severity-geforce-spoof-bug/167345/"> Full Text</a>
@@ -146,7 +162,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs now creating websites to recruit affiliates<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-creating-websites-to-recruit-affiliates/"> Full Text</a>
@@ -162,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US the Only Top Tier Cyber-power<a href="https://www.infosecurity-magazine.com:443/news/us-only-top-tier-cyberpower/"> Full Text</a>
@@ -178,7 +194,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewsBlur Restores Service After Hacker Wipes Database<a href="https://www.securityweek.com/newsblur-restores-service-after-hacker-wipes-database?&web_view=true"> Full Text</a>
@@ -194,7 +210,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Costs from ransomware attack against Ireland health system reach $600M<a href="https://www.scmagazine.com/home/security-news/ransomware/costs-from-ransomware-attack-against-ireland-health-system-reach-600m/"> Full Text</a>
@@ -210,7 +226,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sizing Up the Security Features Slated for Windows 11<a href="https://www.bankinfosecurity.com/sizing-up-security-features-slated-for-windows-11-a-16943?&web_view=true"> Full Text</a>
@@ -226,7 +242,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-day Exploit Found in Adobe Experience Manager<a href="https://www.infosecurity-magazine.com:443/news/zero-day-exploit-found-in-adobe/"> Full Text</a>
@@ -242,7 +258,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Details of Over 200,000 Students Leaked After Cyberattack on AcadeME<a href="https://www.jpost.com/israel-news/details-of-over-200000-students-leaked-in-cyberattack-672179?&web_view=true"> Full Text</a>
@@ -258,7 +274,7 @@ The Jerusalem Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical CISO Initiatives for the Second Half of 2021<a href="https://threatpost.com/critical-ciso-initiatives-2021/167309/"> Full Text</a>
@@ -274,7 +290,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Secret Service Releases 'Most Wanted' Cyber Fugitive List<a href="https://www.bankinfosecurity.com/us-secret-service-releases-most-wanted-cyber-fugitive-list-a-16942?&web_view=true"> Full Text</a>
@@ -290,7 +306,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kentucky Healthcare System Exposes Patients’ PHI<a href="https://www.infosecurity-magazine.com:443/news/kentucky-healthcare-system-exposes/"> Full Text</a>
@@ -306,7 +322,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS Acquires Encrypted Communications Service Wickr<a href="https://www.securityweek.com/aws-acquires-encrypted-communications-service-wickr?&web_view=true"> Full Text</a>
@@ -322,7 +338,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Seamless EU-UK Data Flows to Continue Following Adequacy Decisions<a href="https://www.infosecurity-magazine.com:443/news/seamless-eu-uk-data-flows-adequacy/"> Full Text</a>
@@ -338,7 +354,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft investigates threat actor distributing malicious Netfilter Driver<a href="https://securityaffairs.co/wordpress/119476/malware/netfilter-driver-microsoft-attack.html"> Full Text</a>
@@ -358,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An ‘operational imperative and competitive advantage’: CEOs must lead whole of nation response to ransomware<a href="https://www.scmagazine.com/perspectives/an-operational-imperative-and-competitive-advantage-ceos-must-lead-whole-of-nation-response-to-ransomware/"> Full Text</a>
