@@ -34,6 +34,280 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Halo dev site breached using dependency hijacking<a href="https://www.bleepingcomputer.com/news/security/microsofts-halo-dev-site-breached-using-dependency-hijacking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has once again been successfully hit by a dependency hijacking attack. This month, another researcher found an npm internal dependency being used by an open-source project. After publishing a public dependency by the same name, he began receiving messages from Microsoft's Halo game dev servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Variant Uses Golang Packer<a href="https://www.crowdstrike.com/blog/new-ransomware-variant-uses-golang-packer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike recently observed a ransomware sample borrowing implementations from previous HelloKitty and FiveHands variants and using a Golang packer compiled with the most recent version of Golang.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Virtual Machine Takeover Bug Affects Google Compute Engine<a href="https://thehackernews.com/2021/06/unpatched-virtual-machine-takeover-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched security vulnerability affecting Google's Compute Engine platform could be abused by an attacker to take over virtual machines over the network.  "This is done by impersonating the metadata server from the targeted virtual machine's point of view," security researcher Imre Rad said in an  analysis  published Friday. "By mounting this exploit, the attacker can grant access to themselves over SSH (public key authentication) so then they can login as the root user."  Google Compute Engine ( GCE ) is an infrastructure-as-a-service (IaaS) component of Google Cloud Platform that enables users to create and launch virtual machines (VMs) on demand. GCE provides a method for storing and retrieving metadata in the form of the  metadata server , which offers a central point to set metadata in the form of key-value pairs that's then provided to virtual machines at runtime.   According to the researcher, the issue is a consequence of weak pseudo-random
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of REvil ransomware targets ESXi VM<a href="https://securityaffairs.co/wordpress/119497/cyber-crime/revil-ransomware-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators added a Linux encryptor to their arsenal to encrypt Vmware ESXi virtual machines.
+
+
+
+The REvil ransomware operators are now using a Linux encryptor to encrypts Vmware ESXi virtual machines which are widely adopted by enterprises.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ursnif Operators Leverage Cerberus to Automate Fraudulent Bank Transfers in Italy<a href="https://cyware.com/news/ursnif-operators-leverage-cerberus-to-automate-fraudulent-bank-transfers-in-italy-096ec31b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of Ursnif Trojan is being used in the wild to target online banking users in Italy. As a part of the attack, the trojan tricks desktop users into downloading an app from a fake Google Play page to infect their mobile device with the Cerberus malware. Users are recommended to avoid clickin ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New API Lets App Developers Authenticate Users via SIM Cards<a href="https://thehackernews.com/2021/06/new-api-lets-app-developers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online account creation poses a challenge for engineers and system architects: if you put up too many barriers, you risk turning away genuine users. Make it too easy, and you risk fraud or fake accounts.  The Problem with Identity Verification  The traditional model of online identity – username/email and password – has long outlived its usefulness. This is how multi-factor or two-factor authentication (MFA or 2FA) has come into play, to patch up vulnerabilities of the so-called knowledge-based model, usually by SMS passcode to verify possession of a mobile phone number.  The simplicity of SMS-based verification has taken apps by storm – it's the default option, as most users have a mobile phone. Yet bad actors have learned how to exploit this verification method, leading to the menace of  SIM swap fraud , which is alarmingly easy to pull off and rising rapidly in incidents.  There's been no lack of effort in finding a more secure factor that is still universal. For example, b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts developed a free decryptor for the Lorenz ransomware<a href="https://securityaffairs.co/wordpress/119492/cyber-crime/lorenz-ransomware-free-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed a recently discovered threat, the Lorenz ransomware, and developed a free decryptor for the victims of this new operation. 
+
+
+
+The Lorenz ransomware gang has been active since April and hit multiple organizations worldwide demanding...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pirated Games Spreading Cryptojacking Malware<a href="https://cyware.com/news/pirated-games-spreading-cryptojacking-malware-77f99c79"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast stumbled across the Crackonosh malware operation that helped cybercriminals yield at least $2 million in illegal Monero mining by compromising over 222,000 systems worldwide. Therefore, users are recommended to use genuine software to prevent any cyber-incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google now requires app developers to verify their address and use 2FA<a href="https://thehackernews.com/2021/06/google-now-requires-app-developers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday announced  new measures  for the Play Store, including requiring developer accounts to turn on 2-Step Verification (2SV), provide an address, and verify their contact details later this year.  The new identification and two-factor authentication requirements are a step towards strengthening account security and ensuring a safe and secure app marketplace, Google Play Trust and Safety team said.   As part of the changes, individual users and businesses in possession of Google Play developer accounts will be asked to specify an account type (personal or organization), a contact name, their physical address, as well as verifying the email address and phone number provided during account creation.  In addition, the search giant is also mandating users of Google Play Console to sign in using Google's 2-Step Verification to prevent account takeover attacks.   According to the timeline shared by Google, developer account owners will be able to declare their account type a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub paid out over $500K through its bug bounty program for 203 flaws in 2020<a href="https://securityaffairs.co/wordpress/119487/security/github-bug-bounty-2020.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code repository hosting service GitHub announced that it has paid out more than $1.5 million through its bug bounty program since 2016.
+
+
+
+Code repository hosting service GitHub announced that it has paid $524,250 through its bug bounty program for 203 vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors are Targeting Firewall and VPN Devices<a href="https://cyware.com/news/threat-actors-are-targeting-firewall-and-vpn-devices-4cdc403b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment vendor Zyxel has emailed customers to alert them about a cyberattack targeting its high-end enterprise-focused firewall and VPN server products. Attacks against firewalls, VPN servers, and load balancers have become common. Such attacks are becoming prominent and being carried  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out for Cascading Extortion Threats!<a href="https://cyware.com/news/watch-out-for-cascading-extortion-threats-13f4784f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators are resorting to different extortion tactics to intensify the stress on victims for greater ransom payouts. There are four new extortion tactics observed by the Hong Kong CERT Coordination Centre.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spear Phishing Campaign with New Techniques Takes Aim at Aviation Companies<a href="https://www.fortinet.com/blog/threat-research/spear-phishing-campaign-with-new-techniques-aimed-at-aviation-companies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, a malicious link that distributes an AsyncRAT payload is sent to aviation companies with a well-crafted message. AsyncRAT is used to steal credentials and other sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to require 2FA and a physical address from Android app devs<a href="https://therecord.media/google-to-require-2fa-and-a-physical-address-from-android-app-devs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After seeing an increase in fraud and malicious developer accounts, Google announced plans to require additional identity verification from developers who want to list apps on the official Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Could curtailing cryptocurrency calm cyber crime wave?<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/could-curtailing-cryptocurrency-calm-cyber-crime-wave/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most widely circulated policy ideas to curtail ransomware would be to treat cryptocurrencies as a bonafide component of the financial system: require cryptocurrency exchanges to abide by regulations that reduce anonymity and prevent money laundering. SC Media broke down the potential.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Signs Malware That Spreads Through Gaming<a href="https://threatpost.com/microsoft-malicious-rootkit-gaming/167323/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The driver, called “Netfilter,” is a rootkit that talks to Chinese C2 IPs and aims to spoof gamers’ geo-locations to cheat the system and play from anywhere, Microsoft said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
