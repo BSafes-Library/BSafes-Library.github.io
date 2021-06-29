@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Virtual Machine Takeover Bug Affects Google Compute Engine<a href="https://thehackernews.com/2021/06/unpatched-virtual-machine-takeover-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched security vulnerability affecting Google's Compute Engine platform could be abused by an attacker to take over virtual machines over the network.  "This is done by impersonating the metadata server from the targeted virtual machine's point of view," security researcher Imre Rad said in an&nbsp; analysis &nbsp;published Friday. "By mounting this exploit, the attacker can grant access to themselves over SSH (public key authentication) so then they can login as the root user."  Google Compute Engine ( GCE ) is an infrastructure-as-a-service (IaaS) component of Google Cloud Platform that enables users to create and launch virtual machines (VMs) on demand. GCE provides a method for storing and retrieving metadata in the form of the&nbsp; metadata server , which offers a central point to set metadata in the form of key-value pairs that's then provided to virtual machines at runtime.   According to the researcher, the issue is a consequence of weak pseudo-random
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub paid out over $500K through its bug bounty program for 203 flaws in 2020<a href="https://securityaffairs.co/wordpress/119487/security/github-bug-bounty-2020.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code repository hosting service&nbsp;GitHub announced that it has paid out more than $1.5 million through its bug bounty program since 2016.
+
+
+
+Code repository hosting service&nbsp;GitHub announced that it has paid $524,250&nbsp;through its bug bounty program for 203 vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

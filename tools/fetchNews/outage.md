@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsBlur Restores Service After Hacker Wipes Database<a href="https://www.securityweek.com/newsblur-restores-service-after-hacker-wipes-database?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker was able to gain access to the database while the RSS reader was being transitioned to Docker, which circumvented some firewall rules and opened the NewsBlur MongoDB database to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

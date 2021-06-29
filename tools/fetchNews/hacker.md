@@ -11,6 +11,24 @@ nav_order: 900080
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft investigates threat actor distributing malicious Netfilter Driver<a href="https://securityaffairs.co/wordpress/119476/malware/netfilter-driver-microsoft-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating an strange attack, threat actor used a driver signed by the company, the Netfilter Driver, to implant a Rootkit.
+
+
+
+Microsoft announced it is investigating a threat actor distributing malicious drivers in attacks aimed at the gaming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Trick Microsoft Into Signing Netfilter Driver Loaded With Rootkit Malware<a href="https://thehackernews.com/2021/06/hackers-trick-microsoft-into-signing.html"> Full Text</a>
 </p>
 <details>

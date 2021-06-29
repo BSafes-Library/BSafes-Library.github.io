@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Halo dev site breached using dependency hijacking<a href="https://www.bleepingcomputer.com/news/security/microsofts-halo-dev-site-breached-using-dependency-hijacking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has once again been successfully hit by a dependency hijacking attack. This month, another researcher found an npm internal dependency being used by an open-source project. After publishing a public dependency by the same name, he began receiving messages from Microsoft's Halo game dev servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data for 700M LinkedIn Users Posted for Sale in Cyber-Underground<a href="https://threatpost.com/data-700m-linkedin-users-cyber-underground/167362/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After 500 million LinkedIn enthusiasts were affected in a data-scraping incident in April, it’s happened again – with big security ramifications.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

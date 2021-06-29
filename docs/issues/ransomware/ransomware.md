@@ -8,6 +8,42 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Variant Uses Golang Packer<a href="https://www.crowdstrike.com/blog/new-ransomware-variant-uses-golang-packer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike recently observed a ransomware sample borrowing implementations from previous HelloKitty and FiveHands variants and using a Golang packer compiled with the most recent version of Golang.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of REvil ransomware targets ESXi VM<a href="https://securityaffairs.co/wordpress/119497/cyber-crime/revil-ransomware-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operators added a Linux encryptor to their arsenal to encrypt Vmware ESXi virtual machines.
+
+
+
+The REvil ransomware operators are now using a Linux encryptor to encrypts Vmware ESXi virtual machines which are widely adopted by enterprises.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

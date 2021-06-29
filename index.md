@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's Halo dev site breached using dependency hijacking<a href="https://www.bleepingcomputer.com/news/security/microsofts-halo-dev-site-breached-using-dependency-hijacking/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Variant Uses Golang Packer<a href="https://www.crowdstrike.com/blog/new-ransomware-variant-uses-golang-packer/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Virtual Machine Takeover Bug Affects Google Compute Engine<a href="https://thehackernews.com/2021/06/unpatched-virtual-machine-takeover-bug.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux version of REvil ransomware targets ESXi VM<a href="https://securityaffairs.co/wordpress/119497/cyber-crime/revil-ransomware-linux.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ursnif Operators Leverage Cerberus to Automate Fraudulent Bank Transfers in Italy<a href="https://cyware.com/news/ursnif-operators-leverage-cerberus-to-automate-fraudulent-bank-transfers-in-italy-096ec31b"> Full Text</a>
@@ -123,7 +123,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New API Lets App Developers Authenticate Users via SIM Cards<a href="https://thehackernews.com/2021/06/new-api-lets-app-developers.html"> Full Text</a>
@@ -139,7 +139,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts developed a free decryptor for the Lorenz ransomware<a href="https://securityaffairs.co/wordpress/119492/cyber-crime/lorenz-ransomware-free-decryptor.html"> Full Text</a>
@@ -159,7 +159,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pirated Games Spreading Cryptojacking Malware<a href="https://cyware.com/news/pirated-games-spreading-cryptojacking-malware-77f99c79"> Full Text</a>
@@ -175,7 +175,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google now requires app developers to verify their address and use 2FA<a href="https://thehackernews.com/2021/06/google-now-requires-app-developers-to.html"> Full Text</a>
@@ -191,7 +191,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub paid out over $500K through its bug bounty program for 203 flaws in 2020<a href="https://securityaffairs.co/wordpress/119487/security/github-bug-bounty-2020.html"> Full Text</a>
@@ -211,7 +211,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors are Targeting Firewall and VPN Devices<a href="https://cyware.com/news/threat-actors-are-targeting-firewall-and-vpn-devices-4cdc403b"> Full Text</a>
@@ -228,7 +228,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch Out for Cascading Extortion Threats!<a href="https://cyware.com/news/watch-out-for-cascading-extortion-threats-13f4784f"> Full Text</a>
@@ -244,7 +244,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spear Phishing Campaign with New Techniques Takes Aim at Aviation Companies<a href="https://www.fortinet.com/blog/threat-research/spear-phishing-campaign-with-new-techniques-aimed-at-aviation-companies?&web_view=true"> Full Text</a>
@@ -260,7 +260,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to require 2FA and a physical address from Android app devs<a href="https://therecord.media/google-to-require-2fa-and-a-physical-address-from-android-app-devs/?&web_view=true"> Full Text</a>
@@ -276,7 +276,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Could curtailing cryptocurrency calm cyber crime wave?<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/could-curtailing-cryptocurrency-calm-cyber-crime-wave/"> Full Text</a>
@@ -292,7 +292,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Signs Malware That Spreads Through Gaming<a href="https://threatpost.com/microsoft-malicious-rootkit-gaming/167323/"> Full Text</a>
@@ -308,7 +308,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Could curtailing cryptocurrency calm cyber crimewave?<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/could-curtailing-cryptocurrency-calm-cyber-crimewave/"> Full Text</a>
@@ -324,7 +324,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2021
+June 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data for 700M LinkedIn Users Posted for Sale in Cyber-Underground<a href="https://threatpost.com/data-700m-linkedin-users-cyber-underground/167362/"> Full Text</a>

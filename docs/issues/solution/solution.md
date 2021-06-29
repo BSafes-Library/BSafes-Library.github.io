@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New API Lets App Developers Authenticate Users via SIM Cards<a href="https://thehackernews.com/2021/06/new-api-lets-app-developers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online account creation poses a challenge for engineers and system architects: if you put up too many barriers, you risk turning away genuine users. Make it too easy, and you risk fraud or fake accounts.  The Problem with Identity Verification  The traditional model of online identity – username/email and password – has long outlived its usefulness. This is how multi-factor or two-factor authentication (MFA or 2FA) has come into play, to patch up vulnerabilities of the so-called knowledge-based model, usually by SMS passcode to verify possession of a mobile phone number.  The simplicity of SMS-based verification has taken apps by storm – it's the default option, as most users have a mobile phone. Yet bad actors have learned how to exploit this verification method, leading to the menace of&nbsp; SIM swap fraud , which is alarmingly easy to pull off and rising rapidly in incidents.  There's been no lack of effort in finding a more secure factor that is still universal. For example, b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts developed a free decryptor for the Lorenz ransomware<a href="https://securityaffairs.co/wordpress/119492/cyber-crime/lorenz-ransomware-free-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed a recently discovered threat, the Lorenz ransomware, and developed a free decryptor for the victims of this new operation. 
+
+
+
+The Lorenz ransomware gang has been active since April and hit multiple organizations worldwide demanding...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google now requires app developers to verify their address and use 2FA<a href="https://thehackernews.com/2021/06/google-now-requires-app-developers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday announced&nbsp; new measures &nbsp;for the Play Store, including requiring developer accounts to turn on 2-Step Verification (2SV), provide an address, and verify their contact details later this year.  The new identification and two-factor authentication requirements are a step towards strengthening account security and ensuring a safe and secure app marketplace, Google Play Trust and Safety team said.   As part of the changes, individual users and businesses in possession of Google Play developer accounts will be asked to specify an account type (personal or organization), a contact name, their physical address, as well as verifying the email address and phone number provided during account creation.  In addition, the search giant is also mandating users of Google Play Console to sign in using Google's 2-Step Verification to prevent account takeover attacks.   According to the timeline shared by Google, developer account owners will be able to declare their account type a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
