@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware decryptor recovers victims' files for free<a href="https://www.bleepingcomputer.com/news/security/lorenz-ransomware-decryptor-recovers-victims-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch cybersecurity firm Tesorion has released a free decryptor for the Lorenz ransomware, allowing victims to recover some of their files for free without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple encrypts its iCloud data on Google, AWS clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/apple-encrypts-its-icloud-data-on-google-aws-clouds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple had become Google’s largest customer of cloud data services, with the company’s encryption standards viewed as a positive development by some security researchers, who said more companies need to take the shared responsibility model with cloud service providers seriously.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers use zero-day to mass-wipe My Book Live devices<a href="https://www.bleepingcomputer.com/news/security/hackers-use-zero-day-to-mass-wipe-my-book-live-devices/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Parcel delivery scammers targeting people with personalised messages<a href="https://timesofmalta.com/articles/view/parcel-delivery-scammers-targeting-people-with-personalised-messages.882985?&web_view=true"> Full Text</a>
@@ -66,7 +98,7 @@ Times of Malta
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Administration to release attribution for Microsoft vulnerabilities in 'coming weeks' | Facebook rolling out new newsletter feature | Parler refused Trump demand to ban his critics: book<a href="https://thehill.com//policy/technology/overnights/560815-hillicon-valley-administration-to-release-attribution-for"> Full Text</a>
@@ -82,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LinkedIn breach exposes data of 700 Million users<a href="https://securityaffairs.co/wordpress/119513/data-breach/new-linkedin-breach-exposes-data-of-700-million-users.html"> Full Text</a>
@@ -102,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industry groups worry that cyber may get lost amid the contracting morass of federal orders<a href="https://www.scmagazine.com/home/government/industry-groups-worry-that-cyber-may-got-lost-amid-the-contracting-morass-of-federal-orders/"> Full Text</a>
@@ -118,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Users Clueless About Cybersecurity Risks: Study<a href="https://threatpost.com/users-clueless-cybersecurity-risks-study/167404/"> Full Text</a>
@@ -134,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 includes the DNS-over-HTTPS privacy feature - How to use<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-includes-the-dns-over-https-privacy-feature-how-to-use/"> Full Text</a>
@@ -150,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NFC flaws let researchers hack an ATM by waving a phone<a href="https://arstechnica.com/information-technology/2021/06/nfc-flaws-let-researchers-hack-an-atm-by-waving-a-phone/?&web_view=true"> Full Text</a>
@@ -166,7 +198,7 @@ Ars Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House lawmakers propose major budget increase for key cyber agency<a href="https://thehill.com//policy/cybersecurity/560806-house-lawmakers-propose-major-budget-increase-for-key-cyber-agency"> Full Text</a>
@@ -182,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC exploit for CVE-2021-1675 RCE started circulating online<a href="https://securityaffairs.co/wordpress/119502/hacking/2021-1675-rce-poc.html"> Full Text</a>
@@ -202,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pandemic hasn’t stemmed the rise of privacy salaries, but there is still some work to do<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/pandemic-hasnt-stemmed-the-rise-of-privacy-salaries-but-there-is-still-some-work-to-do/"> Full Text</a>
@@ -218,7 +250,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Translation Bugs Open Edge Browser to Trivial UXSS Attacks<a href="https://threatpost.com/microsoft-edge-browser-uxss-attacks/167389/"> Full Text</a>
@@ -234,7 +266,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers had months-long access to Denmark's central bank<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-had-months-long-access-to-denmarks-central-bank/"> Full Text</a>
@@ -250,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvuln Project Catalogues 260 Vulnerabilities Found in Malware<a href="https://www.securityweek.com/malvuln-project-catalogues-260-vulnerabilities-found-malware?&web_view=true"> Full Text</a>
@@ -266,7 +298,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Administration to release attribution for Microsoft vulnerabilities in 'coming weeks'<a href="https://thehill.com//policy/cybersecurity/560750-biden-administration-to-attribute-blame-for-microsoft-exchange-server"> Full Text</a>
@@ -282,7 +314,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More ‘actionable’ intel needed from HHS to support health IT security<a href="https://www.scmagazine.com/home/security-news/more-actionable-intel-needed-from-hhs-to-support-health-it-security/"> Full Text</a>
@@ -298,7 +330,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoubleVPN servers, logs, and account info seized by law enforcement<a href="https://www.bleepingcomputer.com/news/security/doublevpn-servers-logs-and-account-info-seized-by-law-enforcement/"> Full Text</a>
@@ -314,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts developed a free decryptor for the Lorenz ransomware<a href="https://securityaffairs.co/wordpress/119492/cyber-crime/lorenz-ransomware-free-decryptor.html?&web_view=true"> Full Text</a>
@@ -330,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neuberger: Banning ransom payments is a ‘difficult policy position’<a href="https://www.scmagazine.com/home/security-news/ransomware/neuberger-banning-paying-ransom-is-a-difficult-policy-position/"> Full Text</a>
@@ -346,7 +378,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Vulnerabilities Found in Several Phoenix Contact Industrial Products<a href="https://www.securityweek.com/high-severity-vulnerabilities-found-several-phoenix-contact-industrial-products?&web_view=true"> Full Text</a>
@@ -362,7 +394,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accenture Acquires 40th Company In 10 Months With Sentor Buy<a href="https://www.crn.com/news/security/accenture-acquires-40th-company-in-10-months-with-sentor-buy?&web_view=true"> Full Text</a>
@@ -378,7 +410,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cobalt Strike: Favorite Tool from APT to Crimeware<a href="https://www.proofpoint.com/us/blog/threat-insight/cobalt-strike-favorite-tool-apt-crimeware?&web_view=true"> Full Text</a>
@@ -394,7 +426,7 @@ Proofpoint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Releases 'Critical Software' Definition for US Agencies<a href="https://www.bankinfosecurity.com/nist-releases-critical-software-definition-for-us-agencies-a-16952?&web_view=true"> Full Text</a>

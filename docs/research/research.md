@@ -222,6 +222,18 @@ Recent examples of virtual assistant technologies designed as Latina information
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Assessing the Credibility of Cyber Adversaries [HTML](https://papers.bsafes.com/docs/hacker/assessing-the-credibility-of-cyber-adversaries/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Online communications are ever increasing, and we are constantly faced with the challenge of whether online information is credible or not. Being able to assess the credibility of others was once the work solely of intelligence agencies.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
