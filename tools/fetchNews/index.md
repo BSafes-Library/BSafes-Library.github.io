@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit a televised phone-in between President Putin and citizens at a TV show<a href="https://securityaffairs.co/wordpress/119559/hacking/putin-call-massive-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive cyber attack attempted to disrupt a televised phone-in between Russian President Vladimir Putin and the Rossiya 24 network.
+
+
+
+Hackers launched a massive cyberattack against the state-broadcast Rossiya 24 network while transmitting a show in which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA releases new ransomware self-assessment security audit tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-ransomware-self-assessment-security-audit-tool/"> Full Text</a>
 </p>
 <details>
