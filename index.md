@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Vendor incidents lead the 10 biggest health care data breaches of 2021 so far<a href="https://www.scmagazine.com/home/health-care/vendor-incidents-lead-the-10-biggest-health-care-data-breaches-of-2021-so-far/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+60 percent of the largest health care data breaches reported during the first half of 2021 were tied to vendor-related incidents, spotlighting the need to review third-party relationships.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Indian military personnel to train in US on cybersecurity, command in the offing<a href="https://www.hindustantimes.com/india-news/india-military-personnel-to-train-in-us-on-cybersecurity-command-in-the-offing-101625025032655.html?&web_view=true"> Full Text</a>
 </p>
 <details>
