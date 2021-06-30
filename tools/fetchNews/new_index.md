@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/security/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Windows 11 comes with a new optional feature called 'TPM Diagnostics' that allows administrators to query the data stored on a device's TPM security processor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Windows 11 comes with a new optional feature called 'TPM Diagnostics' that allows administrators to query the data stored on a device's TPM security processor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Vendor incidents lead the 10 biggest health care data breaches of 2021 so far<a href="https://www.scmagazine.com/home/health-care/vendor-incidents-lead-the-10-biggest-health-care-data-breaches-of-2021-so-far/"> Full Text</a>
 </p>
 <details>
