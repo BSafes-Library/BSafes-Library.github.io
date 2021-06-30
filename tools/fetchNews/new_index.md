@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Freshly Scraped LinkedIn Data of 88,000 US Business Owners Leaked on Hacker Forum<a href="https://cybernews.com/news/freshly-scraped-linkedin-data-of-88000-us-business-owners-shared-online/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database includes full names, email addresses, workplace information, and other data available publicly on their LinkedIn profiles. The archive was posted on a hacker forum for anyone to access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Enterprise API security startup Noname Security raises $60M<a href="https://siliconangle.com/2021/06/30/enterprise-api-security-startup-noname-security-raises-60m/?&web_view=true"> Full Text</a>
 </p>
 <details>
