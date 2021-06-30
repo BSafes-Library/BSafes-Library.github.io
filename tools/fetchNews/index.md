@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NewsBlur hit by ransomware because of Docker glitch, but restores service in 10 hours<a href="https://www.scmagazine.com/home/security-news/ransomware/newsblur-hit-by-ransomware-because-of-docker-glitch-but-restores-service-in-10-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The actual database exposure was caused by a persistent problem with Docker, an issue that’s been fairly well-known in the Linux community for several years.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit a televised phone-in between President Putin and citizens at a TV show<a href="https://securityaffairs.co/wordpress/119559/hacking/putin-call-massive-attack.html"> Full Text</a>
 </p>
 <details>
