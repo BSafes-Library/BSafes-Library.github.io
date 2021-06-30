@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+University Medical Center reports suspicious activity, possible cyberattack<a href="https://www.ktnv.com/news/university-medical-center-reports-suspicious-activity-possible-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UMC's found suspicious activity on its computer network in mid-June. UMC quickly restricted external access to servers and it continues to work with law enforcement to fully investigate the activity.
+</details>
+<div style="text-align: right" markdown="1">
+KTNV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Facebook sues hackers who hijacked advertising agencies' accounts<a href="https://www.bleepingcomputer.com/news/security/facebook-sues-hackers-who-hijacked-advertising-agencies-accounts/"> Full Text</a>
 </p>
 <details>
