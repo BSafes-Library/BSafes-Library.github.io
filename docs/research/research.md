@@ -225,6 +225,18 @@ Recent examples of virtual assistant technologies designed as Latina information
 April 5, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Cyberbullying: Its Social and Psychological Harms Among Schoolers [HTML](https://papers.bsafes.com/docs/internet/cyberbullying-its-social-and-psychological-harms-among-schoolers/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminal justice around the world has prioritized the prevention and protection of bullying and its victims due to the rapid increases in peer violence.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Assessing the Credibility of Cyber Adversaries [HTML](https://papers.bsafes.com/docs/hacker/assessing-the-credibility-of-cyber-adversaries/)
 </p>
 <details>
