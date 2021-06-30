@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities in WordPress plugin pose website remote code execution risk<a href="https://portswigger.net/daily-swig/multiple-vulnerabilities-in-wordpress-plugin-pose-website-remote-code-execution-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plugin in question is ProfilePress (formerly named WP User Avatar) which facilitates the uploading of WordPress user profile images. The plugin has a total of more than 40,000 installs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
