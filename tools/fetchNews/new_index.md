@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Indian military personnel to train in US on cybersecurity, command in the offing<a href="https://www.hindustantimes.com/india-news/india-military-personnel-to-train-in-us-on-cybersecurity-command-in-the-offing-101625025032655.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's Department of Military Affairs (DMA) is planning to send up to 100 personnel to the US to train in the latest cybersecurity technology and artificial intelligence (AI) for future warfare.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Babuk Locker’s Code Leak - More Trouble for Security Agencies<a href="https://cyware.com/news/babuk-lockers-code-leak-more-trouble-for-security-agencies-fbed2603"> Full Text</a>
 </p>
 <details>

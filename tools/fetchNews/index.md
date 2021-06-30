@@ -37,6 +37,57 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Babuk Locker’s Code Leak - More Trouble for Security Agencies<a href="https://cyware.com/news/babuk-lockers-code-leak-more-trouble-for-security-agencies-fbed2603"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The builder for the Babuk Locker ransomware was leaked online. This could allow any cybercriminal group to create their custom ransomware variants. The leak of such advanced ransomware is a grave cause of concern for cybersecurity experts. Thus, it is best for organizations to proactively apply sec ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Linux Variant Now Eying ESXi Virtual Machines<a href="https://cyware.com/news/revil-linux-variant-now-eying-esxi-virtual-machines-7c1a5dd6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam is alerting about the Linux version of the REvil ransomware that purportedly targets VMware ESXi servers. By targeting virtual machines, REvil can encrypt multiple servers with just a single command.&nbsp;Experts recommend installing VMware (ESXi) in high-security mode and impleme ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red Ransomware is Hunting<a href="https://cyware.com/news/epsilon-red-ransomware-is-hunting-97f6fb70"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, Epsilon Red operations are ongoing and more than 3,500 Microsoft Exchange servers are still vulnerable. Written in Go, the latest Epsilon Red strain&nbsp;launches mass server exploitation campaigns and tries to expose companies’ information for revenue. Therefore, for ampl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft finds Netgear router bugs enabling corporate breaches<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-netgear-router-bugs-enabling-corporate-breaches/"> Full Text</a>
 </p>
 <details>
