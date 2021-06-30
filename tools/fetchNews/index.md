@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Used to Wipe My Book Live Devices<a href="https://threatpost.com/zero-day-wipe-my-book-live/167422/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors may have been duking it out for control of the compromised devices, first using a 2018 RCE, then password-protecting a new vulnerability. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colombian authorities arrested hacker behind the Gozi Virus<a href="https://securityaffairs.co/wordpress/119550/cyber-crime/hacker-gozi-virus-arrested.html"> Full Text</a>
 </p>
 <details>
