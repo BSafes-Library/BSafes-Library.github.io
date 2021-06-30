@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GitHub Launches 'Copilot' — AI-Powered Code Completion Tool<a href="https://thehackernews.com/2021/06/github-launches-copilot-ai-powered-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub on Tuesday launched a technical preview of a new AI-powered  pair programming  tool that aims to help software developers write better code across a variety of programming languages, including Python, JavaScript, TypeScript, Ruby, and Go.  Copilot , as the code synthesizer is called, has been developed in collaboration with  OpenAI , and leverages Codex, a new AI system that's trained on publicly available source code and natural language with the goal of translating comments and code written by a user into auto-generated code snippets.   "GitHub Copilot draws context from the code you're working on, suggesting whole lines or entire functions," GitHub CEO Nat Friedman  said  in a blog post. "It helps you quickly discover alternative ways to solve problems, write tests, and explore new APIs without having to tediously tailor a search for answers on the internet."   Despite its function as an AI-based autocomplete for writing boilerplate code, the Micr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hackers remained hidden in Denmark’s central bank for months<a href="https://securityaffairs.co/wordpress/119527/cyber-warfare-2/denmarks-central-bank-solarwinds-hackers.html"> Full Text</a>
 </p>
 <details>
