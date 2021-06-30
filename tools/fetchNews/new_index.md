@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA releases new ransomware self-assessment security audit tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-ransomware-self-assessment-security-audit-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released the Ransomware Readiness Assessment (RRA), a new module for its Cyber Security Evaluation Tool (CSET).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Print Spooler flaw could make a bad compromise much worse<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/windows-print-spooler-flaw-could-make-a-bad-compromise-much-worse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Windows Print Spooler is causing alarm in the information security community after new research found it leaves domain controllers susceptible to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indexsinas SMB Worm Campaign Infests Whole Enterprises<a href="https://threatpost.com/indexsinas-smb-worm-enterprises/167455/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The self-propagating malware’s attack chain is complex, using former NSA cyberweapons, and ultimately drops cryptominers on targeted machines.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/security/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
 </p>
 <details>
