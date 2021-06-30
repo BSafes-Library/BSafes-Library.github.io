@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Launches 'Copilot' — AI-Powered Code Completion Tool<a href="https://thehackernews.com/2021/06/github-launches-copilot-ai-powered-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub on Tuesday launched a technical preview of a new AI-powered&nbsp; pair programming &nbsp;tool that aims to help software developers write better code across a variety of programming languages, including Python, JavaScript, TypeScript, Ruby, and Go.  Copilot , as the code synthesizer is called, has been developed in collaboration with&nbsp; OpenAI , and leverages Codex, a new AI system that's trained on publicly available source code and natural language with the goal of translating comments and code written by a user into auto-generated code snippets.   "GitHub Copilot draws context from the code you're working on, suggesting whole lines or entire functions," GitHub CEO Nat Friedman&nbsp; said &nbsp;in a blog post. "It helps you quickly discover alternative ways to solve problems, write tests, and explore new APIs without having to tediously tailor a search for answers on the internet."   Despite its function as an AI-based autocomplete for writing boilerplate code, the Micr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware decryptor recovers victims' files for free<a href="https://www.bleepingcomputer.com/news/security/lorenz-ransomware-decryptor-recovers-victims-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch cybersecurity firm Tesorion has released a free decryptor for the Lorenz ransomware, allowing victims to recover some of their files for free without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple encrypts its iCloud data on Google, AWS clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/apple-encrypts-its-icloud-data-on-google-aws-clouds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple had become Google’s largest customer of cloud data services, with the company’s encryption standards viewed as a positive development by some security researchers, who said more companies need to take the shared responsibility model with cloud service providers seriously.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

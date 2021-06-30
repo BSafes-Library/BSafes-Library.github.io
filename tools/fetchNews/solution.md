@@ -11,6 +11,20 @@ nav_order: 900195
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 includes the DNS-over-HTTPS privacy feature - How to use<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-includes-the-dns-over-https-privacy-feature-how-to-use/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added a privacy feature to Windows 11 called DNS-over-HTTPS, allowing users to perform encrypted DNS lookups to bypass censorship and Internet activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New API Lets App Developers Authenticate Users via SIM Cards<a href="https://thehackernews.com/2021/06/new-api-lets-app-developers.html"> Full Text</a>
 </p>
 <details>

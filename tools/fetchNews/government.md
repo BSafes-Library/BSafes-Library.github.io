@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers propose major budget increase for key cyber agency<a href="https://thehill.com//policy/cybersecurity/560806-house-lawmakers-propose-major-budget-increase-for-key-cyber-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Appropriations Committee on Tuesday included almost $400 million&nbsp;more than last year for the Cybersecurity and Infrastructure Security Agency (CISA) in its budget proposal for the upcoming year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases 'Critical Software' Definition for US Agencies<a href="https://www.bankinfosecurity.com/nist-releases-critical-software-definition-for-us-agencies-a-16952?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST published its definition of what "critical software" means for the U.S. government, as the agency begins working on the requirements laid by the President's executive order on cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

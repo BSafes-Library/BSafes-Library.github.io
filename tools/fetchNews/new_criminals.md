@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Seize DoubleVPN Service Used by Cybercriminals<a href="https://thehackernews.com/2021/06/authorities-seize-doublevpn-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement operation resulted in the takedown of a VPN service called DoubleVPN for providing a safe haven for cybercriminals to cover their tracks.  "On 29th of June 2021, law enforcement took down DoubleVPN," the agencies said  in a seizure notice splashed on the now-defunct site. "Law enforcement gained access to the servers of DoubleVPN and seized personal information, logs and statistics kept by DoubleVPN about all of its customers. DoubleVPN's owners failed to provide the services they promised."   The criminal investigation was conducted by agencies from Bulgaria, Canada, Germany, Italy, Sweden, Switzerland, the Netherlands, U.K., and the U.S., alongside authorities from Eurojust  and Europol's  European Cybercrime Centre (EC3).  DoubleVPN is said to have been heavily advertised on both Russian and English-speaking underground cybercrime forums as a means to mask the location and identities of ransomware operators and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Webinar] How Cyber Attack Groups Are Spinning a Larger Ransomware Web<a href="https://thehackernews.com/2021/06/webinar-how-cyber-attack-groups-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations today already have an overwhelming number of dangers and threats to look out for, from spam to phishing attempts to new infiltration and ransomware tactics. There is no chance to rest, since attack groups are constantly looking for more effective means of infiltrating and infecting systems.  Today, there are hundreds of groups devoted to infiltrating almost every industry, constantly devising more sophisticated methods to attack organizations.  It's even more troubling to note that some groups have started to collaborate, creating complex and stealthy tactics that leave even the best security teams scrambling to respond. Such is the case noted by XDR Provider Cynet, as the company observes in its newest Research Webinar ( register here ).  Cynet's research team noted that two of the most infamous attack groups – Lunar Spider and Wizard Spider – have started working together to infect organizations with ransomware.  The development is certainly troubling, and the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group 'Hades' claims more victims as investigators seek answers<a href="https://www.cyberscoop.com/hades-accenture-revil-hafnium/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hades ransomware group, which is involved in big game hunting against billion-dollar companies, has claimed to have hit at least seven victims since its discovery late last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hackers remained hidden in Denmark’s central bank for months<a href="https://securityaffairs.co/wordpress/119527/cyber-warfare-2/denmarks-central-bank-solarwinds-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors compromised Denmark’s central bank (Danmarks Nationalbank) and remained in its systems for months.
+
+
+
+Russia-linked threat actors infected the systems of Denmark’s central bank (Danmarks Nationalbank) and maintained access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

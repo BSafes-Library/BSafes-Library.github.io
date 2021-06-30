@@ -11,6 +11,76 @@ nav_order: 900072
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Administration to release attribution for Microsoft vulnerabilities in 'coming weeks' | Facebook rolling out new newsletter feature | Parler refused Trump demand to ban his critics: book<a href="https://thehill.com//policy/technology/overnights/560815-hillicon-valley-administration-to-release-attribution-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Biden administration official on Tuesday teased the upcoming attribution of the exploitation of vulnerabilities in Microsoft’s Exchange Server, saying that there would be further details on who was behind the attack “in the coming weeks.” The administration previously called out Russia for being behind the SolarWinds hack, and Microsoft in March said a Chinese state-sponsored hacking group was likely exploiting the Microsoft vulnerabilities.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry groups worry that cyber may get lost amid the contracting morass of federal orders<a href="https://www.scmagazine.com/home/government/industry-groups-worry-that-cyber-may-got-lost-amid-the-contracting-morass-of-federal-orders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industry groups are concerned that contractors may lack crucial details, context and authority for reporting requirements in the cyber executive order.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users Clueless About Cybersecurity Risks: Study<a href="https://threatpost.com/users-clueless-cybersecurity-risks-study/167404/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The return to offices, coupled with uninformed users (including IT pros) has teed up an unprecedented risk of enterprise attack. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More ‘actionable’ intel needed from HHS to support health IT security<a href="https://www.scmagazine.com/home/security-news/more-actionable-intel-needed-from-hhs-to-support-health-it-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the HHS threat sharing efforts are off to a sound start, the GAO found key coordination areas the agency should improve to better support overall health IT security in the sector.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neuberger: Banning ransom payments is a ‘difficult policy position’<a href="https://www.scmagazine.com/home/security-news/ransomware/neuberger-banning-paying-ransom-is-a-difficult-policy-position/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banning ransomware payments is one of the most common and most controversial mechanisms proposed to curtail the recent growth of criminal incidents and the national security problems they cause. Neuberger, a key Biden advisor, offered some insight into the conversation happening behind closed doors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Watch Out for Cascading Extortion Threats!<a href="https://cyware.com/news/watch-out-for-cascading-extortion-threats-13f4784f"> Full Text</a>
 </p>
 <details>

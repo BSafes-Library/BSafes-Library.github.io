@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The "WayBack” Campaign: a Large Scale Operation Hiding in Plain Sight<a href="https://yoroi.company/research/the-wayback-campaign-a-large-scale-operation-hiding-in-plain-sight/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was designed to deliver over 900 pieces of malware with highly dangerous capabilities, enabling the threat actor to conduct both digital and environmental monitoring of their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

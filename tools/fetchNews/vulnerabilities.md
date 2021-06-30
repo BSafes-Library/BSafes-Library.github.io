@@ -11,6 +11,94 @@ nav_order: 900220
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NFC flaws let researchers hack an ATM by waving a phone<a href="https://arstechnica.com/information-technology/2021/06/nfc-flaws-let-researchers-hack-an-atm-by-waving-a-phone/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Josep Rodriguez has reported several security vulnerabilities in the near-field communications (NFC) reader chips used in millions of ATMs and point-of-sale systems worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit for CVE-2021-1675 RCE started circulating online<a href="https://securityaffairs.co/wordpress/119502/hacking/2021-1675-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for CVE-2021-1675 flaw, an attacker could exploit it to compromise Windows systems.
+
+
+
+Proof-of-concept exploit code for the CVE-2021-1675 flaw has been published online, the flaw impacts the Windows Print Spooler service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Translation Bugs Open Edge Browser to Trivial UXSS Attacks<a href="https://threatpost.com/microsoft-edge-browser-uxss-attacks/167389/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug in Edge’s auto-translate could have let remote attackers pull off RCE on any foreign-language website just by sending a message with an XSS payload. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvuln Project Catalogues 260 Vulnerabilities Found in Malware<a href="https://www.securityweek.com/malvuln-project-catalogues-260-vulnerabilities-found-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malvuln, a project started by security researcher John Page (aka hyp3rlinx), has enlisted vulnerabilities across 105 individual malware families and shown how they can be exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Administration to release attribution for Microsoft vulnerabilities in 'coming weeks'<a href="https://thehill.com//policy/cybersecurity/560750-biden-administration-to-attribute-blame-for-microsoft-exchange-server"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is working to formally attribute the exploitation of vulnerabilities in Microsoft’s Exchange Server application, which left thousands of organizations vulnerable to attack, “in the coming weeks,” a top official said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Found in Several Phoenix Contact Industrial Products<a href="https://www.securityweek.com/high-severity-vulnerabilities-found-several-phoenix-contact-industrial-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The industrial solutions provider Phoenix Contact alerted its customers of 10 security vulnerabilities in its  TC router, FL MGUARD modules, ILC 2050 BI building controllers, and PLCNext products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Virtual Machine Takeover Bug Affects Google Compute Engine<a href="https://thehackernews.com/2021/06/unpatched-virtual-machine-takeover-bug.html"> Full Text</a>
 </p>
 <details>

@@ -34,7 +34,203 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The "WayBack” Campaign: a Large Scale Operation Hiding in Plain Sight<a href="https://yoroi.company/research/the-wayback-campaign-a-large-scale-operation-hiding-in-plain-sight/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was designed to deliver over 900 pieces of malware with highly dangerous capabilities, enabling the threat actor to conduct both digital and environmental monitoring of their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators propose bill to help private sector defend against hackers<a href="https://thehill.com//policy/cybersecurity/560835-senators-propose-bill-to-help-private-sector-defend-against-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Steve Daines (R-Mont.) and Sheldon WhitehouseSheldon WhitehouseCongress needs to push Garland to unravel DOJ surveillance scandal The weird story behind Sheldon Whitehouse's beach club furor  The Hill's Sustainability Report — Presented by NextEra Energy — Philippine flies turn trash into beef MORE (D-R.I.) on Wednesday introduced a bill that would take steps to potentially allow private sector companies to strike back at hackers launching attacks against their operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Seize DoubleVPN Service Used by Cybercriminals<a href="https://thehackernews.com/2021/06/authorities-seize-doublevpn-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement operation resulted in the takedown of a VPN service called DoubleVPN for providing a safe haven for cybercriminals to cover their tracks.  "On 29th of June 2021, law enforcement took down DoubleVPN," the agencies said  in a seizure notice splashed on the now-defunct site. "Law enforcement gained access to the servers of DoubleVPN and seized personal information, logs and statistics kept by DoubleVPN about all of its customers. DoubleVPN's owners failed to provide the services they promised."   The criminal investigation was conducted by agencies from Bulgaria, Canada, Germany, Italy, Sweden, Switzerland, the Netherlands, U.K., and the U.S., alongside authorities from Eurojust  and Europol's  European Cybercrime Centre (EC3).  DoubleVPN is said to have been heavily advertised on both Russian and English-speaking underground cybercrime forums as a means to mask the location and identities of ransomware operators and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-based DoubleVPN seized by law enforcement<a href="https://securityaffairs.co/wordpress/119535/cyber-crime/doublevpn-seized-law-enforcement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement seized the servers and customer logs for DoubleVPN, a double-encryption service widely used by threat actors for malicious purposes.
+
+
+
+Law enforcement has seized the servers of DoubleVPN (doublevpn.com), a Russian-based VPN service that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Security Council Confronts Growing Threat of Cyber Attacks<a href="https://www.securityweek.com/un-security-council-confronts-growing-threat-cyber-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UN Security Council on Tuesday will hold its first formal public meeting on cybersecurity, addressing the growing threat of hacks to countries' critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Webinar] How Cyber Attack Groups Are Spinning a Larger Ransomware Web<a href="https://thehackernews.com/2021/06/webinar-how-cyber-attack-groups-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations today already have an overwhelming number of dangers and threats to look out for, from spam to phishing attempts to new infiltration and ransomware tactics. There is no chance to rest, since attack groups are constantly looking for more effective means of infiltrating and infecting systems.  Today, there are hundreds of groups devoted to infiltrating almost every industry, constantly devising more sophisticated methods to attack organizations.  It's even more troubling to note that some groups have started to collaborate, creating complex and stealthy tactics that leave even the best security teams scrambling to respond. Such is the case noted by XDR Provider Cynet, as the company observes in its newest Research Webinar ( register here ).  Cynet's research team noted that two of the most infamous attack groups – Lunar Spider and Wizard Spider – have started working together to infect organizations with ransomware.  The development is certainly troubling, and the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hackers Compromised Denmark’s Central Bank and Remained Hidden for Months<a href="https://securityaffairs.co/wordpress/119527/cyber-warfare-2/denmarks-central-bank-solarwinds-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The network intrusion was revealed by the technology outlet Version2, which obtained official documents from the Danish central bank through a freedom of information request.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Leak PoC Exploit for a Critical Windows RCE Vulnerability<a href="https://thehackernews.com/2021/06/researchers-leak-poc-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proof-of-concept (PoC) exploit related to a remote code execution vulnerability affecting Windows Print Spooler and patched by Microsoft earlier this month was briefly published online before being taken down.  Identified as  CVE-2021-1675 , the security issue could grant remote attackers full control of vulnerable systems.  Print Spooler  manages the printing process in Windows, including loading the appropriate printer drivers, and scheduling the print job for printing, among others.  Print Spooler flaws are concerning, not least because of the wide attack surface, but also owing to the fact that it runs at the highest privilege level and is capable of dynamically loading third-party binaries.   "Either the attacker exploits the vulnerability by accessing the target system locally (e.g., keyboard, console), or remotely (e.g., SSH); or the attacker relies on User Interaction by another person to perform actions required to exploit the vulnerability (e.g., tricking a legitimate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Urges NASA to Improve Cybersecurity Risk Management<a href="https://www.govinfosecurity.com/report-urges-nasa-to-improve-cybersecurity-risk-management-a-16958?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GAO is urging NASA's administrator to make multiple improvements to its cybersecurity and risk management policies to counter threats to it's network infrastructure and data, as per a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PJobRAT Disguised as Android Dating App Steals Contacts, SMS, and GPS Data<a href="https://gbhackers.com/pjobrat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity experts at Cyble along with 360 Core Security Lab have recently detected the PJobRAT spyware in dating and instant messaging apps stealing contacts, SMSes, and GPS data.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group 'Hades' claims more victims as investigators seek answers<a href="https://www.cyberscoop.com/hades-accenture-revil-hafnium/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hades ransomware group, which is involved in big game hunting against billion-dollar companies, has claimed to have hit at least seven victims since its discovery late last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EA ignored domain vulnerabilities for months despite warnings and breaches<a href="https://www.zdnet.com/article/ea-ignored-domain-vulnerabilities-for-months-despite-warnings-and-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials from Cyberpion approached EA late last year to inform them of multiple domains that could be subject to takeovers as well as misconfigured and potentially unknown assets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Launches 'Copilot' — AI-Powered Code Completion Tool<a href="https://thehackernews.com/2021/06/github-launches-copilot-ai-powered-code.html"> Full Text</a>
@@ -50,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hackers remained hidden in Denmark’s central bank for months<a href="https://securityaffairs.co/wordpress/119527/cyber-warfare-2/denmarks-central-bank-solarwinds-hackers.html"> Full Text</a>
@@ -70,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz ransomware decryptor recovers victims' files for free<a href="https://www.bleepingcomputer.com/news/security/lorenz-ransomware-decryptor-recovers-victims-files-for-free/"> Full Text</a>
@@ -86,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple encrypts its iCloud data on Google, AWS clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/apple-encrypts-its-icloud-data-on-google-aws-clouds/"> Full Text</a>
