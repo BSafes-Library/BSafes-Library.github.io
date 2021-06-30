@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The "WayBack” Campaign: a Large Scale Operation Hiding in Plain Sight<a href="https://yoroi.company/research/the-wayback-campaign-a-large-scale-operation-hiding-in-plain-sight/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Yoroi
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators propose bill to help private sector defend against hackers<a href="https://thehill.com//policy/cybersecurity/560835-senators-propose-bill-to-help-private-sector-defend-against-hackers"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Seize DoubleVPN Service Used by Cybercriminals<a href="https://thehackernews.com/2021/06/authorities-seize-doublevpn-service.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian-based DoubleVPN seized by law enforcement<a href="https://securityaffairs.co/wordpress/119535/cyber-crime/doublevpn-seized-law-enforcement.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UN Security Council Confronts Growing Threat of Cyber Attacks<a href="https://www.securityweek.com/un-security-council-confronts-growing-threat-cyber-attacks?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Webinar] How Cyber Attack Groups Are Spinning a Larger Ransomware Web<a href="https://thehackernews.com/2021/06/webinar-how-cyber-attack-groups-are.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hackers Compromised Denmark’s Central Bank and Remained Hidden for Months<a href="https://securityaffairs.co/wordpress/119527/cyber-warfare-2/denmarks-central-bank-solarwinds-hackers.html?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Leak PoC Exploit for a Critical Windows RCE Vulnerability<a href="https://thehackernews.com/2021/06/researchers-leak-poc-exploit-for.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report Urges NASA to Improve Cybersecurity Risk Management<a href="https://www.govinfosecurity.com/report-urges-nasa-to-improve-cybersecurity-risk-management-a-16958?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PJobRAT Disguised as Android Dating App Steals Contacts, SMS, and GPS Data<a href="https://gbhackers.com/pjobrat/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware group 'Hades' claims more victims as investigators seek answers<a href="https://www.cyberscoop.com/hades-accenture-revil-hafnium/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EA ignored domain vulnerabilities for months despite warnings and breaches<a href="https://www.zdnet.com/article/ea-ignored-domain-vulnerabilities-for-months-despite-warnings-and-breaches/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Launches 'Copilot' — AI-Powered Code Completion Tool<a href="https://thehackernews.com/2021/06/github-launches-copilot-ai-powered-code.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hackers remained hidden in Denmark’s central bank for months<a href="https://securityaffairs.co/wordpress/119527/cyber-warfare-2/denmarks-central-bank-solarwinds-hackers.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz ransomware decryptor recovers victims' files for free<a href="https://www.bleepingcomputer.com/news/security/lorenz-ransomware-decryptor-recovers-victims-files-for-free/"> Full Text</a>
@@ -282,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2021
+June 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple encrypts its iCloud data on Google, AWS clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/apple-encrypts-its-icloud-data-on-google-aws-clouds/"> Full Text</a>
