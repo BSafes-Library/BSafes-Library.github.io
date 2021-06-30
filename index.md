@@ -34,6 +34,382 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use zero-day to mass-wipe My Book Live devices<a href="https://www.bleepingcomputer.com/news/security/hackers-use-zero-day-to-mass-wipe-my-book-live-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability in Western Digital My Book Live NAS devices allowed a threat actor to perform mass-factory resets of devices last week, leading to data loss.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parcel delivery scammers targeting people with personalised messages<a href="https://timesofmalta.com/articles/view/parcel-delivery-scammers-targeting-people-with-personalised-messages.882985?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent parcel delivery scam has adopted new tricks with scammers sending out personalized messages to the targeted victims to defraud them of up to thousands of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Times of Malta
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Administration to release attribution for Microsoft vulnerabilities in 'coming weeks' | Facebook rolling out new newsletter feature | Parler refused Trump demand to ban his critics: book<a href="https://thehill.com//policy/technology/overnights/560815-hillicon-valley-administration-to-release-attribution-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Biden administration official on Tuesday teased the upcoming attribution of the exploitation of vulnerabilities in Microsoft’s Exchange Server, saying that there would be further details on who was behind the attack “in the coming weeks.” The administration previously called out Russia for being behind the SolarWinds hack, and Microsoft in March said a Chinese state-sponsored hacking group was likely exploiting the Microsoft vulnerabilities. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LinkedIn breach exposes data of 700 Million users<a href="https://securityaffairs.co/wordpress/119513/data-breach/new-linkedin-breach-exposes-data-of-700-million-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new massive LinkedIn breach made the headlines, the leak reportedly exposes the data of 700M users, more than 92% of the total 756M users.
+
+
+
+A new massive LinkedIn breach made the headlines, a database containing data of 700M users, more than 92% of the total...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry groups worry that cyber may get lost amid the contracting morass of federal orders<a href="https://www.scmagazine.com/home/government/industry-groups-worry-that-cyber-may-got-lost-amid-the-contracting-morass-of-federal-orders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industry groups are concerned that contractors may lack crucial details, context and authority for reporting requirements in the cyber executive order.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users Clueless About Cybersecurity Risks: Study<a href="https://threatpost.com/users-clueless-cybersecurity-risks-study/167404/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The return to offices, coupled with uninformed users (including IT pros) has teed up an unprecedented risk of enterprise attack. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 includes the DNS-over-HTTPS privacy feature - How to use<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-includes-the-dns-over-https-privacy-feature-how-to-use/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added a privacy feature to Windows 11 called DNS-over-HTTPS, allowing users to perform encrypted DNS lookups to bypass censorship and Internet activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFC flaws let researchers hack an ATM by waving a phone<a href="https://arstechnica.com/information-technology/2021/06/nfc-flaws-let-researchers-hack-an-atm-by-waving-a-phone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Josep Rodriguez has reported several security vulnerabilities in the near-field communications (NFC) reader chips used in millions of ATMs and point-of-sale systems worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House lawmakers propose major budget increase for key cyber agency<a href="https://thehill.com//policy/cybersecurity/560806-house-lawmakers-propose-major-budget-increase-for-key-cyber-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Appropriations Committee on Tuesday included almost $400 million more than last year for the Cybersecurity and Infrastructure Security Agency (CISA) in its budget proposal for the upcoming year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit for CVE-2021-1675 RCE started circulating online<a href="https://securityaffairs.co/wordpress/119502/hacking/2021-1675-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for CVE-2021-1675 flaw, an attacker could exploit it to compromise Windows systems.
+
+
+
+Proof-of-concept exploit code for the CVE-2021-1675 flaw has been published online, the flaw impacts the Windows Print Spooler service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pandemic hasn’t stemmed the rise of privacy salaries, but there is still some work to do<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/pandemic-hasnt-stemmed-the-rise-of-privacy-salaries-but-there-is-still-some-work-to-do/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from the IAPP notes the average salary for a privacy pro in 2021 is $140,529 – a jump of more than $6,000 since 2019.  That said, a gender gap persists.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Translation Bugs Open Edge Browser to Trivial UXSS Attacks<a href="https://threatpost.com/microsoft-edge-browser-uxss-attacks/167389/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug in Edge’s auto-translate could have let remote attackers pull off RCE on any foreign-language website just by sending a message with an XSS payload. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers had months-long access to Denmark's central bank<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-had-months-long-access-to-denmarks-central-bank/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state hackers compromised Denmark's central bank (Danmarks Nationalbank) and planted malware that gave them access to the network for more than half a year without being detected.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvuln Project Catalogues 260 Vulnerabilities Found in Malware<a href="https://www.securityweek.com/malvuln-project-catalogues-260-vulnerabilities-found-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malvuln, a project started by security researcher John Page (aka hyp3rlinx), has enlisted vulnerabilities across 105 individual malware families and shown how they can be exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Administration to release attribution for Microsoft vulnerabilities in 'coming weeks'<a href="https://thehill.com//policy/cybersecurity/560750-biden-administration-to-attribute-blame-for-microsoft-exchange-server"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is working to formally attribute the exploitation of vulnerabilities in Microsoft’s Exchange Server application, which left thousands of organizations vulnerable to attack, “in the coming weeks,” a top official said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More ‘actionable’ intel needed from HHS to support health IT security<a href="https://www.scmagazine.com/home/security-news/more-actionable-intel-needed-from-hhs-to-support-health-it-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the HHS threat sharing efforts are off to a sound start, the GAO found key coordination areas the agency should improve to better support overall health IT security in the sector.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoubleVPN servers, logs, and account info seized by law enforcement<a href="https://www.bleepingcomputer.com/news/security/doublevpn-servers-logs-and-account-info-seized-by-law-enforcement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Law enforcement has seized the servers and customer logs for DoubleVPN, a double-encryption service commonly used by threat actors to evade detection while performing malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts developed a free decryptor for the Lorenz ransomware<a href="https://securityaffairs.co/wordpress/119492/cyber-crime/lorenz-ransomware-free-decryptor.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Like other ransomware gangs, Lorenz operators also implement a double-extortion model by stealing data before encrypting it and threatening them if the victim doesn’t pay the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neuberger: Banning ransom payments is a ‘difficult policy position’<a href="https://www.scmagazine.com/home/security-news/ransomware/neuberger-banning-paying-ransom-is-a-difficult-policy-position/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banning ransomware payments is one of the most common and most controversial mechanisms proposed to curtail the recent growth of criminal incidents and the national security problems they cause. Neuberger, a key Biden advisor, offered some insight into the conversation happening behind closed doors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Found in Several Phoenix Contact Industrial Products<a href="https://www.securityweek.com/high-severity-vulnerabilities-found-several-phoenix-contact-industrial-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The industrial solutions provider Phoenix Contact alerted its customers of 10 security vulnerabilities in its  TC router, FL MGUARD modules, ILC 2050 BI building controllers, and PLCNext products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture Acquires 40th Company In 10 Months With Sentor Buy<a href="https://www.crn.com/news/security/accenture-acquires-40th-company-in-10-months-with-sentor-buy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture Tuesday unveiled its acquisition of Sweden-based Sentor, a provider of cyberdefense and managed security services. The financial terms of the Sentor deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cobalt Strike: Favorite Tool from APT to Crimeware<a href="https://www.proofpoint.com/us/blog/threat-insight/cobalt-strike-favorite-tool-apt-crimeware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cobalt Strike is a legitimate penetration testing tool used by security professionals to emulate malicious activity in a network. However, threat actors are increasingly abusing the tool.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases 'Critical Software' Definition for US Agencies<a href="https://www.bankinfosecurity.com/nist-releases-critical-software-definition-for-us-agencies-a-16952?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST published its definition of what "critical software" means for the U.S. government, as the agency begins working on the requirements laid by the President's executive order on cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
