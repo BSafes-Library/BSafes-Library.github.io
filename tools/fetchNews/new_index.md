@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Enterprise API security startup Noname Security raises $60M<a href="https://siliconangle.com/2021/06/30/enterprise-api-security-startup-noname-security-raises-60m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise application programming security startup Noname Security today announced it has raised $60 million in new funding amid fast growth. Insight Partners led the Series B round.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Multiple vulnerabilities in WordPress plugin pose website remote code execution risk<a href="https://portswigger.net/daily-swig/multiple-vulnerabilities-in-wordpress-plugin-pose-website-remote-code-execution-risk?&web_view=true"> Full Text</a>
 </p>
 <details>
