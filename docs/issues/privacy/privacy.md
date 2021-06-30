@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pandemic hasn’t stemmed the rise of privacy salaries, but there is still some work to do<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/pandemic-hasnt-stemmed-the-rise-of-privacy-salaries-but-there-is-still-some-work-to-do/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from the IAPP notes the average salary for a privacy pro in 2021 is $140,529 – a jump of more than $6,000 since 2019.  That said, a gender gap persists.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

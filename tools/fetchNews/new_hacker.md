@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use zero-day to mass-wipe My Book Live devices<a href="https://www.bleepingcomputer.com/news/security/hackers-use-zero-day-to-mass-wipe-my-book-live-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability in Western Digital My Book Live NAS devices allowed a threat actor to perform mass-factory resets of devices last week, leading to data loss.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

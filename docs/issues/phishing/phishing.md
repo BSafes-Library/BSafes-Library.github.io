@@ -11,6 +11,20 @@ nav_order: 900160
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Parcel delivery scammers targeting people with personalised messages<a href="https://timesofmalta.com/articles/view/parcel-delivery-scammers-targeting-people-with-personalised-messages.882985?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent parcel delivery scam has adopted new tricks with scammers sending out personalized messages to the targeted victims to defraud them of up to thousands of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Times of Malta
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Spear Phishing Campaign with New Techniques Takes Aim at Aviation Companies<a href="https://www.fortinet.com/blog/threat-research/spear-phishing-campaign-with-new-techniques-aimed-at-aviation-companies?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

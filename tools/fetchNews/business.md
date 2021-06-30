@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to require 2FA and a physical address from Android app devs<a href="https://therecord.media/google-to-require-2fa-and-a-physical-address-from-android-app-devs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After seeing an increase in fraud and malicious developer accounts, Google announced plans to require additional identity verification from developers who want to list apps on the official Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

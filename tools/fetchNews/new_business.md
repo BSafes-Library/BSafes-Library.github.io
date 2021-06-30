@@ -11,6 +11,20 @@ nav_order: 900027
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Accenture Acquires 40th Company In 10 Months With Sentor Buy<a href="https://www.crn.com/news/security/accenture-acquires-40th-company-in-10-months-with-sentor-buy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture Tuesday unveiled its acquisition of Sweden-based Sentor, a provider of cyberdefense and managed security services. The financial terms of the Sentor deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google to require 2FA and a physical address from Android app devs<a href="https://therecord.media/google-to-require-2fa-and-a-physical-address-from-android-app-devs/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out for Cascading Extortion Threats!<a href="https://cyware.com/news/watch-out-for-cascading-extortion-threats-13f4784f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators are resorting to different extortion tactics to intensify the stress on victims for greater ransom payouts. There are four new extortion tactics observed by the Hong Kong CERT Coordination Centre.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Could curtailing cryptocurrency calm cyber crime wave?<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/could-curtailing-cryptocurrency-calm-cyber-crime-wave/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most widely circulated policy ideas to curtail ransomware would be to treat cryptocurrencies as a bonafide component of the financial system: require cryptocurrency exchanges to abide by regulations that reduce anonymity and prevent money laundering. SC Media broke down the potential.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

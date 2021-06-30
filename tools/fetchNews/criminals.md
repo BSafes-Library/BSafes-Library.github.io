@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ursnif Operators Leverage Cerberus to Automate Fraudulent Bank Transfers in Italy<a href="https://cyware.com/news/ursnif-operators-leverage-cerberus-to-automate-fraudulent-bank-transfers-in-italy-096ec31b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of Ursnif Trojan is being used in the wild to target online banking users in Italy. As a part of the attack, the trojan tricks desktop users into downloading an app from a fake Google Play page to infect their mobile device with the Cerberus malware. Users are recommended to avoid clickin ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Could curtailing cryptocurrency calm cyber crimewave?<a href="https://www.scmagazine.com/home/security-news/cryptocurrency/could-curtailing-cryptocurrency-calm-cyber-crimewave/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most widely circulated policy ideas to curtail ransomware would be to treat cryptocurrencies as a bonafide component of the financial system: require cryptocurrency exchanges to abide by regulations that reduce anonymity and prevent money laundering. SC Media broke down the potential.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
