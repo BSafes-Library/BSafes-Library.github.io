@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Lina Khan faces major FTC test | Amazon calls for her recusal | Warren taps commodities watchdog to probe Google<a href="https://thehill.com//policy/technology/overnights/561000-hillicon-valley-lina-khan-faces-major-ftc-test-amazon-calls-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lina KhanLina KhanProtect and regulate the internet's hidden power brokers Tech industry pushes for delay in antitrust legislation GOP divided over bills targeting tech giants MORE will face her first big hurdle as the chair of the Federal Trade Commission after a federal judge gave the agency 30 days to amend their antitrust case against Facebook. The Big Tech critic is already drawing fire from Amazon, which is asking the agency to recuse her from cases against it because of her past writings. In other news, Sen. Elizabeth WarrenElizabeth WarrenMcConnell has tough choices to make on deal Headaches mount for Biden in spending fight Senate plants a seed for bipartisan climate solutions MORE is calling on the CFTC to involve itself in digital markets by opening an investigation into Google’s ad tech.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NewsBlur hit by ransomware because of Docker glitch, but restores service in 10 hours<a href="https://www.scmagazine.com/home/security-news/ransomware/newsblur-hit-by-ransomware-because-of-docker-glitch-but-restores-service-in-10-hours/"> Full Text</a>
 </p>
 <details>
