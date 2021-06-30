@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colombian authorities arrested hacker behind the Gozi Virus<a href="https://securityaffairs.co/wordpress/119550/cyber-crime/hacker-gozi-virus-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colombian authorities arrested a Romanian hacker who is wanted in the U.S. for distributing the Gozi virus that already infected more than a million computers.
+
+
+
+Colombian officials announced the arrest of the Romanian hacker Mihai Ionut Paunescu who is wanted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Freshly Scraped LinkedIn Data of 88,000 US Business Owners Leaked on Hacker Forum<a href="https://cybernews.com/news/freshly-scraped-linkedin-data-of-88000-us-business-owners-shared-online/?&web_view=true"> Full Text</a>
 </p>
 <details>
