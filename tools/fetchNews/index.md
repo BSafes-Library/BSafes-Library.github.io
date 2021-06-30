@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware decryptor recovers victims' files for free<a href="https://www.bleepingcomputer.com/news/security/lorenz-ransomware-decryptor-recovers-victims-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch cybersecurity firm Tesorion has released a free decryptor for the Lorenz ransomware, allowing victims to recover some of their files for free without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple encrypts its iCloud data on Google, AWS clouds<a href="https://www.scmagazine.com/home/security-news/cloud-security/apple-encrypts-its-icloud-data-on-google-aws-clouds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple had become Google’s largest customer of cloud data services, with the company’s encryption standards viewed as a positive development by some security researchers, who said more companies need to take the shared responsibility model with cloud service providers seriously.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
