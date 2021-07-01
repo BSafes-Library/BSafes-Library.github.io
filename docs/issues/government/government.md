@@ -11,6 +11,34 @@ nav_order: 900075
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA releases new ransomware self-assessment security audit tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-ransomware-self-assessment-security-audit-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released the Ransomware Readiness Assessment (RRA), a new module for its Cyber Security Evaluation Tool (CSET).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian military personnel to train in US on cybersecurity, command in the offing<a href="https://www.hindustantimes.com/india-news/india-military-personnel-to-train-in-us-on-cybersecurity-command-in-the-offing-101625025032655.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's Department of Military Affairs (DMA) is planning to send up to 100 personnel to the US to train in the latest cybersecurity technology and artificial intelligence (AI) for future warfare.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Senators propose bill to help private sector defend against hackers<a href="https://thehill.com//policy/cybersecurity/560835-senators-propose-bill-to-help-private-sector-defend-against-hackers"> Full Text</a>
 </p>
 <details>

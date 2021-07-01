@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 30, 2021  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Leak PoC Exploit for a Critical Windows RCE Vulnerability<a href="https://thehackernews.com/2021/06/researchers-leak-poc-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proof-of-concept (PoC) exploit related to a remote code execution vulnerability affecting Windows Print Spooler and patched by Microsoft earlier this month was briefly published online before being taken down.  Identified as&nbsp; CVE-2021-1675 , the security issue could grant remote attackers full control of vulnerable systems.&nbsp; Print Spooler &nbsp;manages the printing process in Windows, including loading the appropriate printer drivers, and scheduling the print job for printing, among others.  Print Spooler flaws are concerning, not least because of the wide attack surface, but also owing to the fact that it runs at the highest privilege level and is capable of dynamically loading third-party binaries.   "Either the attacker exploits the vulnerability by accessing the target system locally (e.g., keyboard, console), or remotely (e.g., SSH); or the attacker relies on User Interaction by another person to perform actions required to exploit the vulnerability (e.g., tricking a legitimate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EA ignored domain vulnerabilities for months despite warnings and breaches<a href="https://www.zdnet.com/article/ea-ignored-domain-vulnerabilities-for-months-despite-warnings-and-breaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials from Cyberpion approached EA late last year to inform them of multiple domains that could be subject to takeovers as well as misconfigured and potentially unknown assets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

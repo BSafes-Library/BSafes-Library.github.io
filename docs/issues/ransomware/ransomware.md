@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked Babuk Locker ransomware builder used in new attacks<a href="https://www.bleepingcomputer.com/news/security/leaked-babuk-locker-ransomware-builder-used-in-new-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A leaked tool used by the Babuk Locker operation to create custom ransomware executables is now being used by another threat actor in a very active campaign targeting victims worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red Ransomware is Hunting<a href="https://cyware.com/news/epsilon-red-ransomware-is-hunting-97f6fb70"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, Epsilon Red operations are ongoing and more than 3,500 Microsoft Exchange servers are still vulnerable. Written in Go, the latest Epsilon Red strain&nbsp;launches mass server exploitation campaigns and tries to expose companies’ information for revenue. Therefore, for ampl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

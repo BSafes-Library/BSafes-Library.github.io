@@ -11,6 +11,63 @@ nav_order: 900029
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Babuk Locker’s Code Leak - More Trouble for Security Agencies<a href="https://cyware.com/news/babuk-lockers-code-leak-more-trouble-for-security-agencies-fbed2603"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The builder for the Babuk Locker ransomware was leaked online. This could allow any cybercriminal group to create their custom ransomware variants. The leak of such advanced ransomware is a grave cause of concern for cybersecurity experts. Thus, it is best for organizations to proactively apply sec ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Arm of International Charity The Salvation Army Compromised by Ransomware Attackers<a href="https://www.theregister.com/2021/06/30/salvation_army_ransomware_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Salvation Army in the UK was hit with ransomware. The organization refused to give any further information, such as the identity of the attackers, or the volume and type of data accessed by them.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Used to Wipe My Book Live Devices<a href="https://threatpost.com/zero-day-wipe-my-book-live/167422/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors may have been duking it out for control of the compromised devices, first using a 2018 RCE, then password-protecting a new vulnerability. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freshly Scraped LinkedIn Data of 88,000 US Business Owners Leaked on Hacker Forum<a href="https://cybernews.com/news/freshly-scraped-linkedin-data-of-88000-us-business-owners-shared-online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database includes full names, email addresses, workplace information, and other data available publicly on their LinkedIn profiles. The archive was posted on a hacker forum for anyone to access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hackers Compromised Denmark’s Central Bank and Remained Hidden for Months<a href="https://securityaffairs.co/wordpress/119527/cyber-warfare-2/denmarks-central-bank-solarwinds-hackers.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

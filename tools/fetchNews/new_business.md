@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Windows 11 comes with a new optional feature called 'TPM Diagnostics' that allows administrators to query the data stored on a device's TPM security processor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise API security startup Noname Security raises $60M<a href="https://siliconangle.com/2021/06/30/enterprise-api-security-startup-noname-security-raises-60m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise application programming security startup Noname Security today announced it has raised $60 million in new funding amid fast growth. Insight Partners led the Series B round.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

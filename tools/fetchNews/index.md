@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaked Babuk Locker ransomware builder used in new attacks<a href="https://www.bleepingcomputer.com/news/security/leaked-babuk-locker-ransomware-builder-used-in-new-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Lina Khan faces major FTC test | Amazon calls for her recusal | Warren taps commodities watchdog to probe Google<a href="https://thehill.com//policy/technology/overnights/561000-hillicon-valley-lina-khan-faces-major-ftc-test-amazon-calls-for"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewsBlur hit by ransomware because of Docker glitch, but restores service in 10 hours<a href="https://www.scmagazine.com/home/security-news/ransomware/newsblur-hit-by-ransomware-because-of-docker-glitch-but-restores-service-in-10-hours/"> Full Text</a>
@@ -82,7 +82,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit a televised phone-in between President Putin and citizens at a TV show<a href="https://securityaffairs.co/wordpress/119559/hacking/putin-call-massive-attack.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA releases new ransomware self-assessment security audit tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-ransomware-self-assessment-security-audit-tool/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Print Spooler flaw could make a bad compromise much worse<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/windows-print-spooler-flaw-could-make-a-bad-compromise-much-worse/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indexsinas SMB Worm Campaign Infests Whole Enterprises<a href="https://threatpost.com/indexsinas-smb-worm-enterprises/167455/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/security/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vendor incidents lead the 10 biggest health care data breaches of 2021 so far<a href="https://www.scmagazine.com/home/health-care/vendor-incidents-lead-the-10-biggest-health-care-data-breaches-of-2021-so-far/"> Full Text</a>
@@ -198,7 +198,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian military personnel to train in US on cybersecurity, command in the offing<a href="https://www.hindustantimes.com/india-news/india-military-personnel-to-train-in-us-on-cybersecurity-command-in-the-offing-101625025032655.html?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Hindustan Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk Locker’s Code Leak - More Trouble for Security Agencies<a href="https://cyware.com/news/babuk-lockers-code-leak-more-trouble-for-security-agencies-fbed2603"> Full Text</a>
@@ -231,7 +231,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Linux Variant Now Eying ESXi Virtual Machines<a href="https://cyware.com/news/revil-linux-variant-now-eying-esxi-virtual-machines-7c1a5dd6"> Full Text</a>
@@ -248,7 +248,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Epsilon Red Ransomware is Hunting<a href="https://cyware.com/news/epsilon-red-ransomware-is-hunting-97f6fb70"> Full Text</a>
@@ -265,7 +265,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft finds Netgear router bugs enabling corporate breaches<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-netgear-router-bugs-enabling-corporate-breaches/"> Full Text</a>
@@ -281,7 +281,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Public Windows PrintNightmare 0-day exploit allows domain takeover<a href="https://www.bleepingcomputer.com/news/security/public-windows-printnightmare-0-day-exploit-allows-domain-takeover/"> Full Text</a>
@@ -297,7 +297,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University Medical Center reports suspicious activity, possible cyberattack<a href="https://www.ktnv.com/news/university-medical-center-reports-suspicious-activity-possible-cyberattack?&web_view=true"> Full Text</a>
@@ -313,7 +313,7 @@ KTNV
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook sues hackers who hijacked advertising agencies' accounts<a href="https://www.bleepingcomputer.com/news/security/facebook-sues-hackers-who-hijacked-advertising-agencies-accounts/"> Full Text</a>
@@ -329,7 +329,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Arm of International Charity The Salvation Army Compromised by Ransomware Attackers<a href="https://www.theregister.com/2021/06/30/salvation_army_ransomware_attack/?&web_view=true"> Full Text</a>
@@ -345,7 +345,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why MTTR is Bad for SecOps<a href="https://threatpost.com/mttr-bad-secops/167440/"> Full Text</a>
@@ -361,7 +361,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Used to Wipe My Book Live Devices<a href="https://threatpost.com/zero-day-wipe-my-book-live/167422/"> Full Text</a>
@@ -377,7 +377,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colombian authorities arrested hacker behind the Gozi Virus<a href="https://securityaffairs.co/wordpress/119550/cyber-crime/hacker-gozi-virus-arrested.html"> Full Text</a>
@@ -397,7 +397,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Freshly Scraped LinkedIn Data of 88,000 US Business Owners Leaked on Hacker Forum<a href="https://cybernews.com/news/freshly-scraped-linkedin-data-of-88000-us-business-owners-shared-online/?&web_view=true"> Full Text</a>
@@ -413,7 +413,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enterprise API security startup Noname Security raises $60M<a href="https://siliconangle.com/2021/06/30/enterprise-api-security-startup-noname-security-raises-60m/?&web_view=true"> Full Text</a>
@@ -429,7 +429,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple vulnerabilities in WordPress plugin pose website remote code execution risk<a href="https://portswigger.net/daily-swig/multiple-vulnerabilities-in-wordpress-plugin-pose-website-remote-code-execution-risk?&web_view=true"> Full Text</a>

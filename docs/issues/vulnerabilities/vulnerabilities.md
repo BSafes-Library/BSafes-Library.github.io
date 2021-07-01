@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Print Spooler flaw could make a bad compromise much worse<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/windows-print-spooler-flaw-could-make-a-bad-compromise-much-worse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Windows Print Spooler is causing alarm in the information security community after new research found it leaves domain controllers susceptible to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds Netgear router bugs enabling corporate breaches<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-netgear-router-bugs-enabling-corporate-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could use critical firmware vulnerabilities discovered by Microsoft in some NETGEAR router models as a stepping stone to move laterally within enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Windows PrintNightmare 0-day exploit allows domain takeover<a href="https://www.bleepingcomputer.com/news/security/public-windows-printnightmare-0-day-exploit-allows-domain-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details and proof-of-concept (PoC) exploit have been accidentally leaked for a currently unpatched vulnerability in Windows that allows remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities in WordPress plugin pose website remote code execution risk<a href="https://portswigger.net/daily-swig/multiple-vulnerabilities-in-wordpress-plugin-pose-website-remote-code-execution-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plugin in question is ProfilePress (formerly named WP User Avatar) which facilitates the uploading of WordPress user profile images. The plugin has a total of more than 40,000 installs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021  <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

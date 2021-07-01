@@ -34,6 +34,417 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked Babuk Locker ransomware builder used in new attacks<a href="https://www.bleepingcomputer.com/news/security/leaked-babuk-locker-ransomware-builder-used-in-new-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A leaked tool used by the Babuk Locker operation to create custom ransomware executables is now being used by another threat actor in a very active campaign targeting victims worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Lina Khan faces major FTC test | Amazon calls for her recusal | Warren taps commodities watchdog to probe Google<a href="https://thehill.com//policy/technology/overnights/561000-hillicon-valley-lina-khan-faces-major-ftc-test-amazon-calls-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lina KhanLina KhanProtect and regulate the internet's hidden power brokers Tech industry pushes for delay in antitrust legislation GOP divided over bills targeting tech giants MORE will face her first big hurdle as the chair of the Federal Trade Commission after a federal judge gave the agency 30 days to amend their antitrust case against Facebook. The Big Tech critic is already drawing fire from Amazon, which is asking the agency to recuse her from cases against it because of her past writings. In other news, Sen. Elizabeth WarrenElizabeth WarrenMcConnell has tough choices to make on deal Headaches mount for Biden in spending fight Senate plants a seed for bipartisan climate solutions MORE is calling on the CFTC to involve itself in digital markets by opening an investigation into Google’s ad tech.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsBlur hit by ransomware because of Docker glitch, but restores service in 10 hours<a href="https://www.scmagazine.com/home/security-news/ransomware/newsblur-hit-by-ransomware-because-of-docker-glitch-but-restores-service-in-10-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The actual database exposure was caused by a persistent problem with Docker, an issue that’s been fairly well-known in the Linux community for several years.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit a televised phone-in between President Putin and citizens at a TV show<a href="https://securityaffairs.co/wordpress/119559/hacking/putin-call-massive-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive cyber attack attempted to disrupt a televised phone-in between Russian President Vladimir Putin and the Rossiya 24 network.
+
+
+
+Hackers launched a massive cyberattack against the state-broadcast Rossiya 24 network while transmitting a show in which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases new ransomware self-assessment security audit tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-new-ransomware-self-assessment-security-audit-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released the Ransomware Readiness Assessment (RRA), a new module for its Cyber Security Evaluation Tool (CSET).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Print Spooler flaw could make a bad compromise much worse<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/windows-print-spooler-flaw-could-make-a-bad-compromise-much-worse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Windows Print Spooler is causing alarm in the information security community after new research found it leaves domain controllers susceptible to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indexsinas SMB Worm Campaign Infests Whole Enterprises<a href="https://threatpost.com/indexsinas-smb-worm-enterprises/167455/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The self-propagating malware’s attack chain is complex, using former NSA cyberweapons, and ultimately drops cryptominers on targeted machines.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/security/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Windows 11 comes with a new optional feature called 'TPM Diagnostics' that allows administrators to query the data stored on a device's TPM security processor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Windows 11 comes with a new optional feature called 'TPM Diagnostics' that allows administrators to query the data stored on a device's TPM security processor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendor incidents lead the 10 biggest health care data breaches of 2021 so far<a href="https://www.scmagazine.com/home/health-care/vendor-incidents-lead-the-10-biggest-health-care-data-breaches-of-2021-so-far/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+60 percent of the largest health care data breaches reported during the first half of 2021 were tied to vendor-related incidents, spotlighting the need to review third-party relationships.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian military personnel to train in US on cybersecurity, command in the offing<a href="https://www.hindustantimes.com/india-news/india-military-personnel-to-train-in-us-on-cybersecurity-command-in-the-offing-101625025032655.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's Department of Military Affairs (DMA) is planning to send up to 100 personnel to the US to train in the latest cybersecurity technology and artificial intelligence (AI) for future warfare.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Locker’s Code Leak - More Trouble for Security Agencies<a href="https://cyware.com/news/babuk-lockers-code-leak-more-trouble-for-security-agencies-fbed2603"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The builder for the Babuk Locker ransomware was leaked online. This could allow any cybercriminal group to create their custom ransomware variants. The leak of such advanced ransomware is a grave cause of concern for cybersecurity experts. Thus, it is best for organizations to proactively apply sec ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Linux Variant Now Eying ESXi Virtual Machines<a href="https://cyware.com/news/revil-linux-variant-now-eying-esxi-virtual-machines-7c1a5dd6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam is alerting about the Linux version of the REvil ransomware that purportedly targets VMware ESXi servers. By targeting virtual machines, REvil can encrypt multiple servers with just a single command.&nbsp;Experts recommend installing VMware (ESXi) in high-security mode and impleme ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epsilon Red Ransomware is Hunting<a href="https://cyware.com/news/epsilon-red-ransomware-is-hunting-97f6fb70"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, Epsilon Red operations are ongoing and more than 3,500 Microsoft Exchange servers are still vulnerable. Written in Go, the latest Epsilon Red strain&nbsp;launches mass server exploitation campaigns and tries to expose companies’ information for revenue. Therefore, for ampl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds Netgear router bugs enabling corporate breaches<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-netgear-router-bugs-enabling-corporate-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could use critical firmware vulnerabilities discovered by Microsoft in some NETGEAR router models as a stepping stone to move laterally within enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Windows PrintNightmare 0-day exploit allows domain takeover<a href="https://www.bleepingcomputer.com/news/security/public-windows-printnightmare-0-day-exploit-allows-domain-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details and proof-of-concept (PoC) exploit have been accidentally leaked for a currently unpatched vulnerability in Windows that allows remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University Medical Center reports suspicious activity, possible cyberattack<a href="https://www.ktnv.com/news/university-medical-center-reports-suspicious-activity-possible-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UMC's found suspicious activity on its computer network in mid-June. UMC quickly restricted external access to servers and it continues to work with law enforcement to fully investigate the activity.
+</details>
+<div style="text-align: right" markdown="1">
+KTNV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook sues hackers who hijacked advertising agencies' accounts<a href="https://www.bleepingcomputer.com/news/security/facebook-sues-hackers-who-hijacked-advertising-agencies-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has filed lawsuits against two groups of suspects who took over advertising agency employees' accounts and abused its ad platform to run unauthorized or deceptive ads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Arm of International Charity The Salvation Army Compromised by Ransomware Attackers<a href="https://www.theregister.com/2021/06/30/salvation_army_ransomware_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Salvation Army in the UK was hit with ransomware. The organization refused to give any further information, such as the identity of the attackers, or the volume and type of data accessed by them.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why MTTR is Bad for SecOps<a href="https://threatpost.com/mttr-bad-secops/167440/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kerry Matre, senior director at Mandiant, discusses the appropriate metrics to use to measure SOC and analyst performance, and how MTTR leads to bad behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Used to Wipe My Book Live Devices<a href="https://threatpost.com/zero-day-wipe-my-book-live/167422/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors may have been duking it out for control of the compromised devices, first using a 2018 RCE, then password-protecting a new vulnerability. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colombian authorities arrested hacker behind the Gozi Virus<a href="https://securityaffairs.co/wordpress/119550/cyber-crime/hacker-gozi-virus-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colombian authorities arrested a Romanian hacker who is wanted in the U.S. for distributing the Gozi virus that already infected more than a million computers.
+
+
+
+Colombian officials announced the arrest of the Romanian hacker Mihai Ionut Paunescu who is wanted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freshly Scraped LinkedIn Data of 88,000 US Business Owners Leaked on Hacker Forum<a href="https://cybernews.com/news/freshly-scraped-linkedin-data-of-88000-us-business-owners-shared-online/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database includes full names, email addresses, workplace information, and other data available publicly on their LinkedIn profiles. The archive was posted on a hacker forum for anyone to access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise API security startup Noname Security raises $60M<a href="https://siliconangle.com/2021/06/30/enterprise-api-security-startup-noname-security-raises-60m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise application programming security startup Noname Security today announced it has raised $60 million in new funding amid fast growth. Insight Partners led the Series B round.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities in WordPress plugin pose website remote code execution risk<a href="https://portswigger.net/daily-swig/multiple-vulnerabilities-in-wordpress-plugin-pose-website-remote-code-execution-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plugin in question is ProfilePress (formerly named WP User Avatar) which facilitates the uploading of WordPress user profile images. The plugin has a total of more than 40,000 installs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

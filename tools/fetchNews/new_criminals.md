@@ -11,6 +11,24 @@ nav_order: 900031
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Colombian authorities arrested hacker behind the Gozi Virus<a href="https://securityaffairs.co/wordpress/119550/cyber-crime/hacker-gozi-virus-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colombian authorities arrested a Romanian hacker who is wanted in the U.S. for distributing the Gozi virus that already infected more than a million computers.
+
+
+
+Colombian officials announced the arrest of the Romanian hacker Mihai Ionut Paunescu who is wanted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Authorities Seize DoubleVPN Service Used by Cybercriminals<a href="https://thehackernews.com/2021/06/authorities-seize-doublevpn-service.html"> Full Text</a>
 </p>
 <details>

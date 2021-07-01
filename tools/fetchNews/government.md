@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators propose bill to help private sector defend against hackers<a href="https://thehill.com//policy/cybersecurity/560835-senators-propose-bill-to-help-private-sector-defend-against-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Steve Daines (R-Mont.) and Sheldon WhitehouseSheldon WhitehouseCongress needs to push Garland to unravel DOJ surveillance scandal The weird story behind Sheldon Whitehouse's beach club furor&nbsp; The Hill's Sustainability Report — Presented by NextEra Energy — Philippine flies turn trash into beef MORE (D-R.I.) on Wednesday introduced a bill that would take steps to potentially allow private sector companies to strike back at hackers launching attacks against their operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Security Council Confronts Growing Threat of Cyber Attacks<a href="https://www.securityweek.com/un-security-council-confronts-growing-threat-cyber-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UN Security Council on Tuesday will hold its first formal public meeting on cybersecurity, addressing the growing threat of hacks to countries' critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Urges NASA to Improve Cybersecurity Risk Management<a href="https://www.govinfosecurity.com/report-urges-nasa-to-improve-cybersecurity-risk-management-a-16958?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GAO is urging NASA's administrator to make multiple improvements to its cybersecurity and risk management policies to counter threats to it's network infrastructure and data, as per a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

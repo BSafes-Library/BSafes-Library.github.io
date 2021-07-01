@@ -11,6 +11,20 @@ nav_order: 900163
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Facebook sues hackers who hijacked advertising agencies' accounts<a href="https://www.bleepingcomputer.com/news/security/facebook-sues-hackers-who-hijacked-advertising-agencies-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has filed lawsuits against two groups of suspects who took over advertising agency employees' accounts and abused its ad platform to run unauthorized or deceptive ads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russian-based DoubleVPN seized by law enforcement<a href="https://securityaffairs.co/wordpress/119535/cyber-crime/doublevpn-seized-law-enforcement.html"> Full Text</a>
 </p>
 <details>
