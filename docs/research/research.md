@@ -93,6 +93,18 @@ Gig workers have been on the frontlines of the coronavirus pandemic, providing e
 May 7, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• How the Growth of Technology has Forced Accounting Firms to put an Emphasis on Cybersecurity [HTML](https://papers.bsafes.com/docs/data-protection/how-the-growth-of-technology-has-forced-accounting-firms-to-put-an-emphasis-on-cybersecurity/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The advancement of technology has brought many changes to accounting firms. Computer applications such as Microsoft Excel have made calculators and physical spreadsheets obsolete. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Handle with Care: Domestic Violence Safety Planning in the Age of Data Privacy Laws [HTML](https://papers.bsafes.com/docs/law/handle-with-care-domestic-violence-safety-planning-in-the-age-of-data-privacy-law/)
 </p>
 <details>
