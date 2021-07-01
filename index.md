@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When it’s personal: Dueling attitudes emerge toward paying ransomware demands<a href="https://www.scmagazine.com/home/security-news/ransomware/when-its-personal-dueling-attitudes-emerge-toward-paying-ransomware-demands/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+72% of school district parents would support paying, while 79% of online poll respondents are against it. One possible reason for the disparity: having something personally at stake. So what are businesses’ customer expectations?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

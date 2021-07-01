@@ -813,6 +813,18 @@ A robust public debate is currently underway about the responsibility of online 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2019
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Future of Cybercrime Prevention Strategies: Human Factors and A Holistic Approach to Cyber Intelligence [HTML](https://papers.bsafes.com/docs/cybercrime/the-future-of-cybercrime-prevention-strategies-human-factors-and-a-holistic-approach-to-cyber-intelligence/)
+</p>
+<details>
+  <summary>Abstract</summary>
+New technology is rapidly emerging to fight increasing cybercrime threats, however, there is one important component of a cybercrime that technology cannot always impact and that is human behavior.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 19, 2019
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
