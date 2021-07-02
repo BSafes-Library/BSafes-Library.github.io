@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NSA, FBI Reveal Hacking Methods Used by Russian Military Hackers<a href="https://thehackernews.com/2021/07/nsa-fbi-reveal-hacking-methods-used-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing brute-force attack campaign targeting enterprise cloud environments has been spearheaded by the Russian military intelligence since mid-2019, according to a joint advisory published by intelligence agencies in the U.K. and U.S.  The National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and the U.K.'s National Cyber Security Centre (NCSC) formally attributed the incursions to the Russian General Staff Main Intelligence Directorate (GRU) 85th Main Special Service Center (GTsSS).   The  threat actor  is also tracked under various monikers, including  APT28  (FireEye Mandiant),  Fancy Bear  (CrowdStrike),  Sofacy  (Kaspersky),  STRONTIUM  (Microsoft), and  Iron Twilight  (Secureworks).  APT28 has a track record of using password spray and brute-force login attempts to steal login credentials. In November 2020, Microsoft  disclosed  cyberattacks staged by the adversary aimed at companies involved in re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Critical "PrintNightmare" Flaw Being Exploited in the Wild<a href="https://thehackernews.com/2021/07/microsoft-warns-of-critical.html"> Full Text</a>
 </p>
 <details>
